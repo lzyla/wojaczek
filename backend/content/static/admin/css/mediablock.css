@@ -1,64 +1,154 @@
 /*
  * Wojaczek Admin — Black & White Editorial Theme
- * Góra: czarna | Tło: białe | Tekst: czarny | Linie: czarne
+ * Czarny header, białe tło, czarny tekst, spójne fonty i odstępy
  */
 
-@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=Inter:wght@300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,700;1,400&family=Inter:wght@300;400;500;600;700&display=swap');
 
 /* ===================================================================
-   ROOT VARIABLES
+   CSS VARIABLES
    =================================================================== */
 :root {
-    --primary: #000000;
-    --accent: #000000;
-    --secondary: #000000;
-    --primary-fg: #ffffff;
-    --body-fg: #000000;
-    --body-bg: #ffffff;
-    --body-quiet-color: #555555;
-    --body-loud-color: #000000;
-    --header-color: #ffffff;
-    --header-bg: #000000;
-    --header-link-color: #ffffff;
-    --breadcrumbs-fg: #cccccc;
-    --breadcrumbs-link-fg: #ffffff;
-    --breadcrumbs-bg: #111111;
-    --link-fg: #000000;
-    --link-hover-color: #000000;
-    --link-selected-fg: #000000;
-    --hairline-color: #000000;
-    --border-color: #000000;
-    --darkened-bg: #ffffff;
-    --selected-bg: #f5f5f5;
-    --selected-row: #f5f5f5;
-    --button-fg: #ffffff;
-    --button-bg: #000000;
-    --button-hover-bg: #333333;
-    --default-button-bg: #000000;
-    --default-button-hover-bg: #333333;
-    --close-button-bg: #555555;
-    --close-button-hover-bg: #000000;
-    --object-tools-fg: #ffffff;
-    --object-tools-bg: #000000;
+    --ink:    #000000;
+    --paper:  #ffffff;
+    --mist:   #f4f4f4;
+    --border: #d0d0d0;
+    --quiet:  #666666;
+
+    --font-body: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+    --font-serif: 'Playfair Display', Georgia, serif;
+
+    --space-xs:  4px;
+    --space-sm:  8px;
+    --space-md:  16px;
+    --space-lg:  24px;
+    --space-xl:  40px;
+
+    /* Django admin overrides */
+    --primary:            #000000;
+    --accent:             #000000;
+    --primary-fg:         #ffffff;
+    --body-fg:            #000000;
+    --body-bg:            #ffffff;
+    --header-bg:          #000000;
+    --header-color:       #ffffff;
+    --header-link-color:  #ffffff;
+    --breadcrumbs-bg:     #111111;
+    --breadcrumbs-fg:     #aaaaaa;
+    --breadcrumbs-link-fg:#ffffff;
+    --hairline-color:     #d0d0d0;
+    --border-color:       #d0d0d0;
+    --darkened-bg:        #f4f4f4;
+    --selected-bg:        #f4f4f4;
+    --button-bg:          #000000;
+    --button-fg:          #ffffff;
+    --button-hover-bg:    #333333;
+    --default-button-bg:  #000000;
+    --object-tools-bg:    #000000;
+    --object-tools-fg:    #ffffff;
     --object-tools-hover-bg: #333333;
 }
 
 /* ===================================================================
-   GLOBAL
+   RESET & BASE
    =================================================================== */
 *, *::before, *::after {
     border-radius: 0 !important;
+    box-sizing: border-box;
 }
 
 body {
-    font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif !important;
+    font-family: var(--font-body) !important;
+    font-size: 14px !important;
+    line-height: 1.6 !important;
+    color: var(--ink) !important;
+    background: var(--paper) !important;
     -webkit-font-smoothing: antialiased;
-    background: #ffffff !important;
-    color: #000000 !important;
+    -moz-osx-font-smoothing: grayscale;
 }
 
+/* ===================================================================
+   TYPOGRAPHY — consistent scale
+   =================================================================== */
+h1, h2, h3, h4 {
+    font-family: var(--font-body) !important;
+    font-weight: 700 !important;
+    line-height: 1.2 !important;
+    color: var(--ink) !important;
+    margin: 0 !important;
+}
+
+/* Page title: serif */
+#content h1 {
+    font-family: var(--font-serif) !important;
+    font-size: 26px !important;
+    letter-spacing: -0.02em !important;
+    font-weight: 700 !important;
+    margin-bottom: var(--space-xs) !important;
+}
+
+/* Object subtitle (e.g. "Dom Rodzinny") */
+.colM > h2:first-of-type {
+    font-family: var(--font-serif) !important;
+    font-style: italic !important;
+    font-size: 16px !important;
+    font-weight: 400 !important;
+    color: var(--quiet) !important;
+    background: transparent !important;
+    padding: 0 !important;
+    text-transform: none !important;
+    letter-spacing: 0 !important;
+    margin-bottom: var(--space-md) !important;
+}
+
+/* Section headings (caps labels) */
+.module h2,
+.module caption,
+fieldset.module h2,
+.inline-group h2 {
+    font-family: var(--font-body) !important;
+    font-size: 10px !important;
+    font-weight: 700 !important;
+    letter-spacing: 0.14em !important;
+    text-transform: uppercase !important;
+    background: var(--ink) !important;
+    color: var(--paper) !important;
+    padding: 10px var(--space-md) !important;
+    margin: 0 !important;
+}
+
+.module h2 a, .module caption a,
+.inline-group h2 a {
+    color: var(--paper) !important;
+    text-decoration: none !important;
+}
+
+/* Form labels */
+label, .form-row label {
+    font-family: var(--font-body) !important;
+    font-size: 10px !important;
+    font-weight: 700 !important;
+    letter-spacing: 0.1em !important;
+    text-transform: uppercase !important;
+    color: var(--ink) !important;
+    display: block !important;
+    margin-bottom: var(--space-xs) !important;
+}
+
+/* Help text */
+.help, p.help, .inline-related .help {
+    font-family: var(--font-body) !important;
+    font-size: 11px !important;
+    font-style: italic !important;
+    color: var(--quiet) !important;
+    margin-top: var(--space-xs) !important;
+}
+
+/* ===================================================================
+   LINKS
+   =================================================================== */
 a {
-    color: #000000 !important;
+    color: var(--ink) !important;
     text-decoration: none !important;
 }
 
@@ -67,48 +157,47 @@ a:hover {
 }
 
 /* ===================================================================
-   HEADER — czarny pasek
+   HEADER
    =================================================================== */
 #header {
-    background: #000000 !important;
-    color: #ffffff !important;
-    padding: 14px 24px !important;
+    background: var(--ink) !important;
+    color: var(--paper) !important;
+    padding: var(--space-sm) var(--space-lg) !important;
+    display: flex !important;
+    align-items: center !important;
     border-bottom: none !important;
 }
 
-#header a:link, #header a:visited {
-    color: #ffffff !important;
+#branding h1 {
+    font-family: var(--font-serif) !important;
+    font-size: 17px !important;
+    font-weight: 700 !important;
+    letter-spacing: -0.02em !important;
+    color: var(--paper) !important;
+    line-height: 1.2 !important;
 }
 
-#header a:hover {
-    color: #cccccc !important;
+#branding h1 a, #branding h1 a:link, #branding h1 a:visited {
+    color: var(--paper) !important;
     text-decoration: none !important;
 }
 
-#branding h1,
-#branding h1 a {
-    font-family: 'Playfair Display', serif !important;
-    font-weight: 700 !important;
-    font-size: 20px !important;
-    letter-spacing: -0.02em !important;
-    color: #ffffff !important;
-}
-
 #user-tools {
-    font-family: 'Inter', sans-serif !important;
-    font-size: 11px !important;
+    font-family: var(--font-body) !important;
+    font-size: 10px !important;
     font-weight: 500 !important;
     letter-spacing: 0.08em !important;
     text-transform: uppercase !important;
-    color: #ffffff !important;
+    color: var(--paper) !important;
 }
 
-#user-tools a {
-    color: #ffffff !important;
+#user-tools a, #user-tools a:link, #user-tools a:visited {
+    color: var(--paper) !important;
+    text-decoration: none !important;
 }
 
 #user-tools a:hover {
-    color: #cccccc !important;
+    text-decoration: underline !important;
 }
 
 /* ===================================================================
@@ -116,61 +205,74 @@ a:hover {
    =================================================================== */
 div.breadcrumbs {
     background: #111111 !important;
-    color: #cccccc !important;
-    padding: 8px 24px !important;
-    font-size: 11px !important;
-    letter-spacing: 0.05em !important;
+    color: #aaaaaa !important;
+    padding: var(--space-sm) var(--space-lg) !important;
+    font-family: var(--font-body) !important;
+    font-size: 10px !important;
+    font-weight: 500 !important;
+    letter-spacing: 0.1em !important;
     text-transform: uppercase !important;
     border-bottom: none !important;
 }
 
-div.breadcrumbs a {
-    color: #ffffff !important;
+div.breadcrumbs a, div.breadcrumbs a:link {
+    color: #cccccc !important;
+    text-decoration: none !important;
 }
 
 div.breadcrumbs a:hover {
-    color: #cccccc !important;
+    color: var(--paper) !important;
     text-decoration: none !important;
+}
+
+/* ===================================================================
+   CONTENT WRAPPER
+   =================================================================== */
+#content {
+    padding: var(--space-lg) var(--space-lg) !important;
+    background: var(--paper) !important;
+}
+
+#content-main {
+    background: var(--paper) !important;
 }
 
 /* ===================================================================
    SIDEBAR
    =================================================================== */
 #nav-sidebar {
-    background: #ffffff !important;
-    border-right: 1px solid #000000 !important;
+    background: var(--paper) !important;
+    border-right: 1px solid var(--border) !important;
 }
 
 #nav-sidebar .module caption {
-    background: #000000 !important;
-    padding: 10px 16px !important;
+    background: var(--ink) !important;
+    padding: var(--space-sm) var(--space-md) !important;
 }
 
 #nav-sidebar .module caption a {
-    color: #ffffff !important;
-    font-family: 'Inter', sans-serif !important;
+    color: var(--paper) !important;
+    font-family: var(--font-body) !important;
     font-size: 10px !important;
     font-weight: 700 !important;
-    letter-spacing: 0.15em !important;
+    letter-spacing: 0.14em !important;
     text-transform: uppercase !important;
-}
-
-#nav-sidebar .module caption a:hover {
-    color: #cccccc !important;
     text-decoration: none !important;
 }
 
 #nav-sidebar .module th {
+    font-family: var(--font-body) !important;
     font-size: 13px !important;
     font-weight: 400 !important;
-    background: #ffffff !important;
-    color: #000000 !important;
-    padding: 8px 16px !important;
-    border-bottom: 1px solid #e0e0e0 !important;
+    background: var(--paper) !important;
+    color: var(--ink) !important;
+    padding: 9px var(--space-md) !important;
+    border-bottom: 1px solid var(--border) !important;
 }
 
 #nav-sidebar .module th a {
-    color: #000000 !important;
+    color: var(--ink) !important;
+    text-decoration: none !important;
 }
 
 #nav-sidebar .module th a:hover {
@@ -178,139 +280,112 @@ div.breadcrumbs a:hover {
 }
 
 #nav-sidebar .current-model {
-    background: #f5f5f5 !important;
+    background: var(--mist) !important;
 }
 
 /* ===================================================================
-   CONTENT AREA
+   DASHBOARD MODULE
    =================================================================== */
-#content {
-    font-family: 'Inter', sans-serif !important;
-    background: #ffffff !important;
+.module {
+    border: 1px solid var(--ink) !important;
+    background: var(--paper) !important;
+    margin-bottom: var(--space-md) !important;
 }
 
-#content-main {
-    background: #ffffff !important;
+.dashboard .module table td,
+.dashboard .module table th {
+    font-family: var(--font-body) !important;
+    font-size: 13px !important;
+    padding: 10px var(--space-md) !important;
+    border-bottom: 1px solid var(--border) !important;
+    background: var(--paper) !important;
+    color: var(--ink) !important;
 }
 
-#content h1,
-#content-main h1 {
-    font-family: 'Playfair Display', serif !important;
-    font-weight: 700 !important;
-    font-size: 28px !important;
-    letter-spacing: -0.03em !important;
-    color: #000000 !important;
-    margin-bottom: 4px !important;
-}
-
-/* Object subtitle */
-.colM > h2:first-of-type {
-    font-family: 'Playfair Display', serif !important;
-    font-size: 18px !important;
-    letter-spacing: -0.02em !important;
-    text-transform: none !important;
-    background: transparent !important;
-    color: #555555 !important;
-    padding: 0 !important;
-    font-weight: 400 !important;
-}
-
-/* Module captions */
-.module h2, .module caption {
-    font-family: 'Inter', sans-serif !important;
-    font-size: 11px !important;
-    font-weight: 700 !important;
-    letter-spacing: 0.12em !important;
-    text-transform: uppercase !important;
-    background: #000000 !important;
-    color: #ffffff !important;
-    padding: 10px 16px !important;
-}
-
-.module h2 a, .module caption a {
-    color: #ffffff !important;
-}
-
-.module h2 a:hover, .module caption a:hover {
-    color: #cccccc !important;
-    text-decoration: none !important;
-}
-
-/* Fieldset headings */
-fieldset.module h2 {
-    font-family: 'Inter', sans-serif !important;
-    font-size: 11px !important;
-    font-weight: 700 !important;
-    letter-spacing: 0.12em !important;
-    text-transform: uppercase !important;
-    background: #000000 !important;
-    color: #ffffff !important;
-    padding: 10px 16px !important;
+.dashboard .module table tr:last-child td {
+    border-bottom: none !important;
 }
 
 /* ===================================================================
-   FIELDSETS
+   FIELDSETS & FORM ROWS
    =================================================================== */
 fieldset {
-    border: 1px solid #000000 !important;
-    background: #ffffff !important;
-    margin-bottom: 20px !important;
+    border: 1px solid var(--ink) !important;
+    background: var(--paper) !important;
+    margin-bottom: var(--space-md) !important;
+    padding: 0 !important;
 }
 
 .form-row {
-    border-bottom: 1px solid #e0e0e0 !important;
-    padding: 10px 0 !important;
-    background: #ffffff !important;
+    padding: var(--space-sm) var(--space-md) !important;
+    border-bottom: 1px solid var(--border) !important;
+    background: var(--paper) !important;
+    margin: 0 !important;
 }
 
 .form-row:last-child {
     border-bottom: none !important;
 }
 
-.form-row label {
-    font-size: 11px !important;
-    font-weight: 700 !important;
-    letter-spacing: 0.05em !important;
-    color: #000000 !important;
-    text-transform: uppercase !important;
+/* Aligned layout fix */
+.aligned label {
+    width: 160px !important;
+    padding-right: var(--space-md) !important;
 }
 
 /* ===================================================================
-   INPUTS
+   INPUTS & TEXTAREA & SELECT
    =================================================================== */
 input[type="text"],
 input[type="url"],
 input[type="number"],
 input[type="password"],
 input[type="email"],
+input[type="search"],
 textarea,
-select,
-.vTextField,
-.vURLField,
-.vLargeTextField {
-    font-family: 'Inter', sans-serif !important;
-    border: 1px solid #000000 !important;
-    padding: 8px 10px !important;
+select {
+    font-family: var(--font-body) !important;
     font-size: 13px !important;
-    color: #000000 !important;
-    background: #ffffff !important;
+    line-height: 1.5 !important;
+    color: var(--ink) !important;
+    background: var(--paper) !important;
+    border: 1px solid var(--ink) !important;
+    padding: var(--space-sm) 10px !important;
+    width: 100% !important;
+    max-width: 100% !important;
+    transition: none !important;
 }
 
-input:focus,
+input[type="text"]:focus,
+input[type="url"]:focus,
+input[type="number"]:focus,
+input[type="password"]:focus,
 textarea:focus,
 select:focus {
-    outline: 2px solid #000000 !important;
-    outline-offset: 0 !important;
+    outline: 2px solid var(--ink) !important;
+    outline-offset: -1px !important;
     box-shadow: none !important;
+}
+
+textarea {
+    min-height: 120px !important;
+    resize: vertical !important;
 }
 
 select {
     -webkit-appearance: none !important;
     appearance: none !important;
-    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 12 12'%3E%3Cpath d='M2 4l4 4 4-4' stroke='%23000000' fill='none' stroke-width='1.5'/%3E%3C/svg%3E") !important;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='10' height='10' viewBox='0 0 10 10'%3E%3Cpath d='M1 3l4 4 4-4' stroke='%23000' fill='none' stroke-width='1.5'/%3E%3C/svg%3E") !important;
     background-repeat: no-repeat !important;
     background-position: right 10px center !important;
-    padding-right: 32px !important;
+    padding-right: 28px !important;
+}
+
+/* Small number inputs */
+.form-row input[type="number"],
+.form-row.field-order input {
+    width: 80px !important;
+    max-width: 80px !important;
 }
 
 /* ===================================================================
@@ -319,133 +394,155 @@ select {
 input[type="submit"],
 .submit-row input,
 .button,
-a.button {
-    font-family: 'Inter', sans-serif !important;
-    font-size: 11px !important;
+a.button,
+.object-tools a {
+    font-family: var(--font-body) !important;
+    font-size: 10px !important;
     font-weight: 700 !important;
-    letter-spacing: 0.1em !important;
+    letter-spacing: 0.12em !important;
     text-transform: uppercase !important;
-    border: 1px solid #000000 !important;
-    padding: 10px 20px !important;
-    background: #000000 !important;
-    color: #ffffff !important;
+    border: 1px solid var(--ink) !important;
+    padding: 9px var(--space-md) !important;
+    background: var(--ink) !important;
+    color: var(--paper) !important;
     cursor: pointer !important;
+    text-decoration: none !important;
+    display: inline-block !important;
+    line-height: 1 !important;
 }
 
 input[type="submit"]:hover,
 .submit-row input:hover,
 .button:hover,
-a.button:hover {
+a.button:hover,
+.object-tools a:hover {
     background: #333333 !important;
     border-color: #333333 !important;
     text-decoration: none !important;
 }
 
 .submit-row {
-    background: #ffffff !important;
-    border: 1px solid #000000 !important;
-    padding: 16px !important;
+    background: var(--mist) !important;
+    border: 1px solid var(--border) !important;
+    border-top: 2px solid var(--ink) !important;
+    padding: var(--space-md) !important;
+    margin-top: var(--space-md) !important;
+    display: flex !important;
+    gap: var(--space-sm) !important;
+    align-items: center !important;
 }
 
 .submit-row a.deletelink {
-    color: #000000 !important;
-    font-size: 11px !important;
-    font-weight: 700 !important;
-    letter-spacing: 0.1em !important;
-    text-transform: uppercase !important;
-    text-decoration: underline !important;
-}
-
-/* ===================================================================
-   OBJECT TOOLS
-   =================================================================== */
-.object-tools a {
-    font-family: 'Inter', sans-serif !important;
+    font-family: var(--font-body) !important;
     font-size: 10px !important;
     font-weight: 700 !important;
     letter-spacing: 0.1em !important;
     text-transform: uppercase !important;
-    background: #000000 !important;
-    color: #ffffff !important;
-    padding: 6px 14px !important;
-    border: 1px solid #000000 !important;
-}
-
-.object-tools a:hover {
-    background: #333333 !important;
-    text-decoration: none !important;
+    color: var(--ink) !important;
+    text-decoration: underline !important;
+    margin-left: auto !important;
 }
 
 /* ===================================================================
-   TABLES (list views)
+   OBJECT TOOLS (top-right)
    =================================================================== */
-#result_list table {
-    border: 1px solid #000000 !important;
+.object-tools {
+    margin-bottom: var(--space-md) !important;
+}
+
+/* ===================================================================
+   LIST VIEW TABLE
+   =================================================================== */
+#result_list {
+    border: 1px solid var(--ink) !important;
+    width: 100% !important;
 }
 
 #result_list th {
-    font-family: 'Inter', sans-serif !important;
-    font-size: 11px !important;
+    font-family: var(--font-body) !important;
+    font-size: 10px !important;
     font-weight: 700 !important;
-    letter-spacing: 0.08em !important;
+    letter-spacing: 0.1em !important;
     text-transform: uppercase !important;
-    background: #000000 !important;
-    color: #ffffff !important;
-    padding: 10px 12px !important;
-    border-bottom: none !important;
+    background: var(--ink) !important;
+    color: var(--paper) !important;
+    padding: 10px var(--space-md) !important;
+    border: none !important;
+    white-space: nowrap !important;
 }
 
 #result_list th a {
-    color: #ffffff !important;
-}
-
-#result_list th a:hover {
-    color: #cccccc !important;
+    color: var(--paper) !important;
     text-decoration: none !important;
 }
 
 #result_list td {
+    font-family: var(--font-body) !important;
     font-size: 13px !important;
-    border-bottom: 1px solid #e0e0e0 !important;
-    padding: 10px 12px !important;
-    background: #ffffff !important;
-    color: #000000 !important;
+    border-bottom: 1px solid var(--border) !important;
+    padding: 10px var(--space-md) !important;
+    background: var(--paper) !important;
+    color: var(--ink) !important;
+    vertical-align: middle !important;
+}
+
+#result_list tr:last-child td {
+    border-bottom: none !important;
 }
 
 #result_list tr:hover td {
-    background: #f5f5f5 !important;
+    background: var(--mist) !important;
 }
 
 #result_list td a {
-    color: #000000 !important;
+    color: var(--ink) !important;
+    font-weight: 500 !important;
+    text-decoration: none !important;
 }
 
 #result_list td a:hover {
     text-decoration: underline !important;
 }
 
-/* Changelist */
+/* Filter sidebar */
 #changelist-filter {
-    background: #ffffff !important;
-    border: 1px solid #000000 !important;
+    background: var(--paper) !important;
+    border: 1px solid var(--ink) !important;
+    padding: 0 !important;
 }
 
 #changelist-filter h2 {
-    background: #000000 !important;
-    color: #ffffff !important;
+    background: var(--ink) !important;
+    color: var(--paper) !important;
+    font-family: var(--font-body) !important;
+    font-size: 10px !important;
+    font-weight: 700 !important;
+    letter-spacing: 0.14em !important;
+    text-transform: uppercase !important;
+    padding: 10px var(--space-md) !important;
+    margin: 0 !important;
 }
 
 #changelist-filter h3 {
-    font-family: 'Inter', sans-serif !important;
-    font-size: 11px !important;
+    font-family: var(--font-body) !important;
+    font-size: 10px !important;
     font-weight: 700 !important;
-    letter-spacing: 0.08em !important;
+    letter-spacing: 0.1em !important;
     text-transform: uppercase !important;
-    color: #000000 !important;
+    color: var(--ink) !important;
+    padding: var(--space-sm) var(--space-md) 0 !important;
+    margin: 0 !important;
+}
+
+#changelist-filter li {
+    font-family: var(--font-body) !important;
+    font-size: 13px !important;
+    padding: 2px var(--space-md) !important;
 }
 
 #changelist-filter li a {
-    color: #000000 !important;
+    color: var(--ink) !important;
+    text-decoration: none !important;
 }
 
 #changelist-filter li.selected a {
@@ -453,141 +550,123 @@ a.button:hover {
     text-decoration: underline !important;
 }
 
-/* ===================================================================
-   MODULE (dashboard)
-   =================================================================== */
-.module {
-    border: 1px solid #000000 !important;
-    background: #ffffff !important;
-    margin-bottom: 20px !important;
+/* Search */
+#searchbar {
+    border: 1px solid var(--ink) !important;
+    font-family: var(--font-body) !important;
+    font-size: 13px !important;
+    padding: var(--space-sm) 10px !important;
 }
 
 /* ===================================================================
    MESSAGES
    =================================================================== */
-.messagelist li {
-    font-family: 'Inter', sans-serif !important;
-    font-size: 13px !important;
-    background: #000000 !important;
-    color: #ffffff !important;
-    padding: 12px 16px !important;
-    border: none !important;
+.messagelist {
+    padding: 0 !important;
+    margin-bottom: var(--space-md) !important;
 }
 
-.messagelist li.success {
-    background: #000000 !important;
-    color: #ffffff !important;
+.messagelist li {
+    font-family: var(--font-body) !important;
+    font-size: 13px !important;
+    background: var(--ink) !important;
+    color: var(--paper) !important;
+    padding: var(--space-sm) var(--space-md) !important;
+    border: none !important;
+    list-style: none !important;
+    margin-bottom: 2px !important;
 }
 
 .messagelist li.error {
     background: #333333 !important;
-    color: #ffffff !important;
 }
 
 /* ===================================================================
-   INLINE (MediaBlock)
+   INLINE (MediaBlocks)
    =================================================================== */
-.inline-group h2 {
-    background: #000000 !important;
-    color: #ffffff !important;
-    font-family: 'Inter', sans-serif !important;
-    font-size: 10px !important;
-    font-weight: 700 !important;
-    letter-spacing: 0.15em !important;
-    text-transform: uppercase !important;
-    padding: 12px 16px !important;
+.inline-group {
+    margin-top: var(--space-lg) !important;
+    border: 1px solid var(--ink) !important;
 }
 
 .inline-related.has_original,
 .inline-related:not(.empty-form) {
-    border: 1px solid #000000 !important;
-    margin-bottom: 2px !important;
+    border: none !important;
+    border-bottom: 1px solid var(--border) !important;
+    margin: 0 !important;
     padding: 0 !important;
-    background: #ffffff !important;
+    background: var(--paper) !important;
+}
+
+.inline-related:last-of-type {
+    border-bottom: none !important;
 }
 
 .inline-related h3 {
-    background: #f5f5f5 !important;
-    color: #000000 !important;
-    padding: 10px 16px !important;
+    background: var(--mist) !important;
+    color: var(--ink) !important;
+    padding: var(--space-sm) var(--space-md) !important;
     margin: 0 !important;
-    font-family: 'Inter', sans-serif !important;
-    font-size: 11px !important;
+    font-family: var(--font-body) !important;
+    font-size: 10px !important;
     font-weight: 700 !important;
-    letter-spacing: 0.05em !important;
+    letter-spacing: 0.1em !important;
     text-transform: uppercase !important;
-    border-bottom: 1px solid #000000 !important;
+    border-bottom: 1px solid var(--border) !important;
 }
 
 .inline-related h3 .inline_label {
-    color: #000000 !important;
+    color: var(--ink) !important;
 }
 
 .inline-related .form-row {
-    padding: 8px 16px !important;
-    border-bottom: 1px solid #e0e0e0 !important;
-    background: #ffffff !important;
+    padding: var(--space-sm) var(--space-md) !important;
+    border-bottom: 1px solid var(--border) !important;
+    background: var(--paper) !important;
 }
 
 .inline-related .form-row:last-child {
     border-bottom: none !important;
 }
 
+/* Type dropdown */
 .form-row.field-type select {
-    font-family: 'Inter', sans-serif !important;
-    font-size: 12px !important;
     font-weight: 700 !important;
     letter-spacing: 0.05em !important;
     text-transform: uppercase !important;
-    border: 1px solid #000000 !important;
-    background: #ffffff !important;
-    color: #000000 !important;
+    font-size: 12px !important;
 }
 
-.form-row.field-order input {
-    width: 60px !important;
-    text-align: center !important;
-}
-
-.inline-related textarea {
-    border: 1px solid #000000 !important;
-    padding: 10px 12px !important;
-    font-family: 'Inter', sans-serif !important;
-    font-size: 13px !important;
-    line-height: 1.6 !important;
-    color: #000000 !important;
-    background: #ffffff !important;
-}
-
+/* Delete checkbox */
 .inline-related .inline_label.vCheckboxLabel {
-    color: #000000 !important;
+    font-family: var(--font-body) !important;
+    font-size: 10px !important;
     font-weight: 700 !important;
-    font-size: 11px !important;
+    letter-spacing: 0.1em !important;
     text-transform: uppercase !important;
+    color: var(--ink) !important;
 }
 
+/* Add another row */
 .inline-group .add-row {
-    border: 1px dashed #000000 !important;
-    background: #ffffff !important;
+    border: none !important;
+    border-top: 1px dashed var(--border) !important;
+    background: var(--mist) !important;
+    padding: var(--space-sm) var(--space-md) !important;
 }
 
 .inline-group .add-row a {
-    font-family: 'Inter', sans-serif !important;
+    font-family: var(--font-body) !important;
+    font-size: 10px !important;
     font-weight: 700 !important;
-    font-size: 11px !important;
-    letter-spacing: 0.08em !important;
+    letter-spacing: 0.1em !important;
     text-transform: uppercase !important;
-    color: #000000 !important;
+    color: var(--ink) !important;
+    text-decoration: none !important;
 }
 
 .inline-group .add-row a:hover {
     text-decoration: underline !important;
-}
-
-.inline-related .help, .help {
-    font-size: 11px !important;
-    color: #555555 !important;
-    font-style: italic !important;
 }
 
 .inline-related.empty-form {
@@ -598,26 +677,40 @@ a.button:hover {
    PAGINATION
    =================================================================== */
 .paginator {
-    font-family: 'Inter', sans-serif !important;
+    font-family: var(--font-body) !important;
     font-size: 12px !important;
+    padding: var(--space-sm) 0 !important;
 }
 
 .paginator a {
-    color: #000000 !important;
-    border: 1px solid #000000 !important;
+    color: var(--ink) !important;
+    border: 1px solid var(--ink) !important;
     padding: 4px 10px !important;
+    text-decoration: none !important;
+    display: inline-block !important;
 }
 
 .paginator a:hover {
-    background: #000000 !important;
-    color: #ffffff !important;
-    text-decoration: none !important;
+    background: var(--ink) !important;
+    color: var(--paper) !important;
+}
+
+/* ===================================================================
+   LOGIN PAGE
+   =================================================================== */
+.login #header {
+    text-align: center !important;
+    padding: var(--space-md) var(--space-lg) !important;
+}
+
+.login #content-main {
+    padding: var(--space-lg) !important;
 }
 
 /* ===================================================================
    SCROLLBAR
    =================================================================== */
-::-webkit-scrollbar { width: 6px; height: 6px; }
-::-webkit-scrollbar-track { background: #ffffff; }
-::-webkit-scrollbar-thumb { background: #cccccc; }
-::-webkit-scrollbar-thumb:hover { background: #000000; }
+::-webkit-scrollbar { width: 5px; height: 5px; }
+::-webkit-scrollbar-track { background: var(--paper); }
+::-webkit-scrollbar-thumb { background: var(--border); }
+::-webkit-scrollbar-thumb:hover { background: var(--ink); }
