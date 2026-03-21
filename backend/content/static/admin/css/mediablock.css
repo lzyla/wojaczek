@@ -1,0 +1,790 @@
+/*
+ * Wojaczek Admin — Black & White Editorial Theme
+ * Matching frontend: ink #0a0a0a, paper #ffffff, seal #c23030,
+ * Playfair Display (headlines), Inter (body), sharp corners
+ */
+
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=Inter:wght@300;400;500;600;700&display=swap');
+
+/* ===================================================================
+   ROOT — override Django admin CSS variables
+   =================================================================== */
+:root {
+    --primary: #0a0a0a;
+    --accent: #c23030;
+    --secondary: #0a0a0a;
+    --primary-fg: #ffffff;
+
+    --body-fg: #0a0a0a;
+    --body-bg: #ffffff;
+    --body-quiet-color: #8a8680;
+    --body-loud-color: #0a0a0a;
+
+    --header-color: #ffffff;
+    --header-bg: #0a0a0a;
+    --header-link-color: #ffffff;
+    --breadcrumbs-fg: #b8b5b0;
+    --breadcrumbs-link-fg: #ffffff;
+    --breadcrumbs-bg: #1a1a1a;
+
+    --link-fg: #0a0a0a;
+    --link-hover-color: #c23030;
+    --link-selected-fg: #c23030;
+
+    --hairline-color: #e8e6e3;
+    --border-color: #e8e6e3;
+
+    --darkened-bg: #f7f6f5;
+    --selected-bg: #fff8f8;
+    --selected-row: #fff5f5;
+
+    --button-fg: #ffffff;
+    --button-bg: #0a0a0a;
+    --button-hover-bg: #c23030;
+    --default-button-bg: #0a0a0a;
+    --default-button-hover-bg: #c23030;
+
+    --close-button-bg: #8a8680;
+    --close-button-hover-bg: #c23030;
+
+    --object-tools-fg: #ffffff;
+    --object-tools-bg: #0a0a0a;
+    --object-tools-hover-bg: #c23030;
+
+    --font-family-primary: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+/* ===================================================================
+   GLOBAL TYPOGRAPHY
+   =================================================================== */
+body {
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif !important;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background: #ffffff !important;
+    color: #0a0a0a !important;
+}
+
+/* ===================================================================
+   HEADER — ink black bar
+   =================================================================== */
+#header {
+    background: #0a0a0a !important;
+    color: #ffffff !important;
+    padding: 12px 24px !important;
+    border-bottom: none !important;
+    letter-spacing: 0.02em;
+}
+
+#header a:link, #header a:visited {
+    color: #ffffff !important;
+}
+
+#header a:hover {
+    color: #c23030 !important;
+}
+
+#branding h1,
+#branding h1 a {
+    font-family: 'Playfair Display', serif !important;
+    font-weight: 700 !important;
+    font-size: 20px !important;
+    letter-spacing: -0.02em !important;
+    color: #ffffff !important;
+}
+
+#user-tools {
+    font-family: 'Inter', sans-serif !important;
+    font-size: 11px !important;
+    font-weight: 500 !important;
+    letter-spacing: 0.1em !important;
+    text-transform: uppercase !important;
+}
+
+/* ===================================================================
+   BREADCRUMBS
+   =================================================================== */
+div.breadcrumbs {
+    background: #1a1a1a !important;
+    color: #b8b5b0 !important;
+    padding: 8px 24px !important;
+    font-size: 11px !important;
+    letter-spacing: 0.05em !important;
+    text-transform: uppercase !important;
+    border-bottom: none !important;
+}
+
+div.breadcrumbs a {
+    color: #ffffff !important;
+}
+
+div.breadcrumbs a:hover {
+    color: #c23030 !important;
+}
+
+/* ===================================================================
+   SIDEBAR / NAV
+   =================================================================== */
+#nav-sidebar {
+    background: #fafafa !important;
+    border-right: 1px solid #e8e6e3 !important;
+}
+
+#nav-sidebar .module th {
+    font-family: 'Inter', sans-serif !important;
+    font-size: 13px !important;
+    font-weight: 500 !important;
+    background: transparent !important;
+    color: #0a0a0a !important;
+    padding: 8px 16px !important;
+    border-bottom: 1px solid #e8e6e3 !important;
+}
+
+#nav-sidebar .module th a {
+    color: #0a0a0a !important;
+}
+
+#nav-sidebar .module th a:hover {
+    color: #c23030 !important;
+}
+
+#nav-sidebar .module caption {
+    background: #0a0a0a !important;
+    padding: 10px 16px !important;
+}
+
+#nav-sidebar .module caption a {
+    color: #ffffff !important;
+    font-family: 'Inter', sans-serif !important;
+    font-size: 10px !important;
+    font-weight: 700 !important;
+    letter-spacing: 0.15em !important;
+    text-transform: uppercase !important;
+}
+
+#nav-sidebar a {
+    color: #0a0a0a !important;
+    font-size: 13px !important;
+}
+
+#nav-sidebar a:hover {
+    color: #c23030 !important;
+}
+
+#nav-sidebar .current-model {
+    background: #f0efee !important;
+}
+
+/* ===================================================================
+   CONTENT AREA
+   =================================================================== */
+#content {
+    font-family: 'Inter', sans-serif !important;
+}
+
+#content h1,
+#content-main h1 {
+    font-family: 'Playfair Display', serif !important;
+    font-weight: 700 !important;
+    font-size: 28px !important;
+    letter-spacing: -0.03em !important;
+    color: #0a0a0a !important;
+    margin-bottom: 4px !important;
+}
+
+/* Module / table captions (dashboard, sidebar) */
+.module h2, .module caption {
+    font-family: 'Inter', sans-serif !important;
+    font-size: 11px !important;
+    font-weight: 700 !important;
+    letter-spacing: 0.12em !important;
+    text-transform: uppercase !important;
+    background: #0a0a0a !important;
+    color: #ffffff !important;
+    padding: 10px 16px !important;
+    border-radius: 0 !important;
+}
+
+.module h2 a, .module caption a {
+    color: #ffffff !important;
+}
+
+.module h2 a:hover, .module caption a:hover {
+    color: #c23030 !important;
+}
+
+/* Object name subtitle (e.g. "Dom Rodzinny" below "Zmień Miejsce") */
+#content > .colM > h2:first-of-type,
+#content-main > .colM > h2:first-of-type,
+.colM > h2:first-of-type {
+    font-family: 'Playfair Display', serif !important;
+    font-size: 18px !important;
+    letter-spacing: -0.02em !important;
+    text-transform: none !important;
+    background: transparent !important;
+    color: #8a8680 !important;
+    padding: 0 !important;
+    font-weight: 400 !important;
+}
+
+/* Fieldset section headings (Lokalizacja, Media, Inne) */
+fieldset.module h2 {
+    font-family: 'Inter', sans-serif !important;
+    font-size: 11px !important;
+    font-weight: 700 !important;
+    letter-spacing: 0.12em !important;
+    text-transform: uppercase !important;
+    background: #0a0a0a !important;
+    color: #ffffff !important;
+    padding: 10px 16px !important;
+    border-radius: 0 !important;
+}
+
+/* ===================================================================
+   FIELDSETS
+   =================================================================== */
+fieldset {
+    border: 1px solid #e8e6e3 !important;
+    border-radius: 0 !important;
+    margin-bottom: 20px !important;
+}
+
+fieldset h2 {
+    margin: -1px -1px 0 -1px !important;
+}
+
+.form-row {
+    border-bottom-color: #f0efee !important;
+    padding: 10px 0 !important;
+}
+
+.form-row label {
+    font-size: 12px !important;
+    font-weight: 600 !important;
+    letter-spacing: 0.03em !important;
+    color: #0a0a0a !important;
+    text-transform: uppercase !important;
+}
+
+/* ===================================================================
+   INPUTS & TEXTAREAS
+   =================================================================== */
+input[type="text"],
+input[type="url"],
+input[type="number"],
+input[type="password"],
+input[type="email"],
+textarea,
+select,
+.vTextField,
+.vURLField,
+.vLargeTextField {
+    font-family: 'Inter', sans-serif !important;
+    border: 1px solid #e8e6e3 !important;
+    border-radius: 0 !important;
+    padding: 8px 12px !important;
+    font-size: 13px !important;
+    color: #0a0a0a !important;
+    background: #ffffff !important;
+    transition: border-color 0.15s ease !important;
+}
+
+input:focus,
+textarea:focus,
+select:focus {
+    border-color: #0a0a0a !important;
+    outline: none !important;
+    box-shadow: none !important;
+}
+
+select {
+    -webkit-appearance: none !important;
+    appearance: none !important;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 12 12'%3E%3Cpath d='M2 4l4 4 4-4' stroke='%230a0a0a' fill='none' stroke-width='1.5'/%3E%3C/svg%3E") !important;
+    background-repeat: no-repeat !important;
+    background-position: right 10px center !important;
+    padding-right: 32px !important;
+    cursor: pointer !important;
+}
+
+/* ===================================================================
+   BUTTONS
+   =================================================================== */
+input[type="submit"],
+button,
+.submit-row input,
+.button,
+a.button {
+    font-family: 'Inter', sans-serif !important;
+    font-size: 11px !important;
+    font-weight: 600 !important;
+    letter-spacing: 0.1em !important;
+    text-transform: uppercase !important;
+    border: 1px solid #0a0a0a !important;
+    border-radius: 0 !important;
+    padding: 10px 20px !important;
+    background: #0a0a0a !important;
+    color: #ffffff !important;
+    cursor: pointer !important;
+    transition: all 0.15s ease !important;
+}
+
+input[type="submit"]:hover,
+button:hover,
+.submit-row input:hover,
+.button:hover,
+a.button:hover {
+    background: #c23030 !important;
+    border-color: #c23030 !important;
+    color: #ffffff !important;
+}
+
+.submit-row {
+    background: #fafafa !important;
+    border: 1px solid #e8e6e3 !important;
+    border-radius: 0 !important;
+    padding: 16px !important;
+}
+
+/* Secondary buttons */
+.submit-row input.default {
+    background: #0a0a0a !important;
+    border-color: #0a0a0a !important;
+}
+
+.submit-row a.deletelink {
+    color: #c23030 !important;
+    font-size: 11px !important;
+    font-weight: 600 !important;
+    letter-spacing: 0.1em !important;
+    text-transform: uppercase !important;
+}
+
+.submit-row a.deletelink:hover {
+    color: #0a0a0a !important;
+    text-decoration: none !important;
+    border-bottom: 1px solid #0a0a0a !important;
+}
+
+/* ===================================================================
+   OBJECT TOOLS (top-right buttons: History etc.)
+   =================================================================== */
+.object-tools a {
+    font-family: 'Inter', sans-serif !important;
+    font-size: 10px !important;
+    font-weight: 600 !important;
+    letter-spacing: 0.1em !important;
+    text-transform: uppercase !important;
+    background: #0a0a0a !important;
+    color: #ffffff !important;
+    border-radius: 0 !important;
+    padding: 6px 14px !important;
+    border: 1px solid #0a0a0a !important;
+}
+
+.object-tools a:hover {
+    background: #c23030 !important;
+    border-color: #c23030 !important;
+}
+
+/* ===================================================================
+   TABLES (list views)
+   =================================================================== */
+#result_list table {
+    border: 1px solid #e8e6e3 !important;
+}
+
+#result_list th {
+    font-family: 'Inter', sans-serif !important;
+    font-size: 11px !important;
+    font-weight: 700 !important;
+    letter-spacing: 0.08em !important;
+    text-transform: uppercase !important;
+    background: #0a0a0a !important;
+    color: #ffffff !important;
+    border-bottom: none !important;
+    padding: 10px 12px !important;
+}
+
+#result_list th a {
+    color: #ffffff !important;
+}
+
+#result_list th a:hover {
+    color: #c23030 !important;
+}
+
+#result_list td {
+    font-size: 13px !important;
+    border-bottom: 1px solid #f0efee !important;
+    padding: 10px 12px !important;
+}
+
+#result_list tr:hover td {
+    background: #fafafa !important;
+}
+
+#result_list td a {
+    color: #0a0a0a !important;
+    font-weight: 500 !important;
+}
+
+#result_list td a:hover {
+    color: #c23030 !important;
+}
+
+/* Changelist filters */
+#changelist-filter {
+    background: #fafafa !important;
+    border: 1px solid #e8e6e3 !important;
+    border-radius: 0 !important;
+}
+
+#changelist-filter h2 {
+    font-size: 10px !important;
+    letter-spacing: 0.15em !important;
+}
+
+#changelist-filter h3 {
+    font-family: 'Inter', sans-serif !important;
+    font-size: 11px !important;
+    font-weight: 700 !important;
+    letter-spacing: 0.08em !important;
+    text-transform: uppercase !important;
+    color: #0a0a0a !important;
+}
+
+#changelist-filter li a {
+    color: #0a0a0a !important;
+}
+
+#changelist-filter li a:hover,
+#changelist-filter li.selected a {
+    color: #c23030 !important;
+}
+
+/* ===================================================================
+   LINKS
+   =================================================================== */
+a {
+    color: #0a0a0a !important;
+    text-decoration: none !important;
+    transition: color 0.15s ease !important;
+}
+
+a:hover {
+    color: #c23030 !important;
+}
+
+/* Module add links */
+.addlink, .changelink, .viewlink {
+    color: #8a8680 !important;
+    font-size: 11px !important;
+}
+
+.addlink:hover, .changelink:hover, .viewlink:hover {
+    color: #c23030 !important;
+}
+
+/* ===================================================================
+   DASHBOARD / INDEX
+   =================================================================== */
+.module {
+    border: 1px solid #e8e6e3 !important;
+    border-radius: 0 !important;
+    margin-bottom: 20px !important;
+}
+
+.dashboard #content-main .module table th {
+    background: transparent !important;
+    padding: 0 !important;
+}
+
+.dashboard #content-main .module table td a {
+    color: #0a0a0a !important;
+    font-weight: 500 !important;
+}
+
+.dashboard #content-main .module table td a:hover {
+    color: #c23030 !important;
+}
+
+/* ===================================================================
+   MESSAGES
+   =================================================================== */
+.messagelist li {
+    font-family: 'Inter', sans-serif !important;
+    font-size: 13px !important;
+    border-radius: 0 !important;
+    padding: 12px 16px !important;
+}
+
+.messagelist li.success {
+    background: #0a0a0a !important;
+    color: #ffffff !important;
+}
+
+/* ===================================================================
+   LOGIN PAGE
+   =================================================================== */
+.login #content {
+    border-radius: 0 !important;
+}
+
+.login #header {
+    border-bottom: none !important;
+}
+
+/* ===================================================================
+   INLINE (MediaBlock) — EDITORIAL STYLING
+   =================================================================== */
+
+/* Inline group heading */
+.inline-group h2 {
+    background: #0a0a0a !important;
+    color: #ffffff !important;
+    font-family: 'Inter', sans-serif !important;
+    font-size: 10px !important;
+    font-weight: 700 !important;
+    letter-spacing: 0.15em !important;
+    text-transform: uppercase !important;
+    padding: 12px 16px !important;
+    border-radius: 0 !important;
+}
+
+/* Each inline block */
+.inline-related.has_original,
+.inline-related:not(.empty-form) {
+    border: 1px solid #e8e6e3;
+    border-radius: 0;
+    margin-bottom: 2px !important;
+    padding: 0 !important;
+    background: #ffffff;
+    transition: border-color 0.15s ease;
+}
+
+.inline-related:hover {
+    border-color: #b8b5b0;
+}
+
+/* Inline block header */
+.inline-related h3 {
+    background: #fafafa !important;
+    color: #0a0a0a !important;
+    padding: 10px 16px !important;
+    margin: 0 !important;
+    border-radius: 0 !important;
+    font-family: 'Inter', sans-serif !important;
+    font-size: 11px !important;
+    font-weight: 600 !important;
+    letter-spacing: 0.05em !important;
+    text-transform: uppercase !important;
+    border-bottom: 1px solid #e8e6e3 !important;
+}
+
+.inline-related h3 .inline_label {
+    color: #0a0a0a !important;
+}
+
+/* Inline content rows */
+.inline-related .form-row {
+    padding: 8px 16px !important;
+    border-bottom: 1px solid #f5f4f3;
+}
+
+.inline-related .form-row:last-child {
+    border-bottom: none;
+}
+
+/* ---- Type dropdown — editorial accent ---- */
+.inline-related .form-row.field-type select,
+.form-row.field-type select {
+    font-family: 'Inter', sans-serif !important;
+    font-size: 12px !important;
+    font-weight: 600 !important;
+    letter-spacing: 0.05em !important;
+    text-transform: uppercase !important;
+    padding: 8px 32px 8px 12px !important;
+    border: 1px solid #0a0a0a !important;
+    border-radius: 0 !important;
+    background: #ffffff !important;
+    color: #0a0a0a !important;
+}
+
+.form-row.field-type label {
+    font-weight: 700 !important;
+    color: #0a0a0a !important;
+}
+
+/* ---- Order field ---- */
+.form-row.field-order input {
+    width: 60px;
+    text-align: center;
+    font-weight: 600 !important;
+}
+
+/* ---- Textarea ---- */
+.inline-related textarea {
+    border: 1px solid #e8e6e3 !important;
+    border-radius: 0 !important;
+    padding: 10px 12px !important;
+    font-family: 'Inter', sans-serif !important;
+    font-size: 13px !important;
+    line-height: 1.6 !important;
+    color: #0a0a0a !important;
+}
+
+.inline-related textarea:focus {
+    border-color: #0a0a0a !important;
+    outline: none !important;
+    box-shadow: none !important;
+}
+
+/* ---- Color picker ---- */
+.form-row.field-poem_background input[type="color"] {
+    cursor: pointer;
+    border: 1px solid #e8e6e3;
+    border-radius: 0;
+    padding: 0;
+}
+
+/* ---- Delete checkbox ---- */
+.inline-related .inline_label.vCheckboxLabel {
+    color: #c23030 !important;
+    font-weight: 600 !important;
+    font-size: 11px !important;
+    letter-spacing: 0.05em !important;
+    text-transform: uppercase !important;
+}
+
+/* ---- "Add another" ---- */
+.inline-group .add-row {
+    border: 1px dashed #e8e6e3 !important;
+    background: #fafafa !important;
+    border-radius: 0 !important;
+    margin-top: -2px !important;
+}
+
+.inline-group .add-row a {
+    font-family: 'Inter', sans-serif !important;
+    font-weight: 600 !important;
+    font-size: 11px !important;
+    letter-spacing: 0.08em !important;
+    text-transform: uppercase !important;
+    color: #0a0a0a !important;
+}
+
+.inline-group .add-row a:hover {
+    color: #c23030 !important;
+}
+
+/* ---- Help text ---- */
+.inline-related .help,
+.help {
+    font-size: 11px !important;
+    color: #b8b5b0 !important;
+    margin-top: 4px !important;
+    font-style: italic !important;
+}
+
+/* ---- Empty form ---- */
+.inline-related.empty-form {
+    display: none !important;
+}
+
+/* ===================================================================
+   RELATED WIDGET WRAPPER (+ pencil icons)
+   =================================================================== */
+.related-widget-wrapper .related-lookup,
+.related-widget-wrapper .change-related,
+.related-widget-wrapper .add-related,
+.related-widget-wrapper .delete-related {
+    border-radius: 0 !important;
+}
+
+/* ===================================================================
+   PAGINATION
+   =================================================================== */
+.paginator {
+    font-family: 'Inter', sans-serif !important;
+    font-size: 12px !important;
+    letter-spacing: 0.03em !important;
+}
+
+.paginator a {
+    color: #0a0a0a !important;
+    border: 1px solid #e8e6e3 !important;
+    border-radius: 0 !important;
+    padding: 4px 10px !important;
+}
+
+.paginator a:hover {
+    background: #0a0a0a !important;
+    color: #ffffff !important;
+    border-color: #0a0a0a !important;
+}
+
+/* ===================================================================
+   THEME TOGGLE & MISC — override dark mode defaults
+   =================================================================== */
+#toggle-nav-sidebar {
+    border-radius: 0 !important;
+}
+
+/* Scrollbar minimal styling */
+::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+}
+
+::-webkit-scrollbar-track {
+    background: #ffffff;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #e8e6e3;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #b8b5b0;
+}
+
+/* ===================================================================
+   DARK MODE OVERRIDE — keep black & white theme
+   =================================================================== */
+@media (prefers-color-scheme: dark) {
+    :root {
+        --primary: #ffffff;
+        --accent: #c23030;
+        --secondary: #ffffff;
+        --primary-fg: #0a0a0a;
+
+        --body-fg: #e8e6e3;
+        --body-bg: #0a0a0a;
+        --body-quiet-color: #8a8680;
+        --body-loud-color: #ffffff;
+
+        --header-color: #0a0a0a;
+        --header-bg: #ffffff;
+        --header-link-color: #0a0a0a;
+        --breadcrumbs-fg: #8a8680;
+        --breadcrumbs-link-fg: #0a0a0a;
+        --breadcrumbs-bg: #f0efee;
+
+        --link-fg: #e8e6e3;
+        --link-hover-color: #c23030;
+
+        --hairline-color: #2a2a2a;
+        --border-color: #2a2a2a;
+
+        --darkened-bg: #151515;
+        --selected-bg: #1a1515;
+        --selected-row: #1a1515;
+
+        --button-fg: #0a0a0a;
+        --button-bg: #ffffff;
+        --button-hover-bg: #c23030;
+        --default-button-bg: #ffffff;
+        --default-button-hover-bg: #c23030;
+    }
+}

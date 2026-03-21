@@ -1,0 +1,192 @@
+@import "tailwindcss";
+@import "leaflet/dist/leaflet.css";
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;700&display=swap');
+
+@theme {
+  --color-ink: #0a0a0a;
+  --color-paper: #ffffff;
+  --color-paper-warm: #ffffff;
+  --color-seal: #c23030;
+  --color-mist: #b8b5b0;
+  --color-mist-light: #e8e6e3;
+  --color-mist-dark: #8a8680;
+
+  --font-cormorant: "Playfair Display", serif;
+  --font-literata: "Inter", sans-serif;
+  --font-dm: "Inter", sans-serif;
+}
+
+@layer base {
+  body {
+    background-color: var(--color-paper);
+    color: var(--color-ink);
+    font-family: var(--font-literata);
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    overflow-x: hidden;
+  }
+
+  /* All images black & white */
+  img {
+    filter: grayscale(100%);
+  }
+
+  h1, h2, h3 {
+    font-family: var(--font-cormorant);
+    font-weight: 700;
+    line-height: 0.95;
+    letter-spacing: -0.04em;
+  }
+
+  /* Custom scrollbar - invisible but functional */
+  ::-webkit-scrollbar {
+    width: 0px;
+    height: 0px;
+  }
+}
+
+@layer utilities {
+  .scrollbar-hide {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+  .scrollbar-hide::-webkit-scrollbar {
+    display: none;
+  }
+  .label-ui {
+    font-family: var(--font-dm);
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    font-size: 9px;
+  }
+
+  .text-literary {
+    font-family: var(--font-literata);
+    font-size: 15px;
+    line-height: 1.75;
+    text-align: justify;
+    hyphens: auto;
+    font-weight: 300;
+  }
+
+  .btn-square {
+    border: 1px solid var(--color-ink);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.2s ease;
+    border-radius: 0 !important;
+  }
+  
+  .btn-square:hover {
+    background-color: var(--color-ink);
+    color: var(--color-paper);
+  }
+
+  .card-border {
+    border-bottom: 1px solid rgba(10, 10, 10, 0.1);
+  }
+
+  .vertical-label {
+    writing-mode: vertical-rl;
+    position: fixed;
+    right: 0.75rem;
+    top: 50%;
+    transform: translateY(-50%);
+    opacity: 0.2;
+    pointer-events: none;
+    font-family: var(--font-dm);
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.4em;
+    font-size: 9px;
+    z-index: 100;
+  }
+
+  .grid-overlay {
+    position: fixed;
+    inset: 0;
+    pointer-events: none;
+    z-index: 50;
+  }
+
+  .grid-line-h {
+    position: absolute;
+    width: 100%;
+    height: 1px;
+    background-color: rgba(10, 10, 10, 0.05);
+  }
+
+  .grid-line-v {
+    position: absolute;
+    height: 100%;
+    width: 1px;
+    background-color: rgba(10, 10, 10, 0.05);
+  }
+
+  .dropcap::first-letter {
+    font-family: var(--font-cormorant);
+    font-weight: 700;
+    font-size: 68px;
+    line-height: 0.8;
+    float: left;
+    margin-right: 0.8rem;
+    margin-top: 0.3rem;
+    color: var(--color-ink);
+  }
+
+  .no-radius {
+    border-radius: 0 !important;
+  }
+
+  /* Ken Burns subtle photo animations */
+  @keyframes ken-burns-1 {
+    0%   { transform: scale(1) translate(0, 0); }
+    50%  { transform: scale(1.08) translate(-1%, -1%); }
+    100% { transform: scale(1) translate(0, 0); }
+  }
+  @keyframes ken-burns-2 {
+    0%   { transform: scale(1.04) translate(1%, 0); }
+    50%  { transform: scale(1) translate(-0.5%, 0.5%); }
+    100% { transform: scale(1.04) translate(1%, 0); }
+  }
+  @keyframes ken-burns-3 {
+    0%   { transform: scale(1) translate(0, 0.5%); }
+    50%  { transform: scale(1.06) translate(0.5%, -0.5%); }
+    100% { transform: scale(1) translate(0, 0.5%); }
+  }
+
+  .img-alive-1 {
+    animation: ken-burns-1 12s ease-in-out infinite;
+  }
+  .img-alive-2 {
+    animation: ken-burns-2 15s ease-in-out infinite;
+  }
+  .img-alive-3 {
+    animation: ken-burns-3 18s ease-in-out infinite;
+  }
+
+  /* Hide Mapbox logo */
+  .mapboxgl-ctrl-logo {
+    display: none !important;
+  }
+
+  .glass {
+    background: rgba(255, 255, 255, 0.65);
+    backdrop-filter: blur(16px);
+    -webkit-backdrop-filter: blur(16px);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+  }
+
+  .glass-dark {
+    background: rgba(10, 10, 10, 0.75);
+    backdrop-filter: blur(16px);
+    -webkit-backdrop-filter: blur(16px);
+    border: 1px solid rgba(255, 255, 255, 0.08);
+  }
+
+  .leaflet-dark .leaflet-tile-pane {
+    /* Dark tiles from CARTO - no extra filter needed */
+  }
+}

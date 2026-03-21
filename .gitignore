@@ -1,0 +1,27 @@
+# ===== Node / Frontend =====
+node_modules/
+dist/
+.env
+.env.local
+.env.production
+
+# ===== Python / Backend =====
+backend/venv/
+backend/__pycache__/
+backend/**/__pycache__/
+backend/**/*.pyc
+backend/db.sqlite3
+backend/media/
+backend/staticfiles/
+
+# ===== System =====
+.DS_Store
+*.log
+.claude/
+
+# ===== Obrazy i pliki robocze =====
+*.png
+*.jpg
+*.mp3
+widoki/
+opis.txt
