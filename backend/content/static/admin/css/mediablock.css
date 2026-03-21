@@ -714,3 +714,177 @@ a.button:hover,
 ::-webkit-scrollbar-track { background: var(--paper); }
 ::-webkit-scrollbar-thumb { background: var(--border); }
 ::-webkit-scrollbar-thumb:hover { background: var(--ink); }
+
+/* ===================================================================
+   LIST VIEW — DODATKOWE POPRAWKI
+   =================================================================== */
+
+/* Striped rows — wyłącz Django domyślne */
+#result_list tbody tr.row1 td,
+#result_list tbody tr.row2 td {
+    background: var(--paper) !important;
+}
+
+#result_list tbody tr.row1:hover td,
+#result_list tbody tr.row2:hover td {
+    background: var(--mist) !important;
+}
+
+/* Checkbox kolumna */
+#result_list th.action-checkbox-column,
+#result_list td.action-checkbox {
+    width: 24px !important;
+    padding: 8px !important;
+    background: var(--paper) !important;
+    border-right: 1px solid var(--border) !important;
+}
+
+input[type="checkbox"] {
+    width: 14px !important;
+    height: 14px !important;
+    accent-color: var(--ink) !important;
+    cursor: pointer !important;
+}
+
+/* list_editable — inputy w tabeli */
+#result_list td input[type="text"],
+#result_list td input[type="number"] {
+    border: 1px solid var(--border) !important;
+    padding: 4px 6px !important;
+    font-size: 13px !important;
+    width: auto !important;
+    min-width: 60px !important;
+    max-width: 140px !important;
+    background: var(--paper) !important;
+}
+
+#result_list td input[type="number"] {
+    width: 70px !important;
+    text-align: right !important;
+}
+
+/* Action bar (Akcja + Wykonaj) */
+.actions {
+    padding: var(--space-sm) 0 !important;
+    display: flex !important;
+    align-items: center !important;
+    gap: var(--space-sm) !important;
+    background: var(--paper) !important;
+    border-bottom: 1px solid var(--border) !important;
+    margin-bottom: var(--space-sm) !important;
+}
+
+.actions label {
+    font-size: 10px !important;
+    font-weight: 700 !important;
+    letter-spacing: 0.1em !important;
+    text-transform: uppercase !important;
+    color: var(--ink) !important;
+    margin: 0 !important;
+    display: inline !important;
+}
+
+.actions select {
+    width: auto !important;
+    min-width: 200px !important;
+    max-width: 400px !important;
+}
+
+.actions .button {
+    white-space: nowrap !important;
+}
+
+/* "Wybrano X z Y" tekst */
+.actions span {
+    font-family: var(--font-body) !important;
+    font-size: 12px !important;
+    color: var(--quiet) !important;
+}
+
+/* Wyłącz zaznaczenie wiersza (selected) */
+#result_list tr.selected td {
+    background: #f0f0f0 !important;
+}
+
+/* Nagłówek z sortowaniem */
+#result_list thead th.sorted {
+    background: #1a1a1a !important;
+}
+
+#result_list thead th .text {
+    display: flex !important;
+    align-items: center !important;
+    gap: 4px !important;
+}
+
+/* "Dodaj X" i "Zmień X" linki w dashboardzie */
+td.addlink a, td.changelink a {
+    font-family: var(--font-body) !important;
+    font-size: 12px !important;
+    font-weight: 500 !important;
+    color: var(--ink) !important;
+    text-decoration: none !important;
+}
+
+td.addlink a:hover, td.changelink a:hover {
+    text-decoration: underline !important;
+}
+
+/* Paginacja górna */
+#changelist .paginator {
+    padding: var(--space-sm) 0 !important;
+    border-bottom: 1px solid var(--border) !important;
+    margin-bottom: var(--space-sm) !important;
+}
+
+/* Wyniki wyszukiwania */
+#toolbar {
+    background: var(--paper) !important;
+    border: none !important;
+    border-bottom: 1px solid var(--border) !important;
+    padding: var(--space-sm) 0 !important;
+    margin-bottom: var(--space-sm) !important;
+}
+
+#toolbar form input[type="submit"],
+#toolbar form button {
+    margin-left: var(--space-xs) !important;
+}
+
+/* Brak wyników */
+#changelist-form p {
+    font-family: var(--font-body) !important;
+    font-size: 13px !important;
+    color: var(--quiet) !important;
+    padding: var(--space-md) 0 !important;
+}
+
+/* Ostatnie działania w dashboardzie */
+#recent-actions-module h2 {
+    background: var(--ink) !important;
+    color: var(--paper) !important;
+}
+
+#recent-actions-module .actionlist li {
+    font-family: var(--font-body) !important;
+    font-size: 13px !important;
+    padding: 4px 0 !important;
+    border-bottom: 1px solid var(--border) !important;
+    color: var(--ink) !important;
+}
+
+#recent-actions-module .actionlist li a {
+    color: var(--ink) !important;
+    font-weight: 500 !important;
+}
+
+/* Readonly fields */
+.readonly {
+    font-family: var(--font-body) !important;
+    font-size: 13px !important;
+    color: var(--quiet) !important;
+    padding: var(--space-sm) 10px !important;
+    border: 1px solid var(--border) !important;
+    background: var(--mist) !important;
+    display: inline-block !important;
+}

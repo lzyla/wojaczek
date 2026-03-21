@@ -243,22 +243,16 @@ class MediaBlockAdmin(admin.ModelAdmin):
 
     @admin.display(description='Blok')
     def block_preview(self, obj):
-        colors = {
-            'text': '#5B8C5A', 'photo': '#4A90D9', 'gallery': '#7B68EE',
-            'audio': '#D4A843', 'video': '#C23030', 'map': '#2E8B57',
-            'beforeAfter': '#8B6914', 'timeline': '#6A5ACD', 'poem': '#9B2335',
-        }
         labels = {
             'text': 'Aa', 'photo': 'IMG', 'gallery': 'GAL',
             'audio': 'AUD', 'video': 'VID', 'map': 'MAP',
             'beforeAfter': 'B/A', 'timeline': 'TIME', 'poem': 'POEM',
         }
-        color = colors.get(obj.type, '#666')
         label = labels.get(obj.type, '?')
         return format_html(
-            '<span style="display:inline-block;padding:3px 8px;background:{};color:#fff;'
-            'border-radius:4px;font-size:10px;font-weight:bold;letter-spacing:0.5px;">{}</span>',
-            color, label,
+            '<span style="display:inline-block;padding:3px 8px;background:#000;color:#fff;'
+            'font-size:10px;font-weight:700;letter-spacing:0.08em;">{}</span>',
+            label,
         )
 
     @admin.display(description='Zawartość')
@@ -303,8 +297,8 @@ class PointAdmin(admin.ModelAdmin):
     def media_count(self, obj):
         count = obj.media_blocks.count()
         return format_html(
-            '<span style="background:#e0e0e0;padding:2px 10px;border-radius:12px;'
-            'font-size:11px;font-weight:bold;">{}</span>', count)
+            '<span style="border:1px solid #000;padding:2px 8px;'
+            'font-size:11px;font-weight:700;">{}</span>', count)
 
 
 # ---------------------------------------------------------------------------
@@ -342,7 +336,7 @@ class GalleryImageAdmin(admin.ModelAdmin):
         url = obj.get_url()
         if url:
             return format_html(
-                '<img src="{}" style="height:40px;border-radius:4px;object-fit:cover;" />', url)
+                '<img src="{}" style="height:40px;object-fit:cover;filter:grayscale(100%);" />', url)
         return '—'
 
 
