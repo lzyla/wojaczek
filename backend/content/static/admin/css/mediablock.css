@@ -1,890 +1,166 @@
 /*
  * Wojaczek Admin — Black & White Editorial Theme
- * Czarny header, białe tło, czarny tekst, spójne fonty i odstępy
+ * Zasada: czarny TYLKO header i etykiety sekcji. Wszędzie indziej: biel.
  */
 
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,700;1,400&family=Inter:wght@300;400;500;600;700&display=swap');
 
-/* ===================================================================
-   CSS VARIABLES
-   =================================================================== */
+/* === ZMIENNE === */
 :root {
-    --ink:    #000000;
-    --paper:  #ffffff;
-    --mist:   #f4f4f4;
-    --border: #d0d0d0;
-    --quiet:  #666666;
-
-    --font-body: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
-    --font-serif: 'Playfair Display', Georgia, serif;
-
-    --space-xs:  4px;
-    --space-sm:  8px;
-    --space-md:  16px;
-    --space-lg:  24px;
-    --space-xl:  40px;
-
-    /* Django admin overrides */
-    --primary:            #000000;
-    --accent:             #000000;
-    --primary-fg:         #ffffff;
-    --body-fg:            #000000;
-    --body-bg:            #ffffff;
-    --header-bg:          #000000;
-    --header-color:       #ffffff;
-    --header-link-color:  #ffffff;
-    --breadcrumbs-bg:     #111111;
-    --breadcrumbs-fg:     #aaaaaa;
-    --breadcrumbs-link-fg:#ffffff;
-    --hairline-color:     #d0d0d0;
-    --border-color:       #d0d0d0;
-    --darkened-bg:        #f4f4f4;
-    --selected-bg:        #f4f4f4;
-    --button-bg:          #000000;
-    --button-fg:          #ffffff;
-    --button-hover-bg:    #333333;
-    --default-button-bg:  #000000;
-    --object-tools-bg:    #000000;
-    --object-tools-fg:    #ffffff;
-    --object-tools-hover-bg: #333333;
-}
-
-/* ===================================================================
-   RESET & BASE
-   =================================================================== */
-*, *::before, *::after {
-    border-radius: 0 !important;
-    box-sizing: border-box;
-}
-
-body {
-    font-family: var(--font-body) !important;
-    font-size: 14px !important;
-    line-height: 1.6 !important;
-    color: var(--ink) !important;
-    background: var(--paper) !important;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
-}
-
-/* ===================================================================
-   TYPOGRAPHY — consistent scale
-   =================================================================== */
-h1, h2, h3, h4 {
-    font-family: var(--font-body) !important;
-    font-weight: 700 !important;
-    line-height: 1.2 !important;
-    color: var(--ink) !important;
-    margin: 0 !important;
-}
-
-/* Page title: serif */
-#content h1 {
-    font-family: var(--font-serif) !important;
-    font-size: 26px !important;
-    letter-spacing: -0.02em !important;
-    font-weight: 700 !important;
-    margin-bottom: var(--space-xs) !important;
-}
-
-/* Object subtitle (e.g. "Dom Rodzinny") */
-.colM > h2:first-of-type {
-    font-family: var(--font-serif) !important;
-    font-style: italic !important;
-    font-size: 16px !important;
-    font-weight: 400 !important;
-    color: var(--quiet) !important;
-    background: transparent !important;
-    padding: 0 !important;
-    text-transform: none !important;
-    letter-spacing: 0 !important;
-    margin-bottom: var(--space-md) !important;
-}
-
-/* Section headings (caps labels) */
-.module h2,
-.module caption,
-fieldset.module h2,
-.inline-group h2 {
-    font-family: var(--font-body) !important;
-    font-size: 10px !important;
-    font-weight: 700 !important;
-    letter-spacing: 0.14em !important;
-    text-transform: uppercase !important;
-    background: var(--ink) !important;
-    color: var(--paper) !important;
-    padding: 10px var(--space-md) !important;
-    margin: 0 !important;
-}
-
-.module h2 a, .module caption a,
-.inline-group h2 a {
-    color: var(--paper) !important;
-    text-decoration: none !important;
-}
-
-/* Form labels */
-label, .form-row label {
-    font-family: var(--font-body) !important;
-    font-size: 10px !important;
-    font-weight: 700 !important;
-    letter-spacing: 0.1em !important;
-    text-transform: uppercase !important;
-    color: var(--ink) !important;
-    display: block !important;
-    margin-bottom: var(--space-xs) !important;
-}
-
-/* Help text */
-.help, p.help, .inline-related .help {
-    font-family: var(--font-body) !important;
-    font-size: 11px !important;
-    font-style: italic !important;
-    color: var(--quiet) !important;
-    margin-top: var(--space-xs) !important;
-}
-
-/* ===================================================================
-   LINKS
-   =================================================================== */
-a {
-    color: var(--ink) !important;
-    text-decoration: none !important;
-}
-
-a:hover {
-    text-decoration: underline !important;
-}
-
-/* ===================================================================
-   HEADER
-   =================================================================== */
-#header {
-    background: var(--ink) !important;
-    color: var(--paper) !important;
-    padding: var(--space-sm) var(--space-lg) !important;
-    display: flex !important;
-    align-items: center !important;
-    border-bottom: none !important;
-}
-
-#branding h1 {
-    font-family: var(--font-serif) !important;
-    font-size: 17px !important;
-    font-weight: 700 !important;
-    letter-spacing: -0.02em !important;
-    color: var(--paper) !important;
-    line-height: 1.2 !important;
-}
-
-#branding h1 a, #branding h1 a:link, #branding h1 a:visited {
-    color: var(--paper) !important;
-    text-decoration: none !important;
-}
-
-#user-tools {
-    font-family: var(--font-body) !important;
-    font-size: 10px !important;
-    font-weight: 500 !important;
-    letter-spacing: 0.08em !important;
-    text-transform: uppercase !important;
-    color: var(--paper) !important;
-}
-
-#user-tools a, #user-tools a:link, #user-tools a:visited {
-    color: var(--paper) !important;
-    text-decoration: none !important;
-}
-
-#user-tools a:hover {
-    text-decoration: underline !important;
-}
-
-/* ===================================================================
-   BREADCRUMBS
-   =================================================================== */
-div.breadcrumbs {
-    background: #111111 !important;
-    color: #aaaaaa !important;
-    padding: var(--space-sm) var(--space-lg) !important;
-    font-family: var(--font-body) !important;
-    font-size: 10px !important;
-    font-weight: 500 !important;
-    letter-spacing: 0.1em !important;
-    text-transform: uppercase !important;
-    border-bottom: none !important;
-}
-
-div.breadcrumbs a, div.breadcrumbs a:link {
-    color: #cccccc !important;
-    text-decoration: none !important;
-}
-
-div.breadcrumbs a:hover {
-    color: var(--paper) !important;
-    text-decoration: none !important;
-}
-
-/* ===================================================================
-   CONTENT WRAPPER
-   =================================================================== */
-#content {
-    padding: var(--space-lg) var(--space-lg) !important;
-    background: var(--paper) !important;
-}
-
-#content-main {
-    background: var(--paper) !important;
-}
-
-/* ===================================================================
-   SIDEBAR
-   =================================================================== */
-#nav-sidebar {
-    background: var(--paper) !important;
-    border-right: 1px solid var(--border) !important;
-}
-
-#nav-sidebar .module caption {
-    background: var(--ink) !important;
-    padding: var(--space-sm) var(--space-md) !important;
-}
-
-#nav-sidebar .module caption a {
-    color: var(--paper) !important;
-    font-family: var(--font-body) !important;
-    font-size: 10px !important;
-    font-weight: 700 !important;
-    letter-spacing: 0.14em !important;
-    text-transform: uppercase !important;
-    text-decoration: none !important;
-}
-
-#nav-sidebar .module th {
-    font-family: var(--font-body) !important;
-    font-size: 13px !important;
-    font-weight: 400 !important;
-    background: var(--paper) !important;
-    color: var(--ink) !important;
-    padding: 9px var(--space-md) !important;
-    border-bottom: 1px solid var(--border) !important;
-}
-
-#nav-sidebar .module th a {
-    color: var(--ink) !important;
-    text-decoration: none !important;
-}
-
-#nav-sidebar .module th a:hover {
-    text-decoration: underline !important;
-}
-
-#nav-sidebar .current-model {
-    background: var(--mist) !important;
-}
-
-/* ===================================================================
-   DASHBOARD MODULE
-   =================================================================== */
-.module {
-    border: 1px solid var(--ink) !important;
-    background: var(--paper) !important;
-    margin-bottom: var(--space-md) !important;
-}
-
-.dashboard .module table td,
-.dashboard .module table th {
-    font-family: var(--font-body) !important;
-    font-size: 13px !important;
-    padding: 10px var(--space-md) !important;
-    border-bottom: 1px solid var(--border) !important;
-    background: var(--paper) !important;
-    color: var(--ink) !important;
-}
-
-.dashboard .module table tr:last-child td {
-    border-bottom: none !important;
-}
-
-/* ===================================================================
-   FIELDSETS & FORM ROWS
-   =================================================================== */
-fieldset {
-    border: 1px solid var(--ink) !important;
-    background: var(--paper) !important;
-    margin-bottom: var(--space-md) !important;
-    padding: 0 !important;
-}
-
-.form-row {
-    padding: var(--space-sm) var(--space-md) !important;
-    border-bottom: 1px solid var(--border) !important;
-    background: var(--paper) !important;
-    margin: 0 !important;
-}
-
-.form-row:last-child {
-    border-bottom: none !important;
-}
-
-/* Aligned layout fix */
-.aligned label {
-    width: 160px !important;
-    padding-right: var(--space-md) !important;
-}
-
-/* ===================================================================
-   INPUTS & TEXTAREA & SELECT
-   =================================================================== */
-input[type="text"],
-input[type="url"],
-input[type="number"],
-input[type="password"],
-input[type="email"],
-input[type="search"],
-textarea,
-select {
-    font-family: var(--font-body) !important;
-    font-size: 13px !important;
-    line-height: 1.5 !important;
-    color: var(--ink) !important;
-    background: var(--paper) !important;
-    border: 1px solid var(--ink) !important;
-    padding: var(--space-sm) 10px !important;
-    width: 100% !important;
-    max-width: 100% !important;
-    transition: none !important;
-}
-
-input[type="text"]:focus,
-input[type="url"]:focus,
-input[type="number"]:focus,
-input[type="password"]:focus,
-textarea:focus,
-select:focus {
-    outline: 2px solid var(--ink) !important;
-    outline-offset: -1px !important;
-    box-shadow: none !important;
-}
-
-textarea {
-    min-height: 120px !important;
-    resize: vertical !important;
-}
-
-select {
-    -webkit-appearance: none !important;
-    appearance: none !important;
-    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='10' height='10' viewBox='0 0 10 10'%3E%3Cpath d='M1 3l4 4 4-4' stroke='%23000' fill='none' stroke-width='1.5'/%3E%3C/svg%3E") !important;
-    background-repeat: no-repeat !important;
-    background-position: right 10px center !important;
-    padding-right: 28px !important;
-}
-
-/* Small number inputs */
-.form-row input[type="number"],
-.form-row.field-order input {
-    width: 80px !important;
-    max-width: 80px !important;
-}
-
-/* ===================================================================
-   BUTTONS
-   =================================================================== */
-input[type="submit"],
-.submit-row input,
-.button,
-a.button,
-.object-tools a {
-    font-family: var(--font-body) !important;
-    font-size: 10px !important;
-    font-weight: 700 !important;
-    letter-spacing: 0.12em !important;
-    text-transform: uppercase !important;
-    border: 1px solid var(--ink) !important;
-    padding: 9px var(--space-md) !important;
-    background: var(--ink) !important;
-    color: var(--paper) !important;
-    cursor: pointer !important;
-    text-decoration: none !important;
-    display: inline-block !important;
-    line-height: 1 !important;
-}
-
-input[type="submit"]:hover,
-.submit-row input:hover,
-.button:hover,
-a.button:hover,
-.object-tools a:hover {
-    background: #333333 !important;
-    border-color: #333333 !important;
-    text-decoration: none !important;
-}
-
-.submit-row {
-    background: var(--mist) !important;
-    border: 1px solid var(--border) !important;
-    border-top: 2px solid var(--ink) !important;
-    padding: var(--space-md) !important;
-    margin-top: var(--space-md) !important;
-    display: flex !important;
-    gap: var(--space-sm) !important;
-    align-items: center !important;
-}
-
-.submit-row a.deletelink {
-    font-family: var(--font-body) !important;
-    font-size: 10px !important;
-    font-weight: 700 !important;
-    letter-spacing: 0.1em !important;
-    text-transform: uppercase !important;
-    color: var(--ink) !important;
-    text-decoration: underline !important;
-    margin-left: auto !important;
-}
-
-/* ===================================================================
-   OBJECT TOOLS (top-right)
-   =================================================================== */
-.object-tools {
-    margin-bottom: var(--space-md) !important;
-}
-
-/* ===================================================================
-   LIST VIEW TABLE
-   =================================================================== */
-#result_list {
-    border: 1px solid var(--ink) !important;
-    width: 100% !important;
-}
-
-#result_list th {
-    font-family: var(--font-body) !important;
-    font-size: 10px !important;
-    font-weight: 700 !important;
-    letter-spacing: 0.1em !important;
-    text-transform: uppercase !important;
-    background: var(--ink) !important;
-    color: var(--paper) !important;
-    padding: 10px var(--space-md) !important;
-    border: none !important;
-    white-space: nowrap !important;
-}
-
-#result_list th a {
-    color: var(--paper) !important;
-    text-decoration: none !important;
-}
-
-#result_list td {
-    font-family: var(--font-body) !important;
-    font-size: 13px !important;
-    border-bottom: 1px solid var(--border) !important;
-    padding: 10px var(--space-md) !important;
-    background: var(--paper) !important;
-    color: var(--ink) !important;
-    vertical-align: middle !important;
-}
-
-#result_list tr:last-child td {
-    border-bottom: none !important;
-}
-
-#result_list tr:hover td {
-    background: var(--mist) !important;
-}
-
-#result_list td a {
-    color: var(--ink) !important;
-    font-weight: 500 !important;
-    text-decoration: none !important;
-}
-
-#result_list td a:hover {
-    text-decoration: underline !important;
-}
-
-/* Filter sidebar */
-#changelist-filter {
-    background: var(--paper) !important;
-    border: 1px solid var(--ink) !important;
-    padding: 0 !important;
-}
-
-#changelist-filter h2 {
-    background: var(--ink) !important;
-    color: var(--paper) !important;
-    font-family: var(--font-body) !important;
-    font-size: 10px !important;
-    font-weight: 700 !important;
-    letter-spacing: 0.14em !important;
-    text-transform: uppercase !important;
-    padding: 10px var(--space-md) !important;
-    margin: 0 !important;
-}
-
-#changelist-filter h3 {
-    font-family: var(--font-body) !important;
-    font-size: 10px !important;
-    font-weight: 700 !important;
-    letter-spacing: 0.1em !important;
-    text-transform: uppercase !important;
-    color: var(--ink) !important;
-    padding: var(--space-sm) var(--space-md) 0 !important;
-    margin: 0 !important;
-}
-
-#changelist-filter li {
-    font-family: var(--font-body) !important;
-    font-size: 13px !important;
-    padding: 2px var(--space-md) !important;
-}
-
-#changelist-filter li a {
-    color: var(--ink) !important;
-    text-decoration: none !important;
-}
-
-#changelist-filter li.selected a {
-    font-weight: 700 !important;
-    text-decoration: underline !important;
-}
-
-/* Search */
-#searchbar {
-    border: 1px solid var(--ink) !important;
-    font-family: var(--font-body) !important;
-    font-size: 13px !important;
-    padding: var(--space-sm) 10px !important;
-}
-
-/* ===================================================================
-   MESSAGES
-   =================================================================== */
-.messagelist {
-    padding: 0 !important;
-    margin-bottom: var(--space-md) !important;
-}
-
-.messagelist li {
-    font-family: var(--font-body) !important;
-    font-size: 13px !important;
-    background: var(--ink) !important;
-    color: var(--paper) !important;
-    padding: var(--space-sm) var(--space-md) !important;
-    border: none !important;
-    list-style: none !important;
-    margin-bottom: 2px !important;
-}
-
-.messagelist li.error {
-    background: #333333 !important;
-}
-
-/* ===================================================================
-   INLINE (MediaBlocks)
-   =================================================================== */
-.inline-group {
-    margin-top: var(--space-lg) !important;
-    border: 1px solid var(--ink) !important;
-}
-
-.inline-related.has_original,
-.inline-related:not(.empty-form) {
-    border: none !important;
-    border-bottom: 1px solid var(--border) !important;
-    margin: 0 !important;
-    padding: 0 !important;
-    background: var(--paper) !important;
-}
-
-.inline-related:last-of-type {
-    border-bottom: none !important;
-}
-
-.inline-related h3 {
-    background: var(--mist) !important;
-    color: var(--ink) !important;
-    padding: var(--space-sm) var(--space-md) !important;
-    margin: 0 !important;
-    font-family: var(--font-body) !important;
-    font-size: 10px !important;
-    font-weight: 700 !important;
-    letter-spacing: 0.1em !important;
-    text-transform: uppercase !important;
-    border-bottom: 1px solid var(--border) !important;
-}
-
-.inline-related h3 .inline_label {
-    color: var(--ink) !important;
-}
-
-.inline-related .form-row {
-    padding: var(--space-sm) var(--space-md) !important;
-    border-bottom: 1px solid var(--border) !important;
-    background: var(--paper) !important;
-}
-
-.inline-related .form-row:last-child {
-    border-bottom: none !important;
-}
-
-/* Type dropdown */
-.form-row.field-type select {
-    font-weight: 700 !important;
-    letter-spacing: 0.05em !important;
-    text-transform: uppercase !important;
-    font-size: 12px !important;
-}
-
-/* Delete checkbox */
-.inline-related .inline_label.vCheckboxLabel {
-    font-family: var(--font-body) !important;
-    font-size: 10px !important;
-    font-weight: 700 !important;
-    letter-spacing: 0.1em !important;
-    text-transform: uppercase !important;
-    color: var(--ink) !important;
-}
-
-/* Add another row */
-.inline-group .add-row {
-    border: none !important;
-    border-top: 1px dashed var(--border) !important;
-    background: var(--mist) !important;
-    padding: var(--space-sm) var(--space-md) !important;
-}
-
-.inline-group .add-row a {
-    font-family: var(--font-body) !important;
-    font-size: 10px !important;
-    font-weight: 700 !important;
-    letter-spacing: 0.1em !important;
-    text-transform: uppercase !important;
-    color: var(--ink) !important;
-    text-decoration: none !important;
-}
-
-.inline-group .add-row a:hover {
-    text-decoration: underline !important;
-}
-
-.inline-related.empty-form {
-    display: none !important;
-}
-
-/* ===================================================================
-   PAGINATION
-   =================================================================== */
-.paginator {
-    font-family: var(--font-body) !important;
-    font-size: 12px !important;
-    padding: var(--space-sm) 0 !important;
-}
-
-.paginator a {
-    color: var(--ink) !important;
-    border: 1px solid var(--ink) !important;
-    padding: 4px 10px !important;
-    text-decoration: none !important;
-    display: inline-block !important;
-}
-
-.paginator a:hover {
-    background: var(--ink) !important;
-    color: var(--paper) !important;
-}
-
-/* ===================================================================
-   LOGIN PAGE
-   =================================================================== */
-.login #header {
-    text-align: center !important;
-    padding: var(--space-md) var(--space-lg) !important;
-}
-
-.login #content-main {
-    padding: var(--space-lg) !important;
-}
-
-/* ===================================================================
-   SCROLLBAR
-   =================================================================== */
-::-webkit-scrollbar { width: 5px; height: 5px; }
-::-webkit-scrollbar-track { background: var(--paper); }
-::-webkit-scrollbar-thumb { background: var(--border); }
-::-webkit-scrollbar-thumb:hover { background: var(--ink); }
-
-/* ===================================================================
-   LIST VIEW — DODATKOWE POPRAWKI
-   =================================================================== */
-
-/* Striped rows — wyłącz Django domyślne */
-#result_list tbody tr.row1 td,
-#result_list tbody tr.row2 td {
-    background: var(--paper) !important;
-}
-
-#result_list tbody tr.row1:hover td,
-#result_list tbody tr.row2:hover td {
-    background: var(--mist) !important;
-}
-
-/* Checkbox kolumna */
-#result_list th.action-checkbox-column,
-#result_list td.action-checkbox {
-    width: 24px !important;
-    padding: 8px !important;
-    background: var(--paper) !important;
-    border-right: 1px solid var(--border) !important;
-}
-
-input[type="checkbox"] {
-    width: 14px !important;
-    height: 14px !important;
-    accent-color: var(--ink) !important;
-    cursor: pointer !important;
-}
-
-/* list_editable — inputy w tabeli */
-#result_list td input[type="text"],
-#result_list td input[type="number"] {
-    border: 1px solid var(--border) !important;
-    padding: 4px 6px !important;
-    font-size: 13px !important;
-    width: auto !important;
-    min-width: 60px !important;
-    max-width: 140px !important;
-    background: var(--paper) !important;
-}
-
-#result_list td input[type="number"] {
-    width: 70px !important;
-    text-align: right !important;
-}
-
-/* Action bar (Akcja + Wykonaj) */
-.actions {
-    padding: var(--space-sm) 0 !important;
-    display: flex !important;
-    align-items: center !important;
-    gap: var(--space-sm) !important;
-    background: var(--paper) !important;
-    border-bottom: 1px solid var(--border) !important;
-    margin-bottom: var(--space-sm) !important;
-}
-
-.actions label {
-    font-size: 10px !important;
-    font-weight: 700 !important;
-    letter-spacing: 0.1em !important;
-    text-transform: uppercase !important;
-    color: var(--ink) !important;
-    margin: 0 !important;
-    display: inline !important;
-}
-
-.actions select {
-    width: auto !important;
-    min-width: 200px !important;
-    max-width: 400px !important;
-}
-
-.actions .button {
-    white-space: nowrap !important;
-}
-
-/* "Wybrano X z Y" tekst */
-.actions span {
-    font-family: var(--font-body) !important;
-    font-size: 12px !important;
-    color: var(--quiet) !important;
-}
-
-/* Wyłącz zaznaczenie wiersza (selected) */
-#result_list tr.selected td {
-    background: #f0f0f0 !important;
-}
-
-/* Nagłówek z sortowaniem */
-#result_list thead th.sorted {
-    background: #1a1a1a !important;
-}
-
-#result_list thead th .text {
-    display: flex !important;
-    align-items: center !important;
-    gap: 4px !important;
-}
-
-/* "Dodaj X" i "Zmień X" linki w dashboardzie */
-td.addlink a, td.changelink a {
-    font-family: var(--font-body) !important;
-    font-size: 12px !important;
-    font-weight: 500 !important;
-    color: var(--ink) !important;
-    text-decoration: none !important;
-}
-
-td.addlink a:hover, td.changelink a:hover {
-    text-decoration: underline !important;
-}
-
-/* Paginacja górna */
-#changelist .paginator {
-    padding: var(--space-sm) 0 !important;
-    border-bottom: 1px solid var(--border) !important;
-    margin-bottom: var(--space-sm) !important;
-}
-
-/* Wyniki wyszukiwania */
-#toolbar {
-    background: var(--paper) !important;
-    border: none !important;
-    border-bottom: 1px solid var(--border) !important;
-    padding: var(--space-sm) 0 !important;
-    margin-bottom: var(--space-sm) !important;
-}
-
-#toolbar form input[type="submit"],
-#toolbar form button {
-    margin-left: var(--space-xs) !important;
-}
-
-/* Brak wyników */
-#changelist-form p {
-    font-family: var(--font-body) !important;
-    font-size: 13px !important;
-    color: var(--quiet) !important;
-    padding: var(--space-md) 0 !important;
-}
-
-/* Ostatnie działania w dashboardzie */
-#recent-actions-module h2 {
-    background: var(--ink) !important;
-    color: var(--paper) !important;
-}
-
-#recent-actions-module .actionlist li {
-    font-family: var(--font-body) !important;
-    font-size: 13px !important;
-    padding: 4px 0 !important;
-    border-bottom: 1px solid var(--border) !important;
-    color: var(--ink) !important;
-}
-
-#recent-actions-module .actionlist li a {
-    color: var(--ink) !important;
-    font-weight: 500 !important;
-}
-
-/* Readonly fields */
-.readonly {
-    font-family: var(--font-body) !important;
-    font-size: 13px !important;
-    color: var(--quiet) !important;
-    padding: var(--space-sm) 10px !important;
-    border: 1px solid var(--border) !important;
-    background: var(--mist) !important;
-    display: inline-block !important;
-}
+    --ink: #000000; --paper: #ffffff; --mist: #f5f5f5;
+    --border: #cccccc; --quiet: #666666;
+    --font: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+    --serif: 'Playfair Display', Georgia, serif;
+    --sp1:4px; --sp2:8px; --sp3:16px; --sp4:24px;
+    --primary:#000; --accent:#000; --primary-fg:#fff;
+    --body-fg:#000; --body-bg:#fff;
+    --header-bg:#000; --header-color:#fff; --header-link-color:#fff;
+    --breadcrumbs-bg:#111; --breadcrumbs-fg:#aaa; --breadcrumbs-link-fg:#fff;
+    --hairline-color:#ccc; --border-color:#ccc;
+    --darkened-bg:#f5f5f5; --selected-bg:#f5f5f5;
+    --button-bg:#000; --button-fg:#fff; --button-hover-bg:#333;
+    --default-button-bg:#000; --object-tools-bg:#000; --object-tools-fg:#fff;
+    --object-tools-hover-bg:#333; --link-fg:#000; --link-hover-color:#000;
+}
+
+*, *::before, *::after { border-radius:0 !important; box-sizing:border-box; }
+
+body { font-family:var(--font) !important; font-size:14px !important; line-height:1.5 !important; color:var(--ink) !important; background:var(--paper) !important; -webkit-font-smoothing:antialiased; }
+
+a { color:var(--ink) !important; text-decoration:none !important; }
+a:hover { text-decoration:underline !important; }
+
+/* === HEADER === */
+#header { background:var(--ink) !important; color:var(--paper) !important; padding:10px var(--sp4) !important; border-bottom:none !important; }
+#branding h1, #branding h1 a, #branding h1 a:link, #branding h1 a:visited { font-family:var(--serif) !important; font-size:17px !important; font-weight:700 !important; letter-spacing:-0.02em !important; color:var(--paper) !important; text-decoration:none !important; background:transparent !important; }
+#user-tools, #user-tools a, #user-tools a:link, #user-tools a:visited { font-size:10px !important; font-weight:500 !important; letter-spacing:0.08em !important; text-transform:uppercase !important; color:var(--paper) !important; text-decoration:none !important; }
+
+/* === BREADCRUMBS === */
+div.breadcrumbs { background:#111 !important; color:#aaa !important; padding:7px var(--sp4) !important; font-size:10px !important; font-weight:500 !important; letter-spacing:0.08em !important; text-transform:uppercase !important; border-bottom:none !important; }
+div.breadcrumbs a, div.breadcrumbs a:link { color:#ddd !important; text-decoration:none !important; }
+div.breadcrumbs a:hover { color:var(--paper) !important; }
+
+/* === CONTENT === */
+#content { padding:var(--sp4) !important; background:var(--paper) !important; }
+#content-main { background:var(--paper) !important; }
+#content h1 { font-family:var(--serif) !important; font-size:26px !important; font-weight:700 !important; letter-spacing:-0.02em !important; color:var(--ink) !important; margin:0 0 var(--sp1) !important; background:transparent !important; }
+
+/* Subtitle italic */
+.colM > h2:first-of-type { font-family:var(--serif) !important; font-style:italic !important; font-size:15px !important; font-weight:400 !important; color:var(--quiet) !important; background:transparent !important; padding:0 !important; text-transform:none !important; letter-spacing:0 !important; margin:0 0 var(--sp3) !important; }
+
+/* === SIDEBAR === */
+#nav-sidebar { background:var(--paper) !important; border-right:1px solid var(--border) !important; }
+#nav-sidebar .module caption { background:var(--ink) !important; padding:9px var(--sp3) !important; font-size:10px !important; font-weight:700 !important; letter-spacing:0.14em !important; text-transform:uppercase !important; color:var(--paper) !important; }
+#nav-sidebar .module caption a, #nav-sidebar .module caption a:link { color:var(--paper) !important; text-decoration:none !important; }
+#nav-sidebar .module table th { background:var(--paper) !important; color:var(--ink) !important; font-size:13px !important; font-weight:400 !important; padding:8px var(--sp3) !important; border-bottom:1px solid var(--border) !important; }
+#nav-sidebar .module table th a { color:var(--ink) !important; }
+#nav-sidebar .current-model { background:var(--mist) !important; }
+
+/* === MODULE (dashboard) === */
+.module { border:1px solid var(--ink) !important; background:var(--paper) !important; margin-bottom:var(--sp3) !important; }
+.module > caption, .module > h2 { font-family:var(--font) !important; font-size:10px !important; font-weight:700 !important; letter-spacing:0.14em !important; text-transform:uppercase !important; background:var(--ink) !important; color:var(--paper) !important; padding:9px var(--sp3) !important; margin:0 !important; display:block !important; }
+.module > caption a, .module > caption a:link, .module > h2 a { color:var(--paper) !important; text-decoration:none !important; }
+.module table td, .module table tbody th { background:var(--paper) !important; color:var(--ink) !important; font-size:13px !important; padding:9px var(--sp3) !important; border-bottom:1px solid var(--border) !important; }
+.module table tr:last-child td, .module table tr:last-child th { border-bottom:none !important; }
+.module table tr:hover td, .module table tr:hover th { background:var(--mist) !important; }
+.module table td a, .module table tbody th a { color:var(--ink) !important; font-weight:500 !important; }
+
+/* === FIELDSETS === */
+fieldset { border:1px solid var(--ink) !important; background:var(--paper) !important; margin:0 0 var(--sp3) !important; padding:0 !important; }
+fieldset + fieldset { margin-top:-1px !important; }
+fieldset > h2, fieldset.module > h2, .fieldset-heading { font-family:var(--font) !important; font-size:10px !important; font-weight:700 !important; letter-spacing:0.14em !important; text-transform:uppercase !important; background:var(--ink) !important; color:var(--paper) !important; padding:9px var(--sp3) !important; margin:0 !important; display:block !important; }
+.form-row { padding:var(--sp2) var(--sp3) !important; border-bottom:1px solid #eee !important; background:var(--paper) !important; margin:0 !important; }
+.form-row:last-child { border-bottom:none !important; }
+.form-row label, label { font-size:10px !important; font-weight:700 !important; letter-spacing:0.08em !important; text-transform:uppercase !important; color:var(--ink) !important; background:transparent !important; margin-bottom:var(--sp1) !important; }
+
+/* === INPUTS === */
+input[type="text"], input[type="url"], input[type="email"], input[type="search"], input[type="password"], input[type="number"], textarea, select { font-family:var(--font) !important; font-size:13px !important; color:var(--ink) !important; background:var(--paper) !important; border:1px solid var(--ink) !important; padding:7px 10px !important; width:100% !important; max-width:100% !important; line-height:1.4 !important; }
+input:focus, textarea:focus, select:focus { outline:2px solid var(--ink) !important; outline-offset:-1px !important; box-shadow:none !important; }
+textarea { min-height:100px !important; resize:vertical !important; }
+input[type="number"] { width:90px !important; max-width:90px !important; }
+input[type="checkbox"] { width:14px !important; height:14px !important; accent-color:var(--ink) !important; cursor:pointer !important; }
+select { -webkit-appearance:none !important; appearance:none !important; background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='10' height='6' viewBox='0 0 10 6'%3E%3Cpath d='M0 0l5 6 5-6z' fill='%23000'/%3E%3C/svg%3E") !important; background-repeat:no-repeat !important; background-position:right 10px center !important; padding-right:28px !important; }
+
+/* === BUTTONS === */
+input[type="submit"], button[type="submit"], .button, a.button { font-family:var(--font) !important; font-size:10px !important; font-weight:700 !important; letter-spacing:0.12em !important; text-transform:uppercase !important; background:var(--ink) !important; color:var(--paper) !important; border:1px solid var(--ink) !important; padding:9px var(--sp3) !important; cursor:pointer !important; text-decoration:none !important; display:inline-block !important; line-height:1.2 !important; width:auto !important; max-width:none !important; }
+input[type="submit"]:hover, .button:hover, a.button:hover { background:#333 !important; border-color:#333 !important; text-decoration:none !important; }
+
+.submit-row { background:var(--mist) !important; border:none !important; border-top:2px solid var(--ink) !important; padding:var(--sp3) !important; margin-top:var(--sp3) !important; display:flex !important; flex-direction:row !important; align-items:center !important; flex-wrap:wrap !important; gap:var(--sp2) !important; }
+.submit-row input, .submit-row a.button { margin:0 !important; }
+.submit-row a.deletelink { margin-left:auto !important; font-size:10px !important; font-weight:700 !important; letter-spacing:0.1em !important; text-transform:uppercase !important; color:var(--ink) !important; text-decoration:underline !important; background:transparent !important; border:none !important; padding:0 !important; }
+
+.object-tools { margin-bottom:var(--sp3) !important; list-style:none !important; padding:0 !important; display:flex !important; gap:var(--sp2) !important; }
+.object-tools li { display:inline !important; }
+.object-tools a, .object-tools a.historylink, .object-tools a.addlink { font-size:10px !important; font-weight:700 !important; letter-spacing:0.1em !important; text-transform:uppercase !important; background:var(--ink) !important; color:var(--paper) !important; border:1px solid var(--ink) !important; padding:7px var(--sp3) !important; text-decoration:none !important; display:inline-block !important; }
+.object-tools a:hover { background:#333 !important; border-color:#333 !important; }
+
+/* === LIST VIEW === */
+#result_list { border:1px solid var(--ink) !important; width:100% !important; border-collapse:collapse !important; }
+#result_list thead tr th { background:var(--ink) !important; color:var(--paper) !important; font-size:10px !important; font-weight:700 !important; letter-spacing:0.1em !important; text-transform:uppercase !important; padding:10px var(--sp3) !important; border:none !important; white-space:nowrap !important; }
+#result_list thead th a, #result_list thead th a:link { color:var(--paper) !important; text-decoration:none !important; }
+#result_list thead th.sorted { background:#1a1a1a !important; }
+
+#result_list tbody tr td, #result_list tbody tr th { background:var(--paper) !important; color:var(--ink) !important; font-size:13px !important; padding:9px var(--sp3) !important; border-bottom:1px solid #eee !important; vertical-align:middle !important; }
+#result_list tbody tr:last-child td, #result_list tbody tr:last-child th { border-bottom:none !important; }
+#result_list tbody tr:hover td, #result_list tbody tr:hover th { background:var(--mist) !important; }
+#result_list tbody tr.selected td, #result_list tbody tr.selected th { background:#f0f0f0 !important; }
+#result_list tbody th a, #result_list tbody td a { color:var(--ink) !important; font-weight:500 !important; text-decoration:none !important; }
+#result_list tbody th a:hover, #result_list tbody td a:hover { text-decoration:underline !important; }
+#result_list td input[type="text"], #result_list td input[type="number"] { border:1px solid var(--border) !important; padding:4px 6px !important; width:auto !important; min-width:50px !important; max-width:100px !important; }
+
+/* Checkbox */
+#result_list th.action-checkbox-column, #result_list td.action-checkbox { width:32px !important; padding:8px var(--sp2) !important; background:var(--paper) !important; border-right:1px solid #eee !important; }
+
+/* === SEARCH & ACTION BAR === */
+#toolbar { background:var(--paper) !important; border:none !important; border-bottom:1px solid var(--border) !important; padding:var(--sp2) 0 !important; margin-bottom:var(--sp2) !important; display:flex !important; align-items:center !important; }
+#toolbar form { display:flex !important; align-items:center !important; gap:var(--sp1) !important; }
+#searchbar { height:34px !important; padding:0 10px !important; font-size:13px !important; border:1px solid var(--ink) !important; width:260px !important; max-width:260px !important; }
+#toolbar input[type="submit"] { height:34px !important; padding:0 var(--sp3) !important; }
+
+.actions { display:flex !important; flex-direction:row !important; align-items:center !important; gap:var(--sp2) !important; padding:var(--sp2) 0 !important; border-bottom:1px solid var(--border) !important; background:var(--paper) !important; flex-wrap:nowrap !important; }
+.actions label { font-size:10px !important; font-weight:700 !important; letter-spacing:0.08em !important; text-transform:uppercase !important; color:var(--ink) !important; background:transparent !important; margin:0 !important; display:inline !important; width:auto !important; }
+.actions select { width:200px !important; max-width:200px !important; min-width:unset !important; height:34px !important; }
+.actions input[type="submit"] { height:34px !important; padding:0 var(--sp3) !important; flex-shrink:0 !important; }
+.action-counter, .actions span { font-size:12px !important; color:var(--quiet) !important; margin-left:auto !important; }
+
+/* Filter */
+#changelist-filter { background:var(--paper) !important; border:1px solid var(--ink) !important; padding:0 !important; }
+#changelist-filter h2 { background:var(--ink) !important; color:var(--paper) !important; font-size:10px !important; font-weight:700 !important; letter-spacing:0.14em !important; text-transform:uppercase !important; padding:9px var(--sp3) !important; margin:0 !important; }
+#changelist-filter h3 { font-size:10px !important; font-weight:700 !important; letter-spacing:0.08em !important; text-transform:uppercase !important; color:var(--ink) !important; padding:var(--sp2) var(--sp3) 0 !important; margin:0 !important; background:transparent !important; }
+#changelist-filter ul { padding:var(--sp1) var(--sp3) var(--sp2) !important; margin:0 !important; }
+#changelist-filter li { font-size:13px !important; padding:2px 0 !important; list-style:none !important; }
+#changelist-filter li a { color:var(--ink) !important; }
+#changelist-filter li.selected a { font-weight:700 !important; text-decoration:underline !important; }
+
+/* === INLINE === */
+.inline-group { border:1px solid var(--ink) !important; margin-top:var(--sp4) !important; background:var(--paper) !important; }
+.inline-group > h2 { font-family:var(--font) !important; font-size:10px !important; font-weight:700 !important; letter-spacing:0.14em !important; text-transform:uppercase !important; background:var(--ink) !important; color:var(--paper) !important; padding:9px var(--sp3) !important; margin:0 !important; }
+.inline-related.has_original, .inline-related:not(.empty-form) { border:none !important; border-bottom:1px solid var(--border) !important; background:var(--paper) !important; margin:0 !important; padding:0 !important; }
+.inline-related.empty-form { display:none !important; }
+.inline-related h3 { background:var(--mist) !important; color:var(--ink) !important; border-bottom:1px solid var(--border) !important; font-family:var(--font) !important; font-size:10px !important; font-weight:700 !important; letter-spacing:0.1em !important; text-transform:uppercase !important; padding:var(--sp2) var(--sp3) !important; margin:0 !important; }
+.inline-related h3 .inline_label { color:var(--ink) !important; background:transparent !important; }
+.inline-related .form-row { padding:var(--sp2) var(--sp3) !important; border-bottom:1px solid #eee !important; background:var(--paper) !important; }
+.inline-related .form-row:last-child { border-bottom:none !important; }
+.inline-group .add-row { border:none !important; border-top:1px dashed var(--border) !important; background:var(--mist) !important; padding:var(--sp2) var(--sp3) !important; }
+.inline-group .add-row a { font-size:10px !important; font-weight:700 !important; letter-spacing:0.1em !important; text-transform:uppercase !important; color:var(--ink) !important; text-decoration:none !important; }
+.inline-group .add-row a:hover { text-decoration:underline !important; }
+.inline-related .delete label, .inline-related .inline_label.vCheckboxLabel { font-size:10px !important; font-weight:700 !important; text-transform:uppercase !important; letter-spacing:0.08em !important; color:var(--ink) !important; background:transparent !important; }
+
+/* === MISC === */
+.help, p.help, span.help { font-size:11px !important; font-style:italic !important; color:var(--quiet) !important; background:transparent !important; margin-top:var(--sp1) !important; }
+.readonly { font-size:13px !important; color:var(--quiet) !important; padding:6px 10px !important; border:1px solid var(--border) !important; background:var(--mist) !important; display:inline-block !important; }
+.messagelist { padding:0 !important; margin-bottom:var(--sp3) !important; }
+.messagelist li { font-size:13px !important; background:var(--ink) !important; color:var(--paper) !important; padding:var(--sp2) var(--sp3) !important; margin-bottom:2px !important; list-style:none !important; border:none !important; }
+.messagelist li.error { background:#333 !important; }
+.paginator { font-size:12px !important; padding:var(--sp2) 0 !important; }
+.paginator a { color:var(--ink) !important; border:1px solid var(--ink) !important; padding:3px 9px !important; display:inline-block !important; text-decoration:none !important; }
+.paginator a:hover { background:var(--ink) !important; color:var(--paper) !important; }
+::-webkit-scrollbar { width:5px; height:5px; }
+::-webkit-scrollbar-track { background:var(--paper); }
+::-webkit-scrollbar-thumb { background:var(--border); }
+::-webkit-scrollbar-thumb:hover { background:var(--ink); }
+
+/* Fix: action bar overflow */
+.actions { flex-wrap:wrap !important; }
+.actions input[type="submit"] { min-width:90px !important; }
+.action-counter, .actions span.action-counter { flex-basis:100% !important; order:10 !important; margin-left:0 !important; }
