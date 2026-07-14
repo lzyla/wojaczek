@@ -1,0 +1,919 @@
+{
+  "id": "niedziela",
+  "title": "Niedziela",
+  "wordCount": 80,
+  "lineCount": 15,
+  "uniqueWords": 79,
+  "vocabularyRichness": 0.988,
+  "avgWordsPerLine": 5.33,
+  "wordsPerLineDistribution": [
+    6,
+    5,
+    5,
+    4,
+    7,
+    6,
+    6,
+    7,
+    5,
+    7,
+    7,
+    5,
+    2,
+    2,
+    6
+  ],
+  "wordFrequencies": [
+    [
+      "morze",
+      1
+    ],
+    [
+      "śród",
+      1
+    ],
+    [
+      "ciała",
+      1
+    ],
+    [
+      "zawsze",
+      1
+    ],
+    [
+      "wierne",
+      1
+    ],
+    [
+      "gęste",
+      1
+    ],
+    [
+      "soli",
+      1
+    ],
+    [
+      "okresowy",
+      1
+    ],
+    [
+      "ból",
+      1
+    ],
+    [
+      "wzruszone",
+      1
+    ],
+    [
+      "dna",
+      1
+    ],
+    [
+      "wahadłem",
+      1
+    ],
+    [
+      "księżyca",
+      1
+    ],
+    [
+      "najwyższa",
+      1
+    ],
+    [
+      "fala",
+      1
+    ],
+    [
+      "owocuje",
+      1
+    ],
+    [
+      "chełbią",
+      1
+    ],
+    [
+      "lepką",
+      1
+    ],
+    [
+      "czarną",
+      1
+    ],
+    [
+      "nogach",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 0,
+    "period": 0,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 6,
+    "colon": 0,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 0,
+  "negationWords": [],
+  "pronounDistribution": {
+    "ja": 4,
+    "ty": 0,
+    "on_ona": 1,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 0,
+    "smierc": 0,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 1,
+    "bol": 1
+  },
+  "anaphors": [],
+  "firstWord": "moje",
+  "lastWord": "stworzenia",
+  "avgWordLength": 5.25,
+  "wordLengthDistribution": {
+    "4-5": 26,
+    "6-7": 18,
+    "1-3": 20,
+    "8-9": 12,
+    "10+": 4
+  },
+  "bigrams": [
+    [
+      "morze śród",
+      1
+    ],
+    [
+      "śród ciała",
+      1
+    ],
+    [
+      "ciała zawsze",
+      1
+    ],
+    [
+      "zawsze wierne",
+      1
+    ],
+    [
+      "wierne gęste",
+      1
+    ],
+    [
+      "soli okresowy",
+      1
+    ],
+    [
+      "okresowy ból",
+      1
+    ],
+    [
+      "ból wzruszone",
+      1
+    ],
+    [
+      "dna wahadłem",
+      1
+    ],
+    [
+      "wahadłem księżyca",
+      1
+    ]
+  ],
+  "poemWords": [
+    "morze",
+    "śród",
+    "ciała",
+    "zawsze",
+    "wierne",
+    "gęste",
+    "soli",
+    "okresowy",
+    "ból",
+    "wzruszone",
+    "dna",
+    "wahadłem",
+    "księżyca",
+    "najwyższa",
+    "fala",
+    "owocuje",
+    "chełbią",
+    "lepką",
+    "czarną",
+    "nogach",
+    "cieknie",
+    "śpiącym",
+    "mężem",
+    "rozkraczam",
+    "sen",
+    "nakarmiam",
+    "głód",
+    "zmysłowy",
+    "brzegu",
+    "śpi",
+    "syta",
+    "ryba",
+    "zakotwiczony",
+    "włosach",
+    "polska",
+    "planecie",
+    "którą",
+    "wywiódł",
+    "głodu",
+    "samą",
+    "tęsknotą",
+    "bogiem",
+    "sennym",
+    "pomysłem",
+    "dzisiaj",
+    "odpoczywa",
+    "dwudziesty",
+    "ósmy",
+    "dzień",
+    "stworzenia"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 21,
+        "VERB": 9,
+        "ADJ": 13,
+        "ADV": 4,
+        "PRON": 5,
+        "ADP": 12,
+        "CCONJ": 1,
+        "SCONJ": 1,
+        "INTJ": 0,
+        "PART": 2,
+        "DET": 6,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.259,
+        "VERB": 0.111,
+        "ADJ": 0.16,
+        "ADV": 0.049,
+        "PRON": 0.062,
+        "ADP": 0.148,
+        "CCONJ": 0.012,
+        "SCONJ": 0.012,
+        "INTJ": 0,
+        "PART": 0.025,
+        "DET": 0.074,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 2,
+        "abstract": 3,
+        "ratio": 0.4
+      },
+      "verbTenses": {
+        "past": 2,
+        "present": 9,
+        "infinitive": 1
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 3,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 1,
+        "oceniajace": 0,
+        "opisowe": 12
+      },
+      "adverbs": {
+        "temporalne": [
+          "zawsze"
+        ],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "zawsze",
+            "count": 1
+          },
+          {
+            "word": "kiedy",
+            "count": 1
+          },
+          {
+            "word": "gdy",
+            "count": 1
+          },
+          {
+            "word": "dzisiaj",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 1,
+        "ty": 0,
+        "on_ona": 2,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 0,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 0,
+        "percentSentences": 0
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 179,
+        "consonants": 250,
+        "ratio": 0.72
+      },
+      "consonantClusters": {
+        "count": 10,
+        "top": [
+          {
+            "cluster": "prz",
+            "count": 2
+          },
+          {
+            "cluster": "wsz",
+            "count": 1
+          },
+          {
+            "cluster": "wzr",
+            "count": 1
+          },
+          {
+            "cluster": "ższ",
+            "count": 1
+          },
+          {
+            "cluster": "zkr",
+            "count": 1
+          },
+          {
+            "cluster": "brz",
+            "count": 1
+          },
+          {
+            "cluster": "lsk",
+            "count": 1
+          },
+          {
+            "cluster": "skn",
+            "count": 1
+          },
+          {
+            "cluster": "stw",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 16,
+        "syczace": 43,
+        "nosowe": 55,
+        "plynne": 33
+      },
+      "rhymes": {
+        "exact": 0,
+        "approximate": 1,
+        "internal": 0,
+        "assonance": 0,
+        "alliteration": 2
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 16.2,
+        "median": 13,
+        "min": 7,
+        "max": 27,
+        "distribution": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 5.4,
+        "meanSyllables": 11.8,
+        "distribution": [
+          0,
+          1,
+          2,
+          0,
+          1,
+          2,
+          4,
+          5,
+          0,
+          1
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 5,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 1,
+        "noSubject": 0,
+        "noPredicate": 0,
+        "percent": 0.2
+      },
+      "enjambement": {
+        "count": 1,
+        "percent": 0.07,
+        "positions": [
+          6
+        ]
+      },
+      "wordOrder": {
+        "svo": 1,
+        "inversions": 3,
+        "other": 1,
+        "deviationPercent": 0.8
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 1,
+        "śmierć": 0,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 1,
+        "ból": 1
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 188,
+      "estimatedSeconds": 63,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 21,
+      "VERB": 9,
+      "ADJ": 13,
+      "ADV": 4,
+      "PRON": 5,
+      "ADP": 12,
+      "CCONJ": 1,
+      "SCONJ": 1,
+      "INTJ": 0,
+      "PART": 2,
+      "DET": 6,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.259,
+      "VERB": 0.111,
+      "ADJ": 0.16,
+      "ADV": 0.049,
+      "PRON": 0.062,
+      "ADP": 0.148,
+      "CCONJ": 0.012,
+      "SCONJ": 0.012,
+      "INTJ": 0,
+      "PART": 0.025,
+      "DET": 0.074,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 2,
+      "abstract": 3,
+      "ratio": 0.4
+    },
+    "verbTenses": {
+      "past": 2,
+      "present": 9,
+      "infinitive": 1
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 3,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 1,
+      "oceniajace": 0,
+      "opisowe": 12
+    },
+    "adverbs": {
+      "temporalne": [
+        "zawsze"
+      ],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "zawsze",
+          "count": 1
+        },
+        {
+          "word": "kiedy",
+          "count": 1
+        },
+        {
+          "word": "gdy",
+          "count": 1
+        },
+        {
+          "word": "dzisiaj",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 1,
+      "ty": 0,
+      "on_ona": 2,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 0,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 0,
+      "percentSentences": 0
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 16.2,
+      "median": 13,
+      "min": 7,
+      "max": 27,
+      "distribution": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 5.4,
+      "meanSyllables": 11.8,
+      "distribution": [
+        0,
+        1,
+        2,
+        0,
+        1,
+        2,
+        4,
+        5,
+        0,
+        1
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 5,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 1,
+      "noSubject": 0,
+      "noPredicate": 0,
+      "percent": 0.2
+    },
+    "enjambement": {
+      "count": 1,
+      "percent": 0.07,
+      "positions": [
+        6
+      ]
+    },
+    "wordOrder": {
+      "svo": 1,
+      "inversions": 3,
+      "other": 1,
+      "deviationPercent": 0.8
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 179,
+      "consonants": 250,
+      "ratio": 0.72
+    },
+    "consonantClusters": {
+      "count": 10,
+      "top": [
+        {
+          "cluster": "prz",
+          "count": 2
+        },
+        {
+          "cluster": "wsz",
+          "count": 1
+        },
+        {
+          "cluster": "wzr",
+          "count": 1
+        },
+        {
+          "cluster": "ższ",
+          "count": 1
+        },
+        {
+          "cluster": "zkr",
+          "count": 1
+        },
+        {
+          "cluster": "brz",
+          "count": 1
+        },
+        {
+          "cluster": "lsk",
+          "count": 1
+        },
+        {
+          "cluster": "skn",
+          "count": 1
+        },
+        {
+          "cluster": "stw",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 16,
+      "syczace": 43,
+      "nosowe": 55,
+      "plynne": 33
+    },
+    "rhymes": {
+      "exact": 0,
+      "approximate": 1,
+      "internal": 0,
+      "assonance": 0,
+      "alliteration": 2
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        16
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 188,
+      "estimatedSeconds": 63,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "regularny",
+      "regularityScore": 0.72
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Biblia",
+          "reference": "Księga Rodzaju - stworzenie świata",
+          "evidence": "W dwudziesty ósmy dzień swego stworzenia"
+        },
+        {
+          "source": "Biblia",
+          "reference": "odpoczynek Boga w siódmy dzień",
+          "evidence": "Dzisiaj odpoczywa"
+        },
+        {
+          "source": "mitologia",
+          "reference": "cykliczność księżycowa",
+          "evidence": "wahadłem księżyca"
+        },
+        {
+          "source": "inne",
+          "reference": "polska poezja erotyczna",
+          "evidence": "To ja dla niego jestem właśnie Polska"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.3,
+        "baudelaire": 0.4,
+        "bursa": 0.2,
+        "stachura": 0.3,
+        "grochowiak": 0.7,
+        "bialoszewski": 0.1,
+        "rozewicz": 0.2
+      }
+    },
+    "space": {
+      "type": "zamknieta",
+      "evidence": "intymna przestrzeń łóżka, ciało jako zamknięte morze",
+      "openClosedRatio": 0.2
+    },
+    "timeOfDay": {
+      "period": "noc",
+      "season": "nieokreslona",
+      "evidence": "nad śpiącym mężem, Przez sen nakarmiam"
+    },
+    "motion": {
+      "movement": 7,
+      "stillness": 6,
+      "dynamism": 0.6,
+      "evidence": "rozkraczam, cieknie, wahadłem księżyca vs śpiącym, zakotwiczony"
+    },
+    "imageryDensity": {
+      "metaphors": 8,
+      "comparisons": 2,
+      "personifications": 3,
+      "hyperboles": 2,
+      "per100words": 18.7
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.9,
+      "creationLevel": 0.8,
+      "ironicDistance": 0.2,
+      "autobiographicSignals": [
+        "Moje morze",
+        "ja dla niego",
+        "moim brzegu",
+        "moich włosach"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "czułość",
+      "secondary": "melancholia",
+      "intensity": 0.8
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "Podmiot kobiecy mówi w pierwszej osobie: 'Moje morze', 'To ja dla niego jestem', 'rozkraczam'"
+    },
+    "addressee": {
+      "type": "nikt",
+      "evidence": "Brak bezpośredniego zwracania się do kogoś - monolog wewnętrzny o relacji z mężem"
+    },
+    "metaphors": [
+      {
+        "source": "morze",
+        "target": "ciało kobiece",
+        "example": "Moje morze – śród ciała zawsze wierne"
+      },
+      {
+        "source": "fala",
+        "target": "orgazm",
+        "example": "Najwyższa fala owocuje chełbią"
+      },
+      {
+        "source": "Polska",
+        "target": "kobieta",
+        "example": "To ja dla niego jestem właśnie Polska"
+      },
+      {
+        "source": "ryba",
+        "target": "mąż",
+        "example": "Przy moim brzegu gdy śpi – syta ryba"
+      }
+    ],
+    "temperature": {
+      "value": 0.6,
+      "label": "ciepłe - intymność i zmysłowość"
+    },
+    "senses": {
+      "wzrok": 4,
+      "sluch": 1,
+      "dotyk": 5,
+      "smak": 2,
+      "zapach": 1
+    },
+    "autodestruction": {
+      "level": 0.2,
+      "signals": [
+        "okresowy ból",
+        "melancholijny ton opisu relacji"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 0.657,
+    "dfaAlpha": 0.852,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -0.8573992140459632
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -1.0074515102711326
+      },
+      {
+        "logWin": 1.6094379124341003,
+        "logFluc": -0.3875047144202841
+      }
+    ],
+    "seriesLength": 15,
+    "series": [
+      6,
+      5,
+      5,
+      4,
+      7,
+      6,
+      6,
+      7,
+      5,
+      7,
+      7,
+      5,
+      2,
+      2,
+      6
+    ]
+  }
+}

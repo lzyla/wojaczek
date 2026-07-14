@@ -1,0 +1,624 @@
+{
+  "id": "ballada-o-gownie",
+  "title": "Ballada o gównie",
+  "wordCount": 15,
+  "lineCount": 5,
+  "uniqueWords": 12,
+  "vocabularyRichness": 0.8,
+  "avgWordsPerLine": 3,
+  "wordsPerLineDistribution": [
+    3,
+    3,
+    1,
+    3,
+    5
+  ],
+  "wordFrequencies": [
+    [
+      "kupa",
+      2
+    ],
+    [
+      "gówna",
+      2
+    ],
+    [
+      "czomolungma",
+      1
+    ],
+    [
+      "stanisławowi",
+      1
+    ],
+    [
+      "stanleyowi",
+      1
+    ],
+    [
+      "ścierskiemu",
+      1
+    ],
+    [
+      "28",
+      1
+    ],
+    [
+      "iv",
+      1
+    ],
+    [
+      "69",
+      1
+    ],
+    [
+      "wrocławiu",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 0,
+    "period": 0,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 0,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 0,
+  "negationWords": [],
+  "pronounDistribution": {
+    "ja": 0,
+    "ty": 0,
+    "on_ona": 0,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 0,
+    "smierc": 0,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [
+    [
+      "jestem",
+      2
+    ]
+  ],
+  "firstWord": "jestem",
+  "lastWord": "wrocławiu",
+  "avgWordLength": 6.07,
+  "wordLengthDistribution": {
+    "6-7": 2,
+    "4-5": 4,
+    "10+": 4,
+    "1-3": 4,
+    "8-9": 1
+  },
+  "bigrams": [
+    [
+      "jestem kupa",
+      2
+    ],
+    [
+      "kupa gówna",
+      2
+    ],
+    [
+      "gówna jestem",
+      1
+    ],
+    [
+      "gówna czomolungma",
+      1
+    ],
+    [
+      "czomolungma stanisławowi",
+      1
+    ],
+    [
+      "stanisławowi stanleyowi",
+      1
+    ],
+    [
+      "stanleyowi ścierskiemu",
+      1
+    ],
+    [
+      "ścierskiemu 28",
+      1
+    ],
+    [
+      "28 iv",
+      1
+    ],
+    [
+      "iv 69",
+      1
+    ]
+  ],
+  "poemWords": [
+    "kupa",
+    "gówna",
+    "czomolungma",
+    "stanisławowi",
+    "stanleyowi",
+    "ścierskiemu",
+    "wrocławiu"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 4,
+        "VERB": 0,
+        "ADJ": 0,
+        "ADV": 0,
+        "PRON": 0,
+        "ADP": 0,
+        "CCONJ": 0,
+        "SCONJ": 0,
+        "INTJ": 0,
+        "PART": 0,
+        "DET": 0,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.4,
+        "VERB": 0,
+        "ADJ": 0,
+        "ADV": 0,
+        "PRON": 0,
+        "ADP": 0,
+        "CCONJ": 0,
+        "SCONJ": 0,
+        "INTJ": 0,
+        "PART": 0,
+        "DET": 0,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 0,
+        "abstract": 0,
+        "ratio": 0
+      },
+      "verbTenses": {
+        "present": 2
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 2,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 0,
+        "opisowe": 0
+      },
+      "adverbs": {
+        "temporalne": [],
+        "modalne": [],
+        "sposobu": [],
+        "top": []
+      },
+      "pronouns": {
+        "ja": 0,
+        "ty": 0,
+        "on_ona": 0,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 0,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 0,
+        "percentSentences": 0
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 31,
+        "consonants": 43,
+        "ratio": 0.72
+      },
+      "consonantClusters": {
+        "count": 2,
+        "top": [
+          {
+            "cluster": "ngm",
+            "count": 1
+          },
+          {
+            "cluster": "rsk",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 1,
+        "syczace": 8,
+        "nosowe": 10,
+        "plynne": 4
+      },
+      "rhymes": {
+        "exact": 1,
+        "approximate": 0,
+        "internal": 0,
+        "assonance": 1,
+        "alliteration": 1
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 10,
+        "median": 10,
+        "min": 10,
+        "max": 10,
+        "distribution": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 2.5,
+        "meanSyllables": 7.8,
+        "distribution": [
+          0,
+          1,
+          0,
+          3
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 1,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 0,
+        "noSubject": 0,
+        "noPredicate": 0,
+        "percent": 0
+      },
+      "enjambement": {
+        "count": 0,
+        "percent": 0,
+        "positions": []
+      },
+      "wordOrder": {
+        "svo": 0,
+        "inversions": 0,
+        "other": 1,
+        "deviationPercent": 1
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 0,
+        "śmierć": 0,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 31,
+      "estimatedSeconds": 10,
+      "tempoCategory": "szybkie"
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "inne",
+          "reference": "Czomolungma (Mount Everest)",
+          "evidence": "tytuł nawiązuje do najwyższego szczytu świata, kontrastując z autodestrukcyjną treścią"
+        },
+        {
+          "source": "inne",
+          "reference": "dedykacja literacka",
+          "evidence": "wiersz dedykowany Stanisławowi Stanleyowi Ścierskiemu z datą i miejscem"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.3,
+        "baudelaire": 0.2,
+        "bursa": 0.8,
+        "stachura": 0.7,
+        "grochowiak": 0.4,
+        "bialoszewski": 0.6,
+        "rozewicz": 0.5
+      }
+    },
+    "space": {
+      "type": "nieokreslona",
+      "evidence": "brak konkretnych wskazówek przestrzennych, lokalizacja tylko w dedykacji",
+      "openClosedRatio": 0.5
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "wiosna",
+      "evidence": "data w dedykacji wskazuje na kwiecień - okres wiosenny",
+      "openClosedRatio": 0.5
+    },
+    "motion": {
+      "movement": 0,
+      "stillness": 10,
+      "dynamism": 0,
+      "evidence": "całkowita statyczność wypowiedzi, brak czasowników ruchu"
+    },
+    "imageryDensity": {
+      "metaphors": 1,
+      "comparisons": 0,
+      "personifications": 0,
+      "hyperboles": 1,
+      "per100words": 200
+    },
+    "maskSincerity": {
+      "confessionLevel": 1,
+      "creationLevel": 0.2,
+      "ironicDistance": 0.1,
+      "autobiographicSignals": [
+        "pierwszoosobowa forma",
+        "radykalna autodestrukcyjna autoprezentacja",
+        "data i miejsce w dedykacji"
+      ]
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 4,
+      "VERB": 0,
+      "ADJ": 0,
+      "ADV": 0,
+      "PRON": 0,
+      "ADP": 0,
+      "CCONJ": 0,
+      "SCONJ": 0,
+      "INTJ": 0,
+      "PART": 0,
+      "DET": 0,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.4,
+      "VERB": 0,
+      "ADJ": 0,
+      "ADV": 0,
+      "PRON": 0,
+      "ADP": 0,
+      "CCONJ": 0,
+      "SCONJ": 0,
+      "INTJ": 0,
+      "PART": 0,
+      "DET": 0,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 0,
+      "abstract": 0,
+      "ratio": 0
+    },
+    "verbTenses": {
+      "present": 2
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 2,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 0,
+      "opisowe": 0
+    },
+    "adverbs": {
+      "temporalne": [],
+      "modalne": [],
+      "sposobu": [],
+      "top": []
+    },
+    "pronouns": {
+      "ja": 0,
+      "ty": 0,
+      "on_ona": 0,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 0,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 0,
+      "percentSentences": 0
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 10,
+      "median": 10,
+      "min": 10,
+      "max": 10,
+      "distribution": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 2.5,
+      "meanSyllables": 7.8,
+      "distribution": [
+        0,
+        1,
+        0,
+        3
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 1,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 0,
+      "noSubject": 0,
+      "noPredicate": 0,
+      "percent": 0
+    },
+    "enjambement": {
+      "count": 0,
+      "percent": 0,
+      "positions": []
+    },
+    "wordOrder": {
+      "svo": 0,
+      "inversions": 0,
+      "other": 1,
+      "deviationPercent": 1
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 31,
+      "consonants": 43,
+      "ratio": 0.72
+    },
+    "consonantClusters": {
+      "count": 2,
+      "top": [
+        {
+          "cluster": "ngm",
+          "count": 1
+        },
+        {
+          "cluster": "rsk",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 1,
+      "syczace": 8,
+      "nosowe": 10,
+      "plynne": 4
+    },
+    "rhymes": {
+      "exact": 1,
+      "approximate": 0,
+      "internal": 0,
+      "assonance": 1,
+      "alliteration": 1
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        4
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 31,
+      "estimatedSeconds": 10,
+      "tempoCategory": "szybkie"
+    },
+    "regularity": {
+      "type": "wolny",
+      "regularityScore": 0.36
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "obrzydzenie",
+      "secondary": "rezygnacja",
+      "intensity": 0.9
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "Bezpośrednie wyznanie podmiotu 'Jestem kupa gówna'"
+    },
+    "addressee": {
+      "type": "czytelnik",
+      "evidence": "Dedykacja 'Stanisławowi Stanleyowi Ścierskiemu' wskazuje na konkretnego odbiorcę, ale wiersz kierowany do szerszej publiczności"
+    },
+    "metaphors": [
+      {
+        "source": "ekskrementy",
+        "target": "podmiot liryczny",
+        "example": "Jestem kupa gówna"
+      }
+    ],
+    "temperature": {
+      "value": 0.8,
+      "label": "gorące"
+    },
+    "senses": {
+      "wzrok": 2,
+      "sluch": 0,
+      "dotyk": 1,
+      "smak": 0,
+      "zapach": 3
+    },
+    "autodestruction": {
+      "level": 0.95,
+      "signals": [
+        "radykalna degradacja własnej osoby",
+        "utożsamienie siebie z ekskrementami",
+        "powtórzenie destrukcyjnego stwierdzenia",
+        "prowokacyjna autoprezentacja"
+      ]
+    }
+  }
+}

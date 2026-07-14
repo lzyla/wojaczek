@@ -1,5 +1,5 @@
 /// <reference types="vite/client" />
-import { useState, useEffect, useRef } from 'react';
+import { useState, useEffect, useRef, useCallback } from 'react';
 import { motion } from 'motion/react';
 import mapboxgl from 'mapbox-gl';
 import 'mapbox-gl/dist/mapbox-gl.css';
@@ -134,7 +134,31 @@ export const NavigationView = ({ targetPoint, onClose, onPointReached }: Navigat
     return () => { map.current?.remove(); };
   }, [targetPoint.id]);
 
-  // Watch user location
+  // Handle location update
+  const handleLocationUpdate = useCallback((lat: number, lng: number) => {
+    const loc = { lat, lng };
+    setUserLocation(loc);
+    setLocationError(false);
+
+    const dist = getDistanceMeters(loc.lat, loc.lng, targetPoint.lat, targetPoint.lng);
+    setDistance(Math.round(dist));
+
+    if (map.current) {
+      if (!userMarker.current) {
+        const el = document.createElement('div');
+        el.style.cssText = 'width:16px;height:16px;background:#3b82f6;border-radius:50%;border:3px solid white;box-shadow:0 0 10px rgba(59,130,246,0.5);';
+        userMarker.current = new mapboxgl.Marker(el).setLngLat([lng, lat]).addTo(map.current);
+      } else {
+        userMarker.current.setLngLat([lng, lat]);
+      }
+    }
+
+    if (dist <= PROXIMITY_THRESHOLD_METERS) {
+      onPointReached(targetPoint);
+    }
+  }, [targetPoint, onPointReached]);
+
+  // Watch user location — Web Geolocation API
   useEffect(() => {
     if (!navigator.geolocation) {
       setLocationError(true);
@@ -142,35 +166,13 @@ export const NavigationView = ({ targetPoint, onClose, onPointReached }: Navigat
     }
 
     const watchId = navigator.geolocation.watchPosition(
-      (pos) => {
-        const loc = { lat: pos.coords.latitude, lng: pos.coords.longitude };
-        setUserLocation(loc);
-        setLocationError(false);
-
-        const dist = getDistanceMeters(loc.lat, loc.lng, targetPoint.lat, targetPoint.lng);
-        setDistance(Math.round(dist));
-
-        // Update user marker on map
-        if (map.current) {
-          if (!userMarker.current) {
-            const el = document.createElement('div');
-            el.style.cssText = 'width:16px;height:16px;background:#3b82f6;border-radius:50%;border:3px solid white;box-shadow:0 0 10px rgba(59,130,246,0.5);';
-            userMarker.current = new mapboxgl.Marker(el).setLngLat([loc.lng, loc.lat]).addTo(map.current);
-          } else {
-            userMarker.current.setLngLat([loc.lng, loc.lat]);
-          }
-        }
-
-        if (dist <= PROXIMITY_THRESHOLD_METERS) {
-          onPointReached(targetPoint);
-        }
-      },
+      (pos) => handleLocationUpdate(pos.coords.latitude, pos.coords.longitude),
       () => setLocationError(true),
       { enableHighAccuracy: true, maximumAge: 5000, timeout: 10000 }
     );
 
     return () => navigator.geolocation.clearWatch(watchId);
-  }, [targetPoint, onPointReached]);
+  }, [targetPoint, onPointReached, handleLocationUpdate]);
 
   if (!MAPBOX_TOKEN) {
     return <FallbackMap targetPoint={targetPoint} onClose={onClose} />;

@@ -1,0 +1,1017 @@
+{
+  "id": "zapis-z-podziemia-2",
+  "title": "Zapis z podziemia",
+  "wordCount": 132,
+  "lineCount": 51,
+  "uniqueWords": 115,
+  "vocabularyRichness": 0.871,
+  "avgWordsPerLine": 2.59,
+  "wordsPerLineDistribution": [
+    3,
+    4,
+    4,
+    3,
+    3,
+    5,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    2,
+    2,
+    2,
+    4,
+    3,
+    4,
+    3,
+    2,
+    2,
+    2,
+    4,
+    4,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    3,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    3,
+    4
+  ],
+  "wordFrequencies": [
+    [
+      "kochanej",
+      7
+    ],
+    [
+      "kobiety",
+      7
+    ],
+    [
+      "rok",
+      2
+    ],
+    [
+      "dłoń",
+      2
+    ],
+    [
+      "sny",
+      2
+    ],
+    [
+      "łagodnego",
+      1
+    ],
+    [
+      "światła",
+      1
+    ],
+    [
+      "wzrok",
+      1
+    ],
+    [
+      "zdolny",
+      1
+    ],
+    [
+      "cieszyć",
+      1
+    ],
+    [
+      "słuch",
+      1
+    ],
+    [
+      "cierpliwy",
+      1
+    ],
+    [
+      "chłonny",
+      1
+    ],
+    [
+      "głos",
+      1
+    ],
+    [
+      "jedynego",
+      1
+    ],
+    [
+      "boga",
+      1
+    ],
+    [
+      "poważnej",
+      1
+    ],
+    [
+      "dłoni",
+      1
+    ],
+    [
+      "twarz",
+      1
+    ],
+    [
+      "pierś",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 0,
+    "period": 0,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 0,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 2,
+  "negationWords": [
+    "nie"
+  ],
+  "pronounDistribution": {
+    "ja": 1,
+    "ty": 0,
+    "on_ona": 1,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 7,
+    "smierc": 2,
+    "erotyka": 3,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 3,
+    "bol": 1
+  },
+  "anaphors": [
+    [
+      "dłoń",
+      2
+    ]
+  ],
+  "firstWord": "rok",
+  "lastWord": "rok",
+  "avgWordLength": 5.83,
+  "wordLengthDistribution": {
+    "1-3": 26,
+    "8-9": 24,
+    "6-7": 29,
+    "4-5": 41,
+    "10+": 12
+  },
+  "bigrams": [
+    [
+      "kochanej kobiety",
+      7
+    ],
+    [
+      "rok łagodnego",
+      1
+    ],
+    [
+      "łagodnego światła",
+      1
+    ],
+    [
+      "światła wzrok",
+      1
+    ],
+    [
+      "wzrok zdolny",
+      1
+    ],
+    [
+      "zdolny cieszyć",
+      1
+    ],
+    [
+      "słuch cierpliwy",
+      1
+    ],
+    [
+      "chłonny głos",
+      1
+    ],
+    [
+      "głos jedynego",
+      1
+    ],
+    [
+      "jedynego boga",
+      1
+    ],
+    [
+      "boga dłoń",
+      1
+    ]
+  ],
+  "poemWords": [
+    "rok",
+    "łagodnego",
+    "światła",
+    "wzrok",
+    "zdolny",
+    "cieszyć",
+    "słuch",
+    "cierpliwy",
+    "chłonny",
+    "głos",
+    "jedynego",
+    "boga",
+    "dłoń",
+    "kochanej",
+    "kobiety",
+    "poważnej",
+    "dłoni",
+    "twarz",
+    "pierś",
+    "brzuch",
+    "srom",
+    "jęk",
+    "spazm",
+    "dreszcz",
+    "rozkoszny",
+    "płacz",
+    "szczęśliwy",
+    "głód",
+    "zaspokojony",
+    "chleb",
+    "zasłużonej",
+    "mąki",
+    "schron",
+    "bezpiecznego",
+    "domu",
+    "gość",
+    "poproszony",
+    "dom",
+    "grosz",
+    "zarobiony",
+    "rym",
+    "wdzięczny",
+    "wiersz",
+    "serdeczny",
+    "noc",
+    "spokojna",
+    "sen",
+    "przynosi",
+    "sny",
+    "koszmary",
+    "świt",
+    "nieokrutny",
+    "strach",
+    "opanowany",
+    "gest",
+    "odmierzony",
+    "puls",
+    "równy",
+    "krok",
+    "stanowczy",
+    "wdzięk",
+    "osobisty",
+    "rdzeń",
+    "wydajny",
+    "kość",
+    "prosta",
+    "krew",
+    "obfita",
+    "ból",
+    "sublimujący",
+    "trud",
+    "nienadaremny",
+    "śmiech",
+    "niehisteryczny",
+    "smak",
+    "subtelny",
+    "los",
+    "człowieka",
+    "deszcz",
+    "ożywczy",
+    "śnieg",
+    "nieuciążliwy",
+    "mróz",
+    "niedotkliwy",
+    "piec",
+    "ciepły",
+    "łyk",
+    "dobrej",
+    "wódki",
+    "woń",
+    "róży",
+    "czas",
+    "pokoju",
+    "zmysł",
+    "zgody",
+    "myśl",
+    "lotna",
+    "cel",
+    "wytyczony",
+    "śmierć",
+    "pobożna",
+    "nowy",
+    "1970"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 63,
+        "VERB": 2,
+        "ADJ": 45,
+        "ADV": 1,
+        "PRON": 4,
+        "ADP": 6,
+        "CCONJ": 2,
+        "SCONJ": 0,
+        "INTJ": 0,
+        "PART": 3,
+        "DET": 0,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.467,
+        "VERB": 0.015,
+        "ADJ": 0.333,
+        "ADV": 0.007,
+        "PRON": 0.03,
+        "ADP": 0.044,
+        "CCONJ": 0.015,
+        "SCONJ": 0,
+        "INTJ": 0,
+        "PART": 0.022,
+        "DET": 0,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 8,
+        "abstract": 5,
+        "ratio": 0.62
+      },
+      "verbTenses": {
+        "infinitive": 1,
+        "present": 1
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 0,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 1,
+        "oceniajace": 1,
+        "opisowe": 43
+      },
+      "adverbs": {
+        "temporalne": [],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "niedotkliwy",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 1,
+        "ty": 0,
+        "on_ona": 1,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 2,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 2,
+        "percentSentences": 0.07
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 305,
+        "consonants": 475,
+        "ratio": 0.64
+      },
+      "consonantClusters": {
+        "count": 25,
+        "top": [
+          {
+            "cluster": "czn",
+            "count": 4
+          },
+          {
+            "cluster": "szcz",
+            "count": 3
+          },
+          {
+            "cluster": "wdz",
+            "count": 2
+          },
+          {
+            "cluster": "wcz",
+            "count": 2
+          },
+          {
+            "cluster": "wzr",
+            "count": 1
+          },
+          {
+            "cluster": "rpl",
+            "count": 1
+          },
+          {
+            "cluster": "chł",
+            "count": 1
+          },
+          {
+            "cluster": "brz",
+            "count": 1
+          },
+          {
+            "cluster": "szn",
+            "count": 1
+          },
+          {
+            "cluster": "chl",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 32,
+        "syczace": 80,
+        "nosowe": 85,
+        "plynne": 64
+      },
+      "rhymes": {
+        "exact": 20,
+        "approximate": 24,
+        "internal": 1,
+        "assonance": 5,
+        "alliteration": 5
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 4.5,
+        "median": 4,
+        "min": 1,
+        "max": 18,
+        "distribution": [
+          0,
+          1,
+          11,
+          3,
+          5,
+          3,
+          2,
+          1,
+          1,
+          0,
+          1,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 2.6,
+        "meanSyllables": 6,
+        "distribution": [
+          0,
+          0,
+          30,
+          14,
+          7,
+          1
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 30,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 25,
+        "noSubject": 0,
+        "noPredicate": 3,
+        "percent": 0.93
+      },
+      "enjambement": {
+        "count": 1,
+        "percent": 0.02,
+        "positions": [
+          51
+        ]
+      },
+      "wordOrder": {
+        "svo": 2,
+        "inversions": 0,
+        "other": 27,
+        "deviationPercent": 0.93
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 7,
+        "śmierć": 2,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 2,
+        "ból": 1
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 310,
+      "estimatedSeconds": 103,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 63,
+      "VERB": 2,
+      "ADJ": 45,
+      "ADV": 1,
+      "PRON": 4,
+      "ADP": 6,
+      "CCONJ": 2,
+      "SCONJ": 0,
+      "INTJ": 0,
+      "PART": 3,
+      "DET": 0,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.467,
+      "VERB": 0.015,
+      "ADJ": 0.333,
+      "ADV": 0.007,
+      "PRON": 0.03,
+      "ADP": 0.044,
+      "CCONJ": 0.015,
+      "SCONJ": 0,
+      "INTJ": 0,
+      "PART": 0.022,
+      "DET": 0,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 8,
+      "abstract": 5,
+      "ratio": 0.62
+    },
+    "verbTenses": {
+      "infinitive": 1,
+      "present": 1
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 0,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 1,
+      "oceniajace": 1,
+      "opisowe": 43
+    },
+    "adverbs": {
+      "temporalne": [],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "niedotkliwy",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 1,
+      "ty": 0,
+      "on_ona": 1,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 2,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 2,
+      "percentSentences": 0.07
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 4.5,
+      "median": 4,
+      "min": 1,
+      "max": 18,
+      "distribution": [
+        0,
+        1,
+        11,
+        3,
+        5,
+        3,
+        2,
+        1,
+        1,
+        0,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 2.6,
+      "meanSyllables": 6,
+      "distribution": [
+        0,
+        0,
+        30,
+        14,
+        7,
+        1
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 30,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 25,
+      "noSubject": 0,
+      "noPredicate": 3,
+      "percent": 0.93
+    },
+    "enjambement": {
+      "count": 1,
+      "percent": 0.02,
+      "positions": [
+        51
+      ]
+    },
+    "wordOrder": {
+      "svo": 2,
+      "inversions": 0,
+      "other": 27,
+      "deviationPercent": 0.93
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 305,
+      "consonants": 475,
+      "ratio": 0.64
+    },
+    "consonantClusters": {
+      "count": 25,
+      "top": [
+        {
+          "cluster": "czn",
+          "count": 4
+        },
+        {
+          "cluster": "szcz",
+          "count": 3
+        },
+        {
+          "cluster": "wdz",
+          "count": 2
+        },
+        {
+          "cluster": "wcz",
+          "count": 2
+        },
+        {
+          "cluster": "wzr",
+          "count": 1
+        },
+        {
+          "cluster": "rpl",
+          "count": 1
+        },
+        {
+          "cluster": "chł",
+          "count": 1
+        },
+        {
+          "cluster": "brz",
+          "count": 1
+        },
+        {
+          "cluster": "szn",
+          "count": 1
+        },
+        {
+          "cluster": "chl",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 32,
+      "syczace": 80,
+      "nosowe": 85,
+      "plynne": 64
+    },
+    "rhymes": {
+      "exact": 20,
+      "approximate": 24,
+      "internal": 1,
+      "assonance": 5,
+      "alliteration": 5
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        52
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 310,
+      "estimatedSeconds": 103,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "polregularny",
+      "regularityScore": 0.68
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Biblia",
+          "reference": "Księga Rodzaju - raj utracony",
+          "evidence": "katalog dóbr ziemskich jako wizja raju"
+        },
+        {
+          "source": "Biblia",
+          "reference": "modlitwa - litania",
+          "evidence": "struktura wyliczeniowa przypominająca litanię"
+        },
+        {
+          "source": "inne",
+          "reference": "tradycja noworocznych postanowień",
+          "evidence": "data 'na Nowy Rok 1970' i forma katalogu życzeń"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.3,
+        "baudelaire": 0.2,
+        "bursa": 0.1,
+        "stachura": 0.6,
+        "grochowiak": 0.4,
+        "bialoszewski": 0.3,
+        "rozewicz": 0.7
+      }
+    },
+    "space": {
+      "type": "zamknieta",
+      "evidence": "schron bezpiecznego domu, piec ciepły - przestrzeń intymna i zamknięta",
+      "openClosedRatio": 0.2
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "zima",
+      "evidence": "śnieg nieuciążliwy, mróz niedotkliwy, Nowy Rok 1970",
+      "timeEvidence": "brak wskazań na porę dnia"
+    },
+    "motion": {
+      "movement": 3,
+      "stillness": 7,
+      "dynamism": 0.3,
+      "evidence": "krok stanowczy vs sen spokojna, puls równy - przewaga statyczności"
+    },
+    "imageryDensity": {
+      "metaphors": 8,
+      "comparisons": 0,
+      "personifications": 5,
+      "hyperboles": 2,
+      "per100words": 25
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.9,
+      "creationLevel": 0.7,
+      "ironicDistance": 0.8,
+      "autobiographicSignals": [
+        "nie dla mnie",
+        "zapis z podziemia",
+        "data osobista - Nowy Rok 1970"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "melancholia",
+      "secondary": "tęsknota",
+      "intensity": 0.8
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "Nie dla mnie - bezpośrednie określenie relacji podmiotu do wymienionych dóbr"
+    },
+    "addressee": {
+      "type": "siebie",
+      "evidence": "Podmiot prowadzi wewnętrzny monolog, wyliczając to, co jest mu niedostępne"
+    },
+    "metaphors": [
+      {
+        "source": "podziemie",
+        "target": "egzystencja podmiotu",
+        "example": "ZAPIS Z PODZIEMIA - tytuł sugeruje życie w ukryciu, poza normalnością"
+      },
+      {
+        "source": "katalog dóbr",
+        "target": "litania szczęścia",
+        "example": "wyliczenie 47 pozycji jako modlitwa o niedostępne"
+      }
+    ],
+    "temperature": {
+      "value": 0.3,
+      "label": "chłodna rezygnacja z nutą gorzkiej ironii"
+    },
+    "senses": {
+      "wzrok": 3,
+      "sluch": 2,
+      "dotyk": 5,
+      "smak": 3,
+      "zapach": 2
+    },
+    "autodestruction": {
+      "level": 0.7,
+      "signals": [
+        "Podmiot sytuuje się poza wszystkimi życiowymi dobrami",
+        "Totalne wykluczenie z normalności - 'Nie dla mnie'",
+        "Określenie się przez negację - jestem tym, czego nie mam"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 0.738,
+    "dfaAlpha": 1.368,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -2.8921048618843876
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -1.513886947598822
+      },
+      {
+        "logWin": 1.6094379124341003,
+        "logFluc": -1.5052909203217684
+      },
+      {
+        "logWin": 1.791759469228055,
+        "logFluc": -1.3875891864277712
+      },
+      {
+        "logWin": 1.9459101490553132,
+        "logFluc": -1.0151722894923512
+      },
+      {
+        "logWin": 2.1972245773362196,
+        "logFluc": -0.7764568229573293
+      },
+      {
+        "logWin": 2.3978952727983707,
+        "logFluc": -0.5763236251514303
+      },
+      {
+        "logWin": 2.6390573296152584,
+        "logFluc": -0.4112716723723824
+      },
+      {
+        "logWin": 2.833213344056216,
+        "logFluc": -0.04157741828793128
+      }
+    ],
+    "seriesLength": 51,
+    "series": [
+      3,
+      4,
+      4,
+      3,
+      3,
+      5,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      2,
+      2,
+      2,
+      4,
+      3,
+      4,
+      3,
+      2,
+      2,
+      2,
+      4,
+      4,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      3,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      3,
+      4
+    ]
+  }
+}

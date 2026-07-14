@@ -1,0 +1,908 @@
+{
+  "id": "siostry-syjamskie",
+  "title": "Siostry syjamskie",
+  "wordCount": 97,
+  "lineCount": 17,
+  "uniqueWords": 90,
+  "vocabularyRichness": 0.928,
+  "avgWordsPerLine": 5.71,
+  "wordsPerLineDistribution": [
+    2,
+    4,
+    7,
+    5,
+    4,
+    4,
+    8,
+    6,
+    8,
+    8,
+    4,
+    6,
+    8,
+    8,
+    5,
+    8,
+    2
+  ],
+  "wordFrequencies": [
+    [
+      "śmierci",
+      2
+    ],
+    [
+      "siostry",
+      1
+    ],
+    [
+      "syjamskie",
+      1
+    ],
+    [
+      "trzynastoletnie",
+      1
+    ],
+    [
+      "życia",
+      1
+    ],
+    [
+      "pobożnie",
+      1
+    ],
+    [
+      "zrośnięte",
+      1
+    ],
+    [
+      "wspólnej",
+      1
+    ],
+    [
+      "wierzysz",
+      1
+    ],
+    [
+      "pewnym",
+      1
+    ],
+    [
+      "narzędziem",
+      1
+    ],
+    [
+      "przenikliwym",
+      1
+    ],
+    [
+      "językiem",
+      1
+    ],
+    [
+      "oddzielisz",
+      1
+    ],
+    [
+      "sentymentalna",
+      1
+    ],
+    [
+      "skórka",
+      1
+    ],
+    [
+      "osobności",
+      1
+    ],
+    [
+      "ranę",
+      1
+    ],
+    [
+      "zabliźni",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 7,
+    "period": 5,
+    "question": 1,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 3,
+    "colon": 6,
+    "semicolon": 0
+  },
+  "questionCount": 1,
+  "exclamationCount": 0,
+  "negationCount": 1,
+  "negationWords": [
+    "nie"
+  ],
+  "pronounDistribution": {
+    "ja": 0,
+    "ty": 1,
+    "on_ona": 0,
+    "my": 0,
+    "wy": 0,
+    "oni": 1
+  },
+  "semanticFields": {
+    "cialo": 1,
+    "smierc": 0,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [],
+  "firstWord": "siostry",
+  "lastWord": "iiiii",
+  "avgWordLength": 5.69,
+  "wordLengthDistribution": {
+    "6-7": 28,
+    "8-9": 10,
+    "10+": 12,
+    "4-5": 23,
+    "1-3": 24
+  },
+  "bigrams": [
+    [
+      "siostry syjamskie",
+      1
+    ],
+    [
+      "syjamskie trzynastoletnie",
+      1
+    ],
+    [
+      "trzynastoletnie życia",
+      1
+    ],
+    [
+      "życia pobożnie",
+      1
+    ],
+    [
+      "pobożnie zrośnięte",
+      1
+    ],
+    [
+      "wspólnej śmierci",
+      1
+    ],
+    [
+      "śmierci wierzysz",
+      1
+    ],
+    [
+      "pewnym narzędziem",
+      1
+    ],
+    [
+      "narzędziem przenikliwym",
+      1
+    ],
+    [
+      "przenikliwym językiem",
+      1
+    ],
+    [
+      "językiem oddzielisz",
+      1
+    ]
+  ],
+  "poemWords": [
+    "siostry",
+    "syjamskie",
+    "trzynastoletnie",
+    "życia",
+    "pobożnie",
+    "zrośnięte",
+    "wspólnej",
+    "śmierci",
+    "wierzysz",
+    "pewnym",
+    "narzędziem",
+    "przenikliwym",
+    "językiem",
+    "oddzielisz",
+    "siebie",
+    "sentymentalna",
+    "skórka",
+    "osobności",
+    "ranę",
+    "zabliźni",
+    "myślisz",
+    "widząc",
+    "wypolerowane",
+    "nagości",
+    "ciałka",
+    "leżą",
+    "tacce",
+    "stołu",
+    "operacyjnej",
+    "sali",
+    "wiersza",
+    "chcesz",
+    "kaukaz",
+    "widzisz",
+    "ręka",
+    "jednej",
+    "dłuższa",
+    "kartki",
+    "podłogę",
+    "ścieka",
+    "wszystkimi",
+    "napuchłymi",
+    "naczyniami",
+    "żył",
+    "obrzydliwy",
+    "kolor",
+    "barwa",
+    "sekund",
+    "liczysz",
+    "razem",
+    "śliną",
+    "ust",
+    "cieknące",
+    "smrodzą",
+    "czekaj",
+    "pobożnym",
+    "zmysłem",
+    "jasnowidzenia",
+    "oznacz",
+    "strony",
+    "lewą",
+    "prawą",
+    "tnij",
+    "zostaw",
+    "głowę",
+    "iiiii",
+    "1968"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 29,
+        "VERB": 16,
+        "ADJ": 16,
+        "ADV": 3,
+        "PRON": 5,
+        "ADP": 10,
+        "CCONJ": 6,
+        "SCONJ": 2,
+        "INTJ": 0,
+        "PART": 4,
+        "DET": 4,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.296,
+        "VERB": 0.163,
+        "ADJ": 0.163,
+        "ADV": 0.031,
+        "PRON": 0.051,
+        "ADP": 0.102,
+        "CCONJ": 0.061,
+        "SCONJ": 0.02,
+        "INTJ": 0,
+        "PART": 0.041,
+        "DET": 0.041,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 4,
+        "abstract": 3,
+        "ratio": 0.57
+      },
+      "verbTenses": {
+        "present": 12,
+        "past": 1,
+        "imperative": 4
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 2,
+        "stan": 4,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 1,
+        "opisowe": 15
+      },
+      "adverbs": {
+        "temporalne": [
+          "wciąż"
+        ],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "pobożnie",
+            "count": 1
+          },
+          {
+            "word": "wciąż",
+            "count": 1
+          },
+          {
+            "word": "razem",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 0,
+        "ty": 1,
+        "on_ona": 0,
+        "my": 0,
+        "wy": 0,
+        "oni": 1
+      },
+      "negations": {
+        "nie": 1,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 1,
+        "percentSentences": 0.11
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 227,
+        "consonants": 321,
+        "ratio": 0.71
+      },
+      "consonantClusters": {
+        "count": 17,
+        "top": [
+          {
+            "cluster": "str",
+            "count": 2
+          },
+          {
+            "cluster": "msk",
+            "count": 1
+          },
+          {
+            "cluster": "trz",
+            "count": 1
+          },
+          {
+            "cluster": "wsp",
+            "count": 1
+          },
+          {
+            "cluster": "prz",
+            "count": 1
+          },
+          {
+            "cluster": "ddz",
+            "count": 1
+          },
+          {
+            "cluster": "rsz",
+            "count": 1
+          },
+          {
+            "cluster": "chc",
+            "count": 1
+          },
+          {
+            "cluster": "ższ",
+            "count": 1
+          },
+          {
+            "cluster": "rtk",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 31,
+        "syczace": 61,
+        "nosowe": 68,
+        "plynne": 48
+      },
+      "rhymes": {
+        "exact": 0,
+        "approximate": 2,
+        "internal": 1,
+        "assonance": 0,
+        "alliteration": 0
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 10.9,
+        "median": 15,
+        "min": 0,
+        "max": 18,
+        "distribution": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          2,
+          0,
+          1,
+          2
+        ]
+      },
+      "lineLength": {
+        "meanWords": 5.8,
+        "meanSyllables": 13.7,
+        "distribution": [
+          0,
+          0,
+          2,
+          0,
+          4,
+          2,
+          2,
+          1,
+          4,
+          2
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 7,
+        "interrogative": 1,
+        "imperative": 1,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 1,
+        "noSubject": 4,
+        "noPredicate": 0,
+        "percent": 0.56
+      },
+      "enjambement": {
+        "count": 0,
+        "percent": 0,
+        "positions": []
+      },
+      "wordOrder": {
+        "svo": 3,
+        "inversions": 0,
+        "other": 5,
+        "deviationPercent": 0.62
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 3,
+        "śmierć": 1,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": [
+        "życie/śmierć"
+      ]
+    },
+    "tempo": {
+      "syllables": 233,
+      "estimatedSeconds": 78,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 29,
+      "VERB": 16,
+      "ADJ": 16,
+      "ADV": 3,
+      "PRON": 5,
+      "ADP": 10,
+      "CCONJ": 6,
+      "SCONJ": 2,
+      "INTJ": 0,
+      "PART": 4,
+      "DET": 4,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.296,
+      "VERB": 0.163,
+      "ADJ": 0.163,
+      "ADV": 0.031,
+      "PRON": 0.051,
+      "ADP": 0.102,
+      "CCONJ": 0.061,
+      "SCONJ": 0.02,
+      "INTJ": 0,
+      "PART": 0.041,
+      "DET": 0.041,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 4,
+      "abstract": 3,
+      "ratio": 0.57
+    },
+    "verbTenses": {
+      "present": 12,
+      "past": 1,
+      "imperative": 4
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 2,
+      "stan": 4,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 1,
+      "opisowe": 15
+    },
+    "adverbs": {
+      "temporalne": [
+        "wciąż"
+      ],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "pobożnie",
+          "count": 1
+        },
+        {
+          "word": "wciąż",
+          "count": 1
+        },
+        {
+          "word": "razem",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 0,
+      "ty": 1,
+      "on_ona": 0,
+      "my": 0,
+      "wy": 0,
+      "oni": 1
+    },
+    "negations": {
+      "nie": 1,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 1,
+      "percentSentences": 0.11
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 10.9,
+      "median": 15,
+      "min": 0,
+      "max": 18,
+      "distribution": [
+        1,
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        0,
+        1,
+        2
+      ]
+    },
+    "lineLength": {
+      "meanWords": 5.8,
+      "meanSyllables": 13.7,
+      "distribution": [
+        0,
+        0,
+        2,
+        0,
+        4,
+        2,
+        2,
+        1,
+        4,
+        2
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 7,
+      "interrogative": 1,
+      "imperative": 1,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 1,
+      "noSubject": 4,
+      "noPredicate": 0,
+      "percent": 0.56
+    },
+    "enjambement": {
+      "count": 0,
+      "percent": 0,
+      "positions": []
+    },
+    "wordOrder": {
+      "svo": 3,
+      "inversions": 0,
+      "other": 5,
+      "deviationPercent": 0.62
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 227,
+      "consonants": 321,
+      "ratio": 0.71
+    },
+    "consonantClusters": {
+      "count": 17,
+      "top": [
+        {
+          "cluster": "str",
+          "count": 2
+        },
+        {
+          "cluster": "msk",
+          "count": 1
+        },
+        {
+          "cluster": "trz",
+          "count": 1
+        },
+        {
+          "cluster": "wsp",
+          "count": 1
+        },
+        {
+          "cluster": "prz",
+          "count": 1
+        },
+        {
+          "cluster": "ddz",
+          "count": 1
+        },
+        {
+          "cluster": "rsz",
+          "count": 1
+        },
+        {
+          "cluster": "chc",
+          "count": 1
+        },
+        {
+          "cluster": "ższ",
+          "count": 1
+        },
+        {
+          "cluster": "rtk",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 31,
+      "syczace": 61,
+      "nosowe": 68,
+      "plynne": 48
+    },
+    "rhymes": {
+      "exact": 0,
+      "approximate": 2,
+      "internal": 1,
+      "assonance": 0,
+      "alliteration": 0
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        17
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 233,
+      "estimatedSeconds": 78,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "regularny",
+      "regularityScore": 0.78
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "inne",
+          "reference": "siostry syjamskie jako metafora egzystencjalna",
+          "evidence": "Trzynastoletnie życia pobożnie zrośnięte / We wspólnej śmierci"
+        },
+        {
+          "source": "inne",
+          "reference": "Kaukaz jako symbol wolności/ucieczki",
+          "evidence": "Ale ty chcesz na Kaukaz"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.7,
+        "baudelaire": 0.6,
+        "bursa": 0.3,
+        "stachura": 0.4,
+        "grochowiak": 0.8,
+        "bialoszewski": 0.2,
+        "rozewicz": 0.5
+      }
+    },
+    "space": {
+      "type": "zamknieta",
+      "evidence": "operacyjnej sali tego wiersza - przestrzeń medyczna, klaustrofobiczna",
+      "openClosedRatio": 0.2
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "nieokreslona",
+      "evidence": "brak wskazówek temporalnych"
+    },
+    "motion": {
+      "movement": 6,
+      "stillness": 4,
+      "dynamism": 0.6,
+      "evidence": "ręka / Jednej, wciąż dłuższa, z kartki na podłogę ścieka - dynamika cieknięcia, ruchu"
+    },
+    "imageryDensity": {
+      "metaphors": 8,
+      "comparisons": 2,
+      "personifications": 3,
+      "hyperboles": 2,
+      "per100words": 15
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.8,
+      "creationLevel": 0.9,
+      "ironicDistance": 0.3,
+      "autobiographicSignals": [
+        "ty chcesz na Kaukaz",
+        "tego wiersza - autotematyzm",
+        "pobożnym zmysłem jasnowidzenia"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "obrzydzenie",
+      "secondary": "rozpacz",
+      "intensity": 0.9
+    },
+    "subjectPresence": {
+      "type": "ukryte",
+      "evidence": "podmiot ukryty za zwrotami do 'ty', ale obecny w obserwacji i komentarzach"
+    },
+    "addressee": {
+      "type": "siebie",
+      "evidence": "wielokrotne zwroty 'ty' - 'wierzysz', 'myślisz', 'chcesz', 'widzisz' sugerują dialog wewnętrzny"
+    },
+    "metaphors": [
+      {
+        "source": "operacja chirurgiczna",
+        "target": "rozdzielenie aspektów osobowości",
+        "example": "podłogę ścieka / Wszystkimi napuchłymi naczyniami żył"
+      },
+      {
+        "source": "siostry syjamskie",
+        "target": "wewnętrzny rozdział podmiotu",
+        "example": "Trzynastoletnie życia pobożnie zrośnięte"
+      },
+      {
+        "source": "sala operacyjna",
+        "target": "przestrzeń wiersza",
+        "example": "ciałka, co leżą na tacce / Stołu w operacyjnej sali tego wiersza"
+      }
+    ],
+    "temperature": {
+      "value": 0.2,
+      "label": "chłodne obserwowanie z odrazą"
+    },
+    "senses": {
+      "wzrok": 5,
+      "sluch": 1,
+      "dotyk": 3,
+      "smak": 4,
+      "zapach": 4
+    },
+    "autodestruction": {
+      "level": 0.8,
+      "signals": [
+        "obraz rozdzielania ciała chirurgicznie",
+        "motyw śmierci",
+        "imperatyw 'tnij'",
+        "obsesyjne obserwowanie rozkładu"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 0.599,
+    "dfaAlpha": 0.655,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -0.7520386983881365
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -0.3022838676668431
+      },
+      {
+        "logWin": 1.6094379124341003,
+        "logFluc": -0.440548522250144
+      }
+    ],
+    "seriesLength": 17,
+    "series": [
+      2,
+      4,
+      7,
+      5,
+      4,
+      4,
+      8,
+      6,
+      8,
+      8,
+      4,
+      6,
+      8,
+      8,
+      5,
+      8,
+      2
+    ]
+  }
+}

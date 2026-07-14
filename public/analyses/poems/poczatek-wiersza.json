@@ -1,0 +1,604 @@
+{
+  "id": "poczatek-wiersza",
+  "title": "Początek wiersza",
+  "wordCount": 14,
+  "lineCount": 4,
+  "uniqueWords": 13,
+  "vocabularyRichness": 0.929,
+  "avgWordsPerLine": 3.5,
+  "wordsPerLineDistribution": [
+    1,
+    7,
+    4,
+    2
+  ],
+  "wordFrequencies": [
+    [
+      "śmierć",
+      1
+    ],
+    [
+      "widział",
+      1
+    ],
+    [
+      "takiego",
+      1
+    ],
+    [
+      "słowa",
+      1
+    ],
+    [
+      "zaczynać",
+      1
+    ],
+    [
+      "wiersz",
+      1
+    ],
+    [
+      "lepiej",
+      1
+    ],
+    [
+      "razu",
+      1
+    ],
+    [
+      "powiesić",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 0,
+    "period": 0,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 0,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 1,
+  "negationWords": [
+    "nie"
+  ],
+  "pronounDistribution": {
+    "ja": 0,
+    "ty": 0,
+    "on_ona": 0,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 0,
+    "smierc": 1,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [],
+  "firstWord": "śmierć",
+  "lastWord": "powiesić",
+  "avgWordLength": 5,
+  "wordLengthDistribution": {
+    "6-7": 5,
+    "1-3": 5,
+    "4-5": 2,
+    "8-9": 2
+  },
+  "bigrams": [
+    [
+      "śmierć kto",
+      1
+    ],
+    [
+      "kto widział",
+      1
+    ],
+    [
+      "takiego słowa",
+      1
+    ],
+    [
+      "słowa zaczynać",
+      1
+    ],
+    [
+      "zaczynać wiersz",
+      1
+    ]
+  ],
+  "poemWords": [
+    "śmierć",
+    "widział",
+    "takiego",
+    "słowa",
+    "zaczynać",
+    "wiersz",
+    "lepiej",
+    "razu",
+    "powiesić"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 6,
+        "VERB": 3,
+        "ADJ": 1,
+        "ADV": 1,
+        "PRON": 2,
+        "ADP": 2,
+        "CCONJ": 0,
+        "SCONJ": 0,
+        "INTJ": 0,
+        "PART": 1,
+        "DET": 1,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.353,
+        "VERB": 0.176,
+        "ADJ": 0.059,
+        "ADV": 0.059,
+        "PRON": 0.118,
+        "ADP": 0.118,
+        "CCONJ": 0,
+        "SCONJ": 0,
+        "INTJ": 0,
+        "PART": 0.059,
+        "DET": 0.059,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 0,
+        "abstract": 1,
+        "ratio": 0
+      },
+      "verbTenses": {
+        "past": 1,
+        "infinitive": 2
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 1,
+        "stan": 0,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 0,
+        "opisowe": 1
+      },
+      "adverbs": {
+        "temporalne": [],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "lepiej",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 0,
+        "ty": 0,
+        "on_ona": 0,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 1,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 1,
+        "percentSentences": 0.33
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 38,
+        "consonants": 47,
+        "ratio": 0.81
+      },
+      "consonantClusters": {
+        "count": 2,
+        "top": [
+          {
+            "cluster": "rsz",
+            "count": 2
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 4,
+        "syczace": 9,
+        "nosowe": 5,
+        "plynne": 7
+      },
+      "rhymes": {
+        "exact": 0,
+        "approximate": 0,
+        "internal": 0,
+        "assonance": 0,
+        "alliteration": 0
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 5.7,
+        "median": 2,
+        "min": 1,
+        "max": 14,
+        "distribution": [
+          0,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 2.8,
+        "meanSyllables": 6.5,
+        "distribution": [
+          0,
+          2,
+          2,
+          0,
+          1,
+          0,
+          0,
+          1
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 3,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 1,
+        "noSubject": 0,
+        "noPredicate": 1,
+        "percent": 0.67
+      },
+      "enjambement": {
+        "count": 0,
+        "percent": 0,
+        "positions": []
+      },
+      "wordOrder": {
+        "svo": 1,
+        "inversions": 0,
+        "other": 1,
+        "deviationPercent": 0.5
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 0,
+        "śmierć": 1,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 39,
+      "estimatedSeconds": 13,
+      "tempoCategory": "szybkie"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 6,
+      "VERB": 3,
+      "ADJ": 1,
+      "ADV": 1,
+      "PRON": 2,
+      "ADP": 2,
+      "CCONJ": 0,
+      "SCONJ": 0,
+      "INTJ": 0,
+      "PART": 1,
+      "DET": 1,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.353,
+      "VERB": 0.176,
+      "ADJ": 0.059,
+      "ADV": 0.059,
+      "PRON": 0.118,
+      "ADP": 0.118,
+      "CCONJ": 0,
+      "SCONJ": 0,
+      "INTJ": 0,
+      "PART": 0.059,
+      "DET": 0.059,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 0,
+      "abstract": 1,
+      "ratio": 0
+    },
+    "verbTenses": {
+      "past": 1,
+      "infinitive": 2
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 1,
+      "stan": 0,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 0,
+      "opisowe": 1
+    },
+    "adverbs": {
+      "temporalne": [],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "lepiej",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 0,
+      "ty": 0,
+      "on_ona": 0,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 1,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 1,
+      "percentSentences": 0.33
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 5.7,
+      "median": 2,
+      "min": 1,
+      "max": 14,
+      "distribution": [
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 2.8,
+      "meanSyllables": 6.5,
+      "distribution": [
+        0,
+        2,
+        2,
+        0,
+        1,
+        0,
+        0,
+        1
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 3,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 1,
+      "noSubject": 0,
+      "noPredicate": 1,
+      "percent": 0.67
+    },
+    "enjambement": {
+      "count": 0,
+      "percent": 0,
+      "positions": []
+    },
+    "wordOrder": {
+      "svo": 1,
+      "inversions": 0,
+      "other": 1,
+      "deviationPercent": 0.5
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 38,
+      "consonants": 47,
+      "ratio": 0.81
+    },
+    "consonantClusters": {
+      "count": 2,
+      "top": [
+        {
+          "cluster": "rsz",
+          "count": 2
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 4,
+      "syczace": 9,
+      "nosowe": 5,
+      "plynne": 7
+    },
+    "rhymes": {
+      "exact": 0,
+      "approximate": 0,
+      "internal": 0,
+      "assonance": 0,
+      "alliteration": 0
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        6
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 39,
+      "estimatedSeconds": 13,
+      "tempoCategory": "szybkie"
+    },
+    "regularity": {
+      "type": "wolny",
+      "regularityScore": 0.18
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.2,
+        "baudelaire": 0.3,
+        "bursa": 0.1,
+        "stachura": 0.4,
+        "grochowiak": 0.2,
+        "bialoszewski": 0.6,
+        "rozewicz": 0.8
+      }
+    },
+    "space": {
+      "type": "nieokreslona",
+      "evidence": "Brak konkretnych wskazań przestrzennych, przestrzeń mentalna refleksji poetyckiej",
+      "openClosedRatio": 0.5
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "nieokreslona",
+      "evidence": "Brak wskazań temporalnych, czas zawieszony w refleksji"
+    },
+    "motion": {
+      "movement": 2,
+      "stillness": 8,
+      "dynamism": 0.2,
+      "evidence": "Statyczna refleksja, jedyny ruch to potencjalny gest powieszenia się"
+    },
+    "imageryDensity": {
+      "metaphors": 0,
+      "comparisons": 0,
+      "personifications": 0,
+      "hyperboles": 1,
+      "per100words": 4.8
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.9,
+      "creationLevel": 0.8,
+      "ironicDistance": 0.7,
+      "autobiographicSignals": [
+        "bezpośredni ton zwierzenia",
+        "autotematyczny komentarz do pisania",
+        "data 1969 jako sygnał autobiograficzny"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "ironia",
+      "secondary": "rezygnacja",
+      "intensity": 0.8
+    },
+    "subjectPresence": {
+      "type": "ukryte",
+      "evidence": "Podmiot ukryty za pytaniem retorycznym i sugestią samobójczą, ale wyraźnie obecny w ironicznej refleksji"
+    },
+    "addressee": {
+      "type": "siebie",
+      "evidence": "Pytanie retoryczne skierowane do siebie, autorefleksja nad własną twórczością poetycką"
+    },
+    "metaphors": [
+      {
+        "source": "słowo",
+        "target": "śmierć",
+        "example": "od takiego słowa zaczynać wiersz"
+      }
+    ],
+    "temperature": {
+      "value": 0.2,
+      "label": "zimne"
+    },
+    "senses": {
+      "wzrok": 1,
+      "sluch": 0,
+      "dotyk": 0,
+      "smak": 0,
+      "zapach": 0
+    },
+    "autodestrukcja": {
+      "level": 0.9,
+      "signals": [
+        "sugestia powieszenia się",
+        "zestawienie tworzenia wiersza z samobójstwem",
+        "ironiczne podważanie sensu poezji"
+      ]
+    }
+  }
+}

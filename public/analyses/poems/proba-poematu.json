@@ -1,0 +1,1164 @@
+{
+  "id": "proba-poematu",
+  "title": "Próba poematu",
+  "wordCount": 196,
+  "lineCount": 40,
+  "uniqueWords": 146,
+  "vocabularyRichness": 0.745,
+  "avgWordsPerLine": 4.9,
+  "wordsPerLineDistribution": [
+    5,
+    5,
+    6,
+    3,
+    6,
+    5,
+    7,
+    5,
+    6,
+    5,
+    5,
+    5,
+    4,
+    4,
+    6,
+    4,
+    5,
+    6,
+    3,
+    4,
+    5,
+    5,
+    4,
+    4,
+    5,
+    4,
+    5,
+    3,
+    5,
+    4,
+    5,
+    5,
+    5,
+    7,
+    4,
+    4,
+    6,
+    6,
+    5,
+    6
+  ],
+  "wordFrequencies": [
+    [
+      "mózg",
+      5
+    ],
+    [
+      "widzi",
+      4
+    ],
+    [
+      "poematu",
+      3
+    ],
+    [
+      "mózgu",
+      2
+    ],
+    [
+      "lipca",
+      2
+    ],
+    [
+      "karaluch",
+      2
+    ],
+    [
+      "śpię",
+      2
+    ],
+    [
+      "coraz",
+      2
+    ],
+    [
+      "słyszy",
+      2
+    ],
+    [
+      "kreator",
+      2
+    ],
+    [
+      "liść",
+      1
+    ],
+    [
+      "smutnie",
+      1
+    ],
+    [
+      "zwisa",
+      1
+    ],
+    [
+      "gałęzi",
+      1
+    ],
+    [
+      "jakże",
+      1
+    ],
+    [
+      "upalnego",
+      1
+    ],
+    [
+      "ścieżce",
+      1
+    ],
+    [
+      "jednej",
+      1
+    ],
+    [
+      "żyłek",
+      1
+    ],
+    [
+      "nieznany",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 0,
+    "period": 0,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 0,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 5,
+  "negationWords": [
+    "nie",
+    "nikt"
+  ],
+  "pronounDistribution": {
+    "ja": 5,
+    "ty": 0,
+    "on_ona": 3,
+    "my": 0,
+    "wy": 0,
+    "oni": 1
+  },
+  "semanticFields": {
+    "cialo": 2,
+    "smierc": 0,
+    "erotyka": 1,
+    "alkohol": 0,
+    "samotnosc": 1,
+    "sacrum": 0,
+    "noc": 1,
+    "bol": 0
+  },
+  "anaphors": [
+    [
+      "mózg",
+      2
+    ],
+    [
+      "oraz",
+      2
+    ],
+    [
+      "która",
+      2
+    ]
+  ],
+  "firstWord": "liść",
+  "lastWord": "śpi",
+  "avgWordLength": 4.89,
+  "wordLengthDistribution": {
+    "4-5": 65,
+    "6-7": 48,
+    "1-3": 59,
+    "8-9": 20,
+    "10+": 4
+  },
+  "bigrams": [
+    [
+      "liść mojego",
+      1
+    ],
+    [
+      "mojego mózgu",
+      1
+    ],
+    [
+      "mózgu smutnie",
+      1
+    ],
+    [
+      "smutnie zwisa",
+      1
+    ],
+    [
+      "gałęzi jakże",
+      1
+    ],
+    [
+      "jakże upalnego",
+      1
+    ],
+    [
+      "upalnego lipca",
+      1
+    ],
+    [
+      "ścieżce jednej",
+      1
+    ]
+  ],
+  "poemWords": [
+    "liść",
+    "mózgu",
+    "smutnie",
+    "zwisa",
+    "gałęzi",
+    "jakże",
+    "upalnego",
+    "lipca",
+    "ścieżce",
+    "jednej",
+    "żyłek",
+    "nieznany",
+    "robaczek",
+    "idzie",
+    "karaluch",
+    "tłusta",
+    "słoniną",
+    "nieba",
+    "wdzięczna",
+    "boża",
+    "krówka",
+    "mózg",
+    "czego",
+    "drzewem",
+    "leżę",
+    "śpię",
+    "łechtany",
+    "ciągle",
+    "zwielokrotnioną",
+    "nóżką",
+    "spać",
+    "coraz",
+    "głębiej",
+    "widzi",
+    "szerzej",
+    "krajobraz",
+    "poematu",
+    "muzykę",
+    "słyszy",
+    "boi",
+    "zapewne",
+    "byłbym",
+    "bał",
+    "rzekę",
+    "kobieta",
+    "nago",
+    "płynie",
+    "ciało",
+    "ciężarną",
+    "barką",
+    "kataraktę",
+    "zniszczy",
+    "ową",
+    "barkę",
+    "kobiety",
+    "stosownie",
+    "nagie",
+    "sukienki",
+    "zdjęły",
+    "wstąpieniem",
+    "obręb",
+    "kreator",
+    "stoi",
+    "ciągną",
+    "zapałki",
+    "kolejność",
+    "miłości",
+    "ustalić",
+    "szachrują",
+    "skromnie",
+    "obserwuje",
+    "prąd",
+    "rzeki",
+    "drewko",
+    "ciskając",
+    "liczy",
+    "sekundy",
+    "szubienicy",
+    "wolna",
+    "plecami",
+    "rosła",
+    "ziarnka",
+    "zasiane",
+    "wierszu",
+    "skiełkowało",
+    "kobiecy",
+    "cień",
+    "pieści",
+    "kark",
+    "spuszcza",
+    "głowę",
+    "śmieje",
+    "podnosi",
+    "twórcza",
+    "męskość",
+    "prosto",
+    "ust",
+    "słońca",
+    "nagle",
+    "odpada",
+    "biedronka",
+    "nikt",
+    "budzę",
+    "śpi"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 54,
+        "VERB": 36,
+        "ADJ": 18,
+        "ADV": 18,
+        "PRON": 17,
+        "ADP": 14,
+        "CCONJ": 14,
+        "SCONJ": 5,
+        "INTJ": 0,
+        "PART": 13,
+        "DET": 4,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.271,
+        "VERB": 0.181,
+        "ADJ": 0.09,
+        "ADV": 0.09,
+        "PRON": 0.085,
+        "ADP": 0.07,
+        "CCONJ": 0.07,
+        "SCONJ": 0.025,
+        "INTJ": 0,
+        "PART": 0.065,
+        "DET": 0.02,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 4,
+        "abstract": 1,
+        "ratio": 0.8
+      },
+      "verbTenses": {
+        "present": 30,
+        "infinitive": 2,
+        "past": 5,
+        "future": 1
+      },
+      "verbSemantics": {
+        "ruch": 1,
+        "percepcja": 6,
+        "stan": 4,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 0,
+        "opisowe": 18
+      },
+      "adverbs": {
+        "temporalne": [
+          "ciągle"
+        ],
+        "modalne": [],
+        "sposobu": [
+          "głębiej",
+          "nagle"
+        ],
+        "top": [
+          {
+            "word": "kiedy",
+            "count": 3
+          },
+          {
+            "word": "coraz",
+            "count": 2
+          },
+          {
+            "word": "smutnie",
+            "count": 1
+          },
+          {
+            "word": "jakże",
+            "count": 1
+          },
+          {
+            "word": "gdy",
+            "count": 1
+          },
+          {
+            "word": "ciągle",
+            "count": 1
+          },
+          {
+            "word": "głębiej",
+            "count": 1
+          },
+          {
+            "word": "szerzej",
+            "count": 1
+          },
+          {
+            "word": "oraz",
+            "count": 1
+          },
+          {
+            "word": "gdzie",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 4,
+        "ty": 0,
+        "on_ona": 3,
+        "my": 0,
+        "wy": 0,
+        "oni": 1
+      },
+      "negations": {
+        "nie": 4,
+        "nic": 0,
+        "nikt": 1,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 5,
+        "percentSentences": 0.33
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 418,
+        "consonants": 553,
+        "ratio": 0.76
+      },
+      "consonantClusters": {
+        "count": 17,
+        "top": [
+          {
+            "cluster": "szcz",
+            "count": 4
+          },
+          {
+            "cluster": "wdz",
+            "count": 1
+          },
+          {
+            "cluster": "czn",
+            "count": 1
+          },
+          {
+            "cluster": "drz",
+            "count": 1
+          },
+          {
+            "cluster": "cht",
+            "count": 1
+          },
+          {
+            "cluster": "gdz",
+            "count": 1
+          },
+          {
+            "cluster": "zdj",
+            "count": 1
+          },
+          {
+            "cluster": "prz",
+            "count": 1
+          },
+          {
+            "cluster": "wst",
+            "count": 1
+          },
+          {
+            "cluster": "chr",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 40,
+        "syczace": 100,
+        "nosowe": 108,
+        "plynne": 78
+      },
+      "rhymes": {
+        "exact": 1,
+        "approximate": 1,
+        "internal": 0,
+        "assonance": 0,
+        "alliteration": 0
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 13.3,
+        "median": 10,
+        "min": 1,
+        "max": 47,
+        "distribution": [
+          0,
+          1,
+          1,
+          0,
+          1,
+          3,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          2,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 4.7,
+        "meanSyllables": 10.2,
+        "distribution": [
+          0,
+          1,
+          1,
+          3,
+          10,
+          17,
+          8,
+          2
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 15,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 2,
+        "noSubject": 2,
+        "noPredicate": 0,
+        "percent": 0.27
+      },
+      "enjambement": {
+        "count": 11,
+        "percent": 0.27,
+        "positions": [
+          3,
+          8,
+          9,
+          11,
+          15,
+          20,
+          21,
+          27,
+          31,
+          38,
+          40
+        ]
+      },
+      "wordOrder": {
+        "svo": 6,
+        "inversions": 5,
+        "other": 3,
+        "deviationPercent": 0.57
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 3,
+        "śmierć": 0,
+        "erotyka": 2,
+        "alkohol": 0,
+        "samotność": 1,
+        "sacrum": 0,
+        "noc": 1,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 427,
+      "estimatedSeconds": 142,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 54,
+      "VERB": 36,
+      "ADJ": 18,
+      "ADV": 18,
+      "PRON": 17,
+      "ADP": 14,
+      "CCONJ": 14,
+      "SCONJ": 5,
+      "INTJ": 0,
+      "PART": 13,
+      "DET": 4,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.271,
+      "VERB": 0.181,
+      "ADJ": 0.09,
+      "ADV": 0.09,
+      "PRON": 0.085,
+      "ADP": 0.07,
+      "CCONJ": 0.07,
+      "SCONJ": 0.025,
+      "INTJ": 0,
+      "PART": 0.065,
+      "DET": 0.02,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 4,
+      "abstract": 1,
+      "ratio": 0.8
+    },
+    "verbTenses": {
+      "present": 30,
+      "infinitive": 2,
+      "past": 5,
+      "future": 1
+    },
+    "verbSemantics": {
+      "ruch": 1,
+      "percepcja": 6,
+      "stan": 4,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 0,
+      "opisowe": 18
+    },
+    "adverbs": {
+      "temporalne": [
+        "ciągle"
+      ],
+      "modalne": [],
+      "sposobu": [
+        "głębiej",
+        "nagle"
+      ],
+      "top": [
+        {
+          "word": "kiedy",
+          "count": 3
+        },
+        {
+          "word": "coraz",
+          "count": 2
+        },
+        {
+          "word": "smutnie",
+          "count": 1
+        },
+        {
+          "word": "jakże",
+          "count": 1
+        },
+        {
+          "word": "gdy",
+          "count": 1
+        },
+        {
+          "word": "ciągle",
+          "count": 1
+        },
+        {
+          "word": "głębiej",
+          "count": 1
+        },
+        {
+          "word": "szerzej",
+          "count": 1
+        },
+        {
+          "word": "oraz",
+          "count": 1
+        },
+        {
+          "word": "gdzie",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 4,
+      "ty": 0,
+      "on_ona": 3,
+      "my": 0,
+      "wy": 0,
+      "oni": 1
+    },
+    "negations": {
+      "nie": 4,
+      "nic": 0,
+      "nikt": 1,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 5,
+      "percentSentences": 0.33
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 13.3,
+      "median": 10,
+      "min": 1,
+      "max": 47,
+      "distribution": [
+        0,
+        1,
+        1,
+        0,
+        1,
+        3,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 4.7,
+      "meanSyllables": 10.2,
+      "distribution": [
+        0,
+        1,
+        1,
+        3,
+        10,
+        17,
+        8,
+        2
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 15,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 2,
+      "noSubject": 2,
+      "noPredicate": 0,
+      "percent": 0.27
+    },
+    "enjambement": {
+      "count": 11,
+      "percent": 0.27,
+      "positions": [
+        3,
+        8,
+        9,
+        11,
+        15,
+        20,
+        21,
+        27,
+        31,
+        38,
+        40
+      ]
+    },
+    "wordOrder": {
+      "svo": 6,
+      "inversions": 5,
+      "other": 3,
+      "deviationPercent": 0.57
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 418,
+      "consonants": 553,
+      "ratio": 0.76
+    },
+    "consonantClusters": {
+      "count": 17,
+      "top": [
+        {
+          "cluster": "szcz",
+          "count": 4
+        },
+        {
+          "cluster": "wdz",
+          "count": 1
+        },
+        {
+          "cluster": "czn",
+          "count": 1
+        },
+        {
+          "cluster": "drz",
+          "count": 1
+        },
+        {
+          "cluster": "cht",
+          "count": 1
+        },
+        {
+          "cluster": "gdz",
+          "count": 1
+        },
+        {
+          "cluster": "zdj",
+          "count": 1
+        },
+        {
+          "cluster": "prz",
+          "count": 1
+        },
+        {
+          "cluster": "wst",
+          "count": 1
+        },
+        {
+          "cluster": "chr",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 40,
+      "syczace": 100,
+      "nosowe": 108,
+      "plynne": 78
+    },
+    "rhymes": {
+      "exact": 1,
+      "approximate": 1,
+      "internal": 0,
+      "assonance": 0,
+      "alliteration": 0
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        42
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 427,
+      "estimatedSeconds": 142,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "regularny",
+      "regularityScore": 0.75
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Biblia",
+          "reference": "motyw Kreatora/Stwórcy",
+          "evidence": "I jeszcze Kreator / Stoi"
+        },
+        {
+          "source": "mitologia",
+          "reference": "mityczny krajobraz poetycki",
+          "evidence": "krajobraz poematu widzi / Oraz muzykę poematu słyszy"
+        },
+        {
+          "source": "Rimbaud",
+          "reference": "wizjonerska poetyka, synestetyzm",
+          "evidence": "mózg widzi coraz szerzej / Już krajobraz poematu widzi / Oraz muzykę poematu słyszy"
+        }
+      ],
+      "selfQuotes": [
+        "zasiane / W innym wierszu jednak skiełkowało"
+      ],
+      "influences": {
+        "rimbaud": 0.9,
+        "baudelaire": 0.3,
+        "bursa": 0.7,
+        "stachura": 0.6,
+        "grochowiak": 0.4,
+        "bialoszewski": 0.2,
+        "rozewicz": 0.1
+      }
+    },
+    "space": {
+      "type": "otwarta",
+      "evidence": "pod drzewem lipca leżę / widzi rzekę / krajobraz poematu",
+      "openClosedRatio": 0.8
+    },
+    "timeOfDay": {
+      "period": "dzien",
+      "season": "lato",
+      "evidence": "Z gałęzi jakże upalnego lipca / pod drzewem lipca leżę"
+    },
+    "motion": {
+      "movement": 7,
+      "stillness": 6,
+      "dynamism": 0.7,
+      "evidence": "nieznany robaczek idzie / kobieta nago płynie / Kreator podnosi się / odpada biedronka"
+    },
+    "imageryDensity": {
+      "metaphors": 8,
+      "comparisons": 3,
+      "personifications": 4,
+      "hyperboles": 2,
+      "per100words": 17
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.6,
+      "creationLevel": 0.9,
+      "ironicDistance": 0.3,
+      "autobiographicSignals": [
+        "ja budzę się",
+        "Zapewne byłbym się bał",
+        "gdy pod drzewem lipca leżę"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "melancholia",
+      "secondary": "tęsknota",
+      "intensity": 0.7
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "Podmiot liryczny wyraźnie obecny przez zaimki 'ja', 'mój mózg', 'śpię', 'byłbym się bał'"
+    },
+    "addressee": {
+      "type": "czytelnik",
+      "evidence": "Brak bezpośredniego zwrotu, wiersz ma charakter opowieści skierowanej do odbiorcy"
+    },
+    "metaphors": [
+      {
+        "source": "liść",
+        "target": "mózg",
+        "example": "Liść mojego mózgu smutnie zwisa"
+      },
+      {
+        "source": "barka",
+        "target": "ciało kobiety",
+        "example": "Jej ciało jest ciężarną barką"
+      },
+      {
+        "source": "ziarno",
+        "target": "początek wiersza",
+        "example": "z ziarnka co zasiane / W innym wierszu jednak skiełkowało"
+      }
+    ],
+    "temperature": {
+      "value": 0.4,
+      "label": "chłodna melancholia z przebłyskami pożądania"
+    },
+    "senses": {
+      "wzrok": 5,
+      "sluch": 3,
+      "dotyk": 4,
+      "smak": 1,
+      "zapach": 0
+    },
+    "autodestruction": {
+      "level": 0.6,
+      "signals": [
+        "szubienice która z wolna za plecami / Rosła",
+        "katarakta / Która zniszczy ową barkę",
+        "męskość prosto do ust słońca",
+        "z mózgu odpada biedronka"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 0.677,
+    "dfaAlpha": 0.82,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -1.7075501434155722
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -0.8562989732664085
+      },
+      {
+        "logWin": 1.6094379124341003,
+        "logFluc": -0.7434659606321692
+      },
+      {
+        "logWin": 1.791759469228055,
+        "logFluc": -0.7756049204321838
+      },
+      {
+        "logWin": 1.9459101490553132,
+        "logFluc": -0.4662824302315566
+      },
+      {
+        "logWin": 2.1972245773362196,
+        "logFluc": -0.5201596238501682
+      },
+      {
+        "logWin": 2.3978952727983707,
+        "logFluc": -0.4470461393533477
+      },
+      {
+        "logWin": 2.4849066497880004,
+        "logFluc": -0.2249072251583455
+      }
+    ],
+    "seriesLength": 40,
+    "series": [
+      5,
+      5,
+      6,
+      3,
+      6,
+      5,
+      7,
+      5,
+      6,
+      5,
+      5,
+      5,
+      4,
+      4,
+      6,
+      4,
+      5,
+      6,
+      3,
+      4,
+      5,
+      5,
+      4,
+      4,
+      5,
+      4,
+      5,
+      3,
+      5,
+      4,
+      5,
+      5,
+      5,
+      7,
+      4,
+      4,
+      6,
+      6,
+      5,
+      6
+    ]
+  }
+}

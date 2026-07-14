@@ -1,0 +1,862 @@
+{
+  "id": "pochodnie",
+  "title": "Pochodnie",
+  "wordCount": 72,
+  "lineCount": 12,
+  "uniqueWords": 65,
+  "vocabularyRichness": 0.903,
+  "avgWordsPerLine": 6,
+  "wordsPerLineDistribution": [
+    8,
+    6,
+    8,
+    4,
+    7,
+    5,
+    7,
+    3,
+    8,
+    7,
+    6,
+    3
+  ],
+  "wordFrequencies": [
+    [
+      "dłoń",
+      1
+    ],
+    [
+      "nieba",
+      1
+    ],
+    [
+      "jawne",
+      1
+    ],
+    [
+      "mózgi",
+      1
+    ],
+    [
+      "lecą",
+      1
+    ],
+    [
+      "zwięzłe",
+      1
+    ],
+    [
+      "obłoki",
+      1
+    ],
+    [
+      "piąstki",
+      1
+    ],
+    [
+      "zaciśniętych",
+      1
+    ],
+    [
+      "mózgów",
+      1
+    ],
+    [
+      "dłoni",
+      1
+    ],
+    [
+      "rozległej",
+      1
+    ],
+    [
+      "siedzą",
+      1
+    ],
+    [
+      "ciepło",
+      1
+    ],
+    [
+      "chciwa",
+      1
+    ],
+    [
+      "próżnia",
+      1
+    ],
+    [
+      "czaszkach",
+      1
+    ],
+    [
+      "naszymi",
+      1
+    ],
+    [
+      "ustami",
+      1
+    ],
+    [
+      "wypuszcza",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 4,
+    "period": 3,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 0,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 0,
+  "negationWords": [],
+  "pronounDistribution": {
+    "ja": 0,
+    "ty": 0,
+    "on_ona": 1,
+    "my": 2,
+    "wy": 0,
+    "oni": 1
+  },
+  "semanticFields": {
+    "cialo": 3,
+    "smierc": 0,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [
+    [
+      "już",
+      3
+    ]
+  ],
+  "firstWord": "dłoń",
+  "lastWord": "wiatr",
+  "avgWordLength": 5.24,
+  "wordLengthDistribution": {
+    "4-5": 20,
+    "1-3": 19,
+    "6-7": 21,
+    "10+": 3,
+    "8-9": 9
+  },
+  "bigrams": [
+    [
+      "dłoń nieba",
+      1
+    ],
+    [
+      "niej nasze",
+      1
+    ],
+    [
+      "nasze jawne",
+      1
+    ],
+    [
+      "jawne mózgi",
+      1
+    ],
+    [
+      "mózgi lecą",
+      1
+    ],
+    [
+      "lecą zwięzłe",
+      1
+    ],
+    [
+      "zwięzłe obłoki",
+      1
+    ],
+    [
+      "piąstki zaciśniętych",
+      1
+    ],
+    [
+      "zaciśniętych mózgów",
+      1
+    ]
+  ],
+  "poemWords": [
+    "dłoń",
+    "nieba",
+    "jawne",
+    "mózgi",
+    "lecą",
+    "zwięzłe",
+    "obłoki",
+    "piąstki",
+    "zaciśniętych",
+    "mózgów",
+    "dłoni",
+    "rozległej",
+    "siedzą",
+    "ciepło",
+    "chciwa",
+    "próżnia",
+    "czaszkach",
+    "naszymi",
+    "ustami",
+    "wypuszcza",
+    "niewidzialny",
+    "język",
+    "głodu",
+    "mrowisko",
+    "atmosfery",
+    "pije",
+    "tlen",
+    "kwaśnej",
+    "muzyki",
+    "zimnych",
+    "sfer",
+    "sfery",
+    "wzięte",
+    "ścisłe",
+    "klatki",
+    "głów",
+    "śpiewają",
+    "pobożnie",
+    "rozżarzają",
+    "czaszki",
+    "włosy",
+    "zapalone",
+    "widomą",
+    "chwałę",
+    "rozwiewa",
+    "wierny",
+    "wiatr"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 27,
+        "VERB": 8,
+        "ADJ": 12,
+        "ADV": 3,
+        "PRON": 4,
+        "ADP": 7,
+        "CCONJ": 1,
+        "SCONJ": 2,
+        "INTJ": 0,
+        "PART": 5,
+        "DET": 4,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.365,
+        "VERB": 0.108,
+        "ADJ": 0.162,
+        "ADV": 0.041,
+        "PRON": 0.054,
+        "ADP": 0.095,
+        "CCONJ": 0.014,
+        "SCONJ": 0.027,
+        "INTJ": 0,
+        "PART": 0.068,
+        "DET": 0.054,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 3,
+        "abstract": 0,
+        "ratio": 1
+      },
+      "verbTenses": {
+        "present": 7,
+        "past": 1
+      },
+      "verbSemantics": {
+        "ruch": 1,
+        "percepcja": 0,
+        "stan": 2,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 1,
+        "cialo": 1
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 2,
+        "oceniajace": 0,
+        "opisowe": 10
+      },
+      "adverbs": {
+        "temporalne": [],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "tam",
+            "count": 1
+          },
+          {
+            "word": "tak",
+            "count": 1
+          },
+          {
+            "word": "pobożnie",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 0,
+        "ty": 0,
+        "on_ona": 1,
+        "my": 1,
+        "wy": 0,
+        "oni": 1
+      },
+      "negations": {
+        "nie": 0,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 0,
+        "percentSentences": 0
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 157,
+        "consonants": 229,
+        "ratio": 0.69
+      },
+      "consonantClusters": {
+        "count": 6,
+        "top": [
+          {
+            "cluster": "szk",
+            "count": 2
+          },
+          {
+            "cluster": "stk",
+            "count": 1
+          },
+          {
+            "cluster": "chc",
+            "count": 1
+          },
+          {
+            "cluster": "szcz",
+            "count": 1
+          },
+          {
+            "cluster": "chw",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 17,
+        "syczace": 40,
+        "nosowe": 45,
+        "plynne": 30
+      },
+      "rhymes": {
+        "exact": 0,
+        "approximate": 0,
+        "internal": 0,
+        "assonance": 0,
+        "alliteration": 1
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 14.8,
+        "median": 22,
+        "min": 1,
+        "max": 26,
+        "distribution": [
+          0,
+          2,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 5.3,
+        "meanSyllables": 11.6,
+        "distribution": [
+          0,
+          2,
+          0,
+          2,
+          1,
+          1,
+          2,
+          3,
+          3
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 5,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 2,
+        "noSubject": 0,
+        "noPredicate": 0,
+        "percent": 0.4
+      },
+      "enjambement": {
+        "count": 8,
+        "percent": 0.62,
+        "positions": [
+          3,
+          4,
+          6,
+          7,
+          8,
+          10,
+          11,
+          12
+        ]
+      },
+      "wordOrder": {
+        "svo": 3,
+        "inversions": 0,
+        "other": 0,
+        "deviationPercent": 0
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 4,
+        "śmierć": 0,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 163,
+      "estimatedSeconds": 54,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 27,
+      "VERB": 8,
+      "ADJ": 12,
+      "ADV": 3,
+      "PRON": 4,
+      "ADP": 7,
+      "CCONJ": 1,
+      "SCONJ": 2,
+      "INTJ": 0,
+      "PART": 5,
+      "DET": 4,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.365,
+      "VERB": 0.108,
+      "ADJ": 0.162,
+      "ADV": 0.041,
+      "PRON": 0.054,
+      "ADP": 0.095,
+      "CCONJ": 0.014,
+      "SCONJ": 0.027,
+      "INTJ": 0,
+      "PART": 0.068,
+      "DET": 0.054,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 3,
+      "abstract": 0,
+      "ratio": 1
+    },
+    "verbTenses": {
+      "present": 7,
+      "past": 1
+    },
+    "verbSemantics": {
+      "ruch": 1,
+      "percepcja": 0,
+      "stan": 2,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 1,
+      "cialo": 1
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 2,
+      "oceniajace": 0,
+      "opisowe": 10
+    },
+    "adverbs": {
+      "temporalne": [],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "tam",
+          "count": 1
+        },
+        {
+          "word": "tak",
+          "count": 1
+        },
+        {
+          "word": "pobożnie",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 0,
+      "ty": 0,
+      "on_ona": 1,
+      "my": 1,
+      "wy": 0,
+      "oni": 1
+    },
+    "negations": {
+      "nie": 0,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 0,
+      "percentSentences": 0
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 14.8,
+      "median": 22,
+      "min": 1,
+      "max": 26,
+      "distribution": [
+        0,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 5.3,
+      "meanSyllables": 11.6,
+      "distribution": [
+        0,
+        2,
+        0,
+        2,
+        1,
+        1,
+        2,
+        3,
+        3
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 5,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 2,
+      "noSubject": 0,
+      "noPredicate": 0,
+      "percent": 0.4
+    },
+    "enjambement": {
+      "count": 8,
+      "percent": 0.62,
+      "positions": [
+        3,
+        4,
+        6,
+        7,
+        8,
+        10,
+        11,
+        12
+      ]
+    },
+    "wordOrder": {
+      "svo": 3,
+      "inversions": 0,
+      "other": 0,
+      "deviationPercent": 0
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 157,
+      "consonants": 229,
+      "ratio": 0.69
+    },
+    "consonantClusters": {
+      "count": 6,
+      "top": [
+        {
+          "cluster": "szk",
+          "count": 2
+        },
+        {
+          "cluster": "stk",
+          "count": 1
+        },
+        {
+          "cluster": "chc",
+          "count": 1
+        },
+        {
+          "cluster": "szcz",
+          "count": 1
+        },
+        {
+          "cluster": "chw",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 17,
+      "syczace": 40,
+      "nosowe": 45,
+      "plynne": 30
+    },
+    "rhymes": {
+      "exact": 0,
+      "approximate": 0,
+      "internal": 0,
+      "assonance": 0,
+      "alliteration": 1
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        14
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 163,
+      "estimatedSeconds": 54,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "polregularny",
+      "regularityScore": 0.55
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Biblia",
+          "reference": "Zstąpienie Ducha Świętego",
+          "evidence": "włosy zapalone na widomą chwałę - nawiązanie do ognistych języków"
+        },
+        {
+          "source": "mitologia",
+          "reference": "mitologia grecka - muzyka sfer",
+          "evidence": "kwaśnej muzyki zimnych sfer - koncepcja harmonii sfer pitagorejskiej"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.8,
+        "baudelaire": 0.6,
+        "bursa": 0.3,
+        "stachura": 0.4,
+        "grochowiak": 0.2,
+        "bialoszewski": 0.1,
+        "rozewicz": 0.3
+      }
+    },
+    "space": {
+      "type": "otwarta",
+      "evidence": "dłoń nieba, rozległa dłoń, mrowisko atmosfery, sfery - przestrzeń kosmiczna, nieograniczona",
+      "openClosedRatio": 0.9
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "nieokreslona",
+      "evidence": "brak konkretnych wskaźników temporalnych, czas mityczny/kosmiczny"
+    },
+    "motion": {
+      "movement": 8,
+      "stillness": 2,
+      "dynamism": 0.8,
+      "evidence": "lecą, wypuszcza język, pije, śpiewają, rozżarzają się, zapalone, rozwiewa - intensywny ruch wznoszący"
+    },
+    "imageryDensity": {
+      "metaphors": 12,
+      "comparisons": 2,
+      "personifications": 6,
+      "hyperboles": 3,
+      "per100words": 38.3
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.7,
+      "creationLevel": 0.9,
+      "ironicDistance": 0.2,
+      "autobiographicSignals": [
+        "nasze jawne mózgi",
+        "naszymi ustami",
+        "nam się rozżarzają czaszki"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "euforia",
+      "secondary": "tęsknota",
+      "intensity": 0.8
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "nasze jawne mózgi lecą, naszymi ustami, nam się rozżarzają czaszki"
+    },
+    "addressee": {
+      "type": "nikt",
+      "evidence": "brak bezpośredniego zwrotu do konkretnego adresata, wiersz ma charakter wizyjny"
+    },
+    "metaphors": [
+      {
+        "source": "dłoń",
+        "target": "niebo",
+        "example": "Dłoń nieba, do niej nasze jawne mózgi lecą"
+      },
+      {
+        "source": "pochodnie",
+        "target": "ludzie/głowy",
+        "example": "włosy zapalone na widomą chwałę"
+      },
+      {
+        "source": "klatki",
+        "target": "głowy",
+        "example": "sfery wzięte w ścisłe klatki głów"
+      },
+      {
+        "source": "mrowisko",
+        "target": "atmosfera",
+        "example": "w mrowisko atmosfery"
+      }
+    ],
+    "temperature": {
+      "value": 0.9,
+      "label": "gorące - rozżarzone czaszki, zapalone włosy, płomienność"
+    },
+    "senses": {
+      "wzrok": 5,
+      "sluch": 4,
+      "dotyk": 3,
+      "smak": 2,
+      "zapach": 1
+    },
+    "autodestruction": {
+      "level": 0.7,
+      "signals": [
+        "rozżarzają czaszki",
+        "włosy zapalone",
+        "próżnia w czaszkach",
+        "wypuszcza język głodu"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 0.608,
+    "dfaAlpha": 0.836,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -0.3465735902799726
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -0.10609592316509198
+      }
+    ],
+    "seriesLength": 12,
+    "series": [
+      8,
+      6,
+      8,
+      4,
+      7,
+      5,
+      7,
+      3,
+      8,
+      7,
+      6,
+      3
+    ]
+  }
+}

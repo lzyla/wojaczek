@@ -1,0 +1,847 @@
+{
+  "id": "proba-ostatniego-wiersza",
+  "title": "Próba ostatniego wiersza",
+  "wordCount": 74,
+  "lineCount": 12,
+  "uniqueWords": 62,
+  "vocabularyRichness": 0.838,
+  "avgWordsPerLine": 6.17,
+  "wordsPerLineDistribution": [
+    8,
+    6,
+    5,
+    7,
+    7,
+    8,
+    6,
+    8,
+    5,
+    8,
+    4,
+    2
+  ],
+  "wordFrequencies": [
+    [
+      "zgodzie",
+      2
+    ],
+    [
+      "wierszu",
+      2
+    ],
+    [
+      "snem",
+      1
+    ],
+    [
+      "napiszę",
+      1
+    ],
+    [
+      "ciebie",
+      1
+    ],
+    [
+      "męko",
+      1
+    ],
+    [
+      "nędzo",
+      1
+    ],
+    [
+      "wielkości",
+      1
+    ],
+    [
+      "nudo",
+      1
+    ],
+    [
+      "rozpaczy",
+      1
+    ],
+    [
+      "głodzie",
+      1
+    ],
+    [
+      "szaleństwie",
+      1
+    ],
+    [
+      "policzę",
+      1
+    ],
+    [
+      "palcach",
+      1
+    ],
+    [
+      "zorzy",
+      1
+    ],
+    [
+      "wysłowię",
+      1
+    ],
+    [
+      "wtóru",
+      1
+    ],
+    [
+      "gwieździe",
+      1
+    ],
+    [
+      "wysoko",
+      1
+    ],
+    [
+      "krwi",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 12,
+    "period": 5,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 1,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 6,
+  "negationWords": [
+    "nie",
+    "nigdy"
+  ],
+  "pronounDistribution": {
+    "ja": 2,
+    "ty": 4,
+    "on_ona": 0,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 0,
+    "smierc": 0,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [
+    [
+      "nie",
+      2
+    ]
+  ],
+  "firstWord": "już",
+  "lastWord": "wygram",
+  "avgWordLength": 4.74,
+  "wordLengthDistribution": {
+    "1-3": 28,
+    "6-7": 24,
+    "4-5": 13,
+    "8-9": 8,
+    "10+": 1
+  },
+  "bigrams": [
+    [
+      "napiszę ciebie",
+      1
+    ],
+    [
+      "ciebie wierszu",
+      1
+    ],
+    [
+      "męko nędzo",
+      1
+    ],
+    [
+      "wielkości nudo",
+      1
+    ],
+    [
+      "nudo rozpaczy",
+      1
+    ]
+  ],
+  "poemWords": [
+    "zgodzie",
+    "snem",
+    "napiszę",
+    "ciebie",
+    "wierszu",
+    "męko",
+    "nędzo",
+    "wielkości",
+    "nudo",
+    "rozpaczy",
+    "głodzie",
+    "szaleństwie",
+    "policzę",
+    "palcach",
+    "zorzy",
+    "wysłowię",
+    "wtóru",
+    "gwieździe",
+    "wysoko",
+    "krwi",
+    "śpiewa",
+    "boli",
+    "słabej",
+    "głowy",
+    "szkło",
+    "nareszcie",
+    "pęknie",
+    "położysz",
+    "łagodną",
+    "dłonią",
+    "głowie",
+    "bolesnej",
+    "niemej",
+    "duchem",
+    "mowy",
+    "podług",
+    "nadziei",
+    "partytury",
+    "jednej",
+    "wygram"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 26,
+        "VERB": 8,
+        "ADJ": 6,
+        "ADV": 4,
+        "PRON": 6,
+        "ADP": 8,
+        "CCONJ": 6,
+        "SCONJ": 1,
+        "INTJ": 0,
+        "PART": 9,
+        "DET": 2,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.333,
+        "VERB": 0.103,
+        "ADJ": 0.077,
+        "ADV": 0.051,
+        "PRON": 0.077,
+        "ADP": 0.103,
+        "CCONJ": 0.077,
+        "SCONJ": 0.013,
+        "INTJ": 0,
+        "PART": 0.115,
+        "DET": 0.026,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 3,
+        "abstract": 2,
+        "ratio": 0.6
+      },
+      "verbTenses": {
+        "future": 6,
+        "present": 2
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 0,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 1,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 0,
+        "opisowe": 6
+      },
+      "adverbs": {
+        "temporalne": [
+          "nigdy"
+        ],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "wiersza",
+            "count": 1
+          },
+          {
+            "word": "tak",
+            "count": 1
+          },
+          {
+            "word": "wysoko",
+            "count": 1
+          },
+          {
+            "word": "nigdy",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 1,
+        "ty": 4,
+        "on_ona": 0,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 5,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 1,
+        "nigdzie": 0,
+        "zaden": 1,
+        "total": 7,
+        "percentSentences": 0.7
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 166,
+        "consonants": 207,
+        "ratio": 0.8
+      },
+      "consonantClusters": {
+        "count": 9,
+        "top": [
+          {
+            "cluster": "rsz",
+            "count": 3
+          },
+          {
+            "cluster": "ństw",
+            "count": 1
+          },
+          {
+            "cluster": "źdz",
+            "count": 1
+          },
+          {
+            "cluster": "krw",
+            "count": 1
+          },
+          {
+            "cluster": "szkł",
+            "count": 1
+          },
+          {
+            "cluster": "szc",
+            "count": 1
+          },
+          {
+            "cluster": "szcz",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 18,
+        "syczace": 25,
+        "nosowe": 43,
+        "plynne": 28
+      },
+      "rhymes": {
+        "exact": 1,
+        "approximate": 5,
+        "internal": 0,
+        "assonance": 0,
+        "alliteration": 1
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 7.8,
+        "median": 7,
+        "min": 1,
+        "max": 19,
+        "distribution": [
+          0,
+          1,
+          0,
+          1,
+          0,
+          0,
+          2,
+          2,
+          2,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 5.6,
+        "meanSyllables": 12.1,
+        "distribution": [
+          0,
+          1,
+          1,
+          1,
+          1,
+          2,
+          2,
+          2,
+          4
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 10,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 3,
+        "noSubject": 5,
+        "noPredicate": 0,
+        "percent": 0.8
+      },
+      "enjambement": {
+        "count": 0,
+        "percent": 0,
+        "positions": []
+      },
+      "wordOrder": {
+        "svo": 2,
+        "inversions": 0,
+        "other": 7,
+        "deviationPercent": 0.78
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 2,
+        "śmierć": 0,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 170,
+      "estimatedSeconds": 57,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 26,
+      "VERB": 8,
+      "ADJ": 6,
+      "ADV": 4,
+      "PRON": 6,
+      "ADP": 8,
+      "CCONJ": 6,
+      "SCONJ": 1,
+      "INTJ": 0,
+      "PART": 9,
+      "DET": 2,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.333,
+      "VERB": 0.103,
+      "ADJ": 0.077,
+      "ADV": 0.051,
+      "PRON": 0.077,
+      "ADP": 0.103,
+      "CCONJ": 0.077,
+      "SCONJ": 0.013,
+      "INTJ": 0,
+      "PART": 0.115,
+      "DET": 0.026,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 3,
+      "abstract": 2,
+      "ratio": 0.6
+    },
+    "verbTenses": {
+      "future": 6,
+      "present": 2
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 0,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 1,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 0,
+      "opisowe": 6
+    },
+    "adverbs": {
+      "temporalne": [
+        "nigdy"
+      ],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "wiersza",
+          "count": 1
+        },
+        {
+          "word": "tak",
+          "count": 1
+        },
+        {
+          "word": "wysoko",
+          "count": 1
+        },
+        {
+          "word": "nigdy",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 1,
+      "ty": 4,
+      "on_ona": 0,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 5,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 1,
+      "nigdzie": 0,
+      "zaden": 1,
+      "total": 7,
+      "percentSentences": 0.7
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 7.8,
+      "median": 7,
+      "min": 1,
+      "max": 19,
+      "distribution": [
+        0,
+        1,
+        0,
+        1,
+        0,
+        0,
+        2,
+        2,
+        2,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 5.6,
+      "meanSyllables": 12.1,
+      "distribution": [
+        0,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        4
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 10,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 3,
+      "noSubject": 5,
+      "noPredicate": 0,
+      "percent": 0.8
+    },
+    "enjambement": {
+      "count": 0,
+      "percent": 0,
+      "positions": []
+    },
+    "wordOrder": {
+      "svo": 2,
+      "inversions": 0,
+      "other": 7,
+      "deviationPercent": 0.78
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 166,
+      "consonants": 207,
+      "ratio": 0.8
+    },
+    "consonantClusters": {
+      "count": 9,
+      "top": [
+        {
+          "cluster": "rsz",
+          "count": 3
+        },
+        {
+          "cluster": "ństw",
+          "count": 1
+        },
+        {
+          "cluster": "źdz",
+          "count": 1
+        },
+        {
+          "cluster": "krw",
+          "count": 1
+        },
+        {
+          "cluster": "szkł",
+          "count": 1
+        },
+        {
+          "cluster": "szc",
+          "count": 1
+        },
+        {
+          "cluster": "szcz",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 18,
+      "syczace": 25,
+      "nosowe": 43,
+      "plynne": 28
+    },
+    "rhymes": {
+      "exact": 1,
+      "approximate": 5,
+      "internal": 0,
+      "assonance": 0,
+      "alliteration": 1
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        14
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 170,
+      "estimatedSeconds": 57,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "polregularny",
+      "regularityScore": 0.63
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Różewicz",
+          "reference": "metapoetyckie odwołania do niemożności pisania",
+          "evidence": "Już w zgodzie ze snem nie napiszę ciebie, / Wierszu"
+        },
+        {
+          "source": "Leśmian",
+          "reference": "personifikacja wiersza jako bytu żywego",
+          "evidence": "ty mi się, wierszu, jeszcze nie położysz / Łagodną dłonią na głowie bolesnej"
+        },
+        {
+          "source": "inne",
+          "reference": "topika pożegnania z poezją",
+          "evidence": "PRÓBA OSTATNIEGO WIERSZA"
+        }
+      ],
+      "selfQuotes": [
+        "nawrót do motywu niemożności twórczej",
+        "charakterystyczne apostrofy do wiersza"
+      ],
+      "influences": {
+        "rimbaud": 0.3,
+        "baudelaire": 0.2,
+        "bursa": 0.1,
+        "stachura": 0.4,
+        "grochowiak": 0.1,
+        "bialoszewski": 0.1,
+        "rozewicz": 0.8
+      }
+    },
+    "space": {
+      "type": "nieokreslona",
+      "evidence": "przestrzeń wewnętrzna podmiotu, metafizyczna arena twórczości",
+      "openClosedRatio": 0.3
+    },
+    "timeOfDay": {
+      "period": "noc",
+      "season": "nieokreslona",
+      "evidence": "zgodzie ze snem, zorzy, gwieździe - nocne i brzaskowe obrazy"
+    },
+    "motion": {
+      "movement": 2,
+      "stillness": 8,
+      "dynamism": 0.2,
+      "evidence": "dominuje statyczność, bezruch twórczy, niemożność działania"
+    },
+    "imageryDensity": {
+      "metaphors": 8,
+      "comparisons": 1,
+      "personifications": 3,
+      "hyperboles": 2,
+      "per100words": 21.9
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.9,
+      "creationLevel": 0.8,
+      "ironicDistance": 0.2,
+      "autobiographicSignals": [
+        "moja męko, nędzo i wielkości",
+        "słabej głowy szkło",
+        "głowie bolesnej",
+        "data 1969"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "rezygnacja",
+      "secondary": "rozpacz",
+      "intensity": 0.8
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "Liczne formy pierwszej osoby: 'nie napiszę', 'nie policzę', 'nie wysłowię', 'mi się', 'nie wygram'"
+    },
+    "addressee": {
+      "type": "siebie",
+      "evidence": "Zwrot do własnej twórczości - 'Wierszu, moja męko' - poeta prowadzi dialog z własnym dziełem jako częścią siebie"
+    },
+    "metaphors": [
+      {
+        "source": "wiersz",
+        "target": "istota żywa",
+        "example": "wierszu, jeszcze nie położysz łagodną dłonią na głowie"
+      },
+      {
+        "source": "głowa",
+        "target": "szklany przedmiot",
+        "example": "słabej głowy szkło nareszcie pęknie"
+      },
+      {
+        "source": "krew",
+        "target": "instrument muzyczny",
+        "example": "we krwi śpiewa, że aż boli"
+      },
+      {
+        "source": "życie",
+        "target": "partytura",
+        "example": "nadziei partytury jednej"
+      }
+    ],
+    "temperature": {
+      "value": 0.2,
+      "label": "zimne - wyczerpanie twórcze i kapitulacja"
+    },
+    "senses": {
+      "wzrok": 2,
+      "sluch": 4,
+      "dotyk": 3,
+      "smak": 0,
+      "zapach": 0
+    },
+    "autodestruction": {
+      "level": 0.7,
+      "signals": [
+        "głowy szkło nareszcie pęknie",
+        "serie negacji i niemożności",
+        "kapitulacja przed tworzeniem",
+        "tytuł jako 'próba ostatniego wiersza'"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 0.737,
+    "dfaAlpha": 2.277,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -0.8855700910126593
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -0.23062198791972385
+      }
+    ],
+    "seriesLength": 12,
+    "series": [
+      8,
+      6,
+      5,
+      7,
+      7,
+      8,
+      6,
+      8,
+      5,
+      8,
+      4,
+      2
+    ]
+  }
+}

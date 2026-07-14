@@ -1,0 +1,794 @@
+{
+  "id": "mow-a-ja-z-twoich-slow-kolczyki-zrobie",
+  "title": "Mów – a ja z twoich słów kolczyki zrobię",
+  "wordCount": 53,
+  "lineCount": 9,
+  "uniqueWords": 47,
+  "vocabularyRichness": 0.887,
+  "avgWordsPerLine": 5.89,
+  "wordsPerLineDistribution": [
+    3,
+    8,
+    7,
+    7,
+    3,
+    8,
+    7,
+    7,
+    3
+  ],
+  "wordFrequencies": [
+    [
+      "mów",
+      1
+    ],
+    [
+      "słów",
+      1
+    ],
+    [
+      "kolczyki",
+      1
+    ],
+    [
+      "zrobię",
+      1
+    ],
+    [
+      "śnij",
+      1
+    ],
+    [
+      "snów",
+      1
+    ],
+    [
+      "sukienkę",
+      1
+    ],
+    [
+      "ślubną",
+      1
+    ],
+    [
+      "skroję",
+      1
+    ],
+    [
+      "myśl",
+      1
+    ],
+    [
+      "myśli",
+      1
+    ],
+    [
+      "los",
+      1
+    ],
+    [
+      "wyroję",
+      1
+    ],
+    [
+      "żyj",
+      1
+    ],
+    [
+      "uprzytomnię",
+      1
+    ],
+    [
+      "śmierć",
+      1
+    ],
+    [
+      "bij",
+      1
+    ],
+    [
+      "razów",
+      1
+    ],
+    [
+      "rozum",
+      1
+    ],
+    [
+      "wejdzie",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 0,
+    "period": 0,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 6,
+    "colon": 0,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 0,
+  "negationWords": [],
+  "pronounDistribution": {
+    "ja": 2,
+    "ty": 3,
+    "on_ona": 0,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 0,
+    "smierc": 1,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [],
+  "firstWord": "mów",
+  "lastWord": "proś",
+  "avgWordLength": 4.3,
+  "wordLengthDistribution": {
+    "1-3": 21,
+    "6-7": 13,
+    "4-5": 14,
+    "8-9": 3,
+    "10+": 2
+  },
+  "bigrams": [
+    [
+      "twoich słów",
+      1
+    ],
+    [
+      "słów kolczyki",
+      1
+    ],
+    [
+      "kolczyki zrobię",
+      1
+    ],
+    [
+      "zrobię śnij",
+      1
+    ],
+    [
+      "twoich snów",
+      1
+    ],
+    [
+      "snów sukienkę",
+      1
+    ],
+    [
+      "sukienkę ślubną",
+      1
+    ],
+    [
+      "ślubną skroję",
+      1
+    ]
+  ],
+  "poemWords": [
+    "mów",
+    "słów",
+    "kolczyki",
+    "zrobię",
+    "śnij",
+    "snów",
+    "sukienkę",
+    "ślubną",
+    "skroję",
+    "myśl",
+    "myśli",
+    "los",
+    "wyroję",
+    "żyj",
+    "uprzytomnię",
+    "śmierć",
+    "bij",
+    "razów",
+    "rozum",
+    "wejdzie",
+    "idź",
+    "czekać",
+    "przyjść",
+    "zechcesz",
+    "jedz",
+    "podaję",
+    "łeb",
+    "wyleję",
+    "przebaczenie",
+    "proś"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 12,
+        "VERB": 14,
+        "ADJ": 2,
+        "ADV": 2,
+        "PRON": 3,
+        "ADP": 7,
+        "CCONJ": 2,
+        "SCONJ": 1,
+        "INTJ": 0,
+        "PART": 2,
+        "DET": 3,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.24,
+        "VERB": 0.28,
+        "ADJ": 0.04,
+        "ADV": 0.04,
+        "PRON": 0.06,
+        "ADP": 0.14,
+        "CCONJ": 0.04,
+        "SCONJ": 0.02,
+        "INTJ": 0,
+        "PART": 0.04,
+        "DET": 0.06,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 0,
+        "abstract": 3,
+        "ratio": 0
+      },
+      "verbTenses": {
+        "imperative": 4,
+        "future": 6,
+        "present": 2,
+        "past": 1,
+        "infinitive": 2
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 2,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 0,
+        "opisowe": 2
+      },
+      "adverbs": {
+        "temporalne": [],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "kiedy",
+            "count": 1
+          },
+          {
+            "word": "gdy",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 2,
+        "ty": 0,
+        "on_ona": 0,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 0,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 0,
+        "percentSentences": 0
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 87,
+        "consonants": 138,
+        "ratio": 0.63
+      },
+      "consonantClusters": {
+        "count": 8,
+        "top": [
+          {
+            "cluster": "prz",
+            "count": 3
+          },
+          {
+            "cluster": "lcz",
+            "count": 1
+          },
+          {
+            "cluster": "skr",
+            "count": 1
+          },
+          {
+            "cluster": "jdz",
+            "count": 1
+          },
+          {
+            "cluster": "jść",
+            "count": 1
+          },
+          {
+            "cluster": "chc",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 8,
+        "syczace": 30,
+        "nosowe": 26,
+        "plynne": 18
+      },
+      "rhymes": {
+        "exact": 0,
+        "approximate": 1,
+        "internal": 0,
+        "assonance": 0,
+        "alliteration": 0
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 10,
+        "median": 8,
+        "min": 7,
+        "max": 18,
+        "distribution": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          2,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 6.6,
+        "meanSyllables": 11,
+        "distribution": [
+          0,
+          0,
+          0,
+          2,
+          1,
+          0,
+          0,
+          1,
+          3,
+          2
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 2,
+        "interrogative": 0,
+        "imperative": 3,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 1,
+        "noSubject": 2,
+        "noPredicate": 0,
+        "percent": 0.6
+      },
+      "enjambement": {
+        "count": 1,
+        "percent": 0.12,
+        "positions": [
+          5
+        ]
+      },
+      "wordOrder": {
+        "svo": 0,
+        "inversions": 2,
+        "other": 3,
+        "deviationPercent": 1
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 0,
+        "śmierć": 1,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 99,
+      "estimatedSeconds": 33,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 12,
+      "VERB": 14,
+      "ADJ": 2,
+      "ADV": 2,
+      "PRON": 3,
+      "ADP": 7,
+      "CCONJ": 2,
+      "SCONJ": 1,
+      "INTJ": 0,
+      "PART": 2,
+      "DET": 3,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.24,
+      "VERB": 0.28,
+      "ADJ": 0.04,
+      "ADV": 0.04,
+      "PRON": 0.06,
+      "ADP": 0.14,
+      "CCONJ": 0.04,
+      "SCONJ": 0.02,
+      "INTJ": 0,
+      "PART": 0.04,
+      "DET": 0.06,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 0,
+      "abstract": 3,
+      "ratio": 0
+    },
+    "verbTenses": {
+      "imperative": 4,
+      "future": 6,
+      "present": 2,
+      "past": 1,
+      "infinitive": 2
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 2,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 0,
+      "opisowe": 2
+    },
+    "adverbs": {
+      "temporalne": [],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "kiedy",
+          "count": 1
+        },
+        {
+          "word": "gdy",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 2,
+      "ty": 0,
+      "on_ona": 0,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 0,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 0,
+      "percentSentences": 0
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 10,
+      "median": 8,
+      "min": 7,
+      "max": 18,
+      "distribution": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        1,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 6.6,
+      "meanSyllables": 11,
+      "distribution": [
+        0,
+        0,
+        0,
+        2,
+        1,
+        0,
+        0,
+        1,
+        3,
+        2
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 2,
+      "interrogative": 0,
+      "imperative": 3,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 1,
+      "noSubject": 2,
+      "noPredicate": 0,
+      "percent": 0.6
+    },
+    "enjambement": {
+      "count": 1,
+      "percent": 0.12,
+      "positions": [
+        5
+      ]
+    },
+    "wordOrder": {
+      "svo": 0,
+      "inversions": 2,
+      "other": 3,
+      "deviationPercent": 1
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 87,
+      "consonants": 138,
+      "ratio": 0.63
+    },
+    "consonantClusters": {
+      "count": 8,
+      "top": [
+        {
+          "cluster": "prz",
+          "count": 3
+        },
+        {
+          "cluster": "lcz",
+          "count": 1
+        },
+        {
+          "cluster": "skr",
+          "count": 1
+        },
+        {
+          "cluster": "jdz",
+          "count": 1
+        },
+        {
+          "cluster": "jść",
+          "count": 1
+        },
+        {
+          "cluster": "chc",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 8,
+      "syczace": 30,
+      "nosowe": 26,
+      "plynne": 18
+    },
+    "rhymes": {
+      "exact": 0,
+      "approximate": 1,
+      "internal": 0,
+      "assonance": 0,
+      "alliteration": 0
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        9
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 99,
+      "estimatedSeconds": 33,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "polregularny",
+      "regularityScore": 0.64
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Biblia",
+          "reference": "Modlitwa Pańska - 'przebacz nam nasze winy'",
+          "evidence": "O przebaczenie proś"
+        },
+        {
+          "source": "mitologia",
+          "reference": "mit o Penelopie czekającej na Odyseusza",
+          "evidence": "Idź – będę czekać kiedy znów przyjść zechcesz"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.7,
+        "baudelaire": 0.6,
+        "bursa": 0.5,
+        "stachura": 0.4,
+        "grochowiak": 0.3,
+        "bialoszewski": 0.2,
+        "rozewicz": 0.4
+      }
+    },
+    "space": {
+      "type": "zamknieta",
+      "evidence": "Intymna przestrzeń relacji dwojga, domknięta w imperatywach i gestach bliskości",
+      "openClosedRatio": 0.2
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "nieokreslona",
+      "evidence": "Brak wyraźnych wskaźników temporalnych, czas zawieszony w relacji miłosnej"
+    },
+    "motion": {
+      "movement": 7,
+      "stillness": 3,
+      "dynamism": 0.7,
+      "evidence": "Seria imperatywów: mów, śnij, myśl, żyj, bij, idź, jedz, proś - dynamika poleceń i działań"
+    },
+    "imageryDensity": {
+      "metaphors": 4,
+      "comparisons": 0,
+      "personifications": 1,
+      "hyperboles": 2,
+      "per100words": 15.6
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.8,
+      "creationLevel": 0.7,
+      "ironicDistance": 0.2,
+      "autobiographicSignals": [
+        "intymny ton zwrotu do ukochanej",
+        "imperatywy jako forma miłosnego błagania",
+        "motyw przebaczenia"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "rezygnacja",
+      "secondary": "czułość",
+      "intensity": 0.8
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "podmiot wypowiada się w pierwszej osobie: 'ja z twoich słów kolczyki zrobię', 'będę czekać'"
+    },
+    "addressee": {
+      "type": "ty",
+      "evidence": "bezpośrednie zwroty do odbiorcy w trybie rozkazującym: 'Mów', 'Śnij', 'Myśl', 'Żyj', 'bij', 'Idź'"
+    },
+    "metaphors": [
+      {
+        "source": "słowa",
+        "target": "kolczyki",
+        "example": "z twoich słów kolczyki zrobię"
+      },
+      {
+        "source": "sny",
+        "target": "sukienka ślubna",
+        "example": "z Twoich snów sukienkę ślubną skroję"
+      },
+      {
+        "source": "myśli",
+        "target": "los",
+        "example": "z Twoich myśli los wyroję sobie"
+      }
+    ],
+    "temperature": {
+      "value": 0.3,
+      "label": "chłodna rezygnacja z nutą masochistycznej uległości"
+    },
+    "senses": {
+      "wzrok": 3,
+      "sluch": 2,
+      "dotyk": 5,
+      "smak": 2,
+      "zapach": 1
+    },
+    "autodestruction": {
+      "level": 0.9,
+      "signals": [
+        "gotowość na przemoc: 'bij - od razów rozum we mnie wejdzie'",
+        "masochistyczna uległość",
+        "prośba o przebaczenie mimo krzywdy",
+        "całkowite podporządkowanie się drugiemu"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": null,
+    "dfaAlpha": null,
+    "dfaScaling": [],
+    "seriesLength": 9,
+    "series": [
+      3,
+      8,
+      7,
+      7,
+      3,
+      8,
+      7,
+      7,
+      3
+    ]
+  }
+}

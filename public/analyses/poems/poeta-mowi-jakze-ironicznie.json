@@ -1,0 +1,871 @@
+{
+  "id": "poeta-mowi-jakze-ironicznie",
+  "title": "Poeta mówi jakże ironicznie",
+  "wordCount": 70,
+  "lineCount": 14,
+  "uniqueWords": 64,
+  "vocabularyRichness": 0.914,
+  "avgWordsPerLine": 5,
+  "wordsPerLineDistribution": [
+    6,
+    5,
+    5,
+    5,
+    6,
+    4,
+    4,
+    6,
+    5,
+    5,
+    5,
+    5,
+    5,
+    4
+  ],
+  "wordFrequencies": [
+    [
+      "mówię",
+      2
+    ],
+    [
+      "serca",
+      1
+    ],
+    [
+      "ręki",
+      1
+    ],
+    [
+      "tobie",
+      1
+    ],
+    [
+      "osobne",
+      1
+    ],
+    [
+      "słowo",
+      1
+    ],
+    [
+      "pierś",
+      1
+    ],
+    [
+      "pośladek",
+      1
+    ],
+    [
+      "kładę",
+      1
+    ],
+    [
+      "byś",
+      1
+    ],
+    [
+      "żądzą",
+      1
+    ],
+    [
+      "pobożnie",
+      1
+    ],
+    [
+      "zdźwięczył",
+      1
+    ],
+    [
+      "ludu",
+      1
+    ],
+    [
+      "proboszcza",
+      1
+    ],
+    [
+      "wierszami",
+      1
+    ],
+    [
+      "przemycam",
+      1
+    ],
+    [
+      "głos",
+      1
+    ],
+    [
+      "pewnej",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 8,
+    "period": 4,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 0,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 0,
+  "negationWords": [],
+  "pronounDistribution": {
+    "ja": 2,
+    "ty": 0,
+    "on_ona": 2,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 1,
+    "smierc": 0,
+    "erotyka": 1,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 1,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [
+    [
+      "mówię",
+      2
+    ]
+  ],
+  "firstWord": "mówię",
+  "lastWord": "zapowiedzi",
+  "avgWordLength": 5.29,
+  "wordLengthDistribution": {
+    "4-5": 22,
+    "1-3": 21,
+    "6-7": 9,
+    "8-9": 13,
+    "10+": 5
+  },
+  "bigrams": [
+    [
+      "ręki tobie",
+      1
+    ],
+    [
+      "tobie osobne",
+      1
+    ],
+    [
+      "osobne słowo",
+      1
+    ],
+    [
+      "pośladek kładę",
+      1
+    ],
+    [
+      "kładę byś",
+      1
+    ]
+  ],
+  "poemWords": [
+    "mówię",
+    "serca",
+    "ręki",
+    "tobie",
+    "osobne",
+    "słowo",
+    "pierś",
+    "pośladek",
+    "kładę",
+    "byś",
+    "żądzą",
+    "pobożnie",
+    "zdźwięczył",
+    "ludu",
+    "proboszcza",
+    "między",
+    "wierszami",
+    "przemycam",
+    "głos",
+    "pewnej",
+    "pobożnej",
+    "niewiasty",
+    "wyznaczyła",
+    "spotkać",
+    "jakże",
+    "zbliżony",
+    "sfer",
+    "niebieskich",
+    "przeze",
+    "przemawia",
+    "przestwór",
+    "któremu",
+    "imię",
+    "bóg",
+    "zaprawdę",
+    "chcąc",
+    "spodobać",
+    "śmierci",
+    "ciągle",
+    "muszę",
+    "fałszować",
+    "słowa",
+    "ogromnej",
+    "zapowiedzi"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 17,
+        "VERB": 15,
+        "ADJ": 9,
+        "ADV": 4,
+        "PRON": 8,
+        "ADP": 9,
+        "CCONJ": 4,
+        "SCONJ": 2,
+        "INTJ": 0,
+        "PART": 2,
+        "DET": 3,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.224,
+        "VERB": 0.197,
+        "ADJ": 0.118,
+        "ADV": 0.053,
+        "PRON": 0.105,
+        "ADP": 0.118,
+        "CCONJ": 0.053,
+        "SCONJ": 0.026,
+        "INTJ": 0,
+        "PART": 0.026,
+        "DET": 0.039,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 2,
+        "abstract": 0,
+        "ratio": 1
+      },
+      "verbTenses": {
+        "present": 11,
+        "past": 2,
+        "infinitive": 3
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 1,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 1,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 0,
+        "opisowe": 9
+      },
+      "adverbs": {
+        "temporalne": [
+          "ciągle"
+        ],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "pobożnie",
+            "count": 1
+          },
+          {
+            "word": "gdzie",
+            "count": 1
+          },
+          {
+            "word": "jakże",
+            "count": 1
+          },
+          {
+            "word": "ciągle",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 2,
+        "ty": 1,
+        "on_ona": 2,
+        "my": 0,
+        "wy": 0,
+        "oni": 1
+      },
+      "negations": {
+        "nie": 0,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 0,
+        "percentSentences": 0
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 167,
+        "consonants": 229,
+        "ratio": 0.73
+      },
+      "consonantClusters": {
+        "count": 13,
+        "top": [
+          {
+            "cluster": "prz",
+            "count": 4
+          },
+          {
+            "cluster": "czn",
+            "count": 1
+          },
+          {
+            "cluster": "zdźw",
+            "count": 1
+          },
+          {
+            "cluster": "szcz",
+            "count": 1
+          },
+          {
+            "cluster": "rsz",
+            "count": 1
+          },
+          {
+            "cluster": "gdz",
+            "count": 1
+          },
+          {
+            "cluster": "zbl",
+            "count": 1
+          },
+          {
+            "cluster": "stw",
+            "count": 1
+          },
+          {
+            "cluster": "chc",
+            "count": 1
+          },
+          {
+            "cluster": "łsz",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 20,
+        "syczace": 38,
+        "nosowe": 46,
+        "plynne": 31
+      },
+      "rhymes": {
+        "exact": 0,
+        "approximate": 2,
+        "internal": 0,
+        "assonance": 0,
+        "alliteration": 2
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 15.2,
+        "median": 15,
+        "min": 2,
+        "max": 25,
+        "distribution": [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 4.8,
+        "meanSyllables": 10.5,
+        "distribution": [
+          0,
+          0,
+          1,
+          0,
+          4,
+          8,
+          3
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 5,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 1,
+        "noSubject": 0,
+        "noPredicate": 0,
+        "percent": 0.2
+      },
+      "enjambement": {
+        "count": 1,
+        "percent": 0.07,
+        "positions": [
+          3
+        ]
+      },
+      "wordOrder": {
+        "svo": 0,
+        "inversions": 4,
+        "other": 1,
+        "deviationPercent": 1
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 2,
+        "śmierć": 0,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 1,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 168,
+      "estimatedSeconds": 56,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 17,
+      "VERB": 15,
+      "ADJ": 9,
+      "ADV": 4,
+      "PRON": 8,
+      "ADP": 9,
+      "CCONJ": 4,
+      "SCONJ": 2,
+      "INTJ": 0,
+      "PART": 2,
+      "DET": 3,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.224,
+      "VERB": 0.197,
+      "ADJ": 0.118,
+      "ADV": 0.053,
+      "PRON": 0.105,
+      "ADP": 0.118,
+      "CCONJ": 0.053,
+      "SCONJ": 0.026,
+      "INTJ": 0,
+      "PART": 0.026,
+      "DET": 0.039,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 2,
+      "abstract": 0,
+      "ratio": 1
+    },
+    "verbTenses": {
+      "present": 11,
+      "past": 2,
+      "infinitive": 3
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 1,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 1,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 0,
+      "opisowe": 9
+    },
+    "adverbs": {
+      "temporalne": [
+        "ciągle"
+      ],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "pobożnie",
+          "count": 1
+        },
+        {
+          "word": "gdzie",
+          "count": 1
+        },
+        {
+          "word": "jakże",
+          "count": 1
+        },
+        {
+          "word": "ciągle",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 2,
+      "ty": 1,
+      "on_ona": 2,
+      "my": 0,
+      "wy": 0,
+      "oni": 1
+    },
+    "negations": {
+      "nie": 0,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 0,
+      "percentSentences": 0
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 15.2,
+      "median": 15,
+      "min": 2,
+      "max": 25,
+      "distribution": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 4.8,
+      "meanSyllables": 10.5,
+      "distribution": [
+        0,
+        0,
+        1,
+        0,
+        4,
+        8,
+        3
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 5,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 1,
+      "noSubject": 0,
+      "noPredicate": 0,
+      "percent": 0.2
+    },
+    "enjambement": {
+      "count": 1,
+      "percent": 0.07,
+      "positions": [
+        3
+      ]
+    },
+    "wordOrder": {
+      "svo": 0,
+      "inversions": 4,
+      "other": 1,
+      "deviationPercent": 1
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 167,
+      "consonants": 229,
+      "ratio": 0.73
+    },
+    "consonantClusters": {
+      "count": 13,
+      "top": [
+        {
+          "cluster": "prz",
+          "count": 4
+        },
+        {
+          "cluster": "czn",
+          "count": 1
+        },
+        {
+          "cluster": "zdźw",
+          "count": 1
+        },
+        {
+          "cluster": "szcz",
+          "count": 1
+        },
+        {
+          "cluster": "rsz",
+          "count": 1
+        },
+        {
+          "cluster": "gdz",
+          "count": 1
+        },
+        {
+          "cluster": "zbl",
+          "count": 1
+        },
+        {
+          "cluster": "stw",
+          "count": 1
+        },
+        {
+          "cluster": "chc",
+          "count": 1
+        },
+        {
+          "cluster": "łsz",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 20,
+      "syczace": 38,
+      "nosowe": 46,
+      "plynne": 31
+    },
+    "rhymes": {
+      "exact": 0,
+      "approximate": 2,
+      "internal": 0,
+      "assonance": 0,
+      "alliteration": 2
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        16
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 168,
+      "estimatedSeconds": 56,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "regularny",
+      "regularityScore": 0.77
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Biblia",
+          "reference": "retoryka religijna, 'zaprawdę', 'sfery niebieskie', 'Bóg'",
+          "evidence": "Ale zaprawdę, chcąc się spodobać / Śmierci, ja ciągle muszę fałszować / Słowa ogromnej tej zapowiedzi"
+        },
+        {
+          "source": "inne",
+          "reference": "topos poeta vates - poeta jako medium boskiego głosu",
+          "evidence": "Jestem przeze mnie przemawia już / Przestwór, któremu na imię Bóg"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.3,
+        "baudelaire": 0.4,
+        "bursa": 0.1,
+        "stachura": 0.2,
+        "grochowiak": 0.2,
+        "bialoszewski": 0.1,
+        "rozewicz": 0.7
+      }
+    },
+    "space": {
+      "type": "nieokreslona",
+      "evidence": "przestrzeń abstrakcyjna - sfery niebieskie, przestwór",
+      "openClosedRatio": 0.6
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "nieokreslona",
+      "evidence": "brak wyraźnych wskaźników temporalnych"
+    },
+    "motion": {
+      "movement": 2,
+      "stillness": 7,
+      "dynamism": 0.3,
+      "evidence": "dominuje statyczność refleksji, ruch jedynie w aktach mówienia"
+    },
+    "imageryDensity": {
+      "metaphors": 4,
+      "comparisons": 2,
+      "personifications": 2,
+      "hyperboles": 1,
+      "per100words": 9.47
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.8,
+      "creationLevel": 0.7,
+      "ironicDistance": 0.9,
+      "autobiographicSignals": [
+        "tytuł wskazujący na ironię",
+        "autotematyzm poezji",
+        "ja liryczne jako poeta"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "ironia",
+      "secondary": "rezygnacja",
+      "intensity": 0.8
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "Liczne formy pierwszej osoby: 'Mówię', 'kładę', 'przemycam', 'Jestem', 'ja ciągle muszę'"
+    },
+    "addressee": {
+      "type": "czytelnik",
+      "evidence": "Bezpośrednie zwroty 'Tobie osobne słowo' oraz autotematyczny charakter wiersza o roli poety"
+    },
+    "metaphors": [
+      {
+        "source": "słowo",
+        "target": "ciało",
+        "example": "słowo jak pierś / Albo pośladek"
+      },
+      {
+        "source": "poezja",
+        "target": "fałszerstwo",
+        "example": "ja ciągle muszę fałszować / Słowa ogromnej tej zapowiedzi"
+      },
+      {
+        "source": "poeta",
+        "target": "medium",
+        "example": "przeze mnie przemawia już / Przestwór, któremu na imię Bóg"
+      }
+    ],
+    "temperature": {
+      "value": 0.4,
+      "label": "chłodna ironia z nutą goryczy"
+    },
+    "senses": {
+      "wzrok": 1,
+      "sluch": 4,
+      "dotyk": 3,
+      "smak": 0,
+      "zapach": 0
+    },
+    "autodestruction": {
+      "level": 0.6,
+      "signals": [
+        "fałszowanie słów",
+        "konieczność spodobania się śmierci",
+        "kompromisy twórcze"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": -0.036,
+    "dfaAlpha": 0.112,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -1.7328679513998628
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -1.7005986908310777
+      }
+    ],
+    "seriesLength": 14,
+    "series": [
+      6,
+      5,
+      5,
+      5,
+      6,
+      4,
+      4,
+      6,
+      5,
+      5,
+      5,
+      5,
+      5,
+      4
+    ]
+  }
+}

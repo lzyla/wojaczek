@@ -1,0 +1,774 @@
+{
+  "id": "ulica-2",
+  "title": "Ulica",
+  "wordCount": 58,
+  "lineCount": 8,
+  "uniqueWords": 44,
+  "vocabularyRichness": 0.759,
+  "avgWordsPerLine": 7.25,
+  "wordsPerLineDistribution": [
+    9,
+    7,
+    6,
+    9,
+    8,
+    7,
+    5,
+    7
+  ],
+  "wordFrequencies": [
+    [
+      "nocą",
+      2
+    ],
+    [
+      "ciało",
+      2
+    ],
+    [
+      "zawsze",
+      2
+    ],
+    [
+      "pozycją",
+      1
+    ],
+    [
+      "spisach",
+      1
+    ],
+    [
+      "planach",
+      1
+    ],
+    [
+      "główną",
+      1
+    ],
+    [
+      "ulicą",
+      1
+    ],
+    [
+      "miasta",
+      1
+    ],
+    [
+      "policjant",
+      1
+    ],
+    [
+      "stróż",
+      1
+    ],
+    [
+      "czuwające",
+      1
+    ],
+    [
+      "babki",
+      1
+    ],
+    [
+      "wskażą",
+      1
+    ],
+    [
+      "masz",
+      1
+    ],
+    [
+      "iść",
+      1
+    ],
+    [
+      "trafisz",
+      1
+    ],
+    [
+      "ciągle",
+      1
+    ],
+    [
+      "zdumiewam",
+      1
+    ],
+    [
+      "zmyślnie",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 0,
+    "period": 0,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 0,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 2,
+  "negationWords": [
+    "nie"
+  ],
+  "pronounDistribution": {
+    "ja": 2,
+    "ty": 2,
+    "on_ona": 0,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 2,
+    "smierc": 0,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 2,
+    "bol": 0
+  },
+  "anaphors": [
+    [
+      "chociaż",
+      4
+    ]
+  ],
+  "firstWord": "chociaż",
+  "lastWord": "księżycem",
+  "avgWordLength": 5.03,
+  "wordLengthDistribution": {
+    "6-7": 16,
+    "1-3": 18,
+    "4-5": 16,
+    "8-9": 6,
+    "10+": 2
+  },
+  "bigrams": [
+    [
+      "planach nocą",
+      1
+    ],
+    [
+      "główną ulicą",
+      1
+    ],
+    [
+      "ulicą miasta",
+      1
+    ]
+  ],
+  "poemWords": [
+    "pozycją",
+    "spisach",
+    "planach",
+    "nocą",
+    "ciało",
+    "główną",
+    "ulicą",
+    "miasta",
+    "policjant",
+    "stróż",
+    "czuwające",
+    "babki",
+    "wskażą",
+    "masz",
+    "iść",
+    "zawsze",
+    "trafisz",
+    "ciągle",
+    "zdumiewam",
+    "zmyślnie",
+    "rozpoznasz",
+    "oczywiście",
+    "ulica",
+    "kończy",
+    "księżycem"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 16,
+        "VERB": 7,
+        "ADJ": 3,
+        "ADV": 7,
+        "PRON": 5,
+        "ADP": 2,
+        "CCONJ": 2,
+        "SCONJ": 6,
+        "INTJ": 0,
+        "PART": 4,
+        "DET": 4,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.271,
+        "VERB": 0.119,
+        "ADJ": 0.051,
+        "ADV": 0.119,
+        "PRON": 0.085,
+        "ADP": 0.034,
+        "CCONJ": 0.034,
+        "SCONJ": 0.102,
+        "INTJ": 0,
+        "PART": 0.068,
+        "DET": 0.068,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 5,
+        "abstract": 0,
+        "ratio": 1
+      },
+      "verbTenses": {
+        "present": 5,
+        "future": 4,
+        "infinitive": 1
+      },
+      "verbSemantics": {
+        "ruch": 1,
+        "percepcja": 0,
+        "stan": 3,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 0,
+        "opisowe": 3
+      },
+      "adverbs": {
+        "temporalne": [
+          "ciągle",
+          "zawsze"
+        ],
+        "modalne": [
+          "oczywiście"
+        ],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "jak",
+            "count": 2
+          },
+          {
+            "word": "zawsze",
+            "count": 2
+          },
+          {
+            "word": "ciągle",
+            "count": 1
+          },
+          {
+            "word": "tak",
+            "count": 1
+          },
+          {
+            "word": "oczywiście",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 0,
+        "ty": 2,
+        "on_ona": 0,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 2,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 2,
+        "percentSentences": 0.4
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 124,
+        "consonants": 173,
+        "ratio": 0.72
+      },
+      "consonantClusters": {
+        "count": 7,
+        "top": [
+          {
+            "cluster": "wsz",
+            "count": 2
+          },
+          {
+            "cluster": "str",
+            "count": 1
+          },
+          {
+            "cluster": "wsk",
+            "count": 1
+          },
+          {
+            "cluster": "prz",
+            "count": 1
+          },
+          {
+            "cluster": "śln",
+            "count": 1
+          },
+          {
+            "cluster": "ńcz",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 21,
+        "syczace": 48,
+        "nosowe": 33,
+        "plynne": 15
+      },
+      "rhymes": {
+        "exact": 0,
+        "approximate": 1,
+        "internal": 2,
+        "assonance": 2,
+        "alliteration": 0
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 11.8,
+        "median": 8,
+        "min": 1,
+        "max": 31,
+        "distribution": [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 6.6,
+        "meanSyllables": 14,
+        "distribution": [
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          3,
+          1,
+          2
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 5,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 1,
+        "noSubject": 1,
+        "noPredicate": 0,
+        "percent": 0.4
+      },
+      "enjambement": {
+        "count": 0,
+        "percent": 0,
+        "positions": []
+      },
+      "wordOrder": {
+        "svo": 2,
+        "inversions": 1,
+        "other": 1,
+        "deviationPercent": 0.5
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 2,
+        "śmierć": 0,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 2,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 126,
+      "estimatedSeconds": 42,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 16,
+      "VERB": 7,
+      "ADJ": 3,
+      "ADV": 7,
+      "PRON": 5,
+      "ADP": 2,
+      "CCONJ": 2,
+      "SCONJ": 6,
+      "INTJ": 0,
+      "PART": 4,
+      "DET": 4,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.271,
+      "VERB": 0.119,
+      "ADJ": 0.051,
+      "ADV": 0.119,
+      "PRON": 0.085,
+      "ADP": 0.034,
+      "CCONJ": 0.034,
+      "SCONJ": 0.102,
+      "INTJ": 0,
+      "PART": 0.068,
+      "DET": 0.068,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 5,
+      "abstract": 0,
+      "ratio": 1
+    },
+    "verbTenses": {
+      "present": 5,
+      "future": 4,
+      "infinitive": 1
+    },
+    "verbSemantics": {
+      "ruch": 1,
+      "percepcja": 0,
+      "stan": 3,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 0,
+      "opisowe": 3
+    },
+    "adverbs": {
+      "temporalne": [
+        "ciągle",
+        "zawsze"
+      ],
+      "modalne": [
+        "oczywiście"
+      ],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "jak",
+          "count": 2
+        },
+        {
+          "word": "zawsze",
+          "count": 2
+        },
+        {
+          "word": "ciągle",
+          "count": 1
+        },
+        {
+          "word": "tak",
+          "count": 1
+        },
+        {
+          "word": "oczywiście",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 0,
+      "ty": 2,
+      "on_ona": 0,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 2,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 2,
+      "percentSentences": 0.4
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 11.8,
+      "median": 8,
+      "min": 1,
+      "max": 31,
+      "distribution": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 6.6,
+      "meanSyllables": 14,
+      "distribution": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        1,
+        3,
+        1,
+        2
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 5,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 1,
+      "noSubject": 1,
+      "noPredicate": 0,
+      "percent": 0.4
+    },
+    "enjambement": {
+      "count": 0,
+      "percent": 0,
+      "positions": []
+    },
+    "wordOrder": {
+      "svo": 2,
+      "inversions": 1,
+      "other": 1,
+      "deviationPercent": 0.5
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 124,
+      "consonants": 173,
+      "ratio": 0.72
+    },
+    "consonantClusters": {
+      "count": 7,
+      "top": [
+        {
+          "cluster": "wsz",
+          "count": 2
+        },
+        {
+          "cluster": "str",
+          "count": 1
+        },
+        {
+          "cluster": "wsk",
+          "count": 1
+        },
+        {
+          "cluster": "prz",
+          "count": 1
+        },
+        {
+          "cluster": "śln",
+          "count": 1
+        },
+        {
+          "cluster": "ńcz",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 21,
+      "syczace": 48,
+      "nosowe": 33,
+      "plynne": 15
+    },
+    "rhymes": {
+      "exact": 0,
+      "approximate": 1,
+      "internal": 2,
+      "assonance": 2,
+      "alliteration": 0
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        9
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 126,
+      "estimatedSeconds": 42,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "polregularny",
+      "regularityScore": 0.69
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "inne",
+          "reference": "tradycja poezji miłosnej - ciało jako przestrzeń miejska",
+          "evidence": "Nocą moje ciało jest główną ulicą miasta"
+        },
+        {
+          "source": "inne",
+          "reference": "topos nocturnus - noc jako czas erotyczny",
+          "evidence": "Nocą moje ciało... Chociaż nocą moje ciało"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.3,
+        "baudelaire": 0.4,
+        "bursa": 0.1,
+        "stachura": 0.2,
+        "grochowiak": 0.6,
+        "bialoszewski": 0.2,
+        "rozewicz": 0.1
+      }
+    },
+    "space": {
+      "type": "otwarta",
+      "evidence": "ulica miasta, przestrzeń publiczna, którą można przemierzać i na której zawsze się trafi",
+      "openClosedRatio": 0.8
+    },
+    "timeOfDay": {
+      "period": "noc",
+      "season": "nieokreslona",
+      "evidence": "Nocą moje ciało jest główną ulicą miasta, Chociaż nocą moje ciało oczywiście"
+    },
+    "motion": {
+      "movement": 7,
+      "stillness": 3,
+      "dynamism": 0.7,
+      "evidence": "jak masz iść przecież zawsze trafisz, zmyślnie rozpoznasz, kończy się księżycem"
+    },
+    "imageryDensity": {
+      "metaphors": 2,
+      "comparisons": 1,
+      "personifications": 1,
+      "hyperboles": 0,
+      "per100words": 6.7
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.9,
+      "creationLevel": 0.7,
+      "ironicDistance": 0.1,
+      "autobiographicSignals": [
+        "moje ciało",
+        "zdumiewam się",
+        "bezpośrednie zwracanie się do kochanka/kochanki - Ty"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": null,
+    "dfaAlpha": null,
+    "dfaScaling": [],
+    "seriesLength": 8,
+    "series": [
+      9,
+      7,
+      6,
+      9,
+      8,
+      7,
+      5,
+      7
+    ]
+  }
+}

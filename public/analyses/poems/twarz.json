@@ -1,0 +1,905 @@
+{
+  "id": "twarz",
+  "title": "Twarz",
+  "wordCount": 67,
+  "lineCount": 10,
+  "uniqueWords": 52,
+  "vocabularyRichness": 0.776,
+  "avgWordsPerLine": 6.7,
+  "wordsPerLineDistribution": [
+    6,
+    1,
+    7,
+    6,
+    9,
+    8,
+    10,
+    5,
+    7,
+    8
+  ],
+  "wordFrequencies": [
+    [
+      "ulicznapiosenka",
+      4
+    ],
+    [
+      "twarz",
+      2
+    ],
+    [
+      "bym",
+      2
+    ],
+    [
+      "ujrzę",
+      2
+    ],
+    [
+      "piosenka",
+      1
+    ],
+    [
+      "uliczna",
+      1
+    ],
+    [
+      "twtwtwtwtwarzarzarzarzarz",
+      1
+    ],
+    [
+      "abym",
+      1
+    ],
+    [
+      "mógł",
+      1
+    ],
+    [
+      "rozpoznać",
+      1
+    ],
+    [
+      "żebym",
+      1
+    ],
+    [
+      "uwierzył",
+      1
+    ],
+    [
+      "błyskawica",
+      1
+    ],
+    [
+      "rzeźbi",
+      1
+    ],
+    [
+      "brązowym",
+      1
+    ],
+    [
+      "powietrzu",
+      1
+    ],
+    [
+      "zląkł",
+      1
+    ],
+    [
+      "nazbyt",
+      1
+    ],
+    [
+      "wyraźna",
+      1
+    ],
+    [
+      "początek",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 5,
+    "period": 1,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 1,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 4,
+  "negationWords": [
+    "nie"
+  ],
+  "pronounDistribution": {
+    "ja": 1,
+    "ty": 0,
+    "on_ona": 1,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 2,
+    "smierc": 0,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [
+    [
+      "ale",
+      2
+    ]
+  ],
+  "firstWord": "piosenka",
+  "lastWord": "pewno",
+  "avgWordLength": 5.75,
+  "wordLengthDistribution": {
+    "8-9": 7,
+    "10+": 8,
+    "6-7": 9,
+    "4-5": 21,
+    "1-3": 22
+  },
+  "bigrams": [
+    [
+      "ulicznapiosenka ulicznapiosenka",
+      3
+    ],
+    [
+      "piosenka ulicznapiosenka",
+      1
+    ],
+    [
+      "ulicznapiosenka uliczna",
+      1
+    ],
+    [
+      "uliczna twtwtwtwtwarzarzarzarzarz",
+      1
+    ],
+    [
+      "twtwtwtwtwarzarzarzarzarz abym",
+      1
+    ],
+    [
+      "abym mógł",
+      1
+    ],
+    [
+      "mógł rozpoznać",
+      1
+    ],
+    [
+      "żebym uwierzył",
+      1
+    ],
+    [
+      "uwierzył błyskawica",
+      1
+    ],
+    [
+      "błyskawica rzeźbi",
+      1
+    ],
+    [
+      "rzeźbi twarz",
+      1
+    ]
+  ],
+  "poemWords": [
+    "piosenka",
+    "ulicznapiosenka",
+    "uliczna",
+    "twtwtwtwtwarzarzarzarzarz",
+    "abym",
+    "mógł",
+    "rozpoznać",
+    "żebym",
+    "uwierzył",
+    "błyskawica",
+    "rzeźbi",
+    "twarz",
+    "brązowym",
+    "powietrzu",
+    "bym",
+    "zląkł",
+    "nazbyt",
+    "wyraźna",
+    "początek",
+    "gruba",
+    "maska",
+    "lękał",
+    "ujrzę",
+    "fantastycznie",
+    "groźnej",
+    "absolutnej",
+    "krasie",
+    "dano",
+    "pewną",
+    "skrytą",
+    "wiedzę",
+    "senną",
+    "wszakże",
+    "burza",
+    "dalej",
+    "trwa",
+    "pewno"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 13,
+        "VERB": 10,
+        "ADJ": 10,
+        "ADV": 4,
+        "PRON": 5,
+        "ADP": 4,
+        "CCONJ": 5,
+        "SCONJ": 5,
+        "INTJ": 0,
+        "PART": 6,
+        "DET": 1,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.191,
+        "VERB": 0.147,
+        "ADJ": 0.147,
+        "ADV": 0.059,
+        "PRON": 0.074,
+        "ADP": 0.059,
+        "CCONJ": 0.074,
+        "SCONJ": 0.074,
+        "INTJ": 0,
+        "PART": 0.088,
+        "DET": 0.015,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 0,
+        "abstract": 0,
+        "ratio": 0
+      },
+      "verbTenses": {
+        "past": 5,
+        "infinitive": 1,
+        "present": 3,
+        "future": 2
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 1,
+        "destrukcja": 0,
+        "tworzenie": 1,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 0,
+        "opisowe": 10
+      },
+      "adverbs": {
+        "temporalne": [],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "nazbyt",
+            "count": 1
+          },
+          {
+            "word": "fantastycznie",
+            "count": 1
+          },
+          {
+            "word": "dalej",
+            "count": 1
+          },
+          {
+            "word": "pewno",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 1,
+        "ty": 0,
+        "on_ona": 2,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 4,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 4,
+        "percentSentences": 0.57
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 157,
+        "consonants": 228,
+        "ratio": 0.69
+      },
+      "consonantClusters": {
+        "count": 14,
+        "top": [
+          {
+            "cluster": "czn",
+            "count": 6
+          },
+          {
+            "cluster": "jrz",
+            "count": 2
+          },
+          {
+            "cluster": "twtwtwtwtw",
+            "count": 1
+          },
+          {
+            "cluster": "trz",
+            "count": 1
+          },
+          {
+            "cluster": "prz",
+            "count": 1
+          },
+          {
+            "cluster": "skr",
+            "count": 1
+          },
+          {
+            "cluster": "wsz",
+            "count": 1
+          },
+          {
+            "cluster": "trw",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 27,
+        "syczace": 27,
+        "nosowe": 50,
+        "plynne": 40
+      },
+      "rhymes": {
+        "exact": 0,
+        "approximate": 1,
+        "internal": 5,
+        "assonance": 0,
+        "alliteration": 0
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 9.7,
+        "median": 6,
+        "min": 1,
+        "max": 38,
+        "distribution": [
+          0,
+          1,
+          0,
+          1,
+          1,
+          0,
+          1,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 6.2,
+        "meanSyllables": 14.5,
+        "distribution": [
+          0,
+          2,
+          0,
+          0,
+          0,
+          1,
+          2,
+          2,
+          2,
+          1,
+          1
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 7,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 3,
+        "noSubject": 2,
+        "noPredicate": 0,
+        "percent": 0.71
+      },
+      "enjambement": {
+        "count": 0,
+        "percent": 0,
+        "positions": []
+      },
+      "wordOrder": {
+        "svo": 1,
+        "inversions": 1,
+        "other": 4,
+        "deviationPercent": 0.83
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 2,
+        "śmierć": 0,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 160,
+      "estimatedSeconds": 53,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 13,
+      "VERB": 10,
+      "ADJ": 10,
+      "ADV": 4,
+      "PRON": 5,
+      "ADP": 4,
+      "CCONJ": 5,
+      "SCONJ": 5,
+      "INTJ": 0,
+      "PART": 6,
+      "DET": 1,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.191,
+      "VERB": 0.147,
+      "ADJ": 0.147,
+      "ADV": 0.059,
+      "PRON": 0.074,
+      "ADP": 0.059,
+      "CCONJ": 0.074,
+      "SCONJ": 0.074,
+      "INTJ": 0,
+      "PART": 0.088,
+      "DET": 0.015,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 0,
+      "abstract": 0,
+      "ratio": 0
+    },
+    "verbTenses": {
+      "past": 5,
+      "infinitive": 1,
+      "present": 3,
+      "future": 2
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 1,
+      "destrukcja": 0,
+      "tworzenie": 1,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 0,
+      "opisowe": 10
+    },
+    "adverbs": {
+      "temporalne": [],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "nazbyt",
+          "count": 1
+        },
+        {
+          "word": "fantastycznie",
+          "count": 1
+        },
+        {
+          "word": "dalej",
+          "count": 1
+        },
+        {
+          "word": "pewno",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 1,
+      "ty": 0,
+      "on_ona": 2,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 4,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 4,
+      "percentSentences": 0.57
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 9.7,
+      "median": 6,
+      "min": 1,
+      "max": 38,
+      "distribution": [
+        0,
+        1,
+        0,
+        1,
+        1,
+        0,
+        1,
+        1,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 6.2,
+      "meanSyllables": 14.5,
+      "distribution": [
+        0,
+        2,
+        0,
+        0,
+        0,
+        1,
+        2,
+        2,
+        2,
+        1,
+        1
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 7,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 3,
+      "noSubject": 2,
+      "noPredicate": 0,
+      "percent": 0.71
+    },
+    "enjambement": {
+      "count": 0,
+      "percent": 0,
+      "positions": []
+    },
+    "wordOrder": {
+      "svo": 1,
+      "inversions": 1,
+      "other": 4,
+      "deviationPercent": 0.83
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 157,
+      "consonants": 228,
+      "ratio": 0.69
+    },
+    "consonantClusters": {
+      "count": 14,
+      "top": [
+        {
+          "cluster": "czn",
+          "count": 6
+        },
+        {
+          "cluster": "jrz",
+          "count": 2
+        },
+        {
+          "cluster": "twtwtwtwtw",
+          "count": 1
+        },
+        {
+          "cluster": "trz",
+          "count": 1
+        },
+        {
+          "cluster": "prz",
+          "count": 1
+        },
+        {
+          "cluster": "skr",
+          "count": 1
+        },
+        {
+          "cluster": "wsz",
+          "count": 1
+        },
+        {
+          "cluster": "trw",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 27,
+      "syczace": 27,
+      "nosowe": 50,
+      "plynne": 40
+    },
+    "rhymes": {
+      "exact": 0,
+      "approximate": 1,
+      "internal": 5,
+      "assonance": 0,
+      "alliteration": 0
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        11
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 160,
+      "estimatedSeconds": 53,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "polregularny",
+      "regularityScore": 0.42
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Rimbaud",
+          "reference": "wizyjność i błyskawiczne objawienia",
+          "evidence": "Błyskawica rzeźbi twarz w brązowym powietrzu"
+        },
+        {
+          "source": "Baudelaire",
+          "reference": "estetyka brzydoty i grozy",
+          "evidence": "Fantastycznie groźnej i absolutnej krasie"
+        },
+        {
+          "source": "mitologia",
+          "reference": "objawienie boskie przez burzę",
+          "evidence": "burza dalej trwa, więc ujrzę na pewno"
+        }
+      ],
+      "selfQuotes": [
+        "TWARZ",
+        "Piosenka uliczna"
+      ],
+      "influences": {
+        "rimbaud": 0.8,
+        "baudelaire": 0.7,
+        "bursa": 0.3,
+        "stachura": 0.4,
+        "grochowiak": 0.5,
+        "bialoszewski": 0.2,
+        "rozewicz": 0.3
+      }
+    },
+    "space": {
+      "type": "otwarta",
+      "evidence": "uliczność tytułu, brązowe powietrze, burza jako przestrzeń kosmiczna",
+      "openClosedRatio": 0.8
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "nieokreslona",
+      "evidence": "burza i błyskawica sugerują dramatyczny moment poza czasem zwykłym"
+    },
+    "motion": {
+      "movement": 8,
+      "stillness": 2,
+      "dynamism": 0.8,
+      "evidence": "błyskawica rzeźbi, burza trwa - intensywny ruch i transformacja"
+    },
+    "imageryDensity": {
+      "metaphors": 4,
+      "comparisons": 1,
+      "personifications": 2,
+      "hyperboles": 2,
+      "per100words": 15
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.7,
+      "creationLevel": 0.8,
+      "ironicDistance": 0.2,
+      "autobiographicSignals": [
+        "Abym mógł rozpoznać",
+        "żebym uwierzył",
+        "Dano przecież pewną mi... wiedzę"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "tęsknota",
+      "secondary": "euforia",
+      "intensity": 0.7
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "Abym mógł rozpoznać ją i żebym uwierzył"
+    },
+    "addressee": {
+      "type": "siebie",
+      "evidence": "podmiot prowadzi wewnętrzny monolog o rozpoznaniu twarzy"
+    },
+    "metaphors": [
+      {
+        "source": "błyskawica",
+        "target": "objawienie/poznanie",
+        "example": "Błyskawica rzeźbi twarz w brązowym powietrzu"
+      },
+      {
+        "source": "maska",
+        "target": "pozór/ukrycie prawdy",
+        "example": "Na początek to nie twarz, tylko gruba maska"
+      },
+      {
+        "source": "burza",
+        "target": "proces poznania/objawienia",
+        "example": "Wszakże burza dalej trwa, więc ujrzę na pewno"
+      }
+    ],
+    "temperature": {
+      "value": 0.8,
+      "label": "gorące oczekiwanie"
+    },
+    "senses": {
+      "wzrok": 5,
+      "sluch": 1,
+      "dotyk": 2,
+      "smak": 0,
+      "zapach": 0
+    },
+    "autodestruction": {
+      "level": 0.2,
+      "signals": [
+        "lęk przed ujrzeniem prawdy",
+        "obawa przed absolutną krasą"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": null,
+    "dfaAlpha": 2.061,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -0.3465735902799726
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": 0.24637648047384228
+      }
+    ],
+    "seriesLength": 10,
+    "series": [
+      6,
+      1,
+      7,
+      6,
+      9,
+      8,
+      10,
+      5,
+      7,
+      8
+    ]
+  }
+}

@@ -1,0 +1,903 @@
+{
+  "id": "odjazd",
+  "title": "Odjazd",
+  "wordCount": 87,
+  "lineCount": 12,
+  "uniqueWords": 75,
+  "vocabularyRichness": 0.862,
+  "avgWordsPerLine": 7.25,
+  "wordsPerLineDistribution": [
+    8,
+    6,
+    7,
+    8,
+    9,
+    9,
+    7,
+    5,
+    7,
+    6,
+    7,
+    8
+  ],
+  "wordFrequencies": [
+    [
+      "mieć",
+      2
+    ],
+    [
+      "kiedyś",
+      1
+    ],
+    [
+      "wyjdziesz",
+      1
+    ],
+    [
+      "spod",
+      1
+    ],
+    [
+      "powiek",
+      1
+    ],
+    [
+      "osobą",
+      1
+    ],
+    [
+      "wody",
+      1
+    ],
+    [
+      "naga",
+      1
+    ],
+    [
+      "umiał",
+      1
+    ],
+    [
+      "zawołać",
+      1
+    ],
+    [
+      "wywołać",
+      1
+    ],
+    [
+      "śmierci",
+      1
+    ],
+    [
+      "róży",
+      1
+    ],
+    [
+      "dobra",
+      1
+    ],
+    [
+      "śmierć",
+      1
+    ],
+    [
+      "krocze",
+      1
+    ],
+    [
+      "głową",
+      1
+    ],
+    [
+      "zaświeci",
+      1
+    ],
+    [
+      "dzień",
+      1
+    ],
+    [
+      "smak",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 11,
+    "period": 4,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 1,
+    "colon": 0,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 3,
+  "negationWords": [
+    "nie"
+  ],
+  "pronounDistribution": {
+    "ja": 2,
+    "ty": 2,
+    "on_ona": 0,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 1,
+    "smierc": 1,
+    "erotyka": 1,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [],
+  "firstWord": "wiem",
+  "lastWord": "łóżkiem",
+  "avgWordLength": 4.61,
+  "wordLengthDistribution": {
+    "4-5": 32,
+    "1-3": 27,
+    "6-7": 19,
+    "8-9": 7,
+    "10+": 2
+  },
+  "bigrams": [
+    [
+      "jeżeli kiedyś",
+      1
+    ],
+    [
+      "kiedyś wyjdziesz",
+      1
+    ],
+    [
+      "spod powiek",
+      1
+    ],
+    [
+      "powiek osobą",
+      1
+    ],
+    [
+      "osobą wreszcie",
+      1
+    ],
+    [
+      "wreszcie cała",
+      1
+    ],
+    [
+      "wody naga",
+      1
+    ],
+    [
+      "naga wtedy",
+      1
+    ]
+  ],
+  "poemWords": [
+    "kiedyś",
+    "wyjdziesz",
+    "spod",
+    "powiek",
+    "osobą",
+    "wody",
+    "naga",
+    "umiał",
+    "zawołać",
+    "wywołać",
+    "śmierci",
+    "róży",
+    "dobra",
+    "śmierć",
+    "krocze",
+    "mieć",
+    "głową",
+    "zaświeci",
+    "dzień",
+    "smak",
+    "mgławicy",
+    "najgłębszej",
+    "piwnicy",
+    "nieba",
+    "biały",
+    "zapach",
+    "podróży",
+    "pobożnym",
+    "językiem",
+    "dotknę",
+    "uchu",
+    "usłyszę",
+    "łoskot",
+    "obsuwającej",
+    "ziemi",
+    "zrobisz",
+    "zamknę",
+    "oczy",
+    "wenus",
+    "odlecę",
+    "wraz",
+    "łóżkiem"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 20,
+        "VERB": 17,
+        "ADJ": 7,
+        "ADV": 7,
+        "PRON": 9,
+        "ADP": 8,
+        "CCONJ": 3,
+        "SCONJ": 7,
+        "INTJ": 0,
+        "PART": 5,
+        "DET": 0,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.225,
+        "VERB": 0.191,
+        "ADJ": 0.079,
+        "ADV": 0.079,
+        "PRON": 0.101,
+        "ADP": 0.09,
+        "CCONJ": 0.034,
+        "SCONJ": 0.079,
+        "INTJ": 0,
+        "PART": 0.056,
+        "DET": 0,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 4,
+        "abstract": 2,
+        "ratio": 0.67
+      },
+      "verbTenses": {
+        "present": 6,
+        "future": 9,
+        "past": 1,
+        "infinitive": 5
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 4,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 1,
+        "oceniajace": 1,
+        "opisowe": 5
+      },
+      "adverbs": {
+        "temporalne": [
+          "kiedyś"
+        ],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "wtedy",
+            "count": 2
+          },
+          {
+            "word": "kiedyś",
+            "count": 1
+          },
+          {
+            "word": "tak",
+            "count": 1
+          },
+          {
+            "word": "gdy",
+            "count": 1
+          },
+          {
+            "word": "kiedy",
+            "count": 1
+          },
+          {
+            "word": "wraz",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 2,
+        "ty": 2,
+        "on_ona": 0,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 3,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 3,
+        "percentSentences": 0.5
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 176,
+        "consonants": 231,
+        "ratio": 0.76
+      },
+      "consonantClusters": {
+        "count": 7,
+        "top": [
+          {
+            "cluster": "jdz",
+            "count": 1
+          },
+          {
+            "cluster": "szc",
+            "count": 1
+          },
+          {
+            "cluster": "mgł",
+            "count": 1
+          },
+          {
+            "cluster": "jgł",
+            "count": 1
+          },
+          {
+            "cluster": "bsz",
+            "count": 1
+          },
+          {
+            "cluster": "tkn",
+            "count": 1
+          },
+          {
+            "cluster": "mkn",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 17,
+        "syczace": 47,
+        "nosowe": 47,
+        "plynne": 24
+      },
+      "rhymes": {
+        "exact": 1,
+        "approximate": 0,
+        "internal": 1,
+        "assonance": 0,
+        "alliteration": 2
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 14.8,
+        "median": 14,
+        "min": 1,
+        "max": 30,
+        "distribution": [
+          0,
+          2,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          2,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 6.4,
+        "meanSyllables": 13.1,
+        "distribution": [
+          0,
+          2,
+          0,
+          0,
+          0,
+          0,
+          3,
+          4,
+          3,
+          2
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 6,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 1,
+        "noSubject": 4,
+        "noPredicate": 0,
+        "percent": 0.83
+      },
+      "enjambement": {
+        "count": 6,
+        "percent": 0.46,
+        "positions": [
+          2,
+          3,
+          4,
+          6,
+          8,
+          12
+        ]
+      },
+      "wordOrder": {
+        "svo": 1,
+        "inversions": 0,
+        "other": 3,
+        "deviationPercent": 0.75
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 2,
+        "śmierć": 1,
+        "erotyka": 1,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 183,
+      "estimatedSeconds": 61,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 20,
+      "VERB": 17,
+      "ADJ": 7,
+      "ADV": 7,
+      "PRON": 9,
+      "ADP": 8,
+      "CCONJ": 3,
+      "SCONJ": 7,
+      "INTJ": 0,
+      "PART": 5,
+      "DET": 0,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.225,
+      "VERB": 0.191,
+      "ADJ": 0.079,
+      "ADV": 0.079,
+      "PRON": 0.101,
+      "ADP": 0.09,
+      "CCONJ": 0.034,
+      "SCONJ": 0.079,
+      "INTJ": 0,
+      "PART": 0.056,
+      "DET": 0,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 4,
+      "abstract": 2,
+      "ratio": 0.67
+    },
+    "verbTenses": {
+      "present": 6,
+      "future": 9,
+      "past": 1,
+      "infinitive": 5
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 4,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 1,
+      "oceniajace": 1,
+      "opisowe": 5
+    },
+    "adverbs": {
+      "temporalne": [
+        "kiedyś"
+      ],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "wtedy",
+          "count": 2
+        },
+        {
+          "word": "kiedyś",
+          "count": 1
+        },
+        {
+          "word": "tak",
+          "count": 1
+        },
+        {
+          "word": "gdy",
+          "count": 1
+        },
+        {
+          "word": "kiedy",
+          "count": 1
+        },
+        {
+          "word": "wraz",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 2,
+      "ty": 2,
+      "on_ona": 0,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 3,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 3,
+      "percentSentences": 0.5
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 14.8,
+      "median": 14,
+      "min": 1,
+      "max": 30,
+      "distribution": [
+        0,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 6.4,
+      "meanSyllables": 13.1,
+      "distribution": [
+        0,
+        2,
+        0,
+        0,
+        0,
+        0,
+        3,
+        4,
+        3,
+        2
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 6,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 1,
+      "noSubject": 4,
+      "noPredicate": 0,
+      "percent": 0.83
+    },
+    "enjambement": {
+      "count": 6,
+      "percent": 0.46,
+      "positions": [
+        2,
+        3,
+        4,
+        6,
+        8,
+        12
+      ]
+    },
+    "wordOrder": {
+      "svo": 1,
+      "inversions": 0,
+      "other": 3,
+      "deviationPercent": 0.75
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 176,
+      "consonants": 231,
+      "ratio": 0.76
+    },
+    "consonantClusters": {
+      "count": 7,
+      "top": [
+        {
+          "cluster": "jdz",
+          "count": 1
+        },
+        {
+          "cluster": "szc",
+          "count": 1
+        },
+        {
+          "cluster": "mgł",
+          "count": 1
+        },
+        {
+          "cluster": "jgł",
+          "count": 1
+        },
+        {
+          "cluster": "bsz",
+          "count": 1
+        },
+        {
+          "cluster": "tkn",
+          "count": 1
+        },
+        {
+          "cluster": "mkn",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 17,
+      "syczace": 47,
+      "nosowe": 47,
+      "plynne": 24
+    },
+    "rhymes": {
+      "exact": 1,
+      "approximate": 0,
+      "internal": 1,
+      "assonance": 0,
+      "alliteration": 2
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        14
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 183,
+      "estimatedSeconds": 61,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "polregularny",
+      "regularityScore": 0.61
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Biblia",
+          "reference": "apokaliptyczny obraz obsuwającej się Ziemi",
+          "evidence": "łoskot obsuwającej się / Ziemi"
+        },
+        {
+          "source": "Rimbaud",
+          "reference": "metamorfoza podmiotu poprzez miłość",
+          "evidence": "wyjdziesz mi spod powiek / osobą, wreszcie cała"
+        },
+        {
+          "source": "mitologia",
+          "reference": "Wenus jako bogini miłości i planeta",
+          "evidence": "na Wenus odlecę wraz z łóżkiem"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.8,
+        "baudelaire": 0.6,
+        "bursa": 0.3,
+        "stachura": 0.4,
+        "grochowiak": 0.2,
+        "bialoszewski": 0.1,
+        "rozewicz": 0.2
+      }
+    },
+    "space": {
+      "type": "otwarta",
+      "evidence": "kosmiczna perspektywa - od piwnicy nieba po Wenus, motyw podróży i odlotu",
+      "openClosedRatio": 0.9
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "nieokreslona",
+      "evidence": "brak wyraźnych wskazówek temporalnych, dominuje czas psychiczny"
+    },
+    "motion": {
+      "movement": 8,
+      "stillness": 2,
+      "dynamism": 0.8,
+      "evidence": "wyjdziesz, odlecę, obsuwającej się Ziemi - intensywny ruch wertykalny i horyzontalny"
+    },
+    "imageryDensity": {
+      "metaphors": 6,
+      "comparisons": 2,
+      "personifications": 1,
+      "hyperboles": 3,
+      "per100words": 17.6
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.9,
+      "creationLevel": 0.7,
+      "ironicDistance": 0.1,
+      "autobiographicSignals": [
+        "intymny ton zwrócenia do 'ty'",
+        "motyw łóżka",
+        "bezpośredni wyraz lęku przed miłością",
+        "data 1967 sytuująca w okresie dojrzałości poety"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "tęsknota",
+      "secondary": "euforia",
+      "intensity": 0.8
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "Wiem, że jeżeli kiedyś wyjdziesz mi spod powiek"
+    },
+    "addressee": {
+      "type": "ty",
+      "evidence": "wyjdziesz mi spod powiek / osobą, wreszcie cała"
+    },
+    "metaphors": [
+      {
+        "source": "śmierć",
+        "target": "ekstaza miłosna",
+        "example": "wywołać sobie śmierci z róży"
+      },
+      {
+        "source": "kosmos",
+        "target": "doświadczenie erotyczne",
+        "example": "smak mgławicy z najgłębszej piwnicy nieba"
+      },
+      {
+        "source": "podróż kosmiczna",
+        "target": "uniesienie miłosne",
+        "example": "na Wenus odlecę wraz z łóżkiem"
+      }
+    ],
+    "temperature": {
+      "value": 0.7,
+      "label": "gorące pragnienie z nutą transcendencji"
+    },
+    "senses": {
+      "wzrok": 4,
+      "sluch": 3,
+      "dotyk": 5,
+      "smak": 4,
+      "zapach": 3
+    },
+    "autodestruction": {
+      "level": 0.3,
+      "signals": [
+        "wywołać sobie śmierci",
+        "łoskot obsuwającej się Ziemi"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 0.895,
+    "dfaAlpha": 3.614,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -1.445185878948081
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -0.40546510810816444
+      }
+    ],
+    "seriesLength": 12,
+    "series": [
+      8,
+      6,
+      7,
+      8,
+      9,
+      9,
+      7,
+      5,
+      7,
+      6,
+      7,
+      8
+    ]
+  }
+}

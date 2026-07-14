@@ -1,0 +1,945 @@
+{
+  "id": "jak-ja-teraz-snie",
+  "title": "Jak ja teraz śnię",
+  "wordCount": 62,
+  "lineCount": 19,
+  "uniqueWords": 54,
+  "vocabularyRichness": 0.871,
+  "avgWordsPerLine": 3.26,
+  "wordsPerLineDistribution": [
+    2,
+    4,
+    3,
+    3,
+    4,
+    2,
+    5,
+    4,
+    2,
+    3,
+    1,
+    4,
+    6,
+    6,
+    3,
+    3,
+    2,
+    3,
+    2
+  ],
+  "wordFrequencies": [
+    [
+      "ból",
+      1
+    ],
+    [
+      "śnię",
+      1
+    ],
+    [
+      "mit",
+      1
+    ],
+    [
+      "wczoraj",
+      1
+    ],
+    [
+      "krzyczałem",
+      1
+    ],
+    [
+      "precz",
+      1
+    ],
+    [
+      "chińczykiem",
+      1
+    ],
+    [
+      "sen",
+      1
+    ],
+    [
+      "udaje",
+      1
+    ],
+    [
+      "zna",
+      1
+    ],
+    [
+      "znam",
+      1
+    ],
+    [
+      "zwisa",
+      1
+    ],
+    [
+      "taki",
+      1
+    ],
+    [
+      "mały",
+      1
+    ],
+    [
+      "kutasik",
+      1
+    ],
+    [
+      "słodki",
+      1
+    ],
+    [
+      "przyznaje",
+      1
+    ],
+    [
+      "drugiej",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 0,
+    "period": 0,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 1,
+    "colon": 1,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 2,
+  "negationWords": [
+    "nie"
+  ],
+  "pronounDistribution": {
+    "ja": 3,
+    "ty": 0,
+    "on_ona": 2,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 0,
+    "smierc": 0,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 1,
+    "bol": 1
+  },
+  "anaphors": [
+    [
+      "ale",
+      2
+    ]
+  ],
+  "firstWord": "ten",
+  "lastWord": "luty",
+  "avgWordLength": 4.21,
+  "wordLengthDistribution": {
+    "1-3": 30,
+    "4-5": 18,
+    "6-7": 7,
+    "10+": 3,
+    "8-9": 4
+  },
+  "bigrams": [
+    [
+      "teraz śnię",
+      1
+    ],
+    [
+      "wczoraj krzyczałem",
+      1
+    ],
+    [
+      "krzyczałem precz",
+      1
+    ]
+  ],
+  "poemWords": [
+    "ból",
+    "śnię",
+    "mit",
+    "wczoraj",
+    "krzyczałem",
+    "precz",
+    "chińczykiem",
+    "sen",
+    "udaje",
+    "zna",
+    "znam",
+    "zwisa",
+    "taki",
+    "mały",
+    "kutasik",
+    "słodki",
+    "przyznaje",
+    "pani",
+    "pan",
+    "drugiej",
+    "strony",
+    "zwraca",
+    "troskliwie",
+    "włożyłem",
+    "głowę",
+    "właściwy",
+    "otwór",
+    "luty",
+    "1966"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 10,
+        "VERB": 9,
+        "ADJ": 5,
+        "ADV": 3,
+        "PRON": 11,
+        "ADP": 6,
+        "CCONJ": 3,
+        "SCONJ": 3,
+        "INTJ": 0,
+        "PART": 6,
+        "DET": 3,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.152,
+        "VERB": 0.136,
+        "ADJ": 0.076,
+        "ADV": 0.045,
+        "PRON": 0.167,
+        "ADP": 0.091,
+        "CCONJ": 0.045,
+        "SCONJ": 0.045,
+        "INTJ": 0,
+        "PART": 0.091,
+        "DET": 0.045,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 1,
+        "abstract": 2,
+        "ratio": 0.33
+      },
+      "verbTenses": {
+        "present": 10,
+        "past": 2
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 2,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 1,
+        "oceniajace": 0,
+        "opisowe": 4
+      },
+      "adverbs": {
+        "temporalne": [
+          "teraz"
+        ],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "teraz",
+            "count": 1
+          },
+          {
+            "word": "wczoraj",
+            "count": 1
+          },
+          {
+            "word": "troskliwie",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 3,
+        "ty": 0,
+        "on_ona": 3,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 2,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 2,
+        "percentSentences": 2
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 109,
+        "consonants": 162,
+        "ratio": 0.67
+      },
+      "consonantClusters": {
+        "count": 9,
+        "top": [
+          {
+            "cluster": "prz",
+            "count": 2
+          },
+          {
+            "cluster": "szcz",
+            "count": 1
+          },
+          {
+            "cluster": "wcz",
+            "count": 1
+          },
+          {
+            "cluster": "krz",
+            "count": 1
+          },
+          {
+            "cluster": "ńcz",
+            "count": 1
+          },
+          {
+            "cluster": "str",
+            "count": 1
+          },
+          {
+            "cluster": "zwr",
+            "count": 1
+          },
+          {
+            "cluster": "skl",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 12,
+        "syczace": 29,
+        "nosowe": 31,
+        "plynne": 25
+      },
+      "rhymes": {
+        "exact": 1,
+        "approximate": 0,
+        "internal": 0,
+        "assonance": 0,
+        "alliteration": 2
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 66,
+        "median": 66,
+        "min": 66,
+        "max": 66,
+        "distribution": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 3.4,
+        "meanSyllables": 5.7,
+        "distribution": [
+          0,
+          1,
+          4,
+          7,
+          5,
+          1,
+          2
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 1,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 0,
+        "noSubject": 0,
+        "noPredicate": 0,
+        "percent": 0
+      },
+      "enjambement": {
+        "count": 15,
+        "percent": 0.79,
+        "positions": [
+          2,
+          3,
+          4,
+          5,
+          7,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          17,
+          18,
+          19
+        ]
+      },
+      "wordOrder": {
+        "svo": 1,
+        "inversions": 0,
+        "other": 0,
+        "deviationPercent": 0
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 0,
+        "śmierć": 0,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 1,
+        "ból": 1
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 114,
+      "estimatedSeconds": 38,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 10,
+      "VERB": 9,
+      "ADJ": 5,
+      "ADV": 3,
+      "PRON": 11,
+      "ADP": 6,
+      "CCONJ": 3,
+      "SCONJ": 3,
+      "INTJ": 0,
+      "PART": 6,
+      "DET": 3,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.152,
+      "VERB": 0.136,
+      "ADJ": 0.076,
+      "ADV": 0.045,
+      "PRON": 0.167,
+      "ADP": 0.091,
+      "CCONJ": 0.045,
+      "SCONJ": 0.045,
+      "INTJ": 0,
+      "PART": 0.091,
+      "DET": 0.045,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 1,
+      "abstract": 2,
+      "ratio": 0.33
+    },
+    "verbTenses": {
+      "present": 10,
+      "past": 2
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 2,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 1,
+      "oceniajace": 0,
+      "opisowe": 4
+    },
+    "adverbs": {
+      "temporalne": [
+        "teraz"
+      ],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "teraz",
+          "count": 1
+        },
+        {
+          "word": "wczoraj",
+          "count": 1
+        },
+        {
+          "word": "troskliwie",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 3,
+      "ty": 0,
+      "on_ona": 3,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 2,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 2,
+      "percentSentences": 2
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 66,
+      "median": 66,
+      "min": 66,
+      "max": 66,
+      "distribution": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 3.4,
+      "meanSyllables": 5.7,
+      "distribution": [
+        0,
+        1,
+        4,
+        7,
+        5,
+        1,
+        2
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 1,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 0,
+      "noSubject": 0,
+      "noPredicate": 0,
+      "percent": 0
+    },
+    "enjambement": {
+      "count": 15,
+      "percent": 0.79,
+      "positions": [
+        2,
+        3,
+        4,
+        5,
+        7,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        17,
+        18,
+        19
+      ]
+    },
+    "wordOrder": {
+      "svo": 1,
+      "inversions": 0,
+      "other": 0,
+      "deviationPercent": 0
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 109,
+      "consonants": 162,
+      "ratio": 0.67
+    },
+    "consonantClusters": {
+      "count": 9,
+      "top": [
+        {
+          "cluster": "prz",
+          "count": 2
+        },
+        {
+          "cluster": "szcz",
+          "count": 1
+        },
+        {
+          "cluster": "wcz",
+          "count": 1
+        },
+        {
+          "cluster": "krz",
+          "count": 1
+        },
+        {
+          "cluster": "ńcz",
+          "count": 1
+        },
+        {
+          "cluster": "str",
+          "count": 1
+        },
+        {
+          "cluster": "zwr",
+          "count": 1
+        },
+        {
+          "cluster": "skl",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 12,
+      "syczace": 29,
+      "nosowe": 31,
+      "plynne": 25
+    },
+    "rhymes": {
+      "exact": 1,
+      "approximate": 0,
+      "internal": 0,
+      "assonance": 0,
+      "alliteration": 2
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        20
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 114,
+      "estimatedSeconds": 38,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "polregularny",
+      "regularityScore": 0.59
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "inne",
+          "reference": "mit jako konstrukcja narracyjna",
+          "evidence": "to jest mit"
+        },
+        {
+          "source": "inne",
+          "reference": "oniryczna tradycja literacka",
+          "evidence": "jak ja teraz śnię / przez sen"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.3,
+        "baudelaire": 0.1,
+        "bursa": 0.7,
+        "stachura": 0.4,
+        "grochowiak": 0.2,
+        "bialoszewski": 0.6,
+        "rozewicz": 0.4
+      }
+    },
+    "space": {
+      "type": "nieokreslona",
+      "evidence": "przestrzeń senna, niejednoznaczna, z postaciami bez konkretnej lokalizacji",
+      "openClosedRatio": 0.3
+    },
+    "timeOfDay": {
+      "period": "noc",
+      "season": "zima",
+      "evidence": "śnię / przez sen oraz data luty 1966"
+    },
+    "motion": {
+      "movement": 3,
+      "stillness": 7,
+      "dynamism": 0.3,
+      "evidence": "statyczne obrazy senne, minimalna akcja - krzyczałem, udaje, zwraca się"
+    },
+    "imageryDensity": {
+      "metaphors": 2,
+      "comparisons": 1,
+      "personifications": 1,
+      "hyperboles": 0,
+      "per100words": 44.4
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.8,
+      "creationLevel": 0.6,
+      "ironicDistance": 0.3,
+      "autobiographicSignals": [
+        "jak ja teraz śnię",
+        "krzyczałem",
+        "data luty 1966",
+        "intymna tonacja wyznania"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "ironia",
+      "secondary": "obrzydzenie",
+      "intensity": 0.7
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "bezpośrednie wyznanie 'jak ja teraz śnię', 'krzyczałem', 'ja go znam'"
+    },
+    "addressee": {
+      "type": "siebie",
+      "evidence": "monolog wewnętrzny, refleksja nad własnym snem i doświadczeniem"
+    },
+    "metaphors": [
+      {
+        "source": "sen",
+        "target": "rzeczywistość",
+        "example": "Ten ból jak ja teraz śnię to jest mit"
+      },
+      {
+        "source": "anatomia",
+        "target": "relacje międzyludzkie",
+        "example": "czy aby naprawdę włożyłem głowę we właściwy otwór"
+      }
+    ],
+    "temperature": {
+      "value": 0.4,
+      "label": "chłodna ironia z nutą obrzydzenia"
+    },
+    "senses": {
+      "wzrok": 4,
+      "sluch": 2,
+      "dotyk": 3,
+      "smak": 1,
+      "zapach": 0
+    },
+    "autodestruction": {
+      "level": 0.6,
+      "signals": [
+        "wyrażanie bólu",
+        "groteskowe przedstawienie siebie",
+        "poczucie alienacji",
+        "ironiczne zniekształcenie własnego doświadczenia"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 0.868,
+    "dfaAlpha": 0.524,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -0.7520386983881372
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -0.5197663297137756
+      },
+      {
+        "logWin": 1.6094379124341003,
+        "logFluc": -0.49365489378716704
+      },
+      {
+        "logWin": 1.791759469228055,
+        "logFluc": -0.36325783582030213
+      }
+    ],
+    "seriesLength": 19,
+    "series": [
+      2,
+      4,
+      3,
+      3,
+      4,
+      2,
+      5,
+      4,
+      2,
+      3,
+      1,
+      4,
+      6,
+      6,
+      3,
+      3,
+      2,
+      3,
+      2
+    ]
+  }
+}

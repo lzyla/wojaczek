@@ -1,0 +1,1171 @@
+{
+  "id": "dialog",
+  "title": "Dialog",
+  "wordCount": 113,
+  "lineCount": 28,
+  "uniqueWords": 104,
+  "vocabularyRichness": 0.92,
+  "avgWordsPerLine": 4.04,
+  "wordsPerLineDistribution": [
+    6,
+    7,
+    3,
+    3,
+    1,
+    2,
+    9,
+    7,
+    6,
+    4,
+    2,
+    2,
+    2,
+    5,
+    7,
+    5,
+    4,
+    2,
+    1,
+    4,
+    5,
+    6,
+    6,
+    4,
+    2,
+    2,
+    2,
+    4
+  ],
+  "wordFrequencies": [
+    [
+      "świeża",
+      1
+    ],
+    [
+      "krew",
+      1
+    ],
+    [
+      "śniegu",
+      1
+    ],
+    [
+      "rany",
+      1
+    ],
+    [
+      "rozdartego",
+      1
+    ],
+    [
+      "sprzecznością",
+      1
+    ],
+    [
+      "nieba",
+      1
+    ],
+    [
+      "płasko",
+      1
+    ],
+    [
+      "zastyga",
+      1
+    ],
+    [
+      "skórze",
+      1
+    ],
+    [
+      "okolicy",
+      1
+    ],
+    [
+      "przekór",
+      1
+    ],
+    [
+      "despotyzmowi",
+      1
+    ],
+    [
+      "zimy",
+      1
+    ],
+    [
+      "rosnących",
+      1
+    ],
+    [
+      "zasp",
+      1
+    ],
+    [
+      "dał",
+      1
+    ],
+    [
+      "świadczyć",
+      1
+    ],
+    [
+      "przyjdą",
+      1
+    ],
+    [
+      "wiekom",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 10,
+    "period": 2,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 5,
+    "colon": 2,
+    "semicolon": 1
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 0,
+  "negationWords": [],
+  "pronounDistribution": {
+    "ja": 0,
+    "ty": 0,
+    "on_ona": 1,
+    "my": 2,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 1,
+    "smierc": 3,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 1,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [],
+  "firstWord": "świeża",
+  "lastWord": "umierać",
+  "avgWordLength": 5.77,
+  "wordLengthDistribution": {
+    "6-7": 40,
+    "4-5": 25,
+    "1-3": 24,
+    "10+": 9,
+    "8-9": 15
+  },
+  "bigrams": [
+    [
+      "świeża krew",
+      1
+    ],
+    [
+      "krew śniegu",
+      1
+    ],
+    [
+      "rany rozdartego",
+      1
+    ],
+    [
+      "rozdartego sprzecznością",
+      1
+    ],
+    [
+      "płasko zastyga",
+      1
+    ],
+    [
+      "skórze okolicy",
+      1
+    ]
+  ],
+  "poemWords": [
+    "świeża",
+    "krew",
+    "śniegu",
+    "rany",
+    "rozdartego",
+    "sprzecznością",
+    "nieba",
+    "płasko",
+    "zastyga",
+    "skórze",
+    "okolicy",
+    "przekór",
+    "despotyzmowi",
+    "zimy",
+    "rosnących",
+    "zasp",
+    "dał",
+    "świadczyć",
+    "przyjdą",
+    "wiekom",
+    "mniej",
+    "nieszczęsnym",
+    "terror",
+    "najtkliwiej",
+    "potrzebny",
+    "byśmy",
+    "uczeni",
+    "grozie",
+    "jawnie",
+    "pisanej",
+    "cyframi",
+    "znaków",
+    "ziemskich",
+    "niebieskich",
+    "cielesnych",
+    "wzdęcie",
+    "krwawa",
+    "sraczka",
+    "hemoroidy",
+    "świerzb",
+    "kroczu",
+    "mogli",
+    "zwyciężać",
+    "grozą",
+    "pobożnej",
+    "dyscypliny",
+    "układa",
+    "rozum",
+    "zwięzłą",
+    "pięść",
+    "poematu",
+    "sztandary",
+    "jasnowidzące",
+    "serc",
+    "ścięte",
+    "mrozem",
+    "powietrze",
+    "mogły",
+    "świętą",
+    "barwę",
+    "chwały",
+    "dyszeć",
+    "sięgnie",
+    "wieka",
+    "wieku",
+    "niebo",
+    "krwawiące",
+    "coraz",
+    "słabszym",
+    "śniegiem",
+    "grubą",
+    "chmurą",
+    "burzową",
+    "niczym",
+    "plastrem",
+    "zalepi",
+    "ranę",
+    "piorunem",
+    "strzeli",
+    "uczciwie",
+    "możemy",
+    "umierać"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 40,
+        "VERB": 15,
+        "ADJ": 22,
+        "ADV": 7,
+        "PRON": 6,
+        "ADP": 9,
+        "CCONJ": 3,
+        "SCONJ": 6,
+        "INTJ": 0,
+        "PART": 5,
+        "DET": 1,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.345,
+        "VERB": 0.129,
+        "ADJ": 0.19,
+        "ADV": 0.06,
+        "PRON": 0.052,
+        "ADP": 0.078,
+        "CCONJ": 0.026,
+        "SCONJ": 0.052,
+        "INTJ": 0,
+        "PART": 0.043,
+        "DET": 0.009,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 3,
+        "abstract": 0,
+        "ratio": 1
+      },
+      "verbTenses": {
+        "present": 4,
+        "imperative": 1,
+        "past": 3,
+        "infinitive": 5,
+        "future": 3
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 2,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 0,
+        "opisowe": 22
+      },
+      "adverbs": {
+        "temporalne": [],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "płasko",
+            "count": 1
+          },
+          {
+            "word": "mniej",
+            "count": 1
+          },
+          {
+            "word": "najtkliwiej",
+            "count": 1
+          },
+          {
+            "word": "jawnie",
+            "count": 1
+          },
+          {
+            "word": "coraz",
+            "count": 1
+          },
+          {
+            "word": "wtedy",
+            "count": 1
+          },
+          {
+            "word": "uczciwie",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 0,
+        "ty": 0,
+        "on_ona": 1,
+        "my": 1,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 0,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 0,
+        "percentSentences": 0
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 271,
+        "consonants": 390,
+        "ratio": 0.69
+      },
+      "consonantClusters": {
+        "count": 23,
+        "top": [
+          {
+            "cluster": "prz",
+            "count": 2
+          },
+          {
+            "cluster": "szcz",
+            "count": 2
+          },
+          {
+            "cluster": "trz",
+            "count": 2
+          },
+          {
+            "cluster": "krw",
+            "count": 2
+          },
+          {
+            "cluster": "sprz",
+            "count": 1
+          },
+          {
+            "cluster": "czn",
+            "count": 1
+          },
+          {
+            "cluster": "dcz",
+            "count": 1
+          },
+          {
+            "cluster": "jtkl",
+            "count": 1
+          },
+          {
+            "cluster": "msk",
+            "count": 1
+          },
+          {
+            "cluster": "wzd",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 34,
+        "syczace": 80,
+        "nosowe": 78,
+        "plynne": 58
+      },
+      "rhymes": {
+        "exact": 1,
+        "approximate": 1,
+        "internal": 0,
+        "assonance": 1,
+        "alliteration": 2
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 38.7,
+        "median": 21,
+        "min": 2,
+        "max": 93,
+        "distribution": [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 4,
+        "meanSyllables": 9.5,
+        "distribution": [
+          0,
+          3,
+          8,
+          3,
+          5,
+          3,
+          3,
+          2,
+          2,
+          0,
+          1
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 2,
+        "interrogative": 0,
+        "imperative": 1,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 1,
+        "noSubject": 0,
+        "noPredicate": 0,
+        "percent": 0.33
+      },
+      "enjambement": {
+        "count": 22,
+        "percent": 0.76,
+        "positions": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          9,
+          10,
+          11,
+          12,
+          14,
+          15,
+          16,
+          17,
+          19,
+          20,
+          21,
+          22,
+          23,
+          25,
+          26,
+          27
+        ]
+      },
+      "wordOrder": {
+        "svo": 2,
+        "inversions": 0,
+        "other": 1,
+        "deviationPercent": 0.33
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 2,
+        "śmierć": 3,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 2,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 284,
+      "estimatedSeconds": 95,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 40,
+      "VERB": 15,
+      "ADJ": 22,
+      "ADV": 7,
+      "PRON": 6,
+      "ADP": 9,
+      "CCONJ": 3,
+      "SCONJ": 6,
+      "INTJ": 0,
+      "PART": 5,
+      "DET": 1,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.345,
+      "VERB": 0.129,
+      "ADJ": 0.19,
+      "ADV": 0.06,
+      "PRON": 0.052,
+      "ADP": 0.078,
+      "CCONJ": 0.026,
+      "SCONJ": 0.052,
+      "INTJ": 0,
+      "PART": 0.043,
+      "DET": 0.009,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 3,
+      "abstract": 0,
+      "ratio": 1
+    },
+    "verbTenses": {
+      "present": 4,
+      "imperative": 1,
+      "past": 3,
+      "infinitive": 5,
+      "future": 3
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 2,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 0,
+      "opisowe": 22
+    },
+    "adverbs": {
+      "temporalne": [],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "płasko",
+          "count": 1
+        },
+        {
+          "word": "mniej",
+          "count": 1
+        },
+        {
+          "word": "najtkliwiej",
+          "count": 1
+        },
+        {
+          "word": "jawnie",
+          "count": 1
+        },
+        {
+          "word": "coraz",
+          "count": 1
+        },
+        {
+          "word": "wtedy",
+          "count": 1
+        },
+        {
+          "word": "uczciwie",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 0,
+      "ty": 0,
+      "on_ona": 1,
+      "my": 1,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 0,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 0,
+      "percentSentences": 0
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 38.7,
+      "median": 21,
+      "min": 2,
+      "max": 93,
+      "distribution": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 4,
+      "meanSyllables": 9.5,
+      "distribution": [
+        0,
+        3,
+        8,
+        3,
+        5,
+        3,
+        3,
+        2,
+        2,
+        0,
+        1
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 2,
+      "interrogative": 0,
+      "imperative": 1,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 1,
+      "noSubject": 0,
+      "noPredicate": 0,
+      "percent": 0.33
+    },
+    "enjambement": {
+      "count": 22,
+      "percent": 0.76,
+      "positions": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        9,
+        10,
+        11,
+        12,
+        14,
+        15,
+        16,
+        17,
+        19,
+        20,
+        21,
+        22,
+        23,
+        25,
+        26,
+        27
+      ]
+    },
+    "wordOrder": {
+      "svo": 2,
+      "inversions": 0,
+      "other": 1,
+      "deviationPercent": 0.33
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 271,
+      "consonants": 390,
+      "ratio": 0.69
+    },
+    "consonantClusters": {
+      "count": 23,
+      "top": [
+        {
+          "cluster": "prz",
+          "count": 2
+        },
+        {
+          "cluster": "szcz",
+          "count": 2
+        },
+        {
+          "cluster": "trz",
+          "count": 2
+        },
+        {
+          "cluster": "krw",
+          "count": 2
+        },
+        {
+          "cluster": "sprz",
+          "count": 1
+        },
+        {
+          "cluster": "czn",
+          "count": 1
+        },
+        {
+          "cluster": "dcz",
+          "count": 1
+        },
+        {
+          "cluster": "jtkl",
+          "count": 1
+        },
+        {
+          "cluster": "msk",
+          "count": 1
+        },
+        {
+          "cluster": "wzd",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 34,
+      "syczace": 80,
+      "nosowe": 78,
+      "plynne": 58
+    },
+    "rhymes": {
+      "exact": 1,
+      "approximate": 1,
+      "internal": 0,
+      "assonance": 1,
+      "alliteration": 2
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        30
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 284,
+      "estimatedSeconds": 95,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "polregularny",
+      "regularityScore": 0.52
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Biblia",
+          "reference": "apokaliptyczne wizje, terror i zbawienie",
+          "evidence": "terror, groza, święta barwa chwały, piorun jako znak boski"
+        },
+        {
+          "source": "Rimbaud",
+          "reference": "wizjonerska poetyka, synestezja",
+          "evidence": "jasnowidzące sztandary serc, świeża krew śniegu"
+        },
+        {
+          "source": "Baudelaire",
+          "reference": "estetyka brzydoty, kontrast sacrum i profanum",
+          "evidence": "krwawa sraczka, hemoroidy, świerzb w kroczu vs pobożna dyscyplina"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.9,
+        "baudelaire": 0.8,
+        "bursa": 0.3,
+        "stachura": 0.2,
+        "grochowiak": 0.4,
+        "bialoszewski": 0.1,
+        "rozewicz": 0.3
+      }
+    },
+    "space": {
+      "type": "otwarta",
+      "evidence": "niebo, okolica, zaspy, dali, powietrze - przestrzeń kosmiczna i krajobrazowa",
+      "openClosedRatio": 0.8
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "zima",
+      "evidence": "śnieg, mróz, zaspy, ścięte mrozem powietrze, despotyzm zimy"
+    },
+    "motion": {
+      "movement": 8,
+      "stillness": 3,
+      "dynamism": 0.8,
+      "evidence": "płasko zastyga, rosnących z zasp, dyszeć, krwawiące niebo, piorunem strzeli - dynamika procesów naturalnych"
+    },
+    "imageryDensity": {
+      "metaphors": 12,
+      "comparisons": 3,
+      "personifications": 6,
+      "hyperboles": 4,
+      "per100words": 18.5
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.7,
+      "creationLevel": 0.9,
+      "ironicDistance": 0.2,
+      "autobiographicSignals": [
+        "data III 1968",
+        "naszych okolicy",
+        "możemy umierać"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "rozpacz",
+      "secondary": "bunt",
+      "intensity": 0.8
+    },
+    "subjectPresence": {
+      "type": "ukryte",
+      "evidence": "podmiot liryczny ukrywa się za zaimkiem 'naszych', 'nam', 'mogli zwyciężać'"
+    },
+    "addressee": {
+      "type": "czytelnik",
+      "evidence": "wiersz ma charakter manifestu skierowanego do przyszłych pokoleń 'tym co przyjdą wiekom'"
+    },
+    "metaphors": [
+      {
+        "source": "krew",
+        "target": "śnieg",
+        "example": "Świeża krew śniegu z rany rozdartego nieba"
+      },
+      {
+        "source": "pięść",
+        "target": "poemat",
+        "example": "układa rozum w zwięzłą pięść poematu"
+      },
+      {
+        "source": "plaster",
+        "target": "chmura",
+        "example": "grubą chmurą burzową niczym plastrem zalepi ranę"
+      }
+    ],
+    "temperature": {
+      "value": 0.7,
+      "label": "gorące - gniew i bunt wobec terroru"
+    },
+    "senses": {
+      "wzrok": 5,
+      "sluch": 2,
+      "dotyk": 4,
+      "smak": 1,
+      "zapach": 1
+    },
+    "autodestruction": {
+      "level": 0.9,
+      "signals": [
+        "wtedy uczciwie możemy umierać",
+        "terror jest najtkliwiej potrzebny nam",
+        "groza jawnie pisana"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 0.672,
+    "dfaAlpha": 1.568,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -1.077461098822763
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -0.24821826982445755
+      },
+      {
+        "logWin": 1.6094379124341003,
+        "logFluc": 0.24329451307474464
+      },
+      {
+        "logWin": 1.791759469228055,
+        "logFluc": 0.2985865667183687
+      },
+      {
+        "logWin": 1.9459101490553132,
+        "logFluc": 0.3374305410100413
+      },
+      {
+        "logWin": 2.1972245773362196,
+        "logFluc": 0.8003331143644894
+      }
+    ],
+    "seriesLength": 28,
+    "series": [
+      6,
+      7,
+      3,
+      3,
+      1,
+      2,
+      9,
+      7,
+      6,
+      4,
+      2,
+      2,
+      2,
+      5,
+      7,
+      5,
+      4,
+      2,
+      1,
+      4,
+      5,
+      6,
+      6,
+      4,
+      2,
+      2,
+      2,
+      4
+    ]
+  }
+}

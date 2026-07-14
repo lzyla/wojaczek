@@ -1,0 +1,714 @@
+{
+  "id": "erotyk-wojaczek-rafal",
+  "title": "Erotyk",
+  "wordCount": 37,
+  "lineCount": 11,
+  "uniqueWords": 30,
+  "vocabularyRichness": 0.811,
+  "avgWordsPerLine": 3.36,
+  "wordsPerLineDistribution": [
+    4,
+    6,
+    1,
+    3,
+    3,
+    2,
+    4,
+    5,
+    4,
+    1,
+    4
+  ],
+  "wordFrequencies": [
+    [
+      "ciało",
+      4
+    ],
+    [
+      "umiem",
+      3
+    ],
+    [
+      "pisać",
+      1
+    ],
+    [
+      "wiersza",
+      1
+    ],
+    [
+      "taki",
+      1
+    ],
+    [
+      "myśleć",
+      1
+    ],
+    [
+      "czarne",
+      1
+    ],
+    [
+      "śmierdzi",
+      1
+    ],
+    [
+      "malarzem",
+      1
+    ],
+    [
+      "kopnąć",
+      1
+    ],
+    [
+      "brzuch",
+      1
+    ],
+    [
+      "ulicy",
+      1
+    ],
+    [
+      "gonią",
+      1
+    ],
+    [
+      "psy",
+      1
+    ],
+    [
+      "hycle",
+      1
+    ],
+    [
+      "obdzierają",
+      1
+    ],
+    [
+      "skóry",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 0,
+    "period": 0,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 0,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 3,
+  "negationWords": [
+    "nie"
+  ],
+  "pronounDistribution": {
+    "ja": 2,
+    "ty": 0,
+    "on_ona": 0,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 5,
+    "smierc": 0,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [
+    [
+      "ciało",
+      3
+    ],
+    [
+      "nie",
+      2
+    ]
+  ],
+  "firstWord": "nie",
+  "lastWord": "skóry",
+  "avgWordLength": 4.57,
+  "wordLengthDistribution": {
+    "1-3": 12,
+    "4-5": 16,
+    "6-7": 6,
+    "8-9": 2,
+    "10+": 1
+  },
+  "bigrams": [
+    [
+      "umiem pisać",
+      1
+    ],
+    [
+      "pisać wiersza",
+      1
+    ],
+    [
+      "ciało ciało",
+      1
+    ],
+    [
+      "umiem myśleć",
+      1
+    ],
+    [
+      "myśleć ciało",
+      1
+    ]
+  ],
+  "poemWords": [
+    "umiem",
+    "pisać",
+    "wiersza",
+    "taki",
+    "ciało",
+    "myśleć",
+    "czarne",
+    "śmierdzi",
+    "malarzem",
+    "kopnąć",
+    "brzuch",
+    "ulicy",
+    "gonią",
+    "psy",
+    "hycle",
+    "obdzierają",
+    "skóry"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 11,
+        "VERB": 8,
+        "ADJ": 1,
+        "ADV": 0,
+        "PRON": 2,
+        "ADP": 3,
+        "CCONJ": 0,
+        "SCONJ": 2,
+        "INTJ": 0,
+        "PART": 4,
+        "DET": 2,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.297,
+        "VERB": 0.216,
+        "ADJ": 0.027,
+        "ADV": 0,
+        "PRON": 0.054,
+        "ADP": 0.081,
+        "CCONJ": 0,
+        "SCONJ": 0.054,
+        "INTJ": 0,
+        "PART": 0.108,
+        "DET": 0.054,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 8,
+        "abstract": 0,
+        "ratio": 1
+      },
+      "verbTenses": {
+        "present": 7,
+        "infinitive": 3,
+        "past": 1
+      },
+      "verbSemantics": {
+        "ruch": 1,
+        "percepcja": 0,
+        "stan": 3,
+        "destrukcja": 0,
+        "tworzenie": 1,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 1,
+        "oceniajace": 0,
+        "opisowe": 0
+      },
+      "adverbs": {
+        "temporalne": [],
+        "modalne": [],
+        "sposobu": [],
+        "top": []
+      },
+      "pronouns": {
+        "ja": 2,
+        "ty": 0,
+        "on_ona": 0,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 3,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 3,
+        "percentSentences": 0.75
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 77,
+        "consonants": 92,
+        "ratio": 0.84
+      },
+      "consonantClusters": {
+        "count": 4,
+        "top": [
+          {
+            "cluster": "rsz",
+            "count": 1
+          },
+          {
+            "cluster": "rdz",
+            "count": 1
+          },
+          {
+            "cluster": "brz",
+            "count": 1
+          },
+          {
+            "cluster": "bdz",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 4,
+        "syczace": 18,
+        "nosowe": 23,
+        "plynne": 17
+      },
+      "rhymes": {
+        "exact": 1,
+        "approximate": 0,
+        "internal": 0,
+        "assonance": 1,
+        "alliteration": 1
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 9.2,
+        "median": 10,
+        "min": 4,
+        "max": 14,
+        "distribution": [
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          1,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 3.4,
+        "meanSyllables": 7.1,
+        "distribution": [
+          0,
+          2,
+          1,
+          2,
+          4,
+          1,
+          1
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 4,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 0,
+        "noSubject": 1,
+        "noPredicate": 0,
+        "percent": 0.25
+      },
+      "enjambement": {
+        "count": 1,
+        "percent": 0.1,
+        "positions": [
+          2
+        ]
+      },
+      "wordOrder": {
+        "svo": 0,
+        "inversions": 2,
+        "other": 2,
+        "deviationPercent": 1
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 5,
+        "śmierć": 0,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 78,
+      "estimatedSeconds": 26,
+      "tempoCategory": "umiarkowane"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 11,
+      "VERB": 8,
+      "ADJ": 1,
+      "ADV": 0,
+      "PRON": 2,
+      "ADP": 3,
+      "CCONJ": 0,
+      "SCONJ": 2,
+      "INTJ": 0,
+      "PART": 4,
+      "DET": 2,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.297,
+      "VERB": 0.216,
+      "ADJ": 0.027,
+      "ADV": 0,
+      "PRON": 0.054,
+      "ADP": 0.081,
+      "CCONJ": 0,
+      "SCONJ": 0.054,
+      "INTJ": 0,
+      "PART": 0.108,
+      "DET": 0.054,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 8,
+      "abstract": 0,
+      "ratio": 1
+    },
+    "verbTenses": {
+      "present": 7,
+      "infinitive": 3,
+      "past": 1
+    },
+    "verbSemantics": {
+      "ruch": 1,
+      "percepcja": 0,
+      "stan": 3,
+      "destrukcja": 0,
+      "tworzenie": 1,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 1,
+      "oceniajace": 0,
+      "opisowe": 0
+    },
+    "adverbs": {
+      "temporalne": [],
+      "modalne": [],
+      "sposobu": [],
+      "top": []
+    },
+    "pronouns": {
+      "ja": 2,
+      "ty": 0,
+      "on_ona": 0,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 3,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 3,
+      "percentSentences": 0.75
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 9.2,
+      "median": 10,
+      "min": 4,
+      "max": 14,
+      "distribution": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 3.4,
+      "meanSyllables": 7.1,
+      "distribution": [
+        0,
+        2,
+        1,
+        2,
+        4,
+        1,
+        1
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 4,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 0,
+      "noSubject": 1,
+      "noPredicate": 0,
+      "percent": 0.25
+    },
+    "enjambement": {
+      "count": 1,
+      "percent": 0.1,
+      "positions": [
+        2
+      ]
+    },
+    "wordOrder": {
+      "svo": 0,
+      "inversions": 2,
+      "other": 2,
+      "deviationPercent": 1
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 77,
+      "consonants": 92,
+      "ratio": 0.84
+    },
+    "consonantClusters": {
+      "count": 4,
+      "top": [
+        {
+          "cluster": "rsz",
+          "count": 1
+        },
+        {
+          "cluster": "rdz",
+          "count": 1
+        },
+        {
+          "cluster": "brz",
+          "count": 1
+        },
+        {
+          "cluster": "bdz",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 4,
+      "syczace": 18,
+      "nosowe": 23,
+      "plynne": 17
+    },
+    "rhymes": {
+      "exact": 1,
+      "approximate": 0,
+      "internal": 0,
+      "assonance": 1,
+      "alliteration": 1
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        11
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 78,
+      "estimatedSeconds": 26,
+      "tempoCategory": "umiarkowane"
+    },
+    "regularity": {
+      "type": "polregularny",
+      "regularityScore": 0.62
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.3,
+        "baudelaire": 0.2,
+        "bursa": 0.1,
+        "stachura": 0.4,
+        "grochowiak": 0.6,
+        "bialoszewski": 0.7,
+        "rozewicz": 0.8
+      }
+    },
+    "space": {
+      "type": "otwarta",
+      "evidence": "Na ulicy gonią psy - przestrzeń miejska, ulica jako miejsce prześladowania",
+      "openClosedRatio": 0.7
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "nieokreslona",
+      "evidence": "Brak wyraźnych wskaźników temporalnych"
+    },
+    "motion": {
+      "movement": 8,
+      "stillness": 2,
+      "dynamism": 0.8,
+      "evidence": "gonią psy, kopnąć w brzuch, Obdzierają mnie ze skóry - dynamika prześladowania i agresji"
+    },
+    "imageryDensity": {
+      "metaphors": 2,
+      "comparisons": 1,
+      "personifications": 1,
+      "hyperboles": 1,
+      "per100words": 9.1
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.9,
+      "creationLevel": 0.7,
+      "ironicDistance": 0.2,
+      "autobiographicSignals": [
+        "Nie umiem pisać wiersza",
+        "Ja nie jestem malarzem",
+        "data: 17 I 1966",
+        "bezpośrednie wyznanie niemocy twórczej"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "obrzydzenie",
+      "secondary": "rezygnacja",
+      "intensity": 0.8
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "Powtarzające się 'Nie umiem', 'Ja nie jestem malarzem', 'Umiem tylko kopnąć'"
+    },
+    "addressee": {
+      "type": "siebie",
+      "evidence": "Monolog wewnętrzny, wyznanie własnych ograniczeń i frustracji"
+    },
+    "metaphors": [
+      {
+        "source": "psy",
+        "target": "ludzie/społeczeństwo",
+        "example": "Na ulicy gonią psy / Hycle / Obdzierają mnie ze skóry"
+      },
+      {
+        "source": "obdzieranie ze skóry",
+        "target": "psychiczne zniszczenie",
+        "example": "Obdzierają mnie ze skóry"
+      }
+    ],
+    "temperature": {
+      "value": 0.7,
+      "label": "gorące z elementami agresji i obrzydzenia"
+    },
+    "senses": {
+      "wzrok": 3,
+      "sluch": 1,
+      "dotyk": 4,
+      "smak": 0,
+      "zapach": 5
+    },
+    "autodestruction": {
+      "level": 0.7,
+      "signals": [
+        "Negacja własnych umiejętności",
+        "Obsesja na punkcie rozkładającego się ciała",
+        "Gotowość do przemocy jako jedyna umiejętność",
+        "Poczucie bycia prześladowanym i niszczonym"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": null,
+    "dfaAlpha": 1.793,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -0.5978880185608788
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -0.08215317147355727
+      }
+    ],
+    "seriesLength": 11,
+    "series": [
+      4,
+      6,
+      1,
+      3,
+      3,
+      2,
+      4,
+      5,
+      4,
+      1,
+      4
+    ]
+  }
+}

@@ -1,0 +1,770 @@
+{
+  "id": "pewna-sytuacja",
+  "title": "Pewna sytuacja",
+  "wordCount": 40,
+  "lineCount": 10,
+  "uniqueWords": 37,
+  "vocabularyRichness": 0.925,
+  "avgWordsPerLine": 4,
+  "wordsPerLineDistribution": [
+    4,
+    1,
+    5,
+    6,
+    4,
+    3,
+    6,
+    2,
+    4,
+    5
+  ],
+  "wordFrequencies": [
+    [
+      "najwyraźniej",
+      1
+    ],
+    [
+      "obcięto",
+      1
+    ],
+    [
+      "dłonie",
+      1
+    ],
+    [
+      "piszę",
+      1
+    ],
+    [
+      "patyczkiem",
+      1
+    ],
+    [
+      "przywiązanym",
+      1
+    ],
+    [
+      "prawego",
+      1
+    ],
+    [
+      "kikuta",
+      1
+    ],
+    [
+      "maczam",
+      1
+    ],
+    [
+      "patyczek",
+      1
+    ],
+    [
+      "brunatnym",
+      1
+    ],
+    [
+      "atramencie",
+      1
+    ],
+    [
+      "głowy",
+      1
+    ],
+    [
+      "znamion",
+      1
+    ],
+    [
+      "płci",
+      1
+    ],
+    [
+      "nóżki",
+      1
+    ],
+    [
+      "subtelny",
+      1
+    ],
+    [
+      "umył",
+      1
+    ],
+    [
+      "schował",
+      1
+    ],
+    [
+      "wannie",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 0,
+    "period": 0,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 0,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 1,
+  "negationWords": [
+    "bez"
+  ],
+  "pronounDistribution": {
+    "ja": 3,
+    "ty": 0,
+    "on_ona": 0,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 1,
+    "smierc": 0,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [],
+  "firstWord": "najwyraźniej",
+  "lastWord": "zwierząt",
+  "avgWordLength": 5.53,
+  "wordLengthDistribution": {
+    "10+": 4,
+    "6-7": 11,
+    "1-3": 10,
+    "4-5": 10,
+    "8-9": 5
+  },
+  "bigrams": [
+    [
+      "najwyraźniej obcięto",
+      1
+    ],
+    [
+      "dłonie piszę",
+      1
+    ],
+    [
+      "piszę patyczkiem",
+      1
+    ],
+    [
+      "patyczkiem przywiązanym",
+      1
+    ],
+    [
+      "prawego kikuta",
+      1
+    ],
+    [
+      "kikuta maczam",
+      1
+    ],
+    [
+      "maczam ów",
+      1
+    ],
+    [
+      "ów patyczek",
+      1
+    ],
+    [
+      "brunatnym atramencie",
+      1
+    ]
+  ],
+  "poemWords": [
+    "najwyraźniej",
+    "obcięto",
+    "dłonie",
+    "piszę",
+    "patyczkiem",
+    "przywiązanym",
+    "prawego",
+    "kikuta",
+    "maczam",
+    "patyczek",
+    "brunatnym",
+    "atramencie",
+    "głowy",
+    "znamion",
+    "płci",
+    "nóżki",
+    "subtelny",
+    "umył",
+    "schował",
+    "wannie",
+    "wyleguję",
+    "ciepłej",
+    "krwi",
+    "zwierząt"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 10,
+        "VERB": 7,
+        "ADJ": 6,
+        "ADV": 1,
+        "PRON": 3,
+        "ADP": 5,
+        "CCONJ": 2,
+        "SCONJ": 0,
+        "INTJ": 0,
+        "PART": 2,
+        "DET": 3,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.238,
+        "VERB": 0.167,
+        "ADJ": 0.143,
+        "ADV": 0.024,
+        "PRON": 0.071,
+        "ADP": 0.119,
+        "CCONJ": 0.048,
+        "SCONJ": 0,
+        "INTJ": 0,
+        "PART": 0.048,
+        "DET": 0.071,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 2,
+        "abstract": 0,
+        "ratio": 1
+      },
+      "verbTenses": {
+        "past": 3,
+        "present": 4,
+        "future": 1
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 2,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 1,
+        "oceniajace": 0,
+        "opisowe": 5
+      },
+      "adverbs": {
+        "temporalne": [],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "tak",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 1,
+        "ty": 0,
+        "on_ona": 0,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 0,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 0,
+        "percentSentences": 0
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 91,
+        "consonants": 131,
+        "ratio": 0.69
+      },
+      "consonantClusters": {
+        "count": 5,
+        "top": [
+          {
+            "cluster": "czk",
+            "count": 1
+          },
+          {
+            "cluster": "prz",
+            "count": 1
+          },
+          {
+            "cluster": "płc",
+            "count": 1
+          },
+          {
+            "cluster": "sch",
+            "count": 1
+          },
+          {
+            "cluster": "krw",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 8,
+        "syczace": 17,
+        "nosowe": 32,
+        "plynne": 15
+      },
+      "rhymes": {
+        "exact": 0,
+        "approximate": 1,
+        "internal": 0,
+        "assonance": 0,
+        "alliteration": 2
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 10.5,
+        "median": 12,
+        "min": 4,
+        "max": 13,
+        "distribution": [
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          2
+        ]
+      },
+      "lineLength": {
+        "meanWords": 3.8,
+        "meanSyllables": 8.6,
+        "distribution": [
+          0,
+          1,
+          2,
+          1,
+          3,
+          2,
+          2
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 4,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 0,
+        "noSubject": 3,
+        "noPredicate": 0,
+        "percent": 0.75
+      },
+      "enjambement": {
+        "count": 1,
+        "percent": 0.1,
+        "positions": [
+          10
+        ]
+      },
+      "wordOrder": {
+        "svo": 0,
+        "inversions": 1,
+        "other": 3,
+        "deviationPercent": 1
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 2,
+        "śmierć": 0,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 95,
+      "estimatedSeconds": 32,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 10,
+      "VERB": 7,
+      "ADJ": 6,
+      "ADV": 1,
+      "PRON": 3,
+      "ADP": 5,
+      "CCONJ": 2,
+      "SCONJ": 0,
+      "INTJ": 0,
+      "PART": 2,
+      "DET": 3,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.238,
+      "VERB": 0.167,
+      "ADJ": 0.143,
+      "ADV": 0.024,
+      "PRON": 0.071,
+      "ADP": 0.119,
+      "CCONJ": 0.048,
+      "SCONJ": 0,
+      "INTJ": 0,
+      "PART": 0.048,
+      "DET": 0.071,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 2,
+      "abstract": 0,
+      "ratio": 1
+    },
+    "verbTenses": {
+      "past": 3,
+      "present": 4,
+      "future": 1
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 2,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 1,
+      "oceniajace": 0,
+      "opisowe": 5
+    },
+    "adverbs": {
+      "temporalne": [],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "tak",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 1,
+      "ty": 0,
+      "on_ona": 0,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 0,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 0,
+      "percentSentences": 0
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 10.5,
+      "median": 12,
+      "min": 4,
+      "max": 13,
+      "distribution": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        2
+      ]
+    },
+    "lineLength": {
+      "meanWords": 3.8,
+      "meanSyllables": 8.6,
+      "distribution": [
+        0,
+        1,
+        2,
+        1,
+        3,
+        2,
+        2
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 4,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 0,
+      "noSubject": 3,
+      "noPredicate": 0,
+      "percent": 0.75
+    },
+    "enjambement": {
+      "count": 1,
+      "percent": 0.1,
+      "positions": [
+        10
+      ]
+    },
+    "wordOrder": {
+      "svo": 0,
+      "inversions": 1,
+      "other": 3,
+      "deviationPercent": 1
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 91,
+      "consonants": 131,
+      "ratio": 0.69
+    },
+    "consonantClusters": {
+      "count": 5,
+      "top": [
+        {
+          "cluster": "czk",
+          "count": 1
+        },
+        {
+          "cluster": "prz",
+          "count": 1
+        },
+        {
+          "cluster": "płc",
+          "count": 1
+        },
+        {
+          "cluster": "sch",
+          "count": 1
+        },
+        {
+          "cluster": "krw",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 8,
+      "syczace": 17,
+      "nosowe": 32,
+      "plynne": 15
+    },
+    "rhymes": {
+      "exact": 0,
+      "approximate": 1,
+      "internal": 0,
+      "assonance": 0,
+      "alliteration": 2
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        11
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 95,
+      "estimatedSeconds": 32,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "polregularny",
+      "regularityScore": 0.42
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Różewicz",
+          "reference": "poetyka redukcji, rozbieranie z atrybutów",
+          "evidence": "obcięto mi dłonie / Jestem także bez głowy / Znamion mojej płci"
+        },
+        {
+          "source": "inne",
+          "reference": "motyw kaleki-artysty",
+          "evidence": "Piszę / Patyczkiem przywiązanym do prawego kikuta"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.3,
+        "baudelaire": 0.2,
+        "bursa": 0.1,
+        "stachura": 0.4,
+        "grochowiak": 0.6,
+        "bialoszewski": 0.2,
+        "rozewicz": 0.8
+      }
+    },
+    "space": {
+      "type": "zamknieta",
+      "evidence": "W wannie się wyleguję",
+      "openClosedRatio": 0.1
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "nieokreslona",
+      "evidence": "brak wyraźnych wskazówek temporalnych poza datą 1965"
+    },
+    "motion": {
+      "movement": 2,
+      "stillness": 8,
+      "dynamism": 0.2,
+      "evidence": "wyleguję - statyczna pozycja w wannie, jedyny ruch to pisanie patyczkiem"
+    },
+    "imageryDensity": {
+      "metaphors": 4,
+      "comparisons": 0,
+      "personifications": 1,
+      "hyperboles": 2,
+      "per100words": 12.3
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.9,
+      "creationLevel": 0.7,
+      "ironicDistance": 0.2,
+      "autobiographicSignals": [
+        "Piszę",
+        "jestem",
+        "data 1965",
+        "moje zwierzęta"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "obrzydzenie",
+      "secondary": "rezygnacja",
+      "intensity": 0.8
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "Podmiot wprost opisuje swoje okaleczenie: 'obcięto mi dłonie', 'Piszę', 'Jestem także bez głowy'"
+    },
+    "addressee": {
+      "type": "czytelnik",
+      "evidence": "Brak bezpośredniego zwrotu, tekst ma charakter wyznania skierowanego do odbiorcy"
+    },
+    "metaphors": [
+      {
+        "source": "patyczek",
+        "target": "narzędzie pisania",
+        "example": "Patyczkiem przywiązanym do prawego kikuta"
+      },
+      {
+        "source": "brunatny atrament",
+        "target": "krew",
+        "example": "Maczam ów patyczek w brunatnym atramencie"
+      },
+      {
+        "source": "wanna z krwią",
+        "target": "miejsce regeneracji/narodzin",
+        "example": "W wannie się wyleguję / W ciepłej krwi moich zwierząt"
+      }
+    ],
+    "temperature": {
+      "value": 0.3,
+      "label": "chłodna rezygnacja z elementami groteski"
+    },
+    "senses": {
+      "wzrok": 5,
+      "sluch": 0,
+      "dotyk": 4,
+      "smak": 0,
+      "zapach": 1
+    },
+    "autodestruction": {
+      "level": 0.9,
+      "signals": [
+        "fizyczne okaleczenie",
+        "utrata dłoni i głowy",
+        "kąpiel w krwi zwierząt",
+        "groteskowy obraz własnego ciała"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": null,
+    "dfaAlpha": 2.274,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -0.597888018560879
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": 0.05628663661391272
+      }
+    ],
+    "seriesLength": 10,
+    "series": [
+      4,
+      1,
+      5,
+      6,
+      4,
+      3,
+      6,
+      2,
+      4,
+      5
+    ]
+  }
+}

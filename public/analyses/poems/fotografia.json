@@ -1,0 +1,726 @@
+{
+  "id": "fotografia",
+  "title": "Fotografia",
+  "wordCount": 32,
+  "lineCount": 10,
+  "uniqueWords": 28,
+  "vocabularyRichness": 0.875,
+  "avgWordsPerLine": 3.2,
+  "wordsPerLineDistribution": [
+    3,
+    1,
+    3,
+    3,
+    4,
+    3,
+    5,
+    6,
+    1,
+    3
+  ],
+  "wordFrequencies": [
+    [
+      "czasy",
+      1
+    ],
+    [
+      "morderców",
+      1
+    ],
+    [
+      "rimbaud",
+      1
+    ],
+    [
+      "nos",
+      1
+    ],
+    [
+      "duży",
+      1
+    ],
+    [
+      "genitalia",
+      1
+    ],
+    [
+      "oczy",
+      1
+    ],
+    [
+      "zamykać",
+      1
+    ],
+    [
+      "akwitania",
+      1
+    ],
+    [
+      "dobrze",
+      1
+    ],
+    [
+      "brzmi",
+      1
+    ],
+    [
+      "książę",
+      1
+    ],
+    [
+      "umarł",
+      1
+    ],
+    [
+      "retuszować",
+      1
+    ],
+    [
+      "proporcje",
+      1
+    ],
+    [
+      "najważniejsze",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 0,
+    "period": 3,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 0,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 0,
+  "negationWords": [],
+  "pronounDistribution": {
+    "ja": 0,
+    "ty": 0,
+    "on_ona": 2,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 1,
+    "smierc": 1,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [],
+  "firstWord": "oto",
+  "lastWord": "najważniejsze",
+  "avgWordLength": 4.72,
+  "wordLengthDistribution": {
+    "1-3": 14,
+    "4-5": 7,
+    "8-9": 4,
+    "6-7": 5,
+    "10+": 2
+  },
+  "bigrams": [
+    [
+      "oto czasy",
+      1
+    ],
+    [
+      "czasy morderców",
+      1
+    ],
+    [
+      "morderców rimbaud",
+      1
+    ],
+    [
+      "nos duży",
+      1
+    ],
+    [
+      "genitalia oczy",
+      1
+    ]
+  ],
+  "poemWords": [
+    "czasy",
+    "morderców",
+    "rimbaud",
+    "nos",
+    "duży",
+    "genitalia",
+    "oczy",
+    "zamykać",
+    "akwitania",
+    "dobrze",
+    "brzmi",
+    "książę",
+    "umarł",
+    "retuszować",
+    "proporcje",
+    "najważniejsze"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 7,
+        "VERB": 5,
+        "ADJ": 3,
+        "ADV": 1,
+        "PRON": 4,
+        "ADP": 1,
+        "CCONJ": 3,
+        "SCONJ": 2,
+        "INTJ": 0,
+        "PART": 2,
+        "DET": 0,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.206,
+        "VERB": 0.147,
+        "ADJ": 0.088,
+        "ADV": 0.029,
+        "PRON": 0.118,
+        "ADP": 0.029,
+        "CCONJ": 0.088,
+        "SCONJ": 0.059,
+        "INTJ": 0,
+        "PART": 0.059,
+        "DET": 0,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 0,
+        "abstract": 1,
+        "ratio": 0
+      },
+      "verbTenses": {
+        "present": 5,
+        "infinitive": 2,
+        "past": 1
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 2,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 0,
+        "opisowe": 3
+      },
+      "adverbs": {
+        "temporalne": [],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "dobrze",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 0,
+        "ty": 0,
+        "on_ona": 2,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 0,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 0,
+        "percentSentences": 0
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 71,
+        "consonants": 90,
+        "ratio": 0.79
+      },
+      "consonantClusters": {
+        "count": 5,
+        "top": [
+          {
+            "cluster": "brz",
+            "count": 1
+          },
+          {
+            "cluster": "brzm",
+            "count": 1
+          },
+          {
+            "cluster": "trz",
+            "count": 1
+          },
+          {
+            "cluster": "rcj",
+            "count": 1
+          },
+          {
+            "cluster": "jsz",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 11,
+        "syczace": 10,
+        "nosowe": 14,
+        "plynne": 14
+      },
+      "rhymes": {
+        "exact": 0,
+        "approximate": 2,
+        "internal": 0,
+        "assonance": 0,
+        "alliteration": 0
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 6.8,
+        "median": 7,
+        "min": 1,
+        "max": 12,
+        "distribution": [
+          0,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 2.8,
+        "meanSyllables": 6,
+        "distribution": [
+          0,
+          4,
+          0,
+          5,
+          1,
+          1,
+          1
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 5,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 1,
+        "noSubject": 0,
+        "noPredicate": 1,
+        "percent": 0.4
+      },
+      "enjambement": {
+        "count": 5,
+        "percent": 0.45,
+        "positions": [
+          1,
+          4,
+          6,
+          8,
+          9
+        ]
+      },
+      "wordOrder": {
+        "svo": 2,
+        "inversions": 0,
+        "other": 2,
+        "deviationPercent": 0.5
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 0,
+        "śmierć": 1,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 72,
+      "estimatedSeconds": 24,
+      "tempoCategory": "umiarkowane"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 7,
+      "VERB": 5,
+      "ADJ": 3,
+      "ADV": 1,
+      "PRON": 4,
+      "ADP": 1,
+      "CCONJ": 3,
+      "SCONJ": 2,
+      "INTJ": 0,
+      "PART": 2,
+      "DET": 0,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.206,
+      "VERB": 0.147,
+      "ADJ": 0.088,
+      "ADV": 0.029,
+      "PRON": 0.118,
+      "ADP": 0.029,
+      "CCONJ": 0.088,
+      "SCONJ": 0.059,
+      "INTJ": 0,
+      "PART": 0.059,
+      "DET": 0,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 0,
+      "abstract": 1,
+      "ratio": 0
+    },
+    "verbTenses": {
+      "present": 5,
+      "infinitive": 2,
+      "past": 1
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 2,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 0,
+      "opisowe": 3
+    },
+    "adverbs": {
+      "temporalne": [],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "dobrze",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 0,
+      "ty": 0,
+      "on_ona": 2,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 0,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 0,
+      "percentSentences": 0
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 6.8,
+      "median": 7,
+      "min": 1,
+      "max": 12,
+      "distribution": [
+        0,
+        1,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 2.8,
+      "meanSyllables": 6,
+      "distribution": [
+        0,
+        4,
+        0,
+        5,
+        1,
+        1,
+        1
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 5,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 1,
+      "noSubject": 0,
+      "noPredicate": 1,
+      "percent": 0.4
+    },
+    "enjambement": {
+      "count": 5,
+      "percent": 0.45,
+      "positions": [
+        1,
+        4,
+        6,
+        8,
+        9
+      ]
+    },
+    "wordOrder": {
+      "svo": 2,
+      "inversions": 0,
+      "other": 2,
+      "deviationPercent": 0.5
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 71,
+      "consonants": 90,
+      "ratio": 0.79
+    },
+    "consonantClusters": {
+      "count": 5,
+      "top": [
+        {
+          "cluster": "brz",
+          "count": 1
+        },
+        {
+          "cluster": "brzm",
+          "count": 1
+        },
+        {
+          "cluster": "trz",
+          "count": 1
+        },
+        {
+          "cluster": "rcj",
+          "count": 1
+        },
+        {
+          "cluster": "jsz",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 11,
+      "syczace": 10,
+      "nosowe": 14,
+      "plynne": 14
+    },
+    "rhymes": {
+      "exact": 0,
+      "approximate": 2,
+      "internal": 0,
+      "assonance": 0,
+      "alliteration": 0
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        12
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 72,
+      "estimatedSeconds": 24,
+      "tempoCategory": "umiarkowane"
+    },
+    "regularity": {
+      "type": "polregularny",
+      "regularityScore": 0.51
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Rimbaud",
+          "reference": "Épigraphe z Une saison en enfer",
+          "evidence": "oto czasy Morderców / Rimbaud"
+        },
+        {
+          "source": "inne",
+          "reference": "historia Francji/Akwitania",
+          "evidence": "Akwitania to tylko dobrze brzmi / a książę umarł i trzeba go / retuszować"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.9,
+        "baudelaire": 0.2,
+        "bursa": 0.1,
+        "stachura": 0.3,
+        "grochowiak": 0.2,
+        "bialoszewski": 0.4,
+        "rozewicz": 0.6
+      }
+    },
+    "space": {
+      "type": "nieokreslona",
+      "evidence": "brak konkretnych wskazówek przestrzennych, dominuje abstrakcja fotografii i refleksji",
+      "openClosedRatio": 0.5
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "nieokreslona",
+      "evidence": "brak wyraźnych wskazówek temporalnych poza datą '1966'"
+    },
+    "motion": {
+      "movement": 2,
+      "stillness": 8,
+      "dynamism": 0.2,
+      "evidence": "statyczność fotografii, zamykanie oczu, martwy książę - dominuje bezruch"
+    },
+    "imageryDensity": {
+      "metaphors": 1,
+      "comparisons": 1,
+      "personifications": 0,
+      "hyperboles": 0,
+      "per100words": 4.5
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.7,
+      "creationLevel": 0.8,
+      "ironicDistance": 0.6,
+      "autobiographicSignals": [
+        "data '1966'",
+        "cyniczny ton wobec sztuki i historii",
+        "prowokacyjne zestawienia"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "ironia",
+      "secondary": "obrzydzenie",
+      "intensity": 0.7
+    },
+    "subjectPresence": {
+      "type": "ukryte",
+      "evidence": "Podmiot ukryty za ironicznymi stwierdzeniami i cytatem Rimbauda, obecny w doborze obrazów i cynicznych komentarzach"
+    },
+    "addressee": {
+      "type": "czytelnik",
+      "evidence": "Wiersz ma charakter manifesto-podobny, skierowany do odbiorcy poprzez prowokacyjne stwierdzenia i ironię"
+    },
+    "metaphors": [
+      {
+        "source": "fotografia",
+        "target": "rzeczywistość",
+        "example": "tytułowa fotografia jako metafora zafałszowanej rzeczywistości wymagającej retuszu"
+      },
+      {
+        "source": "retuszowanie",
+        "target": "fałszowanie prawdy",
+        "example": "książę umarł i trzeba go retuszować"
+      }
+    ],
+    "temperature": {
+      "value": 0.4,
+      "label": "chłodna ironia z nutą obrzydzenia"
+    },
+    "senses": {
+      "wzrok": 5,
+      "sluch": 1,
+      "dotyk": 0,
+      "smak": 0,
+      "zapach": 0
+    },
+    "autodestruction": {
+      "level": 0.3,
+      "signals": [
+        "cyniczny stosunek do rzeczywistości",
+        "prowokacyjna redukcja człowieka do fizjologii"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": null,
+    "dfaAlpha": 0.133,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -0.4643566259363562
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -0.42617041473537504
+      }
+    ],
+    "seriesLength": 10,
+    "series": [
+      3,
+      1,
+      3,
+      3,
+      4,
+      3,
+      5,
+      6,
+      1,
+      3
+    ]
+  }
+}

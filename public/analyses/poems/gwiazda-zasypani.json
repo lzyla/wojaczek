@@ -1,0 +1,883 @@
+{
+  "id": "gwiazda-zasypani",
+  "title": "Gwiazda; zasypani",
+  "wordCount": 82,
+  "lineCount": 12,
+  "uniqueWords": 63,
+  "vocabularyRichness": 0.768,
+  "avgWordsPerLine": 6.83,
+  "wordsPerLineDistribution": [
+    5,
+    6,
+    8,
+    6,
+    7,
+    8,
+    7,
+    7,
+    6,
+    5,
+    8,
+    9
+  ],
+  "wordFrequencies": [
+    [
+      "pójdziemy",
+      2
+    ],
+    [
+      "uliczką",
+      2
+    ],
+    [
+      "ciasną",
+      2
+    ],
+    [
+      "jawną",
+      2
+    ],
+    [
+      "gwiazda",
+      2
+    ],
+    [
+      "myślcie",
+      2
+    ],
+    [
+      "myślimy",
+      1
+    ],
+    [
+      "owoc",
+      1
+    ],
+    [
+      "dojrzały",
+      1
+    ],
+    [
+      "skórki",
+      1
+    ],
+    [
+      "pełen",
+      1
+    ],
+    [
+      "chęci",
+      1
+    ],
+    [
+      "nagle",
+      1
+    ],
+    [
+      "swędzenie",
+      1
+    ],
+    [
+      "szypułce",
+      1
+    ],
+    [
+      "oderwać",
+      1
+    ],
+    [
+      "wyssanej",
+      1
+    ],
+    [
+      "cna",
+      1
+    ],
+    [
+      "gałązki",
+      1
+    ],
+    [
+      "prosi",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 6,
+    "period": 6,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 4,
+    "colon": 3,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 1,
+  "negationWords": [
+    "nie"
+  ],
+  "pronounDistribution": {
+    "ja": 1,
+    "ty": 0,
+    "on_ona": 1,
+    "my": 1,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 0,
+    "smierc": 0,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 1,
+    "noc": 1,
+    "bol": 0
+  },
+  "anaphors": [],
+  "firstWord": "pójdziemy",
+  "lastWord": "wwierca",
+  "avgWordLength": 4.89,
+  "wordLengthDistribution": {
+    "8-9": 13,
+    "6-7": 21,
+    "1-3": 30,
+    "4-5": 18
+  },
+  "bigrams": [
+    [
+      "pójdziemy uliczką",
+      1
+    ],
+    [
+      "uliczką ciasną",
+      1
+    ],
+    [
+      "jawną myślimy",
+      1
+    ],
+    [
+      "dojrzały gwiazda",
+      1
+    ],
+    [
+      "gwiazda aż",
+      1
+    ],
+    [
+      "skórki pełen",
+      1
+    ]
+  ],
+  "poemWords": [
+    "pójdziemy",
+    "uliczką",
+    "ciasną",
+    "jawną",
+    "myślimy",
+    "owoc",
+    "dojrzały",
+    "gwiazda",
+    "skórki",
+    "pełen",
+    "chęci",
+    "nagle",
+    "swędzenie",
+    "szypułce",
+    "oderwać",
+    "wyssanej",
+    "cna",
+    "gałązki",
+    "prosi",
+    "myślcie",
+    "mocno",
+    "drzewie",
+    "niebo",
+    "słabe",
+    "raz",
+    "rozżarzę",
+    "odpadnę",
+    "wytopioną",
+    "zaspie",
+    "zmarzłego",
+    "powietrza",
+    "siedzimy",
+    "głodu",
+    "wzajem",
+    "zjadając",
+    "patrząc",
+    "strop",
+    "ostrze",
+    "gwiazdy",
+    "wwierca"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 21,
+        "VERB": 13,
+        "ADJ": 10,
+        "ADV": 4,
+        "PRON": 9,
+        "ADP": 11,
+        "CCONJ": 4,
+        "SCONJ": 1,
+        "INTJ": 0,
+        "PART": 8,
+        "DET": 1,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.25,
+        "VERB": 0.155,
+        "ADJ": 0.119,
+        "ADV": 0.048,
+        "PRON": 0.107,
+        "ADP": 0.131,
+        "CCONJ": 0.048,
+        "SCONJ": 0.012,
+        "INTJ": 0,
+        "PART": 0.095,
+        "DET": 0.012,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 1,
+        "abstract": 0,
+        "ratio": 1
+      },
+      "verbTenses": {
+        "future": 3,
+        "present": 8,
+        "infinitive": 1,
+        "imperative": 2
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 1,
+        "stan": 1,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 1,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 0,
+        "opisowe": 10
+      },
+      "adverbs": {
+        "temporalne": [],
+        "modalne": [],
+        "sposobu": [
+          "mocno",
+          "nagle"
+        ],
+        "top": [
+          {
+            "word": "nagle",
+            "count": 1
+          },
+          {
+            "word": "mocno",
+            "count": 1
+          },
+          {
+            "word": "kiedy",
+            "count": 1
+          },
+          {
+            "word": "wzajem",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 1,
+        "ty": 0,
+        "on_ona": 1,
+        "my": 1,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 1,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 1,
+        "percentSentences": 0.14
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 176,
+        "consonants": 240,
+        "ratio": 0.73
+      },
+      "consonantClusters": {
+        "count": 15,
+        "top": [
+          {
+            "cluster": "jdz",
+            "count": 2
+          },
+          {
+            "cluster": "czk",
+            "count": 2
+          },
+          {
+            "cluster": "ślc",
+            "count": 2
+          },
+          {
+            "cluster": "trz",
+            "count": 2
+          },
+          {
+            "cluster": "jrz",
+            "count": 1
+          },
+          {
+            "cluster": "drz",
+            "count": 1
+          },
+          {
+            "cluster": "szcz",
+            "count": 1
+          },
+          {
+            "cluster": "szc",
+            "count": 1
+          },
+          {
+            "cluster": "rzł",
+            "count": 1
+          },
+          {
+            "cluster": "str",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 21,
+        "syczace": 52,
+        "nosowe": 48,
+        "plynne": 30
+      },
+      "rhymes": {
+        "exact": 0,
+        "approximate": 1,
+        "internal": 1,
+        "assonance": 0,
+        "alliteration": 0
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 12,
+        "median": 7,
+        "min": 0,
+        "max": 28,
+        "distribution": [
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 6.8,
+        "meanSyllables": 14.4,
+        "distribution": [
+          0,
+          0,
+          1,
+          0,
+          0,
+          2,
+          2,
+          2,
+          4,
+          2
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 6,
+        "interrogative": 0,
+        "imperative": 1,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 1,
+        "noSubject": 2,
+        "noPredicate": 0,
+        "percent": 0.43
+      },
+      "enjambement": {
+        "count": 1,
+        "percent": 0.08,
+        "positions": [
+          8
+        ]
+      },
+      "wordOrder": {
+        "svo": 1,
+        "inversions": 2,
+        "other": 3,
+        "deviationPercent": 0.83
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 0,
+        "śmierć": 0,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 1,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 187,
+      "estimatedSeconds": 62,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 21,
+      "VERB": 13,
+      "ADJ": 10,
+      "ADV": 4,
+      "PRON": 9,
+      "ADP": 11,
+      "CCONJ": 4,
+      "SCONJ": 1,
+      "INTJ": 0,
+      "PART": 8,
+      "DET": 1,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.25,
+      "VERB": 0.155,
+      "ADJ": 0.119,
+      "ADV": 0.048,
+      "PRON": 0.107,
+      "ADP": 0.131,
+      "CCONJ": 0.048,
+      "SCONJ": 0.012,
+      "INTJ": 0,
+      "PART": 0.095,
+      "DET": 0.012,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 1,
+      "abstract": 0,
+      "ratio": 1
+    },
+    "verbTenses": {
+      "future": 3,
+      "present": 8,
+      "infinitive": 1,
+      "imperative": 2
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 1,
+      "stan": 1,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 1,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 0,
+      "opisowe": 10
+    },
+    "adverbs": {
+      "temporalne": [],
+      "modalne": [],
+      "sposobu": [
+        "mocno",
+        "nagle"
+      ],
+      "top": [
+        {
+          "word": "nagle",
+          "count": 1
+        },
+        {
+          "word": "mocno",
+          "count": 1
+        },
+        {
+          "word": "kiedy",
+          "count": 1
+        },
+        {
+          "word": "wzajem",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 1,
+      "ty": 0,
+      "on_ona": 1,
+      "my": 1,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 1,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 1,
+      "percentSentences": 0.14
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 12,
+      "median": 7,
+      "min": 0,
+      "max": 28,
+      "distribution": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 6.8,
+      "meanSyllables": 14.4,
+      "distribution": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        2,
+        2,
+        2,
+        4,
+        2
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 6,
+      "interrogative": 0,
+      "imperative": 1,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 1,
+      "noSubject": 2,
+      "noPredicate": 0,
+      "percent": 0.43
+    },
+    "enjambement": {
+      "count": 1,
+      "percent": 0.08,
+      "positions": [
+        8
+      ]
+    },
+    "wordOrder": {
+      "svo": 1,
+      "inversions": 2,
+      "other": 3,
+      "deviationPercent": 0.83
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 176,
+      "consonants": 240,
+      "ratio": 0.73
+    },
+    "consonantClusters": {
+      "count": 15,
+      "top": [
+        {
+          "cluster": "jdz",
+          "count": 2
+        },
+        {
+          "cluster": "czk",
+          "count": 2
+        },
+        {
+          "cluster": "ślc",
+          "count": 2
+        },
+        {
+          "cluster": "trz",
+          "count": 2
+        },
+        {
+          "cluster": "jrz",
+          "count": 1
+        },
+        {
+          "cluster": "drz",
+          "count": 1
+        },
+        {
+          "cluster": "szcz",
+          "count": 1
+        },
+        {
+          "cluster": "szc",
+          "count": 1
+        },
+        {
+          "cluster": "rzł",
+          "count": 1
+        },
+        {
+          "cluster": "str",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 21,
+      "syczace": 52,
+      "nosowe": 48,
+      "plynne": 30
+    },
+    "rhymes": {
+      "exact": 0,
+      "approximate": 1,
+      "internal": 1,
+      "assonance": 0,
+      "alliteration": 0
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        13
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 187,
+      "estimatedSeconds": 62,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "regularny",
+      "regularityScore": 0.8
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Biblia",
+          "reference": "Gwiazda Betlejemska",
+          "evidence": "tytułowa gwiazda jako przewodnik, motyw oczekiwania na znak z nieba"
+        },
+        {
+          "source": "mitologia",
+          "reference": "mit o spadającej gwieździe",
+          "evidence": "gwiazda prosi o myślenie o niej, by móc odpaść"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.7,
+        "baudelaire": 0.6,
+        "bursa": 0.3,
+        "stachura": 0.4,
+        "grochowiak": 0.5,
+        "bialoszewski": 0.2,
+        "rozewicz": 0.3
+      }
+    },
+    "space": {
+      "type": "zamknieta",
+      "evidence": "uliczka ciasna, zaspa, siedzenie w ciasnej przestrzeni, wzajemne zjadanie się z głodu",
+      "openClosedRatio": 0.2
+    },
+    "timeOfDay": {
+      "period": "noc",
+      "season": "zima",
+      "evidence": "gwiazda świeci, zaspa zmarzłego powietrza, zimowe klimaty"
+    },
+    "motion": {
+      "movement": 6,
+      "stillness": 4,
+      "dynamism": 0.6,
+      "evidence": "pójdziemy, oderwać się, odpadnę, wwierca się - dynamika ruchu kontrastuje ze stagnacją siedzenia"
+    },
+    "imageryDensity": {
+      "metaphors": 8,
+      "comparisons": 2,
+      "personifications": 4,
+      "hyperboles": 2,
+      "per100words": 16.7
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.7,
+      "creationLevel": 0.8,
+      "ironicDistance": 0.3,
+      "autobiographicSignals": [
+        "myślimy w pierwszej osobie liczby mnogiej",
+        "siedzimy z głodu",
+        "osobiste oczekiwanie na transcendencję"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "tęsknota",
+      "secondary": "rozpacz",
+      "intensity": 0.8
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "Pójdziemy, Myślimy, siedzimy - podmioty zbiorowe w pierwszej osobie liczby mnogiej"
+    },
+    "addressee": {
+      "type": "siebie",
+      "evidence": "Podmioty zbiorowe zwracają się do siebie nawzajem, gwiazda przemawia do nich"
+    },
+    "metaphors": [
+      {
+        "source": "owoc",
+        "target": "dojrzałość do odejścia",
+        "example": "ten owoc już dojrzały, gwiazda"
+      },
+      {
+        "source": "oderwanie z gałązki",
+        "target": "śmierć/odejście",
+        "example": "oderwać z wyssanej już do cna gałązki"
+      },
+      {
+        "source": "wzajemne zjadanie",
+        "target": "destrukcyjna współzależność",
+        "example": "z głodu wzajem się zjadając"
+      }
+    ],
+    "temperature": {
+      "value": 0.3,
+      "label": "chłodne oczekiwanie na koniec"
+    },
+    "senses": {
+      "wzrok": 4,
+      "sluch": 1,
+      "dotyk": 3,
+      "smak": 2,
+      "zapach": 0
+    },
+    "autodestruction": {
+      "level": 0.7,
+      "signals": [
+        "wzajem się zjadając",
+        "odpadnę wreszcie",
+        "czy ostrze gwiazdy już się wwierca"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 0.668,
+    "dfaAlpha": 2.366,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -1.2220423276338725
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -0.5414165977502512
+      }
+    ],
+    "seriesLength": 12,
+    "series": [
+      5,
+      6,
+      8,
+      6,
+      7,
+      8,
+      7,
+      7,
+      6,
+      5,
+      8,
+      9
+    ]
+  }
+}

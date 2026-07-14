@@ -1,0 +1,788 @@
+{
+  "id": "czy-to-juz",
+  "title": "Czy to już...",
+  "wordCount": 50,
+  "lineCount": 6,
+  "uniqueWords": 40,
+  "vocabularyRichness": 0.8,
+  "avgWordsPerLine": 8.33,
+  "wordsPerLineDistribution": [
+    13,
+    10,
+    3,
+    10,
+    10,
+    4
+  ],
+  "wordFrequencies": [
+    [
+      "złoto",
+      1
+    ],
+    [
+      "wszak",
+      1
+    ],
+    [
+      "świeci",
+      1
+    ],
+    [
+      "ciemny",
+      1
+    ],
+    [
+      "chrząszcz",
+      1
+    ],
+    [
+      "wzroku",
+      1
+    ],
+    [
+      "wskroś",
+      1
+    ],
+    [
+      "przestrzeni",
+      1
+    ],
+    [
+      "leci",
+      1
+    ],
+    [
+      "wytyczoną",
+      1
+    ],
+    [
+      "drogą",
+      1
+    ],
+    [
+      "gwiazda",
+      1
+    ],
+    [
+      "nazwane",
+      1
+    ],
+    [
+      "słońce",
+      1
+    ],
+    [
+      "iżby",
+      1
+    ],
+    [
+      "nazwać",
+      1
+    ],
+    [
+      "potrzeba",
+      1
+    ],
+    [
+      "mowie",
+      1
+    ],
+    [
+      "urodzić",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 7,
+    "period": 0,
+    "question": 2,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 1,
+    "semicolon": 0
+  },
+  "questionCount": 2,
+  "exclamationCount": 0,
+  "negationCount": 3,
+  "negationWords": [
+    "nie"
+  ],
+  "pronounDistribution": {
+    "ja": 0,
+    "ty": 0,
+    "on_ona": 1,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 0,
+    "smierc": 0,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [
+    [
+      "nie",
+      2
+    ]
+  ],
+  "firstWord": "nie",
+  "lastWord": "nowo",
+  "avgWordLength": 4.24,
+  "wordLengthDistribution": {
+    "1-3": 24,
+    "4-5": 11,
+    "6-7": 11,
+    "8-9": 3,
+    "10+": 1
+  },
+  "bigrams": [
+    [
+      "wszak wiem",
+      1
+    ],
+    [
+      "tam świeci",
+      1
+    ],
+    [
+      "ciemny chrząszcz",
+      1
+    ]
+  ],
+  "poemWords": [
+    "złoto",
+    "wszak",
+    "świeci",
+    "ciemny",
+    "chrząszcz",
+    "wzroku",
+    "wskroś",
+    "przestrzeni",
+    "leci",
+    "wytyczoną",
+    "drogą",
+    "gwiazda",
+    "nazwane",
+    "słońce",
+    "którym",
+    "iżby",
+    "nazwać",
+    "potrzeba",
+    "mowie",
+    "urodzić",
+    "nowo"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 9,
+        "VERB": 7,
+        "ADJ": 3,
+        "ADV": 3,
+        "PRON": 5,
+        "ADP": 5,
+        "CCONJ": 2,
+        "SCONJ": 5,
+        "INTJ": 0,
+        "PART": 9,
+        "DET": 2,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.17,
+        "VERB": 0.132,
+        "ADJ": 0.057,
+        "ADV": 0.057,
+        "PRON": 0.094,
+        "ADP": 0.094,
+        "CCONJ": 0.038,
+        "SCONJ": 0.094,
+        "INTJ": 0,
+        "PART": 0.17,
+        "DET": 0.038,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 0,
+        "abstract": 0,
+        "ratio": 0
+      },
+      "verbTenses": {
+        "present": 7,
+        "infinitive": 2
+      },
+      "verbSemantics": {
+        "ruch": 1,
+        "percepcja": 0,
+        "stan": 1,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 1,
+        "oceniajace": 0,
+        "opisowe": 2
+      },
+      "adverbs": {
+        "temporalne": [],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "tak",
+            "count": 1
+          },
+          {
+            "word": "tam",
+            "count": 1
+          },
+          {
+            "word": "nowo",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 0,
+        "ty": 0,
+        "on_ona": 0,
+        "my": 0,
+        "wy": 0,
+        "oni": 1
+      },
+      "negations": {
+        "nie": 3,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 3,
+        "percentSentences": 1
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 89,
+        "consonants": 131,
+        "ratio": 0.68
+      },
+      "consonantClusters": {
+        "count": 9,
+        "top": [
+          {
+            "cluster": "szcz",
+            "count": 2
+          },
+          {
+            "cluster": "wsz",
+            "count": 1
+          },
+          {
+            "cluster": "chrz",
+            "count": 1
+          },
+          {
+            "cluster": "wzr",
+            "count": 1
+          },
+          {
+            "cluster": "wskr",
+            "count": 1
+          },
+          {
+            "cluster": "prz",
+            "count": 1
+          },
+          {
+            "cluster": "strz",
+            "count": 1
+          },
+          {
+            "cluster": "trz",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 18,
+        "syczace": 22,
+        "nosowe": 26,
+        "plynne": 12
+      },
+      "rhymes": {
+        "exact": 1,
+        "approximate": 0,
+        "internal": 0,
+        "assonance": 0,
+        "alliteration": 0
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 17.7,
+        "median": 24,
+        "min": 3,
+        "max": 26,
+        "distribution": [
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 7.6,
+        "meanSyllables": 12.9,
+        "distribution": [
+          0,
+          0,
+          0,
+          2,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          3,
+          0,
+          0,
+          1
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 1,
+        "interrogative": 2,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 1,
+        "noSubject": 1,
+        "noPredicate": 0,
+        "percent": 0.67
+      },
+      "enjambement": {
+        "count": 0,
+        "percent": 0,
+        "positions": []
+      },
+      "wordOrder": {
+        "svo": 0,
+        "inversions": 1,
+        "other": 2,
+        "deviationPercent": 1
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 0,
+        "śmierć": 0,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 90,
+      "estimatedSeconds": 30,
+      "tempoCategory": "umiarkowane"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 9,
+      "VERB": 7,
+      "ADJ": 3,
+      "ADV": 3,
+      "PRON": 5,
+      "ADP": 5,
+      "CCONJ": 2,
+      "SCONJ": 5,
+      "INTJ": 0,
+      "PART": 9,
+      "DET": 2,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.17,
+      "VERB": 0.132,
+      "ADJ": 0.057,
+      "ADV": 0.057,
+      "PRON": 0.094,
+      "ADP": 0.094,
+      "CCONJ": 0.038,
+      "SCONJ": 0.094,
+      "INTJ": 0,
+      "PART": 0.17,
+      "DET": 0.038,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 0,
+      "abstract": 0,
+      "ratio": 0
+    },
+    "verbTenses": {
+      "present": 7,
+      "infinitive": 2
+    },
+    "verbSemantics": {
+      "ruch": 1,
+      "percepcja": 0,
+      "stan": 1,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 1,
+      "oceniajace": 0,
+      "opisowe": 2
+    },
+    "adverbs": {
+      "temporalne": [],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "tak",
+          "count": 1
+        },
+        {
+          "word": "tam",
+          "count": 1
+        },
+        {
+          "word": "nowo",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 0,
+      "ty": 0,
+      "on_ona": 0,
+      "my": 0,
+      "wy": 0,
+      "oni": 1
+    },
+    "negations": {
+      "nie": 3,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 3,
+      "percentSentences": 1
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 17.7,
+      "median": 24,
+      "min": 3,
+      "max": 26,
+      "distribution": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 7.6,
+      "meanSyllables": 12.9,
+      "distribution": [
+        0,
+        0,
+        0,
+        2,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        3,
+        0,
+        0,
+        1
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 1,
+      "interrogative": 2,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 1,
+      "noSubject": 1,
+      "noPredicate": 0,
+      "percent": 0.67
+    },
+    "enjambement": {
+      "count": 0,
+      "percent": 0,
+      "positions": []
+    },
+    "wordOrder": {
+      "svo": 0,
+      "inversions": 1,
+      "other": 2,
+      "deviationPercent": 1
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 89,
+      "consonants": 131,
+      "ratio": 0.68
+    },
+    "consonantClusters": {
+      "count": 9,
+      "top": [
+        {
+          "cluster": "szcz",
+          "count": 2
+        },
+        {
+          "cluster": "wsz",
+          "count": 1
+        },
+        {
+          "cluster": "chrz",
+          "count": 1
+        },
+        {
+          "cluster": "wzr",
+          "count": 1
+        },
+        {
+          "cluster": "wskr",
+          "count": 1
+        },
+        {
+          "cluster": "prz",
+          "count": 1
+        },
+        {
+          "cluster": "strz",
+          "count": 1
+        },
+        {
+          "cluster": "trz",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 18,
+      "syczace": 22,
+      "nosowe": 26,
+      "plynne": 12
+    },
+    "rhymes": {
+      "exact": 1,
+      "approximate": 0,
+      "internal": 0,
+      "assonance": 0,
+      "alliteration": 0
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        7
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 90,
+      "estimatedSeconds": 30,
+      "tempoCategory": "umiarkowane"
+    },
+    "regularity": {
+      "type": "polregularny",
+      "regularityScore": 0.5
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Biblia",
+          "reference": "Gwiazda Betlejemska",
+          "evidence": "motyw gwiazdy jako znaku, przewodnika duchowego"
+        },
+        {
+          "source": "mitologia",
+          "reference": "gwiazda jako symbol transcendencji",
+          "evidence": "nie nazwane jeszcze słońce"
+        },
+        {
+          "source": "Rimbaud",
+          "reference": "narodziny w języku",
+          "evidence": "potrzeba w mowie / Urodzić się na nowo"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.8,
+        "baudelaire": 0.3,
+        "bursa": 0.2,
+        "stachura": 0.4,
+        "grochowiak": 0.1,
+        "bialoszewski": 0.2,
+        "rozewicz": 0.2
+      }
+    },
+    "space": {
+      "type": "otwarta",
+      "evidence": "przestrzeń kosmiczna, lot chrząszcza wzroku przez przestrzeń",
+      "openClosedRatio": 0.9
+    },
+    "timeOfDay": {
+      "period": "noc",
+      "season": "nieokreslona",
+      "evidence": "ciemność sugerowana przez 'ciemny chrząszcz wzroku', gwiazda widoczna w ciemności"
+    },
+    "motion": {
+      "movement": 8,
+      "stillness": 2,
+      "dynamism": 0.8,
+      "evidence": "chrząszcz wzroku 'leci na wskroś przestrzeni nie wytyczoną drogą'"
+    },
+    "imageryDensity": {
+      "metaphors": 3,
+      "comparisons": 0,
+      "personifications": 1,
+      "hyperboles": 0,
+      "per100words": 9.5
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.7,
+      "creationLevel": 0.8,
+      "ironicDistance": 0.1,
+      "autobiographicSignals": [
+        "to wszak wiem",
+        "o którym wiem",
+        "potrzeba w mowie / Urodzić się na nowo"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "tęsknota",
+      "secondary": "melancholia",
+      "intensity": 0.7
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "liczne formy pierwszoosobowe: 'to wszak wiem', 'wzroku', 'O którym wiem'"
+    },
+    "addressee": {
+      "type": "siebie",
+      "evidence": "pytania retoryczne kierowane do własnej świadomości: 'Czy to już...', 'kto czy co'"
+    },
+    "metaphors": [
+      {
+        "source": "chrząszcz",
+        "target": "wzrok",
+        "example": "ciemny chrząszcz wzroku"
+      },
+      {
+        "source": "lot owada",
+        "target": "proces patrzenia",
+        "example": "na wskroś przestrzeni na to leci"
+      },
+      {
+        "source": "słońce",
+        "target": "obiekt pożądania/prawda",
+        "example": "nie nazwane jeszcze słońce"
+      }
+    ],
+    "temperature": {
+      "value": 0.4,
+      "label": "chłodne oczekiwanie"
+    },
+    "senses": {
+      "wzrok": 5,
+      "sluch": 0,
+      "dotyk": 0,
+      "smak": 0,
+      "zapach": 0
+    },
+    "autodestruction": {
+      "level": 0.2,
+      "signals": [
+        "potrzeba radykalnej przemiany: 'Urodzić się na nowo'"
+      ]
+    }
+  }
+}

@@ -1,0 +1,830 @@
+{
+  "id": "groteska-odjazdu",
+  "title": "Groteska odjazdu",
+  "wordCount": 55,
+  "lineCount": 10,
+  "uniqueWords": 53,
+  "vocabularyRichness": 0.964,
+  "avgWordsPerLine": 5.5,
+  "wordsPerLineDistribution": [
+    6,
+    6,
+    5,
+    5,
+    6,
+    5,
+    3,
+    5,
+    9,
+    5
+  ],
+  "wordFrequencies": [
+    [
+      "zamiast",
+      1
+    ],
+    [
+      "mózgu",
+      1
+    ],
+    [
+      "płonącą",
+      1
+    ],
+    [
+      "różę",
+      1
+    ],
+    [
+      "chirurg",
+      1
+    ],
+    [
+      "sprawił",
+      1
+    ],
+    [
+      "demiurgiem",
+      1
+    ],
+    [
+      "ręce",
+      1
+    ],
+    [
+      "boków",
+      1
+    ],
+    [
+      "przycisnąłem",
+      1
+    ],
+    [
+      "mądry",
+      1
+    ],
+    [
+      "majster",
+      1
+    ],
+    [
+      "stosownie",
+      1
+    ],
+    [
+      "odgiął",
+      1
+    ],
+    [
+      "dłoni",
+      1
+    ],
+    [
+      "lotki",
+      1
+    ],
+    [
+      "reaktorze",
+      1
+    ],
+    [
+      "brzucha",
+      1
+    ],
+    [
+      "warzy",
+      1
+    ],
+    [
+      "noc",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 5,
+    "period": 6,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 1,
+    "semicolon": 1
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 1,
+  "negationWords": [
+    "nic"
+  ],
+  "pronounDistribution": {
+    "ja": 1,
+    "ty": 0,
+    "on_ona": 0,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 2,
+    "smierc": 0,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 1,
+    "bol": 0
+  },
+  "anaphors": [],
+  "firstWord": "już",
+  "lastWord": "podłogi",
+  "avgWordLength": 5.53,
+  "wordLengthDistribution": {
+    "1-3": 13,
+    "6-7": 12,
+    "4-5": 19,
+    "10+": 4,
+    "8-9": 7
+  },
+  "bigrams": [
+    [
+      "zamiast mózgu",
+      1
+    ],
+    [
+      "mózgu mam",
+      1
+    ],
+    [
+      "mam płonącą",
+      1
+    ],
+    [
+      "płonącą różę",
+      1
+    ],
+    [
+      "różę chirurg",
+      1
+    ],
+    [
+      "sprawił chyba",
+      1
+    ],
+    [
+      "demiurgiem ręce",
+      1
+    ],
+    [
+      "boków przycisnąłem",
+      1
+    ]
+  ],
+  "poemWords": [
+    "zamiast",
+    "mózgu",
+    "płonącą",
+    "różę",
+    "chirurg",
+    "sprawił",
+    "demiurgiem",
+    "ręce",
+    "boków",
+    "przycisnąłem",
+    "mądry",
+    "majster",
+    "stosownie",
+    "odgiął",
+    "dłoni",
+    "lotki",
+    "reaktorze",
+    "brzucha",
+    "warzy",
+    "noc",
+    "nuklearna",
+    "fizycy",
+    "straży",
+    "astronomowie",
+    "pewną",
+    "trajektorię",
+    "zliczyli",
+    "wenus",
+    "myje",
+    "krocze",
+    "nic",
+    "stopy",
+    "wielkimi",
+    "gwoźdźmi",
+    "przybił",
+    "podłogi"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 19,
+        "VERB": 8,
+        "ADJ": 5,
+        "ADV": 2,
+        "PRON": 7,
+        "ADP": 6,
+        "CCONJ": 1,
+        "SCONJ": 1,
+        "INTJ": 0,
+        "PART": 3,
+        "DET": 1,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.328,
+        "VERB": 0.138,
+        "ADJ": 0.086,
+        "ADV": 0.034,
+        "PRON": 0.121,
+        "ADP": 0.103,
+        "CCONJ": 0.017,
+        "SCONJ": 0.017,
+        "INTJ": 0,
+        "PART": 0.052,
+        "DET": 0.017,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 1,
+        "abstract": 0,
+        "ratio": 1
+      },
+      "verbTenses": {
+        "present": 3,
+        "past": 6
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 1,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 0,
+        "opisowe": 5
+      },
+      "adverbs": {
+        "temporalne": [],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "stosownie",
+            "count": 1
+          },
+          {
+            "word": "gdzie",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 1,
+        "ty": 0,
+        "on_ona": 0,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 0,
+        "nic": 1,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 1,
+        "percentSentences": 0.12
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 127,
+        "consonants": 192,
+        "ratio": 0.66
+      },
+      "consonantClusters": {
+        "count": 12,
+        "top": [
+          {
+            "cluster": "prz",
+            "count": 3
+          },
+          {
+            "cluster": "str",
+            "count": 2
+          },
+          {
+            "cluster": "spr",
+            "count": 1
+          },
+          {
+            "cluster": "jst",
+            "count": 1
+          },
+          {
+            "cluster": "brz",
+            "count": 1
+          },
+          {
+            "cluster": "gdz",
+            "count": 1
+          },
+          {
+            "cluster": "wsz",
+            "count": 1
+          },
+          {
+            "cluster": "stk",
+            "count": 1
+          },
+          {
+            "cluster": "źdźm",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 13,
+        "syczace": 33,
+        "nosowe": 38,
+        "plynne": 36
+      },
+      "rhymes": {
+        "exact": 0,
+        "approximate": 0,
+        "internal": 1,
+        "assonance": 0,
+        "alliteration": 0
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 7.2,
+        "median": 7,
+        "min": 1,
+        "max": 14,
+        "distribution": [
+          0,
+          1,
+          1,
+          0,
+          2,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 4.8,
+        "meanSyllables": 10.7,
+        "distribution": [
+          0,
+          1,
+          1,
+          1,
+          0,
+          5,
+          3,
+          0,
+          0,
+          1
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 8,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 2,
+        "noSubject": 1,
+        "noPredicate": 0,
+        "percent": 0.38
+      },
+      "enjambement": {
+        "count": 0,
+        "percent": 0,
+        "positions": []
+      },
+      "wordOrder": {
+        "svo": 2,
+        "inversions": 3,
+        "other": 2,
+        "deviationPercent": 0.71
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 2,
+        "śmierć": 0,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 1,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 128,
+      "estimatedSeconds": 43,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 19,
+      "VERB": 8,
+      "ADJ": 5,
+      "ADV": 2,
+      "PRON": 7,
+      "ADP": 6,
+      "CCONJ": 1,
+      "SCONJ": 1,
+      "INTJ": 0,
+      "PART": 3,
+      "DET": 1,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.328,
+      "VERB": 0.138,
+      "ADJ": 0.086,
+      "ADV": 0.034,
+      "PRON": 0.121,
+      "ADP": 0.103,
+      "CCONJ": 0.017,
+      "SCONJ": 0.017,
+      "INTJ": 0,
+      "PART": 0.052,
+      "DET": 0.017,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 1,
+      "abstract": 0,
+      "ratio": 1
+    },
+    "verbTenses": {
+      "present": 3,
+      "past": 6
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 1,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 0,
+      "opisowe": 5
+    },
+    "adverbs": {
+      "temporalne": [],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "stosownie",
+          "count": 1
+        },
+        {
+          "word": "gdzie",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 1,
+      "ty": 0,
+      "on_ona": 0,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 0,
+      "nic": 1,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 1,
+      "percentSentences": 0.12
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 7.2,
+      "median": 7,
+      "min": 1,
+      "max": 14,
+      "distribution": [
+        0,
+        1,
+        1,
+        0,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 4.8,
+      "meanSyllables": 10.7,
+      "distribution": [
+        0,
+        1,
+        1,
+        1,
+        0,
+        5,
+        3,
+        0,
+        0,
+        1
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 8,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 2,
+      "noSubject": 1,
+      "noPredicate": 0,
+      "percent": 0.38
+    },
+    "enjambement": {
+      "count": 0,
+      "percent": 0,
+      "positions": []
+    },
+    "wordOrder": {
+      "svo": 2,
+      "inversions": 3,
+      "other": 2,
+      "deviationPercent": 0.71
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 127,
+      "consonants": 192,
+      "ratio": 0.66
+    },
+    "consonantClusters": {
+      "count": 12,
+      "top": [
+        {
+          "cluster": "prz",
+          "count": 3
+        },
+        {
+          "cluster": "str",
+          "count": 2
+        },
+        {
+          "cluster": "spr",
+          "count": 1
+        },
+        {
+          "cluster": "jst",
+          "count": 1
+        },
+        {
+          "cluster": "brz",
+          "count": 1
+        },
+        {
+          "cluster": "gdz",
+          "count": 1
+        },
+        {
+          "cluster": "wsz",
+          "count": 1
+        },
+        {
+          "cluster": "stk",
+          "count": 1
+        },
+        {
+          "cluster": "źdźm",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 13,
+      "syczace": 33,
+      "nosowe": 38,
+      "plynne": 36
+    },
+    "rhymes": {
+      "exact": 0,
+      "approximate": 0,
+      "internal": 1,
+      "assonance": 0,
+      "alliteration": 0
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        12
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 128,
+      "estimatedSeconds": 43,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "polregularny",
+      "regularityScore": 0.66
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Biblia",
+          "reference": "ukrzyżowanie Chrystusa",
+          "evidence": "ktoś mi stopy / Wielkimi gwoźdźmi przybił do podłogi"
+        },
+        {
+          "source": "mitologia",
+          "reference": "Wenus",
+          "evidence": "Wenus sobie myje krocze"
+        },
+        {
+          "source": "inne",
+          "reference": "demiurg platońsko-gnostycki",
+          "evidence": "Chirurg, co sprawił, chyba był demiurgiem"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.8,
+        "baudelaire": 0.6,
+        "bursa": 0.3,
+        "stachura": 0.7,
+        "grochowiak": 0.5,
+        "bialoszewski": 0.2,
+        "rozewicz": 0.4
+      }
+    },
+    "space": {
+      "type": "zamknieta",
+      "evidence": "stopy przybite do podłogi, reaktor brzucha - przestrzeń ciała jako więzienie",
+      "openClosedRatio": 0.2
+    },
+    "timeOfDay": {
+      "period": "noc",
+      "season": "nieokreslona",
+      "evidence": "Noc nuklearna"
+    },
+    "motion": {
+      "movement": 2,
+      "stillness": 8,
+      "dynamism": 0.2,
+      "evidence": "stopy przybite gwoźdźmi do podłogi - całkowite unieruchomienie"
+    },
+    "imageryDensity": {
+      "metaphors": 6,
+      "comparisons": 1,
+      "personifications": 2,
+      "hyperboles": 3,
+      "per100words": 24
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.9,
+      "creationLevel": 0.8,
+      "ironicDistance": 0.3,
+      "autobiographicSignals": [
+        "mam płonącą różę",
+        "ręce do boków przycisnąłem",
+        "mi stopy przybił"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "ironia",
+      "secondary": "rozpacz",
+      "intensity": 0.8
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "podmiot liryczny używa pierwszej osoby: 'mam płonącą różę', 'przycisnąłem', 'mi stopy'"
+    },
+    "addressee": {
+      "type": "nikt",
+      "evidence": "brak bezpośredniego zwrotu do kogokolwiek, monolog wewnętrzny"
+    },
+    "metaphors": [
+      {
+        "source": "mózg",
+        "target": "płonąca róża",
+        "example": "zamiast mózgu mam płonącą różę"
+      },
+      {
+        "source": "brzuch",
+        "target": "reaktor nuklearny",
+        "example": "przy reaktorze brzucha, gdzie się warzy / Noc nuklearna"
+      },
+      {
+        "source": "dłonie",
+        "target": "lotki",
+        "example": "odgiął dłoni lotki"
+      },
+      {
+        "source": "unieruchomienie",
+        "target": "ukrzyżowanie",
+        "example": "stopy / Wielkimi gwoźdźmi przybił do podłogi"
+      }
+    ],
+    "temperature": {
+      "value": 0.7,
+      "label": "gorące - płonąca róża, nuklearna noc, ale z ironicznym dystansem"
+    },
+    "senses": {
+      "wzrok": 5,
+      "sluch": 1,
+      "dotyk": 4,
+      "smak": 0,
+      "zapach": 0
+    },
+    "autodestruction": {
+      "level": 0.9,
+      "signals": [
+        "płonący mózg",
+        "chirurgiczne przekształcenia ciała",
+        "nuklearna noc w brzuchu",
+        "przybicie stóp gwoźdźmi",
+        "niemożność ruchu"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": null,
+    "dfaAlpha": -0.932,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -0.7520386983881372
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -1.020159479864557
+      }
+    ],
+    "seriesLength": 10,
+    "series": [
+      6,
+      6,
+      5,
+      5,
+      6,
+      5,
+      3,
+      5,
+      9,
+      5
+    ]
+  }
+}

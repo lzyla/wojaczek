@@ -1,0 +1,989 @@
+{
+  "id": "powiesc-nocy-zimowej",
+  "title": "Powieść nocy zimowej",
+  "wordCount": 102,
+  "lineCount": 17,
+  "uniqueWords": 81,
+  "vocabularyRichness": 0.794,
+  "avgWordsPerLine": 6,
+  "wordsPerLineDistribution": [
+    7,
+    6,
+    9,
+    4,
+    7,
+    7,
+    6,
+    5,
+    6,
+    6,
+    8,
+    5,
+    7,
+    6,
+    8,
+    3,
+    2
+  ],
+  "wordFrequencies": [
+    [
+      "idzie",
+      6
+    ],
+    [
+      "dziewczyna",
+      4
+    ],
+    [
+      "krwi",
+      3
+    ],
+    [
+      "senna",
+      1
+    ],
+    [
+      "ciemna",
+      1
+    ],
+    [
+      "krew",
+      1
+    ],
+    [
+      "równiną",
+      1
+    ],
+    [
+      "białą",
+      1
+    ],
+    [
+      "czystej",
+      1
+    ],
+    [
+      "kartki",
+      1
+    ],
+    [
+      "śnieg",
+      1
+    ],
+    [
+      "wiedzie",
+      1
+    ],
+    [
+      "błędna",
+      1
+    ],
+    [
+      "gwiazda",
+      1
+    ],
+    [
+      "płonie",
+      1
+    ],
+    [
+      "niesie",
+      1
+    ],
+    [
+      "drogi",
+      1
+    ],
+    [
+      "powieść",
+      1
+    ],
+    [
+      "długo",
+      1
+    ],
+    [
+      "długopisie",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 2,
+    "period": 0,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 5,
+    "colon": 0,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 1,
+  "negationWords": [
+    "nie"
+  ],
+  "pronounDistribution": {
+    "ja": 0,
+    "ty": 0,
+    "on_ona": 2,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 1,
+    "smierc": 1,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 1,
+    "bol": 0
+  },
+  "anaphors": [
+    [
+      "idzie",
+      3
+    ]
+  ],
+  "firstWord": "idzie",
+  "lastWord": "grudzień",
+  "avgWordLength": 5.09,
+  "wordLengthDistribution": {
+    "4-5": 29,
+    "10+": 7,
+    "1-3": 29,
+    "6-7": 30,
+    "8-9": 7
+  },
+  "bigrams": [
+    [
+      "idzie dziewczyna",
+      3
+    ],
+    [
+      "dziewczyna senna",
+      1
+    ],
+    [
+      "krew idzie",
+      1
+    ],
+    [
+      "idzie równiną",
+      1
+    ],
+    [
+      "równiną białą",
+      1
+    ],
+    [
+      "białą czystej",
+      1
+    ],
+    [
+      "czystej kartki",
+      1
+    ],
+    [
+      "kartki śnieg",
+      1
+    ],
+    [
+      "śnieg wiedzie",
+      1
+    ]
+  ],
+  "poemWords": [
+    "idzie",
+    "dziewczyna",
+    "senna",
+    "ciemna",
+    "krew",
+    "równiną",
+    "białą",
+    "czystej",
+    "kartki",
+    "śnieg",
+    "wiedzie",
+    "błędna",
+    "gwiazda",
+    "krwi",
+    "płonie",
+    "niesie",
+    "drogi",
+    "powieść",
+    "długo",
+    "długopisie",
+    "dłuższy",
+    "czasu",
+    "puls",
+    "grzany",
+    "pobożną",
+    "dłonią",
+    "zamarza",
+    "czas",
+    "zegarze",
+    "przeto",
+    "mimo",
+    "rośnie",
+    "kartek",
+    "zapisanych",
+    "stos",
+    "czasem",
+    "księżyc",
+    "gwieździe",
+    "złość",
+    "zalęgnie",
+    "nogach",
+    "ścieknie",
+    "niebaczna",
+    "granice",
+    "cła",
+    "wierna",
+    "miłości",
+    "ślepej",
+    "ciemną",
+    "plamkę",
+    "zaschłej",
+    "świcie",
+    "znajdzie",
+    "autor",
+    "prześcieradle",
+    "grudzień",
+    "1969"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 35,
+        "VERB": 11,
+        "ADJ": 15,
+        "ADV": 9,
+        "PRON": 6,
+        "ADP": 9,
+        "CCONJ": 5,
+        "SCONJ": 2,
+        "INTJ": 0,
+        "PART": 6,
+        "DET": 1,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.343,
+        "VERB": 0.108,
+        "ADJ": 0.147,
+        "ADV": 0.088,
+        "PRON": 0.059,
+        "ADP": 0.088,
+        "CCONJ": 0.049,
+        "SCONJ": 0.02,
+        "INTJ": 0,
+        "PART": 0.059,
+        "DET": 0.01,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 4,
+        "abstract": 4,
+        "ratio": 0.5
+      },
+      "verbTenses": {
+        "present": 10,
+        "future": 1
+      },
+      "verbSemantics": {
+        "ruch": 3,
+        "percepcja": 0,
+        "stan": 0,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 2,
+        "oceniajace": 0,
+        "opisowe": 13
+      },
+      "adverbs": {
+        "temporalne": [
+          "wciąż"
+        ],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "gdy",
+            "count": 2
+          },
+          {
+            "word": "jak",
+            "count": 1
+          },
+          {
+            "word": "długo",
+            "count": 1
+          },
+          {
+            "word": "wtedy",
+            "count": 1
+          },
+          {
+            "word": "wciąż",
+            "count": 1
+          },
+          {
+            "word": "mimo",
+            "count": 1
+          },
+          {
+            "word": "zalęgnie",
+            "count": 1
+          },
+          {
+            "word": "tak",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 0,
+        "ty": 0,
+        "on_ona": 4,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 1,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 1,
+        "percentSentences": 0.17
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 218,
+        "consonants": 297,
+        "ratio": 0.73
+      },
+      "consonantClusters": {
+        "count": 16,
+        "top": [
+          {
+            "cluster": "wcz",
+            "count": 4
+          },
+          {
+            "cluster": "krw",
+            "count": 3
+          },
+          {
+            "cluster": "prz",
+            "count": 2
+          },
+          {
+            "cluster": "rtk",
+            "count": 1
+          },
+          {
+            "cluster": "ższ",
+            "count": 1
+          },
+          {
+            "cluster": "grz",
+            "count": 1
+          },
+          {
+            "cluster": "źdz",
+            "count": 1
+          },
+          {
+            "cluster": "czn",
+            "count": 1
+          },
+          {
+            "cluster": "schł",
+            "count": 1
+          },
+          {
+            "cluster": "jdz",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 24,
+        "syczace": 49,
+        "nosowe": 56,
+        "plynne": 37
+      },
+      "rhymes": {
+        "exact": 1,
+        "approximate": 2,
+        "internal": 0,
+        "assonance": 1,
+        "alliteration": 0
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 17,
+        "median": 15,
+        "min": 5,
+        "max": 38,
+        "distribution": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 6.3,
+        "meanSyllables": 13.3,
+        "distribution": [
+          0,
+          0,
+          1,
+          1,
+          1,
+          2,
+          3,
+          4,
+          3,
+          2
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 6,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 1,
+        "noSubject": 1,
+        "noPredicate": 0,
+        "percent": 0.33
+      },
+      "enjambement": {
+        "count": 1,
+        "percent": 0.06,
+        "positions": [
+          5
+        ]
+      },
+      "wordOrder": {
+        "svo": 1,
+        "inversions": 3,
+        "other": 2,
+        "deviationPercent": 0.83
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 3,
+        "śmierć": 2,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 1,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 226,
+      "estimatedSeconds": 75,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 35,
+      "VERB": 11,
+      "ADJ": 15,
+      "ADV": 9,
+      "PRON": 6,
+      "ADP": 9,
+      "CCONJ": 5,
+      "SCONJ": 2,
+      "INTJ": 0,
+      "PART": 6,
+      "DET": 1,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.343,
+      "VERB": 0.108,
+      "ADJ": 0.147,
+      "ADV": 0.088,
+      "PRON": 0.059,
+      "ADP": 0.088,
+      "CCONJ": 0.049,
+      "SCONJ": 0.02,
+      "INTJ": 0,
+      "PART": 0.059,
+      "DET": 0.01,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 4,
+      "abstract": 4,
+      "ratio": 0.5
+    },
+    "verbTenses": {
+      "present": 10,
+      "future": 1
+    },
+    "verbSemantics": {
+      "ruch": 3,
+      "percepcja": 0,
+      "stan": 0,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 2,
+      "oceniajace": 0,
+      "opisowe": 13
+    },
+    "adverbs": {
+      "temporalne": [
+        "wciąż"
+      ],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "gdy",
+          "count": 2
+        },
+        {
+          "word": "jak",
+          "count": 1
+        },
+        {
+          "word": "długo",
+          "count": 1
+        },
+        {
+          "word": "wtedy",
+          "count": 1
+        },
+        {
+          "word": "wciąż",
+          "count": 1
+        },
+        {
+          "word": "mimo",
+          "count": 1
+        },
+        {
+          "word": "zalęgnie",
+          "count": 1
+        },
+        {
+          "word": "tak",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 0,
+      "ty": 0,
+      "on_ona": 4,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 1,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 1,
+      "percentSentences": 0.17
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 17,
+      "median": 15,
+      "min": 5,
+      "max": 38,
+      "distribution": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 6.3,
+      "meanSyllables": 13.3,
+      "distribution": [
+        0,
+        0,
+        1,
+        1,
+        1,
+        2,
+        3,
+        4,
+        3,
+        2
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 6,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 1,
+      "noSubject": 1,
+      "noPredicate": 0,
+      "percent": 0.33
+    },
+    "enjambement": {
+      "count": 1,
+      "percent": 0.06,
+      "positions": [
+        5
+      ]
+    },
+    "wordOrder": {
+      "svo": 1,
+      "inversions": 3,
+      "other": 2,
+      "deviationPercent": 0.83
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 218,
+      "consonants": 297,
+      "ratio": 0.73
+    },
+    "consonantClusters": {
+      "count": 16,
+      "top": [
+        {
+          "cluster": "wcz",
+          "count": 4
+        },
+        {
+          "cluster": "krw",
+          "count": 3
+        },
+        {
+          "cluster": "prz",
+          "count": 2
+        },
+        {
+          "cluster": "rtk",
+          "count": 1
+        },
+        {
+          "cluster": "ższ",
+          "count": 1
+        },
+        {
+          "cluster": "grz",
+          "count": 1
+        },
+        {
+          "cluster": "źdz",
+          "count": 1
+        },
+        {
+          "cluster": "czn",
+          "count": 1
+        },
+        {
+          "cluster": "schł",
+          "count": 1
+        },
+        {
+          "cluster": "jdz",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 24,
+      "syczace": 49,
+      "nosowe": 56,
+      "plynne": 37
+    },
+    "rhymes": {
+      "exact": 1,
+      "approximate": 2,
+      "internal": 0,
+      "assonance": 1,
+      "alliteration": 0
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        17
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 226,
+      "estimatedSeconds": 75,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "regularny",
+      "regularityScore": 0.71
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Biblia",
+          "reference": "Gwiazda Betlejemska",
+          "evidence": "błędna gwiazda co we krwi jej płonie"
+        },
+        {
+          "source": "mitologia",
+          "reference": "mit wędrówki duszy",
+          "evidence": "Idzie dziewczyna senna i ciemna jej krew / Idzie równiną białą"
+        },
+        {
+          "source": "Rimbaud",
+          "reference": "teoriaясновидения поэта",
+          "evidence": "dziewczyna senna i ciemna jej krew - oniryczna wizyjność"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.8,
+        "baudelaire": 0.3,
+        "bursa": 0.2,
+        "stachura": 0.1,
+        "grochowiak": 0.4,
+        "bialoszewski": 0.1,
+        "rozewicz": 0.2
+      }
+    },
+    "space": {
+      "type": "otwarta",
+      "evidence": "Idzie równiną białą - przestrzeń nieograniczona, metafizyczna",
+      "openClosedRatio": 0.9
+    },
+    "timeOfDay": {
+      "period": "noc",
+      "season": "zima",
+      "evidence": "Księżyc gwieździe na złość się zalęgnie / o świcie znajdzie / Grudzień 1969"
+    },
+    "motion": {
+      "movement": 9,
+      "stillness": 2,
+      "dynamism": 0.8,
+      "evidence": "siedmiokrotne użycie słowa 'idzie', ciągły ruch dziewczyny przez przestrzeń"
+    },
+    "imageryDensity": {
+      "metaphors": 8,
+      "comparisons": 2,
+      "personifications": 4,
+      "hyperboles": 1,
+      "per100words": 18.75
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.9,
+      "creationLevel": 0.8,
+      "ironicDistance": 0.1,
+      "autobiographicSignals": [
+        "Autor na prześcieradle",
+        "data: Grudzień 1969",
+        "długopis w dłoni poety"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "melancholia",
+      "secondary": "tęsknota",
+      "intensity": 0.7
+    },
+    "subjectPresence": {
+      "type": "ukryte",
+      "evidence": "Podmiot ukryty za figurą Autora w ostatnich wersach, obserwuje dziewczynę jako kreację literacką"
+    },
+    "addressee": {
+      "type": "czytelnik",
+      "evidence": "Wiersz ma charakter narracyjny, opowiada historię dziewczyny czytelnikom"
+    },
+    "metaphors": [
+      {
+        "source": "równina biała",
+        "target": "czysta kartka",
+        "example": "Idzie równiną białą – czystej kartki śnieg"
+      },
+      {
+        "source": "błędna gwiazda",
+        "target": "inspiracja twórcza",
+        "example": "Wiedzie ją błędna gwiazda co we krwi jej płonie"
+      },
+      {
+        "source": "długopis",
+        "target": "narzędzie kreacji",
+        "example": "Lecz w długopisie inny – dłuższy czasu puls"
+      },
+      {
+        "source": "ciemna plamka krwi",
+        "target": "ślad twórczości",
+        "example": "Ciemną plamkę już zaschłej krwi o świcie znajdzie Autor na prześcieradle"
+      }
+    ],
+    "temperature": {
+      "value": 0.3,
+      "label": "chłodna melancholia z nutą intymności"
+    },
+    "senses": {
+      "wzrok": 5,
+      "sluch": 1,
+      "dotyk": 3,
+      "smak": 1,
+      "zapach": 0
+    },
+    "autodestruction": {
+      "level": 0.6,
+      "signals": [
+        "ciemna krew",
+        "błędna gwiazda",
+        "krew ściekająca po nogach",
+        "zaschła krew na prześcieradle"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 0.41,
+    "dfaAlpha": 0.803,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -0.8573992140459632
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -0.21658955023807414
+      },
+      {
+        "logWin": 1.6094379124341003,
+        "logFluc": -0.48313273486130065
+      }
+    ],
+    "seriesLength": 17,
+    "series": [
+      7,
+      6,
+      9,
+      4,
+      7,
+      7,
+      6,
+      5,
+      6,
+      6,
+      8,
+      5,
+      7,
+      6,
+      8,
+      3,
+      2
+    ]
+  }
+}

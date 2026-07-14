@@ -1,0 +1,910 @@
+{
+  "id": "osoby-zwierzat-wspanialych",
+  "title": "Osoby zwierząt wspaniałych",
+  "wordCount": 87,
+  "lineCount": 25,
+  "uniqueWords": 72,
+  "vocabularyRichness": 0.828,
+  "avgWordsPerLine": 3.48,
+  "wordsPerLineDistribution": [
+    3,
+    3,
+    2,
+    3,
+    1,
+    2,
+    5,
+    4,
+    5,
+    6,
+    5,
+    3,
+    1,
+    2,
+    2,
+    2,
+    5,
+    5,
+    4,
+    7,
+    3,
+    2,
+    3,
+    1,
+    8
+  ],
+  "wordFrequencies": [
+    [
+      "siedzę",
+      2
+    ],
+    [
+      "skwerze",
+      2
+    ],
+    [
+      "męczą",
+      2
+    ],
+    [
+      "wzdęcia",
+      2
+    ],
+    [
+      "mogą",
+      2
+    ],
+    [
+      "panie",
+      2
+    ],
+    [
+      "ballada",
+      1
+    ],
+    [
+      "gównie",
+      1
+    ],
+    [
+      "któryś",
+      1
+    ],
+    [
+      "przechodniu",
+      1
+    ],
+    [
+      "kolejarzu",
+      1
+    ],
+    [
+      "czapce",
+      1
+    ],
+    [
+      "nauczycielu",
+      1
+    ],
+    [
+      "inteligentnie",
+      1
+    ],
+    [
+      "wyglądający",
+      1
+    ],
+    [
+      "starszy",
+      1
+    ],
+    [
+      "obywatelu",
+      1
+    ],
+    [
+      "kobieto",
+      1
+    ],
+    [
+      "brzemienna",
+      1
+    ],
+    [
+      "usta",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 2,
+    "period": 0,
+    "question": 2,
+    "exclamation": 2,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 2,
+    "semicolon": 0
+  },
+  "questionCount": 2,
+  "exclamationCount": 2,
+  "negationCount": 2,
+  "negationWords": [
+    "nie"
+  ],
+  "pronounDistribution": {
+    "ja": 2,
+    "ty": 2,
+    "on_ona": 1,
+    "my": 0,
+    "wy": 1,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 1,
+    "smierc": 0,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 1
+  },
+  "anaphors": [
+    [
+      "siedzę",
+      2
+    ],
+    [
+      "mogę",
+      2
+    ],
+    [
+      "męczą",
+      2
+    ],
+    [
+      "mogą",
+      2
+    ]
+  ],
+  "firstWord": "ballada",
+  "lastWord": "ludzi",
+  "avgWordLength": 5.64,
+  "wordLengthDistribution": {
+    "6-7": 21,
+    "1-3": 21,
+    "4-5": 25,
+    "10+": 14,
+    "8-9": 6
+  },
+  "bigrams": [
+    [
+      "skwerze mogę",
+      2
+    ],
+    [
+      "wzdęcia mogą",
+      2
+    ],
+    [
+      "gównie siedzę",
+      1
+    ],
+    [
+      "mogą któryś",
+      1
+    ],
+    [
+      "przechodniu kolejarzu",
+      1
+    ]
+  ],
+  "poemWords": [
+    "ballada",
+    "gównie",
+    "siedzę",
+    "skwerze",
+    "męczą",
+    "wzdęcia",
+    "mogą",
+    "któryś",
+    "przechodniu",
+    "kolejarzu",
+    "czapce",
+    "nauczycielu",
+    "inteligentnie",
+    "wyglądający",
+    "starszy",
+    "obywatelu",
+    "kobieto",
+    "brzemienna",
+    "usta",
+    "masz",
+    "krzyk",
+    "rozkraczył",
+    "aaaa",
+    "panie",
+    "plutonowy",
+    "księże",
+    "proboszczu",
+    "kurwisynku",
+    "robotniku",
+    "chłopie",
+    "listonoszko",
+    "przyjacielu",
+    "towarzyszu",
+    "kolesiu",
+    "przodowniku",
+    "pracy",
+    "żydzie",
+    "drogi",
+    "ojcze",
+    "kochana",
+    "mamo",
+    "bracie",
+    "siostro",
+    "przełożona",
+    "redaktorze",
+    "studentko",
+    "spodniach",
+    "której",
+    "poci",
+    "krocze",
+    "mówię",
+    "polak",
+    "ludzi"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 26,
+        "VERB": 15,
+        "ADJ": 6,
+        "ADV": 2,
+        "PRON": 7,
+        "ADP": 8,
+        "CCONJ": 5,
+        "SCONJ": 3,
+        "INTJ": 1,
+        "PART": 3,
+        "DET": 1,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.299,
+        "VERB": 0.172,
+        "ADJ": 0.069,
+        "ADV": 0.023,
+        "PRON": 0.08,
+        "ADP": 0.092,
+        "CCONJ": 0.057,
+        "SCONJ": 0.034,
+        "INTJ": 0.011,
+        "PART": 0.034,
+        "DET": 0.011,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 1,
+        "abstract": 0,
+        "ratio": 1
+      },
+      "verbTenses": {
+        "present": 14,
+        "past": 2
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 1,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 1,
+        "cialo": 1
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 0,
+        "opisowe": 6
+      },
+      "adverbs": {
+        "temporalne": [],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "siostro",
+            "count": 1
+          },
+          {
+            "word": "studentko",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 2,
+        "ty": 2,
+        "on_ona": 0,
+        "my": 0,
+        "wy": 1,
+        "oni": 1
+      },
+      "negations": {
+        "nie": 2,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 2,
+        "percentSentences": 0.15
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 215,
+        "consonants": 276,
+        "ratio": 0.78
+      },
+      "consonantClusters": {
+        "count": 19,
+        "top": [
+          {
+            "cluster": "prz",
+            "count": 4
+          },
+          {
+            "cluster": "skw",
+            "count": 2
+          },
+          {
+            "cluster": "wzd",
+            "count": 2
+          },
+          {
+            "cluster": "ntn",
+            "count": 1
+          },
+          {
+            "cluster": "rsz",
+            "count": 1
+          },
+          {
+            "cluster": "brz",
+            "count": 1
+          },
+          {
+            "cluster": "krz",
+            "count": 1
+          },
+          {
+            "cluster": "zkr",
+            "count": 1
+          },
+          {
+            "cluster": "szcz",
+            "count": 1
+          },
+          {
+            "cluster": "chł",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 27,
+        "syczace": 38,
+        "nosowe": 56,
+        "plynne": 42
+      },
+      "rhymes": {
+        "exact": 3,
+        "approximate": 5,
+        "internal": 0,
+        "assonance": 0,
+        "alliteration": 6
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 6.7,
+        "median": 4,
+        "min": 2,
+        "max": 21,
+        "distribution": [
+          0,
+          0,
+          2,
+          3,
+          2,
+          1,
+          0,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 3.5,
+        "meanSyllables": 8.7,
+        "distribution": [
+          0,
+          3,
+          6,
+          6,
+          2,
+          5,
+          1,
+          1,
+          1
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 9,
+        "interrogative": 2,
+        "imperative": 0,
+        "exclamatory": 2
+      },
+      "ellipsis": {
+        "incomplete": 1,
+        "noSubject": 7,
+        "noPredicate": 0,
+        "percent": 0.62
+      },
+      "enjambement": {
+        "count": 3,
+        "percent": 0.12,
+        "positions": [
+          13,
+          14,
+          15
+        ]
+      },
+      "wordOrder": {
+        "svo": 2,
+        "inversions": 2,
+        "other": 9,
+        "deviationPercent": 0.85
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 1,
+        "śmierć": 0,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 0,
+        "ból": 1
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 217,
+      "estimatedSeconds": 72,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 26,
+      "VERB": 15,
+      "ADJ": 6,
+      "ADV": 2,
+      "PRON": 7,
+      "ADP": 8,
+      "CCONJ": 5,
+      "SCONJ": 3,
+      "INTJ": 1,
+      "PART": 3,
+      "DET": 1,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.299,
+      "VERB": 0.172,
+      "ADJ": 0.069,
+      "ADV": 0.023,
+      "PRON": 0.08,
+      "ADP": 0.092,
+      "CCONJ": 0.057,
+      "SCONJ": 0.034,
+      "INTJ": 0.011,
+      "PART": 0.034,
+      "DET": 0.011,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 1,
+      "abstract": 0,
+      "ratio": 1
+    },
+    "verbTenses": {
+      "present": 14,
+      "past": 2
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 1,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 1,
+      "cialo": 1
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 0,
+      "opisowe": 6
+    },
+    "adverbs": {
+      "temporalne": [],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "siostro",
+          "count": 1
+        },
+        {
+          "word": "studentko",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 2,
+      "ty": 2,
+      "on_ona": 0,
+      "my": 0,
+      "wy": 1,
+      "oni": 1
+    },
+    "negations": {
+      "nie": 2,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 2,
+      "percentSentences": 0.15
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 6.7,
+      "median": 4,
+      "min": 2,
+      "max": 21,
+      "distribution": [
+        0,
+        0,
+        2,
+        3,
+        2,
+        1,
+        0,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 3.5,
+      "meanSyllables": 8.7,
+      "distribution": [
+        0,
+        3,
+        6,
+        6,
+        2,
+        5,
+        1,
+        1,
+        1
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 9,
+      "interrogative": 2,
+      "imperative": 0,
+      "exclamatory": 2
+    },
+    "ellipsis": {
+      "incomplete": 1,
+      "noSubject": 7,
+      "noPredicate": 0,
+      "percent": 0.62
+    },
+    "enjambement": {
+      "count": 3,
+      "percent": 0.12,
+      "positions": [
+        13,
+        14,
+        15
+      ]
+    },
+    "wordOrder": {
+      "svo": 2,
+      "inversions": 2,
+      "other": 9,
+      "deviationPercent": 0.85
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 215,
+      "consonants": 276,
+      "ratio": 0.78
+    },
+    "consonantClusters": {
+      "count": 19,
+      "top": [
+        {
+          "cluster": "prz",
+          "count": 4
+        },
+        {
+          "cluster": "skw",
+          "count": 2
+        },
+        {
+          "cluster": "wzd",
+          "count": 2
+        },
+        {
+          "cluster": "ntn",
+          "count": 1
+        },
+        {
+          "cluster": "rsz",
+          "count": 1
+        },
+        {
+          "cluster": "brz",
+          "count": 1
+        },
+        {
+          "cluster": "krz",
+          "count": 1
+        },
+        {
+          "cluster": "zkr",
+          "count": 1
+        },
+        {
+          "cluster": "szcz",
+          "count": 1
+        },
+        {
+          "cluster": "chł",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 27,
+      "syczace": 38,
+      "nosowe": 56,
+      "plynne": 42
+    },
+    "rhymes": {
+      "exact": 3,
+      "approximate": 5,
+      "internal": 0,
+      "assonance": 0,
+      "alliteration": 6
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        25
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 217,
+      "estimatedSeconds": 72,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "polregularny",
+      "regularityScore": 0.43
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Rimbaud",
+          "reference": "Une Saison en Enfer",
+          "evidence": "prowokacyjny ton, wulgarność jako forma buntu przeciw mieszczańskości"
+        },
+        {
+          "source": "Baudelaire",
+          "reference": "Fleurs du mal",
+          "evidence": "estetyzacja brzydoty, profanacja jako forma poezji"
+        },
+        {
+          "source": "inne",
+          "reference": "Ballada ludowa",
+          "evidence": "tytuł nawiązuje do formy ballady, ale ją profanuje"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.9,
+        "baudelaire": 0.7,
+        "bursa": 0.3,
+        "stachura": 0.4,
+        "grochowiak": 0.6,
+        "bialoszewski": 0.5,
+        "rozewicz": 0.4
+      }
+    },
+    "space": {
+      "type": "otwarta",
+      "evidence": "skwer jako przestrzeń publiczna, otwarta na wszystkich przechodniów",
+      "openClosedRatio": 0.8
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "nieokreslona",
+      "evidence": "brak wyraźnych sygnałów temporalnych w tekście"
+    },
+    "motion": {
+      "movement": 3,
+      "stillness": 7,
+      "dynamism": 0.3,
+      "evidence": "poeta siedzi, ale wokół niego przemieszczają się różni przechodnie"
+    },
+    "imageryDensity": {
+      "metaphors": 2,
+      "comparisons": 1,
+      "personifications": 0,
+      "hyperboles": 3,
+      "per100words": 12
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.9,
+      "creationLevel": 0.3,
+      "ironicDistance": 0.2,
+      "autobiographicSignals": [
+        "Siedzę na skwerze",
+        "Męczą mnie wzdęcia",
+        "mówię do was jak Polak do ludzi"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "bunt",
+      "secondary": "obrzydzenie",
+      "intensity": 0.9
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "Siedzę na skwerze / Męczą mnie wzdęcia / mówię do was"
+    },
+    "addressee": {
+      "type": "czytelnik",
+      "evidence": "katalog zawołań do różnych grup społecznych: Przechodniu, Kolejarzu, Nauczycielu, Robotniku, etc."
+    },
+    "metaphors": [
+      {
+        "source": "fizjologia",
+        "target": "kondycja społeczna",
+        "example": "wzdęcia jako metafora społecznego dyskomfortu"
+      },
+      {
+        "source": "ballada",
+        "target": "antybohaterski manifest",
+        "example": "tytuł ironicznie nawiązuje do wysokiej formy poetyckiej"
+      }
+    ],
+    "temperature": {
+      "value": 0.8,
+      "label": "gorące - prowokacyjny gniew i bunt"
+    },
+    "senses": {
+      "wzrok": 2,
+      "sluch": 1,
+      "dotyk": 4,
+      "smak": 1,
+      "zapach": 3
+    },
+    "autodestruction": {
+      "level": 0.7,
+      "signals": [
+        "prowokacyjne zachowanie publiczne",
+        "świadoma degradacja własnego wizerunku",
+        "używanie wulgarnego języka"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 1.204,
+    "dfaAlpha": 1.633,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -1.126732147829546
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -0.7831210716745052
+      },
+      {
+        "logWin": 1.6094379124341003,
+        "logFluc": -0.3485111327316242
+      },
+      {
+        "logWin": 1.791759469228055,
+        "logFluc": -0.010448366028282625
+      },
+      {
+        "logWin": 1.9459101490553132,
+        "logFluc": 0.2126783685095902
+      }
+    ],
+    "seriesLength": 25,
+    "series": [
+      3,
+      3,
+      2,
+      3,
+      1,
+      2,
+      5,
+      4,
+      5,
+      6,
+      5,
+      3,
+      1,
+      2,
+      2,
+      2,
+      5,
+      5,
+      4,
+      7,
+      3,
+      2,
+      3,
+      1,
+      8
+    ]
+  }
+}

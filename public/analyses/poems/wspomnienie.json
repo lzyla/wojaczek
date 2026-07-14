@@ -1,0 +1,880 @@
+{
+  "id": "wspomnienie",
+  "title": "Wspomnienie",
+  "wordCount": 110,
+  "lineCount": 17,
+  "uniqueWords": 77,
+  "vocabularyRichness": 0.7,
+  "avgWordsPerLine": 6.47,
+  "wordsPerLineDistribution": [
+    21,
+    1,
+    9,
+    9,
+    7,
+    1,
+    5,
+    8,
+    7,
+    2,
+    4,
+    5,
+    8,
+    7,
+    9,
+    4,
+    3
+  ],
+  "wordFrequencies": [
+    [
+      "wiemptak",
+      4
+    ],
+    [
+      "listopad",
+      2
+    ],
+    [
+      "gwiazda",
+      2
+    ],
+    [
+      "ptak",
+      1
+    ],
+    [
+      "wspomnieniewspomnieniewspomnieniewspomnieniewspomnienie",
+      1
+    ],
+    [
+      "liści",
+      1
+    ],
+    [
+      "ściekał",
+      1
+    ],
+    [
+      "błotnisty",
+      1
+    ],
+    [
+      "ogród",
+      1
+    ],
+    [
+      "ciebie",
+      1
+    ],
+    [
+      "życie",
+      1
+    ],
+    [
+      "któremu",
+      1
+    ],
+    [
+      "śmierć",
+      1
+    ],
+    [
+      "śniła",
+      1
+    ],
+    [
+      "szczur",
+      1
+    ],
+    [
+      "dziury",
+      1
+    ],
+    [
+      "ogrodzeniu",
+      1
+    ],
+    [
+      "poszukać",
+      1
+    ],
+    [
+      "pobiegło",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 10,
+    "period": 5,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 3,
+    "colon": 0,
+    "semicolon": 3
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 2,
+  "negationWords": [
+    "nie"
+  ],
+  "pronounDistribution": {
+    "ja": 2,
+    "ty": 4,
+    "on_ona": 0,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 0,
+    "smierc": 1,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [
+    [
+      "to było",
+      2
+    ],
+    [
+      "więc",
+      2
+    ]
+  ],
+  "firstWord": "ptak",
+  "lastWord": "tobą",
+  "avgWordLength": 5.45,
+  "wordLengthDistribution": {
+    "4-5": 33,
+    "1-3": 31,
+    "6-7": 28,
+    "8-9": 10,
+    "10+": 8
+  },
+  "bigrams": [
+    [
+      "trochę wiemptak",
+      4
+    ],
+    [
+      "trochę wiem",
+      1
+    ],
+    [
+      "wiem wspomnieniewspomnieniewspomnieniewspomnieniewspomnienie",
+      1
+    ],
+    [
+      "chyba wtedy",
+      1
+    ]
+  ],
+  "poemWords": [
+    "ptak",
+    "którym",
+    "wiemptak",
+    "wspomnieniewspomnieniewspomnieniewspomnieniewspomnienie",
+    "liści",
+    "ściekał",
+    "listopad",
+    "błotnisty",
+    "ogród",
+    "ciebie",
+    "życie",
+    "któremu",
+    "śmierć",
+    "śniła",
+    "szczur",
+    "dziury",
+    "ogrodzeniu",
+    "poszukać",
+    "pobiegło",
+    "gwiazda",
+    "nieba",
+    "pochmurna",
+    "ogrodem",
+    "ściemniała",
+    "echo",
+    "podsłuchało",
+    "głos",
+    "środka",
+    "śmierci",
+    "przedłużyło",
+    "płot",
+    "ucha",
+    "podbrzusza",
+    "mogłem",
+    "dojrzeć",
+    "tropu",
+    "łapek",
+    "szczurzych",
+    "dróżce",
+    "kapał",
+    "włosów",
+    "lepka",
+    "rozpiętych",
+    "spodni",
+    "rosła",
+    "spadła",
+    "błota",
+    "byłem"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 28,
+        "VERB": 20,
+        "ADJ": 4,
+        "ADV": 14,
+        "PRON": 7,
+        "ADP": 15,
+        "CCONJ": 1,
+        "SCONJ": 2,
+        "INTJ": 0,
+        "PART": 6,
+        "DET": 9,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.255,
+        "VERB": 0.182,
+        "ADJ": 0.036,
+        "ADV": 0.127,
+        "PRON": 0.064,
+        "ADP": 0.136,
+        "CCONJ": 0.009,
+        "SCONJ": 0.018,
+        "INTJ": 0,
+        "PART": 0.055,
+        "DET": 0.082,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 0,
+        "abstract": 3,
+        "ratio": 0
+      },
+      "verbTenses": {
+        "past": 19,
+        "present": 2,
+        "infinitive": 2
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 4,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 0,
+        "opisowe": 4
+      },
+      "adverbs": {
+        "temporalne": [],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "trochę",
+            "count": 5
+          },
+          {
+            "word": "gdy",
+            "count": 4
+          },
+          {
+            "word": "wtedy",
+            "count": 3
+          },
+          {
+            "word": "kiedy",
+            "count": 2
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 1,
+        "ty": 2,
+        "on_ona": 0,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 2,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 2,
+        "percentSentences": 0.33
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 244,
+        "consonants": 355,
+        "ratio": 0.69
+      },
+      "consonantClusters": {
+        "count": 16,
+        "top": [
+          {
+            "cluster": "wsp",
+            "count": 5
+          },
+          {
+            "cluster": "mpt",
+            "count": 4
+          },
+          {
+            "cluster": "szcz",
+            "count": 2
+          },
+          {
+            "cluster": "chm",
+            "count": 1
+          },
+          {
+            "cluster": "dsł",
+            "count": 1
+          },
+          {
+            "cluster": "prz",
+            "count": 1
+          },
+          {
+            "cluster": "dbrz",
+            "count": 1
+          },
+          {
+            "cluster": "jrz",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 15,
+        "syczace": 57,
+        "nosowe": 58,
+        "plynne": 56
+      },
+      "rhymes": {
+        "exact": 0,
+        "approximate": 4,
+        "internal": 4,
+        "assonance": 0,
+        "alliteration": 1
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 18.3,
+        "median": 18,
+        "min": 9,
+        "max": 31,
+        "distribution": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          2,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 6.6,
+        "meanSyllables": 14.8,
+        "distribution": [
+          0,
+          1,
+          1,
+          2,
+          1,
+          3,
+          0,
+          3,
+          2,
+          3,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 6,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 0,
+        "noSubject": 1,
+        "noPredicate": 0,
+        "percent": 0.17
+      },
+      "enjambement": {
+        "count": 7,
+        "percent": 0.44,
+        "positions": [
+          8,
+          9,
+          10,
+          11,
+          13,
+          14,
+          15
+        ]
+      },
+      "wordOrder": {
+        "svo": 4,
+        "inversions": 1,
+        "other": 1,
+        "deviationPercent": 0.33
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 0,
+        "śmierć": 1,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": [
+        "życie/śmierć"
+      ]
+    },
+    "tempo": {
+      "syllables": 251,
+      "estimatedSeconds": 84,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 28,
+      "VERB": 20,
+      "ADJ": 4,
+      "ADV": 14,
+      "PRON": 7,
+      "ADP": 15,
+      "CCONJ": 1,
+      "SCONJ": 2,
+      "INTJ": 0,
+      "PART": 6,
+      "DET": 9,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.255,
+      "VERB": 0.182,
+      "ADJ": 0.036,
+      "ADV": 0.127,
+      "PRON": 0.064,
+      "ADP": 0.136,
+      "CCONJ": 0.009,
+      "SCONJ": 0.018,
+      "INTJ": 0,
+      "PART": 0.055,
+      "DET": 0.082,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 0,
+      "abstract": 3,
+      "ratio": 0
+    },
+    "verbTenses": {
+      "past": 19,
+      "present": 2,
+      "infinitive": 2
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 4,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 0,
+      "opisowe": 4
+    },
+    "adverbs": {
+      "temporalne": [],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "trochę",
+          "count": 5
+        },
+        {
+          "word": "gdy",
+          "count": 4
+        },
+        {
+          "word": "wtedy",
+          "count": 3
+        },
+        {
+          "word": "kiedy",
+          "count": 2
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 1,
+      "ty": 2,
+      "on_ona": 0,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 2,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 2,
+      "percentSentences": 0.33
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 18.3,
+      "median": 18,
+      "min": 9,
+      "max": 31,
+      "distribution": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 6.6,
+      "meanSyllables": 14.8,
+      "distribution": [
+        0,
+        1,
+        1,
+        2,
+        1,
+        3,
+        0,
+        3,
+        2,
+        3,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 6,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 0,
+      "noSubject": 1,
+      "noPredicate": 0,
+      "percent": 0.17
+    },
+    "enjambement": {
+      "count": 7,
+      "percent": 0.44,
+      "positions": [
+        8,
+        9,
+        10,
+        11,
+        13,
+        14,
+        15
+      ]
+    },
+    "wordOrder": {
+      "svo": 4,
+      "inversions": 1,
+      "other": 1,
+      "deviationPercent": 0.33
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 244,
+      "consonants": 355,
+      "ratio": 0.69
+    },
+    "consonantClusters": {
+      "count": 16,
+      "top": [
+        {
+          "cluster": "wsp",
+          "count": 5
+        },
+        {
+          "cluster": "mpt",
+          "count": 4
+        },
+        {
+          "cluster": "szcz",
+          "count": 2
+        },
+        {
+          "cluster": "chm",
+          "count": 1
+        },
+        {
+          "cluster": "dsł",
+          "count": 1
+        },
+        {
+          "cluster": "prz",
+          "count": 1
+        },
+        {
+          "cluster": "dbrz",
+          "count": 1
+        },
+        {
+          "cluster": "jrz",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 15,
+      "syczace": 57,
+      "nosowe": 58,
+      "plynne": 56
+    },
+    "rhymes": {
+      "exact": 0,
+      "approximate": 4,
+      "internal": 4,
+      "assonance": 0,
+      "alliteration": 1
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        17
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 251,
+      "estimatedSeconds": 84,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "wolny",
+      "regularityScore": 0.4
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Rimbaud",
+          "reference": "metamorfozy podmiotu, wizjonerstwo",
+          "evidence": "wtedy byłem tobą"
+        },
+        {
+          "source": "Baudelaire",
+          "reference": "estetyka brzydoty, zwierzęce obrazy",
+          "evidence": "szczur, błoto, lepka gwiazda"
+        },
+        {
+          "source": "mitologia",
+          "reference": "motyw przemiany",
+          "evidence": "transformacja w drugą osobę"
+        }
+      ],
+      "selfQuotes": [
+        "repetycja 'Ptak, o którym trochę wiem'",
+        "repetycja 'WSPOMNIENIE'"
+      ],
+      "influences": {
+        "rimbaud": 0.9,
+        "baudelaire": 0.8,
+        "bursa": 0.2,
+        "stachura": 0.3,
+        "grochowiak": 0.6,
+        "bialoszewski": 0.1,
+        "rozewicz": 0.2
+      }
+    },
+    "space": {
+      "type": "zamknieta",
+      "evidence": "ogród, ogrodzenie, płot - przestrzeń ograniczona",
+      "openClosedRatio": 0.2
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "jesien",
+      "evidence": "z liści ściekał listopad, listopad mi kapał z włosów"
+    },
+    "motion": {
+      "movement": 8,
+      "stillness": 3,
+      "dynamism": 0.7,
+      "evidence": "pobiegło, spadła, ściekał, kapał - intensywny ruch płynów i ciał"
+    },
+    "imageryDensity": {
+      "metaphors": 6,
+      "comparisons": 2,
+      "personifications": 4,
+      "hyperboles": 2,
+      "per100words": 14
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.9,
+      "creationLevel": 0.8,
+      "ironicDistance": 0.1,
+      "autobiographicSignals": [
+        "Moje życie",
+        "wtedy byłem tobą",
+        "bezpośrednie zwracanie się do zmarłej osoby"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 0.917,
+    "dfaAlpha": 1.097,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -0.1642520334860179
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": 0.3692712302894978
+      },
+      {
+        "logWin": 1.6094379124341003,
+        "logFluc": 0.3770872115278068
+      }
+    ],
+    "seriesLength": 17,
+    "series": [
+      21,
+      1,
+      9,
+      9,
+      7,
+      1,
+      5,
+      8,
+      7,
+      2,
+      4,
+      5,
+      8,
+      7,
+      9,
+      4,
+      3
+    ]
+  }
+}

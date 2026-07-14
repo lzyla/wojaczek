@@ -1,0 +1,914 @@
+{
+  "id": "nie-skonczona-krucjata",
+  "title": "Nie skończona krucjata",
+  "wordCount": 91,
+  "lineCount": 12,
+  "uniqueWords": 78,
+  "vocabularyRichness": 0.857,
+  "avgWordsPerLine": 7.58,
+  "wordsPerLineDistribution": [
+    6,
+    6,
+    7,
+    8,
+    8,
+    7,
+    10,
+    6,
+    10,
+    7,
+    9,
+    7
+  ],
+  "wordFrequencies": [
+    [
+      "zostało",
+      1
+    ],
+    [
+      "tamtą",
+      1
+    ],
+    [
+      "ostatnią",
+      1
+    ],
+    [
+      "zaspę",
+      1
+    ],
+    [
+      "przeskoczyć",
+      1
+    ],
+    [
+      "siódmą",
+      1
+    ],
+    [
+      "górę",
+      1
+    ],
+    [
+      "wodę",
+      1
+    ],
+    [
+      "siódmej",
+      1
+    ],
+    [
+      "rzeki",
+      1
+    ],
+    [
+      "piły",
+      1
+    ],
+    [
+      "konie",
+      1
+    ],
+    [
+      "mieliśmy",
+      1
+    ],
+    [
+      "cuglach",
+      1
+    ],
+    [
+      "folgę",
+      1
+    ],
+    [
+      "dać",
+      1
+    ],
+    [
+      "brzuchy",
+      1
+    ],
+    [
+      "ugrzęzły",
+      1
+    ],
+    [
+      "wina",
+      1
+    ],
+    [
+      "perszeronów",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 0,
+    "period": 0,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 0,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 2,
+  "negationWords": [
+    "nie"
+  ],
+  "pronounDistribution": {
+    "ja": 0,
+    "ty": 0,
+    "on_ona": 2,
+    "my": 1,
+    "wy": 0,
+    "oni": 1
+  },
+  "semanticFields": {
+    "cialo": 2,
+    "smierc": 1,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 1
+  },
+  "anaphors": [
+    [
+      "ale",
+      2
+    ]
+  ],
+  "firstWord": "zostało",
+  "lastWord": "dalej",
+  "avgWordLength": 4.76,
+  "wordLengthDistribution": {
+    "6-7": 21,
+    "4-5": 29,
+    "8-9": 6,
+    "1-3": 31,
+    "10+": 4
+  },
+  "bigrams": [
+    [
+      "tamtą ostatnią",
+      1
+    ],
+    [
+      "zaspę przeskoczyć",
+      1
+    ],
+    [
+      "przeskoczyć siódmą",
+      1
+    ],
+    [
+      "siódmą górę",
+      1
+    ],
+    [
+      "górę wodę",
+      1
+    ],
+    [
+      "wodę siódmej",
+      1
+    ],
+    [
+      "siódmej rzeki",
+      1
+    ],
+    [
+      "prawie piły",
+      1
+    ],
+    [
+      "piły konie",
+      1
+    ]
+  ],
+  "poemWords": [
+    "zostało",
+    "tamtą",
+    "ostatnią",
+    "zaspę",
+    "przeskoczyć",
+    "siódmą",
+    "górę",
+    "wodę",
+    "siódmej",
+    "rzeki",
+    "piły",
+    "konie",
+    "mieliśmy",
+    "cuglach",
+    "folgę",
+    "dać",
+    "brzuchy",
+    "ugrzęzły",
+    "wina",
+    "perszeronów",
+    "metrum",
+    "dyszla",
+    "skrzydeł",
+    "koń",
+    "pamięci",
+    "lotnej",
+    "pozbyć",
+    "mógł",
+    "ślepi",
+    "patrzy",
+    "żal",
+    "mleko",
+    "fermentująca",
+    "krew",
+    "wnet",
+    "żyły",
+    "rozerwie",
+    "widzimy",
+    "śnieg",
+    "glebę",
+    "zapadły",
+    "uchem",
+    "ziemi",
+    "czekamy",
+    "drugiej",
+    "strony",
+    "globu",
+    "dojdzie",
+    "krzyk",
+    "pewni",
+    "belgii",
+    "przeciekły",
+    "pójdziemy",
+    "dalej"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 22,
+        "VERB": 16,
+        "ADJ": 11,
+        "ADV": 4,
+        "PRON": 7,
+        "ADP": 11,
+        "CCONJ": 3,
+        "SCONJ": 1,
+        "INTJ": 0,
+        "PART": 12,
+        "DET": 0,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.232,
+        "VERB": 0.168,
+        "ADJ": 0.116,
+        "ADV": 0.042,
+        "PRON": 0.074,
+        "ADP": 0.116,
+        "CCONJ": 0.032,
+        "SCONJ": 0.011,
+        "INTJ": 0,
+        "PART": 0.126,
+        "DET": 0,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 4,
+        "abstract": 3,
+        "ratio": 0.57
+      },
+      "verbTenses": {
+        "past": 8,
+        "infinitive": 3,
+        "present": 4,
+        "future": 3
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 2,
+        "stan": 2,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 0,
+        "opisowe": 11
+      },
+      "adverbs": {
+        "temporalne": [],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "gdy",
+            "count": 2
+          },
+          {
+            "word": "wnet",
+            "count": 1
+          },
+          {
+            "word": "dalej",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 0,
+        "ty": 0,
+        "on_ona": 2,
+        "my": 1,
+        "wy": 0,
+        "oni": 1
+      },
+      "negations": {
+        "nie": 3,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 3,
+        "percentSentences": 0.43
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 182,
+        "consonants": 271,
+        "ratio": 0.67
+      },
+      "consonantClusters": {
+        "count": 15,
+        "top": [
+          {
+            "cluster": "prz",
+            "count": 3
+          },
+          {
+            "cluster": "jdz",
+            "count": 2
+          },
+          {
+            "cluster": "ńcz",
+            "count": 1
+          },
+          {
+            "cluster": "szcz",
+            "count": 1
+          },
+          {
+            "cluster": "brz",
+            "count": 1
+          },
+          {
+            "cluster": "grz",
+            "count": 1
+          },
+          {
+            "cluster": "rsz",
+            "count": 1
+          },
+          {
+            "cluster": "szl",
+            "count": 1
+          },
+          {
+            "cluster": "skrz",
+            "count": 1
+          },
+          {
+            "cluster": "trz",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 23,
+        "syczace": 37,
+        "nosowe": 50,
+        "plynne": 46
+      },
+      "rhymes": {
+        "exact": 0,
+        "approximate": 0,
+        "internal": 1,
+        "assonance": 0,
+        "alliteration": 0
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 13.6,
+        "median": 12,
+        "min": 1,
+        "max": 31,
+        "distribution": [
+          0,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 6.8,
+        "meanSyllables": 13.6,
+        "distribution": [
+          0,
+          1,
+          0,
+          1,
+          0,
+          0,
+          3,
+          4,
+          2,
+          1,
+          2
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 7,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 2,
+        "noSubject": 3,
+        "noPredicate": 0,
+        "percent": 0.71
+      },
+      "enjambement": {
+        "count": 2,
+        "percent": 0.15,
+        "positions": [
+          11,
+          12
+        ]
+      },
+      "wordOrder": {
+        "svo": 1,
+        "inversions": 1,
+        "other": 4,
+        "deviationPercent": 0.83
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 2,
+        "śmierć": 1,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 0,
+        "ból": 1
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 190,
+      "estimatedSeconds": 63,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 22,
+      "VERB": 16,
+      "ADJ": 11,
+      "ADV": 4,
+      "PRON": 7,
+      "ADP": 11,
+      "CCONJ": 3,
+      "SCONJ": 1,
+      "INTJ": 0,
+      "PART": 12,
+      "DET": 0,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.232,
+      "VERB": 0.168,
+      "ADJ": 0.116,
+      "ADV": 0.042,
+      "PRON": 0.074,
+      "ADP": 0.116,
+      "CCONJ": 0.032,
+      "SCONJ": 0.011,
+      "INTJ": 0,
+      "PART": 0.126,
+      "DET": 0,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 4,
+      "abstract": 3,
+      "ratio": 0.57
+    },
+    "verbTenses": {
+      "past": 8,
+      "infinitive": 3,
+      "present": 4,
+      "future": 3
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 2,
+      "stan": 2,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 0,
+      "opisowe": 11
+    },
+    "adverbs": {
+      "temporalne": [],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "gdy",
+          "count": 2
+        },
+        {
+          "word": "wnet",
+          "count": 1
+        },
+        {
+          "word": "dalej",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 0,
+      "ty": 0,
+      "on_ona": 2,
+      "my": 1,
+      "wy": 0,
+      "oni": 1
+    },
+    "negations": {
+      "nie": 3,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 3,
+      "percentSentences": 0.43
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 13.6,
+      "median": 12,
+      "min": 1,
+      "max": 31,
+      "distribution": [
+        0,
+        1,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 6.8,
+      "meanSyllables": 13.6,
+      "distribution": [
+        0,
+        1,
+        0,
+        1,
+        0,
+        0,
+        3,
+        4,
+        2,
+        1,
+        2
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 7,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 2,
+      "noSubject": 3,
+      "noPredicate": 0,
+      "percent": 0.71
+    },
+    "enjambement": {
+      "count": 2,
+      "percent": 0.15,
+      "positions": [
+        11,
+        12
+      ]
+    },
+    "wordOrder": {
+      "svo": 1,
+      "inversions": 1,
+      "other": 4,
+      "deviationPercent": 0.83
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 182,
+      "consonants": 271,
+      "ratio": 0.67
+    },
+    "consonantClusters": {
+      "count": 15,
+      "top": [
+        {
+          "cluster": "prz",
+          "count": 3
+        },
+        {
+          "cluster": "jdz",
+          "count": 2
+        },
+        {
+          "cluster": "ńcz",
+          "count": 1
+        },
+        {
+          "cluster": "szcz",
+          "count": 1
+        },
+        {
+          "cluster": "brz",
+          "count": 1
+        },
+        {
+          "cluster": "grz",
+          "count": 1
+        },
+        {
+          "cluster": "rsz",
+          "count": 1
+        },
+        {
+          "cluster": "szl",
+          "count": 1
+        },
+        {
+          "cluster": "skrz",
+          "count": 1
+        },
+        {
+          "cluster": "trz",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 23,
+      "syczace": 37,
+      "nosowe": 50,
+      "plynne": 46
+    },
+    "rhymes": {
+      "exact": 0,
+      "approximate": 0,
+      "internal": 1,
+      "assonance": 0,
+      "alliteration": 0
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        14
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 190,
+      "estimatedSeconds": 63,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "polregularny",
+      "regularityScore": 0.69
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Biblia",
+          "reference": "krucjata, wędrówka przez pustynię",
+          "evidence": "tytuł 'NIE SKOŃCZONA KRUCJATA', motyw siódmej góry i rzeki"
+        },
+        {
+          "source": "mitologia",
+          "reference": "heroiczna wyprawa, konie jako towarzysze",
+          "evidence": "konie, siódma góra, siódma rzeka - symbolika sakralna"
+        },
+        {
+          "source": "inne",
+          "reference": "literatura rycerska, epos",
+          "evidence": "krucjata, konie, wyprava jako motyw epicki"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.8,
+        "baudelaire": 0.3,
+        "bursa": 0.2,
+        "stachura": 0.6,
+        "grochowiak": 0.4,
+        "bialoszewski": 0.1,
+        "rozewicz": 0.3
+      }
+    },
+    "space": {
+      "type": "otwarta",
+      "evidence": "góry, rzeki, Belgia, druga strona globu - przestrzeń geograficznie rozległa",
+      "openClosedRatio": 0.9
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "zima",
+      "evidence": "śnieg, głębia zimy sugerowana przez obraz zapadania w śnieg"
+    },
+    "motion": {
+      "movement": 8,
+      "stillness": 4,
+      "dynamism": 0.7,
+      "evidence": "przeskakiwanie, wędrówka, konie ugrzęzłe, zapadanie, dalsze pójście"
+    },
+    "imageryDensity": {
+      "metaphors": 6,
+      "comparisons": 2,
+      "personifications": 4,
+      "hyperboles": 3,
+      "per100words": 20
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.3,
+      "creationLevel": 0.8,
+      "ironicDistance": 0.4,
+      "autobiographicSignals": [
+        "forma pierwszej osoby liczby mnogiej 'Mieliśmy', 'my'"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "rezygnacja",
+      "secondary": "melancholia",
+      "intensity": 0.7
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "Mieliśmy właśnie, my Pewni, Pójdziemy dalej - wyraźne użycie pierwszej osoby liczby mnogiej"
+    },
+    "addressee": {
+      "type": "nikt",
+      "evidence": "Brak bezpośredniego zwracania się do kogokolwiek, wypowiedź ma charakter sprawozdawczy"
+    },
+    "metaphors": [
+      {
+        "source": "podróż konna",
+        "target": "życie/dążenia",
+        "example": "już prawie piły konie gdy Mieliśmy właśnie Na cuglach folgę im dać"
+      },
+      {
+        "source": "krew fermentująca",
+        "target": "żywotność przemijająca",
+        "example": "Fermentująca krew wnet żyły mu rozerwie"
+      },
+      {
+        "source": "zapadanie w śnieg/glebę",
+        "target": "upadek/porażka",
+        "example": "Widzimy Jakby w śnieg już w glebę Całe zapadły"
+      }
+    ],
+    "temperature": {
+      "value": 0.2,
+      "label": "zimne - rezygnacja i wyczerpanie"
+    },
+    "senses": {
+      "wzrok": 4,
+      "sluch": 3,
+      "dotyk": 2,
+      "smak": 1,
+      "zapach": 0
+    },
+    "autodestruction": {
+      "level": 0.3,
+      "signals": [
+        "zapadanie w śnieg/glebę",
+        "fermentująca krew rozrywająca żyły",
+        "wyczerpanie koni"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 0.573,
+    "dfaAlpha": 0.778,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -0.7520386983881371
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -0.5283123900767961
+      }
+    ],
+    "seriesLength": 12,
+    "series": [
+      6,
+      6,
+      7,
+      8,
+      8,
+      7,
+      10,
+      6,
+      10,
+      7,
+      9,
+      7
+    ]
+  }
+}

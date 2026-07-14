@@ -1,0 +1,799 @@
+{
+  "id": "kim-jest-ten-co-mi-sie-jawi-w-lustrze",
+  "title": "Kim jest ten, co mi się jawi w lustrze",
+  "wordCount": 73,
+  "lineCount": 13,
+  "uniqueWords": 52,
+  "vocabularyRichness": 0.712,
+  "avgWordsPerLine": 5.62,
+  "wordsPerLineDistribution": [
+    3,
+    9,
+    5,
+    5,
+    6,
+    7,
+    5,
+    5,
+    5,
+    6,
+    3,
+    7,
+    7
+  ],
+  "wordFrequencies": [
+    [
+      "kim",
+      4
+    ],
+    [
+      "jawi",
+      1
+    ],
+    [
+      "lustrze",
+      1
+    ],
+    [
+      "kobietą",
+      1
+    ],
+    [
+      "osobą",
+      1
+    ],
+    [
+      "mgły",
+      1
+    ],
+    [
+      "okrutnie",
+      1
+    ],
+    [
+      "miejsce",
+      1
+    ],
+    [
+      "almanachu",
+      1
+    ],
+    [
+      "dotąd",
+      1
+    ],
+    [
+      "puste",
+      1
+    ],
+    [
+      "kieliszka",
+      1
+    ],
+    [
+      "pijąc",
+      1
+    ],
+    [
+      "pijakiem",
+      1
+    ],
+    [
+      "podejmowany",
+      1
+    ],
+    [
+      "policję",
+      1
+    ],
+    [
+      "błota",
+      1
+    ],
+    [
+      "cechowego",
+      1
+    ],
+    [
+      "brany",
+      1
+    ],
+    [
+      "towarzysza",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 6,
+    "period": 0,
+    "question": 4,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 0,
+    "semicolon": 0
+  },
+  "questionCount": 4,
+  "exclamationCount": 0,
+  "negationCount": 2,
+  "negationWords": [
+    "nie"
+  ],
+  "pronounDistribution": {
+    "ja": 5,
+    "ty": 0,
+    "on_ona": 0,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 0,
+    "smierc": 0,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [
+    [
+      "kim",
+      4
+    ]
+  ],
+  "firstWord": "kim",
+  "lastWord": "wyszedł",
+  "avgWordLength": 4.38,
+  "wordLengthDistribution": {
+    "1-3": 30,
+    "4-5": 24,
+    "6-7": 10,
+    "8-9": 6,
+    "10+": 3
+  },
+  "bigrams": [],
+  "poemWords": [
+    "kim",
+    "jawi",
+    "lustrze",
+    "kobietą",
+    "osobą",
+    "mgły",
+    "okrutnie",
+    "miejsce",
+    "almanachu",
+    "dotąd",
+    "puste",
+    "kieliszka",
+    "pijąc",
+    "pijakiem",
+    "podejmowany",
+    "policję",
+    "błota",
+    "cechowego",
+    "brany",
+    "towarzysza",
+    "długopisem",
+    "wypisuje",
+    "wiersze",
+    "łóżku",
+    "żonę",
+    "bierze",
+    "chwilą",
+    "wyszedł"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 16,
+        "VERB": 5,
+        "ADJ": 4,
+        "ADV": 3,
+        "PRON": 11,
+        "ADP": 8,
+        "CCONJ": 2,
+        "SCONJ": 2,
+        "INTJ": 0,
+        "PART": 4,
+        "DET": 9,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.229,
+        "VERB": 0.071,
+        "ADJ": 0.057,
+        "ADV": 0.043,
+        "PRON": 0.157,
+        "ADP": 0.114,
+        "CCONJ": 0.029,
+        "SCONJ": 0.029,
+        "INTJ": 0,
+        "PART": 0.057,
+        "DET": 0.129,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 2,
+        "abstract": 0,
+        "ratio": 1
+      },
+      "verbTenses": {
+        "present": 10,
+        "past": 1
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 6,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 0,
+        "opisowe": 4
+      },
+      "adverbs": {
+        "temporalne": [
+          "dotąd"
+        ],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "tak",
+            "count": 1
+          },
+          {
+            "word": "okrutnie",
+            "count": 1
+          },
+          {
+            "word": "dotąd",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 1,
+        "ty": 0,
+        "on_ona": 0,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 2,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 2,
+        "percentSentences": 0.33
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 131,
+        "consonants": 186,
+        "ratio": 0.7
+      },
+      "consonantClusters": {
+        "count": 8,
+        "top": [
+          {
+            "cluster": "prz",
+            "count": 2
+          },
+          {
+            "cluster": "strz",
+            "count": 1
+          },
+          {
+            "cluster": "mgł",
+            "count": 1
+          },
+          {
+            "cluster": "jsc",
+            "count": 1
+          },
+          {
+            "cluster": "szk",
+            "count": 1
+          },
+          {
+            "cluster": "rsz",
+            "count": 1
+          },
+          {
+            "cluster": "chw",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 14,
+        "syczace": 31,
+        "nosowe": 40,
+        "plynne": 19
+      },
+      "rhymes": {
+        "exact": 1,
+        "approximate": 1,
+        "internal": 0,
+        "assonance": 1,
+        "alliteration": 1
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 11.7,
+        "median": 12,
+        "min": 7,
+        "max": 16,
+        "distribution": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          2,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          2
+        ]
+      },
+      "lineLength": {
+        "meanWords": 5.6,
+        "meanSyllables": 10.7,
+        "distribution": [
+          0,
+          0,
+          0,
+          2,
+          0,
+          5,
+          2,
+          3,
+          0,
+          1
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 2,
+        "interrogative": 4,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 0,
+        "noSubject": 0,
+        "noPredicate": 1,
+        "percent": 0.17
+      },
+      "enjambement": {
+        "count": 1,
+        "percent": 0.08,
+        "positions": [
+          11
+        ]
+      },
+      "wordOrder": {
+        "svo": 3,
+        "inversions": 1,
+        "other": 2,
+        "deviationPercent": 0.5
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 0,
+        "śmierć": 0,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 139,
+      "estimatedSeconds": 46,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 16,
+      "VERB": 5,
+      "ADJ": 4,
+      "ADV": 3,
+      "PRON": 11,
+      "ADP": 8,
+      "CCONJ": 2,
+      "SCONJ": 2,
+      "INTJ": 0,
+      "PART": 4,
+      "DET": 9,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.229,
+      "VERB": 0.071,
+      "ADJ": 0.057,
+      "ADV": 0.043,
+      "PRON": 0.157,
+      "ADP": 0.114,
+      "CCONJ": 0.029,
+      "SCONJ": 0.029,
+      "INTJ": 0,
+      "PART": 0.057,
+      "DET": 0.129,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 2,
+      "abstract": 0,
+      "ratio": 1
+    },
+    "verbTenses": {
+      "present": 10,
+      "past": 1
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 6,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 0,
+      "opisowe": 4
+    },
+    "adverbs": {
+      "temporalne": [
+        "dotąd"
+      ],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "tak",
+          "count": 1
+        },
+        {
+          "word": "okrutnie",
+          "count": 1
+        },
+        {
+          "word": "dotąd",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 1,
+      "ty": 0,
+      "on_ona": 0,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 2,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 2,
+      "percentSentences": 0.33
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 11.7,
+      "median": 12,
+      "min": 7,
+      "max": 16,
+      "distribution": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        2
+      ]
+    },
+    "lineLength": {
+      "meanWords": 5.6,
+      "meanSyllables": 10.7,
+      "distribution": [
+        0,
+        0,
+        0,
+        2,
+        0,
+        5,
+        2,
+        3,
+        0,
+        1
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 2,
+      "interrogative": 4,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 0,
+      "noSubject": 0,
+      "noPredicate": 1,
+      "percent": 0.17
+    },
+    "enjambement": {
+      "count": 1,
+      "percent": 0.08,
+      "positions": [
+        11
+      ]
+    },
+    "wordOrder": {
+      "svo": 3,
+      "inversions": 1,
+      "other": 2,
+      "deviationPercent": 0.5
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 131,
+      "consonants": 186,
+      "ratio": 0.7
+    },
+    "consonantClusters": {
+      "count": 8,
+      "top": [
+        {
+          "cluster": "prz",
+          "count": 2
+        },
+        {
+          "cluster": "strz",
+          "count": 1
+        },
+        {
+          "cluster": "mgł",
+          "count": 1
+        },
+        {
+          "cluster": "jsc",
+          "count": 1
+        },
+        {
+          "cluster": "szk",
+          "count": 1
+        },
+        {
+          "cluster": "rsz",
+          "count": 1
+        },
+        {
+          "cluster": "chw",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 14,
+      "syczace": 31,
+      "nosowe": 40,
+      "plynne": 19
+    },
+    "rhymes": {
+      "exact": 1,
+      "approximate": 1,
+      "internal": 0,
+      "assonance": 1,
+      "alliteration": 1
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        13
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 139,
+      "estimatedSeconds": 46,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "regularny",
+      "regularityScore": 0.75
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Biblia",
+          "reference": "motyw zwierciadła jako miejsca objawienia/poznania",
+          "evidence": "Kim jest ten, co mi się jawi w lustrze"
+        },
+        {
+          "source": "mitologia",
+          "reference": "motyw sobowtóra/doppelgängera",
+          "evidence": "cały wiersz o tajemniczym 'drugim ja'"
+        },
+        {
+          "source": "Rimbaud",
+          "reference": "'Je est un autre' - ja to kto inny",
+          "evidence": "pytanie o tożsamość podmiotu lirycznego"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.8,
+        "baudelaire": 0.3,
+        "bursa": 0.1,
+        "stachura": 0.2,
+        "grochowiak": 0.1,
+        "bialoszewski": 0.1,
+        "rozewicz": 0.4
+      }
+    },
+    "space": {
+      "type": "zamknieta",
+      "evidence": "lustro, kieliszek, łóżko - przestrzenie intymne, domowe",
+      "openClosedRatio": 0.2
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "nieokreslona",
+      "evidence": "brak wskazówek temporalnych, czas psychologiczny"
+    },
+    "motion": {
+      "movement": 3,
+      "stillness": 7,
+      "dynamism": 0.3,
+      "evidence": "statyczne obrazy: lustro, picie, pisanie; jedyny ruch: 'przed chwilą wyszedł'"
+    },
+    "imageryDensity": {
+      "metaphors": 2,
+      "comparisons": 1,
+      "personifications": 1,
+      "hyperboles": 0,
+      "per100words": 6.7
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.9,
+      "creationLevel": 0.7,
+      "ironicDistance": 0.2,
+      "autobiographicSignals": [
+        "moje wiersze",
+        "mój długopis",
+        "moja żona",
+        "mój kieliszek"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "melancholia",
+      "secondary": "tęsknota",
+      "intensity": 0.8
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "Podmiot liryczny obecny w każdej strofie jako 'mi się jawi', 'z mojego kieliszka', 'moim długopisem', 'moje wiersze', 'moją żonę'"
+    },
+    "addressee": {
+      "type": "siebie",
+      "evidence": "Pytania retoryczne kierowane do siebie o własną tożsamość: 'Kim jest ten...'"
+    },
+    "metaphors": [
+      {
+        "source": "mgła",
+        "target": "tożsamość",
+        "example": "Mgły tylko tak okrutnie sobą"
+      },
+      {
+        "source": "lustro",
+        "target": "samopoznanie",
+        "example": "Kim jest ten, co mi się jawi w lustrze"
+      },
+      {
+        "source": "kieliszek",
+        "target": "życie/doświadczenie",
+        "example": "z mojego kieliszka Pijąc nie pijakiem jest"
+      }
+    ],
+    "temperature": {
+      "value": 0.3,
+      "label": "chłodna refleksja egzystencjalna"
+    },
+    "senses": {
+      "wzrok": 4,
+      "sluch": 1,
+      "dotyk": 2,
+      "smak": 2,
+      "zapach": 0
+    },
+    "autodestruction": {
+      "level": 0.6,
+      "signals": [
+        "rozszczepienie tożsamości",
+        "picie alkoholu",
+        "policyjne interwencje",
+        "poczucie obcości wobec siebie"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 1.002,
+    "dfaAlpha": 1.522,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -0.6342556627317533
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -0.19652129405480356
+      }
+    ],
+    "seriesLength": 13,
+    "series": [
+      3,
+      9,
+      5,
+      5,
+      6,
+      7,
+      5,
+      5,
+      5,
+      6,
+      3,
+      7,
+      7
+    ]
+  }
+}

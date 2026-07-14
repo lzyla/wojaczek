@@ -1,0 +1,892 @@
+{
+  "id": "twoje-cialo-bolesne",
+  "title": "Twoje ciało bolesne",
+  "wordCount": 51,
+  "lineCount": 17,
+  "uniqueWords": 40,
+  "vocabularyRichness": 0.784,
+  "avgWordsPerLine": 3,
+  "wordsPerLineDistribution": [
+    3,
+    3,
+    3,
+    3,
+    2,
+    1,
+    4,
+    5,
+    4,
+    4,
+    3,
+    3,
+    4,
+    1,
+    5,
+    2,
+    1
+  ],
+  "wordFrequencies": [
+    [
+      "ciało",
+      7
+    ],
+    [
+      "bolesne",
+      1
+    ],
+    [
+      "rozdarte",
+      1
+    ],
+    [
+      "sny",
+      1
+    ],
+    [
+      "okrutna",
+      1
+    ],
+    [
+      "nocna",
+      1
+    ],
+    [
+      "róża",
+      1
+    ],
+    [
+      "zmęczone",
+      1
+    ],
+    [
+      "obojętnie",
+      1
+    ],
+    [
+      "leży",
+      1
+    ],
+    [
+      "śnie",
+      1
+    ],
+    [
+      "wstydzi",
+      1
+    ],
+    [
+      "miłość",
+      1
+    ],
+    [
+      "zapach",
+      1
+    ],
+    [
+      "ciała",
+      1
+    ],
+    [
+      "suche",
+      1
+    ],
+    [
+      "płomień",
+      1
+    ],
+    [
+      "wilgotne",
+      1
+    ],
+    [
+      "żywioł",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 0,
+    "period": 0,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 3,
+    "colon": 0,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 2,
+  "negationWords": [
+    "nie"
+  ],
+  "pronounDistribution": {
+    "ja": 1,
+    "ty": 3,
+    "on_ona": 0,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 7,
+    "smierc": 1,
+    "erotyka": 1,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [
+    [
+      "ciało",
+      4
+    ]
+  ],
+  "firstWord": "twoje",
+  "lastWord": "ułomny",
+  "avgWordLength": 4.9,
+  "wordLengthDistribution": {
+    "1-3": 12,
+    "4-5": 22,
+    "6-7": 12,
+    "8-9": 5
+  },
+  "bigrams": [
+    [
+      "twoje ciało",
+      3
+    ],
+    [
+      "ciało bolesne",
+      1
+    ],
+    [
+      "bolesne rozdarte",
+      1
+    ],
+    [
+      "sny okrutna",
+      1
+    ],
+    [
+      "okrutna nocna",
+      1
+    ],
+    [
+      "nocna róża",
+      1
+    ],
+    [
+      "zmęczone obojętnie",
+      1
+    ],
+    [
+      "obojętnie leży",
+      1
+    ]
+  ],
+  "poemWords": [
+    "ciało",
+    "bolesne",
+    "rozdarte",
+    "sny",
+    "okrutna",
+    "nocna",
+    "róża",
+    "zmęczone",
+    "obojętnie",
+    "leży",
+    "śnie",
+    "wstydzi",
+    "siebie",
+    "miłość",
+    "zapach",
+    "ciała",
+    "suche",
+    "płomień",
+    "wilgotne",
+    "żywioł",
+    "oddycha",
+    "śmierć",
+    "chciałbym",
+    "wiersz",
+    "taki",
+    "ułomny"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 17,
+        "VERB": 6,
+        "ADJ": 8,
+        "ADV": 2,
+        "PRON": 2,
+        "ADP": 2,
+        "CCONJ": 0,
+        "SCONJ": 1,
+        "INTJ": 0,
+        "PART": 3,
+        "DET": 6,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.354,
+        "VERB": 0.125,
+        "ADJ": 0.167,
+        "ADV": 0.042,
+        "PRON": 0.042,
+        "ADP": 0.042,
+        "CCONJ": 0,
+        "SCONJ": 0.021,
+        "INTJ": 0,
+        "PART": 0.062,
+        "DET": 0.125,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 8,
+        "abstract": 3,
+        "ratio": 0.73
+      },
+      "verbTenses": {
+        "present": 6,
+        "past": 1
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 2,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 1
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 2,
+        "oceniajace": 0,
+        "opisowe": 6
+      },
+      "adverbs": {
+        "temporalne": [],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "kiedy",
+            "count": 1
+          },
+          {
+            "word": "obojętnie",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 0,
+        "ty": 0,
+        "on_ona": 0,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 2,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 2,
+        "percentSentences": 2
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 111,
+        "consonants": 136,
+        "ratio": 0.82
+      },
+      "consonantClusters": {
+        "count": 4,
+        "top": [
+          {
+            "cluster": "prz",
+            "count": 1
+          },
+          {
+            "cluster": "wst",
+            "count": 1
+          },
+          {
+            "cluster": "chc",
+            "count": 1
+          },
+          {
+            "cluster": "rsz",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 6,
+        "syczace": 30,
+        "nosowe": 28,
+        "plynne": 24
+      },
+      "rhymes": {
+        "exact": 2,
+        "approximate": 3,
+        "internal": 0,
+        "assonance": 0,
+        "alliteration": 2
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 48,
+        "median": 48,
+        "min": 48,
+        "max": 48,
+        "distribution": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 3.2,
+        "meanSyllables": 6.9,
+        "distribution": [
+          0,
+          3,
+          2,
+          4,
+          5,
+          3
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 1,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 0,
+        "noSubject": 0,
+        "noPredicate": 0,
+        "percent": 0
+      },
+      "enjambement": {
+        "count": 15,
+        "percent": 0.94,
+        "positions": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16
+        ]
+      },
+      "wordOrder": {
+        "svo": 1,
+        "inversions": 0,
+        "other": 0,
+        "deviationPercent": 0
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 7,
+        "śmierć": 1,
+        "erotyka": 1,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 1,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 118,
+      "estimatedSeconds": 39,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 17,
+      "VERB": 6,
+      "ADJ": 8,
+      "ADV": 2,
+      "PRON": 2,
+      "ADP": 2,
+      "CCONJ": 0,
+      "SCONJ": 1,
+      "INTJ": 0,
+      "PART": 3,
+      "DET": 6,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.354,
+      "VERB": 0.125,
+      "ADJ": 0.167,
+      "ADV": 0.042,
+      "PRON": 0.042,
+      "ADP": 0.042,
+      "CCONJ": 0,
+      "SCONJ": 0.021,
+      "INTJ": 0,
+      "PART": 0.062,
+      "DET": 0.125,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 8,
+      "abstract": 3,
+      "ratio": 0.73
+    },
+    "verbTenses": {
+      "present": 6,
+      "past": 1
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 2,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 1
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 2,
+      "oceniajace": 0,
+      "opisowe": 6
+    },
+    "adverbs": {
+      "temporalne": [],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "kiedy",
+          "count": 1
+        },
+        {
+          "word": "obojętnie",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 0,
+      "ty": 0,
+      "on_ona": 0,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 2,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 2,
+      "percentSentences": 2
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 48,
+      "median": 48,
+      "min": 48,
+      "max": 48,
+      "distribution": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 3.2,
+      "meanSyllables": 6.9,
+      "distribution": [
+        0,
+        3,
+        2,
+        4,
+        5,
+        3
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 1,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 0,
+      "noSubject": 0,
+      "noPredicate": 0,
+      "percent": 0
+    },
+    "enjambement": {
+      "count": 15,
+      "percent": 0.94,
+      "positions": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ]
+    },
+    "wordOrder": {
+      "svo": 1,
+      "inversions": 0,
+      "other": 0,
+      "deviationPercent": 0
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 111,
+      "consonants": 136,
+      "ratio": 0.82
+    },
+    "consonantClusters": {
+      "count": 4,
+      "top": [
+        {
+          "cluster": "prz",
+          "count": 1
+        },
+        {
+          "cluster": "wst",
+          "count": 1
+        },
+        {
+          "cluster": "chc",
+          "count": 1
+        },
+        {
+          "cluster": "rsz",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 6,
+      "syczace": 30,
+      "nosowe": 28,
+      "plynne": 24
+    },
+    "rhymes": {
+      "exact": 2,
+      "approximate": 3,
+      "internal": 0,
+      "assonance": 0,
+      "alliteration": 2
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        17
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 118,
+      "estimatedSeconds": 39,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "polregularny",
+      "regularityScore": 0.59
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Baudelaire",
+          "reference": "Kwiaty zła - miłość cielesna i śmierć",
+          "evidence": "okrutna nocna róża"
+        },
+        {
+          "source": "Rimbaud",
+          "reference": "Une saison en enfer - ciało jako piekło i ekstaza",
+          "evidence": "ciało bolesne / rozdarte przez sny"
+        },
+        {
+          "source": "mitologia",
+          "reference": "żywioły klasyczne",
+          "evidence": "płomień / żywioł"
+        }
+      ],
+      "selfQuotes": [
+        "ciało bolesne",
+        "nocna róża"
+      ],
+      "influences": {
+        "rimbaud": 0.8,
+        "baudelaire": 0.7,
+        "bursa": 0.2,
+        "stachura": 0.1,
+        "grochowiak": 0.3,
+        "bialoszewski": 0.1,
+        "rozewicz": 0.2
+      }
+    },
+    "space": {
+      "type": "zamknieta",
+      "evidence": "w moim śnie - przestrzeń oniryczna, intymna",
+      "openClosedRatio": 0.2
+    },
+    "timeOfDay": {
+      "period": "noc",
+      "season": "nieokreslona",
+      "evidence": "nocna róża / leży w moim śnie"
+    },
+    "motion": {
+      "movement": 2,
+      "stillness": 8,
+      "dynamism": 0.2,
+      "evidence": "obojętnie / leży w moim śnie - statyczność, bezruch"
+    },
+    "imageryDensity": {
+      "metaphors": 4,
+      "comparisons": 0,
+      "personifications": 2,
+      "hyperboles": 1,
+      "per100words": 87.5
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.9,
+      "creationLevel": 0.8,
+      "ironicDistance": 0.1,
+      "autobiographicSignals": [
+        "mam tylko twoje ciało",
+        "chciałbym",
+        "nie taki / ułomny",
+        "data: 16 V 1966"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "czułość",
+      "secondary": "tęsknota",
+      "intensity": 0.8
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "mam tylko twoje ciało, chciałbym"
+    },
+    "addressee": {
+      "type": "ty",
+      "evidence": "twoje ciało, w moim śnie"
+    },
+    "metaphors": [
+      {
+        "source": "róża",
+        "target": "ciało",
+        "example": "okrutna nocna róża"
+      },
+      {
+        "source": "płomień",
+        "target": "ciało suche",
+        "example": "ciało jest suche – płomień"
+      },
+      {
+        "source": "żywioł",
+        "target": "ciało wilgotne",
+        "example": "ciało wilgotne – żywioł"
+      },
+      {
+        "source": "śmierć",
+        "target": "oddychające ciało",
+        "example": "ciało oddycha – śmierć"
+      }
+    ],
+    "temperature": {
+      "value": 0.7,
+      "label": "ciepłe pożądanie z nutą melancholii"
+    },
+    "senses": {
+      "wzrok": 3,
+      "sluch": 1,
+      "dotyk": 5,
+      "smak": 1,
+      "zapach": 4
+    },
+    "autodestruction": {
+      "level": 0.4,
+      "signals": [
+        "ciało bolesne",
+        "rozdarte przez sny",
+        "ułomny"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 0.905,
+    "dfaAlpha": 0.844,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -1.2628643221541276
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -0.6348121465061614
+      },
+      {
+        "logWin": 1.6094379124341003,
+        "logFluc": -0.8654086227546015
+      }
+    ],
+    "seriesLength": 17,
+    "series": [
+      3,
+      3,
+      3,
+      3,
+      2,
+      1,
+      4,
+      5,
+      4,
+      4,
+      3,
+      3,
+      4,
+      1,
+      5,
+      2,
+      1
+    ]
+  }
+}

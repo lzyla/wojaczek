@@ -1,0 +1,946 @@
+{
+  "id": "ich-prawem-byla-wlasna-smierc",
+  "title": "Ich prawem była własna śmierć",
+  "wordCount": 108,
+  "lineCount": 20,
+  "uniqueWords": 95,
+  "vocabularyRichness": 0.88,
+  "avgWordsPerLine": 5.4,
+  "wordsPerLineDistribution": [
+    6,
+    5,
+    6,
+    5,
+    5,
+    6,
+    4,
+    6,
+    6,
+    5,
+    6,
+    4,
+    6,
+    4,
+    5,
+    6,
+    6,
+    6,
+    6,
+    5
+  ],
+  "wordFrequencies": [
+    [
+      "płozy",
+      2
+    ],
+    [
+      "musiano",
+      1
+    ],
+    [
+      "prędko",
+      1
+    ],
+    [
+      "sklecić",
+      1
+    ],
+    [
+      "drew",
+      1
+    ],
+    [
+      "ułożonych",
+      1
+    ],
+    [
+      "stosy",
+      1
+    ],
+    [
+      "całopalne",
+      1
+    ],
+    [
+      "gówniarze",
+      1
+    ],
+    [
+      "kitlach",
+      1
+    ],
+    [
+      "higienicznych",
+      1
+    ],
+    [
+      "maskach",
+      1
+    ],
+    [
+      "gazowych",
+      1
+    ],
+    [
+      "trupy",
+      1
+    ],
+    [
+      "pokładli",
+      1
+    ],
+    [
+      "dzwonki",
+      1
+    ],
+    [
+      "dalej",
+      1
+    ],
+    [
+      "nielojalnej",
+      1
+    ],
+    [
+      "krwi",
+      1
+    ],
+    [
+      "kazały",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 9,
+    "period": 6,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 1,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 1,
+  "negationWords": [
+    "nie"
+  ],
+  "pronounDistribution": {
+    "ja": 0,
+    "ty": 0,
+    "on_ona": 1,
+    "my": 4,
+    "wy": 0,
+    "oni": 1
+  },
+  "semanticFields": {
+    "cialo": 1,
+    "smierc": 1,
+    "erotyka": 1,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [
+    [
+      "już",
+      2
+    ]
+  ],
+  "firstWord": "musiano",
+  "lastWord": "srom",
+  "avgWordLength": 5.44,
+  "wordLengthDistribution": {
+    "6-7": 30,
+    "4-5": 28,
+    "1-3": 29,
+    "8-9": 13,
+    "10+": 8
+  },
+  "bigrams": [
+    [
+      "musiano płozy",
+      1
+    ],
+    [
+      "płozy prędko",
+      1
+    ],
+    [
+      "prędko sklecić",
+      1
+    ],
+    [
+      "stosy całopalne",
+      1
+    ],
+    [
+      "całopalne gówniarze",
+      1
+    ],
+    [
+      "kitlach higienicznych",
+      1
+    ]
+  ],
+  "poemWords": [
+    "musiano",
+    "płozy",
+    "prędko",
+    "sklecić",
+    "drew",
+    "ułożonych",
+    "stosy",
+    "całopalne",
+    "gówniarze",
+    "kitlach",
+    "higienicznych",
+    "maskach",
+    "gazowych",
+    "trupy",
+    "pokładli",
+    "dzwonki",
+    "dalej",
+    "nielojalnej",
+    "krwi",
+    "kazały",
+    "pokryć",
+    "wnękach",
+    "murów",
+    "klnąc",
+    "pospolicie",
+    "tamci",
+    "zaprzęgnięci",
+    "trupich",
+    "sanek",
+    "ciągnęli",
+    "ugór",
+    "myśmy",
+    "wrócili",
+    "nieba",
+    "domów",
+    "gazów",
+    "wzdęte",
+    "obłoki",
+    "pościeli",
+    "zimnym",
+    "śnie",
+    "materaca",
+    "kształt",
+    "towarzyszki",
+    "ciepło",
+    "wyciśnięty",
+    "woła",
+    "czeka",
+    "kolacja",
+    "próbujemy",
+    "miedzianego",
+    "smaku",
+    "nieobecności",
+    "wargach",
+    "dłońmi",
+    "siebie",
+    "wymuszamy",
+    "żal",
+    "dali",
+    "rozpękały",
+    "drzewa",
+    "huk",
+    "zmarzłe",
+    "ciała",
+    "zmarzła",
+    "krew",
+    "rozrywa",
+    "fala",
+    "mózgach",
+    "wyłupuje",
+    "szramę",
+    "siłą",
+    "rozerwany",
+    "srom"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 41,
+        "VERB": 20,
+        "ADJ": 11,
+        "ADV": 3,
+        "PRON": 5,
+        "ADP": 15,
+        "CCONJ": 3,
+        "SCONJ": 3,
+        "INTJ": 0,
+        "PART": 4,
+        "DET": 4,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.363,
+        "VERB": 0.177,
+        "ADJ": 0.097,
+        "ADV": 0.027,
+        "PRON": 0.044,
+        "ADP": 0.133,
+        "CCONJ": 0.027,
+        "SCONJ": 0.027,
+        "INTJ": 0,
+        "PART": 0.035,
+        "DET": 0.035,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 6,
+        "abstract": 3,
+        "ratio": 0.67
+      },
+      "verbTenses": {
+        "past": 8,
+        "infinitive": 2,
+        "present": 9,
+        "future": 2
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 2,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 1,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 1,
+        "oceniajace": 0,
+        "opisowe": 10
+      },
+      "adverbs": {
+        "temporalne": [],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "prędko",
+            "count": 1
+          },
+          {
+            "word": "dalej",
+            "count": 1
+          },
+          {
+            "word": "gdy",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 0,
+        "ty": 0,
+        "on_ona": 0,
+        "my": 2,
+        "wy": 0,
+        "oni": 1
+      },
+      "negations": {
+        "nie": 1,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 1,
+        "percentSentences": 0.12
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 244,
+        "consonants": 368,
+        "ratio": 0.66
+      },
+      "consonantClusters": {
+        "count": 14,
+        "top": [
+          {
+            "cluster": "rzł",
+            "count": 2
+          },
+          {
+            "cluster": "skl",
+            "count": 1
+          },
+          {
+            "cluster": "czn",
+            "count": 1
+          },
+          {
+            "cluster": "dzw",
+            "count": 1
+          },
+          {
+            "cluster": "krw",
+            "count": 1
+          },
+          {
+            "cluster": "kln",
+            "count": 1
+          },
+          {
+            "cluster": "prz",
+            "count": 1
+          },
+          {
+            "cluster": "wzd",
+            "count": 1
+          },
+          {
+            "cluster": "szcz",
+            "count": 1
+          },
+          {
+            "cluster": "kszt",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 22,
+        "syczace": 69,
+        "nosowe": 69,
+        "plynne": 64
+      },
+      "rhymes": {
+        "exact": 0,
+        "approximate": 2,
+        "internal": 1,
+        "assonance": 0,
+        "alliteration": 2
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 14.1,
+        "median": 10,
+        "min": 4,
+        "max": 34,
+        "distribution": [
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          2,
+          1,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 5.4,
+        "meanSyllables": 12,
+        "distribution": [
+          0,
+          0,
+          0,
+          0,
+          3,
+          7,
+          11
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 8,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 0,
+        "noSubject": 3,
+        "noPredicate": 0,
+        "percent": 0.38
+      },
+      "enjambement": {
+        "count": 1,
+        "percent": 0.05,
+        "positions": [
+          19
+        ]
+      },
+      "wordOrder": {
+        "svo": 4,
+        "inversions": 1,
+        "other": 3,
+        "deviationPercent": 0.5
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 3,
+        "śmierć": 3,
+        "erotyka": 1,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 253,
+      "estimatedSeconds": 84,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 41,
+      "VERB": 20,
+      "ADJ": 11,
+      "ADV": 3,
+      "PRON": 5,
+      "ADP": 15,
+      "CCONJ": 3,
+      "SCONJ": 3,
+      "INTJ": 0,
+      "PART": 4,
+      "DET": 4,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.363,
+      "VERB": 0.177,
+      "ADJ": 0.097,
+      "ADV": 0.027,
+      "PRON": 0.044,
+      "ADP": 0.133,
+      "CCONJ": 0.027,
+      "SCONJ": 0.027,
+      "INTJ": 0,
+      "PART": 0.035,
+      "DET": 0.035,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 6,
+      "abstract": 3,
+      "ratio": 0.67
+    },
+    "verbTenses": {
+      "past": 8,
+      "infinitive": 2,
+      "present": 9,
+      "future": 2
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 2,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 1,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 1,
+      "oceniajace": 0,
+      "opisowe": 10
+    },
+    "adverbs": {
+      "temporalne": [],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "prędko",
+          "count": 1
+        },
+        {
+          "word": "dalej",
+          "count": 1
+        },
+        {
+          "word": "gdy",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 0,
+      "ty": 0,
+      "on_ona": 0,
+      "my": 2,
+      "wy": 0,
+      "oni": 1
+    },
+    "negations": {
+      "nie": 1,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 1,
+      "percentSentences": 0.12
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 14.1,
+      "median": 10,
+      "min": 4,
+      "max": 34,
+      "distribution": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        0,
+        0,
+        2,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 5.4,
+      "meanSyllables": 12,
+      "distribution": [
+        0,
+        0,
+        0,
+        0,
+        3,
+        7,
+        11
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 8,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 0,
+      "noSubject": 3,
+      "noPredicate": 0,
+      "percent": 0.38
+    },
+    "enjambement": {
+      "count": 1,
+      "percent": 0.05,
+      "positions": [
+        19
+      ]
+    },
+    "wordOrder": {
+      "svo": 4,
+      "inversions": 1,
+      "other": 3,
+      "deviationPercent": 0.5
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 244,
+      "consonants": 368,
+      "ratio": 0.66
+    },
+    "consonantClusters": {
+      "count": 14,
+      "top": [
+        {
+          "cluster": "rzł",
+          "count": 2
+        },
+        {
+          "cluster": "skl",
+          "count": 1
+        },
+        {
+          "cluster": "czn",
+          "count": 1
+        },
+        {
+          "cluster": "dzw",
+          "count": 1
+        },
+        {
+          "cluster": "krw",
+          "count": 1
+        },
+        {
+          "cluster": "kln",
+          "count": 1
+        },
+        {
+          "cluster": "prz",
+          "count": 1
+        },
+        {
+          "cluster": "wzd",
+          "count": 1
+        },
+        {
+          "cluster": "szcz",
+          "count": 1
+        },
+        {
+          "cluster": "kszt",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 22,
+      "syczace": 69,
+      "nosowe": 69,
+      "plynne": 64
+    },
+    "rhymes": {
+      "exact": 0,
+      "approximate": 2,
+      "internal": 1,
+      "assonance": 0,
+      "alliteration": 2
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        21
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 253,
+      "estimatedSeconds": 84,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "regularny",
+      "regularityScore": 0.9
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Biblia",
+          "reference": "stosy całopalne",
+          "evidence": "Nawiązanie do biblijnych ofiar całopalnych i holocaustu"
+        },
+        {
+          "source": "mitologia",
+          "reference": "trupy na płozy pokładli",
+          "evidence": "Motyw przewożenia zmarłych nawiązujący do Charona"
+        },
+        {
+          "source": "inne",
+          "reference": "gówniarze w kitlach higienicznych",
+          "evidence": "Prawdopodobne nawiązanie do literatury Holocaustu i obozów zagłady"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.3,
+        "baudelaire": 0.7,
+        "bursa": 0.2,
+        "stachura": 0.1,
+        "grochowiak": 0.4,
+        "bialoszewski": 0.2,
+        "rozewicz": 0.6
+      }
+    },
+    "space": {
+      "type": "zamknieta",
+      "evidence": "wnęki murów, nieba naszych domów, materac - przestrzeń domowa kontrastująca z zewnętrznym horror",
+      "openClosedRatio": 0.2
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "zima",
+      "evidence": "zmarzłe ciała, zmarzła krew, zimny sen materaca",
+      "timeEvidence": "Brak wyraźnych wskazówek temporalnych"
+    },
+    "motion": {
+      "movement": 8,
+      "stillness": 3,
+      "dynamism": 0.8,
+      "evidence": "ciągnęli na ugór, wrócili, wyłupuje, rozrywa - intensywny ruch kontrastujący ze stagnacją śmierci"
+    },
+    "imageryDensity": {
+      "metaphors": 6,
+      "comparisons": 3,
+      "personifications": 4,
+      "hyperboles": 2,
+      "per100words": 12.5
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.9,
+      "creationLevel": 0.7,
+      "ironicDistance": 0.3,
+      "autobiographicSignals": [
+        "Myśmy wrócili",
+        "naszych domów",
+        "naszych wargach",
+        "naszych mózgach"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "rozpacz",
+      "secondary": "obrzydzenie",
+      "intensity": 0.9
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "użycie zaimków 'myśmy', 'nam', 'naszych' - wyraźna obecność podmiotu zbiorowego"
+    },
+    "addressee": {
+      "type": "nikt",
+      "evidence": "brak bezpośredniego zwracania się do kogoś, monolog wewnętrzny podmiotu zbiorowego"
+    },
+    "metaphors": [
+      {
+        "source": "dzwonki krwi",
+        "target": "instynkt przetrwania",
+        "example": "dzwonki dalej nielojalnej krwi kazały pokryć się po wnękach murów"
+      },
+      {
+        "source": "nieobecność ma smak miedziany",
+        "target": "fizyczne odczuwanie straty",
+        "example": "próbujemy miedzianego smaku nieobecności ich na naszych wargach"
+      },
+      {
+        "source": "szrama jak rozerwany srom",
+        "target": "trauma psychiczna",
+        "example": "fala w naszych mózgach wyłupuje szramę jak siłą rozerwany srom"
+      }
+    ],
+    "temperature": {
+      "value": 0.2,
+      "label": "zimne - dominuje śmierć, bezradność i zastygły horror"
+    },
+    "senses": {
+      "wzrok": 5,
+      "sluch": 4,
+      "dotyk": 5,
+      "smak": 4,
+      "zapach": 2
+    },
+    "autodestruction": {
+      "level": 0.7,
+      "signals": [
+        "dłońmi z siebie wymuszamy żal",
+        "obraz psychicznej traumy jako fizycznej rany",
+        "identyfikacja z ofiarami"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 0.777,
+    "dfaAlpha": 1.188,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -1.627507435742036
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -0.9872435485479226
+      },
+      {
+        "logWin": 1.6094379124341003,
+        "logFluc": -1.0372658319245625
+      },
+      {
+        "logWin": 1.791759469228055,
+        "logFluc": -0.7172782385141401
+      }
+    ],
+    "seriesLength": 20,
+    "series": [
+      6,
+      5,
+      6,
+      5,
+      5,
+      6,
+      4,
+      6,
+      6,
+      5,
+      6,
+      4,
+      6,
+      4,
+      5,
+      6,
+      6,
+      6,
+      6,
+      5
+    ]
+  }
+}

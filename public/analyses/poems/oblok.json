@@ -1,0 +1,937 @@
+{
+  "id": "oblok",
+  "title": "Obłok",
+  "wordCount": 84,
+  "lineCount": 12,
+  "uniqueWords": 74,
+  "vocabularyRichness": 0.881,
+  "avgWordsPerLine": 7,
+  "wordsPerLineDistribution": [
+    8,
+    9,
+    8,
+    7,
+    6,
+    6,
+    7,
+    6,
+    6,
+    8,
+    6,
+    7
+  ],
+  "wordFrequencies": [
+    [
+      "stoi",
+      2
+    ],
+    [
+      "słońcem",
+      2
+    ],
+    [
+      "zielony",
+      1
+    ],
+    [
+      "mur",
+      1
+    ],
+    [
+      "roślin",
+      1
+    ],
+    [
+      "rośnie",
+      1
+    ],
+    [
+      "poprzek",
+      1
+    ],
+    [
+      "krwi",
+      1
+    ],
+    [
+      "wbrew",
+      1
+    ],
+    [
+      "czyniąc",
+      1
+    ],
+    [
+      "dwa",
+      1
+    ],
+    [
+      "państwa",
+      1
+    ],
+    [
+      "samym",
+      1
+    ],
+    [
+      "ustroju",
+      1
+    ],
+    [
+      "jedno",
+      1
+    ],
+    [
+      "dominium",
+      1
+    ],
+    [
+      "nocy",
+      1
+    ],
+    [
+      "drugim",
+      1
+    ],
+    [
+      "dzień",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 7,
+    "period": 4,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 1,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 2,
+  "negationWords": [
+    "nie"
+  ],
+  "pronounDistribution": {
+    "ja": 0,
+    "ty": 1,
+    "on_ona": 0,
+    "my": 1,
+    "wy": 0,
+    "oni": 1
+  },
+  "semanticFields": {
+    "cialo": 0,
+    "smierc": 0,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [],
+  "firstWord": "już",
+  "lastWord": "stoi",
+  "avgWordLength": 5.15,
+  "wordLengthDistribution": {
+    "1-3": 20,
+    "6-7": 27,
+    "4-5": 27,
+    "8-9": 7,
+    "10+": 3
+  },
+  "bigrams": [
+    [
+      "zielony mur",
+      1
+    ],
+    [
+      "mur roślin",
+      1
+    ],
+    [
+      "roślin rośnie",
+      1
+    ],
+    [
+      "poprzek krwi",
+      1
+    ],
+    [
+      "krwi wbrew",
+      1
+    ],
+    [
+      "wbrew nam",
+      1
+    ],
+    [
+      "nam czyniąc",
+      1
+    ],
+    [
+      "czyniąc dwa",
+      1
+    ],
+    [
+      "dwa państwa",
+      1
+    ]
+  ],
+  "poemWords": [
+    "zielony",
+    "mur",
+    "roślin",
+    "rośnie",
+    "poprzek",
+    "krwi",
+    "wbrew",
+    "czyniąc",
+    "dwa",
+    "państwa",
+    "samym",
+    "ustroju",
+    "jedno",
+    "dominium",
+    "nocy",
+    "drugim",
+    "dzień",
+    "stoi",
+    "między",
+    "szparę",
+    "żywopłocie",
+    "chodzi",
+    "czuły",
+    "kurier",
+    "zaimka",
+    "posyłki",
+    "zieloną",
+    "granicę",
+    "nosząc",
+    "tajny",
+    "gryps",
+    "wzruszenia",
+    "ciągle",
+    "umie",
+    "nowym",
+    "słowem",
+    "jawnie",
+    "wiszącym",
+    "słońcem",
+    "ponad",
+    "granicą",
+    "tamtym",
+    "księżycem",
+    "winno",
+    "podług",
+    "wyliczeń",
+    "retoryki",
+    "wschodzi",
+    "zza",
+    "krawędzi",
+    "mowy",
+    "przewidzianym",
+    "miejscu",
+    "nudny",
+    "obłok"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 27,
+        "VERB": 12,
+        "ADJ": 12,
+        "ADV": 3,
+        "PRON": 3,
+        "ADP": 13,
+        "CCONJ": 3,
+        "SCONJ": 1,
+        "INTJ": 0,
+        "PART": 4,
+        "DET": 3,
+        "NUM": 1
+      },
+      "posPercent": {
+        "NOUN": 0.318,
+        "VERB": 0.141,
+        "ADJ": 0.141,
+        "ADV": 0.035,
+        "PRON": 0.035,
+        "ADP": 0.153,
+        "CCONJ": 0.035,
+        "SCONJ": 0.012,
+        "INTJ": 0,
+        "PART": 0.047,
+        "DET": 0.035,
+        "NUM": 0.012
+      },
+      "nounConcreteAbstract": {
+        "concrete": 2,
+        "abstract": 0,
+        "ratio": 1
+      },
+      "verbTenses": {
+        "present": 11,
+        "infinitive": 2
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 5,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 1,
+        "opisowe": 11
+      },
+      "adverbs": {
+        "temporalne": [
+          "ciągle"
+        ],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "ciągle",
+            "count": 1
+          },
+          {
+            "word": "jawnie",
+            "count": 1
+          },
+          {
+            "word": "gdzie",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 0,
+        "ty": 1,
+        "on_ona": 0,
+        "my": 1,
+        "wy": 0,
+        "oni": 1
+      },
+      "negations": {
+        "nie": 2,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 2,
+        "percentSentences": 0.5
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 175,
+        "consonants": 263,
+        "ratio": 0.67
+      },
+      "consonantClusters": {
+        "count": 14,
+        "top": [
+          {
+            "cluster": "prz",
+            "count": 4
+          },
+          {
+            "cluster": "krw",
+            "count": 1
+          },
+          {
+            "cluster": "wbr",
+            "count": 1
+          },
+          {
+            "cluster": "ństw",
+            "count": 1
+          },
+          {
+            "cluster": "str",
+            "count": 1
+          },
+          {
+            "cluster": "szp",
+            "count": 1
+          },
+          {
+            "cluster": "wzr",
+            "count": 1
+          },
+          {
+            "cluster": "szcz",
+            "count": 1
+          },
+          {
+            "cluster": "gdz",
+            "count": 1
+          },
+          {
+            "cluster": "wsch",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 16,
+        "syczace": 42,
+        "nosowe": 69,
+        "plynne": 36
+      },
+      "rhymes": {
+        "exact": 1,
+        "approximate": 0,
+        "internal": 2,
+        "assonance": 1,
+        "alliteration": 0
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 21.2,
+        "median": 20,
+        "min": 8,
+        "max": 38,
+        "distribution": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 6.5,
+        "meanSyllables": 13.8,
+        "distribution": [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          5,
+          3,
+          3,
+          1
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 4,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 0,
+        "noSubject": 0,
+        "noPredicate": 0,
+        "percent": 0
+      },
+      "enjambement": {
+        "count": 7,
+        "percent": 0.58,
+        "positions": [
+          2,
+          5,
+          7,
+          8,
+          9,
+          11,
+          12
+        ]
+      },
+      "wordOrder": {
+        "svo": 2,
+        "inversions": 2,
+        "other": 0,
+        "deviationPercent": 0.5
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 0,
+        "śmierć": 0,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": [
+        "dzień/noc"
+      ]
+    },
+    "tempo": {
+      "syllables": 180,
+      "estimatedSeconds": 60,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 27,
+      "VERB": 12,
+      "ADJ": 12,
+      "ADV": 3,
+      "PRON": 3,
+      "ADP": 13,
+      "CCONJ": 3,
+      "SCONJ": 1,
+      "INTJ": 0,
+      "PART": 4,
+      "DET": 3,
+      "NUM": 1
+    },
+    "posPercent": {
+      "NOUN": 0.318,
+      "VERB": 0.141,
+      "ADJ": 0.141,
+      "ADV": 0.035,
+      "PRON": 0.035,
+      "ADP": 0.153,
+      "CCONJ": 0.035,
+      "SCONJ": 0.012,
+      "INTJ": 0,
+      "PART": 0.047,
+      "DET": 0.035,
+      "NUM": 0.012
+    },
+    "nounConcreteAbstract": {
+      "concrete": 2,
+      "abstract": 0,
+      "ratio": 1
+    },
+    "verbTenses": {
+      "present": 11,
+      "infinitive": 2
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 5,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 1,
+      "opisowe": 11
+    },
+    "adverbs": {
+      "temporalne": [
+        "ciągle"
+      ],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "ciągle",
+          "count": 1
+        },
+        {
+          "word": "jawnie",
+          "count": 1
+        },
+        {
+          "word": "gdzie",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 0,
+      "ty": 1,
+      "on_ona": 0,
+      "my": 1,
+      "wy": 0,
+      "oni": 1
+    },
+    "negations": {
+      "nie": 2,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 2,
+      "percentSentences": 0.5
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 21.2,
+      "median": 20,
+      "min": 8,
+      "max": 38,
+      "distribution": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 6.5,
+      "meanSyllables": 13.8,
+      "distribution": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        5,
+        3,
+        3,
+        1
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 4,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 0,
+      "noSubject": 0,
+      "noPredicate": 0,
+      "percent": 0
+    },
+    "enjambement": {
+      "count": 7,
+      "percent": 0.58,
+      "positions": [
+        2,
+        5,
+        7,
+        8,
+        9,
+        11,
+        12
+      ]
+    },
+    "wordOrder": {
+      "svo": 2,
+      "inversions": 2,
+      "other": 0,
+      "deviationPercent": 0.5
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 175,
+      "consonants": 263,
+      "ratio": 0.67
+    },
+    "consonantClusters": {
+      "count": 14,
+      "top": [
+        {
+          "cluster": "prz",
+          "count": 4
+        },
+        {
+          "cluster": "krw",
+          "count": 1
+        },
+        {
+          "cluster": "wbr",
+          "count": 1
+        },
+        {
+          "cluster": "ństw",
+          "count": 1
+        },
+        {
+          "cluster": "str",
+          "count": 1
+        },
+        {
+          "cluster": "szp",
+          "count": 1
+        },
+        {
+          "cluster": "wzr",
+          "count": 1
+        },
+        {
+          "cluster": "szcz",
+          "count": 1
+        },
+        {
+          "cluster": "gdz",
+          "count": 1
+        },
+        {
+          "cluster": "wsch",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 16,
+      "syczace": 42,
+      "nosowe": 69,
+      "plynne": 36
+    },
+    "rhymes": {
+      "exact": 1,
+      "approximate": 0,
+      "internal": 2,
+      "assonance": 1,
+      "alliteration": 0
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        13
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 180,
+      "estimatedSeconds": 60,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "regularny",
+      "regularityScore": 0.73
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Różewicz",
+          "reference": "problematyka niemożności poezji",
+          "evidence": "wzruszenia, które ciągle nie umie być nowym / słowem"
+        },
+        {
+          "source": "inne",
+          "reference": "poetyka lingwistyczna",
+          "evidence": "zaimka na posyłki: ty / przez zieloną granicę nosząc tajny gryps"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.2,
+        "baudelaire": 0.1,
+        "bursa": 0.3,
+        "stachura": 0.4,
+        "grochowiak": 0.2,
+        "bialoszewski": 0.6,
+        "rozewicz": 0.8
+      }
+    },
+    "space": {
+      "type": "zamknieta",
+      "evidence": "zielony mur roślin / przez szparę w żywopłocie / przez zieloną granicę",
+      "openClosedRatio": 0.3
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "nieokreslona",
+      "evidence": "Jedno dominium nocy jest, w drugim dzień stoi -czas jako podział przestrzeni, nie konkretny moment"
+    },
+    "motion": {
+      "movement": 6,
+      "stillness": 4,
+      "dynamism": 0.6,
+      "evidence": "rośnie / chodzi czuły kurier / nosząc / nie wschodzi / nudny obłok stoi"
+    },
+    "imageryDensity": {
+      "metaphors": 8,
+      "comparisons": 1,
+      "personifications": 3,
+      "hyperboles": 0,
+      "per100words": 12
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.3,
+      "creationLevel": 0.8,
+      "ironicDistance": 0.4,
+      "autobiographicSignals": [
+        "my",
+        "nas",
+        "wiemy"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "melancholia",
+      "secondary": "rezygnacja",
+      "intensity": 0.7
+    },
+    "subjectPresence": {
+      "type": "ukryte",
+      "evidence": "podmiot ukryty w pierwszej osobie liczby mnogiej 'nas', 'wiemy'"
+    },
+    "addressee": {
+      "type": "ty",
+      "evidence": "bezpośrednie zwrócenie się do 'ty' jako 'czuły kurier zaimka'"
+    },
+    "metaphors": [
+      {
+        "source": "zielony mur roślin",
+        "target": "bariera komunikacyjna",
+        "example": "zielony mur roślin rośnie w poprzek krwi"
+      },
+      {
+        "source": "dwa państwa",
+        "target": "rozdzielone światy/osoby",
+        "example": "czyniąc dwa państwa w tym samym ustroju"
+      },
+      {
+        "source": "kurier",
+        "target": "zaimek 'ty' jako przekaźnik",
+        "example": "czuły kurier zaimka na posyłki: ty"
+      },
+      {
+        "source": "słońce i księżyc",
+        "target": "idealne słowo/komunikacja",
+        "example": "słońcem tamtym i księżycem"
+      },
+      {
+        "source": "nudny obłok",
+        "target": "nieudana komunikacja",
+        "example": "w przewidzianym miejscu nudny obłok stoi"
+      }
+    ],
+    "temperature": {
+      "value": 0.3,
+      "label": "chłodna melancholia i rezygnacja"
+    },
+    "senses": {
+      "wzrok": 5,
+      "sluch": 0,
+      "dotyk": 2,
+      "smak": 0,
+      "zapach": 0
+    },
+    "autodestruction": {
+      "level": 0.4,
+      "signals": [
+        "bariera 'w poprzek krwi'",
+        "niemożność komunikacji",
+        "rezygnacja wobec 'nudnego obłoku'"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 1.178,
+    "dfaAlpha": 4.075,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -2.1383330595080228
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -0.9658865108241597
+      }
+    ],
+    "seriesLength": 12,
+    "series": [
+      8,
+      9,
+      8,
+      7,
+      6,
+      6,
+      7,
+      6,
+      6,
+      8,
+      6,
+      7
+    ]
+  }
+}

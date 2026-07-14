@@ -1,0 +1,1003 @@
+{
+  "id": "chwila",
+  "title": "Chwila",
+  "wordCount": 73,
+  "lineCount": 14,
+  "uniqueWords": 64,
+  "vocabularyRichness": 0.877,
+  "avgWordsPerLine": 5.21,
+  "wordsPerLineDistribution": [
+    8,
+    6,
+    2,
+    5,
+    5,
+    9,
+    3,
+    3,
+    7,
+    7,
+    1,
+    5,
+    9,
+    3
+  ],
+  "wordFrequencies": [
+    [
+      "gałąź",
+      1
+    ],
+    [
+      "ręki",
+      1
+    ],
+    [
+      "złamie",
+      1
+    ],
+    [
+      "przegubie",
+      1
+    ],
+    [
+      "łokcia",
+      1
+    ],
+    [
+      "cofnie",
+      1
+    ],
+    [
+      "prośbę",
+      1
+    ],
+    [
+      "wyciągniętej",
+      1
+    ],
+    [
+      "dłoni",
+      1
+    ],
+    [
+      "zanim",
+      1
+    ],
+    [
+      "wargami",
+      1
+    ],
+    [
+      "liścia",
+      1
+    ],
+    [
+      "zdejmiesz",
+      1
+    ],
+    [
+      "szron",
+      1
+    ],
+    [
+      "oczekiwania",
+      1
+    ],
+    [
+      "zaraz",
+      1
+    ],
+    [
+      "przerośnie",
+      1
+    ],
+    [
+      "wiernie",
+      1
+    ],
+    [
+      "przeistoczyć",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 6,
+    "period": 0,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 1,
+    "colon": 1,
+    "semicolon": 1
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 1,
+  "negationWords": [
+    "nie"
+  ],
+  "pronounDistribution": {
+    "ja": 0,
+    "ty": 1,
+    "on_ona": 3,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 0,
+    "smierc": 0,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [],
+  "firstWord": "wreszcie",
+  "lastWord": "czeka",
+  "avgWordLength": 5.12,
+  "wordLengthDistribution": {
+    "8-9": 4,
+    "4-5": 21,
+    "1-3": 22,
+    "6-7": 20,
+    "10+": 6
+  },
+  "bigrams": [
+    [
+      "wreszcie gałąź",
+      1
+    ],
+    [
+      "ręki złamie",
+      1
+    ],
+    [
+      "przegubie łokcia",
+      1
+    ],
+    [
+      "cofnie prośbę",
+      1
+    ],
+    [
+      "prośbę wyciągniętej",
+      1
+    ],
+    [
+      "wyciągniętej dłoni",
+      1
+    ],
+    [
+      "dłoni zanim",
+      1
+    ],
+    [
+      "zanim wargami",
+      1
+    ]
+  ],
+  "poemWords": [
+    "gałąź",
+    "ręki",
+    "złamie",
+    "przegubie",
+    "łokcia",
+    "cofnie",
+    "prośbę",
+    "wyciągniętej",
+    "dłoni",
+    "zanim",
+    "wargami",
+    "liścia",
+    "zdejmiesz",
+    "szron",
+    "oczekiwania",
+    "zaraz",
+    "przerośnie",
+    "siebie",
+    "wiernie",
+    "przeistoczyć",
+    "trwogę",
+    "powie",
+    "nie”",
+    "ruchem",
+    "spłoszonych",
+    "ptaków",
+    "brwi",
+    "uniosą",
+    "połowy",
+    "czoła",
+    "sekundą",
+    "gotowa",
+    "oddać",
+    "nieprzymuszony",
+    "dołu",
+    "brzucha",
+    "drży",
+    "listek",
+    "krwi",
+    "bolesnej",
+    "doczeka",
+    "czeka"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 21,
+        "VERB": 13,
+        "ADJ": 5,
+        "ADV": 3,
+        "PRON": 10,
+        "ADP": 7,
+        "CCONJ": 2,
+        "SCONJ": 3,
+        "INTJ": 0,
+        "PART": 7,
+        "DET": 3,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.284,
+        "VERB": 0.176,
+        "ADJ": 0.068,
+        "ADV": 0.041,
+        "PRON": 0.135,
+        "ADP": 0.095,
+        "CCONJ": 0.027,
+        "SCONJ": 0.041,
+        "INTJ": 0,
+        "PART": 0.095,
+        "DET": 0.041,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 3,
+        "abstract": 0,
+        "ratio": 1
+      },
+      "verbTenses": {
+        "present": 4,
+        "future": 7,
+        "infinitive": 2
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 1,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 0,
+        "opisowe": 5
+      },
+      "adverbs": {
+        "temporalne": [
+          "zaraz"
+        ],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "zaraz",
+            "count": 1
+          },
+          {
+            "word": "wiernie",
+            "count": 1
+          },
+          {
+            "word": "wtedy",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 0,
+        "ty": 1,
+        "on_ona": 3,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 2,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 2,
+        "percentSentences": 1
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 157,
+        "consonants": 222,
+        "ratio": 0.71
+      },
+      "consonantClusters": {
+        "count": 16,
+        "top": [
+          {
+            "cluster": "prz",
+            "count": 5
+          },
+          {
+            "cluster": "szcz",
+            "count": 2
+          },
+          {
+            "cluster": "chw",
+            "count": 1
+          },
+          {
+            "cluster": "szc",
+            "count": 1
+          },
+          {
+            "cluster": "szr",
+            "count": 1
+          },
+          {
+            "cluster": "trw",
+            "count": 1
+          },
+          {
+            "cluster": "spł",
+            "count": 1
+          },
+          {
+            "cluster": "brw",
+            "count": 1
+          },
+          {
+            "cluster": "brz",
+            "count": 1
+          },
+          {
+            "cluster": "drż",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 25,
+        "syczace": 36,
+        "nosowe": 34,
+        "plynne": 33
+      },
+      "rhymes": {
+        "exact": 1,
+        "approximate": 1,
+        "internal": 0,
+        "assonance": 0,
+        "alliteration": 2
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 37,
+        "median": 37,
+        "min": 1,
+        "max": 73,
+        "distribution": [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 5,
+        "meanSyllables": 10.9,
+        "distribution": [
+          0,
+          2,
+          1,
+          3,
+          0,
+          2,
+          2,
+          2,
+          1,
+          2
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 2,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 0,
+        "noSubject": 1,
+        "noPredicate": 0,
+        "percent": 0.5
+      },
+      "enjambement": {
+        "count": 9,
+        "percent": 0.64,
+        "positions": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          8,
+          11,
+          13,
+          14
+        ]
+      },
+      "wordOrder": {
+        "svo": 1,
+        "inversions": 0,
+        "other": 0,
+        "deviationPercent": 0
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 2,
+        "śmierć": 0,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 163,
+      "estimatedSeconds": 54,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 21,
+      "VERB": 13,
+      "ADJ": 5,
+      "ADV": 3,
+      "PRON": 10,
+      "ADP": 7,
+      "CCONJ": 2,
+      "SCONJ": 3,
+      "INTJ": 0,
+      "PART": 7,
+      "DET": 3,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.284,
+      "VERB": 0.176,
+      "ADJ": 0.068,
+      "ADV": 0.041,
+      "PRON": 0.135,
+      "ADP": 0.095,
+      "CCONJ": 0.027,
+      "SCONJ": 0.041,
+      "INTJ": 0,
+      "PART": 0.095,
+      "DET": 0.041,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 3,
+      "abstract": 0,
+      "ratio": 1
+    },
+    "verbTenses": {
+      "present": 4,
+      "future": 7,
+      "infinitive": 2
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 1,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 0,
+      "opisowe": 5
+    },
+    "adverbs": {
+      "temporalne": [
+        "zaraz"
+      ],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "zaraz",
+          "count": 1
+        },
+        {
+          "word": "wiernie",
+          "count": 1
+        },
+        {
+          "word": "wtedy",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 0,
+      "ty": 1,
+      "on_ona": 3,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 2,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 2,
+      "percentSentences": 1
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 37,
+      "median": 37,
+      "min": 1,
+      "max": 73,
+      "distribution": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 5,
+      "meanSyllables": 10.9,
+      "distribution": [
+        0,
+        2,
+        1,
+        3,
+        0,
+        2,
+        2,
+        2,
+        1,
+        2
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 2,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 0,
+      "noSubject": 1,
+      "noPredicate": 0,
+      "percent": 0.5
+    },
+    "enjambement": {
+      "count": 9,
+      "percent": 0.64,
+      "positions": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        8,
+        11,
+        13,
+        14
+      ]
+    },
+    "wordOrder": {
+      "svo": 1,
+      "inversions": 0,
+      "other": 0,
+      "deviationPercent": 0
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 157,
+      "consonants": 222,
+      "ratio": 0.71
+    },
+    "consonantClusters": {
+      "count": 16,
+      "top": [
+        {
+          "cluster": "prz",
+          "count": 5
+        },
+        {
+          "cluster": "szcz",
+          "count": 2
+        },
+        {
+          "cluster": "chw",
+          "count": 1
+        },
+        {
+          "cluster": "szc",
+          "count": 1
+        },
+        {
+          "cluster": "szr",
+          "count": 1
+        },
+        {
+          "cluster": "trw",
+          "count": 1
+        },
+        {
+          "cluster": "spł",
+          "count": 1
+        },
+        {
+          "cluster": "brw",
+          "count": 1
+        },
+        {
+          "cluster": "brz",
+          "count": 1
+        },
+        {
+          "cluster": "drż",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 25,
+      "syczace": 36,
+      "nosowe": 34,
+      "plynne": 33
+    },
+    "rhymes": {
+      "exact": 1,
+      "approximate": 1,
+      "internal": 0,
+      "assonance": 0,
+      "alliteration": 2
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        15
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 163,
+      "estimatedSeconds": 54,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "polregularny",
+      "regularityScore": 0.46
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Rimbaud",
+          "reference": "symbolika metamorfozy i przemiany",
+          "evidence": "przeistoczyć w trwogę"
+        },
+        {
+          "source": "Baudelaire",
+          "reference": "estetyka przemijania i melancholia",
+          "evidence": "szron oczekiwania"
+        },
+        {
+          "source": "mitologia",
+          "reference": "motyw metamorfozy",
+          "evidence": "gałąź jej ręki złamie się"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.8,
+        "baudelaire": 0.7,
+        "bursa": 0.3,
+        "stachura": 0.4,
+        "grochowiak": 0.5,
+        "bialoszewski": 0.2,
+        "rozewicz": 0.3
+      }
+    },
+    "space": {
+      "type": "nieokreslona",
+      "evidence": "przestrzeń intymna, skoncentrowana na gestach i ruchach ciała",
+      "openClosedRatio": 0.3
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "zima",
+      "evidence": "szron oczekiwania - metafora zimowego krajobrazu"
+    },
+    "motion": {
+      "movement": 7,
+      "stillness": 4,
+      "dynamism": 0.7,
+      "evidence": "dynamiczne ruchy: złamie się, cofnie, uniosą, drży - kontrast z finałowym oczekiwaniem"
+    },
+    "imageryDensity": {
+      "metaphors": 8,
+      "comparisons": 2,
+      "personifications": 4,
+      "hyperboles": 1,
+      "per100words": 18.75
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.9,
+      "creationLevel": 0.8,
+      "ironicDistance": 0.1,
+      "autobiographicSignals": [
+        "data osobista",
+        "intymność sytuacji",
+        "konkretność gestu i emocji"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "tęsknota",
+      "secondary": "melancholia",
+      "intensity": 0.8
+    },
+    "subjectPresence": {
+      "type": "ukryte",
+      "evidence": "Podmiot obecny w perspektywie obserwatora opisującego scenę intymną w drugiej osobie"
+    },
+    "addressee": {
+      "type": "ty",
+      "evidence": "Bezpośrednie zwroty 'zdejmiesz', 'ci oddać' wskazują na adresata w drugiej osobie"
+    },
+    "metaphors": [
+      {
+        "source": "gałąź",
+        "target": "ręka kobiety",
+        "example": "gałąź jej ręki złamie się w przegubie"
+      },
+      {
+        "source": "liść",
+        "target": "ciało/skóra",
+        "example": "z jej liścia zdejmiesz szron"
+      },
+      {
+        "source": "szron",
+        "target": "oczekiwanie/pragnienie",
+        "example": "szron oczekiwania"
+      },
+      {
+        "source": "spłoszone ptaki",
+        "target": "brwi",
+        "example": "ruchem spłoszonych ptaków brwi"
+      },
+      {
+        "source": "listek krwi",
+        "target": "intymna część ciała",
+        "example": "listek swej krwi bolesnej"
+      }
+    ],
+    "temperature": {
+      "value": 0.3,
+      "label": "chłodne - rezygnacja i smutek"
+    },
+    "senses": {
+      "wzrok": 5,
+      "sluch": 1,
+      "dotyk": 4,
+      "smak": 1,
+      "zapach": 0
+    },
+    "autodestruction": {
+      "level": 0.6,
+      "signals": [
+        "oczekiwanie na coś co się nie spełni",
+        "świadomość nieuniknionych rozczarowań",
+        "bolesna akceptacja odrzucenia"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 1.114,
+    "dfaAlpha": 0.924,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -0.058891517828191735
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": 0.20687767772961127
+      }
+    ],
+    "seriesLength": 14,
+    "series": [
+      8,
+      6,
+      2,
+      5,
+      5,
+      9,
+      3,
+      3,
+      7,
+      7,
+      1,
+      5,
+      9,
+      3
+    ]
+  }
+}

@@ -1,0 +1,894 @@
+{
+  "id": "piesn-ostateczna",
+  "title": "Pieśń ostateczna",
+  "wordCount": 98,
+  "lineCount": 16,
+  "uniqueWords": 79,
+  "vocabularyRichness": 0.806,
+  "avgWordsPerLine": 6.13,
+  "wordsPerLineDistribution": [
+    7,
+    4,
+    6,
+    8,
+    6,
+    6,
+    6,
+    7,
+    8,
+    7,
+    9,
+    8,
+    8,
+    6,
+    1,
+    1
+  ],
+  "wordFrequencies": [
+    [
+      "piersi",
+      2
+    ],
+    [
+      "prosząc",
+      1
+    ],
+    [
+      "spodziewając",
+      1
+    ],
+    [
+      "rozpoczynam",
+      1
+    ],
+    [
+      "ostateczną",
+      1
+    ],
+    [
+      "pieśń",
+      1
+    ],
+    [
+      "przeciwko",
+      1
+    ],
+    [
+      "sprzymierzony",
+      1
+    ],
+    [
+      "sądem",
+      1
+    ],
+    [
+      "policją",
+      1
+    ],
+    [
+      "pogodzony",
+      1
+    ],
+    [
+      "odjęty",
+      1
+    ],
+    [
+      "matczynej",
+      1
+    ],
+    [
+      "anny",
+      1
+    ],
+    [
+      "odstawiony",
+      1
+    ],
+    [
+      "stołu",
+      1
+    ],
+    [
+      "butelki",
+      1
+    ],
+    [
+      "wypisany",
+      1
+    ],
+    [
+      "europy",
+      1
+    ],
+    [
+      "zapisany",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 7,
+    "period": 0,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 0,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 5,
+  "negationWords": [
+    "brak",
+    "nie"
+  ],
+  "pronounDistribution": {
+    "ja": 0,
+    "ty": 0,
+    "on_ona": 0,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 2,
+    "smierc": 0,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 1,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [],
+  "firstWord": "niczego",
+  "lastWord": "marnie",
+  "avgWordLength": 4.86,
+  "wordLengthDistribution": {
+    "6-7": 20,
+    "1-3": 38,
+    "10+": 8,
+    "4-5": 25,
+    "8-9": 7
+  },
+  "bigrams": [
+    [
+      "rozpoczynam tę",
+      1
+    ],
+    [
+      "tę ostateczną",
+      1
+    ],
+    [
+      "ostateczną pieśń",
+      1
+    ],
+    [
+      "pieśń także",
+      1
+    ],
+    [
+      "także przeciwko",
+      1
+    ]
+  ],
+  "poemWords": [
+    "prosząc",
+    "spodziewając",
+    "rozpoczynam",
+    "ostateczną",
+    "pieśń",
+    "przeciwko",
+    "sprzymierzony",
+    "sądem",
+    "policją",
+    "pogodzony",
+    "odjęty",
+    "matczynej",
+    "piersi",
+    "anny",
+    "odstawiony",
+    "stołu",
+    "butelki",
+    "wypisany",
+    "europy",
+    "zapisany",
+    "antarktydy",
+    "afryki",
+    "azji",
+    "wiedząc",
+    "zasługą",
+    "żadną",
+    "brak",
+    "winy",
+    "mający",
+    "zasługę",
+    "żem",
+    "winny",
+    "bojąc",
+    "czegóż",
+    "bać",
+    "zaznał",
+    "zaznać",
+    "niczym",
+    "polak",
+    "płotem",
+    "leżąc",
+    "dnie",
+    "zwolna",
+    "krzepnącej",
+    "krwi",
+    "umierając",
+    "marnie",
+    "1969",
+    "369"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 15,
+        "VERB": 14,
+        "ADJ": 12,
+        "ADV": 2,
+        "PRON": 10,
+        "ADP": 12,
+        "CCONJ": 9,
+        "SCONJ": 4,
+        "INTJ": 0,
+        "PART": 10,
+        "DET": 2,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.15,
+        "VERB": 0.14,
+        "ADJ": 0.12,
+        "ADV": 0.02,
+        "PRON": 0.1,
+        "ADP": 0.12,
+        "CCONJ": 0.09,
+        "SCONJ": 0.04,
+        "INTJ": 0,
+        "PART": 0.1,
+        "DET": 0.02,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 5,
+        "abstract": 1,
+        "ratio": 0.83
+      },
+      "verbTenses": {
+        "present": 12,
+        "past": 2,
+        "infinitive": 2
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 3,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 1,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 0,
+        "opisowe": 12
+      },
+      "adverbs": {
+        "temporalne": [],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "tam",
+            "count": 1
+          },
+          {
+            "word": "marnie",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 0,
+        "ty": 0,
+        "on_ona": 0,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 4,
+        "nic": 1,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 1,
+        "total": 6,
+        "percentSentences": 0.86
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 208,
+        "consonants": 276,
+        "ratio": 0.75
+      },
+      "consonantClusters": {
+        "count": 12,
+        "top": [
+          {
+            "cluster": "czn",
+            "count": 2
+          },
+          {
+            "cluster": "prz",
+            "count": 2
+          },
+          {
+            "cluster": "sprz",
+            "count": 1
+          },
+          {
+            "cluster": "tcz",
+            "count": 1
+          },
+          {
+            "cluster": "dst",
+            "count": 1
+          },
+          {
+            "cluster": "rkt",
+            "count": 1
+          },
+          {
+            "cluster": "wsz",
+            "count": 1
+          },
+          {
+            "cluster": "stk",
+            "count": 1
+          },
+          {
+            "cluster": "krz",
+            "count": 1
+          },
+          {
+            "cluster": "krw",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 28,
+        "syczace": 53,
+        "nosowe": 67,
+        "plynne": 29
+      },
+      "rhymes": {
+        "exact": 2,
+        "approximate": 7,
+        "internal": 1,
+        "assonance": 1,
+        "alliteration": 0
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 14.3,
+        "median": 12,
+        "min": 1,
+        "max": 28,
+        "distribution": [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 5.9,
+        "meanSyllables": 12.5,
+        "distribution": [
+          0,
+          2,
+          1,
+          0,
+          1,
+          0,
+          5,
+          3,
+          4,
+          1
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 7,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 1,
+        "noSubject": 2,
+        "noPredicate": 0,
+        "percent": 0.43
+      },
+      "enjambement": {
+        "count": 1,
+        "percent": 0.06,
+        "positions": [
+          9
+        ]
+      },
+      "wordOrder": {
+        "svo": 2,
+        "inversions": 2,
+        "other": 2,
+        "deviationPercent": 0.67
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 2,
+        "śmierć": 1,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 1,
+        "sacrum": 0,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 213,
+      "estimatedSeconds": 71,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 15,
+      "VERB": 14,
+      "ADJ": 12,
+      "ADV": 2,
+      "PRON": 10,
+      "ADP": 12,
+      "CCONJ": 9,
+      "SCONJ": 4,
+      "INTJ": 0,
+      "PART": 10,
+      "DET": 2,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.15,
+      "VERB": 0.14,
+      "ADJ": 0.12,
+      "ADV": 0.02,
+      "PRON": 0.1,
+      "ADP": 0.12,
+      "CCONJ": 0.09,
+      "SCONJ": 0.04,
+      "INTJ": 0,
+      "PART": 0.1,
+      "DET": 0.02,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 5,
+      "abstract": 1,
+      "ratio": 0.83
+    },
+    "verbTenses": {
+      "present": 12,
+      "past": 2,
+      "infinitive": 2
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 3,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 1,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 0,
+      "opisowe": 12
+    },
+    "adverbs": {
+      "temporalne": [],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "tam",
+          "count": 1
+        },
+        {
+          "word": "marnie",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 0,
+      "ty": 0,
+      "on_ona": 0,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 4,
+      "nic": 1,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 1,
+      "total": 6,
+      "percentSentences": 0.86
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 14.3,
+      "median": 12,
+      "min": 1,
+      "max": 28,
+      "distribution": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 5.9,
+      "meanSyllables": 12.5,
+      "distribution": [
+        0,
+        2,
+        1,
+        0,
+        1,
+        0,
+        5,
+        3,
+        4,
+        1
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 7,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 1,
+      "noSubject": 2,
+      "noPredicate": 0,
+      "percent": 0.43
+    },
+    "enjambement": {
+      "count": 1,
+      "percent": 0.06,
+      "positions": [
+        9
+      ]
+    },
+    "wordOrder": {
+      "svo": 2,
+      "inversions": 2,
+      "other": 2,
+      "deviationPercent": 0.67
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 208,
+      "consonants": 276,
+      "ratio": 0.75
+    },
+    "consonantClusters": {
+      "count": 12,
+      "top": [
+        {
+          "cluster": "czn",
+          "count": 2
+        },
+        {
+          "cluster": "prz",
+          "count": 2
+        },
+        {
+          "cluster": "sprz",
+          "count": 1
+        },
+        {
+          "cluster": "tcz",
+          "count": 1
+        },
+        {
+          "cluster": "dst",
+          "count": 1
+        },
+        {
+          "cluster": "rkt",
+          "count": 1
+        },
+        {
+          "cluster": "wsz",
+          "count": 1
+        },
+        {
+          "cluster": "stk",
+          "count": 1
+        },
+        {
+          "cluster": "krz",
+          "count": 1
+        },
+        {
+          "cluster": "krw",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 28,
+      "syczace": 53,
+      "nosowe": 67,
+      "plynne": 29
+    },
+    "rhymes": {
+      "exact": 2,
+      "approximate": 7,
+      "internal": 1,
+      "assonance": 1,
+      "alliteration": 0
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        17
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 213,
+      "estimatedSeconds": 71,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "polregularny",
+      "regularityScore": 0.6
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Biblia",
+          "reference": "Ostatnia pieśń, testament",
+          "evidence": "PIEŚŃ OSTATECZNA - nawiązanie do biblijnej pieśni Symeona lub ostatnich słów"
+        },
+        {
+          "source": "Biblia",
+          "reference": "Odjęcie od piersi matczynej",
+          "evidence": "Odjęty od matczynej piersi - biblijny motyw odłączenia od źródła życia"
+        },
+        {
+          "source": "Różewicz",
+          "reference": "Poetyka negacji",
+          "evidence": "Niczego już nie prosząc ni spodziewając się - różewiczowska negacja"
+        },
+        {
+          "source": "Rimbaud",
+          "reference": "Radykalne doświadczenie",
+          "evidence": "co zaznał wszystkiego, co tylko można zaznać - rimbaudowska totalizacja doświadczenia"
+        }
+      ],
+      "selfQuotes": [
+        "Anna piersi",
+        "zasługą żadną jest brak winy",
+        "Polak pod płotem"
+      ],
+      "influences": {
+        "rimbaud": 0.7,
+        "baudelaire": 0.4,
+        "bursa": 0.3,
+        "stachura": 0.2,
+        "grochowiak": 0.1,
+        "bialoszewski": 0.1,
+        "rozewicz": 0.8
+      }
+    },
+    "space": {
+      "type": "zamknieta",
+      "evidence": "pod płotem, leżąc na dnie, wypisany z Europy a nie zapisany nigdzie",
+      "openClosedRatio": 0.2
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "nieokreslona",
+      "evidence": "brak wyraźnych wskazówek temporalnych, dominuje eschatologiczna perspektywa"
+    },
+    "motion": {
+      "movement": 2,
+      "stillness": 8,
+      "dynamism": 0.2,
+      "evidence": "leżąc, krzepnącej krwi, umierając - statyczność śmierci"
+    },
+    "imageryDensity": {
+      "metaphors": 4,
+      "comparisons": 1,
+      "personifications": 1,
+      "hyperboles": 2,
+      "per100words": 12.1
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.9,
+      "creationLevel": 0.3,
+      "ironicDistance": 0.2,
+      "autobiographicSignals": [
+        "ostateczna pieśń",
+        "Anny piersi",
+        "Polak pod płotem",
+        "data 1969"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "rezygnacja",
+      "secondary": "melancholia",
+      "intensity": 0.9
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "Rozpoczynam tę ostateczną pieśń"
+    },
+    "addressee": {
+      "type": "siebie",
+      "evidence": "przeciwko sobie już nie sprzymierzony"
+    },
+    "metaphors": [
+      {
+        "source": "odjęcie od piersi",
+        "target": "utrata bliskości/miłości",
+        "example": "Odjęty od matczynej piersi, Anny piersi"
+      },
+      {
+        "source": "wypisanie z Europy",
+        "target": "wyobcowanie egzystencjalne",
+        "example": "Wypisany z Europy a nie zapisany Do Antarktydy"
+      },
+      {
+        "source": "Polak pod płotem",
+        "target": "upokorzenie narodowe",
+        "example": "Niczym Polak pod płotem, leżąc także na dnie"
+      }
+    ],
+    "temperature": {
+      "value": 0.1,
+      "label": "lodowata rezygnacja"
+    },
+    "senses": {
+      "wzrok": 3,
+      "sluch": 1,
+      "dotyk": 4,
+      "smak": 2,
+      "zapach": 1
+    },
+    "autodestruction": {
+      "level": 0.95,
+      "signals": [
+        "pieśń ostateczna",
+        "umierając marnie",
+        "leżąc na dnie zwolna krzepnącej krwi",
+        "zaznał wszystkiego co można zaznać"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 0.603,
+    "dfaAlpha": 1.955,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -0.857399214045963
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -0.2673901250939773
+      },
+      {
+        "logWin": 1.6094379124341003,
+        "logFluc": 0.13881440182765717
+      }
+    ],
+    "seriesLength": 16,
+    "series": [
+      7,
+      4,
+      6,
+      8,
+      6,
+      6,
+      6,
+      7,
+      8,
+      7,
+      9,
+      8,
+      8,
+      6,
+      1,
+      1
+    ]
+  }
+}

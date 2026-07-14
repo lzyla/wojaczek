@@ -1,0 +1,812 @@
+{
+  "id": "wybrzeze",
+  "title": "Wybrzeże",
+  "wordCount": 46,
+  "lineCount": 12,
+  "uniqueWords": 40,
+  "vocabularyRichness": 0.87,
+  "avgWordsPerLine": 3.83,
+  "wordsPerLineDistribution": [
+    3,
+    6,
+    4,
+    5,
+    4,
+    4,
+    3,
+    4,
+    5,
+    6,
+    0,
+    2
+  ],
+  "wordFrequencies": [
+    [
+      "śnią",
+      3
+    ],
+    [
+      "matka",
+      3
+    ],
+    [
+      "niewidzialni",
+      1
+    ],
+    [
+      "więźniowie",
+      1
+    ],
+    [
+      "róży",
+      1
+    ],
+    [
+      "nich",
+      1
+    ],
+    [
+      "ocean",
+      1
+    ],
+    [
+      "płynie",
+      1
+    ],
+    [
+      "minie",
+      1
+    ],
+    [
+      "róża",
+      1
+    ],
+    [
+      "da",
+      1
+    ],
+    [
+      "znak",
+      1
+    ],
+    [
+      "godów",
+      1
+    ],
+    [
+      "leży",
+      1
+    ],
+    [
+      "plaży",
+      1
+    ],
+    [
+      "lubczyk",
+      1
+    ],
+    [
+      "trzewiach",
+      1
+    ],
+    [
+      "gotuje",
+      1
+    ],
+    [
+      "tropicielki",
+      1
+    ],
+    [
+      "córki",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 5,
+    "period": 13,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 1,
+    "dash": 0,
+    "colon": 0,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 0,
+  "negationWords": [],
+  "pronounDistribution": {
+    "ja": 0,
+    "ty": 0,
+    "on_ona": 1,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 0,
+    "smierc": 0,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [],
+  "firstWord": "niewidzialni",
+  "lastWord": "spluwa",
+  "avgWordLength": 4.91,
+  "wordLengthDistribution": {
+    "10+": 3,
+    "4-5": 22,
+    "1-3": 11,
+    "6-7": 7,
+    "8-9": 3
+  },
+  "bigrams": [
+    [
+      "śnią matka",
+      2
+    ],
+    [
+      "niewidzialni śnią",
+      1
+    ],
+    [
+      "śnią więźniowie",
+      1
+    ],
+    [
+      "więźniowie róży",
+      1
+    ],
+    [
+      "róży matka",
+      1
+    ],
+    [
+      "ocean płynie",
+      1
+    ],
+    [
+      "minie róża",
+      1
+    ],
+    [
+      "róża da",
+      1
+    ],
+    [
+      "da znak",
+      1
+    ]
+  ],
+  "poemWords": [
+    "niewidzialni",
+    "śnią",
+    "więźniowie",
+    "róży",
+    "matka",
+    "nich",
+    "ocean",
+    "płynie",
+    "minie",
+    "róża",
+    "znak",
+    "godów",
+    "leży",
+    "plaży",
+    "lubczyk",
+    "trzewiach",
+    "gotuje",
+    "tropicielki",
+    "córki",
+    "krwi",
+    "wychodzą",
+    "włosów",
+    "biegnie",
+    "trawy",
+    "biją",
+    "pęcinach",
+    "korowód",
+    "staje",
+    "spluwa"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 17,
+        "VERB": 11,
+        "ADJ": 2,
+        "ADV": 1,
+        "PRON": 3,
+        "ADP": 9,
+        "CCONJ": 0,
+        "SCONJ": 0,
+        "INTJ": 0,
+        "PART": 0,
+        "DET": 0,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.37,
+        "VERB": 0.239,
+        "ADJ": 0.043,
+        "ADV": 0.022,
+        "PRON": 0.065,
+        "ADP": 0.196,
+        "CCONJ": 0,
+        "SCONJ": 0,
+        "INTJ": 0,
+        "PART": 0,
+        "DET": 0,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 1,
+        "abstract": 0,
+        "ratio": 1
+      },
+      "verbTenses": {
+        "present": 8,
+        "future": 2,
+        "imperative": 1
+      },
+      "verbSemantics": {
+        "ruch": 3,
+        "percepcja": 0,
+        "stan": 1,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 0,
+        "opisowe": 2
+      },
+      "adverbs": {
+        "temporalne": [],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "gdy",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 0,
+        "ty": 0,
+        "on_ona": 2,
+        "my": 0,
+        "wy": 0,
+        "oni": 1
+      },
+      "negations": {
+        "nie": 0,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 0,
+        "percentSentences": 0
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 96,
+        "consonants": 130,
+        "ratio": 0.74
+      },
+      "consonantClusters": {
+        "count": 6,
+        "top": [
+          {
+            "cluster": "prz",
+            "count": 2
+          },
+          {
+            "cluster": "bcz",
+            "count": 1
+          },
+          {
+            "cluster": "trz",
+            "count": 1
+          },
+          {
+            "cluster": "krw",
+            "count": 1
+          },
+          {
+            "cluster": "spl",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 8,
+        "syczace": 20,
+        "nosowe": 27,
+        "plynne": 18
+      },
+      "rhymes": {
+        "exact": 0,
+        "approximate": 0,
+        "internal": 1,
+        "assonance": 0,
+        "alliteration": 0
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 15.3,
+        "median": 17,
+        "min": 12,
+        "max": 17,
+        "distribution": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          2
+        ]
+      },
+      "lineLength": {
+        "meanWords": 4.8,
+        "meanSyllables": 9.2,
+        "distribution": [
+          0,
+          0,
+          1,
+          2,
+          4,
+          2,
+          2,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 2,
+        "interrogative": 0,
+        "imperative": 1,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 0,
+        "noSubject": 0,
+        "noPredicate": 0,
+        "percent": 0
+      },
+      "enjambement": {
+        "count": 7,
+        "percent": 0.64,
+        "positions": [
+          1,
+          2,
+          3,
+          5,
+          6,
+          7,
+          9
+        ]
+      },
+      "wordOrder": {
+        "svo": 3,
+        "inversions": 0,
+        "other": 0,
+        "deviationPercent": 0
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 0,
+        "śmierć": 0,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 110,
+      "estimatedSeconds": 37,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 17,
+      "VERB": 11,
+      "ADJ": 2,
+      "ADV": 1,
+      "PRON": 3,
+      "ADP": 9,
+      "CCONJ": 0,
+      "SCONJ": 0,
+      "INTJ": 0,
+      "PART": 0,
+      "DET": 0,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.37,
+      "VERB": 0.239,
+      "ADJ": 0.043,
+      "ADV": 0.022,
+      "PRON": 0.065,
+      "ADP": 0.196,
+      "CCONJ": 0,
+      "SCONJ": 0,
+      "INTJ": 0,
+      "PART": 0,
+      "DET": 0,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 1,
+      "abstract": 0,
+      "ratio": 1
+    },
+    "verbTenses": {
+      "present": 8,
+      "future": 2,
+      "imperative": 1
+    },
+    "verbSemantics": {
+      "ruch": 3,
+      "percepcja": 0,
+      "stan": 1,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 0,
+      "opisowe": 2
+    },
+    "adverbs": {
+      "temporalne": [],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "gdy",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 0,
+      "ty": 0,
+      "on_ona": 2,
+      "my": 0,
+      "wy": 0,
+      "oni": 1
+    },
+    "negations": {
+      "nie": 0,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 0,
+      "percentSentences": 0
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 15.3,
+      "median": 17,
+      "min": 12,
+      "max": 17,
+      "distribution": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        2
+      ]
+    },
+    "lineLength": {
+      "meanWords": 4.8,
+      "meanSyllables": 9.2,
+      "distribution": [
+        0,
+        0,
+        1,
+        2,
+        4,
+        2,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 2,
+      "interrogative": 0,
+      "imperative": 1,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 0,
+      "noSubject": 0,
+      "noPredicate": 0,
+      "percent": 0
+    },
+    "enjambement": {
+      "count": 7,
+      "percent": 0.64,
+      "positions": [
+        1,
+        2,
+        3,
+        5,
+        6,
+        7,
+        9
+      ]
+    },
+    "wordOrder": {
+      "svo": 3,
+      "inversions": 0,
+      "other": 0,
+      "deviationPercent": 0
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 96,
+      "consonants": 130,
+      "ratio": 0.74
+    },
+    "consonantClusters": {
+      "count": 6,
+      "top": [
+        {
+          "cluster": "prz",
+          "count": 2
+        },
+        {
+          "cluster": "bcz",
+          "count": 1
+        },
+        {
+          "cluster": "trz",
+          "count": 1
+        },
+        {
+          "cluster": "krw",
+          "count": 1
+        },
+        {
+          "cluster": "spl",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 8,
+      "syczace": 20,
+      "nosowe": 27,
+      "plynne": 18
+    },
+    "rhymes": {
+      "exact": 0,
+      "approximate": 0,
+      "internal": 1,
+      "assonance": 0,
+      "alliteration": 0
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        12
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 110,
+      "estimatedSeconds": 37,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "polregularny",
+      "regularityScore": 0.7
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "mitologia",
+          "reference": "matka archetyp",
+          "evidence": "Matka leży na plaży / lubczyk w trzewiach gotuje / tropicielki, córki krwi / wychodzą z jej włosów"
+        },
+        {
+          "source": "Rimbaud",
+          "reference": "wizyjność i irracjonalność obrazów",
+          "evidence": "Niewidzialni śnią więźniowie / róży, matka do nich przez ocean / płynie"
+        },
+        {
+          "source": "Baudelaire",
+          "reference": "symbolizm kwiatu",
+          "evidence": "więźniowie róży"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.9,
+        "baudelaire": 0.7,
+        "bursa": 0.1,
+        "stachura": 0.2,
+        "grochowiak": 0.3,
+        "bialoszewski": 0.1,
+        "rozewicz": 0.2
+      }
+    },
+    "space": {
+      "type": "otwarta",
+      "evidence": "ocean, plaża, trawy, pęciny - przestrzeń naturalna, nieograniczona",
+      "openClosedRatio": 0.8
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "nieokreslona",
+      "evidence": "brak wyraźnych wskaźników temporalnych, dominuje czas mityczny snu"
+    },
+    "motion": {
+      "movement": 8,
+      "stillness": 3,
+      "dynamism": 0.8,
+      "evidence": "płynie, biegnie, biją po pęcinach, korowód, wychodzą - intensywny ruch vs leży, staje"
+    },
+    "imageryDensity": {
+      "metaphors": 4,
+      "comparisons": 0,
+      "personifications": 3,
+      "hyperboles": 2,
+      "per100words": 18.7
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.2,
+      "creationLevel": 0.9,
+      "ironicDistance": 0.1,
+      "autobiographicSignals": []
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "melancholia",
+      "secondary": "tęsknota",
+      "intensity": 0.8
+    },
+    "subjectPresence": {
+      "type": "ukryte",
+      "evidence": "Podmiot ukryty za wizją snu więźniów, obserwuje i relacjonuje oniryczne obrazy"
+    },
+    "addressee": {
+      "type": "nikt",
+      "evidence": "Brak bezpośredniego zwrotu, wiersz ma charakter wizyjny, oniryczny"
+    },
+    "metaphors": [
+      {
+        "source": "więzienie",
+        "target": "stan egzystencjalny",
+        "example": "Niewidzialni śnią więźniowie"
+      },
+      {
+        "source": "róża",
+        "target": "symbol kobiecości/miłości",
+        "example": "więźniowie róży"
+      },
+      {
+        "source": "ocean",
+        "target": "przestrzeń nieświadomości",
+        "example": "matka do nich przez ocean płynie"
+      },
+      {
+        "source": "korowód",
+        "target": "rytuał/ceremonia",
+        "example": "za nią korowód"
+      }
+    ],
+    "temperature": {
+      "value": 0.3,
+      "label": "chłodna wizyjność z podtekstem erotycznym"
+    },
+    "senses": {
+      "wzrok": 5,
+      "sluch": 1,
+      "dotyk": 3,
+      "smak": 2,
+      "zapach": 1
+    },
+    "autodestruction": {
+      "level": 0.4,
+      "signals": [
+        "więzienie jako metafora uwięzienia",
+        "spluwanie jako gest pogardy/odrzucenia"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 0.909,
+    "dfaAlpha": 2.81,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -1.2220423276338725
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -0.413710206950178
+      }
+    ],
+    "seriesLength": 12,
+    "series": [
+      3,
+      6,
+      4,
+      5,
+      4,
+      4,
+      3,
+      4,
+      5,
+      6,
+      0,
+      2
+    ]
+  }
+}

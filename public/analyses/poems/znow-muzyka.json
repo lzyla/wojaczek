@@ -1,0 +1,948 @@
+{
+  "id": "znow-muzyka",
+  "title": "Znów muzyka",
+  "wordCount": 108,
+  "lineCount": 14,
+  "uniqueWords": 75,
+  "vocabularyRichness": 0.694,
+  "avgWordsPerLine": 7.71,
+  "wordsPerLineDistribution": [
+    16,
+    6,
+    8,
+    9,
+    6,
+    7,
+    6,
+    7,
+    7,
+    9,
+    7,
+    5,
+    7,
+    8
+  ],
+  "wordFrequencies": [
+    [
+      "sztuki",
+      5
+    ],
+    [
+      "wyzwolonejprolegomena",
+      4
+    ],
+    [
+      "muzykaznów",
+      4
+    ],
+    [
+      "muzyka",
+      3
+    ],
+    [
+      "prolegomena",
+      1
+    ],
+    [
+      "wyzwolonej",
+      1
+    ],
+    [
+      "myśli",
+      1
+    ],
+    [
+      "intensywnie",
+      1
+    ],
+    [
+      "serce",
+      1
+    ],
+    [
+      "traci",
+      1
+    ],
+    [
+      "pamięć",
+      1
+    ],
+    [
+      "inną",
+      1
+    ],
+    [
+      "stronę",
+      1
+    ],
+    [
+      "bije",
+      1
+    ],
+    [
+      "znajomy",
+      1
+    ],
+    [
+      "zawsze",
+      1
+    ],
+    [
+      "niespodziewany",
+      1
+    ],
+    [
+      "lęk",
+      1
+    ],
+    [
+      "sprawia",
+      1
+    ],
+    [
+      "ciała",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 11,
+    "period": 6,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 2,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 0,
+  "negationWords": [],
+  "pronounDistribution": {
+    "ja": 2,
+    "ty": 2,
+    "on_ona": 1,
+    "my": 3,
+    "wy": 0,
+    "oni": 1
+  },
+  "semanticFields": {
+    "cialo": 2,
+    "smierc": 1,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 1,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [
+    [
+      "i znów",
+      3
+    ],
+    [
+      "znów",
+      2
+    ]
+  ],
+  "firstWord": "prolegomena",
+  "lastWord": "śmierć",
+  "avgWordLength": 5.92,
+  "wordLengthDistribution": {
+    "10+": 18,
+    "1-3": 33,
+    "6-7": 26,
+    "4-5": 24,
+    "8-9": 7
+  },
+  "bigrams": [
+    [
+      "sztuki wyzwolonejprolegomena",
+      4
+    ],
+    [
+      "muzykaznów muzykaznów",
+      3
+    ],
+    [
+      "sztuki wyzwolonej",
+      1
+    ],
+    [
+      "wyzwolonej znów",
+      1
+    ],
+    [
+      "znów muzykaznów",
+      1
+    ],
+    [
+      "muzykaznów muzyka",
+      1
+    ],
+    [
+      "muzyka znów",
+      1
+    ],
+    [
+      "znów muzyka",
+      1
+    ]
+  ],
+  "poemWords": [
+    "prolegomena",
+    "sztuki",
+    "wyzwolonejprolegomena",
+    "wyzwolonej",
+    "muzykaznów",
+    "muzyka",
+    "myśli",
+    "intensywnie",
+    "serce",
+    "traci",
+    "pamięć",
+    "inną",
+    "stronę",
+    "bije",
+    "znajomy",
+    "zawsze",
+    "niespodziewany",
+    "lęk",
+    "sprawia",
+    "ciała",
+    "odnajdują",
+    "przestraszonymi",
+    "wargami",
+    "prosisz",
+    "zręcznie",
+    "łaski",
+    "leczysz",
+    "przegryziony",
+    "język",
+    "chłodnym",
+    "nogom",
+    "pozwalasz",
+    "rządził",
+    "strach",
+    "wiesz",
+    "zaufasz",
+    "sposób",
+    "wskaże",
+    "najpilniej",
+    "chętna",
+    "najposłuszniej",
+    "wierna",
+    "niepamięci",
+    "którą",
+    "ofiarowuje",
+    "wezwanie",
+    "krwią",
+    "wtórować",
+    "pozyskuje",
+    "celów",
+    "śmierć"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 25,
+        "VERB": 16,
+        "ADJ": 9,
+        "ADV": 7,
+        "PRON": 8,
+        "ADP": 8,
+        "CCONJ": 7,
+        "SCONJ": 7,
+        "INTJ": 0,
+        "PART": 4,
+        "DET": 7,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.231,
+        "VERB": 0.148,
+        "ADJ": 0.083,
+        "ADV": 0.065,
+        "PRON": 0.074,
+        "ADP": 0.074,
+        "CCONJ": 0.065,
+        "SCONJ": 0.065,
+        "INTJ": 0,
+        "PART": 0.037,
+        "DET": 0.065,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 4,
+        "abstract": 3,
+        "ratio": 0.57
+      },
+      "verbTenses": {
+        "imperative": 1,
+        "present": 12,
+        "past": 1,
+        "future": 2,
+        "infinitive": 1
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 1,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 1,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 0,
+        "opisowe": 9
+      },
+      "adverbs": {
+        "temporalne": [
+          "zawsze"
+        ],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "znów",
+            "count": 1
+          },
+          {
+            "word": "tak",
+            "count": 1
+          },
+          {
+            "word": "intensywnie",
+            "count": 1
+          },
+          {
+            "word": "zawsze",
+            "count": 1
+          },
+          {
+            "word": "zręcznie",
+            "count": 1
+          },
+          {
+            "word": "gdy",
+            "count": 1
+          },
+          {
+            "word": "najpilniej",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 0,
+        "ty": 2,
+        "on_ona": 1,
+        "my": 2,
+        "wy": 0,
+        "oni": 1
+      },
+      "negations": {
+        "nie": 0,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 0,
+        "percentSentences": 0
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 261,
+        "consonants": 378,
+        "ratio": 0.69
+      },
+      "consonantClusters": {
+        "count": 21,
+        "top": [
+          {
+            "cluster": "szt",
+            "count": 5
+          },
+          {
+            "cluster": "jpr",
+            "count": 4
+          },
+          {
+            "cluster": "str",
+            "count": 3
+          },
+          {
+            "cluster": "prz",
+            "count": 2
+          },
+          {
+            "cluster": "wsz",
+            "count": 1
+          },
+          {
+            "cluster": "spr",
+            "count": 1
+          },
+          {
+            "cluster": "czn",
+            "count": 1
+          },
+          {
+            "cluster": "chł",
+            "count": 1
+          },
+          {
+            "cluster": "wsk",
+            "count": 1
+          },
+          {
+            "cluster": "szn",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 23,
+        "syczace": 72,
+        "nosowe": 85,
+        "plynne": 45
+      },
+      "rhymes": {
+        "exact": 1,
+        "approximate": 1,
+        "internal": 8,
+        "assonance": 0,
+        "alliteration": 1
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 13.5,
+        "median": 14,
+        "min": 1,
+        "max": 21,
+        "distribution": [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          2,
+          0,
+          0,
+          1,
+          1,
+          0,
+          1,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 7.7,
+        "meanSyllables": 18.7,
+        "distribution": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          3,
+          5,
+          2,
+          2,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 7,
+        "interrogative": 0,
+        "imperative": 1,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 1,
+        "noSubject": 3,
+        "noPredicate": 0,
+        "percent": 0.5
+      },
+      "enjambement": {
+        "count": 3,
+        "percent": 0.23,
+        "positions": [
+          5,
+          7,
+          11
+        ]
+      },
+      "wordOrder": {
+        "svo": 1,
+        "inversions": 3,
+        "other": 3,
+        "deviationPercent": 0.86
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 3,
+        "śmierć": 1,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 1,
+        "sacrum": 0,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 262,
+      "estimatedSeconds": 87,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 25,
+      "VERB": 16,
+      "ADJ": 9,
+      "ADV": 7,
+      "PRON": 8,
+      "ADP": 8,
+      "CCONJ": 7,
+      "SCONJ": 7,
+      "INTJ": 0,
+      "PART": 4,
+      "DET": 7,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.231,
+      "VERB": 0.148,
+      "ADJ": 0.083,
+      "ADV": 0.065,
+      "PRON": 0.074,
+      "ADP": 0.074,
+      "CCONJ": 0.065,
+      "SCONJ": 0.065,
+      "INTJ": 0,
+      "PART": 0.037,
+      "DET": 0.065,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 4,
+      "abstract": 3,
+      "ratio": 0.57
+    },
+    "verbTenses": {
+      "imperative": 1,
+      "present": 12,
+      "past": 1,
+      "future": 2,
+      "infinitive": 1
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 1,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 1,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 0,
+      "opisowe": 9
+    },
+    "adverbs": {
+      "temporalne": [
+        "zawsze"
+      ],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "znów",
+          "count": 1
+        },
+        {
+          "word": "tak",
+          "count": 1
+        },
+        {
+          "word": "intensywnie",
+          "count": 1
+        },
+        {
+          "word": "zawsze",
+          "count": 1
+        },
+        {
+          "word": "zręcznie",
+          "count": 1
+        },
+        {
+          "word": "gdy",
+          "count": 1
+        },
+        {
+          "word": "najpilniej",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 0,
+      "ty": 2,
+      "on_ona": 1,
+      "my": 2,
+      "wy": 0,
+      "oni": 1
+    },
+    "negations": {
+      "nie": 0,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 0,
+      "percentSentences": 0
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 13.5,
+      "median": 14,
+      "min": 1,
+      "max": 21,
+      "distribution": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        2,
+        0,
+        0,
+        1,
+        1,
+        0,
+        1,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 7.7,
+      "meanSyllables": 18.7,
+      "distribution": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        3,
+        5,
+        2,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 7,
+      "interrogative": 0,
+      "imperative": 1,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 1,
+      "noSubject": 3,
+      "noPredicate": 0,
+      "percent": 0.5
+    },
+    "enjambement": {
+      "count": 3,
+      "percent": 0.23,
+      "positions": [
+        5,
+        7,
+        11
+      ]
+    },
+    "wordOrder": {
+      "svo": 1,
+      "inversions": 3,
+      "other": 3,
+      "deviationPercent": 0.86
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 261,
+      "consonants": 378,
+      "ratio": 0.69
+    },
+    "consonantClusters": {
+      "count": 21,
+      "top": [
+        {
+          "cluster": "szt",
+          "count": 5
+        },
+        {
+          "cluster": "jpr",
+          "count": 4
+        },
+        {
+          "cluster": "str",
+          "count": 3
+        },
+        {
+          "cluster": "prz",
+          "count": 2
+        },
+        {
+          "cluster": "wsz",
+          "count": 1
+        },
+        {
+          "cluster": "spr",
+          "count": 1
+        },
+        {
+          "cluster": "czn",
+          "count": 1
+        },
+        {
+          "cluster": "chł",
+          "count": 1
+        },
+        {
+          "cluster": "wsk",
+          "count": 1
+        },
+        {
+          "cluster": "szn",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 23,
+      "syczace": 72,
+      "nosowe": 85,
+      "plynne": 45
+    },
+    "rhymes": {
+      "exact": 1,
+      "approximate": 1,
+      "internal": 8,
+      "assonance": 0,
+      "alliteration": 1
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        14
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 262,
+      "estimatedSeconds": 87,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "wolny",
+      "regularityScore": 0.36
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Rimbaud",
+          "reference": "idea sztuki wyzwolonej",
+          "evidence": "tytuł 'Prolegomena do sztuki wyzwolonej' nawiązuje do koncepcji sztuki jako wyzwolenia"
+        },
+        {
+          "source": "Baudelaire",
+          "reference": "muzyka jako metafora poezji",
+          "evidence": "centralna metafora muzyki jako siły transcendentnej"
+        },
+        {
+          "source": "mitologia",
+          "reference": "tanatos i eros",
+          "evidence": "połączenie miłości i śmierci w finale"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.8,
+        "baudelaire": 0.7,
+        "bursa": 0.3,
+        "stachura": 0.4,
+        "grochowiak": 0.5,
+        "bialoszewski": 0.2,
+        "rozewicz": 0.3
+      }
+    },
+    "space": {
+      "type": "zamknieta",
+      "evidence": "intymna przestrzeń dwojga ludzi, skupienie na ciele i bliskości",
+      "openClosedRatio": 0.2
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "nieokreslona",
+      "evidence": "brak konkretnych wskazówek temporalnych, czas psychologiczny"
+    },
+    "motion": {
+      "movement": 7,
+      "stillness": 3,
+      "dynamism": 0.7,
+      "evidence": "dynamika 'znów', bicie serca, odnajdywanie się ciał, ruch krwi"
+    },
+    "imageryDensity": {
+      "metaphors": 5,
+      "comparisons": 1,
+      "personifications": 3,
+      "hyperboles": 2,
+      "per100words": 18.3
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.8,
+      "creationLevel": 0.7,
+      "ironicDistance": 0.2,
+      "autobiographicSignals": [
+        "intymność opisu",
+        "bezpośredniość zwrotów do 'ty'",
+        "szczegóły fizyczne"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "tęsknota",
+      "secondary": "melancholia",
+      "intensity": 0.8
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "obecność podmiotów lirycznych 'nas', 'serce', 'nasze ciała', 'mój przegryziony język'"
+    },
+    "addressee": {
+      "type": "ty",
+      "evidence": "bezpośrednie zwroty 'prosisz', 'leczysz', 'pozwalasz', 'jesteś', 'wiesz'"
+    },
+    "metaphors": [
+      {
+        "source": "muzyka",
+        "target": "siła transcendentna",
+        "example": "muzyka: ktoś myśli o nas tak intensywnie"
+      },
+      {
+        "source": "serce",
+        "target": "pamięć/tożsamość",
+        "example": "serce traci pamięć i w inną stronę bije"
+      },
+      {
+        "source": "krew",
+        "target": "oddanie/ofiarowanie",
+        "example": "krwią wtórować jej"
+      }
+    ],
+    "temperature": {
+      "value": 0.6,
+      "label": "umiarkowanie ciepłe - namiętność z nutą niepokoju"
+    },
+    "senses": {
+      "wzrok": 2,
+      "sluch": 5,
+      "dotyk": 4,
+      "smak": 3,
+      "zapach": 1
+    },
+    "autodestruction": {
+      "level": 0.7,
+      "signals": [
+        "przegryziony język",
+        "strach rządzący ciałem",
+        "niepamięć jako ofiara",
+        "śmierć pozyskująca do swoich celów"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 1.288,
+    "dfaAlpha": 2.807,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -1.2220423276338712
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -0.41455916288201244
+      }
+    ],
+    "seriesLength": 14,
+    "series": [
+      16,
+      6,
+      8,
+      9,
+      6,
+      7,
+      6,
+      7,
+      7,
+      9,
+      7,
+      5,
+      7,
+      8
+    ]
+  }
+}

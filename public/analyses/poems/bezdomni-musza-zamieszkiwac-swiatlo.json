@@ -1,0 +1,842 @@
+{
+  "id": "bezdomni-musza-zamieszkiwac-swiatlo",
+  "title": "Bezdomni muszą zamieszkiwać światło",
+  "wordCount": 58,
+  "lineCount": 8,
+  "uniqueWords": 50,
+  "vocabularyRichness": 0.862,
+  "avgWordsPerLine": 7.25,
+  "wordsPerLineDistribution": [
+    7,
+    6,
+    6,
+    8,
+    8,
+    8,
+    8,
+    7
+  ],
+  "wordFrequencies": [
+    [
+      "światła",
+      2
+    ],
+    [
+      "nagie",
+      1
+    ],
+    [
+      "plaże",
+      1
+    ],
+    [
+      "idą",
+      1
+    ],
+    [
+      "chłopcy",
+      1
+    ],
+    [
+      "nadzy",
+      1
+    ],
+    [
+      "woda",
+      1
+    ],
+    [
+      "cienia",
+      1
+    ],
+    [
+      "kobieca",
+      1
+    ],
+    [
+      "dalej",
+      1
+    ],
+    [
+      "majaczy",
+      1
+    ],
+    [
+      "krew",
+      1
+    ],
+    [
+      "wyparowała",
+      1
+    ],
+    [
+      "rozżarzonych",
+      1
+    ],
+    [
+      "ciał",
+      1
+    ],
+    [
+      "kolor",
+      1
+    ],
+    [
+      "włosów",
+      1
+    ],
+    [
+      "głowach",
+      1
+    ],
+    [
+      "brzuchem",
+      1
+    ],
+    [
+      "zbladł",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 1,
+    "period": 5,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 2,
+    "colon": 0,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 1,
+  "negationWords": [
+    "nie"
+  ],
+  "pronounDistribution": {
+    "ja": 0,
+    "ty": 0,
+    "on_ona": 1,
+    "my": 0,
+    "wy": 0,
+    "oni": 1
+  },
+  "semanticFields": {
+    "cialo": 1,
+    "smierc": 1,
+    "erotyka": 1,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [],
+  "firstWord": "przez",
+  "lastWord": "szybę",
+  "avgWordLength": 5.03,
+  "wordLengthDistribution": {
+    "4-5": 23,
+    "6-7": 13,
+    "1-3": 15,
+    "10+": 3,
+    "8-9": 4
+  },
+  "bigrams": [
+    [
+      "nagie plaże",
+      1
+    ],
+    [
+      "plaże światła",
+      1
+    ],
+    [
+      "światła idą",
+      1
+    ],
+    [
+      "idą chłopcy",
+      1
+    ],
+    [
+      "chłopcy nadzy",
+      1
+    ],
+    [
+      "nadzy woda",
+      1
+    ],
+    [
+      "woda cienia",
+      1
+    ],
+    [
+      "cienia kobieca",
+      1
+    ],
+    [
+      "kobieca wciąż",
+      1
+    ],
+    [
+      "wciąż dalej",
+      1
+    ],
+    [
+      "dalej majaczy",
+      1
+    ],
+    [
+      "majaczy krew",
+      1
+    ]
+  ],
+  "poemWords": [
+    "nagie",
+    "plaże",
+    "światła",
+    "idą",
+    "chłopcy",
+    "nadzy",
+    "woda",
+    "cienia",
+    "kobieca",
+    "dalej",
+    "majaczy",
+    "krew",
+    "wyparowała",
+    "rozżarzonych",
+    "ciał",
+    "kolor",
+    "włosów",
+    "głowach",
+    "brzuchem",
+    "zbladł",
+    "widać",
+    "gromadka",
+    "widm",
+    "coraz",
+    "bledszych",
+    "idzie",
+    "górę",
+    "czasem",
+    "kamyk",
+    "mróz",
+    "ścina",
+    "ślinę",
+    "bezwiednej",
+    "spermy",
+    "polsce",
+    "zadzwoni",
+    "szybę"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 22,
+        "VERB": 10,
+        "ADJ": 6,
+        "ADV": 4,
+        "PRON": 1,
+        "ADP": 7,
+        "CCONJ": 2,
+        "SCONJ": 0,
+        "INTJ": 0,
+        "PART": 8,
+        "DET": 0,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.355,
+        "VERB": 0.161,
+        "ADJ": 0.097,
+        "ADV": 0.065,
+        "PRON": 0.016,
+        "ADP": 0.113,
+        "CCONJ": 0.032,
+        "SCONJ": 0,
+        "INTJ": 0,
+        "PART": 0.129,
+        "DET": 0,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 5,
+        "abstract": 1,
+        "ratio": 0.83
+      },
+      "verbTenses": {
+        "present": 5,
+        "infinitive": 2,
+        "past": 3
+      },
+      "verbSemantics": {
+        "ruch": 2,
+        "percepcja": 0,
+        "stan": 0,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 0,
+        "opisowe": 6
+      },
+      "adverbs": {
+        "temporalne": [
+          "wciąż"
+        ],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "wciąż",
+            "count": 2
+          },
+          {
+            "word": "dalej",
+            "count": 1
+          },
+          {
+            "word": "coraz",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 0,
+        "ty": 0,
+        "on_ona": 0,
+        "my": 0,
+        "wy": 0,
+        "oni": 1
+      },
+      "negations": {
+        "nie": 1,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 1,
+        "percentSentences": 0.17
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 128,
+        "consonants": 196,
+        "ratio": 0.65
+      },
+      "consonantClusters": {
+        "count": 8,
+        "top": [
+          {
+            "cluster": "szk",
+            "count": 1
+          },
+          {
+            "cluster": "prz",
+            "count": 1
+          },
+          {
+            "cluster": "chł",
+            "count": 1
+          },
+          {
+            "cluster": "brz",
+            "count": 1
+          },
+          {
+            "cluster": "zbl",
+            "count": 1
+          },
+          {
+            "cluster": "dsz",
+            "count": 1
+          },
+          {
+            "cluster": "lsc",
+            "count": 1
+          },
+          {
+            "cluster": "dzw",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 17,
+        "syczace": 36,
+        "nosowe": 29,
+        "plynne": 31
+      },
+      "rhymes": {
+        "exact": 0,
+        "approximate": 1,
+        "internal": 0,
+        "assonance": 0,
+        "alliteration": 1
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 10.3,
+        "median": 10,
+        "min": 4,
+        "max": 16,
+        "distribution": [
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 7.1,
+        "meanSyllables": 14.7,
+        "distribution": [
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          2,
+          1,
+          4,
+          1
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 6,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 0,
+        "noSubject": 1,
+        "noPredicate": 0,
+        "percent": 0.17
+      },
+      "enjambement": {
+        "count": 1,
+        "percent": 0.12,
+        "positions": [
+          2
+        ]
+      },
+      "wordOrder": {
+        "svo": 3,
+        "inversions": 2,
+        "other": 1,
+        "deviationPercent": 0.5
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 3,
+        "śmierć": 1,
+        "erotyka": 1,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 132,
+      "estimatedSeconds": 44,
+      "tempoCategory": "wolne"
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Biblia",
+          "reference": "wędrówka dusz po śmierci, eschatologia",
+          "evidence": "Widm coraz bledszych idzie wciąż pod górę światła"
+        },
+        {
+          "source": "mitologia",
+          "reference": "przejście do zaświatów, Styks",
+          "evidence": "woda cienia kobieca wciąż dalej majaczy"
+        },
+        {
+          "source": "Rimbaud",
+          "reference": "nagość i transcendencja",
+          "evidence": "Przez nagie plaże światła idą chłopcy nadzy"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.8,
+        "baudelaire": 0.6,
+        "bursa": 0.3,
+        "stachura": 0.4,
+        "grochowiak": 0.7,
+        "bialoszewski": 0.2,
+        "rozewicz": 0.5
+      }
+    },
+    "space": {
+      "type": "otwarta",
+      "evidence": "nagie plaże światła, pod górę światła - przestrzeń nieskończona, transcendentna",
+      "openClosedRatio": 0.9
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "zima",
+      "evidence": "już mróz ścina ślinę - wskazanie na zimę, ale czas dnia nieokreślony w kontekście metafizycznym"
+    },
+    "motion": {
+      "movement": 8,
+      "stillness": 2,
+      "dynamism": 0.8,
+      "evidence": "idą chłopcy, idzie gromadka, wciąż pod górę światła - ciągły ruch ku transcendencji"
+    },
+    "imageryDensity": {
+      "metaphors": 6,
+      "comparisons": 1,
+      "personifications": 2,
+      "hyperboles": 3,
+      "per100words": 19.4
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.6,
+      "creationLevel": 0.8,
+      "ironicDistance": 0.3,
+      "autobiographicSignals": [
+        "w Polsce",
+        "bezwiednej spermy"
+      ]
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 22,
+      "VERB": 10,
+      "ADJ": 6,
+      "ADV": 4,
+      "PRON": 1,
+      "ADP": 7,
+      "CCONJ": 2,
+      "SCONJ": 0,
+      "INTJ": 0,
+      "PART": 8,
+      "DET": 0,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.355,
+      "VERB": 0.161,
+      "ADJ": 0.097,
+      "ADV": 0.065,
+      "PRON": 0.016,
+      "ADP": 0.113,
+      "CCONJ": 0.032,
+      "SCONJ": 0,
+      "INTJ": 0,
+      "PART": 0.129,
+      "DET": 0,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 5,
+      "abstract": 1,
+      "ratio": 0.83
+    },
+    "verbTenses": {
+      "present": 5,
+      "infinitive": 2,
+      "past": 3
+    },
+    "verbSemantics": {
+      "ruch": 2,
+      "percepcja": 0,
+      "stan": 0,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 0,
+      "opisowe": 6
+    },
+    "adverbs": {
+      "temporalne": [
+        "wciąż"
+      ],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "wciąż",
+          "count": 2
+        },
+        {
+          "word": "dalej",
+          "count": 1
+        },
+        {
+          "word": "coraz",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 0,
+      "ty": 0,
+      "on_ona": 0,
+      "my": 0,
+      "wy": 0,
+      "oni": 1
+    },
+    "negations": {
+      "nie": 1,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 1,
+      "percentSentences": 0.17
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 10.3,
+      "median": 10,
+      "min": 4,
+      "max": 16,
+      "distribution": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        1,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 7.1,
+      "meanSyllables": 14.7,
+      "distribution": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        2,
+        1,
+        4,
+        1
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 6,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 0,
+      "noSubject": 1,
+      "noPredicate": 0,
+      "percent": 0.17
+    },
+    "enjambement": {
+      "count": 1,
+      "percent": 0.12,
+      "positions": [
+        2
+      ]
+    },
+    "wordOrder": {
+      "svo": 3,
+      "inversions": 2,
+      "other": 1,
+      "deviationPercent": 0.5
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 128,
+      "consonants": 196,
+      "ratio": 0.65
+    },
+    "consonantClusters": {
+      "count": 8,
+      "top": [
+        {
+          "cluster": "szk",
+          "count": 1
+        },
+        {
+          "cluster": "prz",
+          "count": 1
+        },
+        {
+          "cluster": "chł",
+          "count": 1
+        },
+        {
+          "cluster": "brz",
+          "count": 1
+        },
+        {
+          "cluster": "zbl",
+          "count": 1
+        },
+        {
+          "cluster": "dsz",
+          "count": 1
+        },
+        {
+          "cluster": "lsc",
+          "count": 1
+        },
+        {
+          "cluster": "dzw",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 17,
+      "syczace": 36,
+      "nosowe": 29,
+      "plynne": 31
+    },
+    "rhymes": {
+      "exact": 0,
+      "approximate": 1,
+      "internal": 0,
+      "assonance": 0,
+      "alliteration": 1
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        9
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 132,
+      "estimatedSeconds": 44,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "regularny",
+      "regularityScore": 0.89
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "melancholia",
+      "secondary": "tęsknota",
+      "intensity": 0.8
+    },
+    "subjectPresence": {
+      "type": "bezosobowe",
+      "evidence": "brak pierwszej osoby, obserwacyjny ton, dystans narratora opisującego scenę"
+    },
+    "addressee": {
+      "type": "nikt",
+      "evidence": "wiersz ma charakter wizyjny, opisowy, nie zwraca się do konkretnego adresata"
+    },
+    "metaphors": [
+      {
+        "source": "światło",
+        "target": "miejsce zamieszkania/schronienie",
+        "example": "BEZDOMNI MUSZĄ ZAMIESZKIWAĆ ŚWIATŁO"
+      },
+      {
+        "source": "plaże światła",
+        "target": "przestrzeń przejściowa między życiem a śmiercią",
+        "example": "Przez nagie plaże światła idą chłopcy nadzy"
+      },
+      {
+        "source": "widma",
+        "target": "zanikające wspomnienia/dusze",
+        "example": "gromadka Widm coraz bledszych idzie wciąż pod górę światła"
+      }
+    ],
+    "temperature": {
+      "value": 0.3,
+      "label": "chłodne - dominuje mróz, zastyganie, wyparowywanie ciepła"
+    },
+    "senses": {
+      "wzrok": 5,
+      "sluch": 2,
+      "dotyk": 3,
+      "smak": 0,
+      "zapach": 0
+    },
+    "autodestruction": {
+      "level": 0.7,
+      "signals": [
+        "wyparowała krew",
+        "zbladły kolory",
+        "zanikanie ciał",
+        "bezwiedna sperma",
+        "mróz ścina ślinę"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": null,
+    "dfaAlpha": null,
+    "dfaScaling": [],
+    "seriesLength": 8,
+    "series": [
+      7,
+      6,
+      6,
+      8,
+      8,
+      8,
+      8,
+      7
+    ]
+  }
+}

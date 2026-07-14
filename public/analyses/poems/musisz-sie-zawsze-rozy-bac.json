@@ -1,0 +1,923 @@
+{
+  "id": "musisz-sie-zawsze-rozy-bac",
+  "title": "Musisz się zawsze róży bać",
+  "wordCount": 97,
+  "lineCount": 14,
+  "uniqueWords": 83,
+  "vocabularyRichness": 0.856,
+  "avgWordsPerLine": 6.93,
+  "wordsPerLineDistribution": [
+    7,
+    8,
+    8,
+    8,
+    7,
+    7,
+    6,
+    6,
+    5,
+    6,
+    6,
+    7,
+    8,
+    8
+  ],
+  "wordFrequencies": [
+    [
+      "powiedz",
+      3
+    ],
+    [
+      "musisz",
+      1
+    ],
+    [
+      "zawsze",
+      1
+    ],
+    [
+      "róży",
+      1
+    ],
+    [
+      "bać",
+      1
+    ],
+    [
+      "ustami",
+      1
+    ],
+    [
+      "rany",
+      1
+    ],
+    [
+      "wewnątrz",
+      1
+    ],
+    [
+      "ciebie",
+      1
+    ],
+    [
+      "rozkrwawia",
+      1
+    ],
+    [
+      "szukam",
+      1
+    ],
+    [
+      "językiem",
+      1
+    ],
+    [
+      "umiem",
+      1
+    ],
+    [
+      "naga",
+      1
+    ],
+    [
+      "boisz",
+      1
+    ],
+    [
+      "uwierzę",
+      1
+    ],
+    [
+      "ciału",
+      1
+    ],
+    [
+      "swojemu",
+      1
+    ],
+    [
+      "przytomna",
+      1
+    ],
+    [
+      "ciało",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 14,
+    "period": 5,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 2,
+    "colon": 1,
+    "semicolon": 1
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 2,
+  "negationWords": [
+    "nie"
+  ],
+  "pronounDistribution": {
+    "ja": 1,
+    "ty": 2,
+    "on_ona": 1,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 3,
+    "smierc": 1,
+    "erotyka": 1,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [],
+  "firstWord": "musisz",
+  "lastWord": "powiedz",
+  "avgWordLength": 5.39,
+  "wordLengthDistribution": {
+    "6-7": 26,
+    "1-3": 24,
+    "4-5": 28,
+    "8-9": 15,
+    "10+": 4
+  },
+  "bigrams": [
+    [
+      "zawsze róży",
+      1
+    ],
+    [
+      "róży bać",
+      1
+    ],
+    [
+      "wewnątrz ciebie",
+      1
+    ],
+    [
+      "ciebie wciąż",
+      1
+    ],
+    [
+      "wciąż rozkrwawia",
+      1
+    ]
+  ],
+  "poemWords": [
+    "musisz",
+    "zawsze",
+    "róży",
+    "bać",
+    "ustami",
+    "rany",
+    "wewnątrz",
+    "ciebie",
+    "rozkrwawia",
+    "szukam",
+    "językiem",
+    "umiem",
+    "naga",
+    "powiedz",
+    "boisz",
+    "uwierzę",
+    "ciału",
+    "swojemu",
+    "przytomna",
+    "ciało",
+    "okiennicą",
+    "wiatr",
+    "płochym",
+    "gestem",
+    "bezwiednej",
+    "dłoni",
+    "wypchnąć",
+    "szybę",
+    "krwi",
+    "sąsiednim",
+    "powiecie",
+    "opadnie",
+    "zamiecią",
+    "ognia",
+    "noworodkom",
+    "powypala",
+    "oczy",
+    "oślepłe",
+    "rozpaczy",
+    "matki",
+    "wyłysieją",
+    "żebym",
+    "włosami",
+    "usłyszał",
+    "skóra",
+    "prędkim",
+    "szeptem",
+    "dreszczu",
+    "powie",
+    "wargom",
+    "mieszkasz",
+    "grząskiej",
+    "osobie",
+    "przeciekłem"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 27,
+        "VERB": 19,
+        "ADJ": 7,
+        "ADV": 5,
+        "PRON": 12,
+        "ADP": 6,
+        "CCONJ": 2,
+        "SCONJ": 9,
+        "INTJ": 0,
+        "PART": 5,
+        "DET": 3,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.265,
+        "VERB": 0.186,
+        "ADJ": 0.069,
+        "ADV": 0.049,
+        "PRON": 0.118,
+        "ADP": 0.059,
+        "CCONJ": 0.02,
+        "SCONJ": 0.088,
+        "INTJ": 0,
+        "PART": 0.049,
+        "DET": 0.029,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 5,
+        "abstract": 1,
+        "ratio": 0.83
+      },
+      "verbTenses": {
+        "past": 3,
+        "present": 11,
+        "infinitive": 2,
+        "imperative": 3,
+        "future": 4
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 5,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 0,
+        "opisowe": 7
+      },
+      "adverbs": {
+        "temporalne": [
+          "wciąż",
+          "zawsze"
+        ],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "zawsze",
+            "count": 2
+          },
+          {
+            "word": "wciąż",
+            "count": 1
+          },
+          {
+            "word": "skąd",
+            "count": 1
+          },
+          {
+            "word": "całkiem",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 1,
+        "ty": 2,
+        "on_ona": 2,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 2,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 2,
+        "percentSentences": 0.33
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 231,
+        "consonants": 314,
+        "ratio": 0.74
+      },
+      "consonantClusters": {
+        "count": 14,
+        "top": [
+          {
+            "cluster": "prz",
+            "count": 3
+          },
+          {
+            "cluster": "szcz",
+            "count": 3
+          },
+          {
+            "cluster": "wsz",
+            "count": 2
+          },
+          {
+            "cluster": "trz",
+            "count": 1
+          },
+          {
+            "cluster": "zkrw",
+            "count": 1
+          },
+          {
+            "cluster": "pchn",
+            "count": 1
+          },
+          {
+            "cluster": "krw",
+            "count": 1
+          },
+          {
+            "cluster": "szk",
+            "count": 1
+          },
+          {
+            "cluster": "grz",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 37,
+        "syczace": 60,
+        "nosowe": 64,
+        "plynne": 33
+      },
+      "rhymes": {
+        "exact": 0,
+        "approximate": 1,
+        "internal": 1,
+        "assonance": 2,
+        "alliteration": 1
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 17,
+        "median": 16,
+        "min": 5,
+        "max": 37,
+        "distribution": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 6.9,
+        "meanSyllables": 15.8,
+        "distribution": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          2,
+          3,
+          4,
+          6
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 3,
+        "interrogative": 0,
+        "imperative": 3,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 0,
+        "noSubject": 2,
+        "noPredicate": 0,
+        "percent": 0.33
+      },
+      "enjambement": {
+        "count": 5,
+        "percent": 0.36,
+        "positions": [
+          2,
+          7,
+          9,
+          10,
+          13
+        ]
+      },
+      "wordOrder": {
+        "svo": 2,
+        "inversions": 2,
+        "other": 2,
+        "deviationPercent": 0.67
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 5,
+        "śmierć": 1,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 237,
+      "estimatedSeconds": 79,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 27,
+      "VERB": 19,
+      "ADJ": 7,
+      "ADV": 5,
+      "PRON": 12,
+      "ADP": 6,
+      "CCONJ": 2,
+      "SCONJ": 9,
+      "INTJ": 0,
+      "PART": 5,
+      "DET": 3,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.265,
+      "VERB": 0.186,
+      "ADJ": 0.069,
+      "ADV": 0.049,
+      "PRON": 0.118,
+      "ADP": 0.059,
+      "CCONJ": 0.02,
+      "SCONJ": 0.088,
+      "INTJ": 0,
+      "PART": 0.049,
+      "DET": 0.029,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 5,
+      "abstract": 1,
+      "ratio": 0.83
+    },
+    "verbTenses": {
+      "past": 3,
+      "present": 11,
+      "infinitive": 2,
+      "imperative": 3,
+      "future": 4
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 5,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 0,
+      "opisowe": 7
+    },
+    "adverbs": {
+      "temporalne": [
+        "wciąż",
+        "zawsze"
+      ],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "zawsze",
+          "count": 2
+        },
+        {
+          "word": "wciąż",
+          "count": 1
+        },
+        {
+          "word": "skąd",
+          "count": 1
+        },
+        {
+          "word": "całkiem",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 1,
+      "ty": 2,
+      "on_ona": 2,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 2,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 2,
+      "percentSentences": 0.33
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 17,
+      "median": 16,
+      "min": 5,
+      "max": 37,
+      "distribution": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 6.9,
+      "meanSyllables": 15.8,
+      "distribution": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        3,
+        4,
+        6
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 3,
+      "interrogative": 0,
+      "imperative": 3,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 0,
+      "noSubject": 2,
+      "noPredicate": 0,
+      "percent": 0.33
+    },
+    "enjambement": {
+      "count": 5,
+      "percent": 0.36,
+      "positions": [
+        2,
+        7,
+        9,
+        10,
+        13
+      ]
+    },
+    "wordOrder": {
+      "svo": 2,
+      "inversions": 2,
+      "other": 2,
+      "deviationPercent": 0.67
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 231,
+      "consonants": 314,
+      "ratio": 0.74
+    },
+    "consonantClusters": {
+      "count": 14,
+      "top": [
+        {
+          "cluster": "prz",
+          "count": 3
+        },
+        {
+          "cluster": "szcz",
+          "count": 3
+        },
+        {
+          "cluster": "wsz",
+          "count": 2
+        },
+        {
+          "cluster": "trz",
+          "count": 1
+        },
+        {
+          "cluster": "zkrw",
+          "count": 1
+        },
+        {
+          "cluster": "pchn",
+          "count": 1
+        },
+        {
+          "cluster": "krw",
+          "count": 1
+        },
+        {
+          "cluster": "szk",
+          "count": 1
+        },
+        {
+          "cluster": "grz",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 37,
+      "syczace": 60,
+      "nosowe": 64,
+      "plynne": 33
+    },
+    "rhymes": {
+      "exact": 0,
+      "approximate": 1,
+      "internal": 1,
+      "assonance": 2,
+      "alliteration": 1
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        15
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 237,
+      "estimatedSeconds": 79,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "regularny",
+      "regularityScore": 0.83
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Biblia",
+          "reference": "apokaliptyczne obrazy ognia i śmierci noworodków",
+          "evidence": "ognia, co noworodkom powypala oczy"
+        },
+        {
+          "source": "Rimbaud",
+          "reference": "synestezja i wizjonerskie obrazy",
+          "evidence": "włosami usłyszał"
+        },
+        {
+          "source": "Baudelaire",
+          "reference": "erotyka śmierci i cierpienia",
+          "evidence": "róży bać, która ustami jest rany"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.8,
+        "baudelaire": 0.7,
+        "bursa": 0.3,
+        "stachura": 0.4,
+        "grochowiak": 0.6,
+        "bialoszewski": 0.2,
+        "rozewicz": 0.3
+      }
+    },
+    "space": {
+      "type": "zamknieta",
+      "evidence": "ciało jako okiennica, przestrzeń wewnętrzna podmiotu",
+      "openClosedRatio": 0.2
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "zima",
+      "evidence": "opadnie zamiecią",
+      "openClosedRatio": 0.3
+    },
+    "motion": {
+      "movement": 8,
+      "stillness": 3,
+      "dynamism": 0.8,
+      "evidence": "rozkrwawia, wypchnąć, opadnie zamiecią, przeciekłem"
+    },
+    "imageryDensity": {
+      "metaphors": 8,
+      "comparisons": 2,
+      "personifications": 4,
+      "hyperboles": 3,
+      "per100words": 12.1
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.9,
+      "creationLevel": 0.7,
+      "ironicDistance": 0.1,
+      "autobiographicSignals": [
+        "bezpośredni zwrot do Ty",
+        "intymny ton",
+        "egzystencjalny lęk",
+        "fizyczność relacji"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "rozpacz",
+      "secondary": "tęsknota",
+      "intensity": 0.9
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "\"Bo, choć szukam, językiem cię nie umiem\", \"żebym chociaż włosami usłyszał\""
+    },
+    "addressee": {
+      "type": "ty",
+      "evidence": "\"Musisz się zawsze róży bać\", \"powiedz mi, że się boisz\", \"czy jeszcze mieszkasz\""
+    },
+    "metaphors": [
+      {
+        "source": "róża",
+        "target": "kobieta/ukochana",
+        "example": "róża bać, która ustami jest rany"
+      },
+      {
+        "source": "ciało jako okiennica",
+        "target": "krucha ochrona duszy",
+        "example": "ciało jest okiennicą, skąd wiatr płochym gestem bezwiednej dłoni wypchnąć może szybę krwi"
+      },
+      {
+        "source": "ogień/zamieć",
+        "target": "niszczycielska siła uczucia",
+        "example": "opadnie zamiecią ognia, co noworodkom powypala oczy"
+      }
+    ],
+    "temperature": {
+      "value": 0.8,
+      "label": "gorące - intensywna namiętność przenikana bólem"
+    },
+    "senses": {
+      "wzrok": 4,
+      "sluch": 5,
+      "dotyk": 5,
+      "smak": 2,
+      "zapach": 1
+    },
+    "autodestruction": {
+      "level": 0.7,
+      "signals": [
+        "rany, co się wewnątrz ciebie wciąż rozkrwawia",
+        "nim jeszcze nie przeciekłem przez nią całkiem",
+        "wypchnąć może szybę krwi"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 0.921,
+    "dfaAlpha": 1.522,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -2.138333059508023
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -1.7005986908310775
+      }
+    ],
+    "seriesLength": 14,
+    "series": [
+      7,
+      8,
+      8,
+      8,
+      7,
+      7,
+      6,
+      6,
+      5,
+      6,
+      6,
+      7,
+      8,
+      8
+    ]
+  }
+}

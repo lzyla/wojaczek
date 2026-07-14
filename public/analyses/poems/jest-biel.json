@@ -1,0 +1,856 @@
+{
+  "id": "jest-biel",
+  "title": "Jest biel",
+  "wordCount": 103,
+  "lineCount": 12,
+  "uniqueWords": 71,
+  "vocabularyRichness": 0.689,
+  "avgWordsPerLine": 8.58,
+  "wordsPerLineDistribution": [
+    9,
+    10,
+    9,
+    12,
+    8,
+    7,
+    7,
+    8,
+    9,
+    7,
+    8,
+    9
+  ],
+  "wordFrequencies": [
+    [
+      "biel",
+      2
+    ],
+    [
+      "wypija",
+      2
+    ],
+    [
+      "kość",
+      2
+    ],
+    [
+      "nazwać",
+      1
+    ],
+    [
+      "ubywa",
+      1
+    ],
+    [
+      "boję",
+      1
+    ],
+    [
+      "wyznać",
+      1
+    ],
+    [
+      "śmiem",
+      1
+    ],
+    [
+      "wiedząc",
+      1
+    ],
+    [
+      "słowa",
+      1
+    ],
+    [
+      "drwią",
+      1
+    ],
+    [
+      "nich",
+      1
+    ],
+    [
+      "krew",
+      1
+    ],
+    [
+      "dziś",
+      1
+    ],
+    [
+      "wyparowała",
+      1
+    ],
+    [
+      "upada",
+      1
+    ],
+    [
+      "śniegiem",
+      1
+    ],
+    [
+      "mróz",
+      1
+    ],
+    [
+      "gryzie",
+      1
+    ],
+    [
+      "zegara",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 11,
+    "period": 2,
+    "question": 4,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 7,
+    "colon": 1,
+    "semicolon": 1
+  },
+  "questionCount": 4,
+  "exclamationCount": 0,
+  "negationCount": 7,
+  "negationWords": [
+    "nic",
+    "nie"
+  ],
+  "pronounDistribution": {
+    "ja": 7,
+    "ty": 2,
+    "on_ona": 0,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 3,
+    "smierc": 1,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [
+    [
+      "nie",
+      3
+    ],
+    [
+      "jest",
+      2
+    ],
+    [
+      "już",
+      2
+    ]
+  ],
+  "firstWord": "jest",
+  "lastWord": "nic",
+  "avgWordLength": 4.17,
+  "wordLengthDistribution": {
+    "4-5": 41,
+    "1-3": 39,
+    "6-7": 16,
+    "10+": 1,
+    "8-9": 6
+  },
+  "bigrams": [
+    [
+      "znów wypija",
+      1
+    ]
+  ],
+  "poemWords": [
+    "biel",
+    "wypija",
+    "nazwać",
+    "ubywa",
+    "boję",
+    "wyznać",
+    "śmiem",
+    "wiedząc",
+    "słowa",
+    "drwią",
+    "nich",
+    "krew",
+    "dziś",
+    "kość",
+    "wyparowała",
+    "upada",
+    "śniegiem",
+    "mróz",
+    "gryzie",
+    "zegara",
+    "nagląc",
+    "zrobiłam",
+    "lipiec",
+    "grudniem",
+    "wszedł",
+    "snem",
+    "połyka",
+    "jeśliś",
+    "czemu",
+    "gwiazda",
+    "skóry",
+    "snu",
+    "ostrogą",
+    "przecieka",
+    "krąży",
+    "oczach",
+    "biały",
+    "gołąb",
+    "symbolach",
+    "nic"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 19,
+        "VERB": 20,
+        "ADJ": 1,
+        "ADV": 7,
+        "PRON": 17,
+        "ADP": 7,
+        "CCONJ": 4,
+        "SCONJ": 2,
+        "INTJ": 0,
+        "PART": 17,
+        "DET": 2,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.181,
+        "VERB": 0.19,
+        "ADJ": 0.01,
+        "ADV": 0.067,
+        "PRON": 0.162,
+        "ADP": 0.067,
+        "CCONJ": 0.038,
+        "SCONJ": 0.019,
+        "INTJ": 0,
+        "PART": 0.162,
+        "DET": 0.019,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 2,
+        "abstract": 1,
+        "ratio": 0.67
+      },
+      "verbTenses": {
+        "present": 22,
+        "infinitive": 2,
+        "past": 3
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 4,
+        "destrukcja": 1,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 1
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 1,
+        "oceniajace": 0,
+        "opisowe": 0
+      },
+      "adverbs": {
+        "temporalne": [
+          "teraz"
+        ],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "tyle",
+            "count": 2
+          },
+          {
+            "word": "kiedy",
+            "count": 2
+          },
+          {
+            "word": "jak",
+            "count": 1
+          },
+          {
+            "word": "dziś",
+            "count": 1
+          },
+          {
+            "word": "teraz",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 6,
+        "ty": 2,
+        "on_ona": 0,
+        "my": 0,
+        "wy": 0,
+        "oni": 1
+      },
+      "negations": {
+        "nie": 6,
+        "nic": 1,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 7,
+        "percentSentences": 0.88
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 186,
+        "consonants": 251,
+        "ratio": 0.74
+      },
+      "consonantClusters": {
+        "count": 4,
+        "top": [
+          {
+            "cluster": "drw",
+            "count": 1
+          },
+          {
+            "cluster": "wsz",
+            "count": 1
+          },
+          {
+            "cluster": "str",
+            "count": 1
+          },
+          {
+            "cluster": "prz",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 15,
+        "syczace": 49,
+        "nosowe": 48,
+        "plynne": 34
+      },
+      "rhymes": {
+        "exact": 0,
+        "approximate": 0,
+        "internal": 2,
+        "assonance": 0,
+        "alliteration": 2
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 13.1,
+        "median": 12,
+        "min": 0,
+        "max": 33,
+        "distribution": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          0,
+          0,
+          2,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 8.6,
+        "meanSyllables": 15,
+        "distribution": [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          2,
+          2,
+          3,
+          4,
+          0,
+          0,
+          1
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 4,
+        "interrogative": 4,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 0,
+        "noSubject": 1,
+        "noPredicate": 0,
+        "percent": 0.12
+      },
+      "enjambement": {
+        "count": 0,
+        "percent": 0,
+        "positions": []
+      },
+      "wordOrder": {
+        "svo": 1,
+        "inversions": 5,
+        "other": 1,
+        "deviationPercent": 0.86
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 4,
+        "śmierć": 1,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 195,
+      "estimatedSeconds": 65,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 19,
+      "VERB": 20,
+      "ADJ": 1,
+      "ADV": 7,
+      "PRON": 17,
+      "ADP": 7,
+      "CCONJ": 4,
+      "SCONJ": 2,
+      "INTJ": 0,
+      "PART": 17,
+      "DET": 2,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.181,
+      "VERB": 0.19,
+      "ADJ": 0.01,
+      "ADV": 0.067,
+      "PRON": 0.162,
+      "ADP": 0.067,
+      "CCONJ": 0.038,
+      "SCONJ": 0.019,
+      "INTJ": 0,
+      "PART": 0.162,
+      "DET": 0.019,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 2,
+      "abstract": 1,
+      "ratio": 0.67
+    },
+    "verbTenses": {
+      "present": 22,
+      "infinitive": 2,
+      "past": 3
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 4,
+      "destrukcja": 1,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 1
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 1,
+      "oceniajace": 0,
+      "opisowe": 0
+    },
+    "adverbs": {
+      "temporalne": [
+        "teraz"
+      ],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "tyle",
+          "count": 2
+        },
+        {
+          "word": "kiedy",
+          "count": 2
+        },
+        {
+          "word": "jak",
+          "count": 1
+        },
+        {
+          "word": "dziś",
+          "count": 1
+        },
+        {
+          "word": "teraz",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 6,
+      "ty": 2,
+      "on_ona": 0,
+      "my": 0,
+      "wy": 0,
+      "oni": 1
+    },
+    "negations": {
+      "nie": 6,
+      "nic": 1,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 7,
+      "percentSentences": 0.88
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 13.1,
+      "median": 12,
+      "min": 0,
+      "max": 33,
+      "distribution": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        0,
+        0,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 8.6,
+      "meanSyllables": 15,
+      "distribution": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        2,
+        2,
+        3,
+        4,
+        0,
+        0,
+        1
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 4,
+      "interrogative": 4,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 0,
+      "noSubject": 1,
+      "noPredicate": 0,
+      "percent": 0.12
+    },
+    "enjambement": {
+      "count": 0,
+      "percent": 0,
+      "positions": []
+    },
+    "wordOrder": {
+      "svo": 1,
+      "inversions": 5,
+      "other": 1,
+      "deviationPercent": 0.86
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 186,
+      "consonants": 251,
+      "ratio": 0.74
+    },
+    "consonantClusters": {
+      "count": 4,
+      "top": [
+        {
+          "cluster": "drw",
+          "count": 1
+        },
+        {
+          "cluster": "wsz",
+          "count": 1
+        },
+        {
+          "cluster": "str",
+          "count": 1
+        },
+        {
+          "cluster": "prz",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 15,
+      "syczace": 49,
+      "nosowe": 48,
+      "plynne": 34
+    },
+    "rhymes": {
+      "exact": 0,
+      "approximate": 0,
+      "internal": 2,
+      "assonance": 0,
+      "alliteration": 2
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        13
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 195,
+      "estimatedSeconds": 65,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "regularny",
+      "regularityScore": 0.72
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Biblia",
+          "reference": "biały gołąb jako symbol Ducha Świętego",
+          "evidence": "biały gołąb"
+        },
+        {
+          "source": "mitologia",
+          "reference": "gołąb jako symbol duszy/transcendencji",
+          "evidence": "biały gołąb / Kiedy ja o symbolach naprawdę już nie wiem nic"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.7,
+        "baudelaire": 0.6,
+        "bursa": 0.3,
+        "stachura": 0.4,
+        "grochowiak": 0.5,
+        "bialoszewski": 0.2,
+        "rozewicz": 0.4
+      }
+    },
+    "space": {
+      "type": "nieokreslona",
+      "evidence": "przestrzeń wewnętrzna podmiotu, metafizyczna",
+      "openClosedRatio": 0.3
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "zima",
+      "evidence": "upada śniegiem – mróz gryzie kość / lipiec grudniem wszedł",
+      "timeShift": true
+    },
+    "motion": {
+      "movement": 6,
+      "stillness": 4,
+      "dynamism": 0.6,
+      "evidence": "wypija, ubywa, wyparowała, upada śniegiem, przecieka, krąży"
+    },
+    "imageryDensity": {
+      "metaphors": 8,
+      "comparisons": 2,
+      "personifications": 4,
+      "hyperboles": 2,
+      "per100words": 18.6
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.9,
+      "creationLevel": 0.8,
+      "ironicDistance": 0.2,
+      "autobiographicSignals": [
+        "bezpośrednie zwroty do Ty",
+        "intymny ton wyznania",
+        "data pod wierszem",
+        "pytania egzystencjalne"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "rozpacz",
+      "secondary": "rezygnacja",
+      "intensity": 0.8
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "Liczne zaimki osobowe 'ja', 'ze mnie', 'moja krew', podmiot wyraźnie obecny w tekście"
+    },
+    "addressee": {
+      "type": "ty",
+      "evidence": "Wielokrotne zwroty do adresata 'czy to jesteś Ty?', 'jeśliś to jest Ty'"
+    },
+    "metaphors": [
+      {
+        "source": "biel",
+        "target": "śmierć/utrata",
+        "example": "Jest biel, i znów wypija"
+      },
+      {
+        "source": "krew wyparowała",
+        "target": "utrata życia/energii",
+        "example": "moja krew / Już ze mnie dziś po kość wyparowała"
+      },
+      {
+        "source": "sen połyka",
+        "target": "utrata świadomości/śmierć",
+        "example": "Jest snem, co mnie połyka"
+      },
+      {
+        "source": "biały gołąb",
+        "target": "symbol transcendencji",
+        "example": "krąży w oczach – biały gołąb"
+      }
+    ],
+    "temperature": {
+      "value": 0.2,
+      "label": "zimne - dominacja bieli, śniegu, mrozu, paraliż egzystencjalny"
+    },
+    "senses": {
+      "wzrok": 5,
+      "sluch": 1,
+      "dotyk": 4,
+      "smak": 2,
+      "zapach": 0
+    },
+    "autodestruction": {
+      "level": 0.9,
+      "signals": [
+        "wypija ze mnie",
+        "krew wyparowała po kość",
+        "mnie połyka",
+        "nie wiem nic o symbolach"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 0.604,
+    "dfaAlpha": 2.484,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -1.4451858789480827
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -0.7307232875645123
+      }
+    ],
+    "seriesLength": 12,
+    "series": [
+      9,
+      10,
+      9,
+      12,
+      8,
+      7,
+      7,
+      8,
+      9,
+      7,
+      8,
+      9
+    ]
+  }
+}

@@ -1,0 +1,961 @@
+{
+  "id": "rimbaud",
+  "title": "Rimbaud",
+  "wordCount": 94,
+  "lineCount": 24,
+  "uniqueWords": 77,
+  "vocabularyRichness": 0.819,
+  "avgWordsPerLine": 3.92,
+  "wordsPerLineDistribution": [
+    5,
+    7,
+    8,
+    6,
+    3,
+    2,
+    3,
+    3,
+    2,
+    4,
+    3,
+    4,
+    5,
+    3,
+    4,
+    2,
+    2,
+    1,
+    5,
+    2,
+    3,
+    9,
+    4,
+    4
+  ],
+  "wordFrequencies": [
+    [
+      "rimbaud",
+      3
+    ],
+    [
+      "siedział",
+      2
+    ],
+    [
+      "czoło",
+      2
+    ],
+    [
+      "charleville",
+      2
+    ],
+    [
+      "spisek",
+      2
+    ],
+    [
+      "kartografów",
+      2
+    ],
+    [
+      "śnił",
+      1
+    ],
+    [
+      "krześle",
+      1
+    ],
+    [
+      "poręczami",
+      1
+    ],
+    [
+      "tyłem",
+      1
+    ],
+    [
+      "kominka",
+      1
+    ],
+    [
+      "bym",
+      1
+    ],
+    [
+      "wiedział",
+      1
+    ],
+    [
+      "kominkiem",
+      1
+    ],
+    [
+      "kamiennej",
+      1
+    ],
+    [
+      "wstążce",
+      1
+    ],
+    [
+      "wyryte",
+      1
+    ],
+    [
+      "swobodnie",
+      1
+    ],
+    [
+      "ręce",
+      1
+    ],
+    [
+      "poręczach",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 7,
+    "period": 5,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 1,
+    "dash": 0,
+    "colon": 1,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 1,
+  "negationWords": [
+    "nie"
+  ],
+  "pronounDistribution": {
+    "ja": 3,
+    "ty": 0,
+    "on_ona": 0,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 4,
+    "smierc": 0,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 1,
+    "bol": 0
+  },
+  "anaphors": [
+    [
+      "charleville",
+      2
+    ]
+  ],
+  "firstWord": "śnił",
+  "lastWord": "kartografów",
+  "avgWordLength": 5.16,
+  "wordLengthDistribution": {
+    "4-5": 25,
+    "1-3": 30,
+    "6-7": 20,
+    "8-9": 14,
+    "10+": 5
+  },
+  "bigrams": [
+    [
+      "rimbaud siedział",
+      2
+    ],
+    [
+      "spisek kartografów",
+      2
+    ],
+    [
+      "poręczami tyłem",
+      1
+    ]
+  ],
+  "poemWords": [
+    "śnił",
+    "rimbaud",
+    "siedział",
+    "krześle",
+    "poręczami",
+    "tyłem",
+    "kominka",
+    "bym",
+    "wiedział",
+    "kominkiem",
+    "kamiennej",
+    "wstążce",
+    "wyryte",
+    "swobodnie",
+    "ręce",
+    "poręczach",
+    "nogi",
+    "luźno",
+    "rzucone",
+    "przetłuszczone",
+    "włosy",
+    "miał",
+    "zaczesane",
+    "czoło",
+    "szerokie",
+    "pień",
+    "odarty",
+    "kory",
+    "łysiał",
+    "wstydliwe",
+    "zatoki",
+    "grube",
+    "wargi",
+    "uśmieszek",
+    "patrzył",
+    "prosto",
+    "obiektyw",
+    "dalej",
+    "sen",
+    "zaczął",
+    "oddalać",
+    "ode",
+    "ziemia",
+    "byłem",
+    "coraz",
+    "spadający",
+    "głos",
+    "megafon",
+    "mówiłem",
+    "charleville",
+    "spisek",
+    "kartografów"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 25,
+        "VERB": 13,
+        "ADJ": 10,
+        "ADV": 6,
+        "PRON": 5,
+        "ADP": 12,
+        "CCONJ": 6,
+        "SCONJ": 2,
+        "INTJ": 0,
+        "PART": 4,
+        "DET": 1,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.263,
+        "VERB": 0.137,
+        "ADJ": 0.105,
+        "ADV": 0.063,
+        "PRON": 0.053,
+        "ADP": 0.126,
+        "CCONJ": 0.063,
+        "SCONJ": 0.021,
+        "INTJ": 0,
+        "PART": 0.042,
+        "DET": 0.011,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 1,
+        "abstract": 1,
+        "ratio": 0.5
+      },
+      "verbTenses": {
+        "infinitive": 3,
+        "past": 11,
+        "present": 4
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 3,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 0,
+        "opisowe": 10
+      },
+      "adverbs": {
+        "temporalne": [
+          "potem"
+        ],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "swobodnie",
+            "count": 1
+          },
+          {
+            "word": "luźno",
+            "count": 1
+          },
+          {
+            "word": "prosto",
+            "count": 1
+          },
+          {
+            "word": "dalej",
+            "count": 1
+          },
+          {
+            "word": "potem",
+            "count": 1
+          },
+          {
+            "word": "coraz",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 3,
+        "ty": 0,
+        "on_ona": 0,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 1,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 1,
+        "percentSentences": 0.12
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 207,
+        "consonants": 285,
+        "ratio": 0.73
+      },
+      "consonantClusters": {
+        "count": 7,
+        "top": [
+          {
+            "cluster": "wst",
+            "count": 2
+          },
+          {
+            "cluster": "prz",
+            "count": 2
+          },
+          {
+            "cluster": "krz",
+            "count": 1
+          },
+          {
+            "cluster": "szcz",
+            "count": 1
+          },
+          {
+            "cluster": "trz",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 19,
+        "syczace": 40,
+        "nosowe": 51,
+        "plynne": 56
+      },
+      "rhymes": {
+        "exact": 3,
+        "approximate": 0,
+        "internal": 0,
+        "assonance": 1,
+        "alliteration": 1
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 11.9,
+        "median": 6,
+        "min": 3,
+        "max": 52,
+        "distribution": [
+          0,
+          0,
+          0,
+          1,
+          2,
+          1,
+          0,
+          0,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 3.8,
+        "meanSyllables": 8.5,
+        "distribution": [
+          0,
+          2,
+          5,
+          6,
+          5,
+          3,
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 8,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 0,
+        "noSubject": 2,
+        "noPredicate": 0,
+        "percent": 0.25
+      },
+      "enjambement": {
+        "count": 9,
+        "percent": 0.38,
+        "positions": [
+          2,
+          5,
+          7,
+          8,
+          10,
+          12,
+          13,
+          16,
+          20
+        ]
+      },
+      "wordOrder": {
+        "svo": 1,
+        "inversions": 3,
+        "other": 4,
+        "deviationPercent": 0.88
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 3,
+        "śmierć": 0,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 1,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 212,
+      "estimatedSeconds": 71,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 25,
+      "VERB": 13,
+      "ADJ": 10,
+      "ADV": 6,
+      "PRON": 5,
+      "ADP": 12,
+      "CCONJ": 6,
+      "SCONJ": 2,
+      "INTJ": 0,
+      "PART": 4,
+      "DET": 1,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.263,
+      "VERB": 0.137,
+      "ADJ": 0.105,
+      "ADV": 0.063,
+      "PRON": 0.053,
+      "ADP": 0.126,
+      "CCONJ": 0.063,
+      "SCONJ": 0.021,
+      "INTJ": 0,
+      "PART": 0.042,
+      "DET": 0.011,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 1,
+      "abstract": 1,
+      "ratio": 0.5
+    },
+    "verbTenses": {
+      "infinitive": 3,
+      "past": 11,
+      "present": 4
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 3,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 0,
+      "opisowe": 10
+    },
+    "adverbs": {
+      "temporalne": [
+        "potem"
+      ],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "swobodnie",
+          "count": 1
+        },
+        {
+          "word": "luźno",
+          "count": 1
+        },
+        {
+          "word": "prosto",
+          "count": 1
+        },
+        {
+          "word": "dalej",
+          "count": 1
+        },
+        {
+          "word": "potem",
+          "count": 1
+        },
+        {
+          "word": "coraz",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 3,
+      "ty": 0,
+      "on_ona": 0,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 1,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 1,
+      "percentSentences": 0.12
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 11.9,
+      "median": 6,
+      "min": 3,
+      "max": 52,
+      "distribution": [
+        0,
+        0,
+        0,
+        1,
+        2,
+        1,
+        0,
+        0,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 3.8,
+      "meanSyllables": 8.5,
+      "distribution": [
+        0,
+        2,
+        5,
+        6,
+        5,
+        3,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 8,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 0,
+      "noSubject": 2,
+      "noPredicate": 0,
+      "percent": 0.25
+    },
+    "enjambement": {
+      "count": 9,
+      "percent": 0.38,
+      "positions": [
+        2,
+        5,
+        7,
+        8,
+        10,
+        12,
+        13,
+        16,
+        20
+      ]
+    },
+    "wordOrder": {
+      "svo": 1,
+      "inversions": 3,
+      "other": 4,
+      "deviationPercent": 0.88
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 207,
+      "consonants": 285,
+      "ratio": 0.73
+    },
+    "consonantClusters": {
+      "count": 7,
+      "top": [
+        {
+          "cluster": "wst",
+          "count": 2
+        },
+        {
+          "cluster": "prz",
+          "count": 2
+        },
+        {
+          "cluster": "krz",
+          "count": 1
+        },
+        {
+          "cluster": "szcz",
+          "count": 1
+        },
+        {
+          "cluster": "trz",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 19,
+      "syczace": 40,
+      "nosowe": 51,
+      "plynne": 56
+    },
+    "rhymes": {
+      "exact": 3,
+      "approximate": 0,
+      "internal": 0,
+      "assonance": 1,
+      "alliteration": 1
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        25
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 212,
+      "estimatedSeconds": 71,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "polregularny",
+      "regularityScore": 0.55
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Rimbaud",
+          "reference": "Arthur Rimbaud - francuski poeta symbolista",
+          "evidence": "tytuł wiersza, imię wyryty nad kominkiem, Charleville (miasto urodzenia Rimbauda)"
+        },
+        {
+          "source": "Rimbaud",
+          "reference": "Charleville-Mézières",
+          "evidence": "Charleville to spisek kartografów - miasto urodzenia Rimbauda"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 1,
+        "baudelaire": 0,
+        "bursa": 0,
+        "stachura": 0.2,
+        "grochowiak": 0.1,
+        "bialoszewski": 0,
+        "rozewicz": 0.3
+      }
+    },
+    "space": {
+      "type": "zamknieta",
+      "evidence": "krzesło z poręczami, kominek - wnętrze pomieszczenia",
+      "openClosedRatio": 0.2
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "nieokreslona",
+      "evidence": "brak wskaźników temporalnych, przestrzeń oniryczna"
+    },
+    "motion": {
+      "movement": 7,
+      "stillness": 3,
+      "dynamism": 0.7,
+      "evidence": "sen zaczął się oddalać, byłem coraz spadający - dynamika snu"
+    },
+    "imageryDensity": {
+      "metaphors": 4,
+      "comparisons": 3,
+      "personifications": 2,
+      "hyperboles": 1,
+      "per100words": 12.5
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.8,
+      "creationLevel": 0.6,
+      "ironicDistance": 0.3,
+      "autobiographicSignals": [
+        "śnił mi się",
+        "nawet bym nie wiedział",
+        "ja mówiłem"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "melancholia",
+      "secondary": "tęsknota",
+      "intensity": 0.7
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "Śnił mi się, bym nie wiedział, Byłem coraz spadający, ja mówiłem"
+    },
+    "addressee": {
+      "type": "siebie",
+      "evidence": "Wiersz to relacja z własnego snu, monolog wewnętrzny podmiotu"
+    },
+    "metaphors": [
+      {
+        "source": "czoło",
+        "target": "pień drzewa",
+        "example": "Czoło za szerokie / pień odarty z kory"
+      },
+      {
+        "source": "sen oddalający się",
+        "target": "Ziemia",
+        "example": "Sen / Zaczął się oddalać ode mnie / jak Ziemia"
+      },
+      {
+        "source": "spadanie",
+        "target": "utrata kontroli",
+        "example": "Byłem coraz spadający"
+      }
+    ],
+    "temperature": {
+      "value": 0.3,
+      "label": "chłodne - oniryczna rezygnacja"
+    },
+    "senses": {
+      "wzrok": 5,
+      "sluch": 2,
+      "dotyk": 1,
+      "smak": 0,
+      "zapach": 0
+    },
+    "autodestruction": {
+      "level": 0.4,
+      "signals": [
+        "spadanie w śnie",
+        "utrata kontroli nad rzeczywistością",
+        "obsesyjne powtarzanie o spisku"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 1.069,
+    "dfaAlpha": 2.17,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -1.5787172715726046
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -0.5318738321100278
+      },
+      {
+        "logWin": 1.6094379124341003,
+        "logFluc": -0.30471165881966245
+      },
+      {
+        "logWin": 1.791759469228055,
+        "logFluc": 0.2187294446062343
+      },
+      {
+        "logWin": 1.9459101490553132,
+        "logFluc": 0.2670386843710794
+      }
+    ],
+    "seriesLength": 24,
+    "series": [
+      5,
+      7,
+      8,
+      6,
+      3,
+      2,
+      3,
+      3,
+      2,
+      4,
+      3,
+      4,
+      5,
+      3,
+      4,
+      2,
+      2,
+      1,
+      5,
+      2,
+      3,
+      9,
+      4,
+      4
+    ]
+  }
+}

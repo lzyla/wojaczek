@@ -1,0 +1,904 @@
+{
+  "id": "nigdy-zgoda",
+  "title": "Nigdy zgoda",
+  "wordCount": 100,
+  "lineCount": 12,
+  "uniqueWords": 71,
+  "vocabularyRichness": 0.71,
+  "avgWordsPerLine": 8.33,
+  "wordsPerLineDistribution": [
+    8,
+    8,
+    9,
+    10,
+    7,
+    9,
+    6,
+    10,
+    7,
+    8,
+    10,
+    8
+  ],
+  "wordFrequencies": [
+    [
+      "życie",
+      2
+    ],
+    [
+      "miłość",
+      2
+    ],
+    [
+      "wiedząc",
+      2
+    ],
+    [
+      "powiedzieć",
+      2
+    ],
+    [
+      "mężczyzna",
+      1
+    ],
+    [
+      "znam",
+      1
+    ],
+    [
+      "smak",
+      1
+    ],
+    [
+      "twego",
+      1
+    ],
+    [
+      "nasienia",
+      1
+    ],
+    [
+      "ciebie",
+      1
+    ],
+    [
+      "piję",
+      1
+    ],
+    [
+      "odbieram",
+      1
+    ],
+    [
+      "mszczę",
+      1
+    ],
+    [
+      "przykro",
+      1
+    ],
+    [
+      "spazm",
+      1
+    ],
+    [
+      "słabszy",
+      1
+    ],
+    [
+      "niż",
+      1
+    ],
+    [
+      "zwykle",
+      1
+    ],
+    [
+      "dopytuję",
+      1
+    ],
+    [
+      "wina",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 2,
+    "period": 0,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 3,
+    "semicolon": 1
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 4,
+  "negationWords": [
+    "nie"
+  ],
+  "pronounDistribution": {
+    "ja": 7,
+    "ty": 6,
+    "on_ona": 0,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 0,
+    "smierc": 0,
+    "erotyka": 3,
+    "alkohol": 1,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [
+    [
+      "nie",
+      2
+    ]
+  ],
+  "firstWord": "ty",
+  "lastWord": "snu",
+  "avgWordLength": 4.59,
+  "wordLengthDistribution": {
+    "1-3": 42,
+    "6-7": 19,
+    "8-9": 9,
+    "4-5": 24,
+    "10+": 6
+  },
+  "bigrams": [
+    [
+      "mężczyzna znam",
+      1
+    ],
+    [
+      "znam smak",
+      1
+    ],
+    [
+      "smak twego",
+      1
+    ],
+    [
+      "twego nasienia",
+      1
+    ],
+    [
+      "ciebie piję",
+      1
+    ],
+    [
+      "piję odbieram",
+      1
+    ]
+  ],
+  "poemWords": [
+    "mężczyzna",
+    "znam",
+    "smak",
+    "twego",
+    "nasienia",
+    "ciebie",
+    "piję",
+    "odbieram",
+    "życie",
+    "miłość",
+    "mszczę",
+    "przykro",
+    "spazm",
+    "słabszy",
+    "niż",
+    "zwykle",
+    "dopytuję",
+    "wiedząc",
+    "wina",
+    "odważysz",
+    "powiedzieć",
+    "mogłabym",
+    "delikatność",
+    "tchórzostwem",
+    "wiesz",
+    "wierzysz",
+    "powiem",
+    "zyskiem",
+    "wzajemna",
+    "wdzięczność",
+    "milczę",
+    "milcząc",
+    "walczę",
+    "mścisz",
+    "przypuszczam",
+    "żeś",
+    "zgodzimy",
+    "wspólną",
+    "kołdrą",
+    "snu"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 14,
+        "VERB": 22,
+        "ADJ": 3,
+        "ADV": 4,
+        "PRON": 16,
+        "ADP": 5,
+        "CCONJ": 6,
+        "SCONJ": 6,
+        "INTJ": 0,
+        "PART": 8,
+        "DET": 6,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.137,
+        "VERB": 0.216,
+        "ADJ": 0.029,
+        "ADV": 0.039,
+        "PRON": 0.157,
+        "ADP": 0.049,
+        "CCONJ": 0.059,
+        "SCONJ": 0.059,
+        "INTJ": 0,
+        "PART": 0.078,
+        "DET": 0.059,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 1,
+        "abstract": 5,
+        "ratio": 0.17
+      },
+      "verbTenses": {
+        "present": 24,
+        "future": 3,
+        "infinitive": 2,
+        "past": 1
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 7,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 1
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 0,
+        "opisowe": 3
+      },
+      "adverbs": {
+        "temporalne": [],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "kiedy",
+            "count": 1
+          },
+          {
+            "word": "przykro",
+            "count": 1
+          },
+          {
+            "word": "gdy",
+            "count": 1
+          },
+          {
+            "word": "zwykle",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 4,
+        "ty": 6,
+        "on_ona": 0,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 4,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 1,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 5,
+        "percentSentences": 0.71
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 190,
+        "consonants": 279,
+        "ratio": 0.68
+      },
+      "consonantClusters": {
+        "count": 16,
+        "top": [
+          {
+            "cluster": "lcz",
+            "count": 3
+          },
+          {
+            "cluster": "prz",
+            "count": 2
+          },
+          {
+            "cluster": "żcz",
+            "count": 1
+          },
+          {
+            "cluster": "mszcz",
+            "count": 1
+          },
+          {
+            "cluster": "bsz",
+            "count": 1
+          },
+          {
+            "cluster": "tch",
+            "count": 1
+          },
+          {
+            "cluster": "stw",
+            "count": 1
+          },
+          {
+            "cluster": "wdz",
+            "count": 1
+          },
+          {
+            "cluster": "czn",
+            "count": 1
+          },
+          {
+            "cluster": "mśc",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 32,
+        "syczace": 51,
+        "nosowe": 63,
+        "plynne": 20
+      },
+      "rhymes": {
+        "exact": 0,
+        "approximate": 0,
+        "internal": 3,
+        "assonance": 0,
+        "alliteration": 0
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 14.6,
+        "median": 9,
+        "min": 2,
+        "max": 34,
+        "distribution": [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          2,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 7.8,
+        "meanSyllables": 14.7,
+        "distribution": [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          2,
+          4,
+          2,
+          3
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 7,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 1,
+        "noSubject": 1,
+        "noPredicate": 0,
+        "percent": 0.29
+      },
+      "enjambement": {
+        "count": 4,
+        "percent": 0.33,
+        "positions": [
+          2,
+          4,
+          5,
+          6
+        ]
+      },
+      "wordOrder": {
+        "svo": 4,
+        "inversions": 1,
+        "other": 2,
+        "deviationPercent": 0.43
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 0,
+        "śmierć": 0,
+        "erotyka": 2,
+        "alkohol": 1,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 191,
+      "estimatedSeconds": 64,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 14,
+      "VERB": 22,
+      "ADJ": 3,
+      "ADV": 4,
+      "PRON": 16,
+      "ADP": 5,
+      "CCONJ": 6,
+      "SCONJ": 6,
+      "INTJ": 0,
+      "PART": 8,
+      "DET": 6,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.137,
+      "VERB": 0.216,
+      "ADJ": 0.029,
+      "ADV": 0.039,
+      "PRON": 0.157,
+      "ADP": 0.049,
+      "CCONJ": 0.059,
+      "SCONJ": 0.059,
+      "INTJ": 0,
+      "PART": 0.078,
+      "DET": 0.059,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 1,
+      "abstract": 5,
+      "ratio": 0.17
+    },
+    "verbTenses": {
+      "present": 24,
+      "future": 3,
+      "infinitive": 2,
+      "past": 1
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 7,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 1
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 0,
+      "opisowe": 3
+    },
+    "adverbs": {
+      "temporalne": [],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "kiedy",
+          "count": 1
+        },
+        {
+          "word": "przykro",
+          "count": 1
+        },
+        {
+          "word": "gdy",
+          "count": 1
+        },
+        {
+          "word": "zwykle",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 4,
+      "ty": 6,
+      "on_ona": 0,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 4,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 1,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 5,
+      "percentSentences": 0.71
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 14.6,
+      "median": 9,
+      "min": 2,
+      "max": 34,
+      "distribution": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        1,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 7.8,
+      "meanSyllables": 14.7,
+      "distribution": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        2,
+        4,
+        2,
+        3
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 7,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 1,
+      "noSubject": 1,
+      "noPredicate": 0,
+      "percent": 0.29
+    },
+    "enjambement": {
+      "count": 4,
+      "percent": 0.33,
+      "positions": [
+        2,
+        4,
+        5,
+        6
+      ]
+    },
+    "wordOrder": {
+      "svo": 4,
+      "inversions": 1,
+      "other": 2,
+      "deviationPercent": 0.43
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 190,
+      "consonants": 279,
+      "ratio": 0.68
+    },
+    "consonantClusters": {
+      "count": 16,
+      "top": [
+        {
+          "cluster": "lcz",
+          "count": 3
+        },
+        {
+          "cluster": "prz",
+          "count": 2
+        },
+        {
+          "cluster": "żcz",
+          "count": 1
+        },
+        {
+          "cluster": "mszcz",
+          "count": 1
+        },
+        {
+          "cluster": "bsz",
+          "count": 1
+        },
+        {
+          "cluster": "tch",
+          "count": 1
+        },
+        {
+          "cluster": "stw",
+          "count": 1
+        },
+        {
+          "cluster": "wdz",
+          "count": 1
+        },
+        {
+          "cluster": "czn",
+          "count": 1
+        },
+        {
+          "cluster": "mśc",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 32,
+      "syczace": 51,
+      "nosowe": 63,
+      "plynne": 20
+    },
+    "rhymes": {
+      "exact": 0,
+      "approximate": 0,
+      "internal": 3,
+      "assonance": 0,
+      "alliteration": 0
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        13
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 191,
+      "estimatedSeconds": 64,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "regularny",
+      "regularityScore": 0.74
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Biblia",
+          "reference": "Eucharystia/Komunia",
+          "evidence": "Bo kiedy z Ciebie piję odbieram Ci życie - nawiązanie do picia krwi Chrystusa"
+        },
+        {
+          "source": "mitologia",
+          "reference": "mity o wampirach/succubus",
+          "evidence": "picie nasienia jako odbieranie życia, motyw zemsty przez intymność"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.3,
+        "baudelaire": 0.7,
+        "bursa": 0.2,
+        "stachura": 0.1,
+        "grochowiak": 0.8,
+        "bialoszewski": 0.2,
+        "rozewicz": 0.4
+      }
+    },
+    "space": {
+      "type": "zamknieta",
+      "evidence": "wspólna kołdra snu, intymna przestrzeń sypialni, relacja dwojga osób",
+      "openClosedRatio": 0.1
+    },
+    "timeOfDay": {
+      "period": "noc",
+      "season": "nieokreslona",
+      "evidence": "wspólna kołdra snu, intymność sugerująca nocną porę"
+    },
+    "motion": {
+      "movement": 3,
+      "stillness": 7,
+      "dynamism": 0.3,
+      "evidence": "przewaga statycznych momentów intymności, walka i zemsta jako ruch psychiczny, nie fizyczny"
+    },
+    "imageryDensity": {
+      "metaphors": 4,
+      "comparisons": 1,
+      "personifications": 0,
+      "hyperboles": 2,
+      "per100words": 58.3
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.9,
+      "creationLevel": 0.3,
+      "ironicDistance": 0.2,
+      "autobiographicSignals": [
+        "intymne szczegóły seksualne",
+        "szczera analiza relacji",
+        "wyznanie o zemście i walce",
+        "osobiste refleksje o miłości"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "gniew",
+      "secondary": "czułość",
+      "intensity": 0.8
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "Ja się mszczę, ja mogłabym powiedzieć, więc milczę"
+    },
+    "addressee": {
+      "type": "ty",
+      "evidence": "Ty jesteś mój mężczyzna, z Ciebie piję, Twój spazm"
+    },
+    "metaphors": [
+      {
+        "source": "picie",
+        "target": "akt seksualny",
+        "example": "kiedy z Ciebie piję odbieram Ci życie"
+      },
+      {
+        "source": "wojna",
+        "target": "relacja miłosna",
+        "example": "milcząc walczę o życie"
+      },
+      {
+        "source": "zemsta",
+        "target": "miłość",
+        "example": "Ja się mszczę... Ty też się mścisz"
+      }
+    ],
+    "temperature": {
+      "value": 0.7,
+      "label": "gorące napięcie erotyczne z elementami agresji"
+    },
+    "senses": {
+      "wzrok": 2,
+      "sluch": 1,
+      "dotyk": 4,
+      "smak": 5,
+      "zapach": 1
+    },
+    "autodestruction": {
+      "level": 0.6,
+      "signals": [
+        "odbieram Ci życie",
+        "walczę o życie",
+        "wzajemna zemsta w miłości"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 0.75,
+    "dfaAlpha": 0.778,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -0.7520386983881371
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -0.5283123900767961
+      }
+    ],
+    "seriesLength": 12,
+    "series": [
+      8,
+      8,
+      9,
+      10,
+      7,
+      9,
+      6,
+      10,
+      7,
+      8,
+      10,
+      8
+    ]
+  }
+}

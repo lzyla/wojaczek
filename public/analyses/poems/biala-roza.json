@@ -1,0 +1,810 @@
+{
+  "id": "biala-roza",
+  "title": "Biała róża",
+  "wordCount": 54,
+  "lineCount": 9,
+  "uniqueWords": 48,
+  "vocabularyRichness": 0.889,
+  "avgWordsPerLine": 6,
+  "wordsPerLineDistribution": [
+    1,
+    6,
+    6,
+    7,
+    5,
+    6,
+    7,
+    9,
+    7
+  ],
+  "wordFrequencies": [
+    [
+      "fraszka",
+      1
+    ],
+    [
+      "przyszłość",
+      1
+    ],
+    [
+      "rysuje",
+      1
+    ],
+    [
+      "różowo",
+      1
+    ],
+    [
+      "biało",
+      1
+    ],
+    [
+      "ciało",
+      1
+    ],
+    [
+      "przyszłości",
+      1
+    ],
+    [
+      "kolorze",
+      1
+    ],
+    [
+      "myśli",
+      1
+    ],
+    [
+      "mózg",
+      1
+    ],
+    [
+      "dzisiaj",
+      1
+    ],
+    [
+      "śniegowi",
+      1
+    ],
+    [
+      "przyśnił",
+      1
+    ],
+    [
+      "jutro",
+      1
+    ],
+    [
+      "zlodowaciałą",
+      1
+    ],
+    [
+      "zaspą",
+      1
+    ],
+    [
+      "białym",
+      1
+    ],
+    [
+      "niedźwiedziem",
+      1
+    ],
+    [
+      "psem",
+      1
+    ],
+    [
+      "królewny",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 4,
+    "period": 3,
+    "question": 0,
+    "exclamation": 1,
+    "ellipsis": 0,
+    "dash": 3,
+    "colon": 0,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 1,
+  "negationCount": 2,
+  "negationWords": [
+    "nie"
+  ],
+  "pronounDistribution": {
+    "ja": 2,
+    "ty": 0,
+    "on_ona": 0,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 1,
+    "smierc": 0,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [],
+  "firstWord": "fraszka",
+  "lastWord": "uwierzyć",
+  "avgWordLength": 5.22,
+  "wordLengthDistribution": {
+    "6-7": 12,
+    "10+": 4,
+    "1-3": 15,
+    "4-5": 18,
+    "8-9": 5
+  },
+  "bigrams": [
+    [
+      "fraszka przyszłość",
+      1
+    ],
+    [
+      "przyszłość rysuje",
+      1
+    ],
+    [
+      "różowo biało",
+      1
+    ],
+    [
+      "biało ciało",
+      1
+    ],
+    [
+      "ciało przyszłości",
+      1
+    ],
+    [
+      "kolorze mojej",
+      1
+    ],
+    [
+      "mojej myśli",
+      1
+    ]
+  ],
+  "poemWords": [
+    "fraszka",
+    "przyszłość",
+    "rysuje",
+    "różowo",
+    "biało",
+    "ciało",
+    "przyszłości",
+    "kolorze",
+    "myśli",
+    "mózg",
+    "dzisiaj",
+    "śniegowi",
+    "przyśnił",
+    "jutro",
+    "zlodowaciałą",
+    "zaspą",
+    "białym",
+    "niedźwiedziem",
+    "psem",
+    "królewny",
+    "śnieżki",
+    "którego",
+    "brać",
+    "łóżka",
+    "śliskiej",
+    "drodze",
+    "głowę",
+    "śnieg",
+    "upadł",
+    "trudno",
+    "białą",
+    "różę",
+    "uwierzyć"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 15,
+        "VERB": 5,
+        "ADJ": 6,
+        "ADV": 4,
+        "PRON": 5,
+        "ADP": 7,
+        "CCONJ": 1,
+        "SCONJ": 0,
+        "INTJ": 0,
+        "PART": 3,
+        "DET": 4,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.268,
+        "VERB": 0.089,
+        "ADJ": 0.107,
+        "ADV": 0.071,
+        "PRON": 0.089,
+        "ADP": 0.125,
+        "CCONJ": 0.018,
+        "SCONJ": 0,
+        "INTJ": 0,
+        "PART": 0.054,
+        "DET": 0.071,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 4,
+        "abstract": 2,
+        "ratio": 0.67
+      },
+      "verbTenses": {
+        "present": 1,
+        "past": 2,
+        "future": 2,
+        "infinitive": 2
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 2,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 3,
+        "oceniajace": 0,
+        "opisowe": 3
+      },
+      "adverbs": {
+        "temporalne": [],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "biało",
+            "count": 1
+          },
+          {
+            "word": "dzisiaj",
+            "count": 1
+          },
+          {
+            "word": "jutro",
+            "count": 1
+          },
+          {
+            "word": "trudno",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 0,
+        "ty": 0,
+        "on_ona": 0,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 2,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 2,
+        "percentSentences": 0.4
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 123,
+        "consonants": 168,
+        "ratio": 0.73
+      },
+      "consonantClusters": {
+        "count": 7,
+        "top": [
+          {
+            "cluster": "prz",
+            "count": 3
+          },
+          {
+            "cluster": "szł",
+            "count": 2
+          },
+          {
+            "cluster": "szk",
+            "count": 1
+          },
+          {
+            "cluster": "dźw",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 14,
+        "syczace": 27,
+        "nosowe": 29,
+        "plynne": 35
+      },
+      "rhymes": {
+        "exact": 0,
+        "approximate": 0,
+        "internal": 0,
+        "assonance": 0,
+        "alliteration": 0
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 11.2,
+        "median": 6,
+        "min": 3,
+        "max": 25,
+        "distribution": [
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          2,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 5.9,
+        "meanSyllables": 12.9,
+        "distribution": [
+          0,
+          1,
+          1,
+          0,
+          0,
+          1,
+          1,
+          5,
+          0,
+          0,
+          1
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 4,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 1
+      },
+      "ellipsis": {
+        "incomplete": 2,
+        "noSubject": 0,
+        "noPredicate": 0,
+        "percent": 0.4
+      },
+      "enjambement": {
+        "count": 1,
+        "percent": 0.11,
+        "positions": [
+          6
+        ]
+      },
+      "wordOrder": {
+        "svo": 3,
+        "inversions": 0,
+        "other": 2,
+        "deviationPercent": 0.4
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 1,
+        "śmierć": 0,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 129,
+      "estimatedSeconds": 43,
+      "tempoCategory": "wolne"
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "inne",
+          "reference": "Królewna Śnieżka",
+          "evidence": "bezpośrednie nawiązanie do baśni braci Grimm w wersie 'psem Królewny Śnieżki'"
+        },
+        {
+          "source": "inne",
+          "reference": "tradycja symboliki kolorystycznej",
+          "evidence": "biel jako symbol czystości, śmierci i przemijania"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.3,
+        "baudelaire": 0.2,
+        "bursa": 0.1,
+        "stachura": 0.4,
+        "grochowiak": 0.2,
+        "bialoszewski": 0.3,
+        "rozewicz": 0.6
+      }
+    },
+    "space": {
+      "type": "nieokreslona",
+      "evidence": "przestrzeń mentalna i wizualna zdominowana przez biel śniegu, bez konkretnego miejsca",
+      "openClosedRatio": 0.3
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "zima",
+      "evidence": "dominujące motywy zimowe: śnieg, zlodowaciała zaspa, biały niedźwiedź",
+      "timeEvidence": "opozycja 'dzisiaj' - 'jutro' wskazuje na czasową nieokreśloność"
+    },
+    "motion": {
+      "movement": 4,
+      "stillness": 6,
+      "dynamism": 0.4,
+      "evidence": "statyczne obrazy zlodowaciałej zaspy kontrastują z dynamiką upadku 'na głowę w śnieg'"
+    },
+    "imageryDensity": {
+      "metaphors": 4,
+      "comparisons": 2,
+      "personifications": 2,
+      "hyperboles": 1,
+      "per100words": 112.5
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.7,
+      "creationLevel": 0.8,
+      "ironicDistance": 0.4,
+      "autobiographicSignals": [
+        "mój mózg",
+        "mojej myśli",
+        "osobista refleksja o przyszłości"
+      ]
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 15,
+      "VERB": 5,
+      "ADJ": 6,
+      "ADV": 4,
+      "PRON": 5,
+      "ADP": 7,
+      "CCONJ": 1,
+      "SCONJ": 0,
+      "INTJ": 0,
+      "PART": 3,
+      "DET": 4,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.268,
+      "VERB": 0.089,
+      "ADJ": 0.107,
+      "ADV": 0.071,
+      "PRON": 0.089,
+      "ADP": 0.125,
+      "CCONJ": 0.018,
+      "SCONJ": 0,
+      "INTJ": 0,
+      "PART": 0.054,
+      "DET": 0.071,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 4,
+      "abstract": 2,
+      "ratio": 0.67
+    },
+    "verbTenses": {
+      "present": 1,
+      "past": 2,
+      "future": 2,
+      "infinitive": 2
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 2,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 3,
+      "oceniajace": 0,
+      "opisowe": 3
+    },
+    "adverbs": {
+      "temporalne": [],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "biało",
+          "count": 1
+        },
+        {
+          "word": "dzisiaj",
+          "count": 1
+        },
+        {
+          "word": "jutro",
+          "count": 1
+        },
+        {
+          "word": "trudno",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 0,
+      "ty": 0,
+      "on_ona": 0,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 2,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 2,
+      "percentSentences": 0.4
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 11.2,
+      "median": 6,
+      "min": 3,
+      "max": 25,
+      "distribution": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 5.9,
+      "meanSyllables": 12.9,
+      "distribution": [
+        0,
+        1,
+        1,
+        0,
+        0,
+        1,
+        1,
+        5,
+        0,
+        0,
+        1
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 4,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 1
+    },
+    "ellipsis": {
+      "incomplete": 2,
+      "noSubject": 0,
+      "noPredicate": 0,
+      "percent": 0.4
+    },
+    "enjambement": {
+      "count": 1,
+      "percent": 0.11,
+      "positions": [
+        6
+      ]
+    },
+    "wordOrder": {
+      "svo": 3,
+      "inversions": 0,
+      "other": 2,
+      "deviationPercent": 0.4
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 123,
+      "consonants": 168,
+      "ratio": 0.73
+    },
+    "consonantClusters": {
+      "count": 7,
+      "top": [
+        {
+          "cluster": "prz",
+          "count": 3
+        },
+        {
+          "cluster": "szł",
+          "count": 2
+        },
+        {
+          "cluster": "szk",
+          "count": 1
+        },
+        {
+          "cluster": "dźw",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 14,
+      "syczace": 27,
+      "nosowe": 29,
+      "plynne": 35
+    },
+    "rhymes": {
+      "exact": 0,
+      "approximate": 0,
+      "internal": 0,
+      "assonance": 0,
+      "alliteration": 0
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        10
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 129,
+      "estimatedSeconds": 43,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "polregularny",
+      "regularityScore": 0.6
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "rezygnacja",
+      "secondary": "ironia",
+      "intensity": 0.7
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "liczne formy pierwszej osoby: 'mojej myśli', 'Mój mózg', bezpośrednie 'ja' w kontekście upadku"
+    },
+    "addressee": {
+      "type": "siebie",
+      "evidence": "refleksja nad własną przyszłością, autoironia w końcowej puencie o upadku na głowę"
+    },
+    "metaphors": [
+      {
+        "source": "mózg",
+        "target": "zaspą śnieżna",
+        "example": "Mój mózg... Już jutro będzie zlodowaciałą zaspą"
+      },
+      {
+        "source": "mózg",
+        "target": "biały niedźwiedź",
+        "example": "Lub białym niedźwiedziem – psem Królewny Śnieżki"
+      },
+      {
+        "source": "przyszłość",
+        "target": "ciało",
+        "example": "Ciało przyszłości w kolorze mojej myśli"
+      }
+    ],
+    "temperature": {
+      "value": 0.1,
+      "label": "lodowate"
+    },
+    "senses": {
+      "wzrok": 4,
+      "sluch": 0,
+      "dotyk": 2,
+      "smak": 0,
+      "zapach": 0
+    },
+    "autodestruction": {
+      "level": 0.6,
+      "signals": [
+        "metafora zlodowaciałego mózgu",
+        "obraz upadku na głowę",
+        "ironiczne przyjęcie porażki",
+        "rezygnacja z 'różowych' nadziei"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": null,
+    "dfaAlpha": null,
+    "dfaScaling": [],
+    "seriesLength": 9,
+    "series": [
+      1,
+      6,
+      6,
+      7,
+      5,
+      6,
+      7,
+      9,
+      7
+    ]
+  }
+}

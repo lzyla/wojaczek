@@ -1,0 +1,1142 @@
+{
+  "id": "inna-bajka",
+  "title": "Inna bajka",
+  "wordCount": 232,
+  "lineCount": 50,
+  "uniqueWords": 187,
+  "vocabularyRichness": 0.806,
+  "avgWordsPerLine": 4.64,
+  "wordsPerLineDistribution": [
+    5,
+    5,
+    4,
+    5,
+    5,
+    4,
+    5,
+    4,
+    6,
+    3,
+    3,
+    4,
+    5,
+    7,
+    4,
+    5,
+    4,
+    4,
+    5,
+    5,
+    4,
+    5,
+    5,
+    4,
+    3,
+    4,
+    4,
+    3,
+    5,
+    4,
+    4,
+    5,
+    4,
+    4,
+    5,
+    4,
+    5,
+    5,
+    5,
+    4,
+    5,
+    6,
+    5,
+    6,
+    5,
+    4,
+    5,
+    6,
+    5,
+    7
+  ],
+  "wordFrequencies": [
+    [
+      "ziemi",
+      3
+    ],
+    [
+      "pamięć",
+      3
+    ],
+    [
+      "dawnych",
+      2
+    ],
+    [
+      "mięso",
+      2
+    ],
+    [
+      "nerwy",
+      2
+    ],
+    [
+      "ciepłe",
+      2
+    ],
+    [
+      "nieba",
+      2
+    ],
+    [
+      "powiat",
+      1
+    ],
+    [
+      "wytyczony",
+      1
+    ],
+    [
+      "niebie",
+      1
+    ],
+    [
+      "miedzami",
+      1
+    ],
+    [
+      "spojrzeń",
+      1
+    ],
+    [
+      "głodnych",
+      1
+    ],
+    [
+      "którzy",
+      1
+    ],
+    [
+      "pozostają",
+      1
+    ],
+    [
+      "siedząc",
+      1
+    ],
+    [
+      "misce",
+      1
+    ],
+    [
+      "kraju",
+      1
+    ],
+    [
+      "takiej",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 0,
+    "period": 0,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 0,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 3,
+  "negationWords": [
+    "nie"
+  ],
+  "pronounDistribution": {
+    "ja": 0,
+    "ty": 0,
+    "on_ona": 2,
+    "my": 4,
+    "wy": 0,
+    "oni": 4
+  },
+  "semanticFields": {
+    "cialo": 5,
+    "smierc": 1,
+    "erotyka": 2,
+    "alkohol": 1,
+    "samotnosc": 0,
+    "sacrum": 1,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [
+    [
+      "gdy",
+      2
+    ]
+  ],
+  "firstWord": "jest",
+  "lastWord": "nieba",
+  "avgWordLength": 5.24,
+  "wordLengthDistribution": {
+    "4-5": 72,
+    "1-3": 56,
+    "6-7": 65,
+    "8-9": 29,
+    "10+": 10
+  },
+  "bigrams": [
+    [
+      "pamięć dawnych",
+      2
+    ],
+    [
+      "powiat wytyczony",
+      1
+    ],
+    [
+      "niebie miedzami",
+      1
+    ],
+    [
+      "miedzami spojrzeń",
+      1
+    ],
+    [
+      "spojrzeń głodnych",
+      1
+    ],
+    [
+      "głodnych którzy",
+      1
+    ],
+    [
+      "ziemi pozostają",
+      1
+    ],
+    [
+      "pozostają siedząc",
+      1
+    ]
+  ],
+  "poemWords": [
+    "powiat",
+    "wytyczony",
+    "niebie",
+    "miedzami",
+    "spojrzeń",
+    "głodnych",
+    "którzy",
+    "ziemi",
+    "pozostają",
+    "siedząc",
+    "misce",
+    "kraju",
+    "takiej",
+    "ubogiej",
+    "łyżce",
+    "języka",
+    "próchno",
+    "nędzy",
+    "błyszczy",
+    "jedzą",
+    "pamięć",
+    "dawnych",
+    "uczt",
+    "królową",
+    "wydawanych",
+    "salach",
+    "potęgi",
+    "stołach",
+    "sytej",
+    "hojności",
+    "dookoła",
+    "sedesu",
+    "gęsto",
+    "ustawionych",
+    "ciężkozłoty",
+    "spróchniałych",
+    "desek",
+    "pudło",
+    "śmie",
+    "zwać",
+    "trumną",
+    "mięso",
+    "parujące",
+    "męskością",
+    "jądra",
+    "owoce",
+    "czekolady",
+    "srom",
+    "kobiecy",
+    "pulchniał",
+    "pośladki",
+    "nerwy",
+    "miękły",
+    "wszelkie",
+    "wino",
+    "pijanych",
+    "duchów",
+    "pianą",
+    "śliną",
+    "ciekła",
+    "weselna",
+    "pieśń",
+    "wojenna",
+    "zbrojnym",
+    "rzędem",
+    "leżeć",
+    "okopach",
+    "świętej",
+    "sprawy",
+    "brzucha",
+    "pełnego",
+    "ciepłej",
+    "strawy",
+    "kobiety",
+    "rękawiczki",
+    "ciepłe",
+    "skarpety",
+    "listy",
+    "fronty",
+    "słały",
+    "okazjami",
+    "genitalia",
+    "odmarzały",
+    "wszy",
+    "jadły",
+    "tyfus",
+    "spalał",
+    "drugich",
+    "żywiła",
+    "syta",
+    "ojczyzny",
+    "szklanki",
+    "talerza",
+    "powrotem",
+    "wiodła",
+    "wierna",
+    "sperma",
+    "miękkie",
+    "żony",
+    "bohaterów",
+    "rany",
+    "lizały",
+    "cukierek",
+    "piersi",
+    "dawały",
+    "ssać",
+    "radości",
+    "zjadały",
+    "odchody",
+    "dobrze",
+    "minęło",
+    "głód",
+    "zjada",
+    "kości",
+    "żyły",
+    "pieszo",
+    "idzie",
+    "światło",
+    "najcichszych",
+    "cieni",
+    "rzucają",
+    "patrzą",
+    "nieba",
+    "spojrzenia",
+    "wiotkie",
+    "wiatr",
+    "słaby",
+    "skręca",
+    "poczołgali",
+    "wody",
+    "niebo",
+    "zachodzi",
+    "mdły",
+    "horyzont",
+    "wzroku",
+    "dłońmi",
+    "horyzontu",
+    "czepiają",
+    "wnet",
+    "przestanie",
+    "wyświetlać",
+    "powiecie",
+    "środku"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 78,
+        "VERB": 35,
+        "ADJ": 29,
+        "ADV": 12,
+        "PRON": 14,
+        "ADP": 25,
+        "CCONJ": 11,
+        "SCONJ": 4,
+        "INTJ": 0,
+        "PART": 10,
+        "DET": 5,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.333,
+        "VERB": 0.15,
+        "ADJ": 0.124,
+        "ADV": 0.051,
+        "PRON": 0.06,
+        "ADP": 0.107,
+        "CCONJ": 0.047,
+        "SCONJ": 0.017,
+        "INTJ": 0,
+        "PART": 0.043,
+        "DET": 0.021,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 4,
+        "abstract": 4,
+        "ratio": 0.5
+      },
+      "verbTenses": {
+        "present": 16,
+        "past": 17,
+        "infinitive": 4,
+        "future": 1
+      },
+      "verbSemantics": {
+        "ruch": 1,
+        "percepcja": 1,
+        "stan": 8,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 3
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 3,
+        "oceniajace": 0,
+        "opisowe": 26
+      },
+      "adverbs": {
+        "temporalne": [],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "wtedy",
+            "count": 2
+          },
+          {
+            "word": "gdy",
+            "count": 2
+          },
+          {
+            "word": "gdzie",
+            "count": 1
+          },
+          {
+            "word": "gęsto",
+            "count": 1
+          },
+          {
+            "word": "tam",
+            "count": 1
+          },
+          {
+            "word": "znów",
+            "count": 1
+          },
+          {
+            "word": "rany",
+            "count": 1
+          },
+          {
+            "word": "dobrze",
+            "count": 1
+          },
+          {
+            "word": "pieszo",
+            "count": 1
+          },
+          {
+            "word": "wnet",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 0,
+        "ty": 0,
+        "on_ona": 1,
+        "my": 4,
+        "wy": 0,
+        "oni": 4
+      },
+      "negations": {
+        "nie": 3,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 3,
+        "percentSentences": 0.12
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 520,
+        "consonants": 705,
+        "ratio": 0.74
+      },
+      "consonantClusters": {
+        "count": 31,
+        "top": [
+          {
+            "cluster": "prz",
+            "count": 4
+          },
+          {
+            "cluster": "jrz",
+            "count": 2
+          },
+          {
+            "cluster": "chn",
+            "count": 2
+          },
+          {
+            "cluster": "szcz",
+            "count": 2
+          },
+          {
+            "cluster": "spr",
+            "count": 2
+          },
+          {
+            "cluster": "wsz",
+            "count": 2
+          },
+          {
+            "cluster": "trz",
+            "count": 2
+          },
+          {
+            "cluster": "brz",
+            "count": 2
+          },
+          {
+            "cluster": "czt",
+            "count": 1
+          },
+          {
+            "cluster": "gdz",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 45,
+        "syczace": 132,
+        "nosowe": 132,
+        "plynne": 105
+      },
+      "rhymes": {
+        "exact": 4,
+        "approximate": 5,
+        "internal": 1,
+        "assonance": 3,
+        "alliteration": 3
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 9,
+        "median": 5,
+        "min": 2,
+        "max": 21,
+        "distribution": [
+          0,
+          0,
+          1,
+          0,
+          4,
+          9,
+          0,
+          1,
+          1,
+          1,
+          0,
+          1,
+          0,
+          0,
+          2,
+          1,
+          1,
+          0,
+          2,
+          0,
+          1,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 4.6,
+        "meanSyllables": 10.4,
+        "distribution": [
+          0,
+          0,
+          1,
+          4,
+          18,
+          22,
+          4,
+          2
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 26,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 4,
+        "noSubject": 5,
+        "noPredicate": 0,
+        "percent": 0.35
+      },
+      "enjambement": {
+        "count": 7,
+        "percent": 0.14,
+        "positions": [
+          7,
+          19,
+          22,
+          37,
+          42,
+          46,
+          48
+        ]
+      },
+      "wordOrder": {
+        "svo": 11,
+        "inversions": 6,
+        "other": 9,
+        "deviationPercent": 0.58
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 6,
+        "śmierć": 1,
+        "erotyka": 1,
+        "alkohol": 1,
+        "samotność": 0,
+        "sacrum": 3,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 530,
+      "estimatedSeconds": 177,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 78,
+      "VERB": 35,
+      "ADJ": 29,
+      "ADV": 12,
+      "PRON": 14,
+      "ADP": 25,
+      "CCONJ": 11,
+      "SCONJ": 4,
+      "INTJ": 0,
+      "PART": 10,
+      "DET": 5,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.333,
+      "VERB": 0.15,
+      "ADJ": 0.124,
+      "ADV": 0.051,
+      "PRON": 0.06,
+      "ADP": 0.107,
+      "CCONJ": 0.047,
+      "SCONJ": 0.017,
+      "INTJ": 0,
+      "PART": 0.043,
+      "DET": 0.021,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 4,
+      "abstract": 4,
+      "ratio": 0.5
+    },
+    "verbTenses": {
+      "present": 16,
+      "past": 17,
+      "infinitive": 4,
+      "future": 1
+    },
+    "verbSemantics": {
+      "ruch": 1,
+      "percepcja": 1,
+      "stan": 8,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 3
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 3,
+      "oceniajace": 0,
+      "opisowe": 26
+    },
+    "adverbs": {
+      "temporalne": [],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "wtedy",
+          "count": 2
+        },
+        {
+          "word": "gdy",
+          "count": 2
+        },
+        {
+          "word": "gdzie",
+          "count": 1
+        },
+        {
+          "word": "gęsto",
+          "count": 1
+        },
+        {
+          "word": "tam",
+          "count": 1
+        },
+        {
+          "word": "znów",
+          "count": 1
+        },
+        {
+          "word": "rany",
+          "count": 1
+        },
+        {
+          "word": "dobrze",
+          "count": 1
+        },
+        {
+          "word": "pieszo",
+          "count": 1
+        },
+        {
+          "word": "wnet",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 0,
+      "ty": 0,
+      "on_ona": 1,
+      "my": 4,
+      "wy": 0,
+      "oni": 4
+    },
+    "negations": {
+      "nie": 3,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 3,
+      "percentSentences": 0.12
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 9,
+      "median": 5,
+      "min": 2,
+      "max": 21,
+      "distribution": [
+        0,
+        0,
+        1,
+        0,
+        4,
+        9,
+        0,
+        1,
+        1,
+        1,
+        0,
+        1,
+        0,
+        0,
+        2,
+        1,
+        1,
+        0,
+        2,
+        0,
+        1,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 4.6,
+      "meanSyllables": 10.4,
+      "distribution": [
+        0,
+        0,
+        1,
+        4,
+        18,
+        22,
+        4,
+        2
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 26,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 4,
+      "noSubject": 5,
+      "noPredicate": 0,
+      "percent": 0.35
+    },
+    "enjambement": {
+      "count": 7,
+      "percent": 0.14,
+      "positions": [
+        7,
+        19,
+        22,
+        37,
+        42,
+        46,
+        48
+      ]
+    },
+    "wordOrder": {
+      "svo": 11,
+      "inversions": 6,
+      "other": 9,
+      "deviationPercent": 0.58
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 520,
+      "consonants": 705,
+      "ratio": 0.74
+    },
+    "consonantClusters": {
+      "count": 31,
+      "top": [
+        {
+          "cluster": "prz",
+          "count": 4
+        },
+        {
+          "cluster": "jrz",
+          "count": 2
+        },
+        {
+          "cluster": "chn",
+          "count": 2
+        },
+        {
+          "cluster": "szcz",
+          "count": 2
+        },
+        {
+          "cluster": "spr",
+          "count": 2
+        },
+        {
+          "cluster": "wsz",
+          "count": 2
+        },
+        {
+          "cluster": "trz",
+          "count": 2
+        },
+        {
+          "cluster": "brz",
+          "count": 2
+        },
+        {
+          "cluster": "czt",
+          "count": 1
+        },
+        {
+          "cluster": "gdz",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 45,
+      "syczace": 132,
+      "nosowe": 132,
+      "plynne": 105
+    },
+    "rhymes": {
+      "exact": 4,
+      "approximate": 5,
+      "internal": 1,
+      "assonance": 3,
+      "alliteration": 3
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        51
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 530,
+      "estimatedSeconds": 177,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "regularny",
+      "regularityScore": 0.86
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Biblia",
+          "reference": "uczta królewska, ziemia obiecana",
+          "evidence": "Uczt przez Królową wydawanych / W salach potęgi"
+        },
+        {
+          "source": "mitologia",
+          "reference": "świat podziemny, duchy",
+          "evidence": "Z pijanych duchów pianą śliną"
+        },
+        {
+          "source": "inne",
+          "reference": "poezja patriotyczna I wojny światowej",
+          "evidence": "Leżeć w okopach świętej sprawy / Kobiety wtedy rękawiczki / Ciepłe skarpety ciepłe listy / Na fronty słały"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.3,
+        "baudelaire": 0.4,
+        "bursa": 0.7,
+        "stachura": 0.2,
+        "grochowiak": 0.6,
+        "bialoszewski": 0.1,
+        "rozewicz": 0.3
+      }
+    },
+    "space": {
+      "type": "otwarta",
+      "evidence": "powiat wytyczony / W niebie miedzami spojrzeń / patrzą do nieba / horyzont wzroku",
+      "openClosedRatio": 0.8
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "nieokreslona",
+      "evidence": "brak konkretnych wskazówek temporalnych, czas mityczny/historyczny"
+    },
+    "motion": {
+      "movement": 4,
+      "stillness": 6,
+      "dynamism": 0.4,
+      "evidence": "Siedząc przy misce / poczołgali się do wody / Przez żyły pieszo idzie światło - ruchy powolne, osłabienie"
+    },
+    "imageryDensity": {
+      "metaphors": 15,
+      "comparisons": 3,
+      "personifications": 8,
+      "hyperboles": 6,
+      "per100words": 32
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.7,
+      "creationLevel": 0.8,
+      "ironicDistance": 0.4,
+      "autobiographicSignals": [
+        "my wiemy",
+        "nam w tym powiecie",
+        "u nas powiat"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "melancholia",
+      "secondary": "rezygnacja",
+      "intensity": 0.8
+    },
+    "subjectPresence": {
+      "type": "ukryte",
+      "evidence": "podmiot liryczny ukryty w kolektywnym 'my wiemy' i obserwatorskiej perspektywie"
+    },
+    "addressee": {
+      "type": "czytelnik",
+      "evidence": "wiersz ma charakter opowieści skierowanej do odbiorcy, brak bezpośrednich zwrotów"
+    },
+    "metaphors": [
+      {
+        "source": "jedzenie",
+        "target": "pamięć historyczna",
+        "example": "jedzą pamięć dawnych Uczt przez Królową wydawanych"
+      },
+      {
+        "source": "woda",
+        "target": "śmierć/zagłada",
+        "example": "poczołgali się do wody / Ale już niebo w niej zachodzi"
+      },
+      {
+        "source": "powiat w niebie",
+        "target": "stan liminalny między życiem a śmiercią",
+        "example": "Jest u nas powiat wytyczony W niebie miedzami spojrzeń głodnych"
+      }
+    ],
+    "temperature": {
+      "value": 0.3,
+      "label": "chłodna melancholia i rezygnacja"
+    },
+    "senses": {
+      "wzrok": 4,
+      "sluch": 1,
+      "dotyk": 3,
+      "smak": 5,
+      "zapach": 2
+    },
+    "autodestruction": {
+      "level": 0.7,
+      "signals": [
+        "Głód zjada mięso kości nerwy",
+        "Przez żyły pieszo idzie światło",
+        "spojrzenia wiotkie że wiatr choć słaby skręca",
+        "poczołgali się do wody"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 0.794,
+    "dfaAlpha": 0.717,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -1.4451858789480818
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -1.1743020189358193
+      },
+      {
+        "logWin": 1.6094379124341003,
+        "logFluc": -0.8737730950228232
+      },
+      {
+        "logWin": 1.791759469228055,
+        "logFluc": -0.7863497883968058
+      },
+      {
+        "logWin": 1.9459101490553132,
+        "logFluc": -0.7274687177623165
+      },
+      {
+        "logWin": 2.1972245773362196,
+        "logFluc": -0.574548892505265
+      },
+      {
+        "logWin": 2.3978952727983707,
+        "logFluc": -0.3872059886868475
+      },
+      {
+        "logWin": 2.5649493574615367,
+        "logFluc": -0.386603303438249
+      },
+      {
+        "logWin": 2.772588722239781,
+        "logFluc": -0.1578775284893287
+      }
+    ],
+    "seriesLength": 50,
+    "series": [
+      5,
+      5,
+      4,
+      5,
+      5,
+      4,
+      5,
+      4,
+      6,
+      3,
+      3,
+      4,
+      5,
+      7,
+      4,
+      5,
+      4,
+      4,
+      5,
+      5,
+      4,
+      5,
+      5,
+      4,
+      3,
+      4,
+      4,
+      3,
+      5,
+      4,
+      4,
+      5,
+      4,
+      4,
+      5,
+      4,
+      5,
+      5,
+      5,
+      4,
+      5,
+      6,
+      5,
+      6,
+      5,
+      4,
+      5,
+      6,
+      5,
+      7
+    ]
+  }
+}

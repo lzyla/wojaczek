@@ -1,0 +1,909 @@
+{
+  "id": "kwestie-grudniowe",
+  "title": "Kwestie grudniowe",
+  "wordCount": 83,
+  "lineCount": 15,
+  "uniqueWords": 75,
+  "vocabularyRichness": 0.904,
+  "avgWordsPerLine": 5.53,
+  "wordsPerLineDistribution": [
+    3,
+    6,
+    7,
+    4,
+    5,
+    4,
+    6,
+    8,
+    6,
+    6,
+    6,
+    9,
+    5,
+    4,
+    4
+  ],
+  "wordFrequencies": [
+    [
+      "chwili",
+      2
+    ],
+    [
+      "osoby",
+      1
+    ],
+    [
+      "zwierząt",
+      1
+    ],
+    [
+      "wspaniałych",
+      1
+    ],
+    [
+      "prawdziwi",
+      1
+    ],
+    [
+      "żydzi",
+      1
+    ],
+    [
+      "serdecznej",
+      1
+    ],
+    [
+      "dogania",
+      1
+    ],
+    [
+      "osoba",
+      1
+    ],
+    [
+      "samicy",
+      1
+    ],
+    [
+      "uroczystej",
+      1
+    ],
+    [
+      "żydowskiej",
+      1
+    ],
+    [
+      "księżniczki",
+      1
+    ],
+    [
+      "ruchoma",
+      1
+    ],
+    [
+      "wzbierająca",
+      1
+    ],
+    [
+      "światłem",
+      1
+    ],
+    [
+      "woda",
+      1
+    ],
+    [
+      "obezwładniającą",
+      1
+    ],
+    [
+      "łuną",
+      1
+    ],
+    [
+      "ogromny",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 0,
+    "period": 0,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 0,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 0,
+  "negationWords": [],
+  "pronounDistribution": {
+    "ja": 3,
+    "ty": 1,
+    "on_ona": 0,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 1,
+    "smierc": 0,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 1,
+    "bol": 0
+  },
+  "anaphors": [],
+  "firstWord": "osoby",
+  "lastWord": "istniała",
+  "avgWordLength": 5.69,
+  "wordLengthDistribution": {
+    "1-3": 22,
+    "4-5": 19,
+    "8-9": 10,
+    "10+": 11,
+    "6-7": 21
+  },
+  "bigrams": [
+    [
+      "osoby zwierząt",
+      1
+    ],
+    [
+      "zwierząt wspaniałych",
+      1
+    ],
+    [
+      "prawdziwi żydzi",
+      1
+    ],
+    [
+      "każdej serdecznej",
+      1
+    ],
+    [
+      "serdecznej chwili",
+      1
+    ],
+    [
+      "chwili dogania",
+      1
+    ],
+    [
+      "osoba samicy",
+      1
+    ]
+  ],
+  "poemWords": [
+    "osoby",
+    "zwierząt",
+    "wspaniałych",
+    "prawdziwi",
+    "żydzi",
+    "serdecznej",
+    "chwili",
+    "dogania",
+    "osoba",
+    "samicy",
+    "uroczystej",
+    "żydowskiej",
+    "księżniczki",
+    "ruchoma",
+    "wzbierająca",
+    "światłem",
+    "woda",
+    "obezwładniającą",
+    "łuną",
+    "ogromny",
+    "księżyc",
+    "zasłonił",
+    "twarz",
+    "nieba",
+    "siebie",
+    "zwierzać",
+    "zaczyna",
+    "głuchą",
+    "nibypieśnią",
+    "warkot",
+    "psa",
+    "szczeka",
+    "wierszem",
+    "niemiłosiernym",
+    "wiersz",
+    "dobry",
+    "bezwiednie",
+    "akcentując",
+    "śliski",
+    "śmiech",
+    "spadkach",
+    "gdybym",
+    "mógł",
+    "bym",
+    "polski",
+    "uciekł",
+    "koniu",
+    "krwi",
+    "komu",
+    "jedziesz",
+    "spytaliby",
+    "polska",
+    "istniała"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 23,
+        "VERB": 11,
+        "ADJ": 12,
+        "ADV": 2,
+        "PRON": 7,
+        "ADP": 6,
+        "CCONJ": 1,
+        "SCONJ": 6,
+        "INTJ": 0,
+        "PART": 3,
+        "DET": 4,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.287,
+        "VERB": 0.138,
+        "ADJ": 0.15,
+        "ADV": 0.025,
+        "PRON": 0.087,
+        "ADP": 0.075,
+        "CCONJ": 0.013,
+        "SCONJ": 0.075,
+        "INTJ": 0,
+        "PART": 0.037,
+        "DET": 0.05,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 3,
+        "abstract": 0,
+        "ratio": 1
+      },
+      "verbTenses": {
+        "present": 6,
+        "past": 5,
+        "infinitive": 1
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 2,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 2,
+        "opisowe": 10
+      },
+      "adverbs": {
+        "temporalne": [
+          "teraz"
+        ],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "teraz",
+            "count": 1
+          },
+          {
+            "word": "bezwiednie",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 2,
+        "ty": 1,
+        "on_ona": 0,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 0,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 0,
+        "percentSentences": 0
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 191,
+        "consonants": 278,
+        "ratio": 0.69
+      },
+      "consonantClusters": {
+        "count": 17,
+        "top": [
+          {
+            "cluster": "chw",
+            "count": 2
+          },
+          {
+            "cluster": "szcz",
+            "count": 2
+          },
+          {
+            "cluster": "rsz",
+            "count": 2
+          },
+          {
+            "cluster": "lsk",
+            "count": 2
+          },
+          {
+            "cluster": "wsp",
+            "count": 1
+          },
+          {
+            "cluster": "wdz",
+            "count": 1
+          },
+          {
+            "cluster": "czn",
+            "count": 1
+          },
+          {
+            "cluster": "wsk",
+            "count": 1
+          },
+          {
+            "cluster": "czk",
+            "count": 1
+          },
+          {
+            "cluster": "wzb",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 21,
+        "syczace": 49,
+        "nosowe": 47,
+        "plynne": 33
+      },
+      "rhymes": {
+        "exact": 0,
+        "approximate": 1,
+        "internal": 1,
+        "assonance": 0,
+        "alliteration": 1
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 11.4,
+        "median": 8,
+        "min": 0,
+        "max": 35,
+        "distribution": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          2,
+          0,
+          1,
+          0,
+          0,
+          1,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 5.5,
+        "meanSyllables": 13.1,
+        "distribution": [
+          0,
+          0,
+          0,
+          1,
+          4,
+          2,
+          5,
+          1,
+          1,
+          1
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 7,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 1,
+        "noSubject": 1,
+        "noPredicate": 0,
+        "percent": 0.29
+      },
+      "enjambement": {
+        "count": 1,
+        "percent": 0.07,
+        "positions": [
+          7
+        ]
+      },
+      "wordOrder": {
+        "svo": 2,
+        "inversions": 2,
+        "other": 2,
+        "deviationPercent": 0.67
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 1,
+        "śmierć": 0,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 1,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 197,
+      "estimatedSeconds": 66,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 23,
+      "VERB": 11,
+      "ADJ": 12,
+      "ADV": 2,
+      "PRON": 7,
+      "ADP": 6,
+      "CCONJ": 1,
+      "SCONJ": 6,
+      "INTJ": 0,
+      "PART": 3,
+      "DET": 4,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.287,
+      "VERB": 0.138,
+      "ADJ": 0.15,
+      "ADV": 0.025,
+      "PRON": 0.087,
+      "ADP": 0.075,
+      "CCONJ": 0.013,
+      "SCONJ": 0.075,
+      "INTJ": 0,
+      "PART": 0.037,
+      "DET": 0.05,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 3,
+      "abstract": 0,
+      "ratio": 1
+    },
+    "verbTenses": {
+      "present": 6,
+      "past": 5,
+      "infinitive": 1
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 2,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 2,
+      "opisowe": 10
+    },
+    "adverbs": {
+      "temporalne": [
+        "teraz"
+      ],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "teraz",
+          "count": 1
+        },
+        {
+          "word": "bezwiednie",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 2,
+      "ty": 1,
+      "on_ona": 0,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 0,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 0,
+      "percentSentences": 0
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 11.4,
+      "median": 8,
+      "min": 0,
+      "max": 35,
+      "distribution": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        0,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 5.5,
+      "meanSyllables": 13.1,
+      "distribution": [
+        0,
+        0,
+        0,
+        1,
+        4,
+        2,
+        5,
+        1,
+        1,
+        1
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 7,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 1,
+      "noSubject": 1,
+      "noPredicate": 0,
+      "percent": 0.29
+    },
+    "enjambement": {
+      "count": 1,
+      "percent": 0.07,
+      "positions": [
+        7
+      ]
+    },
+    "wordOrder": {
+      "svo": 2,
+      "inversions": 2,
+      "other": 2,
+      "deviationPercent": 0.67
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 191,
+      "consonants": 278,
+      "ratio": 0.69
+    },
+    "consonantClusters": {
+      "count": 17,
+      "top": [
+        {
+          "cluster": "chw",
+          "count": 2
+        },
+        {
+          "cluster": "szcz",
+          "count": 2
+        },
+        {
+          "cluster": "rsz",
+          "count": 2
+        },
+        {
+          "cluster": "lsk",
+          "count": 2
+        },
+        {
+          "cluster": "wsp",
+          "count": 1
+        },
+        {
+          "cluster": "wdz",
+          "count": 1
+        },
+        {
+          "cluster": "czn",
+          "count": 1
+        },
+        {
+          "cluster": "wsk",
+          "count": 1
+        },
+        {
+          "cluster": "czk",
+          "count": 1
+        },
+        {
+          "cluster": "wzb",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 21,
+      "syczace": 49,
+      "nosowe": 47,
+      "plynne": 33
+    },
+    "rhymes": {
+      "exact": 0,
+      "approximate": 1,
+      "internal": 1,
+      "assonance": 0,
+      "alliteration": 1
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        15
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 197,
+      "estimatedSeconds": 66,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "regularny",
+      "regularityScore": 0.71
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Biblia",
+          "reference": "motyw Żydów jako ludu wybranego",
+          "evidence": "prawdziwi Żydzi, żydowskiej księżniczki"
+        },
+        {
+          "source": "mitologia",
+          "reference": "księżyc jako bóstwo/symbol",
+          "evidence": "ogromny księżyc zasłonił twarz nieba"
+        },
+        {
+          "source": "inne",
+          "reference": "tradycja romantyczna - ucieczka na koniu",
+          "evidence": "uciekł na koniu mojej krwi"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.8,
+        "baudelaire": 0.6,
+        "bursa": 0.3,
+        "stachura": 0.4,
+        "grochowiak": 0.3,
+        "bialoszewski": 0.2,
+        "rozewicz": 0.4
+      }
+    },
+    "space": {
+      "type": "nieokreslona",
+      "evidence": "przestrzeń mentalna, wizja poetycka bez konkretnej lokalizacji geograficznej",
+      "openClosedRatio": 0.6
+    },
+    "timeOfDay": {
+      "period": "noc",
+      "season": "nieokreslona",
+      "evidence": "ogromny księżyc zasłonił twarz nieba, łuna"
+    },
+    "motion": {
+      "movement": 8,
+      "stillness": 2,
+      "dynamism": 0.8,
+      "evidence": "ruchoma jak wzbierająca światłem woda, uciekł na koniu mojej krwi, komu ty jedziesz"
+    },
+    "imageryDensity": {
+      "metaphors": 6,
+      "comparisons": 4,
+      "personifications": 3,
+      "hyperboles": 2,
+      "per100words": 18.7
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.7,
+      "creationLevel": 0.8,
+      "ironicDistance": 0.3,
+      "autobiographicSignals": [
+        "do Polski uciekł",
+        "na koniu mojej krwi",
+        "gdyby Polska jeszcze istniała"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "tęsknota",
+      "secondary": "rozpacz",
+      "intensity": 0.8
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "dominująca obecność 'ja' lirycznego - 'dogania mnie', 'gdybym mógł', 'mojej krwi'"
+    },
+    "addressee": {
+      "type": "nikt",
+      "evidence": "brak bezpośredniego zwrotu, monolog wewnętrzny z hipotetycznym pytaniem 'Komu ty jedziesz'"
+    },
+    "metaphors": [
+      {
+        "source": "koń krwi",
+        "target": "siła życiowa/ucieczka",
+        "example": "uciekł na koniu mojej krwi"
+      },
+      {
+        "source": "łuna/księżyc",
+        "target": "epifania/objawienie",
+        "example": "obezwładniającą łuną / Jakby ogromny księżyc zasłonił twarz nieba"
+      },
+      {
+        "source": "woda światłem",
+        "target": "duchowe poruszenie",
+        "example": "Ruchoma jak wzbierająca światłem woda"
+      }
+    ],
+    "temperature": {
+      "value": 0.7,
+      "label": "gorące pragnienie z nutą rezygnacji"
+    },
+    "senses": {
+      "wzrok": 5,
+      "sluch": 4,
+      "dotyk": 3,
+      "smak": 1,
+      "zapach": 1
+    },
+    "autodestruction": {
+      "level": 0.6,
+      "signals": [
+        "pragnienie ucieczki",
+        "poczucie utraty ojczyzny",
+        "niemożliwość realizacji marzeń",
+        "wiersz niemiłosierny"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 0.731,
+    "dfaAlpha": 1.995,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -1.1087136423268684
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -0.18536449001978111
+      },
+      {
+        "logWin": 1.6094379124341003,
+        "logFluc": -0.1202805715922849
+      }
+    ],
+    "seriesLength": 15,
+    "series": [
+      3,
+      6,
+      7,
+      4,
+      5,
+      4,
+      6,
+      8,
+      6,
+      6,
+      6,
+      9,
+      5,
+      4,
+      4
+    ]
+  }
+}

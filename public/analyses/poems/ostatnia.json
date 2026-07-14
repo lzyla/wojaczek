@@ -1,0 +1,922 @@
+{
+  "id": "ostatnia",
+  "title": "Ostatnia",
+  "wordCount": 78,
+  "lineCount": 12,
+  "uniqueWords": 73,
+  "vocabularyRichness": 0.936,
+  "avgWordsPerLine": 6.5,
+  "wordsPerLineDistribution": [
+    8,
+    6,
+    7,
+    7,
+    6,
+    7,
+    6,
+    7,
+    7,
+    6,
+    6,
+    5
+  ],
+  "wordFrequencies": [
+    [
+      "jelit",
+      1
+    ],
+    [
+      "ziemi",
+      1
+    ],
+    [
+      "wyszły",
+      1
+    ],
+    [
+      "długie",
+      1
+    ],
+    [
+      "glisty",
+      1
+    ],
+    [
+      "jedwabnej",
+      1
+    ],
+    [
+      "lawy",
+      1
+    ],
+    [
+      "idą",
+      1
+    ],
+    [
+      "wierzchołkach",
+      1
+    ],
+    [
+      "traw",
+      1
+    ],
+    [
+      "wyżej",
+      1
+    ],
+    [
+      "skoro",
+      1
+    ],
+    [
+      "czuć",
+      1
+    ],
+    [
+      "spalenizny",
+      1
+    ],
+    [
+      "przechodzą",
+      1
+    ],
+    [
+      "żaden",
+      1
+    ],
+    [
+      "zostaje",
+      1
+    ],
+    [
+      "ślad",
+      1
+    ],
+    [
+      "sen",
+      1
+    ],
+    [
+      "odkrywa",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 6,
+    "period": 4,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 2,
+    "colon": 3,
+    "semicolon": 1
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 5,
+  "negationWords": [
+    "nic",
+    "nie",
+    "żaden"
+  ],
+  "pronounDistribution": {
+    "ja": 1,
+    "ty": 0,
+    "on_ona": 1,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 1,
+    "smierc": 0,
+    "erotyka": 1,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 1,
+    "bol": 1
+  },
+  "anaphors": [],
+  "firstWord": "to",
+  "lastWord": "wyparowała",
+  "avgWordLength": 5.37,
+  "wordLengthDistribution": {
+    "1-3": 21,
+    "4-5": 27,
+    "6-7": 16,
+    "8-9": 5,
+    "10+": 9
+  },
+  "bigrams": [
+    [
+      "jelit ziemi",
+      1
+    ],
+    [
+      "ziemi wyszły",
+      1
+    ],
+    [
+      "wyszły długie",
+      1
+    ],
+    [
+      "długie glisty",
+      1
+    ],
+    [
+      "glisty jedwabnej",
+      1
+    ],
+    [
+      "jedwabnej lawy",
+      1
+    ],
+    [
+      "lawy idą",
+      1
+    ],
+    [
+      "wierzchołkach traw",
+      1
+    ]
+  ],
+  "poemWords": [
+    "jelit",
+    "ziemi",
+    "wyszły",
+    "długie",
+    "glisty",
+    "jedwabnej",
+    "lawy",
+    "idą",
+    "wierzchołkach",
+    "traw",
+    "wyżej",
+    "skoro",
+    "czuć",
+    "spalenizny",
+    "przechodzą",
+    "żaden",
+    "zostaje",
+    "ślad",
+    "sen",
+    "odkrywa",
+    "nieszczęśliwy",
+    "brzuch",
+    "nic",
+    "fermentuje",
+    "sperma",
+    "wyschła",
+    "zanim",
+    "urodziłam”",
+    "snem",
+    "powtarza",
+    "udami",
+    "uśmiecha",
+    "puszcza",
+    "prześcieradło",
+    "śluz",
+    "ominęło”",
+    "zaraz",
+    "płakać",
+    "obudzona",
+    "widzi",
+    "meandry",
+    "rzek",
+    "stojące",
+    "sine",
+    "poranny",
+    "deszcz",
+    "rozżarzoną",
+    "barwą",
+    "wyparowała"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 19,
+        "VERB": 16,
+        "ADJ": 8,
+        "ADV": 7,
+        "PRON": 7,
+        "ADP": 5,
+        "CCONJ": 4,
+        "SCONJ": 3,
+        "INTJ": 0,
+        "PART": 6,
+        "DET": 1,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.241,
+        "VERB": 0.203,
+        "ADJ": 0.101,
+        "ADV": 0.089,
+        "PRON": 0.089,
+        "ADP": 0.063,
+        "CCONJ": 0.051,
+        "SCONJ": 0.038,
+        "INTJ": 0,
+        "PART": 0.076,
+        "DET": 0.013,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 1,
+        "abstract": 1,
+        "ratio": 0.5
+      },
+      "verbTenses": {
+        "past": 5,
+        "present": 11,
+        "future": 1,
+        "infinitive": 1
+      },
+      "verbSemantics": {
+        "ruch": 1,
+        "percepcja": 2,
+        "stan": 3,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 0,
+        "opisowe": 8
+      },
+      "adverbs": {
+        "temporalne": [
+          "zaraz"
+        ],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "gdy",
+            "count": 2
+          },
+          {
+            "word": "nieco",
+            "count": 1
+          },
+          {
+            "word": "wyżej",
+            "count": 1
+          },
+          {
+            "word": "gdzie",
+            "count": 1
+          },
+          {
+            "word": "zaraz",
+            "count": 1
+          },
+          {
+            "word": "całkiem",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 1,
+        "ty": 0,
+        "on_ona": 1,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 3,
+        "nic": 1,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 1,
+        "total": 5,
+        "percentSentences": 1.25
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 170,
+        "consonants": 255,
+        "ratio": 0.67
+      },
+      "consonantClusters": {
+        "count": 14,
+        "top": [
+          {
+            "cluster": "prz",
+            "count": 4
+          },
+          {
+            "cluster": "szcz",
+            "count": 3
+          },
+          {
+            "cluster": "szł",
+            "count": 1
+          },
+          {
+            "cluster": "rzch",
+            "count": 1
+          },
+          {
+            "cluster": "dkr",
+            "count": 1
+          },
+          {
+            "cluster": "brz",
+            "count": 1
+          },
+          {
+            "cluster": "gdz",
+            "count": 1
+          },
+          {
+            "cluster": "schł",
+            "count": 1
+          },
+          {
+            "cluster": "ndr",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 22,
+        "syczace": 45,
+        "nosowe": 47,
+        "plynne": 41
+      },
+      "rhymes": {
+        "exact": 0,
+        "approximate": 0,
+        "internal": 0,
+        "assonance": 1,
+        "alliteration": 0
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 19.8,
+        "median": 22,
+        "min": 7,
+        "max": 29,
+        "distribution": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 6.2,
+        "meanSyllables": 13.4,
+        "distribution": [
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          4,
+          5,
+          2
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 4,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 0,
+        "noSubject": 1,
+        "noPredicate": 0,
+        "percent": 0.25
+      },
+      "enjambement": {
+        "count": 7,
+        "percent": 0.58,
+        "positions": [
+          2,
+          3,
+          4,
+          7,
+          8,
+          11,
+          12
+        ]
+      },
+      "wordOrder": {
+        "svo": 3,
+        "inversions": 0,
+        "other": 1,
+        "deviationPercent": 0.25
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 1,
+        "śmierć": 0,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 1,
+        "ból": 1
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 174,
+      "estimatedSeconds": 58,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 19,
+      "VERB": 16,
+      "ADJ": 8,
+      "ADV": 7,
+      "PRON": 7,
+      "ADP": 5,
+      "CCONJ": 4,
+      "SCONJ": 3,
+      "INTJ": 0,
+      "PART": 6,
+      "DET": 1,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.241,
+      "VERB": 0.203,
+      "ADJ": 0.101,
+      "ADV": 0.089,
+      "PRON": 0.089,
+      "ADP": 0.063,
+      "CCONJ": 0.051,
+      "SCONJ": 0.038,
+      "INTJ": 0,
+      "PART": 0.076,
+      "DET": 0.013,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 1,
+      "abstract": 1,
+      "ratio": 0.5
+    },
+    "verbTenses": {
+      "past": 5,
+      "present": 11,
+      "future": 1,
+      "infinitive": 1
+    },
+    "verbSemantics": {
+      "ruch": 1,
+      "percepcja": 2,
+      "stan": 3,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 0,
+      "opisowe": 8
+    },
+    "adverbs": {
+      "temporalne": [
+        "zaraz"
+      ],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "gdy",
+          "count": 2
+        },
+        {
+          "word": "nieco",
+          "count": 1
+        },
+        {
+          "word": "wyżej",
+          "count": 1
+        },
+        {
+          "word": "gdzie",
+          "count": 1
+        },
+        {
+          "word": "zaraz",
+          "count": 1
+        },
+        {
+          "word": "całkiem",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 1,
+      "ty": 0,
+      "on_ona": 1,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 3,
+      "nic": 1,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 1,
+      "total": 5,
+      "percentSentences": 1.25
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 19.8,
+      "median": 22,
+      "min": 7,
+      "max": 29,
+      "distribution": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 6.2,
+      "meanSyllables": 13.4,
+      "distribution": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        4,
+        5,
+        2
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 4,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 0,
+      "noSubject": 1,
+      "noPredicate": 0,
+      "percent": 0.25
+    },
+    "enjambement": {
+      "count": 7,
+      "percent": 0.58,
+      "positions": [
+        2,
+        3,
+        4,
+        7,
+        8,
+        11,
+        12
+      ]
+    },
+    "wordOrder": {
+      "svo": 3,
+      "inversions": 0,
+      "other": 1,
+      "deviationPercent": 0.25
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 170,
+      "consonants": 255,
+      "ratio": 0.67
+    },
+    "consonantClusters": {
+      "count": 14,
+      "top": [
+        {
+          "cluster": "prz",
+          "count": 4
+        },
+        {
+          "cluster": "szcz",
+          "count": 3
+        },
+        {
+          "cluster": "szł",
+          "count": 1
+        },
+        {
+          "cluster": "rzch",
+          "count": 1
+        },
+        {
+          "cluster": "dkr",
+          "count": 1
+        },
+        {
+          "cluster": "brz",
+          "count": 1
+        },
+        {
+          "cluster": "gdz",
+          "count": 1
+        },
+        {
+          "cluster": "schł",
+          "count": 1
+        },
+        {
+          "cluster": "ndr",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 22,
+      "syczace": 45,
+      "nosowe": 47,
+      "plynne": 41
+    },
+    "rhymes": {
+      "exact": 0,
+      "approximate": 0,
+      "internal": 0,
+      "assonance": 1,
+      "alliteration": 0
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        13
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 174,
+      "estimatedSeconds": 58,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "regularny",
+      "regularityScore": 0.76
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Biblia",
+          "reference": "Apokalipsa - wizje końca świata",
+          "evidence": "apokaliptyczne obrazy glistów lawy, sine rzeki"
+        },
+        {
+          "source": "mitologia",
+          "reference": "chthoniczne motywy podziemnego świata",
+          "evidence": "z jelit Ziemi wyszły długie glisty"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.8,
+        "baudelaire": 0.6,
+        "bursa": 0.3,
+        "stachura": 0.4,
+        "grochowiak": 0.7,
+        "bialoszewski": 0.2,
+        "rozewicz": 0.3
+      }
+    },
+    "space": {
+      "type": "otwarta",
+      "evidence": "wierzchołki traw, meandry rzek, poranny deszcz - krajobraz rozległy",
+      "openClosedRatio": 0.8
+    },
+    "timeOfDay": {
+      "period": "rano",
+      "season": "nieokreslona",
+      "evidence": "poranny deszcz"
+    },
+    "motion": {
+      "movement": 8,
+      "stillness": 3,
+      "dynamism": 0.7,
+      "evidence": "glisty idą, przechodzą, rzeki meandrują, deszcz pada"
+    },
+    "imageryDensity": {
+      "metaphors": 6,
+      "comparisons": 2,
+      "personifications": 3,
+      "hyperboles": 2,
+      "per100words": 13
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.9,
+      "creationLevel": 0.7,
+      "ironicDistance": 0.1,
+      "autobiographicSignals": [
+        "intymny obraz kobiecego ciała",
+        "wyznanie o bezpłodności",
+        "mowa niezależna"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "rozpacz",
+      "secondary": "obrzydzenie",
+      "intensity": 0.8
+    },
+    "subjectPresence": {
+      "type": "ukryte",
+      "evidence": "podmiot obserwuje 'ją' z dystansu, opisuje jej sen i przebudzenie"
+    },
+    "addressee": {
+      "type": "nikt",
+      "evidence": "brak bezpośredniego zwrotu, wiersz ma charakter opisu sytuacji"
+    },
+    "metaphors": [
+      {
+        "source": "glisty jedwabnej lawy",
+        "target": "rzeki lub strumienie",
+        "example": "długie glisty jedwabnej lawy: idą po wierzchołkach traw"
+      },
+      {
+        "source": "wysychająca sperma",
+        "target": "niespełniona płodność/miłość",
+        "example": "sperma wyschła zanim się urodziłam"
+      },
+      {
+        "source": "meandry rzek stojące",
+        "target": "zastój życiowy",
+        "example": "meandry rzek stojące, całkiem sine"
+      }
+    ],
+    "temperature": {
+      "value": 0.2,
+      "label": "zimne - dominuje pustka, wysychanie, zastój"
+    },
+    "senses": {
+      "wzrok": 5,
+      "sluch": 0,
+      "dotyk": 3,
+      "smak": 0,
+      "zapach": 1
+    },
+    "autodestruction": {
+      "level": 0.7,
+      "signals": [
+        "wysychanie płodności",
+        "puszczanie śluzu",
+        "powtarzające się rozczarowanie",
+        "obraz nieszczęśliwego brzucha"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 1.209,
+    "dfaAlpha": 1.302,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -1.732867951399863
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -1.3582521059827726
+      }
+    ],
+    "seriesLength": 12,
+    "series": [
+      8,
+      6,
+      7,
+      7,
+      6,
+      7,
+      6,
+      7,
+      7,
+      6,
+      6,
+      5
+    ]
+  }
+}

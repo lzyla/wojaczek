@@ -1,0 +1,933 @@
+{
+  "id": "dziewczynka",
+  "title": "Dziewczynka",
+  "wordCount": 81,
+  "lineCount": 12,
+  "uniqueWords": 72,
+  "vocabularyRichness": 0.889,
+  "avgWordsPerLine": 6.75,
+  "wordsPerLineDistribution": [
+    5,
+    5,
+    4,
+    7,
+    5,
+    7,
+    8,
+    8,
+    6,
+    10,
+    8,
+    8
+  ],
+  "wordFrequencies": [
+    [
+      "jaszczurka",
+      1
+    ],
+    [
+      "błyskawicy",
+      1
+    ],
+    [
+      "pęknięte",
+      1
+    ],
+    [
+      "ucho",
+      1
+    ],
+    [
+      "gromu",
+      1
+    ],
+    [
+      "szumiąca",
+      1
+    ],
+    [
+      "muszla",
+      1
+    ],
+    [
+      "deszczu",
+      1
+    ],
+    [
+      "ostrze",
+      1
+    ],
+    [
+      "piorunochronu",
+      1
+    ],
+    [
+      "drażniące",
+      1
+    ],
+    [
+      "elektrycznoczarne",
+      1
+    ],
+    [
+      "krocze",
+      1
+    ],
+    [
+      "nieba",
+      1
+    ],
+    [
+      "niebo",
+      1
+    ],
+    [
+      "osobą",
+      1
+    ],
+    [
+      "brak",
+      1
+    ],
+    [
+      "człowieka",
+      1
+    ],
+    [
+      "skrytego",
+      1
+    ],
+    [
+      "pierzyną",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 8,
+    "period": 1,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 5,
+    "colon": 1,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 3,
+  "negationWords": [
+    "brak",
+    "nie"
+  ],
+  "pronounDistribution": {
+    "ja": 0,
+    "ty": 0,
+    "on_ona": 2,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 0,
+    "smierc": 0,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 2,
+    "sacrum": 1,
+    "noc": 0,
+    "bol": 1
+  },
+  "anaphors": [],
+  "firstWord": "jaszczurka",
+  "lastWord": "sama",
+  "avgWordLength": 5.46,
+  "wordLengthDistribution": {
+    "10+": 8,
+    "8-9": 12,
+    "4-5": 21,
+    "6-7": 16,
+    "1-3": 24
+  },
+  "bigrams": [
+    [
+      "jaszczurka błyskawicy",
+      1
+    ],
+    [
+      "błyskawicy pęknięte",
+      1
+    ],
+    [
+      "pęknięte ucho",
+      1
+    ],
+    [
+      "ucho gromu",
+      1
+    ],
+    [
+      "gromu szumiąca",
+      1
+    ],
+    [
+      "szumiąca muszla",
+      1
+    ],
+    [
+      "muszla deszczu",
+      1
+    ],
+    [
+      "deszczu ostrze",
+      1
+    ],
+    [
+      "ostrze piorunochronu",
+      1
+    ],
+    [
+      "piorunochronu drażniące",
+      1
+    ],
+    [
+      "drażniące elektrycznoczarne",
+      1
+    ],
+    [
+      "elektrycznoczarne krocze",
+      1
+    ],
+    [
+      "krocze nieba",
+      1
+    ]
+  ],
+  "poemWords": [
+    "jaszczurka",
+    "błyskawicy",
+    "pęknięte",
+    "ucho",
+    "gromu",
+    "szumiąca",
+    "muszla",
+    "deszczu",
+    "ostrze",
+    "piorunochronu",
+    "drażniące",
+    "elektrycznoczarne",
+    "krocze",
+    "nieba",
+    "niebo",
+    "osobą",
+    "brak",
+    "człowieka",
+    "skrytego",
+    "pierzyną",
+    "zakopującego",
+    "doniczce",
+    "pelargonią",
+    "wszelaki",
+    "ostry",
+    "przedmiot",
+    "wsuwki",
+    "włosów",
+    "igły",
+    "druty",
+    "robótek",
+    "dziewczynka",
+    "pilnie",
+    "śledząca",
+    "burzę",
+    "niezbrojoną",
+    "szybę",
+    "rodzice",
+    "wyszli",
+    "wizytą",
+    "kina",
+    "burzą",
+    "przyszli",
+    "przeczuwa",
+    "mówiła",
+    "mama",
+    "dzieje",
+    "kobietą",
+    "zostaje"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 31,
+        "VERB": 8,
+        "ADJ": 9,
+        "ADV": 3,
+        "PRON": 5,
+        "ADP": 11,
+        "CCONJ": 5,
+        "SCONJ": 2,
+        "INTJ": 0,
+        "PART": 4,
+        "DET": 1,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.378,
+        "VERB": 0.098,
+        "ADJ": 0.11,
+        "ADV": 0.037,
+        "PRON": 0.061,
+        "ADP": 0.134,
+        "CCONJ": 0.061,
+        "SCONJ": 0.024,
+        "INTJ": 0,
+        "PART": 0.049,
+        "DET": 0.012,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 0,
+        "abstract": 0,
+        "ratio": 0
+      },
+      "verbTenses": {
+        "present": 6,
+        "past": 3
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 2,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 1,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 1,
+        "oceniajace": 0,
+        "opisowe": 8
+      },
+      "adverbs": {
+        "temporalne": [],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "kiedy",
+            "count": 2
+          },
+          {
+            "word": "pilnie",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 0,
+        "ty": 0,
+        "on_ona": 2,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 2,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 2,
+        "percentSentences": 0.5
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 193,
+        "consonants": 260,
+        "ratio": 0.74
+      },
+      "consonantClusters": {
+        "count": 22,
+        "top": [
+          {
+            "cluster": "prz",
+            "count": 5
+          },
+          {
+            "cluster": "szl",
+            "count": 3
+          },
+          {
+            "cluster": "wcz",
+            "count": 2
+          },
+          {
+            "cluster": "szcz",
+            "count": 2
+          },
+          {
+            "cluster": "strz",
+            "count": 1
+          },
+          {
+            "cluster": "chr",
+            "count": 1
+          },
+          {
+            "cluster": "ktr",
+            "count": 1
+          },
+          {
+            "cluster": "czn",
+            "count": 1
+          },
+          {
+            "cluster": "czł",
+            "count": 1
+          },
+          {
+            "cluster": "skr",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 30,
+        "syczace": 30,
+        "nosowe": 46,
+        "plynne": 39
+      },
+      "rhymes": {
+        "exact": 2,
+        "approximate": 1,
+        "internal": 1,
+        "assonance": 4,
+        "alliteration": 1
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 20.5,
+        "median": 18,
+        "min": 3,
+        "max": 44,
+        "distribution": [
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 6.7,
+        "meanSyllables": 15.5,
+        "distribution": [
+          0,
+          1,
+          0,
+          0,
+          1,
+          3,
+          1,
+          1,
+          3,
+          1,
+          1,
+          1
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 4,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 2,
+        "noSubject": 0,
+        "noPredicate": 0,
+        "percent": 0.5
+      },
+      "enjambement": {
+        "count": 0,
+        "percent": 0,
+        "positions": []
+      },
+      "wordOrder": {
+        "svo": 1,
+        "inversions": 1,
+        "other": 2,
+        "deviationPercent": 0.75
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 0,
+        "śmierć": 0,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 2,
+        "sacrum": 1,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 202,
+      "estimatedSeconds": 67,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 31,
+      "VERB": 8,
+      "ADJ": 9,
+      "ADV": 3,
+      "PRON": 5,
+      "ADP": 11,
+      "CCONJ": 5,
+      "SCONJ": 2,
+      "INTJ": 0,
+      "PART": 4,
+      "DET": 1,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.378,
+      "VERB": 0.098,
+      "ADJ": 0.11,
+      "ADV": 0.037,
+      "PRON": 0.061,
+      "ADP": 0.134,
+      "CCONJ": 0.061,
+      "SCONJ": 0.024,
+      "INTJ": 0,
+      "PART": 0.049,
+      "DET": 0.012,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 0,
+      "abstract": 0,
+      "ratio": 0
+    },
+    "verbTenses": {
+      "present": 6,
+      "past": 3
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 2,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 1,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 1,
+      "oceniajace": 0,
+      "opisowe": 8
+    },
+    "adverbs": {
+      "temporalne": [],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "kiedy",
+          "count": 2
+        },
+        {
+          "word": "pilnie",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 0,
+      "ty": 0,
+      "on_ona": 2,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 2,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 2,
+      "percentSentences": 0.5
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 20.5,
+      "median": 18,
+      "min": 3,
+      "max": 44,
+      "distribution": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 6.7,
+      "meanSyllables": 15.5,
+      "distribution": [
+        0,
+        1,
+        0,
+        0,
+        1,
+        3,
+        1,
+        1,
+        3,
+        1,
+        1,
+        1
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 4,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 2,
+      "noSubject": 0,
+      "noPredicate": 0,
+      "percent": 0.5
+    },
+    "enjambement": {
+      "count": 0,
+      "percent": 0,
+      "positions": []
+    },
+    "wordOrder": {
+      "svo": 1,
+      "inversions": 1,
+      "other": 2,
+      "deviationPercent": 0.75
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 193,
+      "consonants": 260,
+      "ratio": 0.74
+    },
+    "consonantClusters": {
+      "count": 22,
+      "top": [
+        {
+          "cluster": "prz",
+          "count": 5
+        },
+        {
+          "cluster": "szl",
+          "count": 3
+        },
+        {
+          "cluster": "wcz",
+          "count": 2
+        },
+        {
+          "cluster": "szcz",
+          "count": 2
+        },
+        {
+          "cluster": "strz",
+          "count": 1
+        },
+        {
+          "cluster": "chr",
+          "count": 1
+        },
+        {
+          "cluster": "ktr",
+          "count": 1
+        },
+        {
+          "cluster": "czn",
+          "count": 1
+        },
+        {
+          "cluster": "czł",
+          "count": 1
+        },
+        {
+          "cluster": "skr",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 30,
+      "syczace": 30,
+      "nosowe": 46,
+      "plynne": 39
+    },
+    "rhymes": {
+      "exact": 2,
+      "approximate": 1,
+      "internal": 1,
+      "assonance": 4,
+      "alliteration": 1
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        13
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 202,
+      "estimatedSeconds": 67,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "regularny",
+      "regularityScore": 0.76
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Leśmian",
+          "reference": "animizacja natury, personifikacja zjawisk",
+          "evidence": "tylko niebo osobą jest, kiedy brak człowieka"
+        },
+        {
+          "source": "mitologia",
+          "reference": "burza jako siła nadprzyrodzona",
+          "evidence": "jaszczurka błyskawicy, pęknięte ucho gromu"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.3,
+        "baudelaire": 0.2,
+        "bursa": 0.1,
+        "stachura": 0.2,
+        "grochowiak": 0.3,
+        "bialoszewski": 0.4,
+        "rozewicz": 0.2
+      }
+    },
+    "space": {
+      "type": "zamknieta",
+      "evidence": "dziewczynka w domu, przez szybę obserwuje burzę, rodzice wyszli",
+      "openClosedRatio": 0.2
+    },
+    "timeOfDay": {
+      "period": "wieczor",
+      "season": "nieokreslona",
+      "evidence": "rodzice wyszli do kina, burza, ciemność sugerowana przez elektrycznoczarne niebo"
+    },
+    "motion": {
+      "movement": 8,
+      "stillness": 3,
+      "dynamism": 0.8,
+      "evidence": "błyskawica, pęknięte ucho gromu, szumiąca muszla deszczu - dynamika burzy kontrastuje ze statyczną dziewczynką"
+    },
+    "imageryDensity": {
+      "metaphors": 6,
+      "comparisons": 0,
+      "personifications": 3,
+      "hyperboles": 2,
+      "per100words": 15.7
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.7,
+      "creationLevel": 0.6,
+      "ironicDistance": 0.3,
+      "autobiographicSignals": [
+        "intymna scena domowa",
+        "dziecięca perspektywa",
+        "lęk przed samotnością"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "tęsknota",
+      "secondary": "melancholia",
+      "intensity": 0.7
+    },
+    "subjectPresence": {
+      "type": "ukryte",
+      "evidence": "podmiot obserwuje dziewczynkę z dystansu, używając trzeciej osoby"
+    },
+    "addressee": {
+      "type": "czytelnik",
+      "evidence": "brak bezpośredniego zwrotu, wiersz ma charakter narracyjny skierowany do odbiorcy"
+    },
+    "metaphors": [
+      {
+        "source": "jaszczurka błyskawicy",
+        "target": "błyskawica",
+        "example": "Jaszczurka błyskawicy"
+      },
+      {
+        "source": "pęknięte ucho gromu",
+        "target": "dźwięk grzmotu",
+        "example": "pęknięte ucho gromu"
+      },
+      {
+        "source": "muszla deszczu",
+        "target": "odgłos deszczu",
+        "example": "Szumiąca muszla deszczu"
+      },
+      {
+        "source": "elektrycznoczarne krocze nieba",
+        "target": "chmury burzowe",
+        "example": "elektrycznoczarne krocze nieba"
+      }
+    ],
+    "temperature": {
+      "value": 0.3,
+      "label": "chłodna melancholia z nutą niepokoju"
+    },
+    "senses": {
+      "wzrok": 4,
+      "sluch": 5,
+      "dotyk": 2,
+      "smak": 0,
+      "zapach": 0
+    },
+    "autodestruction": {
+      "level": 0.4,
+      "signals": [
+        "ukrywanie ostrych przedmiotów",
+        "przeczucie niebezpieczeństwa samotności",
+        "motyw zagrożenia"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 0.68,
+    "dfaAlpha": 1.821,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -1.2220423276338717
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -0.6982238922763792
+      }
+    ],
+    "seriesLength": 12,
+    "series": [
+      5,
+      5,
+      4,
+      7,
+      5,
+      7,
+      8,
+      8,
+      6,
+      10,
+      8,
+      8
+    ]
+  }
+}

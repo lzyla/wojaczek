@@ -1,0 +1,1554 @@
+{
+  "id": "piosenka-innej-ulicy",
+  "title": "Piosenka innej ulicy",
+  "wordCount": 414,
+  "lineCount": 61,
+  "uniqueWords": 294,
+  "vocabularyRichness": 0.71,
+  "avgWordsPerLine": 6.79,
+  "wordsPerLineDistribution": [
+    3,
+    8,
+    8,
+    9,
+    6,
+    7,
+    9,
+    7,
+    6,
+    6,
+    4,
+    6,
+    6,
+    8,
+    7,
+    7,
+    7,
+    4,
+    6,
+    8,
+    7,
+    9,
+    7,
+    8,
+    5,
+    8,
+    7,
+    7,
+    7,
+    8,
+    5,
+    6,
+    7,
+    7,
+    7,
+    8,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    8,
+    8,
+    8,
+    8,
+    6,
+    6,
+    6,
+    6,
+    7,
+    8,
+    7,
+    5,
+    8,
+    6,
+    7,
+    6,
+    7,
+    4,
+    6
+  ],
+  "wordFrequencies": [
+    [
+      "mogłem",
+      4
+    ],
+    [
+      "szedłem",
+      3
+    ],
+    [
+      "jakże",
+      3
+    ],
+    [
+      "owszem",
+      2
+    ],
+    [
+      "pewien",
+      2
+    ],
+    [
+      "ulicą",
+      2
+    ],
+    [
+      "stron",
+      2
+    ],
+    [
+      "grażynie",
+      1
+    ],
+    [
+      "lisowskiej",
+      1
+    ],
+    [
+      "wyśmiał",
+      1
+    ],
+    [
+      "wszelki",
+      1
+    ],
+    [
+      "stwór",
+      1
+    ],
+    [
+      "żywy",
+      1
+    ],
+    [
+      "martwy",
+      1
+    ],
+    [
+      "kamień",
+      1
+    ],
+    [
+      "wiersz",
+      1
+    ],
+    [
+      "zwierzę",
+      1
+    ],
+    [
+      "robak",
+      1
+    ],
+    [
+      "obłok",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 11,
+    "period": 0,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 8,
+    "colon": 0,
+    "semicolon": 13
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 15,
+  "negationWords": [
+    "nie",
+    "żadna"
+  ],
+  "pronounDistribution": {
+    "ja": 8,
+    "ty": 0,
+    "on_ona": 5,
+    "my": 1,
+    "wy": 0,
+    "oni": 1
+  },
+  "semanticFields": {
+    "cialo": 0,
+    "smierc": 4,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 1,
+    "sacrum": 0,
+    "noc": 1,
+    "bol": 2
+  },
+  "anaphors": [
+    [
+      "kiedy",
+      4
+    ],
+    [
+      "gdy",
+      3
+    ],
+    [
+      "także",
+      2
+    ],
+    [
+      "który",
+      2
+    ],
+    [
+      "aby",
+      2
+    ]
+  ],
+  "firstWord": "pani",
+  "lastWord": "znajomą",
+  "avgWordLength": 5.16,
+  "wordLengthDistribution": {
+    "4-5": 117,
+    "8-9": 45,
+    "10+": 26,
+    "6-7": 98,
+    "1-3": 128
+  },
+  "bigrams": [
+    [
+      "grażynie lisowskiej",
+      1
+    ],
+    [
+      "wszelki stwór",
+      1
+    ],
+    [
+      "stwór żywy",
+      1
+    ]
+  ],
+  "poemWords": [
+    "pani",
+    "grażynie",
+    "lisowskiej",
+    "wyśmiał",
+    "wszelki",
+    "stwór",
+    "żywy",
+    "martwy",
+    "kamień",
+    "wiersz",
+    "zwierzę",
+    "robak",
+    "obłok",
+    "człowiek",
+    "kwiat",
+    "wzrok",
+    "miał",
+    "władzy",
+    "pejzażem",
+    "ukonstytuował",
+    "formy",
+    "koszmarne",
+    "przelewając",
+    "środek",
+    "mózgu",
+    "ciekły",
+    "straszne",
+    "skrzepy",
+    "stygły",
+    "stały",
+    "ból",
+    "parcia",
+    "grozy",
+    "odeprzeć",
+    "mogłem",
+    "dłonią",
+    "rozdygotanej",
+    "krwi",
+    "owszem",
+    "głośno",
+    "krzyczeć",
+    "pośmiewisko",
+    "bardziej",
+    "powszechne",
+    "zataczające",
+    "kręgi",
+    "coraz",
+    "obszerniejsze",
+    "jedyną",
+    "pewnością",
+    "pewność",
+    "chichotać",
+    "zaczęły",
+    "tkanki",
+    "mdłe",
+    "koniec",
+    "wyzuty",
+    "byłem",
+    "wiary",
+    "stronę",
+    "trzyma",
+    "pewien",
+    "sen",
+    "najstarszy",
+    "dziejący",
+    "kolorze",
+    "różowym",
+    "groźny",
+    "zarazem",
+    "groza",
+    "oswojona",
+    "niejako",
+    "ciągłym",
+    "uprawianiem",
+    "poematów",
+    "miłosnych",
+    "pisaniem",
+    "wierny",
+    "dotąd",
+    "nóż",
+    "opuścił",
+    "zaczął",
+    "służyć",
+    "dzielenia",
+    "tłuszczy",
+    "prostej",
+    "pieszczoty",
+    "zażyć",
+    "przyłożyć",
+    "chętnej",
+    "szyi",
+    "twarzy",
+    "pójść",
+    "mistrza",
+    "ezoterycznej",
+    "wiedzy",
+    "użyczał",
+    "pilnie",
+    "wznosił",
+    "dom",
+    "skale",
+    "stacja",
+    "meta",
+    "barem",
+    "ulicą",
+    "wlokąc",
+    "wątły",
+    "mgła",
+    "sprawdzałem",
+    "błękitny",
+    "pan",
+    "zgłasza",
+    "osobę",
+    "nudną",
+    "uciążliwą",
+    "plugawie",
+    "naplutą",
+    "pierwszego",
+    "prospektu",
+    "miasta",
+    "świetny",
+    "asfalt",
+    "jedno",
+    "rzymu",
+    "moskwy",
+    "wrocławia",
+    "zapomniałem",
+    "stron",
+    "lewej",
+    "prawej",
+    "świata",
+    "szedłem",
+    "droga",
+    "rzeką",
+    "prowadzi",
+    "celu",
+    "żmudną",
+    "wiedzie",
+    "domu",
+    "mieszkaniem",
+    "żadnym",
+    "którym",
+    "zamieszkuje",
+    "żadna",
+    "kobieta",
+    "pamięć",
+    "jakże",
+    "bolesna",
+    "życie",
+    "zmarnowane",
+    "szło",
+    "pasażer",
+    "jedzie",
+    "gapę",
+    "kontroli",
+    "zależy",
+    "lewe",
+    "dokumenty",
+    "śmierć",
+    "lepszych",
+    "celów",
+    "stworzona",
+    "szła",
+    "wizytą",
+    "obywatelów",
+    "którzy",
+    "żony",
+    "grzeczne",
+    "przynaglali",
+    "gościa",
+    "dobrą",
+    "kolację",
+    "stawiały",
+    "wybiegali",
+    "sklepów",
+    "pobliskich",
+    "nabyć",
+    "dobre",
+    "trunki",
+    "tani",
+    "salicyl",
+    "długo",
+    "żmudnie",
+    "mijając",
+    "idącym",
+    "naprzeciwka",
+    "zmierzchem",
+    "niemelodyjnym",
+    "ciemnym",
+    "nędznym",
+    "ciężkim",
+    "szepcząc",
+    "któregoś",
+    "mych",
+    "wierszy",
+    "ostatnią",
+    "piosenkę",
+    "nucił",
+    "samemu",
+    "nagle",
+    "podniósłszy",
+    "ciężką",
+    "głowę",
+    "ujrzałem",
+    "bałem",
+    "uwierzyć",
+    "hotel",
+    "komunalny",
+    "wieńczy",
+    "wieżyczka",
+    "ozdobiona",
+    "świecącą",
+    "koroną",
+    "twarzą",
+    "skądinąd",
+    "znajomą"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 95,
+        "VERB": 51,
+        "ADJ": 58,
+        "ADV": 30,
+        "PRON": 29,
+        "ADP": 31,
+        "CCONJ": 20,
+        "SCONJ": 13,
+        "INTJ": 2,
+        "PART": 48,
+        "DET": 24,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.227,
+        "VERB": 0.122,
+        "ADJ": 0.139,
+        "ADV": 0.072,
+        "PRON": 0.069,
+        "ADP": 0.074,
+        "CCONJ": 0.048,
+        "SCONJ": 0.031,
+        "INTJ": 0.005,
+        "PART": 0.115,
+        "DET": 0.057,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 9,
+        "abstract": 5,
+        "ratio": 0.64
+      },
+      "verbTenses": {
+        "past": 34,
+        "present": 18,
+        "infinitive": 10
+      },
+      "verbSemantics": {
+        "ruch": 2,
+        "percepcja": 0,
+        "stan": 9,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 1,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 2,
+        "oceniajace": 5,
+        "opisowe": 51
+      },
+      "adverbs": {
+        "temporalne": [
+          "dotąd"
+        ],
+        "modalne": [],
+        "sposobu": [
+          "nagle"
+        ],
+        "top": [
+          {
+            "word": "gdy",
+            "count": 7
+          },
+          {
+            "word": "kiedy",
+            "count": 6
+          },
+          {
+            "word": "tak",
+            "count": 4
+          },
+          {
+            "word": "jakże",
+            "count": 3
+          },
+          {
+            "word": "głośno",
+            "count": 1
+          },
+          {
+            "word": "tym",
+            "count": 1
+          },
+          {
+            "word": "bardziej",
+            "count": 1
+          },
+          {
+            "word": "coraz",
+            "count": 1
+          },
+          {
+            "word": "dotąd",
+            "count": 1
+          },
+          {
+            "word": "pilnie",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 5,
+        "ty": 0,
+        "on_ona": 5,
+        "my": 1,
+        "wy": 0,
+        "oni": 1
+      },
+      "negations": {
+        "nie": 14,
+        "nic": 0,
+        "nikt": 1,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 4,
+        "total": 19,
+        "percentSentences": 1.27
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 896,
+        "consonants": 1259,
+        "ratio": 0.71
+      },
+      "consonantClusters": {
+        "count": 70,
+        "top": [
+          {
+            "cluster": "wsz",
+            "count": 6
+          },
+          {
+            "cluster": "prz",
+            "count": 6
+          },
+          {
+            "cluster": "str",
+            "count": 4
+          },
+          {
+            "cluster": "rsz",
+            "count": 3
+          },
+          {
+            "cluster": "szcz",
+            "count": 3
+          },
+          {
+            "cluster": "stw",
+            "count": 2
+          },
+          {
+            "cluster": "czn",
+            "count": 2
+          },
+          {
+            "cluster": "stk",
+            "count": 2
+          },
+          {
+            "cluster": "szk",
+            "count": 2
+          },
+          {
+            "cluster": "szł",
+            "count": 2
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 117,
+        "syczace": 182,
+        "nosowe": 271,
+        "plynne": 178
+      },
+      "rhymes": {
+        "exact": 5,
+        "approximate": 5,
+        "internal": 3,
+        "assonance": 6,
+        "alliteration": 3
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 27.9,
+        "median": 13,
+        "min": 1,
+        "max": 165,
+        "distribution": [
+          0,
+          1,
+          0,
+          1,
+          0,
+          0,
+          3,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 6.8,
+        "meanSyllables": 14.5,
+        "distribution": [
+          0,
+          1,
+          0,
+          2,
+          3,
+          3,
+          12,
+          22,
+          15,
+          4,
+          1
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 15,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 4,
+        "noSubject": 2,
+        "noPredicate": 0,
+        "percent": 0.4
+      },
+      "enjambement": {
+        "count": 14,
+        "percent": 0.23,
+        "positions": [
+          2,
+          6,
+          7,
+          15,
+          21,
+          22,
+          25,
+          26,
+          27,
+          36,
+          39,
+          44,
+          45,
+          59
+        ]
+      },
+      "wordOrder": {
+        "svo": 7,
+        "inversions": 2,
+        "other": 5,
+        "deviationPercent": 0.5
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 2,
+        "śmierć": 4,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 2,
+        "sacrum": 0,
+        "noc": 1,
+        "ból": 2
+      },
+      "oppositionsFound": [
+        "życie/śmierć"
+      ]
+    },
+    "tempo": {
+      "syllables": 916,
+      "estimatedSeconds": 305,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 95,
+      "VERB": 51,
+      "ADJ": 58,
+      "ADV": 30,
+      "PRON": 29,
+      "ADP": 31,
+      "CCONJ": 20,
+      "SCONJ": 13,
+      "INTJ": 2,
+      "PART": 48,
+      "DET": 24,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.227,
+      "VERB": 0.122,
+      "ADJ": 0.139,
+      "ADV": 0.072,
+      "PRON": 0.069,
+      "ADP": 0.074,
+      "CCONJ": 0.048,
+      "SCONJ": 0.031,
+      "INTJ": 0.005,
+      "PART": 0.115,
+      "DET": 0.057,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 9,
+      "abstract": 5,
+      "ratio": 0.64
+    },
+    "verbTenses": {
+      "past": 34,
+      "present": 18,
+      "infinitive": 10
+    },
+    "verbSemantics": {
+      "ruch": 2,
+      "percepcja": 0,
+      "stan": 9,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 1,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 2,
+      "oceniajace": 5,
+      "opisowe": 51
+    },
+    "adverbs": {
+      "temporalne": [
+        "dotąd"
+      ],
+      "modalne": [],
+      "sposobu": [
+        "nagle"
+      ],
+      "top": [
+        {
+          "word": "gdy",
+          "count": 7
+        },
+        {
+          "word": "kiedy",
+          "count": 6
+        },
+        {
+          "word": "tak",
+          "count": 4
+        },
+        {
+          "word": "jakże",
+          "count": 3
+        },
+        {
+          "word": "głośno",
+          "count": 1
+        },
+        {
+          "word": "tym",
+          "count": 1
+        },
+        {
+          "word": "bardziej",
+          "count": 1
+        },
+        {
+          "word": "coraz",
+          "count": 1
+        },
+        {
+          "word": "dotąd",
+          "count": 1
+        },
+        {
+          "word": "pilnie",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 5,
+      "ty": 0,
+      "on_ona": 5,
+      "my": 1,
+      "wy": 0,
+      "oni": 1
+    },
+    "negations": {
+      "nie": 14,
+      "nic": 0,
+      "nikt": 1,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 4,
+      "total": 19,
+      "percentSentences": 1.27
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 27.9,
+      "median": 13,
+      "min": 1,
+      "max": 165,
+      "distribution": [
+        0,
+        1,
+        0,
+        1,
+        0,
+        0,
+        3,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 6.8,
+      "meanSyllables": 14.5,
+      "distribution": [
+        0,
+        1,
+        0,
+        2,
+        3,
+        3,
+        12,
+        22,
+        15,
+        4,
+        1
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 15,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 4,
+      "noSubject": 2,
+      "noPredicate": 0,
+      "percent": 0.4
+    },
+    "enjambement": {
+      "count": 14,
+      "percent": 0.23,
+      "positions": [
+        2,
+        6,
+        7,
+        15,
+        21,
+        22,
+        25,
+        26,
+        27,
+        36,
+        39,
+        44,
+        45,
+        59
+      ]
+    },
+    "wordOrder": {
+      "svo": 7,
+      "inversions": 2,
+      "other": 5,
+      "deviationPercent": 0.5
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 896,
+      "consonants": 1259,
+      "ratio": 0.71
+    },
+    "consonantClusters": {
+      "count": 70,
+      "top": [
+        {
+          "cluster": "wsz",
+          "count": 6
+        },
+        {
+          "cluster": "prz",
+          "count": 6
+        },
+        {
+          "cluster": "str",
+          "count": 4
+        },
+        {
+          "cluster": "rsz",
+          "count": 3
+        },
+        {
+          "cluster": "szcz",
+          "count": 3
+        },
+        {
+          "cluster": "stw",
+          "count": 2
+        },
+        {
+          "cluster": "czn",
+          "count": 2
+        },
+        {
+          "cluster": "stk",
+          "count": 2
+        },
+        {
+          "cluster": "szk",
+          "count": 2
+        },
+        {
+          "cluster": "szł",
+          "count": 2
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 117,
+      "syczace": 182,
+      "nosowe": 271,
+      "plynne": 178
+    },
+    "rhymes": {
+      "exact": 5,
+      "approximate": 5,
+      "internal": 3,
+      "assonance": 6,
+      "alliteration": 3
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        63
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 916,
+      "estimatedSeconds": 305,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "regularny",
+      "regularityScore": 0.84
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Biblia",
+          "reference": "dom na skale",
+          "evidence": "pilnie wznosił sobie dom na skale"
+        },
+        {
+          "source": "Rimbaud",
+          "reference": "Les Illuminations",
+          "evidence": "Błękitny Pan - nawiązanie do wizji kolorystycznych Rimbauda"
+        },
+        {
+          "source": "mitologia",
+          "reference": "personifikacja śmierci",
+          "evidence": "śmierć była - owszem - lecz do lepszych celów / Stworzona szła z wizytą do obywatelów"
+        }
+      ],
+      "selfQuotes": [
+        "sen najstarszy / Dziejący się w kolorze różowym",
+        "poematów miłosnych pisaniem"
+      ],
+      "influences": {
+        "rimbaud": 0.8,
+        "baudelaire": 0.7,
+        "bursa": 0.3,
+        "stachura": 0.2,
+        "grochowiak": 0.1,
+        "bialoszewski": 0.1,
+        "rozewicz": 0.4
+      }
+    },
+    "space": {
+      "type": "otwarta",
+      "evidence": "ulicą wlokąc się",
+      "openClosedRatio": 0.8
+    },
+    "timeOfDay": {
+      "period": "wieczor",
+      "season": "nieokreslona",
+      "evidence": "Mijając się z idącym z naprzeciwka zmierzchem"
+    },
+    "motion": {
+      "movement": 8,
+      "stillness": 2,
+      "dynamism": 0.7,
+      "evidence": "szedłem żmudnie szedłem / wlokąc się / tylko szedłem"
+    },
+    "imageryDensity": {
+      "metaphors": 15,
+      "comparisons": 8,
+      "personifications": 6,
+      "hyperboles": 4,
+      "per100words": 12.5
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.9,
+      "creationLevel": 0.3,
+      "ironicDistance": 0.2,
+      "autobiographicSignals": [
+        "moje życie - jakże zmarnowane",
+        "moją stronę",
+        "wierny mi dotąd nóż",
+        "któregoś z mych wierszy"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "rozpacz",
+      "secondary": "rezygnacja",
+      "intensity": 0.9
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "liczne formy pierwszej osoby: 'wyśmiał mnie', 'wzrok mój', 'mogłem', 'szedłem'"
+    },
+    "addressee": {
+      "type": "ty",
+      "evidence": "końcowe zwrócenie się 'Twoją twarzą' oraz dedykacja 'Pani Grażynie Lisowskiej'"
+    },
+    "metaphors": [
+      {
+        "source": "życie",
+        "target": "pasażer na gapę",
+        "example": "ze mną moje życie szło jak gdyby pasażer co jedzie na gapę"
+      },
+      {
+        "source": "droga",
+        "target": "żmudna ulica",
+        "example": "owa zaś droga nie rzeką była [...] tylko żmudną ulicą"
+      },
+      {
+        "source": "groza",
+        "target": "skrzepy w mózgu",
+        "example": "w straszne skrzepy stygły na stały ból"
+      }
+    ],
+    "temperature": {
+      "value": 0.2,
+      "label": "zimne i rezygnacyjne"
+    },
+    "senses": {
+      "wzrok": 4,
+      "sluch": 2,
+      "dotyk": 3,
+      "smak": 1,
+      "zapach": 0
+    },
+    "autodestruction": {
+      "level": 0.8,
+      "signals": [
+        "wierny mi dotąd nóż",
+        "przyłożyć go do chętnej szyi",
+        "życie zmarnowane",
+        "plugawie naplutą"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 0.668,
+    "dfaAlpha": 0.894,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -1.3963957147786494
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -0.8083636061201437
+      },
+      {
+        "logWin": 1.6094379124341003,
+        "logFluc": -0.6662963561923181
+      },
+      {
+        "logWin": 1.791759469228055,
+        "logFluc": -0.5417750850844959
+      },
+      {
+        "logWin": 2.0794415416798357,
+        "logFluc": -0.1854698521852023
+      },
+      {
+        "logWin": 2.302585092994046,
+        "logFluc": -0.12021747991810655
+      },
+      {
+        "logWin": 2.5649493574615367,
+        "logFluc": 0.33278855136279506
+      },
+      {
+        "logWin": 2.772588722239781,
+        "logFluc": 0.25695935375859913
+      },
+      {
+        "logWin": 2.995732273553991,
+        "logFluc": 0.3489235580740216
+      }
+    ],
+    "seriesLength": 61,
+    "series": [
+      3,
+      8,
+      8,
+      9,
+      6,
+      7,
+      9,
+      7,
+      6,
+      6,
+      4,
+      6,
+      6,
+      8,
+      7,
+      7,
+      7,
+      4,
+      6,
+      8,
+      7,
+      9,
+      7,
+      8,
+      5,
+      8,
+      7,
+      7,
+      7,
+      8,
+      5,
+      6,
+      7,
+      7,
+      7,
+      8,
+      7,
+      7,
+      7,
+      7,
+      7,
+      7,
+      8,
+      8,
+      8,
+      8,
+      6,
+      6,
+      6,
+      6,
+      7,
+      8,
+      7,
+      5,
+      8,
+      6,
+      7,
+      6,
+      7,
+      4,
+      6
+    ]
+  }
+}

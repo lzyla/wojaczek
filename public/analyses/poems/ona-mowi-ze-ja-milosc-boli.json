@@ -1,0 +1,662 @@
+{
+  "id": "ona-mowi-ze-ja-milosc-boli",
+  "title": "ONA MÓWI, ŻE JĄ MIŁOŚĆ BOLI",
+  "wordCount": 30,
+  "lineCount": 7,
+  "uniqueWords": 27,
+  "vocabularyRichness": 0.9,
+  "avgWordsPerLine": 4.29,
+  "wordsPerLineDistribution": [
+    6,
+    3,
+    5,
+    3,
+    5,
+    3,
+    5
+  ],
+  "wordFrequencies": [
+    [
+      "kwiat",
+      2
+    ],
+    [
+      "mówi",
+      1
+    ],
+    [
+      "miłość",
+      1
+    ],
+    [
+      "boli",
+      1
+    ],
+    [
+      "czarny",
+      1
+    ],
+    [
+      "rośnie",
+      1
+    ],
+    [
+      "zwięzłej",
+      1
+    ],
+    [
+      "głowie",
+      1
+    ],
+    [
+      "uciska",
+      1
+    ],
+    [
+      "oczy",
+      1
+    ],
+    [
+      "wysiłkiem",
+      1
+    ],
+    [
+      "patrzy",
+      1
+    ],
+    [
+      "krzakiem",
+      1
+    ],
+    [
+      "zapala",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 0,
+    "period": 0,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 0,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 0,
+  "negationWords": [],
+  "pronounDistribution": {
+    "ja": 1,
+    "ty": 0,
+    "on_ona": 2,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 1,
+    "smierc": 0,
+    "erotyka": 1,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [
+    [
+      "ona",
+      2
+    ]
+  ],
+  "firstWord": "ona",
+  "lastWord": "zapala",
+  "avgWordLength": 4.27,
+  "wordLengthDistribution": {
+    "1-3": 12,
+    "4-5": 8,
+    "6-7": 7,
+    "8-9": 3
+  },
+  "bigrams": [
+    [
+      "miłość boli",
+      1
+    ],
+    [
+      "czarny kwiat",
+      1
+    ],
+    [
+      "zwięzłej głowie",
+      1
+    ],
+    [
+      "głowie kwiat",
+      1
+    ]
+  ],
+  "poemWords": [
+    "mówi",
+    "miłość",
+    "boli",
+    "czarny",
+    "kwiat",
+    "rośnie",
+    "zwięzłej",
+    "głowie",
+    "uciska",
+    "oczy",
+    "wysiłkiem",
+    "patrzy",
+    "krzakiem",
+    "zapala"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 7,
+        "VERB": 6,
+        "ADJ": 2,
+        "ADV": 0,
+        "PRON": 7,
+        "ADP": 3,
+        "CCONJ": 0,
+        "SCONJ": 2,
+        "INTJ": 0,
+        "PART": 0,
+        "DET": 2,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.233,
+        "VERB": 0.2,
+        "ADJ": 0.067,
+        "ADV": 0,
+        "PRON": 0.233,
+        "ADP": 0.1,
+        "CCONJ": 0,
+        "SCONJ": 0.067,
+        "INTJ": 0,
+        "PART": 0,
+        "DET": 0.067,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 1,
+        "abstract": 1,
+        "ratio": 0.5
+      },
+      "verbTenses": {
+        "present": 7
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 1,
+        "stan": 1,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 1,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 1,
+        "oceniajace": 0,
+        "opisowe": 1
+      },
+      "adverbs": {
+        "temporalne": [],
+        "modalne": [],
+        "sposobu": [],
+        "top": []
+      },
+      "pronouns": {
+        "ja": 1,
+        "ty": 0,
+        "on_ona": 3,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 0,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 0,
+        "percentSentences": 0
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 57,
+        "consonants": 71,
+        "ratio": 0.8
+      },
+      "consonantClusters": {
+        "count": 2,
+        "top": [
+          {
+            "cluster": "trz",
+            "count": 1
+          },
+          {
+            "cluster": "krz",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 5,
+        "syczace": 15,
+        "nosowe": 16,
+        "plynne": 11
+      },
+      "rhymes": {
+        "exact": 1,
+        "approximate": 0,
+        "internal": 0,
+        "assonance": 0,
+        "alliteration": 0
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 15,
+        "median": 15,
+        "min": 14,
+        "max": 16,
+        "distribution": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 4.3,
+        "meanSyllables": 8.4,
+        "distribution": [
+          0,
+          0,
+          0,
+          3,
+          0,
+          3,
+          1
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 2,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 0,
+        "noSubject": 0,
+        "noPredicate": 0,
+        "percent": 0
+      },
+      "enjambement": {
+        "count": 4,
+        "percent": 0.67,
+        "positions": [
+          1,
+          2,
+          4,
+          6
+        ]
+      },
+      "wordOrder": {
+        "svo": 2,
+        "inversions": 0,
+        "other": 0,
+        "deviationPercent": 0
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 1,
+        "śmierć": 0,
+        "erotyka": 1,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 59,
+      "estimatedSeconds": 20,
+      "tempoCategory": "umiarkowane"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 7,
+      "VERB": 6,
+      "ADJ": 2,
+      "ADV": 0,
+      "PRON": 7,
+      "ADP": 3,
+      "CCONJ": 0,
+      "SCONJ": 2,
+      "INTJ": 0,
+      "PART": 0,
+      "DET": 2,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.233,
+      "VERB": 0.2,
+      "ADJ": 0.067,
+      "ADV": 0,
+      "PRON": 0.233,
+      "ADP": 0.1,
+      "CCONJ": 0,
+      "SCONJ": 0.067,
+      "INTJ": 0,
+      "PART": 0,
+      "DET": 0.067,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 1,
+      "abstract": 1,
+      "ratio": 0.5
+    },
+    "verbTenses": {
+      "present": 7
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 1,
+      "stan": 1,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 1,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 1,
+      "oceniajace": 0,
+      "opisowe": 1
+    },
+    "adverbs": {
+      "temporalne": [],
+      "modalne": [],
+      "sposobu": [],
+      "top": []
+    },
+    "pronouns": {
+      "ja": 1,
+      "ty": 0,
+      "on_ona": 3,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 0,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 0,
+      "percentSentences": 0
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 15,
+      "median": 15,
+      "min": 14,
+      "max": 16,
+      "distribution": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 4.3,
+      "meanSyllables": 8.4,
+      "distribution": [
+        0,
+        0,
+        0,
+        3,
+        0,
+        3,
+        1
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 2,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 0,
+      "noSubject": 0,
+      "noPredicate": 0,
+      "percent": 0
+    },
+    "enjambement": {
+      "count": 4,
+      "percent": 0.67,
+      "positions": [
+        1,
+        2,
+        4,
+        6
+      ]
+    },
+    "wordOrder": {
+      "svo": 2,
+      "inversions": 0,
+      "other": 0,
+      "deviationPercent": 0
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 57,
+      "consonants": 71,
+      "ratio": 0.8
+    },
+    "consonantClusters": {
+      "count": 2,
+      "top": [
+        {
+          "cluster": "trz",
+          "count": 1
+        },
+        {
+          "cluster": "krz",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 5,
+      "syczace": 15,
+      "nosowe": 16,
+      "plynne": 11
+    },
+    "rhymes": {
+      "exact": 1,
+      "approximate": 0,
+      "internal": 0,
+      "assonance": 0,
+      "alliteration": 0
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 3,
+      "linesPerStanza": [
+        3,
+        2,
+        2
+      ],
+      "isRegular": false,
+      "isContinuous": false
+    },
+    "readingTempo": {
+      "syllables": 59,
+      "estimatedSeconds": 20,
+      "tempoCategory": "umiarkowane"
+    },
+    "regularity": {
+      "type": "regularny",
+      "regularityScore": 0.72
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Baudelaire",
+          "reference": "Kwiaty zła - czarny kwiat jako symbol melancholii i cierpienia",
+          "evidence": "ten czarny kwiat / co rośnie w zwięzłej głowie"
+        },
+        {
+          "source": "inne",
+          "reference": "Romantyczna tradycja miłości bolesnej",
+          "evidence": "ją miłość boli"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.3,
+        "baudelaire": 0.8,
+        "bursa": 0.1,
+        "stachura": 0.2,
+        "grochowiak": 0.4,
+        "bialoszewski": 0.2,
+        "rozewicz": 0.3
+      }
+    },
+    "space": {
+      "type": "zamknieta",
+      "evidence": "zwięzła głowa jako przestrzeń zamknięta, intymna przestrzeń cierpienia",
+      "openClosedRatio": 0.2
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "nieokreslona",
+      "evidence": "brak wskaźników temporalnych"
+    },
+    "motion": {
+      "movement": 4,
+      "stillness": 6,
+      "dynamism": 0.4,
+      "evidence": "rośnie, uciska, patrzy, zapala - ruch wewnętrzny przy zewnętrznej statyce"
+    },
+    "imageryDensity": {
+      "metaphors": 4,
+      "comparisons": 1,
+      "personifications": 2,
+      "hyperboles": 0,
+      "per100words": 28
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.9,
+      "creationLevel": 0.8,
+      "ironicDistance": 0.1,
+      "autobiographicSignals": [
+        "intymny ton",
+        "bezpośredniość wypowiedzi o miłości",
+        "perspektywa pierwszoosobowa"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "czułość",
+      "secondary": "melancholia",
+      "intensity": 0.7
+    },
+    "subjectPresence": {
+      "type": "ukryte",
+      "evidence": "podmiot obserwuje 'ją' z dystansu, ale ujawnia się w 'we mnie zapala'"
+    },
+    "addressee": {
+      "type": "czytelnik",
+      "evidence": "brak bezpośredniego zwrotu, relacja opisowa skierowana do odbiorcy"
+    },
+    "metaphors": [
+      {
+        "source": "czarny kwiat",
+        "target": "miłość/ból",
+        "example": "ten czarny kwiat / co rośnie w zwięzłej głowie"
+      },
+      {
+        "source": "krzak",
+        "target": "spojrzenie/wzrok",
+        "example": "patrzy krzakiem"
+      },
+      {
+        "source": "zapłon",
+        "target": "uczucie/przeżycie",
+        "example": "krzakiem / który się we mnie zapala"
+      }
+    ],
+    "temperature": {
+      "value": 0.6,
+      "label": "ciepłe - intymność i delikatne rozżarzenie"
+    },
+    "senses": {
+      "wzrok": 4,
+      "sluch": 1,
+      "dotyk": 3,
+      "smak": 0,
+      "zapach": 0
+    },
+    "autodestruction": {
+      "level": 0.3,
+      "signals": [
+        "ból miłości",
+        "ucisk w głowie",
+        "wysiłek oczu"
+      ]
+    }
+  }
+}

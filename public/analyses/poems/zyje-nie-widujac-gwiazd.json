@@ -1,0 +1,674 @@
+{
+  "id": "zyje-nie-widujac-gwiazd",
+  "title": "żyję nie widując gwiazd",
+  "wordCount": 44,
+  "lineCount": 6,
+  "uniqueWords": 22,
+  "vocabularyRichness": 0.5,
+  "avgWordsPerLine": 7.33,
+  "wordsPerLineDistribution": [
+    16,
+    11,
+    4,
+    4,
+    4,
+    5
+  ],
+  "wordFrequencies": [
+    [
+      "jednej",
+      5
+    ],
+    [
+      "śmiercinotatki",
+      4
+    ],
+    [
+      "notatki",
+      1
+    ],
+    [
+      "śmierci",
+      1
+    ],
+    [
+      "żyję",
+      1
+    ],
+    [
+      "widując",
+      1
+    ],
+    [
+      "gwiazd",
+      1
+    ],
+    [
+      "mówię",
+      1
+    ],
+    [
+      "rozumiejąc",
+      1
+    ],
+    [
+      "słów",
+      1
+    ],
+    [
+      "czekam",
+      1
+    ],
+    [
+      "licząc",
+      1
+    ],
+    [
+      "dni",
+      1
+    ],
+    [
+      "przebije",
+      1
+    ],
+    [
+      "mur",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 0,
+    "period": 0,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 0,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 3,
+  "negationWords": [
+    "nie"
+  ],
+  "pronounDistribution": {
+    "ja": 0,
+    "ty": 0,
+    "on_ona": 0,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 0,
+    "smierc": 0,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [],
+  "firstWord": "notatki",
+  "lastWord": "mur",
+  "avgWordLength": 4.55,
+  "wordLengthDistribution": {
+    "6-7": 11,
+    "1-3": 23,
+    "10+": 5,
+    "4-5": 4,
+    "8-9": 1
+  },
+  "bigrams": [
+    [
+      "jednej śmiercinotatki",
+      4
+    ],
+    [
+      "jednej śmierci",
+      1
+    ],
+    [
+      "widując gwiazd",
+      1
+    ],
+    [
+      "gwiazd mówię",
+      1
+    ]
+  ],
+  "poemWords": [
+    "notatki",
+    "jednej",
+    "śmiercinotatki",
+    "śmierci",
+    "żyję",
+    "widując",
+    "gwiazd",
+    "mówię",
+    "rozumiejąc",
+    "słów",
+    "czekam",
+    "licząc",
+    "dni",
+    "przebije",
+    "mur"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 6,
+        "VERB": 7,
+        "ADJ": 5,
+        "ADV": 0,
+        "PRON": 1,
+        "ADP": 5,
+        "CCONJ": 0,
+        "SCONJ": 1,
+        "INTJ": 0,
+        "PART": 3,
+        "DET": 1,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.182,
+        "VERB": 0.212,
+        "ADJ": 0.152,
+        "ADV": 0,
+        "PRON": 0.03,
+        "ADP": 0.152,
+        "CCONJ": 0,
+        "SCONJ": 0.03,
+        "INTJ": 0,
+        "PART": 0.091,
+        "DET": 0.03,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 1,
+        "abstract": 1,
+        "ratio": 0.5
+      },
+      "verbTenses": {
+        "present": 6,
+        "future": 1
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 1,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 1,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 0,
+        "opisowe": 5
+      },
+      "adverbs": {
+        "temporalne": [],
+        "modalne": [],
+        "sposobu": [],
+        "top": []
+      },
+      "pronouns": {
+        "ja": 0,
+        "ty": 0,
+        "on_ona": 0,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 3,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 3,
+        "percentSentences": 1
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 74,
+        "consonants": 111,
+        "ratio": 0.67
+      },
+      "consonantClusters": {
+        "count": 1,
+        "top": [
+          {
+            "cluster": "prz",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 5,
+        "syczace": 22,
+        "nosowe": 29,
+        "plynne": 10
+      },
+      "rhymes": {
+        "exact": 0,
+        "approximate": 0,
+        "internal": 4,
+        "assonance": 0,
+        "alliteration": 0
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 11,
+        "median": 16,
+        "min": 0,
+        "max": 17,
+        "distribution": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 7.3,
+        "meanSyllables": 15,
+        "distribution": [
+          0,
+          0,
+          0,
+          0,
+          3,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 3,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 1,
+        "noSubject": 0,
+        "noPredicate": 0,
+        "percent": 0.33
+      },
+      "enjambement": {
+        "count": 4,
+        "percent": 0.8,
+        "positions": [
+          2,
+          3,
+          4,
+          5
+        ]
+      },
+      "wordOrder": {
+        "svo": 0,
+        "inversions": 1,
+        "other": 1,
+        "deviationPercent": 1
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 0,
+        "śmierć": 0,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 90,
+      "estimatedSeconds": 30,
+      "tempoCategory": "umiarkowane"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 6,
+      "VERB": 7,
+      "ADJ": 5,
+      "ADV": 0,
+      "PRON": 1,
+      "ADP": 5,
+      "CCONJ": 0,
+      "SCONJ": 1,
+      "INTJ": 0,
+      "PART": 3,
+      "DET": 1,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.182,
+      "VERB": 0.212,
+      "ADJ": 0.152,
+      "ADV": 0,
+      "PRON": 0.03,
+      "ADP": 0.152,
+      "CCONJ": 0,
+      "SCONJ": 0.03,
+      "INTJ": 0,
+      "PART": 0.091,
+      "DET": 0.03,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 1,
+      "abstract": 1,
+      "ratio": 0.5
+    },
+    "verbTenses": {
+      "present": 6,
+      "future": 1
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 1,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 1,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 0,
+      "opisowe": 5
+    },
+    "adverbs": {
+      "temporalne": [],
+      "modalne": [],
+      "sposobu": [],
+      "top": []
+    },
+    "pronouns": {
+      "ja": 0,
+      "ty": 0,
+      "on_ona": 0,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 3,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 3,
+      "percentSentences": 1
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 11,
+      "median": 16,
+      "min": 0,
+      "max": 17,
+      "distribution": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 7.3,
+      "meanSyllables": 15,
+      "distribution": [
+        0,
+        0,
+        0,
+        0,
+        3,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 3,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 1,
+      "noSubject": 0,
+      "noPredicate": 0,
+      "percent": 0.33
+    },
+    "enjambement": {
+      "count": 4,
+      "percent": 0.8,
+      "positions": [
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    "wordOrder": {
+      "svo": 0,
+      "inversions": 1,
+      "other": 1,
+      "deviationPercent": 1
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 74,
+      "consonants": 111,
+      "ratio": 0.67
+    },
+    "consonantClusters": {
+      "count": 1,
+      "top": [
+        {
+          "cluster": "prz",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 5,
+      "syczace": 22,
+      "nosowe": 29,
+      "plynne": 10
+    },
+    "rhymes": {
+      "exact": 0,
+      "approximate": 0,
+      "internal": 4,
+      "assonance": 0,
+      "alliteration": 0
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        6
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 90,
+      "estimatedSeconds": 30,
+      "tempoCategory": "umiarkowane"
+    },
+    "regularity": {
+      "type": "wolny",
+      "regularityScore": 0.01
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Różewicz",
+          "reference": "poetyka negacji i redukcji",
+          "evidence": "konstrukcja 'nie widując', 'nie rozumiejąc', 'nie licząc' - typowa dla Różewicza"
+        },
+        {
+          "source": "Biblia",
+          "reference": "motyw muru do przebicia",
+          "evidence": "symbolika muru jako bariery duchowej, nawiązanie do murów Jerycha"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.2,
+        "baudelaire": 0.1,
+        "bursa": 0.8,
+        "stachura": 0.6,
+        "grochowiak": 0.7,
+        "bialoszewski": 0.3,
+        "rozewicz": 0.9
+      }
+    },
+    "space": {
+      "type": "zamknieta",
+      "evidence": "motyw muru jako granicy i więzienia, przestrzeń ograniczona",
+      "openClosedRatio": 0.1
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "nieokreslona",
+      "evidence": "brak konkretnych wskaźników temporalnych, czas psychologiczny"
+    },
+    "motion": {
+      "movement": 2,
+      "stillness": 8,
+      "dynamism": 0.2,
+      "evidence": "statyczne czasowniki 'żyję', 'mówię', 'czekam' - bezruch egzystencjalny"
+    },
+    "imageryDensity": {
+      "metaphors": 1,
+      "comparisons": 0,
+      "personifications": 0,
+      "hyperboles": 0,
+      "per100words": 4.2
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.9,
+      "creationLevel": 0.1,
+      "ironicDistance": 0.1,
+      "autobiographicSignals": [
+        "forma pierwszoosobowa",
+        "egzystencjalna szczerość",
+        "tytuł sugerujący osobiste doświadczenie"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "rezygnacja",
+      "secondary": "tęsknota",
+      "intensity": 0.8
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "wyraźne użycie pierwszej osoby: 'żyję', 'mówię', 'czekam'"
+    },
+    "addressee": {
+      "type": "nikt",
+      "evidence": "monolog wewnętrzny bez bezpośredniego adresata, podmiot mówi o sobie"
+    },
+    "metaphors": [
+      {
+        "source": "mur",
+        "target": "izolacja egzystencjalna",
+        "example": "aż ktoś przebije ten mur"
+      },
+      {
+        "source": "życie bez widzenia gwiazd",
+        "target": "utrata marzeń/transcendencji",
+        "example": "żyję nie widując gwiazd"
+      }
+    ],
+    "temperature": {
+      "value": 0.2,
+      "label": "zimne - dominuje rezygnacja i bierność"
+    },
+    "senses": {
+      "wzrok": 4,
+      "sluch": 2,
+      "dotyk": 1,
+      "smak": 0,
+      "zapach": 0
+    },
+    "autodestruction": {
+      "level": 0.6,
+      "signals": [
+        "życie w oderwaniu od rzeczywistości",
+        "rezygnacja z komunikacji",
+        "bierność i oczekiwanie na ratunek z zewnątrz",
+        "tytuł sugerujący śmierć"
+      ]
+    }
+  }
+}

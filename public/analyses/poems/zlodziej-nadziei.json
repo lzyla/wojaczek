@@ -1,0 +1,927 @@
+{
+  "id": "zlodziej-nadziei",
+  "title": "złodziej nadziei",
+  "wordCount": 57,
+  "lineCount": 13,
+  "uniqueWords": 54,
+  "vocabularyRichness": 0.947,
+  "avgWordsPerLine": 4.38,
+  "wordsPerLineDistribution": [
+    3,
+    4,
+    4,
+    5,
+    6,
+    7,
+    4,
+    4,
+    3,
+    3,
+    6,
+    5,
+    3
+  ],
+  "wordFrequencies": [
+    [
+      "złodziej",
+      1
+    ],
+    [
+      "nadziei",
+      1
+    ],
+    [
+      "ponury",
+      1
+    ],
+    [
+      "świt",
+      1
+    ],
+    [
+      "papierosa",
+      1
+    ],
+    [
+      "zatlił",
+      1
+    ],
+    [
+      "słońce",
+      1
+    ],
+    [
+      "wetknął",
+      1
+    ],
+    [
+      "chmur",
+      1
+    ],
+    [
+      "wargi",
+      1
+    ],
+    [
+      "bym",
+      1
+    ],
+    [
+      "zgodziła",
+      1
+    ],
+    [
+      "drwi",
+      1
+    ],
+    [
+      "krwi",
+      1
+    ],
+    [
+      "darmo",
+      1
+    ],
+    [
+      "leżącej",
+      1
+    ],
+    [
+      "wznak",
+      1
+    ],
+    [
+      "smutnej",
+      1
+    ],
+    [
+      "niczym",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 4,
+    "period": 0,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 2,
+    "semicolon": 1
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 1,
+  "negationWords": [
+    "nie"
+  ],
+  "pronounDistribution": {
+    "ja": 0,
+    "ty": 0,
+    "on_ona": 1,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 1,
+    "smierc": 0,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 1,
+    "bol": 0
+  },
+  "anaphors": [],
+  "firstWord": "złodziej",
+  "lastWord": "wór",
+  "avgWordLength": 5.32,
+  "wordLengthDistribution": {
+    "1-3": 16,
+    "8-9": 8,
+    "6-7": 13,
+    "4-5": 16,
+    "10+": 4
+  },
+  "bigrams": [
+    [
+      "złodziej nadziei",
+      1
+    ],
+    [
+      "nadziei ponury",
+      1
+    ],
+    [
+      "ponury świt",
+      1
+    ],
+    [
+      "świt papierosa",
+      1
+    ],
+    [
+      "papierosa gdyby",
+      1
+    ],
+    [
+      "gdyby chociaż",
+      1
+    ],
+    [
+      "chociaż zatlił",
+      1
+    ],
+    [
+      "zatlił słońce",
+      1
+    ],
+    [
+      "słońce wetknął",
+      1
+    ],
+    [
+      "chmur wargi",
+      1
+    ]
+  ],
+  "poemWords": [
+    "złodziej",
+    "nadziei",
+    "ponury",
+    "świt",
+    "papierosa",
+    "zatlił",
+    "słońce",
+    "wetknął",
+    "między",
+    "chmur",
+    "wargi",
+    "bym",
+    "zgodziła",
+    "drwi",
+    "krwi",
+    "darmo",
+    "leżącej",
+    "wznak",
+    "smutnej",
+    "niczym",
+    "wczesnoranny",
+    "asfalt",
+    "zakazanej",
+    "szosy",
+    "tafla",
+    "chronionego",
+    "akwenu",
+    "odstawiony",
+    "bilardowy",
+    "stół",
+    "robi",
+    "sprzeciwu",
+    "przynosi",
+    "przepełniony",
+    "rozpaczy",
+    "wór"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 18,
+        "VERB": 5,
+        "ADJ": 9,
+        "ADV": 1,
+        "PRON": 5,
+        "ADP": 5,
+        "CCONJ": 3,
+        "SCONJ": 4,
+        "INTJ": 0,
+        "PART": 2,
+        "DET": 0,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.333,
+        "VERB": 0.093,
+        "ADJ": 0.167,
+        "ADV": 0.019,
+        "PRON": 0.093,
+        "ADP": 0.093,
+        "CCONJ": 0.056,
+        "SCONJ": 0.074,
+        "INTJ": 0,
+        "PART": 0.037,
+        "DET": 0,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 3,
+        "abstract": 2,
+        "ratio": 0.6
+      },
+      "verbTenses": {
+        "past": 2,
+        "present": 3
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 0,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 1,
+        "opisowe": 8
+      },
+      "adverbs": {
+        "temporalne": [],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "darmo",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 0,
+        "ty": 0,
+        "on_ona": 1,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 1,
+        "nic": 1,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 2,
+        "percentSentences": 1
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 120,
+        "consonants": 180,
+        "ratio": 0.67
+      },
+      "consonantClusters": {
+        "count": 11,
+        "top": [
+          {
+            "cluster": "prz",
+            "count": 2
+          },
+          {
+            "cluster": "tkn",
+            "count": 1
+          },
+          {
+            "cluster": "chm",
+            "count": 1
+          },
+          {
+            "cluster": "drw",
+            "count": 1
+          },
+          {
+            "cluster": "krw",
+            "count": 1
+          },
+          {
+            "cluster": "wzn",
+            "count": 1
+          },
+          {
+            "cluster": "wcz",
+            "count": 1
+          },
+          {
+            "cluster": "chr",
+            "count": 1
+          },
+          {
+            "cluster": "dst",
+            "count": 1
+          },
+          {
+            "cluster": "sprz",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 11,
+        "syczace": 31,
+        "nosowe": 35,
+        "plynne": 30
+      },
+      "rhymes": {
+        "exact": 0,
+        "approximate": 1,
+        "internal": 0,
+        "assonance": 0,
+        "alliteration": 0
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 27,
+        "median": 27,
+        "min": 0,
+        "max": 54,
+        "distribution": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 4.4,
+        "meanSyllables": 9.5,
+        "distribution": [
+          0,
+          0,
+          0,
+          4,
+          4,
+          2,
+          2,
+          1
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 2,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 0,
+        "noSubject": 0,
+        "noPredicate": 0,
+        "percent": 0
+      },
+      "enjambement": {
+        "count": 8,
+        "percent": 0.67,
+        "positions": [
+          1,
+          2,
+          5,
+          7,
+          8,
+          9,
+          11,
+          12
+        ]
+      },
+      "wordOrder": {
+        "svo": 1,
+        "inversions": 0,
+        "other": 0,
+        "deviationPercent": 0
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 1,
+        "śmierć": 0,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 124,
+      "estimatedSeconds": 41,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 18,
+      "VERB": 5,
+      "ADJ": 9,
+      "ADV": 1,
+      "PRON": 5,
+      "ADP": 5,
+      "CCONJ": 3,
+      "SCONJ": 4,
+      "INTJ": 0,
+      "PART": 2,
+      "DET": 0,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.333,
+      "VERB": 0.093,
+      "ADJ": 0.167,
+      "ADV": 0.019,
+      "PRON": 0.093,
+      "ADP": 0.093,
+      "CCONJ": 0.056,
+      "SCONJ": 0.074,
+      "INTJ": 0,
+      "PART": 0.037,
+      "DET": 0,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 3,
+      "abstract": 2,
+      "ratio": 0.6
+    },
+    "verbTenses": {
+      "past": 2,
+      "present": 3
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 0,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 1,
+      "opisowe": 8
+    },
+    "adverbs": {
+      "temporalne": [],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "darmo",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 0,
+      "ty": 0,
+      "on_ona": 1,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 1,
+      "nic": 1,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 2,
+      "percentSentences": 1
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 27,
+      "median": 27,
+      "min": 0,
+      "max": 54,
+      "distribution": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 4.4,
+      "meanSyllables": 9.5,
+      "distribution": [
+        0,
+        0,
+        0,
+        4,
+        4,
+        2,
+        2,
+        1
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 2,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 0,
+      "noSubject": 0,
+      "noPredicate": 0,
+      "percent": 0
+    },
+    "enjambement": {
+      "count": 8,
+      "percent": 0.67,
+      "positions": [
+        1,
+        2,
+        5,
+        7,
+        8,
+        9,
+        11,
+        12
+      ]
+    },
+    "wordOrder": {
+      "svo": 1,
+      "inversions": 0,
+      "other": 0,
+      "deviationPercent": 0
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 120,
+      "consonants": 180,
+      "ratio": 0.67
+    },
+    "consonantClusters": {
+      "count": 11,
+      "top": [
+        {
+          "cluster": "prz",
+          "count": 2
+        },
+        {
+          "cluster": "tkn",
+          "count": 1
+        },
+        {
+          "cluster": "chm",
+          "count": 1
+        },
+        {
+          "cluster": "drw",
+          "count": 1
+        },
+        {
+          "cluster": "krw",
+          "count": 1
+        },
+        {
+          "cluster": "wzn",
+          "count": 1
+        },
+        {
+          "cluster": "wcz",
+          "count": 1
+        },
+        {
+          "cluster": "chr",
+          "count": 1
+        },
+        {
+          "cluster": "dst",
+          "count": 1
+        },
+        {
+          "cluster": "sprz",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 11,
+      "syczace": 31,
+      "nosowe": 35,
+      "plynne": 30
+    },
+    "rhymes": {
+      "exact": 0,
+      "approximate": 1,
+      "internal": 0,
+      "assonance": 0,
+      "alliteration": 0
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        13
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 124,
+      "estimatedSeconds": 41,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "regularny",
+      "regularityScore": 0.77
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Baudelaire",
+          "reference": "spleen i melancholia poranka",
+          "evidence": "ponury świt, smutnej niczym wczesnoranny asfalt"
+        },
+        {
+          "source": "Rimbaud",
+          "reference": "synestezyjne obrazowanie",
+          "evidence": "słońce wetknął między chmur wargi"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.7,
+        "baudelaire": 0.8,
+        "bursa": 0.3,
+        "stachura": 0.4,
+        "grochowiak": 0.2,
+        "bialoszewski": 0.1,
+        "rozewicz": 0.3
+      }
+    },
+    "space": {
+      "type": "otwarta",
+      "evidence": "świt, asfalt, zakażana szosa, chroniony akwen - przestrzeń zewnętrzna, pejzażowa",
+      "openClosedRatio": 0.8
+    },
+    "timeOfDay": {
+      "period": "rano",
+      "season": "nieokreslona",
+      "evidence": "ponury świt, wczesnoranny asfalt"
+    },
+    "motion": {
+      "movement": 4,
+      "stillness": 6,
+      "dynamism": 0.4,
+      "evidence": "statyczne obrazy: krew na wznak, odstawiony bilardowy stół, ale dynamika w 'wetknął', 'przynosi'"
+    },
+    "imageryDensity": {
+      "metaphors": 6,
+      "comparisons": 3,
+      "personifications": 2,
+      "hyperboles": 1,
+      "per100words": 20
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.8,
+      "creationLevel": 0.6,
+      "ironicDistance": 0.3,
+      "autobiographicSignals": [
+        "bym zgodziła się",
+        "ze sprzeciwu",
+        "przepełniony rozpaczy wór"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "melancholia",
+      "secondary": "rezygnacja",
+      "intensity": 0.8
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "to bym zgodziła się"
+    },
+    "addressee": {
+      "type": "nikt",
+      "evidence": "podmiot mówi o świcie/słońcu w trzeciej osobie, nie zwraca się bezpośrednio do nikogo"
+    },
+    "metaphors": [
+      {
+        "source": "świt",
+        "target": "złodziej nadziei",
+        "example": "złodziej nadziei, ponury świt"
+      },
+      {
+        "source": "słońce",
+        "target": "papieros",
+        "example": "słońce wetknął między chmur wargi"
+      },
+      {
+        "source": "krew",
+        "target": "asfalt",
+        "example": "smutnej niczym wczesnoranny asfalt"
+      },
+      {
+        "source": "rozpacz",
+        "target": "worek",
+        "example": "przepełniony rozpaczy wór"
+      }
+    ],
+    "temperature": {
+      "value": 0.2,
+      "label": "zimne, melancholijne poddanie się"
+    },
+    "senses": {
+      "wzrok": 5,
+      "sluch": 0,
+      "dotyk": 2,
+      "smak": 1,
+      "zapach": 1
+    },
+    "autodestruction": {
+      "level": 0.6,
+      "signals": [
+        "krew na darmo leżąca na wznak",
+        "zgodziłabym się niech drwi",
+        "przepełniony rozpaczy wór"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 0.801,
+    "dfaAlpha": 4.182,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -1.7328679513998633
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -0.5297448533586938
+      }
+    ],
+    "seriesLength": 13,
+    "series": [
+      3,
+      4,
+      4,
+      5,
+      6,
+      7,
+      4,
+      4,
+      3,
+      3,
+      6,
+      5,
+      3
+    ]
+  }
+}

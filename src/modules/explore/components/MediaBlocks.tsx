@@ -1,12 +1,25 @@
 /// <reference types="vite/client" />
 import { useState, useRef, useEffect } from 'react';
 import { motion } from 'motion/react';
-import mapboxgl from 'mapbox-gl';
-import 'mapbox-gl/dist/mapbox-gl.css';
+import L from 'leaflet';
+import 'leaflet/dist/leaflet.css';
 import { Play, Pause } from 'lucide-react';
 import type { MediaBlock } from '../../../types';
 
-const MAPBOX_TOKEN = import.meta.env.VITE_MAPBOX_TOKEN || '';
+const getTileLayer = () => {
+  return L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
+    attribution: '',
+    subdomains: 'abcd',
+    maxZoom: 19,
+  });
+};
+
+const mapMarkerIcon = L.divIcon({
+  className: '',
+  iconSize: [14, 14],
+  iconAnchor: [7, 7],
+  html: '<div style="width:14px;height:14px;background:#c23030;border-radius:50%;border:2px solid white;box-shadow:0 2px 6px rgba(0,0,0,0.4);"></div>',
+});
 
 const TextBlock = ({ content }: { content: string }) => (
   <div className="py-2">
@@ -83,38 +96,29 @@ const VideoBlock = ({ url }: { url: string }) => (
 
 const MapBlock = ({ lat, lng, zoom }: { lat: number; lng: number; zoom?: number }) => {
   const container = useRef<HTMLDivElement>(null);
-  const map = useRef<mapboxgl.Map | null>(null);
+  const mapRef = useRef<L.Map | null>(null);
 
   useEffect(() => {
-    if (!container.current || !MAPBOX_TOKEN) return;
-    mapboxgl.accessToken = MAPBOX_TOKEN;
+    if (!container.current) return;
 
-    map.current = new mapboxgl.Map({
-      container: container.current,
-      style: 'mapbox://styles/mapbox/light-v11',
-      logoPosition: 'top-left' as const,
-      center: [lng, lat],
-      zoom: zoom || 17,
-      pitch: 45,
-      interactive: false,
+    const map = L.map(container.current, {
       attributionControl: false,
+      zoomControl: false,
+      dragging: false,
+      scrollWheelZoom: false,
+      doubleClickZoom: false,
+      touchZoom: false,
+      boxZoom: false,
+      keyboard: false,
     });
+    mapRef.current = map;
 
-    map.current.on('load', () => {
-      map.current?.setFog({
-        color: 'rgb(186, 195, 210)',
-        'high-color': 'rgb(36, 50, 75)',
-        'horizon-blend': 0.06,
-        'space-color': 'rgb(15, 20, 35)',
-        'star-intensity': 0.3,
-      });
-    });
+    map.setView([lat, lng], zoom || 17);
+    getTileLayer().addTo(map);
 
-    const el = document.createElement('div');
-    el.style.cssText = 'width:14px;height:14px;background:#c23030;border-radius:50%;border:2px solid white;box-shadow:0 2px 6px rgba(0,0,0,0.4)';
-    new mapboxgl.Marker(el).setLngLat([lng, lat]).addTo(map.current);
+    L.marker([lat, lng], { icon: mapMarkerIcon }).addTo(map);
 
-    return () => { map.current?.remove(); };
+    return () => { map.remove(); };
   }, [lat, lng, zoom]);
 
   return <div ref={container} className="h-64 w-full rounded-xl overflow-hidden" />;

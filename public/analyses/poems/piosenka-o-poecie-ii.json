@@ -1,0 +1,771 @@
+{
+  "id": "piosenka-o-poecie-ii",
+  "title": "Piosenka o poecie II",
+  "wordCount": 46,
+  "lineCount": 15,
+  "uniqueWords": 29,
+  "vocabularyRichness": 0.63,
+  "avgWordsPerLine": 3.07,
+  "wordsPerLineDistribution": [
+    4,
+    2,
+    4,
+    2,
+    4,
+    2,
+    4,
+    2,
+    4,
+    2,
+    4,
+    4,
+    4,
+    2,
+    2
+  ],
+  "wordFrequencies": [
+    [
+      "poeta",
+      7
+    ],
+    [
+      "pisze",
+      6
+    ],
+    [
+      "wódka",
+      3
+    ],
+    [
+      "wódki",
+      3
+    ],
+    [
+      "mała",
+      2
+    ],
+    [
+      "ojczyźnie",
+      1
+    ],
+    [
+      "kobiecie",
+      1
+    ],
+    [
+      "czysta",
+      1
+    ],
+    [
+      "sztukę",
+      1
+    ],
+    [
+      "robi",
+      1
+    ],
+    [
+      "rano",
+      1
+    ],
+    [
+      "ile",
+      1
+    ],
+    [
+      "południu",
+      1
+    ],
+    [
+      "dużo",
+      1
+    ],
+    [
+      "wieczór",
+      1
+    ],
+    [
+      "noc",
+      1
+    ],
+    [
+      "hektar",
+      1
+    ],
+    [
+      "mówi",
+      1
+    ],
+    [
+      "antochewicz",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 0,
+    "period": 2,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 0,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 0,
+  "negationWords": [],
+  "pronounDistribution": {
+    "ja": 0,
+    "ty": 0,
+    "on_ona": 0,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 0,
+    "smierc": 0,
+    "erotyka": 0,
+    "alkohol": 3,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 2,
+    "bol": 0
+  },
+  "anaphors": [
+    [
+      "poeta",
+      7
+    ],
+    [
+      "mała",
+      2
+    ]
+  ],
+  "firstWord": "poeta",
+  "lastWord": "słów",
+  "avgWordLength": 4.8,
+  "wordLengthDistribution": {
+    "4-5": 28,
+    "1-3": 8,
+    "8-9": 3,
+    "6-7": 6,
+    "10+": 1
+  },
+  "bigrams": [
+    [
+      "poeta pisze",
+      6
+    ],
+    [
+      "mała wódka",
+      2
+    ],
+    [
+      "wódka poeta",
+      2
+    ],
+    [
+      "wódki poeta",
+      2
+    ],
+    [
+      "ojczyźnie mała",
+      1
+    ],
+    [
+      "kobiecie mała",
+      1
+    ],
+    [
+      "pisze czysta",
+      1
+    ],
+    [
+      "czysta wódka",
+      1
+    ],
+    [
+      "wódka sztukę",
+      1
+    ],
+    [
+      "sztukę robi",
+      1
+    ],
+    [
+      "robi poeta",
+      1
+    ],
+    [
+      "pisze całe",
+      1
+    ]
+  ],
+  "poemWords": [
+    "poeta",
+    "pisze",
+    "ojczyźnie",
+    "mała",
+    "wódka",
+    "kobiecie",
+    "czysta",
+    "sztukę",
+    "robi",
+    "rano",
+    "ile",
+    "wódki",
+    "południu",
+    "dużo",
+    "wieczór",
+    "noc",
+    "hektar",
+    "mówi",
+    "antochewicz",
+    "kapitan",
+    "pije",
+    "szkoda",
+    "słów"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 23,
+        "VERB": 10,
+        "ADJ": 5,
+        "ADV": 1,
+        "PRON": 0,
+        "ADP": 4,
+        "CCONJ": 0,
+        "SCONJ": 1,
+        "INTJ": 0,
+        "PART": 0,
+        "DET": 2,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.46,
+        "VERB": 0.2,
+        "ADJ": 0.1,
+        "ADV": 0.02,
+        "PRON": 0,
+        "ADP": 0.08,
+        "CCONJ": 0,
+        "SCONJ": 0.02,
+        "INTJ": 0,
+        "PART": 0,
+        "DET": 0.04,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 6,
+        "abstract": 0,
+        "ratio": 1
+      },
+      "verbTenses": {
+        "present": 10
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 0,
+        "destrukcja": 0,
+        "tworzenie": 6,
+        "komunikacja": 1,
+        "cialo": 1
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 0,
+        "opisowe": 5
+      },
+      "adverbs": {
+        "temporalne": [],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "rano",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 0,
+        "ty": 0,
+        "on_ona": 0,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 0,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 0,
+        "percentSentences": 0
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 112,
+        "consonants": 126,
+        "ratio": 0.89
+      },
+      "consonantClusters": {
+        "count": 3,
+        "top": [
+          {
+            "cluster": "jcz",
+            "count": 1
+          },
+          {
+            "cluster": "szt",
+            "count": 1
+          },
+          {
+            "cluster": "szk",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 13,
+        "syczace": 9,
+        "nosowe": 12,
+        "plynne": 10
+      },
+      "rhymes": {
+        "exact": 4,
+        "approximate": 1,
+        "internal": 0,
+        "assonance": 1,
+        "alliteration": 1
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 12.5,
+        "median": 12,
+        "min": 10,
+        "max": 16,
+        "distribution": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          2,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 3.1,
+        "meanSyllables": 7.1,
+        "distribution": [
+          0,
+          0,
+          7,
+          0,
+          9
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 4,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 0,
+        "noSubject": 0,
+        "noPredicate": 0,
+        "percent": 0
+      },
+      "enjambement": {
+        "count": 1,
+        "percent": 0.07,
+        "positions": [
+          6
+        ]
+      },
+      "wordOrder": {
+        "svo": 4,
+        "inversions": 0,
+        "other": 0,
+        "deviationPercent": 0
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 0,
+        "śmierć": 0,
+        "erotyka": 0,
+        "alkohol": 5,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 2,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 113,
+      "estimatedSeconds": 38,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 23,
+      "VERB": 10,
+      "ADJ": 5,
+      "ADV": 1,
+      "PRON": 0,
+      "ADP": 4,
+      "CCONJ": 0,
+      "SCONJ": 1,
+      "INTJ": 0,
+      "PART": 0,
+      "DET": 2,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.46,
+      "VERB": 0.2,
+      "ADJ": 0.1,
+      "ADV": 0.02,
+      "PRON": 0,
+      "ADP": 0.08,
+      "CCONJ": 0,
+      "SCONJ": 0.02,
+      "INTJ": 0,
+      "PART": 0,
+      "DET": 0.04,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 6,
+      "abstract": 0,
+      "ratio": 1
+    },
+    "verbTenses": {
+      "present": 10
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 0,
+      "destrukcja": 0,
+      "tworzenie": 6,
+      "komunikacja": 1,
+      "cialo": 1
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 0,
+      "opisowe": 5
+    },
+    "adverbs": {
+      "temporalne": [],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "rano",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 0,
+      "ty": 0,
+      "on_ona": 0,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 0,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 0,
+      "percentSentences": 0
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 12.5,
+      "median": 12,
+      "min": 10,
+      "max": 16,
+      "distribution": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        0,
+        0,
+        0,
+        1,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 3.1,
+      "meanSyllables": 7.1,
+      "distribution": [
+        0,
+        0,
+        7,
+        0,
+        9
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 4,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 0,
+      "noSubject": 0,
+      "noPredicate": 0,
+      "percent": 0
+    },
+    "enjambement": {
+      "count": 1,
+      "percent": 0.07,
+      "positions": [
+        6
+      ]
+    },
+    "wordOrder": {
+      "svo": 4,
+      "inversions": 0,
+      "other": 0,
+      "deviationPercent": 0
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 112,
+      "consonants": 126,
+      "ratio": 0.89
+    },
+    "consonantClusters": {
+      "count": 3,
+      "top": [
+        {
+          "cluster": "jcz",
+          "count": 1
+        },
+        {
+          "cluster": "szt",
+          "count": 1
+        },
+        {
+          "cluster": "szk",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 13,
+      "syczace": 9,
+      "nosowe": 12,
+      "plynne": 10
+    },
+    "rhymes": {
+      "exact": 4,
+      "approximate": 1,
+      "internal": 0,
+      "assonance": 1,
+      "alliteration": 1
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        16
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 113,
+      "estimatedSeconds": 38,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "polregularny",
+      "regularityScore": 0.58
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "inne",
+          "reference": "B. Antochewicz kapitan MO",
+          "evidence": "bezpośrednie przywołanie postaci kapitana MO z jego charakterystycznym określeniem 'hektar wódki'"
+        }
+      ],
+      "selfQuotes": [
+        "PIOSENKA O POECIE II - nawiązanie do własnego cyklu"
+      ],
+      "influences": {
+        "rimbaud": 0.3,
+        "baudelaire": 0.4,
+        "bursa": 0.6,
+        "stachura": 0.8,
+        "grochowiak": 0.7,
+        "bialoszewski": 0.6,
+        "rozewicz": 0.5
+      }
+    },
+    "space": {
+      "type": "nieokreslona",
+      "evidence": "brak konkretnych wskazań przestrzennych, wiersz skupia się na czynności pisania",
+      "openClosedRatio": 0.3
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "nieokreslona",
+      "evidence": "wymienione są wszystkie pory dnia: 'całe rano', 'po południu', 'wieczór noc' - poeta pisze przez całą dobę"
+    },
+    "motion": {
+      "movement": 2,
+      "stillness": 8,
+      "dynamism": 0.2,
+      "evidence": "dominuje statyczność czynności pisania i picia, jedynym ruchem jest pisanie"
+    },
+    "imageryDensity": {
+      "metaphors": 1,
+      "comparisons": 1,
+      "personifications": 0,
+      "hyperboles": 2,
+      "per100words": 7.7
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.9,
+      "creationLevel": 0.3,
+      "ironicDistance": 0.6,
+      "autobiographicSignals": [
+        "bezpośrednie odwołanie do sytuacji poety",
+        "szczerość w opisie alkoholizmu",
+        "autoironia wobec procesu twórczego"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "ironia",
+      "secondary": "rezygnacja",
+      "intensity": 0.8
+    },
+    "subjectPresence": {
+      "type": "ukryte",
+      "evidence": "Poeta mówi o sobie w trzeciej osobie, dystansując się ironicznie od własnej kondycji"
+    },
+    "addressee": {
+      "type": "czytelnik",
+      "evidence": "Wiersz ma charakter ironicznego komunikatu o kondycji poety, skierowanego do odbiorcy"
+    },
+    "metaphors": [
+      {
+        "source": "wódka",
+        "target": "paliwo twórczości",
+        "example": "Poeta pisze (czysta wódka) sztukę robi"
+      },
+      {
+        "source": "hektar wódki",
+        "target": "ogromna ilość alkoholu",
+        "example": "hektar wódki jak mówi B. Antochewicz kapitan MO"
+      }
+    ],
+    "temperature": {
+      "value": 0.3,
+      "label": "chłodna ironia z nutą gorzkiej rezygnacji"
+    },
+    "senses": {
+      "wzrok": 1,
+      "sluch": 2,
+      "dotyk": 0,
+      "smak": 4,
+      "zapach": 2
+    },
+    "autodestruction": {
+      "level": 0.9,
+      "signals": [
+        "progresywne zwiększanie ilości alkoholu",
+        "od małej wódki do hektara",
+        "alkohol jako warunek tworzenia",
+        "końcowa konstatacja 'Poeta pije (szkoda słów)'"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 0.739,
+    "dfaAlpha": 1.414,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -1.2628643221541263
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -0.732477407412776
+      },
+      {
+        "logWin": 1.6094379124341003,
+        "logFluc": -0.5515739089264241
+      }
+    ],
+    "seriesLength": 15,
+    "series": [
+      4,
+      2,
+      4,
+      2,
+      4,
+      2,
+      4,
+      2,
+      4,
+      2,
+      4,
+      4,
+      4,
+      2,
+      2
+    ]
+  }
+}

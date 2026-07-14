@@ -1,0 +1,855 @@
+{
+  "id": "rymy-na-przednowku",
+  "title": "Rymy na przednówku",
+  "wordCount": 56,
+  "lineCount": 11,
+  "uniqueWords": 53,
+  "vocabularyRichness": 0.946,
+  "avgWordsPerLine": 5.09,
+  "wordsPerLineDistribution": [
+    6,
+    6,
+    5,
+    7,
+    6,
+    4,
+    4,
+    5,
+    6,
+    5,
+    2
+  ],
+  "wordFrequencies": [
+    [
+      "świt",
+      1
+    ],
+    [
+      "śmiertelny",
+      1
+    ],
+    [
+      "mówi",
+      1
+    ],
+    [
+      "mózg",
+      1
+    ],
+    [
+      "gwarą",
+      1
+    ],
+    [
+      "poetów",
+      1
+    ],
+    [
+      "bym",
+      1
+    ],
+    [
+      "pojąć",
+      1
+    ],
+    [
+      "mógł",
+      1
+    ],
+    [
+      "matka",
+      1
+    ],
+    [
+      "dawno",
+      1
+    ],
+    [
+      "umarła",
+      1
+    ],
+    [
+      "pisze",
+      1
+    ],
+    [
+      "list",
+      1
+    ],
+    [
+      "światłem",
+      1
+    ],
+    [
+      "krwi",
+      1
+    ],
+    [
+      "śni",
+      1
+    ],
+    [
+      "kochanka",
+      1
+    ],
+    [
+      "skurwiła",
+      1
+    ],
+    [
+      "mąż",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 0,
+    "period": 0,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 0,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 0,
+  "negationWords": [],
+  "pronounDistribution": {
+    "ja": 1,
+    "ty": 0,
+    "on_ona": 1,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 2,
+    "smierc": 1,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 1,
+    "bol": 0
+  },
+  "anaphors": [],
+  "firstWord": "każdy",
+  "lastWord": "marzec",
+  "avgWordLength": 5.21,
+  "wordLengthDistribution": {
+    "4-5": 24,
+    "10+": 2,
+    "6-7": 10,
+    "1-3": 11,
+    "8-9": 9
+  },
+  "bigrams": [
+    [
+      "każdy świt",
+      1
+    ],
+    [
+      "śmiertelny mówi",
+      1
+    ],
+    [
+      "mówi mózg",
+      1
+    ],
+    [
+      "mózg gwarą",
+      1
+    ],
+    [
+      "gwarą poetów",
+      1
+    ],
+    [
+      "poetów bym",
+      1
+    ],
+    [
+      "bym pojąć",
+      1
+    ],
+    [
+      "mógł matka",
+      1
+    ],
+    [
+      "matka dawno",
+      1
+    ],
+    [
+      "dawno umarła",
+      1
+    ],
+    [
+      "umarła pisze",
+      1
+    ]
+  ],
+  "poemWords": [
+    "świt",
+    "śmiertelny",
+    "mówi",
+    "mózg",
+    "gwarą",
+    "poetów",
+    "bym",
+    "pojąć",
+    "mógł",
+    "matka",
+    "dawno",
+    "umarła",
+    "pisze",
+    "list",
+    "światłem",
+    "krwi",
+    "śni",
+    "kochanka",
+    "skurwiła",
+    "mąż",
+    "wyszła",
+    "rzeczowo",
+    "podpowiada",
+    "spermy",
+    "limfa",
+    "ojcowiznę",
+    "obsiedli",
+    "źli",
+    "sąsiedzi",
+    "kalają",
+    "tradycję",
+    "stwierdza",
+    "język",
+    "plącze",
+    "pismo",
+    "zawodzi",
+    "sztuka",
+    "ręka",
+    "porzuca",
+    "pióro",
+    "noża",
+    "szuka",
+    "marzec",
+    "1970"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 21,
+        "VERB": 16,
+        "ADJ": 2,
+        "ADV": 2,
+        "PRON": 4,
+        "ADP": 2,
+        "CCONJ": 2,
+        "SCONJ": 0,
+        "INTJ": 0,
+        "PART": 1,
+        "DET": 3,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.356,
+        "VERB": 0.271,
+        "ADJ": 0.034,
+        "ADV": 0.034,
+        "PRON": 0.068,
+        "ADP": 0.034,
+        "CCONJ": 0.034,
+        "SCONJ": 0,
+        "INTJ": 0,
+        "PART": 0.017,
+        "DET": 0.051,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 3,
+        "abstract": 0,
+        "ratio": 1
+      },
+      "verbTenses": {
+        "present": 10,
+        "infinitive": 1,
+        "past": 5,
+        "future": 1
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 1,
+        "destrukcja": 0,
+        "tworzenie": 1,
+        "komunikacja": 1,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 0,
+        "opisowe": 2
+      },
+      "adverbs": {
+        "temporalne": [
+          "dawno"
+        ],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "dawno",
+            "count": 1
+          },
+          {
+            "word": "rzeczowo",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 0,
+        "ty": 0,
+        "on_ona": 1,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 0,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 0,
+        "percentSentences": 0
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 124,
+        "consonants": 180,
+        "ratio": 0.69
+      },
+      "consonantClusters": {
+        "count": 6,
+        "top": [
+          {
+            "cluster": "prz",
+            "count": 1
+          },
+          {
+            "cluster": "krw",
+            "count": 1
+          },
+          {
+            "cluster": "szł",
+            "count": 1
+          },
+          {
+            "cluster": "stw",
+            "count": 1
+          },
+          {
+            "cluster": "rdz",
+            "count": 1
+          },
+          {
+            "cluster": "szt",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 13,
+        "syczace": 29,
+        "nosowe": 37,
+        "plynne": 28
+      },
+      "rhymes": {
+        "exact": 1,
+        "approximate": 0,
+        "internal": 0,
+        "assonance": 0,
+        "alliteration": 0
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 11.8,
+        "median": 12,
+        "min": 3,
+        "max": 25,
+        "distribution": [
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          2,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 4.9,
+        "meanSyllables": 10.4,
+        "distribution": [
+          0,
+          0,
+          1,
+          1,
+          2,
+          3,
+          4,
+          1
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 5,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 1,
+        "noSubject": 0,
+        "noPredicate": 0,
+        "percent": 0.2
+      },
+      "enjambement": {
+        "count": 3,
+        "percent": 0.27,
+        "positions": [
+          8,
+          9,
+          11
+        ]
+      },
+      "wordOrder": {
+        "svo": 4,
+        "inversions": 0,
+        "other": 1,
+        "deviationPercent": 0.2
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 2,
+        "śmierć": 1,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 125,
+      "estimatedSeconds": 42,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 21,
+      "VERB": 16,
+      "ADJ": 2,
+      "ADV": 2,
+      "PRON": 4,
+      "ADP": 2,
+      "CCONJ": 2,
+      "SCONJ": 0,
+      "INTJ": 0,
+      "PART": 1,
+      "DET": 3,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.356,
+      "VERB": 0.271,
+      "ADJ": 0.034,
+      "ADV": 0.034,
+      "PRON": 0.068,
+      "ADP": 0.034,
+      "CCONJ": 0.034,
+      "SCONJ": 0,
+      "INTJ": 0,
+      "PART": 0.017,
+      "DET": 0.051,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 3,
+      "abstract": 0,
+      "ratio": 1
+    },
+    "verbTenses": {
+      "present": 10,
+      "infinitive": 1,
+      "past": 5,
+      "future": 1
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 1,
+      "destrukcja": 0,
+      "tworzenie": 1,
+      "komunikacja": 1,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 0,
+      "opisowe": 2
+    },
+    "adverbs": {
+      "temporalne": [
+        "dawno"
+      ],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "dawno",
+          "count": 1
+        },
+        {
+          "word": "rzeczowo",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 0,
+      "ty": 0,
+      "on_ona": 1,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 0,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 0,
+      "percentSentences": 0
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 11.8,
+      "median": 12,
+      "min": 3,
+      "max": 25,
+      "distribution": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 4.9,
+      "meanSyllables": 10.4,
+      "distribution": [
+        0,
+        0,
+        1,
+        1,
+        2,
+        3,
+        4,
+        1
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 5,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 1,
+      "noSubject": 0,
+      "noPredicate": 0,
+      "percent": 0.2
+    },
+    "enjambement": {
+      "count": 3,
+      "percent": 0.27,
+      "positions": [
+        8,
+        9,
+        11
+      ]
+    },
+    "wordOrder": {
+      "svo": 4,
+      "inversions": 0,
+      "other": 1,
+      "deviationPercent": 0.2
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 124,
+      "consonants": 180,
+      "ratio": 0.69
+    },
+    "consonantClusters": {
+      "count": 6,
+      "top": [
+        {
+          "cluster": "prz",
+          "count": 1
+        },
+        {
+          "cluster": "krw",
+          "count": 1
+        },
+        {
+          "cluster": "szł",
+          "count": 1
+        },
+        {
+          "cluster": "stw",
+          "count": 1
+        },
+        {
+          "cluster": "rdz",
+          "count": 1
+        },
+        {
+          "cluster": "szt",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 13,
+      "syczace": 29,
+      "nosowe": 37,
+      "plynne": 28
+    },
+    "rhymes": {
+      "exact": 1,
+      "approximate": 0,
+      "internal": 0,
+      "assonance": 0,
+      "alliteration": 0
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        12
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 125,
+      "estimatedSeconds": 42,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "regularny",
+      "regularityScore": 0.72
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Leśmian",
+          "reference": "gwara poetów jako język transcendencji",
+          "evidence": "Gwarą poetów bym pojąć go mógł"
+        },
+        {
+          "source": "Tuwim",
+          "reference": "tradycja poetycka mówiąca o ojcowiźnie",
+          "evidence": "Ojcowiznę obsiedli źli sąsiedzi / I kalają tradycję"
+        },
+        {
+          "source": "Różewicz",
+          "reference": "kryzys sztuki i języka",
+          "evidence": "I plącze się pismo zawodzi sztuka"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.6,
+        "baudelaire": 0.4,
+        "bursa": 0.3,
+        "stachura": 0.7,
+        "grochowiak": 0.5,
+        "bialoszewski": 0.2,
+        "rozewicz": 0.8
+      }
+    },
+    "space": {
+      "type": "nieokreslona",
+      "evidence": "Brak konkretnych wskazań przestrzennych, dominuje przestrzeń wewnętrzna podmiotu",
+      "openClosedRatio": 0.3
+    },
+    "timeOfDay": {
+      "period": "rano",
+      "season": "wiosna",
+      "evidence": "świt w tytule i pierwszym wersie, przednówek wskazuje na okres przedwiosenny"
+    },
+    "motion": {
+      "movement": 4,
+      "stillness": 6,
+      "dynamism": 0.4,
+      "evidence": "Ruch ograniczony do gestów pisania i porzucania pióra, dominuje statyczność refleksji"
+    },
+    "imageryDensity": {
+      "metaphors": 8,
+      "comparisons": 1,
+      "personifications": 4,
+      "hyperboles": 2,
+      "per100words": 25
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.9,
+      "creationLevel": 0.7,
+      "ironicDistance": 0.2,
+      "autobiographicSignals": [
+        "matka umarła",
+        "kochanka wyszła za mąż",
+        "ojcowizna",
+        "ręka porzuca pióro"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "rozpacz",
+      "secondary": "rezygnacja",
+      "intensity": 0.9
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "Podmiot obecny poprzez formy 'bym pojąć go mógł', 'mojej krwi', oraz osobiste doświadczenia matki i kochanki"
+    },
+    "addressee": {
+      "type": "siebie",
+      "evidence": "Podmiot prowadzi wewnętrzny monolog, analizując własną sytuację egzystencjalną"
+    },
+    "metaphors": [
+      {
+        "source": "świt",
+        "target": "życie/nadzieja",
+        "example": "Każdy świt jest śmiertelny"
+      },
+      {
+        "source": "spermy limfa",
+        "target": "życiodajna siła",
+        "example": "Rzeczowo podpowiada spermy limfa"
+      },
+      {
+        "source": "ręka porzuca pióro noża szuka",
+        "target": "rezygnacja z twórczości na rzecz autodestrukcji",
+        "example": "Ręka porzuca pióro noża szuka"
+      }
+    ],
+    "temperature": {
+      "value": 0.2,
+      "label": "zimne-rezygnacja z gorzkością"
+    },
+    "senses": {
+      "wzrok": 4,
+      "sluch": 2,
+      "dotyk": 3,
+      "smak": 1,
+      "zapach": 0
+    },
+    "autodestruction": {
+      "level": 0.9,
+      "signals": [
+        "Ręka porzuca pióro noża szuka",
+        "zawodzi sztuka",
+        "plącze się pismo",
+        "Każdy świt jest śmiertelny"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": null,
+    "dfaAlpha": 0.335,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -1.157503806496301
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -1.0610401085707624
+      }
+    ],
+    "seriesLength": 11,
+    "series": [
+      6,
+      6,
+      5,
+      7,
+      6,
+      4,
+      4,
+      5,
+      6,
+      5,
+      2
+    ]
+  }
+}

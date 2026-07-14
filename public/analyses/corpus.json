@@ -1,0 +1,8045 @@
+{
+  "totalPoems": 310,
+  "totalWords": 28675,
+  "totalLines": 5604,
+  "avgPoemLength": 92.5,
+  "medianPoemLength": 79,
+  "poemLengthDistribution": [
+    {
+      "bucket": "1-20",
+      "count": 13
+    },
+    {
+      "bucket": "21-40",
+      "count": 26
+    },
+    {
+      "bucket": "41-60",
+      "count": 45
+    },
+    {
+      "bucket": "61-80",
+      "count": 77
+    },
+    {
+      "bucket": "81-100",
+      "count": 66
+    },
+    {
+      "bucket": "101-150",
+      "count": 55
+    },
+    {
+      "bucket": "151-200",
+      "count": 12
+    },
+    {
+      "bucket": "201+",
+      "count": 16
+    }
+  ],
+  "globalWordFrequencies": [
+    [
+      "krwi",
+      76
+    ],
+    [
+      "śmierć",
+      75
+    ],
+    [
+      "ciało",
+      74
+    ],
+    [
+      "ciebie",
+      44
+    ],
+    [
+      "krew",
+      42
+    ],
+    [
+      "śmierci",
+      41
+    ],
+    [
+      "zawsze",
+      40
+    ],
+    [
+      "matka",
+      38
+    ],
+    [
+      "snu",
+      36
+    ],
+    [
+      "sen",
+      35
+    ],
+    [
+      "ciała",
+      35
+    ],
+    [
+      "oczy",
+      33
+    ],
+    [
+      "nieba",
+      33
+    ],
+    [
+      "gwiazda",
+      33
+    ],
+    [
+      "kobiety",
+      32
+    ],
+    [
+      "miłość",
+      30
+    ],
+    [
+      "włosy",
+      27
+    ],
+    [
+      "serca",
+      27
+    ],
+    [
+      "głos",
+      27
+    ],
+    [
+      "czemu",
+      26
+    ],
+    [
+      "mózg",
+      26
+    ],
+    [
+      "której",
+      26
+    ],
+    [
+      "nocy",
+      26
+    ],
+    [
+      "naga",
+      25
+    ],
+    [
+      "dłoni",
+      25
+    ],
+    [
+      "dobrze",
+      25
+    ],
+    [
+      "noc",
+      25
+    ],
+    [
+      "wiersz",
+      25
+    ],
+    [
+      "życie",
+      24
+    ],
+    [
+      "nagle",
+      24
+    ],
+    [
+      "mózgu",
+      24
+    ],
+    [
+      "kobieta",
+      23
+    ],
+    [
+      "poeta",
+      23
+    ],
+    [
+      "czasem",
+      23
+    ],
+    [
+      "bym",
+      23
+    ],
+    [
+      "ile",
+      23
+    ],
+    [
+      "słowo",
+      22
+    ],
+    [
+      "śnie",
+      21
+    ],
+    [
+      "słowa",
+      21
+    ],
+    [
+      "ziemi",
+      21
+    ],
+    [
+      "coraz",
+      20
+    ],
+    [
+      "twarz",
+      20
+    ],
+    [
+      "imię",
+      20
+    ],
+    [
+      "ciągle",
+      20
+    ],
+    [
+      "piersi",
+      20
+    ],
+    [
+      "mówi",
+      20
+    ],
+    [
+      "głowę",
+      19
+    ]
+  ],
+  "globalVocabularySize": 9207,
+  "semanticFieldTotals": {
+    "cialo": 477,
+    "smierc": 182,
+    "erotyka": 101,
+    "alkohol": 30,
+    "samotnosc": 71,
+    "sacrum": 44,
+    "noc": 130,
+    "bol": 40
+  },
+  "pronounTotals": {
+    "ja": 636,
+    "ty": 317,
+    "on_ona": 340,
+    "my": 198,
+    "wy": 5,
+    "oni": 66
+  },
+  "negationTotal": 793,
+  "punctuationTotals": {
+    "comma": 1510,
+    "period": 604,
+    "question": 127,
+    "exclamation": 38,
+    "ellipsis": 139,
+    "dash": 345,
+    "colon": 288,
+    "semicolon": 120
+  },
+  "longestPoem": {
+    "id": "prawdziwy-bohater-bawi-sie-sam",
+    "title": "Prawdziwy bohater bawi się sam",
+    "wordCount": 791
+  },
+  "shortestPoem": {
+    "id": "umiem-byc-cisza",
+    "title": "Umiem być ciszą",
+    "wordCount": 5
+  },
+  "mostLexicallyRich": {
+    "id": "hymn",
+    "title": "Hymn",
+    "ratio": 1
+  },
+  "leastLexicallyRich": {
+    "id": "krzyz",
+    "title": "Krzyż",
+    "ratio": 0.408
+  },
+  "poemIndex": [
+    {
+      "id": "66",
+      "title": "66"
+    },
+    {
+      "id": "antyczne",
+      "title": "Antyczne"
+    },
+    {
+      "id": "apokryf-2",
+      "title": "Apokryf"
+    },
+    {
+      "id": "apokryf",
+      "title": "Apokryf"
+    },
+    {
+      "id": "babilon",
+      "title": "Babilon"
+    },
+    {
+      "id": "bajka",
+      "title": "Bajka"
+    },
+    {
+      "id": "bajka-jesienna",
+      "title": "Bajka jesienna"
+    },
+    {
+      "id": "bajka-zimowego-poranka",
+      "title": "Bajka zimowego poranka"
+    },
+    {
+      "id": "ballada-o-gownie",
+      "title": "Ballada o gównie"
+    },
+    {
+      "id": "ballada-o-leku",
+      "title": "Ballada o lęku"
+    },
+    {
+      "id": "ballada-obsceniczna",
+      "title": "Ballada obsceniczna"
+    },
+    {
+      "id": "bar-piekielko",
+      "title": "Bar „Piekiełko”"
+    },
+    {
+      "id": "badz-mi-2",
+      "title": "Bądź mi"
+    },
+    {
+      "id": "badz-mi",
+      "title": "Bądź mi"
+    },
+    {
+      "id": "bez-przecinka",
+      "title": "Bez przecinka"
+    },
+    {
+      "id": "asterisks",
+      "title": "Bez tytułu"
+    },
+    {
+      "id": "bezdomni-musza-zamieszkiwac-swiatlo",
+      "title": "Bezdomni muszą zamieszkiwać światło"
+    },
+    {
+      "id": "biala-roza",
+      "title": "Biała róża"
+    },
+    {
+      "id": "blyskawica",
+      "title": "Błyskawica"
+    },
+    {
+      "id": "bo-smierc-to-jest-wielki-kunktator-poemat-jednej-odwilzy",
+      "title": "Bo śmierć to jest wielki Kunktator. Poemat jednej odwilży"
+    },
+    {
+      "id": "bohater",
+      "title": "Bohater"
+    },
+    {
+      "id": "brulion",
+      "title": "Brulion"
+    },
+    {
+      "id": "byla-potrzeba",
+      "title": "Była potrzeba"
+    },
+    {
+      "id": "byla-wiosna-bylo-lato",
+      "title": "Była wiosna, było lato"
+    },
+    {
+      "id": "bylem-jestem",
+      "title": "Byłem, jestem"
+    },
+    {
+      "id": "celnik",
+      "title": "Celnik"
+    },
+    {
+      "id": "chichot",
+      "title": "Chichot"
+    },
+    {
+      "id": "chodze-i-pytam",
+      "title": "Chodzę i pytam"
+    },
+    {
+      "id": "chwila",
+      "title": "Chwila"
+    },
+    {
+      "id": "chwila-przed-odjazdem",
+      "title": "Chwila przed odjazdem"
+    },
+    {
+      "id": "ciemnosc-ciemnieje",
+      "title": "Ciemność ciemnieje"
+    },
+    {
+      "id": "co-ja-o-rzece-wiem",
+      "title": "co ja o rzece wiem"
+    },
+    {
+      "id": "czarna-roza",
+      "title": "Czarna róża"
+    },
+    {
+      "id": "czemu-nie-ma-tancerki",
+      "title": "Czemu nie ma tancerki"
+    },
+    {
+      "id": "czy-ja-moglam-w-watlych-ustach-uniesc-taka-milosc",
+      "title": "Czy ja mogłam w wątłych ustach unieść taką miłość"
+    },
+    {
+      "id": "czy-spiaca-mozna-zbudzic-grzecznie",
+      "title": "Czy śpiącą można zbudzić grzecznie"
+    },
+    {
+      "id": "czy-to-juz",
+      "title": "Czy to już..."
+    },
+    {
+      "id": "czy-wiersz-moze-nie-byc-kobieta",
+      "title": "Czy wiersz może nie być kobietą"
+    },
+    {
+      "id": "czys-wiedzial",
+      "title": "Czyś wiedział..."
+    },
+    {
+      "id": "dajmy-zyc-kobiecie",
+      "title": "Dajmy żyć kobiecie"
+    },
+    {
+      "id": "dal-sie-nabrac-na-jezyk-ktorego-nie-bylo",
+      "title": "Dał się nabrać na język, którego nie było"
+    },
+    {
+      "id": "damski-klub",
+      "title": "Damski klub"
+    },
+    {
+      "id": "dialog",
+      "title": "Dialog"
+    },
+    {
+      "id": "dla-ciebie-pisze-milosc",
+      "title": "dla ciebie piszę miłość"
+    },
+    {
+      "id": "do-polskiego-poety",
+      "title": "Do polskiego poety"
+    },
+    {
+      "id": "dobranoc",
+      "title": "Dobranoc"
+    },
+    {
+      "id": "dotknac",
+      "title": "Dotknąć..."
+    },
+    {
+      "id": "drzewo-hodowane-w-ciszy",
+      "title": "Drzewo hodowane w ciszy"
+    },
+    {
+      "id": "dwie-strofki-do-mlodego-poety",
+      "title": "Dwie strofki do młodego poety"
+    },
+    {
+      "id": "dwoje",
+      "title": "Dwoje"
+    },
+    {
+      "id": "dwuglos",
+      "title": "Dwugłos"
+    },
+    {
+      "id": "dziewczynka",
+      "title": "Dziewczynka"
+    },
+    {
+      "id": "ekloga-2",
+      "title": "Ekloga"
+    },
+    {
+      "id": "ekloga",
+      "title": "Ekloga"
+    },
+    {
+      "id": "ekloga-ii",
+      "title": "Ekloga II"
+    },
+    {
+      "id": "elegia",
+      "title": "Elegia"
+    },
+    {
+      "id": "elementy",
+      "title": "Elementy"
+    },
+    {
+      "id": "erotyk-wojaczek-rafal",
+      "title": "Erotyk"
+    },
+    {
+      "id": "fotografia",
+      "title": "Fotografia"
+    },
+    {
+      "id": "fuga",
+      "title": "Fuga"
+    },
+    {
+      "id": "gdy-pies-ksiezyca",
+      "title": "Gdy pies księżyca"
+    },
+    {
+      "id": "geneza",
+      "title": "Geneza"
+    },
+    {
+      "id": "glos-kobiecy",
+      "title": "Głos kobiecy"
+    },
+    {
+      "id": "granica",
+      "title": "Granica"
+    },
+    {
+      "id": "groteska-odjazdu",
+      "title": "Groteska odjazdu"
+    },
+    {
+      "id": "gwalt",
+      "title": "Gwałt"
+    },
+    {
+      "id": "gwiazda",
+      "title": "Gwiazda"
+    },
+    {
+      "id": "gwiazda-zasypani",
+      "title": "Gwiazda; zasypani"
+    },
+    {
+      "id": "hoduje-ten-bol",
+      "title": "Hoduję ten ból"
+    },
+    {
+      "id": "hymn",
+      "title": "Hymn"
+    },
+    {
+      "id": "ich-prawem-byla-wlasna-smierc",
+      "title": "Ich prawem była własna śmierć"
+    },
+    {
+      "id": "imie-i-cialo",
+      "title": "Imię i ciało"
+    },
+    {
+      "id": "imperatyw-milosci",
+      "title": "Imperatyw miłości"
+    },
+    {
+      "id": "inicjacja",
+      "title": "Inicjacja"
+    },
+    {
+      "id": "inna-bajka",
+      "title": "Inna bajka"
+    },
+    {
+      "id": "inny-zakon",
+      "title": "Inny zakon"
+    },
+    {
+      "id": "ja-ksiaze-pepi",
+      "title": "Ja: książę Pepi"
+    },
+    {
+      "id": "jak-dowiem-sie-jej-prawdziwego-imienia",
+      "title": "Jak dowiem się jej prawdziwego imienia"
+    },
+    {
+      "id": "jak-ja-teraz-snie",
+      "title": "Jak ja teraz śnię"
+    },
+    {
+      "id": "jaka-bym-ci-chciala-sie-napisac-2",
+      "title": "Jaka bym ci chciała się napisać"
+    },
+    {
+      "id": "jaka-bym-ci-chciala-sie-napisac",
+      "title": "Jaka bym ci chciała się napisać"
+    },
+    {
+      "id": "jej-cialo",
+      "title": "Jej ciało"
+    },
+    {
+      "id": "jest-biel",
+      "title": "Jest biel"
+    },
+    {
+      "id": "jeszcze-jestem-kobieta",
+      "title": "Jeszcze jestem kobietą"
+    },
+    {
+      "id": "jeszcze-polska",
+      "title": "Jeszcze Polska"
+    },
+    {
+      "id": "jeszcze-w-nia-nie-wszedl",
+      "title": "jeszcze w nią nie wszedł"
+    },
+    {
+      "id": "juz-nie-jestem-poeta",
+      "title": "Już nie jestem poetą"
+    },
+    {
+      "id": "juz-wyszla-z-pokoju",
+      "title": "Już wyszła z pokoju"
+    },
+    {
+      "id": "kartka",
+      "title": "Kartka"
+    },
+    {
+      "id": "katalog-2",
+      "title": "Katalog"
+    },
+    {
+      "id": "katalog",
+      "title": "Katalog"
+    },
+    {
+      "id": "kim-jest-ten-co-mi-sie-jawi-w-lustrze",
+      "title": "Kim jest ten, co mi się jawi w lustrze"
+    },
+    {
+      "id": "kim-jest-ten-co-przybywa",
+      "title": "Kim jest ten, co przybywa"
+    },
+    {
+      "id": "klub",
+      "title": "Klub"
+    },
+    {
+      "id": "kobiecosc",
+      "title": "Kobiecość"
+    },
+    {
+      "id": "kobiecosc-iii",
+      "title": "Kobiecość III"
+    },
+    {
+      "id": "kochajmy-sie",
+      "title": "Kochajmy się"
+    },
+    {
+      "id": "kochanka-powieszonego",
+      "title": "Kochanka powieszonego"
+    },
+    {
+      "id": "kochankowie-moi",
+      "title": "Kochankowie moi"
+    },
+    {
+      "id": "koleda",
+      "title": "Kolęda"
+    },
+    {
+      "id": "komentarz-do-pewnej-fotografii",
+      "title": "Komentarz do pewnej fotografii"
+    },
+    {
+      "id": "koniec-piesni",
+      "title": "Koniec pieśni"
+    },
+    {
+      "id": "koniec-poezji",
+      "title": "Koniec poezji"
+    },
+    {
+      "id": "koniec-swiata",
+      "title": "Koniec świata"
+    },
+    {
+      "id": "kropla",
+      "title": "Kropla"
+    },
+    {
+      "id": "krzyz-2",
+      "title": "Krzyż"
+    },
+    {
+      "id": "krzyz",
+      "title": "Krzyż"
+    },
+    {
+      "id": "ktora-zmeczona-spi",
+      "title": "Która zmęczona śpi"
+    },
+    {
+      "id": "kwestie-grudniowe",
+      "title": "Kwestie grudniowe"
+    },
+    {
+      "id": "kwiat-zrywajac-ciebie-biorac",
+      "title": "Kwiat zrywając, ciebie biorąc"
+    },
+    {
+      "id": "lament",
+      "title": "Lament"
+    },
+    {
+      "id": "lament-bohaterow",
+      "title": "Lament bohaterów"
+    },
+    {
+      "id": "latomia",
+      "title": "Latomia"
+    },
+    {
+      "id": "list-do-krolowej-polski",
+      "title": "List do Królowej Polski"
+    },
+    {
+      "id": "list-do-nie-wiadomo-kogo",
+      "title": "List do nie wiadomo kogo"
+    },
+    {
+      "id": "list-do-nieznanego-poety",
+      "title": "List do nieznanego poety"
+    },
+    {
+      "id": "list-spod-celi",
+      "title": "List spod celi"
+    },
+    {
+      "id": "list-spod-celi-ii",
+      "title": "List spod celi II"
+    },
+    {
+      "id": "ludzie-klada-sie-spac",
+      "title": "Ludzie kładą się spać"
+    },
+    {
+      "id": "mapa",
+      "title": "Mapa"
+    },
+    {
+      "id": "marii-krwi-kobyla",
+      "title": "Marii krwi kobyła"
+    },
+    {
+      "id": "marsz-zalobny",
+      "title": "Marsz żałobny"
+    },
+    {
+      "id": "martwy-jezyk",
+      "title": "Martwy język"
+    },
+    {
+      "id": "martwy-sezon",
+      "title": "Martwy sezon"
+    },
+    {
+      "id": "mesjasz",
+      "title": "Mesjasz"
+    },
+    {
+      "id": "mimikra",
+      "title": "Mimikra"
+    },
+    {
+      "id": "mit-2",
+      "title": "Mit"
+    },
+    {
+      "id": "mit",
+      "title": "Mit"
+    },
+    {
+      "id": "mit-o-dawnym-szczesciu",
+      "title": "Mit o dawnym szczęściu"
+    },
+    {
+      "id": "mit-rodzinny",
+      "title": "mit rodzinny"
+    },
+    {
+      "id": "modlitwa-bohaterow",
+      "title": "Modlitwa bohaterów"
+    },
+    {
+      "id": "modlitwa-szarego-czlowieka",
+      "title": "Modlitwa szarego człowieka"
+    },
+    {
+      "id": "moja-piosenka",
+      "title": "MOJA PIOSENKA(A. D. 1969)"
+    },
+    {
+      "id": "moja-piosnka-a-d-1969",
+      "title": "Moja piosnka (A.D. 1969)"
+    },
+    {
+      "id": "moje-cialo",
+      "title": "Moje ciało"
+    },
+    {
+      "id": "mojej-bolesnej",
+      "title": "Mojej bolesnej"
+    },
+    {
+      "id": "moj-pies-bardzo-przyjemny",
+      "title": "Mój pies bardzo przyjemny"
+    },
+    {
+      "id": "moj-slownik-2",
+      "title": "Mój słownik"
+    },
+    {
+      "id": "moj-slownik",
+      "title": "Mój słownik"
+    },
+    {
+      "id": "moj-szerokostopy-mozg",
+      "title": "Mój szerokostopy mózg"
+    },
+    {
+      "id": "mow-a-ja-z-twoich-slow-kolczyki-zrobie",
+      "title": "Mów – a ja z twoich słów kolczyki zrobię"
+    },
+    {
+      "id": "mowie-do-ciebie-cicho",
+      "title": "Mówię do ciebie cicho"
+    },
+    {
+      "id": "musi-byc-ktos-2",
+      "title": "Musi być ktoś"
+    },
+    {
+      "id": "musi-byc-ktos",
+      "title": "Musi być ktoś"
+    },
+    {
+      "id": "musisz-sie-zawsze-rozy-bac",
+      "title": "Musisz się zawsze róży bać"
+    },
+    {
+      "id": "musze-byc-bardzo-skupiony",
+      "title": "Muszę być bardzo skupiony"
+    },
+    {
+      "id": "muzyczne",
+      "title": "Muzyczne"
+    },
+    {
+      "id": "myjaca-sie",
+      "title": "Myjąca się"
+    },
+    {
+      "id": "na-nucie-najwyzszej",
+      "title": "Na nucie najwyższej"
+    },
+    {
+      "id": "na-odwrocie-starego-wiersza",
+      "title": "Na odwrocie starego wiersza"
+    },
+    {
+      "id": "na-pokoj-i-na-wojne",
+      "title": "Na pokój i na wojnę"
+    },
+    {
+      "id": "naga-rano",
+      "title": "Naga rano"
+    },
+    {
+      "id": "nasza-pani",
+      "title": "Nasza pani"
+    },
+    {
+      "id": "nasze-zony",
+      "title": "Nasze żony"
+    },
+    {
+      "id": "nawet-nie-musze-zamykac-oczu",
+      "title": "Nawet nie muszę zamykać oczu"
+    },
+    {
+      "id": "nie-skonczona-krucjata",
+      "title": "Nie skończona krucjata"
+    },
+    {
+      "id": "niebo-na-piersi-kladzie-mi",
+      "title": "Niebo na piersi kładzie mi"
+    },
+    {
+      "id": "niedziela",
+      "title": "Niedziela"
+    },
+    {
+      "id": "nigdy-nie-otwierac-okna",
+      "title": "Nigdy nie otwierać okna"
+    },
+    {
+      "id": "nigdy-zgoda",
+      "title": "Nigdy zgoda"
+    },
+    {
+      "id": "notatki-do-opisu-janusza-stycznia",
+      "title": "Notatki do opisu Janusza Stycznia"
+    },
+    {
+      "id": "notatki-z-celi-smierci",
+      "title": "Notatki z celi śmierci"
+    },
+    {
+      "id": "nowy-sezon",
+      "title": "Nowy sezon"
+    },
+    {
+      "id": "oblok",
+      "title": "Obłok"
+    },
+    {
+      "id": "oddanie",
+      "title": "Oddanie"
+    },
+    {
+      "id": "odjazd",
+      "title": "Odjazd"
+    },
+    {
+      "id": "ogien",
+      "title": "Ogień"
+    },
+    {
+      "id": "ogolniki",
+      "title": "Ogólniki"
+    },
+    {
+      "id": "ojczyzna",
+      "title": "Ojczyzna"
+    },
+    {
+      "id": "okno",
+      "title": "Okno"
+    },
+    {
+      "id": "ona-mowi-ze-ja-milosc-boli",
+      "title": "ONA MÓWI, ŻE JĄ MIŁOŚĆ BOLI"
+    },
+    {
+      "id": "osoby-zwierzat-wspanialych",
+      "title": "Osoby zwierząt wspaniałych"
+    },
+    {
+      "id": "ostatnia",
+      "title": "Ostatnia"
+    },
+    {
+      "id": "ostatnia-modlitwa-bohaterow",
+      "title": "Ostatnia modlitwa bohaterów"
+    },
+    {
+      "id": "ostatnia-noc",
+      "title": "Ostatnia noc"
+    },
+    {
+      "id": "oto-juz-sie-zaczyna",
+      "title": "Oto już się zaczyna"
+    },
+    {
+      "id": "owoc",
+      "title": "Owoc"
+    },
+    {
+      "id": "pewna-sytuacja",
+      "title": "Pewna sytuacja"
+    },
+    {
+      "id": "pewna-wiedza",
+      "title": "Pewna wiedza"
+    },
+    {
+      "id": "pewne-rymy",
+      "title": "Pewne rymy"
+    },
+    {
+      "id": "pewniki",
+      "title": "Pewniki"
+    },
+    {
+      "id": "pierwsza-gwiazda",
+      "title": "Pierwsza gwiazda"
+    },
+    {
+      "id": "pierwszy-dzien-wolnosci",
+      "title": "Pierwszy dzień wolności"
+    },
+    {
+      "id": "pierwszy-znak-na-tej-karcie",
+      "title": "Pierwszy znak na tej karcie"
+    },
+    {
+      "id": "piesn-ostateczna",
+      "title": "Pieśń ostateczna"
+    },
+    {
+      "id": "piesn-smiertelna-bohatera",
+      "title": "Pieśń śmiertelna bohatera"
+    },
+    {
+      "id": "piec-zdan-o-wlosach-2",
+      "title": "Pięć zdań o włosach"
+    },
+    {
+      "id": "piec-zdan-o-wlosach",
+      "title": "Pięć zdań o włosach"
+    },
+    {
+      "id": "piosenka",
+      "title": "Piosenka"
+    },
+    {
+      "id": "piosenka-bohaterow",
+      "title": "Piosenka bohaterów"
+    },
+    {
+      "id": "piosenka-bohaterow-iii",
+      "title": "Piosenka bohaterów III"
+    },
+    {
+      "id": "piosenka-bohaterow-iii-na-dworcu-glownym",
+      "title": "Piosenka bohaterów III (na dworcu głównym)"
+    },
+    {
+      "id": "piosenka-bohaterow-vi",
+      "title": "Piosenka bohaterów VI"
+    },
+    {
+      "id": "piosenka-bohaterow-vii-2",
+      "title": "Piosenka bohaterów VII"
+    },
+    {
+      "id": "piosenka-bohaterow-vii",
+      "title": "Piosenka bohaterów VII"
+    },
+    {
+      "id": "piosenka-bohaterow-viii",
+      "title": "Piosenka bohaterów VIII"
+    },
+    {
+      "id": "piosenka-innej-ulicy",
+      "title": "Piosenka innej ulicy"
+    },
+    {
+      "id": "piosenka-o-poecie",
+      "title": "Piosenka o poecie"
+    },
+    {
+      "id": "piosenka-o-poecie-ii",
+      "title": "Piosenka o poecie II"
+    },
+    {
+      "id": "piosenka-odwrotnej-strony-medalu-2",
+      "title": "Piosenka odwrotnej strony medalu"
+    },
+    {
+      "id": "piosenka-odwrotnej-strony-medalu",
+      "title": "Piosenka odwrotnej strony medalu"
+    },
+    {
+      "id": "piosenka-starego-ksiezyca",
+      "title": "Piosenka starego księżyca"
+    },
+    {
+      "id": "piosenka-uliczna",
+      "title": "Piosenka uliczna"
+    },
+    {
+      "id": "piosenka-z-najwyzszej-wiezy-2",
+      "title": "Piosenka z najwyższej wieży"
+    },
+    {
+      "id": "piosenka-z-najwyzszej-wiezy",
+      "title": "Piosenka z najwyższej wieży"
+    },
+    {
+      "id": "piotrus-wariat",
+      "title": "Piotruś wariat"
+    },
+    {
+      "id": "pisze-wiersz",
+      "title": "Piszę wiersz"
+    },
+    {
+      "id": "po-sezonie",
+      "title": "Po sezonie"
+    },
+    {
+      "id": "pochodnie",
+      "title": "Pochodnie"
+    },
+    {
+      "id": "poczatek-poezji",
+      "title": "Początek poezji"
+    },
+    {
+      "id": "poczatek-wiersza",
+      "title": "Początek wiersza"
+    },
+    {
+      "id": "pod-sciana",
+      "title": "Pod ścianą"
+    },
+    {
+      "id": "podwojna-elegia",
+      "title": "Podwójna elegia"
+    },
+    {
+      "id": "poemat-mojej-melancholii",
+      "title": "Poemat mojej melancholii"
+    },
+    {
+      "id": "poemat-o-domu-wielce-smutnym",
+      "title": "Poemat o domu wielce smutnym"
+    },
+    {
+      "id": "poeta-mowi-jakze-ironicznie",
+      "title": "Poeta mówi jakże ironicznie"
+    },
+    {
+      "id": "powieszony",
+      "title": "Powieszony"
+    },
+    {
+      "id": "powiesc-nocy-zimowej",
+      "title": "Powieść nocy zimowej"
+    },
+    {
+      "id": "prawdziwe-zycie-bohatera",
+      "title": "Prawdziwe życie bohatera"
+    },
+    {
+      "id": "prawdziwy-bohater-bawi-sie-sam",
+      "title": "Prawdziwy bohater bawi się sam"
+    },
+    {
+      "id": "prolegomena-do-innej-bajki",
+      "title": "Prolegomena do innej bajki"
+    },
+    {
+      "id": "prolegomena-do-sztuki-wyzwolonej",
+      "title": "Prolegomena do sztuki wyzwolonej"
+    },
+    {
+      "id": "prosba-2",
+      "title": "Prośba"
+    },
+    {
+      "id": "prosba-3",
+      "title": "Prośba"
+    },
+    {
+      "id": "prosba",
+      "title": "Prośba"
+    },
+    {
+      "id": "proba-nowego-swiata",
+      "title": "Próba nowego świata"
+    },
+    {
+      "id": "proba-ostatniego-wiersza",
+      "title": "Próba ostatniego wiersza"
+    },
+    {
+      "id": "proba-poematu",
+      "title": "Próba poematu"
+    },
+    {
+      "id": "pszczoly-innego-rzedu",
+      "title": "Pszczoły innego rzędu"
+    },
+    {
+      "id": "ptak-o-ktorym-troche-wiem",
+      "title": "Ptak, o którym trochę wiem"
+    },
+    {
+      "id": "pytanie-bardzo-kobiece",
+      "title": "Pytanie bardzo kobiece"
+    },
+    {
+      "id": "ranny-wiersz-2",
+      "title": "Ranny wiersz"
+    },
+    {
+      "id": "ranny-wiersz",
+      "title": "Ranny wiersz"
+    },
+    {
+      "id": "reszta-krwi",
+      "title": "Reszta krwi"
+    },
+    {
+      "id": "rekopis-2",
+      "title": "Rękopis"
+    },
+    {
+      "id": "rekopis",
+      "title": "Rękopis"
+    },
+    {
+      "id": "rimbaud",
+      "title": "Rimbaud"
+    },
+    {
+      "id": "rozpisalem-konkurs",
+      "title": "Rozpisałem konkurs"
+    },
+    {
+      "id": "rozstanie",
+      "title": "Rozstanie"
+    },
+    {
+      "id": "roza",
+      "title": "Róża"
+    },
+    {
+      "id": "roze",
+      "title": "Róże"
+    },
+    {
+      "id": "rymy-na-przednowku",
+      "title": "Rymy na przednówku"
+    },
+    {
+      "id": "sanatorium",
+      "title": "Sanatorium"
+    },
+    {
+      "id": "scherzo",
+      "title": "Scherzo"
+    },
+    {
+      "id": "senna-ballada-na-temat-co-kobiety-wiedza-o-wierszach",
+      "title": "Senna ballada na temat, co kobiety wiedzą o wierszach"
+    },
+    {
+      "id": "serce",
+      "title": "Serce"
+    },
+    {
+      "id": "sezon",
+      "title": "Sezon"
+    },
+    {
+      "id": "sezon-ii",
+      "title": "Sezon II"
+    },
+    {
+      "id": "sezon-iv",
+      "title": "Sezon IV"
+    },
+    {
+      "id": "siostry-syjamskie",
+      "title": "Siostry syjamskie"
+    },
+    {
+      "id": "slowa-do-piosenki-na-ostatni-dzien-roku",
+      "title": "Słowa do piosenki na ostatni dzień roku"
+    },
+    {
+      "id": "slowo-do-jednego",
+      "title": "Słowo do jednego"
+    },
+    {
+      "id": "slowo-z-twych-ust",
+      "title": "Słowo z Twych ust"
+    },
+    {
+      "id": "sol-w-nasze-rany",
+      "title": "Sól w nasze rany"
+    },
+    {
+      "id": "sto-piecdziesiaty-dowod-na-twoje-istnienie",
+      "title": "Sto pięćdziesiąty dowód na twoje istnienie"
+    },
+    {
+      "id": "studium",
+      "title": "Studium"
+    },
+    {
+      "id": "sutki-stwardnialy",
+      "title": "Sutki stwardniały"
+    },
+    {
+      "id": "smierc-nie-znalazla-jeszcze-wlasciwego-wyrazu",
+      "title": "Śmierć nie znalazła jeszcze właściwego wyrazu"
+    },
+    {
+      "id": "swiadectwo",
+      "title": "Świadectwo"
+    },
+    {
+      "id": "swiete-krowy",
+      "title": "Święte krowy"
+    },
+    {
+      "id": "te-dziewczynki",
+      "title": "Te dziewczynki"
+    },
+    {
+      "id": "ten-ruch",
+      "title": "Ten ruch"
+    },
+    {
+      "id": "ten-trzeci",
+      "title": "Ten trzeci"
+    },
+    {
+      "id": "to-jest-hanka",
+      "title": "To jest Hanka"
+    },
+    {
+      "id": "trzeba-bylo-rozstrzelac-poete",
+      "title": "Trzeba było rozstrzelać poetę"
+    },
+    {
+      "id": "trzecie-oko",
+      "title": "Trzecie oko"
+    },
+    {
+      "id": "trzy-wiersze-religijne",
+      "title": "Trzy wiersze religijne"
+    },
+    {
+      "id": "twarz-2",
+      "title": "Twarz"
+    },
+    {
+      "id": "twarz",
+      "title": "Twarz"
+    },
+    {
+      "id": "twoje-cialo-bolesne",
+      "title": "Twoje ciało bolesne"
+    },
+    {
+      "id": "twoje-cialo-moje-dzielo",
+      "title": "twoje ciało, moje dzieło"
+    },
+    {
+      "id": "ulica-2",
+      "title": "Ulica"
+    },
+    {
+      "id": "ulica",
+      "title": "Ulica"
+    },
+    {
+      "id": "umiem-byc-cisza",
+      "title": "Umiem być ciszą"
+    },
+    {
+      "id": "urywek",
+      "title": "Urywek"
+    },
+    {
+      "id": "vademecum",
+      "title": "Vademecum"
+    },
+    {
+      "id": "w-podwojnej-osobie",
+      "title": "W podwójnej osobie"
+    },
+    {
+      "id": "w-powiecie",
+      "title": "W powiecie"
+    },
+    {
+      "id": "w-smiertelnej-potrzebie",
+      "title": "W śmiertelnej potrzebie"
+    },
+    {
+      "id": "widzenie",
+      "title": "Widzenie"
+    },
+    {
+      "id": "wieczna-aktualnosc-najwyzsza-cnota-sztuki",
+      "title": "Wieczna aktualność najwyższą cnotą sztuki"
+    },
+    {
+      "id": "wiem-kto-to-jest",
+      "title": "Wiem kto to jest"
+    },
+    {
+      "id": "wierszowi-rosna-piersi",
+      "title": "Wierszowi rosną piersi"
+    },
+    {
+      "id": "wierszyk-mironowi-bialoszewskiemu",
+      "title": "Wierszyk Mironowi Białoszewskiemu"
+    },
+    {
+      "id": "wiesz-jest-mala-radosc-2",
+      "title": "Wiesz jest mała radość"
+    },
+    {
+      "id": "wiesz-jest-mala-radosc",
+      "title": "Wiesz jest mała radość"
+    },
+    {
+      "id": "wiecej-niz-slowa",
+      "title": "Więcej niż słowa"
+    },
+    {
+      "id": "wina",
+      "title": "Wina"
+    },
+    {
+      "id": "wlosy-senne-senna-suknia-lesbia-senna",
+      "title": "Włosy senne senna suknia Lesbia senna"
+    },
+    {
+      "id": "wolny-wiersz",
+      "title": "Wolny wiersz"
+    },
+    {
+      "id": "wspomnienie",
+      "title": "Wspomnienie"
+    },
+    {
+      "id": "wspolnie-ulozylismy-list-do-niej",
+      "title": "Wspólnie ułożyliśmy list do niej"
+    },
+    {
+      "id": "wybaczcie-piechocie",
+      "title": "Wybaczcie piechocie"
+    },
+    {
+      "id": "wybrzeze",
+      "title": "Wybrzeże"
+    },
+    {
+      "id": "wyrok",
+      "title": "Wyrok"
+    },
+    {
+      "id": "zakon",
+      "title": "Zakon"
+    },
+    {
+      "id": "zapis-z-podziemia-2",
+      "title": "Zapis z podziemia"
+    },
+    {
+      "id": "zapis-z-podziemia",
+      "title": "Zapis z podziemia"
+    },
+    {
+      "id": "zdroj",
+      "title": "Zdrój"
+    },
+    {
+      "id": "zdumiewa-sie-madroscia",
+      "title": "Zdumiewa się mądrością"
+    },
+    {
+      "id": "zlodziej-nadziei",
+      "title": "złodziej nadziei"
+    },
+    {
+      "id": "zmierzch-lagodnie-rozsuplal",
+      "title": "Zmierzch łagodnie rozsupłał"
+    },
+    {
+      "id": "znow-muzyka",
+      "title": "Znów muzyka"
+    },
+    {
+      "id": "zrodlo",
+      "title": "Zródło"
+    },
+    {
+      "id": "zwiastowanie",
+      "title": "Zwiastowanie"
+    },
+    {
+      "id": "ze-lampa-ze-krag-swiatla",
+      "title": "Że lampa, że krąg światła"
+    },
+    {
+      "id": "zenskie-rymy-nocy-lipcowej",
+      "title": "Żeńskie rymy nocy lipcowej"
+    },
+    {
+      "id": "zycie-roi-sie-od-szyb",
+      "title": "Życie roi się od szyb"
+    },
+    {
+      "id": "zydowka",
+      "title": "Żydówka"
+    },
+    {
+      "id": "zyje-nie-widujac-gwiazd",
+      "title": "żyję nie widując gwiazd"
+    }
+  ],
+  "corpusAnaphors": [
+    [
+      "nie",
+      91
+    ],
+    [
+      "ja",
+      40
+    ],
+    [
+      "ale",
+      31
+    ],
+    [
+      "jest",
+      30
+    ],
+    [
+      "gdy",
+      30
+    ],
+    [
+      "lecz",
+      28
+    ],
+    [
+      "bądź",
+      23
+    ],
+    [
+      "już",
+      23
+    ],
+    [
+      "tyle",
+      22
+    ],
+    [
+      "moje",
+      21
+    ],
+    [
+      "kiedy",
+      20
+    ],
+    [
+      "ty",
+      20
+    ],
+    [
+      "ile",
+      20
+    ],
+    [
+      "czemu",
+      18
+    ],
+    [
+      "ktoś",
+      17
+    ],
+    [
+      "oraz",
+      16
+    ],
+    [
+      "czy",
+      15
+    ],
+    [
+      "on",
+      15
+    ],
+    [
+      "żeby",
+      13
+    ],
+    [
+      "by",
+      11
+    ]
+  ],
+  "topFirstWords": [
+    [
+      "nie",
+      9
+    ],
+    [
+      "jest",
+      9
+    ],
+    [
+      "pani",
+      6
+    ],
+    [
+      "oto",
+      6
+    ],
+    [
+      "już",
+      6
+    ],
+    [
+      "kiedy",
+      5
+    ],
+    [
+      "panu",
+      4
+    ],
+    [
+      "piosenka",
+      4
+    ],
+    [
+      "na",
+      4
+    ],
+    [
+      "ja",
+      4
+    ],
+    [
+      "mój",
+      4
+    ],
+    [
+      "moje",
+      4
+    ],
+    [
+      "naga",
+      3
+    ],
+    [
+      "kto",
+      3
+    ],
+    [
+      "głos",
+      3
+    ]
+  ],
+  "topLastWords": [
+    [
+      "śmierć",
+      10
+    ],
+    [
+      "śmierci",
+      4
+    ],
+    [
+      "mnie",
+      4
+    ],
+    [
+      "nic",
+      3
+    ],
+    [
+      "marzec",
+      3
+    ],
+    [
+      "krwi",
+      3
+    ],
+    [
+      "życie",
+      2
+    ],
+    [
+      "grudzień",
+      2
+    ],
+    [
+      "obłok",
+      2
+    ],
+    [
+      "się",
+      2
+    ],
+    [
+      "chichot",
+      2
+    ],
+    [
+      "kobietą",
+      2
+    ],
+    [
+      "śnie",
+      2
+    ],
+    [
+      "ciało",
+      2
+    ],
+    [
+      "podłogi",
+      2
+    ]
+  ],
+  "globalWordLengthDist": {
+    "1-3": 8864,
+    "4-5": 8184,
+    "6-7": 6515,
+    "8-9": 3188,
+    "10+": 1924
+  },
+  "avgWordLengthCorpus": 5.1,
+  "hapaxCount": 6293,
+  "hapaxSample": [
+    "*kiedyś",
+    "*ostatnio",
+    "*wyraz",
+    "1939",
+    "1945",
+    "1960",
+    "19641966",
+    "19651968",
+    "1967",
+    "1999",
+    "2530",
+    "369",
+    "372",
+    "aaaa",
+    "absolutnej",
+    "abyś",
+    "abyśmy",
+    "adieu",
+    "adres",
+    "afisze",
+    "afrodyzjak",
+    "afryki",
+    "afryką",
+    "agentów",
+    "aha",
+    "akademii",
+    "akcentu",
+    "akcentując",
+    "akcenty",
+    "akt",
+    "aktor",
+    "aktora",
+    "aktorowi",
+    "aktualność",
+    "akwenu",
+    "akwitania",
+    "akwitanii",
+    "albowiem",
+    "alejką",
+    "aleją",
+    "alfons",
+    "aliantów",
+    "alicji",
+    "alkoholik",
+    "alkoholizmu",
+    "alkoholu",
+    "allen",
+    "ambonie",
+    "amen",
+    "amerykanie"
+  ],
+  "corpusBigrams": [
+    [
+      "kochanej kobiety",
+      14
+    ],
+    [
+      "janusz styczeń",
+      10
+    ],
+    [
+      "królowej polskilist",
+      8
+    ],
+    [
+      "powiedział kto",
+      7
+    ],
+    [
+      "pies księżyca",
+      6
+    ],
+    [
+      "twoje ciało",
+      6
+    ],
+    [
+      "poeta pisze",
+      6
+    ],
+    [
+      "bohater bawi",
+      6
+    ],
+    [
+      "ma tańczącej",
+      5
+    ],
+    [
+      "piosenka bohaterów",
+      5
+    ],
+    [
+      "kochanka powieszonego",
+      5
+    ],
+    [
+      "jesteś pionowy",
+      5
+    ],
+    [
+      "synowie naszych",
+      5
+    ],
+    [
+      "naszych kobiet",
+      5
+    ],
+    [
+      "stary księżyc",
+      5
+    ],
+    [
+      "tańczącej nam",
+      4
+    ],
+    [
+      "tańczyłaby nam",
+      4
+    ],
+    [
+      "nieznanej poetkiz",
+      4
+    ],
+    [
+      "poetkiz nieznanej",
+      4
+    ],
+    [
+      "rozstrzelać poetęrzeba",
+      4
+    ],
+    [
+      "skończona krucjatanie",
+      4
+    ],
+    [
+      "krucjatanie skończona",
+      4
+    ],
+    [
+      "jestem pozioma",
+      4
+    ],
+    [
+      "imieniny rafna",
+      4
+    ],
+    [
+      "rafna imieniny",
+      4
+    ],
+    [
+      "samprawdziwy bohater",
+      4
+    ],
+    [
+      "trochę wiemptak",
+      4
+    ],
+    [
+      "mojej melancholiipoemat",
+      4
+    ],
+    [
+      "melancholiipoemat mojej",
+      4
+    ],
+    [
+      "nocy lipcowejymy",
+      4
+    ]
+  ],
+  "topCoOccurrences": [
+    [
+      "gwiazda + krwi",
+      8
+    ],
+    [
+      "krew + krwi",
+      7
+    ],
+    [
+      "ciebie + krwi",
+      7
+    ],
+    [
+      "ciało + śmierć",
+      6
+    ],
+    [
+      "wiersz + śmierć",
+      5
+    ],
+    [
+      "nieba + śmierci",
+      5
+    ],
+    [
+      "gwiazda + krew",
+      5
+    ],
+    [
+      "dłoni + dłoń",
+      5
+    ],
+    [
+      "naga + woda",
+      5
+    ],
+    [
+      "krew + śmierć",
+      5
+    ],
+    [
+      "śmierć + życie",
+      5
+    ],
+    [
+      "krwi + świt",
+      4
+    ],
+    [
+      "dłoń + krwi",
+      4
+    ],
+    [
+      "mózg + mózgu",
+      4
+    ],
+    [
+      "krew + woda",
+      4
+    ],
+    [
+      "ciebie + śmierć",
+      4
+    ],
+    [
+      "którą + śmierć",
+      4
+    ],
+    [
+      "serca + śmierć",
+      4
+    ],
+    [
+      "ciała + włosy",
+      4
+    ],
+    [
+      "kiedyś + śmierci",
+      4
+    ]
+  ],
+  "nlp": {
+    "poemCount": 310,
+    "posDistribution": {
+      "NOUN": 7970,
+      "VERB": 4214,
+      "ADJ": 3125,
+      "ADP": 2757,
+      "PRON": 2422,
+      "PART": 1778,
+      "ADV": 1455,
+      "DET": 1264,
+      "CCONJ": 1207,
+      "SCONJ": 967,
+      "NUM": 80,
+      "INTJ": 21
+    },
+    "posPercent": {
+      "NOUN": 0.292,
+      "VERB": 0.155,
+      "ADJ": 0.115,
+      "ADP": 0.101,
+      "PRON": 0.089,
+      "PART": 0.065,
+      "ADV": 0.053,
+      "DET": 0.046,
+      "CCONJ": 0.044,
+      "SCONJ": 0.035,
+      "NUM": 0.003,
+      "INTJ": 0.001
+    },
+    "verbSemantics": {
+      "stan": 817,
+      "percepcja": 106,
+      "komunikacja": 101,
+      "ruch": 67,
+      "cialo": 54,
+      "tworzenie": 39,
+      "destrukcja": 9
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 134,
+      "oceniajace": 88,
+      "opisowe": 2903
+    },
+    "sentenceTypes": {
+      "declarative": 1872,
+      "interrogative": 122,
+      "imperative": 84,
+      "exclamatory": 29
+    },
+    "pronouns": {
+      "ja": 416,
+      "ty": 209,
+      "on_ona": 354,
+      "my": 131,
+      "wy": 5,
+      "oni": 91
+    },
+    "negations": {
+      "nie": 695,
+      "zaden": 28,
+      "nic": 26,
+      "nigdy": 26,
+      "nikt": 18,
+      "nigdzie": 3
+    },
+    "nounConcreteAbstract": {
+      "concrete": 876,
+      "abstract": 542,
+      "ratio": 0.62
+    },
+    "topAdverbs": [
+      {
+        "word": "gdy",
+        "count": 135
+      },
+      {
+        "word": "kiedy",
+        "count": 97
+      },
+      {
+        "word": "tak",
+        "count": 89
+      },
+      {
+        "word": "wciąż",
+        "count": 46
+      },
+      {
+        "word": "wtedy",
+        "count": 42
+      },
+      {
+        "word": "zawsze",
+        "count": 39
+      },
+      {
+        "word": "jak",
+        "count": 38
+      },
+      {
+        "word": "gdzie",
+        "count": 37
+      },
+      {
+        "word": "dobrze",
+        "count": 24
+      },
+      {
+        "word": "nigdy",
+        "count": 23
+      },
+      {
+        "word": "czemu",
+        "count": 23
+      },
+      {
+        "word": "teraz",
+        "count": 22
+      },
+      {
+        "word": "nagle",
+        "count": 22
+      },
+      {
+        "word": "potem",
+        "count": 22
+      },
+      {
+        "word": "coraz",
+        "count": 20
+      },
+      {
+        "word": "ciągle",
+        "count": 19
+      },
+      {
+        "word": "tu",
+        "count": 18
+      },
+      {
+        "word": "dziś",
+        "count": 17
+      },
+      {
+        "word": "bardzo",
+        "count": 16
+      },
+      {
+        "word": "tyle",
+        "count": 16
+      }
+    ],
+    "avgSentenceLength": 18.04,
+    "avgLineWordsPerLine": 5.3,
+    "avgVowelConsonantRatio": 0.72,
+    "avgConsonantClusters": 13.61,
+    "avgEnjambementPercent": 0.28,
+    "avgReadingSeconds": 69.05,
+    "avgSyllables": 207.12,
+    "avgRegularityScore": 0.66,
+    "tempoDistribution": {
+      "wolne": 273,
+      "szybkie": 11,
+      "umiarkowane": 26
+    },
+    "verbTensesTotal": {
+      "imperative": 150,
+      "present": 2708,
+      "past": 1188,
+      "infinitive": 554,
+      "future": 380
+    },
+    "ellipsisTotal": {
+      "incomplete": 364,
+      "noSubject": 519,
+      "noPredicate": 39
+    },
+    "wordOrderTotal": {
+      "svo": 656,
+      "inversions": 414,
+      "other": 907
+    },
+    "soundGroupsTotal": {
+      "szumiace": 6487,
+      "syczace": 15104,
+      "nosowe": 17637,
+      "plynne": 11725
+    },
+    "rhymesTotal": {
+      "exact": 366,
+      "approximate": 437,
+      "internal": 286,
+      "assonance": 177,
+      "alliteration": 439
+    },
+    "avgConsonantClusterCount": 13.6
+  },
+  "aiAnalysis": {
+    "senses": {
+      "wzrok": 3.8,
+      "sluch": 1.9,
+      "dotyk": 3.4,
+      "smak": 1.3,
+      "zapach": 0.8
+    },
+    "temperature": {
+      "value": 0.48
+    },
+    "emotion": {
+      "melancholia": 64,
+      "tęsknota": 50,
+      "rozpacz": 45,
+      "rezygnacja": 37,
+      "ironia": 27,
+      "obrzydzenie": 26,
+      "czułość": 23,
+      "euforia": 16,
+      "bunt": 5,
+      "gniew": 4,
+      "pożądanie": 3,
+      "lęk": 1
+    },
+    "autodestruction": {
+      "level": 0.59
+    },
+    "subjectPresence": {
+      "jawne": 232,
+      "ukryte": 66,
+      "bezosobowe": 3
+    },
+    "addressee": {
+      "ty": 84,
+      "siebie": 79,
+      "czytelnik": 74,
+      "nikt": 49,
+      "bóg": 15
+    }
+  },
+  "aiAnalysisExtended": {
+    "space": {
+      "openClosedRatio": 0.43
+    },
+    "motion": {
+      "dynamism": 0.54
+    },
+    "imageryDensity": {
+      "per100words": 21.5
+    },
+    "timeOfDay": {
+      "periods": {
+        "noc": 74,
+        "rano": 17,
+        "wieczor": 10,
+        "dzien": 6
+      },
+      "seasons": {
+        "jesien": 8,
+        "zima": 40,
+        "wiosna": 10,
+        "lato": 7
+      }
+    },
+    "intertextuality": {
+      "influences": {
+        "rimbaud": 0.52,
+        "baudelaire": 0.45,
+        "bursa": 0.3,
+        "stachura": 0.35,
+        "grochowiak": 0.43,
+        "bialoszewski": 0.26,
+        "rozewicz": 0.43
+      }
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.81
+    },
+    "imageryDensityAvg": 21.5
+  },
+  "metaphorsCorpus": {
+    "topSources": {
+      "śmierć": 24,
+      "ciało": 23,
+      "krew": 15,
+      "gwiazda": 13,
+      "sen": 10,
+      "serce": 8,
+      "życie": 8,
+      "kobieta": 7,
+      "róża": 7,
+      "mózg": 7,
+      "światło": 6,
+      "muzyka": 6,
+      "miłość": 4,
+      "lęk": 4,
+      "śnieg": 4
+    },
+    "topTargets": {
+      "śmierć": 9,
+      "życie": 9,
+      "miłość": 8,
+      "podmiot liryczny": 7,
+      "ciało": 6,
+      "ukochana osoba": 5,
+      "kobieta": 3,
+      "akt seksualny": 3,
+      "miłość/pożądanie": 3,
+      "śnieg": 3,
+      "poemat": 3,
+      "ptak": 3,
+      "rzeczywistość": 3,
+      "proces twórczy": 3,
+      "światło": 3
+    },
+    "topMappings": {
+      "woda tlenu→ukochana osoba": 2,
+      "czarna róża→śmierć": 2,
+      "pięść→poemat": 2,
+      "język/słownik→możliwości wyrazu uczuć": 2,
+      "płuca→róża": 2,
+      "aktor→kobieta": 1,
+      "gwiazdy→sędziowie/świadkowie": 1,
+      "targowanie się→bezsilne błaganie": 1,
+      "sztandar→naga wdowa": 1,
+      "taniec→pamięć/pożądanie": 1,
+      "dłoń dyrygująca→kontrola nad wspomnieniem": 1,
+      "policja→miłość boża": 1,
+      "krzyż→łóżko": 1,
+      "ocet→ślina": 1,
+      "przybijanie→akt seksualny": 1,
+      "turban→kołpak": 1,
+      "chmura→sperma": 1,
+      "ziemia→pościel": 1,
+      "kobieta→spadający obiekt": 1,
+      "głowa→świadomość/tożsamość": 1
+    },
+    "totalMetaphors": 935,
+    "sampleMetaphors": [
+      {
+        "source": "aktor",
+        "target": "kobieta",
+        "example": "Dobry aktor zawsze jest kobietą"
+      },
+      {
+        "source": "gwiazdy",
+        "target": "sędziowie/świadkowie",
+        "example": "stoją wokół ciebie nie proś o litość"
+      },
+      {
+        "source": "targowanie się",
+        "target": "bezsilne błaganie",
+        "example": "Nie targuj się o pocałunek / Nie targuj się o życie"
+      },
+      {
+        "source": "sztandar",
+        "target": "naga wdowa",
+        "example": "Przy nim – jak sztandar – naga wdowa"
+      },
+      {
+        "source": "taniec",
+        "target": "pamięć/pożądanie",
+        "example": "bogini tańczy"
+      },
+      {
+        "source": "dłoń dyrygująca",
+        "target": "kontrola nad wspomnieniem",
+        "example": "nie umie powstrzymać swojej dłoni, co tańcem wciąż dyryguje"
+      },
+      {
+        "source": "policja",
+        "target": "miłość boża",
+        "example": "Twoja miłość / Jak policja za szkodliwą / Herezją się uganiała"
+      },
+      {
+        "source": "krzyż",
+        "target": "łóżko",
+        "example": "na krzyżu łóżka naga"
+      },
+      {
+        "source": "ocet",
+        "target": "ślina",
+        "example": "Ocet Twojej śliny piję"
+      },
+      {
+        "source": "przybijanie",
+        "target": "akt seksualny",
+        "example": "kiedy znów przybijesz"
+      },
+      {
+        "source": "turban",
+        "target": "kołpak",
+        "example": "kołpaki turbanów"
+      },
+      {
+        "source": "chmura",
+        "target": "sperma",
+        "example": "zapłodnionej chmurą niebieskiej spermy"
+      },
+      {
+        "source": "ziemia",
+        "target": "pościel",
+        "example": "pościel, którą nie jest Ziemia"
+      },
+      {
+        "source": "kobieta",
+        "target": "spadający obiekt",
+        "example": "spadająca do nieba kobieta"
+      },
+      {
+        "source": "głowa",
+        "target": "świadomość/tożsamość",
+        "example": "głowa rośnie"
+      },
+      {
+        "source": "różowy balonik z namalowanymi oczami",
+        "target": "iluzja/fałsz życia",
+        "example": "tak to jest różowy balonik z namalowanymi oczami"
+      },
+      {
+        "source": "słowa uciekające i szemrzące",
+        "target": "utrata komunikacji",
+        "example": "wszystkie słowa uciekły i szemrzą gdzieś w kącie"
+      },
+      {
+        "source": "buty po nagim ciele",
+        "target": "brutalne traktowanie poezji/kobiecości",
+        "example": "Któż to chodzi z butami po nagim ciele kobiecym"
+      },
+      {
+        "source": "alfons śmierci",
+        "target": "poeta żerujący na cierpieniu",
+        "example": "alfons swej śmierci co ją rymuje wciąż ze śmiechem"
+      },
+      {
+        "source": "święty tyłek",
+        "target": "sprzedawanie intymności za uznanie",
+        "example": "wystarczy że wystawi w oknie święty tyłek"
+      },
+      {
+        "source": "ostrogi",
+        "target": "instrumenty zadawania bólu",
+        "example": "załóż jeszcze ostrogi i kłuj aż mi braknie tchu"
+      },
+      {
+        "source": "rak",
+        "target": "miłość/pożądanie",
+        "example": "Rakiem, który mózg jedząc pozwoli poczuć mózg"
+      },
+      {
+        "source": "woda tlenu",
+        "target": "ukochana osoba",
+        "example": "Bądź wodą tlenu dla spalonych płuc"
+      },
+      {
+        "source": "biegun",
+        "target": "centrum uczuciowego świata",
+        "example": "Bądź biegunem mojego pomylonego serca"
+      },
+      {
+        "source": "rak",
+        "target": "miłość/poznanie",
+        "example": "Rakiem, który mózg jedząc pozwoli poczuć mózg"
+      },
+      {
+        "source": "woda tlenu",
+        "target": "ukochana osoba",
+        "example": "Bądź wodą tlenu dla spalonych płuc"
+      },
+      {
+        "source": "niańka",
+        "target": "miłość opiekuńcza",
+        "example": "niańką co kołysze"
+      },
+      {
+        "source": "zdrada",
+        "target": "miłość",
+        "example": "najpiękniejszą zdradę: Miłość, która obudzi śpiącą w Tobie śmierć"
+      },
+      {
+        "source": "ptaki",
+        "target": "ludzie/społeczeństwo",
+        "example": "ptaki grzęznące w powietrzu jako metafora uwięzienia"
+      },
+      {
+        "source": "Strzelec",
+        "target": "władza/system",
+        "example": "Strzelec-rewizjonista chwytający i obłupiający ptaki"
+      }
+    ]
+  },
+  "emotionPerPoem": [
+    {
+      "id": "66",
+      "title": "66",
+      "wordCount": 79,
+      "emotion": {
+        "primary": "rezygnacja",
+        "secondary": "melancholia",
+        "intensity": 0.7
+      }
+    },
+    {
+      "id": "antyczne",
+      "title": "Antyczne",
+      "wordCount": 97,
+      "emotion": {
+        "primary": "melancholia",
+        "secondary": "rezygnacja",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "apokryf-2",
+      "title": "Apokryf",
+      "wordCount": 62,
+      "emotion": {
+        "primary": "rozpacz",
+        "secondary": "tęsknota",
+        "intensity": 0.9
+      }
+    },
+    {
+      "id": "apokryf",
+      "title": "Apokryf",
+      "wordCount": 72,
+      "emotion": {
+        "primary": "euforia",
+        "secondary": "obrzydzenie",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "babilon",
+      "title": "Babilon",
+      "wordCount": 75,
+      "emotion": {
+        "primary": "obrzydzenie",
+        "secondary": "rozpacz",
+        "intensity": 0.9
+      }
+    },
+    {
+      "id": "bajka",
+      "title": "Bajka",
+      "wordCount": 132,
+      "emotion": {
+        "primary": "ironia",
+        "secondary": "melancholia",
+        "intensity": 0.7
+      }
+    },
+    {
+      "id": "bajka-jesienna",
+      "title": "Bajka jesienna",
+      "wordCount": 102,
+      "emotion": {
+        "primary": "melancholia",
+        "secondary": "ironia",
+        "intensity": 0.7
+      }
+    },
+    {
+      "id": "bajka-zimowego-poranka",
+      "title": "Bajka zimowego poranka",
+      "wordCount": 144,
+      "emotion": {
+        "primary": "melancholia",
+        "secondary": "tęsknota",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "ballada-o-gownie",
+      "title": "Ballada o gównie",
+      "wordCount": 15,
+      "emotion": {
+        "primary": "obrzydzenie",
+        "secondary": "rezygnacja",
+        "intensity": 0.9
+      }
+    },
+    {
+      "id": "ballada-o-leku",
+      "title": "Ballada o lęku",
+      "wordCount": 107,
+      "emotion": {
+        "primary": "lęk",
+        "secondary": "rozpacz",
+        "intensity": 0.9
+      }
+    },
+    {
+      "id": "ballada-obsceniczna",
+      "title": "Ballada obsceniczna",
+      "wordCount": 102,
+      "emotion": {
+        "primary": "euforia",
+        "secondary": "pożądanie",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "bar-piekielko",
+      "title": "Bar „Piekiełko”",
+      "wordCount": 42,
+      "emotion": {
+        "primary": "melancholia",
+        "secondary": "tęsknota",
+        "intensity": 0.7
+      }
+    },
+    {
+      "id": "badz-mi-2",
+      "title": "Bądź mi",
+      "wordCount": 130,
+      "emotion": {
+        "primary": "tęsknota",
+        "secondary": "rozpacz",
+        "intensity": 0.9
+      }
+    },
+    {
+      "id": "badz-mi",
+      "title": "Bądź mi",
+      "wordCount": 129,
+      "emotion": {
+        "primary": "tęsknota",
+        "secondary": "rozpacz",
+        "intensity": 0.9
+      }
+    },
+    {
+      "id": "bez-przecinka",
+      "title": "Bez przecinka",
+      "wordCount": 158,
+      "emotion": {
+        "primary": "rozpacz",
+        "secondary": "rezygnacja",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "asterisks",
+      "title": "Bez tytułu",
+      "wordCount": 94,
+      "emotion": {
+        "primary": "rezygnacja",
+        "secondary": "melancholia",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "bezdomni-musza-zamieszkiwac-swiatlo",
+      "title": "Bezdomni muszą zamieszkiwać światło",
+      "wordCount": 58,
+      "emotion": {
+        "primary": "melancholia",
+        "secondary": "tęsknota",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "biala-roza",
+      "title": "Biała róża",
+      "wordCount": 54,
+      "emotion": {
+        "primary": "rezygnacja",
+        "secondary": "ironia",
+        "intensity": 0.7
+      }
+    },
+    {
+      "id": "blyskawica",
+      "title": "Błyskawica",
+      "wordCount": 99,
+      "emotion": {
+        "primary": "tęsknota",
+        "secondary": "euforia",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "bo-smierc-to-jest-wielki-kunktator-poemat-jednej-odwilzy",
+      "title": "Bo śmierć to jest wielki Kunktator. Poemat jednej odwilży",
+      "wordCount": 441,
+      "emotion": {
+        "primary": "rezygnacja",
+        "secondary": "ironia",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "bohater",
+      "title": "Bohater",
+      "wordCount": 60,
+      "emotion": {
+        "primary": "ironia",
+        "secondary": "rozpacz",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "brulion",
+      "title": "Brulion",
+      "wordCount": 77,
+      "emotion": {
+        "primary": "czułość",
+        "secondary": "melancholia",
+        "intensity": 0.7
+      }
+    },
+    {
+      "id": "byla-potrzeba",
+      "title": "Była potrzeba",
+      "wordCount": 48,
+      "emotion": {
+        "primary": "melancholia",
+        "secondary": "rezygnacja",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "byla-wiosna-bylo-lato",
+      "title": "Była wiosna, było lato",
+      "wordCount": 107,
+      "emotion": {
+        "primary": "rezygnacja",
+        "secondary": "rozpacz",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "bylem-jestem",
+      "title": "Byłem, jestem",
+      "wordCount": 70,
+      "emotion": {
+        "primary": "melancholia",
+        "secondary": "tęsknota",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "celnik",
+      "title": "Celnik",
+      "wordCount": 86,
+      "emotion": {
+        "primary": "tęsknota",
+        "secondary": "melancholia",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "chichot",
+      "title": "Chichot",
+      "wordCount": 72,
+      "emotion": {
+        "primary": "rozpacz",
+        "secondary": "ironia",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "chodze-i-pytam",
+      "title": "Chodzę i pytam",
+      "wordCount": 76,
+      "emotion": {
+        "primary": "rozpacz",
+        "secondary": "rezygnacja",
+        "intensity": 0.9
+      }
+    },
+    {
+      "id": "chwila",
+      "title": "Chwila",
+      "wordCount": 73,
+      "emotion": {
+        "primary": "tęsknota",
+        "secondary": "melancholia",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "chwila-przed-odjazdem",
+      "title": "Chwila przed odjazdem",
+      "wordCount": 94,
+      "emotion": {
+        "primary": "tęsknota",
+        "secondary": "rozpacz",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "ciemnosc-ciemnieje",
+      "title": "Ciemność ciemnieje",
+      "wordCount": 71,
+      "emotion": {
+        "primary": "rozpacz",
+        "secondary": "rezygnacja",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "co-ja-o-rzece-wiem",
+      "title": "co ja o rzece wiem",
+      "wordCount": 79,
+      "emotion": {
+        "primary": "obrzydzenie",
+        "secondary": "rezygnacja",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "czarna-roza",
+      "title": "Czarna róża",
+      "wordCount": 82,
+      "emotion": {
+        "primary": "melancholia",
+        "secondary": "tęsknota",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "czemu-nie-ma-tancerki",
+      "title": "Czemu nie ma tancerki",
+      "wordCount": 166,
+      "emotion": {
+        "primary": "tęsknota",
+        "secondary": "rozpacz",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "czy-ja-moglam-w-watlych-ustach-uniesc-taka-milosc",
+      "title": "Czy ja mogłam w wątłych ustach unieść taką miłość",
+      "wordCount": 109,
+      "emotion": {
+        "primary": "rozpacz",
+        "secondary": "tęsknota",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "czy-spiaca-mozna-zbudzic-grzecznie",
+      "title": "Czy śpiącą można zbudzić grzecznie",
+      "wordCount": 59,
+      "emotion": {
+        "primary": "euforia",
+        "secondary": "tęsknota",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "czy-to-juz",
+      "title": "Czy to już...",
+      "wordCount": 50,
+      "emotion": {
+        "primary": "tęsknota",
+        "secondary": "melancholia",
+        "intensity": 0.7
+      }
+    },
+    {
+      "id": "czy-wiersz-moze-nie-byc-kobieta",
+      "title": "Czy wiersz może nie być kobietą",
+      "wordCount": 25,
+      "emotion": {
+        "primary": "tęsknota",
+        "secondary": "melancholia",
+        "intensity": 0.7
+      }
+    },
+    {
+      "id": "czys-wiedzial",
+      "title": "Czyś wiedział...",
+      "wordCount": 49,
+      "emotion": {
+        "primary": "tęsknota",
+        "secondary": "rozpacz",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "dajmy-zyc-kobiecie",
+      "title": "Dajmy żyć kobiecie",
+      "wordCount": 67,
+      "emotion": {
+        "primary": "rozpacz",
+        "secondary": "czułość",
+        "intensity": 0.9
+      }
+    },
+    {
+      "id": "dal-sie-nabrac-na-jezyk-ktorego-nie-bylo",
+      "title": "Dał się nabrać na język, którego nie było",
+      "wordCount": 129,
+      "emotion": {
+        "primary": "melancholia",
+        "secondary": "rezygnacja",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "damski-klub",
+      "title": "Damski klub",
+      "wordCount": 71,
+      "emotion": {
+        "primary": "obrzydzenie",
+        "secondary": "gniew",
+        "intensity": 0.9
+      }
+    },
+    {
+      "id": "dialog",
+      "title": "Dialog",
+      "wordCount": 113,
+      "emotion": {
+        "primary": "rozpacz",
+        "secondary": "bunt",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "dla-ciebie-pisze-milosc",
+      "title": "dla ciebie piszę miłość",
+      "wordCount": 58,
+      "emotion": {
+        "primary": "tęsknota",
+        "secondary": "rozpacz",
+        "intensity": 0.9
+      }
+    },
+    {
+      "id": "do-polskiego-poety",
+      "title": "Do polskiego poety",
+      "wordCount": 99,
+      "emotion": {
+        "primary": "melancholia",
+        "secondary": "rezygnacja",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "dobranoc",
+      "title": "Dobranoc",
+      "wordCount": 71,
+      "emotion": {
+        "primary": "tęsknota",
+        "secondary": "rezygnacja",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "dotknac",
+      "title": "Dotknąć...",
+      "wordCount": 62,
+      "emotion": {
+        "primary": "rezygnacja",
+        "secondary": "rozpacz",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "drzewo-hodowane-w-ciszy",
+      "title": "Drzewo hodowane w ciszy",
+      "wordCount": 52,
+      "emotion": {
+        "primary": "rezygnacja",
+        "secondary": "melancholia",
+        "intensity": 0.7
+      }
+    },
+    {
+      "id": "dwie-strofki-do-mlodego-poety",
+      "title": "Dwie strofki do młodego poety",
+      "wordCount": 33,
+      "emotion": {
+        "primary": "rezygnacja",
+        "secondary": "bunt",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "dwoje",
+      "title": "Dwoje",
+      "wordCount": 62,
+      "emotion": {
+        "primary": "obrzydzenie",
+        "secondary": "rezygnacja",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "dwuglos",
+      "title": "Dwugłos",
+      "wordCount": 33,
+      "emotion": {
+        "primary": "czułość",
+        "secondary": "melancholia",
+        "intensity": 0.7
+      }
+    },
+    {
+      "id": "dziewczynka",
+      "title": "Dziewczynka",
+      "wordCount": 81,
+      "emotion": {
+        "primary": "tęsknota",
+        "secondary": "melancholia",
+        "intensity": 0.7
+      }
+    },
+    {
+      "id": "ekloga-2",
+      "title": "Ekloga",
+      "wordCount": 73,
+      "emotion": {
+        "primary": "euforia",
+        "secondary": "czułość",
+        "intensity": 0.7
+      }
+    },
+    {
+      "id": "ekloga",
+      "title": "Ekloga",
+      "wordCount": 88,
+      "emotion": {
+        "primary": "czułość",
+        "secondary": "tęsknota",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "ekloga-ii",
+      "title": "Ekloga II",
+      "wordCount": 39,
+      "emotion": {
+        "primary": "tęsknota",
+        "secondary": "melancholia",
+        "intensity": 0.7
+      }
+    },
+    {
+      "id": "elegia",
+      "title": "Elegia",
+      "wordCount": 84,
+      "emotion": {
+        "primary": "melancholia",
+        "secondary": "rezygnacja",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "elementy",
+      "title": "Elementy",
+      "wordCount": 52,
+      "emotion": {
+        "primary": "obrzydzenie",
+        "secondary": "bunt",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "erotyk-wojaczek-rafal",
+      "title": "Erotyk",
+      "wordCount": 37,
+      "emotion": {
+        "primary": "obrzydzenie",
+        "secondary": "rezygnacja",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "fotografia",
+      "title": "Fotografia",
+      "wordCount": 32,
+      "emotion": {
+        "primary": "ironia",
+        "secondary": "obrzydzenie",
+        "intensity": 0.7
+      }
+    },
+    {
+      "id": "fuga",
+      "title": "Fuga",
+      "wordCount": 106,
+      "emotion": {
+        "primary": "rozpacz",
+        "secondary": "rezygnacja",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "gdy-pies-ksiezyca",
+      "title": "Gdy pies księżyca",
+      "wordCount": 290,
+      "emotion": {
+        "primary": "rozpacz",
+        "secondary": "lęk",
+        "intensity": 0.9
+      }
+    },
+    {
+      "id": "geneza",
+      "title": "Geneza",
+      "wordCount": 105,
+      "emotion": {
+        "primary": "euforia",
+        "secondary": "czułość",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "glos-kobiecy",
+      "title": "Głos kobiecy",
+      "wordCount": 71,
+      "emotion": {
+        "primary": "tęsknota",
+        "secondary": "rozpacz",
+        "intensity": 0.9
+      }
+    },
+    {
+      "id": "granica",
+      "title": "Granica",
+      "wordCount": 56,
+      "emotion": {
+        "primary": "rozpacz",
+        "secondary": "bunt",
+        "intensity": 0.9
+      }
+    },
+    {
+      "id": "groteska-odjazdu",
+      "title": "Groteska odjazdu",
+      "wordCount": 55,
+      "emotion": {
+        "primary": "ironia",
+        "secondary": "rozpacz",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "gwalt",
+      "title": "Gwałt",
+      "wordCount": 97,
+      "emotion": {
+        "primary": "rozpacz",
+        "secondary": "bunt",
+        "intensity": 0.9
+      }
+    },
+    {
+      "id": "gwiazda",
+      "title": "Gwiazda",
+      "wordCount": 95,
+      "emotion": {
+        "primary": "tęsknota",
+        "secondary": "melancholia",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "gwiazda-zasypani",
+      "title": "Gwiazda; zasypani",
+      "wordCount": 82,
+      "emotion": {
+        "primary": "tęsknota",
+        "secondary": "rozpacz",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "hoduje-ten-bol",
+      "title": "Hoduję ten ból",
+      "wordCount": 45,
+      "emotion": {
+        "primary": "rozpacz",
+        "secondary": "obrzydzenie",
+        "intensity": 0.9
+      }
+    },
+    {
+      "id": "hymn",
+      "title": "Hymn",
+      "wordCount": 10,
+      "emotion": {
+        "primary": "pożądanie",
+        "secondary": "czułość",
+        "intensity": 0.9
+      }
+    },
+    {
+      "id": "ich-prawem-byla-wlasna-smierc",
+      "title": "Ich prawem była własna śmierć",
+      "wordCount": 108,
+      "emotion": {
+        "primary": "rozpacz",
+        "secondary": "obrzydzenie",
+        "intensity": 0.9
+      }
+    },
+    {
+      "id": "imie-i-cialo",
+      "title": "Imię i ciało",
+      "wordCount": 36,
+      "emotion": {
+        "primary": "czułość",
+        "secondary": "tęsknota",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "imperatyw-milosci",
+      "title": "Imperatyw miłości",
+      "wordCount": 91,
+      "emotion": {
+        "primary": "ironia",
+        "secondary": "obrzydzenie",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "inicjacja",
+      "title": "Inicjacja",
+      "wordCount": 92,
+      "emotion": {
+        "primary": "czułość",
+        "secondary": "tęsknota",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "inna-bajka",
+      "title": "Inna bajka",
+      "wordCount": 232,
+      "emotion": {
+        "primary": "melancholia",
+        "secondary": "rezygnacja",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "inny-zakon",
+      "title": "Inny zakon",
+      "wordCount": 63,
+      "emotion": {
+        "primary": "melancholia",
+        "secondary": "zazdrość",
+        "intensity": 0.7
+      }
+    },
+    {
+      "id": "ja-ksiaze-pepi",
+      "title": "Ja: książę Pepi",
+      "wordCount": 36,
+      "emotion": {
+        "primary": "rezygnacja",
+        "secondary": "melancholia",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "jak-dowiem-sie-jej-prawdziwego-imienia",
+      "title": "Jak dowiem się jej prawdziwego imienia",
+      "wordCount": 79,
+      "emotion": {
+        "primary": "tęsknota",
+        "secondary": "melancholia",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "jak-ja-teraz-snie",
+      "title": "Jak ja teraz śnię",
+      "wordCount": 62,
+      "emotion": {
+        "primary": "ironia",
+        "secondary": "obrzydzenie",
+        "intensity": 0.7
+      }
+    },
+    {
+      "id": "jaka-bym-ci-chciala-sie-napisac-2",
+      "title": "Jaka bym ci chciała się napisać",
+      "wordCount": 84,
+      "emotion": {
+        "primary": "tęsknota",
+        "secondary": "czułość",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "jaka-bym-ci-chciala-sie-napisac",
+      "title": "Jaka bym ci chciała się napisać",
+      "wordCount": 84,
+      "emotion": {
+        "primary": "czułość",
+        "secondary": "tęsknota",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "jej-cialo",
+      "title": "Jej ciało",
+      "wordCount": 51,
+      "emotion": {
+        "primary": "melancholia",
+        "secondary": "tęsknota",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "jest-biel",
+      "title": "Jest biel",
+      "wordCount": 103,
+      "emotion": {
+        "primary": "rozpacz",
+        "secondary": "rezygnacja",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "jeszcze-jestem-kobieta",
+      "title": "Jeszcze jestem kobietą",
+      "wordCount": 75,
+      "emotion": {
+        "primary": "rezygnacja",
+        "secondary": "bunt",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "jeszcze-polska",
+      "title": "Jeszcze Polska",
+      "wordCount": 86,
+      "emotion": {
+        "primary": "melancholia",
+        "secondary": "tęsknota",
+        "intensity": 0.7
+      }
+    },
+    {
+      "id": "jeszcze-w-nia-nie-wszedl",
+      "title": "jeszcze w nią nie wszedł",
+      "wordCount": 80,
+      "emotion": {
+        "primary": "obrzydzenie",
+        "secondary": "rozpacz",
+        "intensity": 0.9
+      }
+    },
+    {
+      "id": "juz-nie-jestem-poeta",
+      "title": "Już nie jestem poetą",
+      "wordCount": 97,
+      "emotion": {
+        "primary": "bunt",
+        "secondary": "rozpacz",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "juz-wyszla-z-pokoju",
+      "title": "Już wyszła z pokoju",
+      "wordCount": 70,
+      "emotion": {
+        "primary": "rezygnacja",
+        "secondary": "melancholia",
+        "intensity": 0.7
+      }
+    },
+    {
+      "id": "kartka",
+      "title": "Kartka",
+      "wordCount": 62,
+      "emotion": {
+        "primary": "czułość",
+        "secondary": "melancholia",
+        "intensity": 0.7
+      }
+    },
+    {
+      "id": "katalog-2",
+      "title": "Katalog",
+      "wordCount": 118,
+      "emotion": {
+        "primary": "rozpacz",
+        "secondary": "rezygnacja",
+        "intensity": 0.9
+      }
+    },
+    {
+      "id": "katalog",
+      "title": "Katalog",
+      "wordCount": 102,
+      "emotion": {
+        "primary": "melancholia",
+        "secondary": "rezygnacja",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "kim-jest-ten-co-mi-sie-jawi-w-lustrze",
+      "title": "Kim jest ten, co mi się jawi w lustrze",
+      "wordCount": 73,
+      "emotion": {
+        "primary": "melancholia",
+        "secondary": "tęsknota",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "kim-jest-ten-co-przybywa",
+      "title": "Kim jest ten, co przybywa",
+      "wordCount": 103,
+      "emotion": {
+        "primary": "tęsknota",
+        "secondary": "melancholia",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "klub",
+      "title": "Klub",
+      "wordCount": 57,
+      "emotion": {
+        "primary": "obrzydzenie",
+        "secondary": "rezygnacja",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "kobiecosc",
+      "title": "Kobiecość",
+      "wordCount": 86,
+      "emotion": {
+        "primary": "rezygnacja",
+        "secondary": "melancholia",
+        "intensity": 0.9
+      }
+    },
+    {
+      "id": "kobiecosc-iii",
+      "title": "Kobiecość III",
+      "wordCount": 139,
+      "emotion": null
+    },
+    {
+      "id": "kochajmy-sie",
+      "title": "Kochajmy się",
+      "wordCount": 16,
+      "emotion": {
+        "primary": "euforia",
+        "secondary": "tęsknota",
+        "intensity": 0.9
+      }
+    },
+    {
+      "id": "kochanka-powieszonego",
+      "title": "Kochanka powieszonego",
+      "wordCount": 48,
+      "emotion": {
+        "primary": "rozpacz",
+        "secondary": "obrzydzenie",
+        "intensity": 0.9
+      }
+    },
+    {
+      "id": "kochankowie-moi",
+      "title": "Kochankowie moi",
+      "wordCount": 93,
+      "emotion": {
+        "primary": "euforia",
+        "secondary": "obrzydzenie",
+        "intensity": 0.9
+      }
+    },
+    {
+      "id": "koleda",
+      "title": "Kolęda",
+      "wordCount": 244,
+      "emotion": {
+        "primary": "rezygnacja",
+        "secondary": "melancholia",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "komentarz-do-pewnej-fotografii",
+      "title": "Komentarz do pewnej fotografii",
+      "wordCount": 78,
+      "emotion": {
+        "primary": "obrzydzenie",
+        "secondary": "gniew",
+        "intensity": 0.9
+      }
+    },
+    {
+      "id": "koniec-piesni",
+      "title": "Koniec pieśni",
+      "wordCount": 159,
+      "emotion": {
+        "primary": "melancholia",
+        "secondary": "rezygnacja",
+        "intensity": 0.7
+      }
+    },
+    {
+      "id": "koniec-poezji",
+      "title": "Koniec poezji",
+      "wordCount": 53,
+      "emotion": {
+        "primary": "bunt",
+        "secondary": "rozpacz",
+        "intensity": 0.9
+      }
+    },
+    {
+      "id": "koniec-swiata",
+      "title": "Koniec świata",
+      "wordCount": 112,
+      "emotion": {
+        "primary": "rezygnacja",
+        "secondary": "rozpacz",
+        "intensity": 0.9
+      }
+    },
+    {
+      "id": "kropla",
+      "title": "Kropla",
+      "wordCount": 19,
+      "emotion": {
+        "primary": "czułość",
+        "secondary": "tęsknota",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "krzyz-2",
+      "title": "Krzyż",
+      "wordCount": 71,
+      "emotion": {
+        "primary": "tęsknota",
+        "secondary": "czułość",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "krzyz",
+      "title": "Krzyż",
+      "wordCount": 71,
+      "emotion": {
+        "primary": "pożądanie",
+        "secondary": "czułość",
+        "intensity": 0.9
+      }
+    },
+    {
+      "id": "ktora-zmeczona-spi",
+      "title": "Która zmęczona śpi",
+      "wordCount": 79,
+      "emotion": {
+        "primary": "czułość",
+        "secondary": "tęsknota",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "kwestie-grudniowe",
+      "title": "Kwestie grudniowe",
+      "wordCount": 83,
+      "emotion": {
+        "primary": "tęsknota",
+        "secondary": "rozpacz",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "kwiat-zrywajac-ciebie-biorac",
+      "title": "Kwiat zrywając, ciebie biorąc",
+      "wordCount": 30,
+      "emotion": {
+        "primary": "euforia",
+        "secondary": "rezygnacja",
+        "intensity": 0.7
+      }
+    },
+    {
+      "id": "lament",
+      "title": "Lament",
+      "wordCount": 74,
+      "emotion": {
+        "primary": "rozpacz",
+        "secondary": "rezygnacja",
+        "intensity": 0.9
+      }
+    },
+    {
+      "id": "lament-bohaterow",
+      "title": "Lament bohaterów",
+      "wordCount": 88,
+      "emotion": {
+        "primary": "gniew",
+        "secondary": "melancholia",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "latomia",
+      "title": "Latomia",
+      "wordCount": 128,
+      "emotion": {
+        "primary": "tęsknota",
+        "secondary": "lęk",
+        "intensity": 0.7
+      }
+    },
+    {
+      "id": "list-do-krolowej-polski",
+      "title": "List do Królowej Polski",
+      "wordCount": 119,
+      "emotion": {
+        "primary": "rozpacz",
+        "secondary": "rezygnacja",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "list-do-nie-wiadomo-kogo",
+      "title": "List do nie wiadomo kogo",
+      "wordCount": 143,
+      "emotion": {
+        "primary": "ironia",
+        "secondary": "rezygnacja",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "list-do-nieznanego-poety",
+      "title": "List do nieznanego poety",
+      "wordCount": 135,
+      "emotion": {
+        "primary": "melancholia",
+        "secondary": "tęsknota",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "list-spod-celi",
+      "title": "List spod celi",
+      "wordCount": 62,
+      "emotion": {
+        "primary": "tęsknota",
+        "secondary": "melancholia",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "list-spod-celi-ii",
+      "title": "List spod celi II",
+      "wordCount": 63,
+      "emotion": {
+        "primary": "rezygnacja",
+        "secondary": "rozpacz",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "ludzie-klada-sie-spac",
+      "title": "Ludzie kładą się spać",
+      "wordCount": 52,
+      "emotion": {
+        "primary": "ironia",
+        "secondary": "melancholia",
+        "intensity": 0.7
+      }
+    },
+    {
+      "id": "mapa",
+      "title": "Mapa",
+      "wordCount": 72,
+      "emotion": {
+        "primary": "czułość",
+        "secondary": "euforia",
+        "intensity": 0.9
+      }
+    },
+    {
+      "id": "marii-krwi-kobyla",
+      "title": "Marii krwi kobyła",
+      "wordCount": 19,
+      "emotion": {
+        "primary": "tęsknota",
+        "secondary": "melancholia",
+        "intensity": 0.7
+      }
+    },
+    {
+      "id": "marsz-zalobny",
+      "title": "Marsz żałobny",
+      "wordCount": 75,
+      "emotion": {
+        "primary": "obrzydzenie",
+        "secondary": "rezygnacja",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "martwy-jezyk",
+      "title": "Martwy język",
+      "wordCount": 35,
+      "emotion": {
+        "primary": "obrzydzenie",
+        "secondary": "rezygnacja",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "martwy-sezon",
+      "title": "Martwy sezon",
+      "wordCount": 105,
+      "emotion": {
+        "primary": "melancholia",
+        "secondary": "rezygnacja",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "mesjasz",
+      "title": "Mesjasz",
+      "wordCount": 72,
+      "emotion": {
+        "primary": "rozpacz",
+        "secondary": "bunt",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "mimikra",
+      "title": "Mimikra",
+      "wordCount": 90,
+      "emotion": {
+        "primary": "melancholia",
+        "secondary": "tęsknota",
+        "intensity": 0.7
+      }
+    },
+    {
+      "id": "mit-2",
+      "title": "Mit",
+      "wordCount": 76,
+      "emotion": {
+        "primary": "melancholia",
+        "secondary": "tęsknota",
+        "intensity": 0.7
+      }
+    },
+    {
+      "id": "mit",
+      "title": "Mit",
+      "wordCount": 105,
+      "emotion": {
+        "primary": "melancholia",
+        "secondary": "tęsknota",
+        "intensity": 0.7
+      }
+    },
+    {
+      "id": "mit-o-dawnym-szczesciu",
+      "title": "Mit o dawnym szczęściu",
+      "wordCount": 72,
+      "emotion": {
+        "primary": "ironia",
+        "secondary": "obrzydzenie",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "mit-rodzinny",
+      "title": "mit rodzinny",
+      "wordCount": 107,
+      "emotion": {
+        "primary": "obrzydzenie",
+        "secondary": "rozpacz",
+        "intensity": 0.9
+      }
+    },
+    {
+      "id": "modlitwa-bohaterow",
+      "title": "Modlitwa bohaterów",
+      "wordCount": 111,
+      "emotion": {
+        "primary": "rezygnacja",
+        "secondary": "rozpacz",
+        "intensity": 0.9
+      }
+    },
+    {
+      "id": "modlitwa-szarego-czlowieka",
+      "title": "Modlitwa szarego człowieka",
+      "wordCount": 157,
+      "emotion": {
+        "primary": "rezygnacja",
+        "secondary": "melancholia",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "moja-piosenka",
+      "title": "MOJA PIOSENKA(A. D. 1969)",
+      "wordCount": 82,
+      "emotion": {
+        "primary": "melancholia",
+        "secondary": "czułość",
+        "intensity": 0.7
+      }
+    },
+    {
+      "id": "moja-piosnka-a-d-1969",
+      "title": "Moja piosnka (A.D. 1969)",
+      "wordCount": 86,
+      "emotion": {
+        "primary": "melancholia",
+        "secondary": "czułość",
+        "intensity": 0.7
+      }
+    },
+    {
+      "id": "moje-cialo",
+      "title": "Moje ciało",
+      "wordCount": 235,
+      "emotion": {
+        "primary": "tęsknota",
+        "secondary": "rezygnacja",
+        "intensity": 0.9
+      }
+    },
+    {
+      "id": "mojej-bolesnej",
+      "title": "Mojej bolesnej",
+      "wordCount": 33,
+      "emotion": {
+        "primary": "czułość",
+        "secondary": "melancholia",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "moj-pies-bardzo-przyjemny",
+      "title": "Mój pies bardzo przyjemny",
+      "wordCount": 97,
+      "emotion": {
+        "primary": "melancholia",
+        "secondary": "rezygnacja",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "moj-slownik-2",
+      "title": "Mój słownik",
+      "wordCount": 61,
+      "emotion": {
+        "primary": "rozpacz",
+        "secondary": "tęsknota",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "moj-slownik",
+      "title": "Mój słownik",
+      "wordCount": 61,
+      "emotion": {
+        "primary": "rozpacz",
+        "secondary": "tęsknota",
+        "intensity": 0.9
+      }
+    },
+    {
+      "id": "moj-szerokostopy-mozg",
+      "title": "Mój szerokostopy mózg",
+      "wordCount": 78,
+      "emotion": {
+        "primary": "ironia",
+        "secondary": "bunt",
+        "intensity": 0.7
+      }
+    },
+    {
+      "id": "mow-a-ja-z-twoich-slow-kolczyki-zrobie",
+      "title": "Mów – a ja z twoich słów kolczyki zrobię",
+      "wordCount": 53,
+      "emotion": {
+        "primary": "rezygnacja",
+        "secondary": "czułość",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "mowie-do-ciebie-cicho",
+      "title": "Mówię do ciebie cicho",
+      "wordCount": 88,
+      "emotion": {
+        "primary": "czułość",
+        "secondary": "tęsknota",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "musi-byc-ktos-2",
+      "title": "Musi być ktoś",
+      "wordCount": 15,
+      "emotion": {
+        "primary": "tęsknota",
+        "secondary": "rozpacz",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "musi-byc-ktos",
+      "title": "Musi być ktoś",
+      "wordCount": 15,
+      "emotion": {
+        "primary": "tęsknota",
+        "secondary": "rozpacz",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "musisz-sie-zawsze-rozy-bac",
+      "title": "Musisz się zawsze róży bać",
+      "wordCount": 97,
+      "emotion": {
+        "primary": "rozpacz",
+        "secondary": "tęsknota",
+        "intensity": 0.9
+      }
+    },
+    {
+      "id": "musze-byc-bardzo-skupiony",
+      "title": "Muszę być bardzo skupiony",
+      "wordCount": 50,
+      "emotion": {
+        "primary": "obrzydzenie",
+        "secondary": "gniew",
+        "intensity": 0.9
+      }
+    },
+    {
+      "id": "muzyczne",
+      "title": "Muzyczne",
+      "wordCount": 65,
+      "emotion": {
+        "primary": "tęsknota",
+        "secondary": "melancholia",
+        "intensity": 0.7
+      }
+    },
+    {
+      "id": "myjaca-sie",
+      "title": "Myjąca się",
+      "wordCount": 90,
+      "emotion": {
+        "primary": "obrzydzenie",
+        "secondary": "tęsknota",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "na-nucie-najwyzszej",
+      "title": "Na nucie najwyższej",
+      "wordCount": 95,
+      "emotion": {
+        "primary": "tęsknota",
+        "secondary": "melancholia",
+        "intensity": 0.7
+      }
+    },
+    {
+      "id": "na-odwrocie-starego-wiersza",
+      "title": "Na odwrocie starego wiersza",
+      "wordCount": 135,
+      "emotion": {
+        "primary": "ironia",
+        "secondary": "rezygnacja",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "na-pokoj-i-na-wojne",
+      "title": "Na pokój i na wojnę",
+      "wordCount": 82,
+      "emotion": {
+        "primary": "ironia",
+        "secondary": "bunt",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "naga-rano",
+      "title": "Naga rano",
+      "wordCount": 57,
+      "emotion": {
+        "primary": "euforia",
+        "secondary": "czułość",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "nasza-pani",
+      "title": "Nasza pani",
+      "wordCount": 57,
+      "emotion": {
+        "primary": "rezygnacja",
+        "secondary": "melancholia",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "nasze-zony",
+      "title": "Nasze żony",
+      "wordCount": 111,
+      "emotion": {
+        "primary": "rezygnacja",
+        "secondary": "gniew",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "nawet-nie-musze-zamykac-oczu",
+      "title": "Nawet nie muszę zamykać oczu",
+      "wordCount": 28,
+      "emotion": null
+    },
+    {
+      "id": "nie-skonczona-krucjata",
+      "title": "Nie skończona krucjata",
+      "wordCount": 91,
+      "emotion": {
+        "primary": "rezygnacja",
+        "secondary": "melancholia",
+        "intensity": 0.7
+      }
+    },
+    {
+      "id": "niebo-na-piersi-kladzie-mi",
+      "title": "Niebo na piersi kładzie mi",
+      "wordCount": 30,
+      "emotion": {
+        "primary": "rozpacz",
+        "secondary": "rezygnacja",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "niedziela",
+      "title": "Niedziela",
+      "wordCount": 80,
+      "emotion": {
+        "primary": "czułość",
+        "secondary": "melancholia",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "nigdy-nie-otwierac-okna",
+      "title": "Nigdy nie otwierać okna",
+      "wordCount": 48,
+      "emotion": {
+        "primary": "rezygnacja",
+        "secondary": "melancholia",
+        "intensity": 0.7
+      }
+    },
+    {
+      "id": "nigdy-zgoda",
+      "title": "Nigdy zgoda",
+      "wordCount": 100,
+      "emotion": {
+        "primary": "gniew",
+        "secondary": "czułość",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "notatki-do-opisu-janusza-stycznia",
+      "title": "Notatki do opisu Janusza Stycznia",
+      "wordCount": 346,
+      "emotion": {
+        "primary": "ironia",
+        "secondary": "melancholia",
+        "intensity": 0.7
+      }
+    },
+    {
+      "id": "notatki-z-celi-smierci",
+      "title": "Notatki z celi śmierci",
+      "wordCount": 116,
+      "emotion": {
+        "primary": "rozpacz",
+        "secondary": "obrzydzenie",
+        "intensity": 0.9
+      }
+    },
+    {
+      "id": "nowy-sezon",
+      "title": "Nowy sezon",
+      "wordCount": 58,
+      "emotion": {
+        "primary": "rezygnacja",
+        "secondary": "melancholia",
+        "intensity": 0.7
+      }
+    },
+    {
+      "id": "oblok",
+      "title": "Obłok",
+      "wordCount": 84,
+      "emotion": {
+        "primary": "melancholia",
+        "secondary": "rezygnacja",
+        "intensity": 0.7
+      }
+    },
+    {
+      "id": "oddanie",
+      "title": "Oddanie",
+      "wordCount": 70,
+      "emotion": {
+        "primary": "czułość",
+        "secondary": "euforia",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "odjazd",
+      "title": "Odjazd",
+      "wordCount": 87,
+      "emotion": {
+        "primary": "tęsknota",
+        "secondary": "euforia",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "ogien",
+      "title": "Ogień",
+      "wordCount": 37,
+      "emotion": {
+        "primary": "euforia",
+        "secondary": "tęsknota",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "ogolniki",
+      "title": "Ogólniki",
+      "wordCount": 121,
+      "emotion": {
+        "primary": "ironia",
+        "secondary": "rezygnacja",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "ojczyzna",
+      "title": "Ojczyzna",
+      "wordCount": 70,
+      "emotion": {
+        "primary": "ironia",
+        "secondary": "bunt",
+        "intensity": 0.9
+      }
+    },
+    {
+      "id": "okno",
+      "title": "Okno",
+      "wordCount": 208,
+      "emotion": {
+        "primary": "melancholia",
+        "secondary": "rezygnacja",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "ona-mowi-ze-ja-milosc-boli",
+      "title": "ONA MÓWI, ŻE JĄ MIŁOŚĆ BOLI",
+      "wordCount": 30,
+      "emotion": {
+        "primary": "czułość",
+        "secondary": "melancholia",
+        "intensity": 0.7
+      }
+    },
+    {
+      "id": "osoby-zwierzat-wspanialych",
+      "title": "Osoby zwierząt wspaniałych",
+      "wordCount": 87,
+      "emotion": {
+        "primary": "bunt",
+        "secondary": "obrzydzenie",
+        "intensity": 0.9
+      }
+    },
+    {
+      "id": "ostatnia",
+      "title": "Ostatnia",
+      "wordCount": 78,
+      "emotion": {
+        "primary": "rozpacz",
+        "secondary": "obrzydzenie",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "ostatnia-modlitwa-bohaterow",
+      "title": "Ostatnia modlitwa bohaterów",
+      "wordCount": 165,
+      "emotion": {
+        "primary": "czułość",
+        "secondary": "melancholia",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "ostatnia-noc",
+      "title": "Ostatnia noc",
+      "wordCount": 76,
+      "emotion": {
+        "primary": "rozpacz",
+        "secondary": "tęsknota",
+        "intensity": 0.9
+      }
+    },
+    {
+      "id": "oto-juz-sie-zaczyna",
+      "title": "Oto już się zaczyna",
+      "wordCount": 94,
+      "emotion": {
+        "primary": "obrzydzenie",
+        "secondary": "bunt",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "owoc",
+      "title": "Owoc",
+      "wordCount": 35,
+      "emotion": {
+        "primary": "tęsknota",
+        "secondary": "rezygnacja",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "pewna-sytuacja",
+      "title": "Pewna sytuacja",
+      "wordCount": 40,
+      "emotion": {
+        "primary": "obrzydzenie",
+        "secondary": "rezygnacja",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "pewna-wiedza",
+      "title": "Pewna wiedza",
+      "wordCount": 87,
+      "emotion": {
+        "primary": "melancholia",
+        "secondary": "tęsknota",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "pewne-rymy",
+      "title": "Pewne rymy",
+      "wordCount": 91,
+      "emotion": {
+        "primary": "rezygnacja",
+        "secondary": "obrzydzenie",
+        "intensity": 0.9
+      }
+    },
+    {
+      "id": "pewniki",
+      "title": "Pewniki",
+      "wordCount": 53,
+      "emotion": {
+        "primary": "tęsknota",
+        "secondary": "czułość",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "pierwsza-gwiazda",
+      "title": "Pierwsza gwiazda",
+      "wordCount": 72,
+      "emotion": null
+    },
+    {
+      "id": "pierwszy-dzien-wolnosci",
+      "title": "Pierwszy dzień wolności",
+      "wordCount": 76,
+      "emotion": {
+        "primary": "obrzydzenie",
+        "secondary": "rozpacz",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "pierwszy-znak-na-tej-karcie",
+      "title": "Pierwszy znak na tej karcie",
+      "wordCount": 67,
+      "emotion": null
+    },
+    {
+      "id": "piesn-ostateczna",
+      "title": "Pieśń ostateczna",
+      "wordCount": 98,
+      "emotion": {
+        "primary": "rezygnacja",
+        "secondary": "melancholia",
+        "intensity": 0.9
+      }
+    },
+    {
+      "id": "piesn-smiertelna-bohatera",
+      "title": "Pieśń śmiertelna bohatera",
+      "wordCount": 216,
+      "emotion": {
+        "primary": "rozpacz",
+        "secondary": "rezygnacja",
+        "intensity": 0.9
+      }
+    },
+    {
+      "id": "piec-zdan-o-wlosach-2",
+      "title": "Pięć zdań o włosach",
+      "wordCount": 57,
+      "emotion": null
+    },
+    {
+      "id": "piec-zdan-o-wlosach",
+      "title": "Pięć zdań o włosach",
+      "wordCount": 55,
+      "emotion": {
+        "primary": "melancholia",
+        "secondary": "rezygnacja",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "piosenka",
+      "title": "Piosenka",
+      "wordCount": 62,
+      "emotion": {
+        "primary": "euforia",
+        "secondary": "pożądanie",
+        "intensity": 0.9
+      }
+    },
+    {
+      "id": "piosenka-bohaterow",
+      "title": "Piosenka bohaterów",
+      "wordCount": 84,
+      "emotion": {
+        "primary": "tęsknota",
+        "secondary": "melancholia",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "piosenka-bohaterow-iii",
+      "title": "Piosenka bohaterów III",
+      "wordCount": 67,
+      "emotion": {
+        "primary": "tęsknota",
+        "secondary": "melancholia",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "piosenka-bohaterow-iii-na-dworcu-glownym",
+      "title": "Piosenka bohaterów III (na dworcu głównym)",
+      "wordCount": 94,
+      "emotion": {
+        "primary": "rozpacz",
+        "secondary": "rezygnacja",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "piosenka-bohaterow-vi",
+      "title": "Piosenka bohaterów VI",
+      "wordCount": 108,
+      "emotion": {
+        "primary": "melancholia",
+        "secondary": "rezygnacja",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "piosenka-bohaterow-vii-2",
+      "title": "Piosenka bohaterów VII",
+      "wordCount": 80,
+      "emotion": {
+        "primary": "melancholia",
+        "secondary": "ironia",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "piosenka-bohaterow-vii",
+      "title": "Piosenka bohaterów VII",
+      "wordCount": 80,
+      "emotion": {
+        "primary": "melancholia",
+        "secondary": "ironia",
+        "intensity": 0.7
+      }
+    },
+    {
+      "id": "piosenka-bohaterow-viii",
+      "title": "Piosenka bohaterów VIII",
+      "wordCount": 96,
+      "emotion": {
+        "primary": "tęsknota",
+        "secondary": "rezygnacja",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "piosenka-innej-ulicy",
+      "title": "Piosenka innej ulicy",
+      "wordCount": 414,
+      "emotion": {
+        "primary": "rozpacz",
+        "secondary": "rezygnacja",
+        "intensity": 0.9
+      }
+    },
+    {
+      "id": "piosenka-o-poecie",
+      "title": "Piosenka o poecie",
+      "wordCount": 87,
+      "emotion": {
+        "primary": "gniew",
+        "secondary": "bunt",
+        "intensity": 0.9
+      }
+    },
+    {
+      "id": "piosenka-o-poecie-ii",
+      "title": "Piosenka o poecie II",
+      "wordCount": 46,
+      "emotion": {
+        "primary": "ironia",
+        "secondary": "rezygnacja",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "piosenka-odwrotnej-strony-medalu-2",
+      "title": "Piosenka odwrotnej strony medalu",
+      "wordCount": 285,
+      "emotion": {
+        "primary": "rozpacz",
+        "secondary": "bunt",
+        "intensity": 0.9
+      }
+    },
+    {
+      "id": "piosenka-odwrotnej-strony-medalu",
+      "title": "Piosenka odwrotnej strony medalu",
+      "wordCount": 146,
+      "emotion": {
+        "primary": "rozpacz",
+        "secondary": "obrzydzenie",
+        "intensity": 0.9
+      }
+    },
+    {
+      "id": "piosenka-starego-ksiezyca",
+      "title": "Piosenka starego księżyca",
+      "wordCount": 86,
+      "emotion": null
+    },
+    {
+      "id": "piosenka-uliczna",
+      "title": "Piosenka uliczna",
+      "wordCount": 213,
+      "emotion": {
+        "primary": "rezygnacja",
+        "secondary": "melancholia",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "piosenka-z-najwyzszej-wiezy-2",
+      "title": "Piosenka z najwyższej wieży",
+      "wordCount": 271,
+      "emotion": {
+        "primary": "euforia",
+        "secondary": "tęsknota",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "piosenka-z-najwyzszej-wiezy",
+      "title": "Piosenka z najwyższej wieży",
+      "wordCount": 207,
+      "emotion": {
+        "primary": "rozpacz",
+        "secondary": "bunt",
+        "intensity": 0.9
+      }
+    },
+    {
+      "id": "piotrus-wariat",
+      "title": "Piotruś wariat",
+      "wordCount": 39,
+      "emotion": {
+        "primary": "obrzydzenie",
+        "secondary": "rezygnacja",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "pisze-wiersz",
+      "title": "Piszę wiersz",
+      "wordCount": 108,
+      "emotion": {
+        "primary": "rozpacz",
+        "secondary": "rezygnacja",
+        "intensity": 0.9
+      }
+    },
+    {
+      "id": "po-sezonie",
+      "title": "Po sezonie",
+      "wordCount": 61,
+      "emotion": {
+        "primary": "rezygnacja",
+        "secondary": "melancholia",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "pochodnie",
+      "title": "Pochodnie",
+      "wordCount": 72,
+      "emotion": {
+        "primary": "euforia",
+        "secondary": "tęsknota",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "poczatek-poezji",
+      "title": "Początek poezji",
+      "wordCount": 151,
+      "emotion": {
+        "primary": "tęsknota",
+        "secondary": "melancholia",
+        "intensity": 0.7
+      }
+    },
+    {
+      "id": "poczatek-wiersza",
+      "title": "Początek wiersza",
+      "wordCount": 14,
+      "emotion": {
+        "primary": "ironia",
+        "secondary": "rezygnacja",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "pod-sciana",
+      "title": "Pod ścianą",
+      "wordCount": 57,
+      "emotion": {
+        "primary": "melancholia",
+        "secondary": "tęsknota",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "podwojna-elegia",
+      "title": "Podwójna elegia",
+      "wordCount": 115,
+      "emotion": {
+        "primary": "rozpacz",
+        "secondary": "gniew",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "poemat-mojej-melancholii",
+      "title": "Poemat mojej melancholii",
+      "wordCount": 555,
+      "emotion": {
+        "primary": "melancholia",
+        "secondary": "ironia",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "poemat-o-domu-wielce-smutnym",
+      "title": "Poemat o domu wielce smutnym",
+      "wordCount": 188,
+      "emotion": {
+        "primary": "melancholia",
+        "secondary": "rezygnacja",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "poeta-mowi-jakze-ironicznie",
+      "title": "Poeta mówi jakże ironicznie",
+      "wordCount": 70,
+      "emotion": {
+        "primary": "ironia",
+        "secondary": "rezygnacja",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "powieszony",
+      "title": "Powieszony",
+      "wordCount": 85,
+      "emotion": {
+        "primary": "rozpacz",
+        "secondary": "ironia",
+        "intensity": 0.9
+      }
+    },
+    {
+      "id": "powiesc-nocy-zimowej",
+      "title": "Powieść nocy zimowej",
+      "wordCount": 102,
+      "emotion": {
+        "primary": "melancholia",
+        "secondary": "tęsknota",
+        "intensity": 0.7
+      }
+    },
+    {
+      "id": "prawdziwe-zycie-bohatera",
+      "title": "Prawdziwe życie bohatera",
+      "wordCount": 84,
+      "emotion": {
+        "primary": "rozpacz",
+        "secondary": "tęsknota",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "prawdziwy-bohater-bawi-sie-sam",
+      "title": "Prawdziwy bohater bawi się sam",
+      "wordCount": 791,
+      "emotion": {
+        "primary": "melancholia",
+        "secondary": "rezygnacja",
+        "intensity": 0.7
+      }
+    },
+    {
+      "id": "prolegomena-do-innej-bajki",
+      "title": "Prolegomena do innej bajki",
+      "wordCount": 92,
+      "emotion": {
+        "primary": "tęsknota",
+        "secondary": "euforia",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "prolegomena-do-sztuki-wyzwolonej",
+      "title": "Prolegomena do sztuki wyzwolonej",
+      "wordCount": 79,
+      "emotion": {
+        "primary": "obrzydzenie",
+        "secondary": "gniew",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "prosba-2",
+      "title": "Prośba",
+      "wordCount": 94,
+      "emotion": {
+        "primary": "rezygnacja",
+        "secondary": "ironia",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "prosba-3",
+      "title": "Prośba",
+      "wordCount": 84,
+      "emotion": {
+        "primary": "tęsknota",
+        "secondary": "rozpacz",
+        "intensity": 0.9
+      }
+    },
+    {
+      "id": "prosba",
+      "title": "Prośba",
+      "wordCount": 94,
+      "emotion": {
+        "primary": "rezygnacja",
+        "secondary": "ironia",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "proba-nowego-swiata",
+      "title": "Próba nowego świata",
+      "wordCount": 148,
+      "emotion": {
+        "primary": "ironia",
+        "secondary": "bunt",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "proba-ostatniego-wiersza",
+      "title": "Próba ostatniego wiersza",
+      "wordCount": 74,
+      "emotion": {
+        "primary": "rezygnacja",
+        "secondary": "rozpacz",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "proba-poematu",
+      "title": "Próba poematu",
+      "wordCount": 196,
+      "emotion": {
+        "primary": "melancholia",
+        "secondary": "tęsknota",
+        "intensity": 0.7
+      }
+    },
+    {
+      "id": "pszczoly-innego-rzedu",
+      "title": "Pszczoły innego rzędu",
+      "wordCount": 94,
+      "emotion": {
+        "primary": "obrzydzenie",
+        "secondary": "rezygnacja",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "ptak-o-ktorym-troche-wiem",
+      "title": "Ptak, o którym trochę wiem",
+      "wordCount": 117,
+      "emotion": {
+        "primary": "melancholia",
+        "secondary": "tęsknota",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "pytanie-bardzo-kobiece",
+      "title": "Pytanie bardzo kobiece",
+      "wordCount": 14,
+      "emotion": {
+        "primary": "melancholia",
+        "secondary": "tęsknota",
+        "intensity": 0.6
+      }
+    },
+    {
+      "id": "ranny-wiersz-2",
+      "title": "Ranny wiersz",
+      "wordCount": 178,
+      "emotion": {
+        "primary": "rozpacz",
+        "secondary": "rezygnacja",
+        "intensity": 0.9
+      }
+    },
+    {
+      "id": "ranny-wiersz",
+      "title": "Ranny wiersz",
+      "wordCount": 45,
+      "emotion": {
+        "primary": "ironia",
+        "secondary": "obrzydzenie",
+        "intensity": 0.7
+      }
+    },
+    {
+      "id": "reszta-krwi",
+      "title": "Reszta krwi",
+      "wordCount": 30,
+      "emotion": {
+        "primary": "melancholia",
+        "secondary": "czułość",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "rekopis-2",
+      "title": "Rękopis",
+      "wordCount": 98,
+      "emotion": {
+        "primary": "tęsknota",
+        "secondary": "czułość",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "rekopis",
+      "title": "Rękopis",
+      "wordCount": 184,
+      "emotion": {
+        "primary": "rozpacz",
+        "secondary": "rezygnacja",
+        "intensity": 0.9
+      }
+    },
+    {
+      "id": "rimbaud",
+      "title": "Rimbaud",
+      "wordCount": 94,
+      "emotion": {
+        "primary": "melancholia",
+        "secondary": "tęsknota",
+        "intensity": 0.7
+      }
+    },
+    {
+      "id": "rozpisalem-konkurs",
+      "title": "Rozpisałem konkurs",
+      "wordCount": 79,
+      "emotion": {
+        "primary": "tęsknota",
+        "secondary": "rozpacz",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "rozstanie",
+      "title": "Rozstanie",
+      "wordCount": 76,
+      "emotion": {
+        "primary": "rozpacz",
+        "secondary": "tęsknota",
+        "intensity": 0.9
+      }
+    },
+    {
+      "id": "roza",
+      "title": "Róża",
+      "wordCount": 99,
+      "emotion": {
+        "primary": "tęsknota",
+        "secondary": "melancholia",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "roze",
+      "title": "Róże",
+      "wordCount": 55,
+      "emotion": {
+        "primary": "rozpacz",
+        "secondary": "obrzydzenie",
+        "intensity": 0.9
+      }
+    },
+    {
+      "id": "rymy-na-przednowku",
+      "title": "Rymy na przednówku",
+      "wordCount": 56,
+      "emotion": {
+        "primary": "rozpacz",
+        "secondary": "rezygnacja",
+        "intensity": 0.9
+      }
+    },
+    {
+      "id": "sanatorium",
+      "title": "Sanatorium",
+      "wordCount": 169,
+      "emotion": {
+        "primary": "obrzydzenie",
+        "secondary": "rezygnacja",
+        "intensity": 0.7
+      }
+    },
+    {
+      "id": "scherzo",
+      "title": "Scherzo",
+      "wordCount": 81,
+      "emotion": {
+        "primary": "euforia",
+        "secondary": "bunt",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "senna-ballada-na-temat-co-kobiety-wiedza-o-wierszach",
+      "title": "Senna ballada na temat, co kobiety wiedzą o wierszach",
+      "wordCount": 99,
+      "emotion": {
+        "primary": "tęsknota",
+        "secondary": "melancholia",
+        "intensity": 0.7
+      }
+    },
+    {
+      "id": "serce",
+      "title": "Serce",
+      "wordCount": 125,
+      "emotion": {
+        "primary": "melancholia",
+        "secondary": "tęsknota",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "sezon",
+      "title": "Sezon",
+      "wordCount": 71,
+      "emotion": {
+        "primary": "rezygnacja",
+        "secondary": "rozpacz",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "sezon-ii",
+      "title": "Sezon II",
+      "wordCount": 56,
+      "emotion": {
+        "primary": "ironia",
+        "secondary": "melancholia",
+        "intensity": 0.7
+      }
+    },
+    {
+      "id": "sezon-iv",
+      "title": "Sezon IV",
+      "wordCount": 12,
+      "emotion": {
+        "primary": "melancholia",
+        "secondary": "rezygnacja",
+        "intensity": 0.7
+      }
+    },
+    {
+      "id": "siostry-syjamskie",
+      "title": "Siostry syjamskie",
+      "wordCount": 97,
+      "emotion": {
+        "primary": "obrzydzenie",
+        "secondary": "rozpacz",
+        "intensity": 0.9
+      }
+    },
+    {
+      "id": "slowa-do-piosenki-na-ostatni-dzien-roku",
+      "title": "Słowa do piosenki na ostatni dzień roku",
+      "wordCount": 143,
+      "emotion": {
+        "primary": "melancholia",
+        "secondary": "rezygnacja",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "slowo-do-jednego",
+      "title": "Słowo do jednego",
+      "wordCount": 108,
+      "emotion": {
+        "primary": "rezygnacja",
+        "secondary": "melancholia",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "slowo-z-twych-ust",
+      "title": "Słowo z Twych ust",
+      "wordCount": 60,
+      "emotion": {
+        "primary": "tęsknota",
+        "secondary": "ironia",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "sol-w-nasze-rany",
+      "title": "Sól w nasze rany",
+      "wordCount": 107,
+      "emotion": {
+        "primary": "bunt",
+        "secondary": "gniew",
+        "intensity": 0.9
+      }
+    },
+    {
+      "id": "sto-piecdziesiaty-dowod-na-twoje-istnienie",
+      "title": "Sto pięćdziesiąty dowód na twoje istnienie",
+      "wordCount": 20,
+      "emotion": {
+        "primary": "tęsknota",
+        "secondary": "melancholia",
+        "intensity": 0.7
+      }
+    },
+    {
+      "id": "studium",
+      "title": "Studium",
+      "wordCount": 97,
+      "emotion": {
+        "primary": "rezygnacja",
+        "secondary": "tęsknota",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "sutki-stwardnialy",
+      "title": "Sutki stwardniały",
+      "wordCount": 57,
+      "emotion": {
+        "primary": "tęsknota",
+        "secondary": "czułość",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "smierc-nie-znalazla-jeszcze-wlasciwego-wyrazu",
+      "title": "Śmierć nie znalazła jeszcze właściwego wyrazu",
+      "wordCount": 15,
+      "emotion": {
+        "primary": "melancholia",
+        "secondary": "rezygnacja",
+        "intensity": 0.7
+      }
+    },
+    {
+      "id": "swiadectwo",
+      "title": "Świadectwo",
+      "wordCount": 114,
+      "emotion": {
+        "primary": "melancholia",
+        "secondary": "tęsknota",
+        "intensity": 0.7
+      }
+    },
+    {
+      "id": "swiete-krowy",
+      "title": "Święte krowy",
+      "wordCount": 77,
+      "emotion": {
+        "primary": "euforia",
+        "secondary": "czułość",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "te-dziewczynki",
+      "title": "Te dziewczynki",
+      "wordCount": 57,
+      "emotion": {
+        "primary": "ironia",
+        "secondary": "obrzydzenie",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "ten-ruch",
+      "title": "Ten ruch",
+      "wordCount": 91,
+      "emotion": {
+        "primary": "melancholia",
+        "secondary": "tęsknota",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "ten-trzeci",
+      "title": "Ten trzeci",
+      "wordCount": 65,
+      "emotion": {
+        "primary": "gniew",
+        "secondary": "tęsknota",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "to-jest-hanka",
+      "title": "To jest Hanka",
+      "wordCount": 128,
+      "emotion": {
+        "primary": "melancholia",
+        "secondary": "czułość",
+        "intensity": 0.7
+      }
+    },
+    {
+      "id": "trzeba-bylo-rozstrzelac-poete",
+      "title": "Trzeba było rozstrzelać poetę",
+      "wordCount": 92,
+      "emotion": {
+        "primary": "melancholia",
+        "secondary": "tęsknota",
+        "intensity": 0.7
+      }
+    },
+    {
+      "id": "trzecie-oko",
+      "title": "Trzecie oko",
+      "wordCount": 29,
+      "emotion": {
+        "primary": "pożądanie",
+        "secondary": "czułość",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "trzy-wiersze-religijne",
+      "title": "Trzy wiersze religijne",
+      "wordCount": 287,
+      "emotion": {
+        "primary": "tęsknota",
+        "secondary": "czułość",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "twarz-2",
+      "title": "Twarz",
+      "wordCount": 76,
+      "emotion": {
+        "primary": "ironia",
+        "secondary": "obrzydzenie",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "twarz",
+      "title": "Twarz",
+      "wordCount": 67,
+      "emotion": {
+        "primary": "tęsknota",
+        "secondary": "euforia",
+        "intensity": 0.7
+      }
+    },
+    {
+      "id": "twoje-cialo-bolesne",
+      "title": "Twoje ciało bolesne",
+      "wordCount": 51,
+      "emotion": {
+        "primary": "czułość",
+        "secondary": "tęsknota",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "twoje-cialo-moje-dzielo",
+      "title": "twoje ciało, moje dzieło",
+      "wordCount": 72,
+      "emotion": {
+        "primary": "czułość",
+        "secondary": "pożądanie",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "ulica-2",
+      "title": "Ulica",
+      "wordCount": 58,
+      "emotion": null
+    },
+    {
+      "id": "ulica",
+      "title": "Ulica",
+      "wordCount": 57,
+      "emotion": {
+        "primary": "tęsknota",
+        "secondary": "czułość",
+        "intensity": 0.7
+      }
+    },
+    {
+      "id": "umiem-byc-cisza",
+      "title": "Umiem być ciszą",
+      "wordCount": 5,
+      "emotion": {
+        "primary": "melancholia",
+        "secondary": "tęsknota",
+        "intensity": 0.7
+      }
+    },
+    {
+      "id": "urywek",
+      "title": "Urywek",
+      "wordCount": 38,
+      "emotion": {
+        "primary": "melancholia",
+        "secondary": "tęsknota",
+        "intensity": 0.7
+      }
+    },
+    {
+      "id": "vademecum",
+      "title": "Vademecum",
+      "wordCount": 104,
+      "emotion": {
+        "primary": "bunt",
+        "secondary": "rozpacz",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "w-podwojnej-osobie",
+      "title": "W podwójnej osobie",
+      "wordCount": 170,
+      "emotion": {
+        "primary": "rezygnacja",
+        "secondary": "ironia",
+        "intensity": 0.7
+      }
+    },
+    {
+      "id": "w-powiecie",
+      "title": "W powiecie",
+      "wordCount": 65,
+      "emotion": {
+        "primary": "obrzydzenie",
+        "secondary": "euforia",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "w-smiertelnej-potrzebie",
+      "title": "W śmiertelnej potrzebie",
+      "wordCount": 111,
+      "emotion": {
+        "primary": "rozpacz",
+        "secondary": "rezygnacja",
+        "intensity": 0.9
+      }
+    },
+    {
+      "id": "widzenie",
+      "title": "Widzenie",
+      "wordCount": 50,
+      "emotion": {
+        "primary": "melancholia",
+        "secondary": "rezygnacja",
+        "intensity": 0.7
+      }
+    },
+    {
+      "id": "wieczna-aktualnosc-najwyzsza-cnota-sztuki",
+      "title": "Wieczna aktualność najwyższą cnotą sztuki",
+      "wordCount": 89,
+      "emotion": {
+        "primary": "obrzydzenie",
+        "secondary": "gniew",
+        "intensity": 0.9
+      }
+    },
+    {
+      "id": "wiem-kto-to-jest",
+      "title": "Wiem kto to jest",
+      "wordCount": 34,
+      "emotion": {
+        "primary": "rezygnacja",
+        "secondary": "obrzydzenie",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "wierszowi-rosna-piersi",
+      "title": "Wierszowi rosną piersi",
+      "wordCount": 48,
+      "emotion": {
+        "primary": "czułość",
+        "secondary": "tęsknota",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "wierszyk-mironowi-bialoszewskiemu",
+      "title": "Wierszyk Mironowi Białoszewskiemu",
+      "wordCount": 26,
+      "emotion": {
+        "primary": "euforia",
+        "secondary": "rozpacz",
+        "intensity": 0.9
+      }
+    },
+    {
+      "id": "wiesz-jest-mala-radosc-2",
+      "title": "Wiesz jest mała radość",
+      "wordCount": 78,
+      "emotion": {
+        "primary": "czułość",
+        "secondary": "melancholia",
+        "intensity": 0.7
+      }
+    },
+    {
+      "id": "wiesz-jest-mala-radosc",
+      "title": "Wiesz jest mała radość",
+      "wordCount": 70,
+      "emotion": {
+        "primary": "czułość",
+        "secondary": "melancholia",
+        "intensity": 0.7
+      }
+    },
+    {
+      "id": "wiecej-niz-slowa",
+      "title": "Więcej niż słowa",
+      "wordCount": 65,
+      "emotion": {
+        "primary": "ironia",
+        "secondary": "rozpacz",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "wina",
+      "title": "Wina",
+      "wordCount": 76,
+      "emotion": {
+        "primary": "rozpacz",
+        "secondary": "czułość",
+        "intensity": 0.9
+      }
+    },
+    {
+      "id": "wlosy-senne-senna-suknia-lesbia-senna",
+      "title": "Włosy senne senna suknia Lesbia senna",
+      "wordCount": 29,
+      "emotion": {
+        "primary": "melancholia",
+        "secondary": "tęsknota",
+        "intensity": 0.7
+      }
+    },
+    {
+      "id": "wolny-wiersz",
+      "title": "Wolny wiersz",
+      "wordCount": 69,
+      "emotion": {
+        "primary": "ironia",
+        "secondary": "bunt",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "wspomnienie",
+      "title": "Wspomnienie",
+      "wordCount": 110,
+      "emotion": null
+    },
+    {
+      "id": "wspolnie-ulozylismy-list-do-niej",
+      "title": "Wspólnie ułożyliśmy list do niej",
+      "wordCount": 76,
+      "emotion": {
+        "primary": "ironia",
+        "secondary": "melancholia",
+        "intensity": 0.7
+      }
+    },
+    {
+      "id": "wybaczcie-piechocie",
+      "title": "Wybaczcie piechocie",
+      "wordCount": 83,
+      "emotion": {
+        "primary": "obrzydzenie",
+        "secondary": "gniew",
+        "intensity": 0.9
+      }
+    },
+    {
+      "id": "wybrzeze",
+      "title": "Wybrzeże",
+      "wordCount": 46,
+      "emotion": {
+        "primary": "melancholia",
+        "secondary": "tęsknota",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "wyrok",
+      "title": "Wyrok",
+      "wordCount": 78,
+      "emotion": {
+        "primary": "rezygnacja",
+        "secondary": "rozpacz",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "zakon",
+      "title": "Zakon",
+      "wordCount": 101,
+      "emotion": {
+        "primary": "melancholia",
+        "secondary": "czułość",
+        "intensity": 0.7
+      }
+    },
+    {
+      "id": "zapis-z-podziemia-2",
+      "title": "Zapis z podziemia",
+      "wordCount": 132,
+      "emotion": {
+        "primary": "melancholia",
+        "secondary": "tęsknota",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "zapis-z-podziemia",
+      "title": "Zapis z podziemia",
+      "wordCount": 128,
+      "emotion": {
+        "primary": "melancholia",
+        "secondary": "rezygnacja",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "zdroj",
+      "title": "Zdrój",
+      "wordCount": 32,
+      "emotion": null
+    },
+    {
+      "id": "zdumiewa-sie-madroscia",
+      "title": "Zdumiewa się mądrością",
+      "wordCount": 96,
+      "emotion": {
+        "primary": "melancholia",
+        "secondary": "tęsknota",
+        "intensity": 0.7
+      }
+    },
+    {
+      "id": "zlodziej-nadziei",
+      "title": "złodziej nadziei",
+      "wordCount": 57,
+      "emotion": {
+        "primary": "melancholia",
+        "secondary": "rezygnacja",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "zmierzch-lagodnie-rozsuplal",
+      "title": "Zmierzch łagodnie rozsupłał",
+      "wordCount": 132,
+      "emotion": {
+        "primary": "melancholia",
+        "secondary": "tęsknota",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "znow-muzyka",
+      "title": "Znów muzyka",
+      "wordCount": 108,
+      "emotion": {
+        "primary": "tęsknota",
+        "secondary": "melancholia",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "zrodlo",
+      "title": "Zródło",
+      "wordCount": 93,
+      "emotion": {
+        "primary": "ironia",
+        "secondary": "rezygnacja",
+        "intensity": 0.7
+      }
+    },
+    {
+      "id": "zwiastowanie",
+      "title": "Zwiastowanie",
+      "wordCount": 77,
+      "emotion": {
+        "primary": "czułość",
+        "secondary": "tęsknota",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "ze-lampa-ze-krag-swiatla",
+      "title": "Że lampa, że krąg światła",
+      "wordCount": 133,
+      "emotion": {
+        "primary": "melancholia",
+        "secondary": "rozpacz",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "zenskie-rymy-nocy-lipcowej",
+      "title": "Żeńskie rymy nocy lipcowej",
+      "wordCount": 113,
+      "emotion": {
+        "primary": "melancholia",
+        "secondary": "tęsknota",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "zycie-roi-sie-od-szyb",
+      "title": "Życie roi się od szyb",
+      "wordCount": 65,
+      "emotion": {
+        "primary": "rozpacz",
+        "secondary": "obrzydzenie",
+        "intensity": 0.9
+      }
+    },
+    {
+      "id": "zydowka",
+      "title": "Żydówka",
+      "wordCount": 36,
+      "emotion": {
+        "primary": "czułość",
+        "secondary": "tęsknota",
+        "intensity": 0.8
+      }
+    },
+    {
+      "id": "zyje-nie-widujac-gwiazd",
+      "title": "żyję nie widując gwiazd",
+      "wordCount": 44,
+      "emotion": {
+        "primary": "rezygnacja",
+        "secondary": "tęsknota",
+        "intensity": 0.8
+      }
+    }
+  ],
+  "strophicStats": {
+    "avgStanzas": 1.3,
+    "avgLinesPerStanza": 14.6,
+    "totalStanzas": 402
+  },
+  "fractal": {
+    "corpusHurst": 0.661,
+    "corpusDfaAlpha": 0.863,
+    "corpusDfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -0.9195840092162176
+      },
+      {
+        "logWin": 1.791759469228055,
+        "logFluc": -0.10645119583578264
+      },
+      {
+        "logWin": 2.4849066497880004,
+        "logFluc": 0.41134514887365603
+      },
+      {
+        "logWin": 3.1780538303479458,
+        "logFluc": 1.0220428730191857
+      },
+      {
+        "logWin": 3.8918202981106265,
+        "logFluc": 1.7856567682741675
+      },
+      {
+        "logWin": 4.605170185988092,
+        "logFluc": 2.4322894187576507
+      },
+      {
+        "logWin": 5.308267697401205,
+        "logFluc": 3.019076888490427
+      },
+      {
+        "logWin": 6.013715156042802,
+        "logFluc": 3.66284207725884
+      },
+      {
+        "logWin": 6.715383386334681,
+        "logFluc": 4.039908819928606
+      },
+      {
+        "logWin": 7.418180822726788,
+        "logFluc": 4.442319216823868
+      }
+    ],
+    "poemFractals": [
+      {
+        "id": "list-spod-celi",
+        "title": "List spod celi",
+        "hurst": 1.695,
+        "alpha": 0.723,
+        "lines": 12,
+        "emotion": "tęsknota",
+        "intensity": 0.8,
+        "wordCount": 62
+      },
+      {
+        "id": "inny-zakon",
+        "title": "Inny zakon",
+        "hurst": 1.69,
+        "alpha": -0.29,
+        "lines": 12,
+        "emotion": "melancholia",
+        "intensity": 0.7,
+        "wordCount": 63
+      },
+      {
+        "id": "dajmy-zyc-kobiecie",
+        "title": "Dajmy żyć kobiecie",
+        "hurst": 1.668,
+        "alpha": -0.222,
+        "lines": 12,
+        "emotion": "rozpacz",
+        "intensity": 0.9,
+        "wordCount": 67
+      },
+      {
+        "id": "pewniki",
+        "title": "Pewniki",
+        "hurst": 1.643,
+        "alpha": 0.322,
+        "lines": 12,
+        "emotion": "tęsknota",
+        "intensity": 0.8,
+        "wordCount": 53
+      },
+      {
+        "id": "powieszony",
+        "title": "Powieszony",
+        "hurst": 1.608,
+        "alpha": 1.258,
+        "lines": 12,
+        "emotion": "rozpacz",
+        "intensity": 0.9,
+        "wordCount": 85
+      },
+      {
+        "id": "apokryf",
+        "title": "Apokryf",
+        "hurst": 1.605,
+        "alpha": 0.737,
+        "lines": 12,
+        "emotion": "euforia",
+        "intensity": 0.8,
+        "wordCount": 72
+      },
+      {
+        "id": "drzewo-hodowane-w-ciszy",
+        "title": "Drzewo hodowane w ciszy",
+        "hurst": 1.567,
+        "alpha": 2.744,
+        "lines": 12,
+        "emotion": "rezygnacja",
+        "intensity": 0.7,
+        "wordCount": 52
+      },
+      {
+        "id": "glos-kobiecy",
+        "title": "Głos kobiecy",
+        "hurst": 1.442,
+        "alpha": -0.403,
+        "lines": 12,
+        "emotion": "tęsknota",
+        "intensity": 0.9,
+        "wordCount": 71
+      },
+      {
+        "id": "sezon-ii",
+        "title": "Sezon II",
+        "hurst": 1.392,
+        "alpha": 1.936,
+        "lines": 13,
+        "emotion": "ironia",
+        "intensity": 0.7,
+        "wordCount": 56
+      },
+      {
+        "id": "ekloga",
+        "title": "Ekloga",
+        "hurst": 1.387,
+        "alpha": 2.241,
+        "lines": 12,
+        "emotion": "czułość",
+        "intensity": 0.8,
+        "wordCount": 88
+      },
+      {
+        "id": "czy-spiaca-mozna-zbudzic-grzecznie",
+        "title": "Czy śpiącą można zbudzić grzecznie",
+        "hurst": 1.362,
+        "alpha": -1.015,
+        "lines": 12,
+        "emotion": "euforia",
+        "intensity": 0.8,
+        "wordCount": 59
+      },
+      {
+        "id": "jeszcze-jestem-kobieta",
+        "title": "Jeszcze jestem kobietą",
+        "hurst": 1.347,
+        "alpha": -0.829,
+        "lines": 13,
+        "emotion": "rezygnacja",
+        "intensity": 0.8,
+        "wordCount": 75
+      },
+      {
+        "id": "brulion",
+        "title": "Brulion",
+        "hurst": 1.338,
+        "alpha": 1.522,
+        "lines": 12,
+        "emotion": "czułość",
+        "intensity": 0.7,
+        "wordCount": 77
+      },
+      {
+        "id": "scherzo",
+        "title": "Scherzo",
+        "hurst": 1.333,
+        "alpha": 1.302,
+        "lines": 12,
+        "emotion": "euforia",
+        "intensity": 0.8,
+        "wordCount": 81
+      },
+      {
+        "id": "znow-muzyka",
+        "title": "Znów muzyka",
+        "hurst": 1.288,
+        "alpha": 2.807,
+        "lines": 14,
+        "emotion": "tęsknota",
+        "intensity": 0.8,
+        "wordCount": 108
+      },
+      {
+        "id": "lament",
+        "title": "Lament",
+        "hurst": 1.274,
+        "alpha": 1.909,
+        "lines": 12,
+        "emotion": "rozpacz",
+        "intensity": 0.9,
+        "wordCount": 74
+      },
+      {
+        "id": "piosenka-o-poecie",
+        "title": "Piosenka o poecie",
+        "hurst": 1.271,
+        "alpha": 0.052,
+        "lines": 15,
+        "emotion": "gniew",
+        "intensity": 0.9,
+        "wordCount": 87
+      },
+      {
+        "id": "rozstanie",
+        "title": "Rozstanie",
+        "hurst": 1.26,
+        "alpha": 2.577,
+        "lines": 14,
+        "emotion": "rozpacz",
+        "intensity": 0.9,
+        "wordCount": 76
+      },
+      {
+        "id": "kobiecosc",
+        "title": "Kobiecość",
+        "hurst": 1.259,
+        "alpha": 1.196,
+        "lines": 14,
+        "emotion": "rezygnacja",
+        "intensity": 0.9,
+        "wordCount": 86
+      },
+      {
+        "id": "swiete-krowy",
+        "title": "Święte krowy",
+        "hurst": 1.254,
+        "alpha": -0.336,
+        "lines": 14,
+        "emotion": "euforia",
+        "intensity": 0.8,
+        "wordCount": 77
+      },
+      {
+        "id": "mesjasz",
+        "title": "Mesjasz",
+        "hurst": 1.213,
+        "alpha": 2.358,
+        "lines": 12,
+        "emotion": "rozpacz",
+        "intensity": 0.8,
+        "wordCount": 72
+      },
+      {
+        "id": "ostatnia",
+        "title": "Ostatnia",
+        "hurst": 1.209,
+        "alpha": 1.302,
+        "lines": 12,
+        "emotion": "rozpacz",
+        "intensity": 0.8,
+        "wordCount": 78
+      },
+      {
+        "id": "jaka-bym-ci-chciala-sie-napisac-2",
+        "title": "Jaka bym ci chciała się napisać",
+        "hurst": 1.206,
+        "alpha": 1.912,
+        "lines": 12,
+        "emotion": "tęsknota",
+        "intensity": 0.8,
+        "wordCount": 84
+      },
+      {
+        "id": "jaka-bym-ci-chciala-sie-napisac",
+        "title": "Jaka bym ci chciała się napisać",
+        "hurst": 1.206,
+        "alpha": 1.912,
+        "lines": 12,
+        "emotion": "czułość",
+        "intensity": 0.8,
+        "wordCount": 84
+      },
+      {
+        "id": "zydowka",
+        "title": "Żydówka",
+        "hurst": 1.206,
+        "alpha": 0.314,
+        "lines": 14,
+        "emotion": "czułość",
+        "intensity": 0.8,
+        "wordCount": 36
+      },
+      {
+        "id": "osoby-zwierzat-wspanialych",
+        "title": "Osoby zwierząt wspaniałych",
+        "hurst": 1.204,
+        "alpha": 1.633,
+        "lines": 25,
+        "emotion": "bunt",
+        "intensity": 0.9,
+        "wordCount": 87
+      },
+      {
+        "id": "wieczna-aktualnosc-najwyzsza-cnota-sztuki",
+        "title": "Wieczna aktualność najwyższą cnotą sztuki",
+        "hurst": 1.199,
+        "alpha": 1.831,
+        "lines": 16,
+        "emotion": "obrzydzenie",
+        "intensity": 0.9,
+        "wordCount": 89
+      },
+      {
+        "id": "pewne-rymy",
+        "title": "Pewne rymy",
+        "hurst": 1.198,
+        "alpha": 2.666,
+        "lines": 14,
+        "emotion": "rezygnacja",
+        "intensity": 0.9,
+        "wordCount": 91
+      },
+      {
+        "id": "muzyczne",
+        "title": "Muzyczne",
+        "hurst": 1.192,
+        "alpha": 1.816,
+        "lines": 14,
+        "emotion": "tęsknota",
+        "intensity": 0.7,
+        "wordCount": 65
+      },
+      {
+        "id": "oblok",
+        "title": "Obłok",
+        "hurst": 1.178,
+        "alpha": 4.075,
+        "lines": 12,
+        "emotion": "melancholia",
+        "intensity": 0.7,
+        "wordCount": 84
+      },
+      {
+        "id": "babilon",
+        "title": "Babilon",
+        "hurst": 1.167,
+        "alpha": 3.175,
+        "lines": 12,
+        "emotion": "obrzydzenie",
+        "intensity": 0.9,
+        "wordCount": 75
+      },
+      {
+        "id": "czarna-roza",
+        "title": "Czarna róża",
+        "hurst": 1.16,
+        "alpha": 2.697,
+        "lines": 12,
+        "emotion": "melancholia",
+        "intensity": 0.8,
+        "wordCount": 82
+      },
+      {
+        "id": "studium",
+        "title": "Studium",
+        "hurst": 1.136,
+        "alpha": 2.658,
+        "lines": 14,
+        "emotion": "rezygnacja",
+        "intensity": 0.8,
+        "wordCount": 97
+      },
+      {
+        "id": "ten-ruch",
+        "title": "Ten ruch",
+        "hurst": 1.124,
+        "alpha": 1.522,
+        "lines": 14,
+        "emotion": "melancholia",
+        "intensity": 0.8,
+        "wordCount": 91
+      },
+      {
+        "id": "juz-nie-jestem-poeta",
+        "title": "Już nie jestem poetą",
+        "hurst": 1.119,
+        "alpha": 2.045,
+        "lines": 17,
+        "emotion": "bunt",
+        "intensity": 0.8,
+        "wordCount": 97
+      },
+      {
+        "id": "chwila",
+        "title": "Chwila",
+        "hurst": 1.114,
+        "alpha": 0.924,
+        "lines": 14,
+        "emotion": "tęsknota",
+        "intensity": 0.8,
+        "wordCount": 73
+      },
+      {
+        "id": "damski-klub",
+        "title": "Damski klub",
+        "hurst": 1.114,
+        "alpha": -0.668,
+        "lines": 13,
+        "emotion": "obrzydzenie",
+        "intensity": 0.9,
+        "wordCount": 71
+      },
+      {
+        "id": "trzeba-bylo-rozstrzelac-poete",
+        "title": "Trzeba było rozstrzelać poetę",
+        "hurst": 1.113,
+        "alpha": 1.701,
+        "lines": 15,
+        "emotion": "melancholia",
+        "intensity": 0.7,
+        "wordCount": 92
+      },
+      {
+        "id": "gwiazda",
+        "title": "Gwiazda",
+        "hurst": 1.101,
+        "alpha": 1.167,
+        "lines": 12,
+        "emotion": "tęsknota",
+        "intensity": 0.8,
+        "wordCount": 95
+      },
+      {
+        "id": "hoduje-ten-bol",
+        "title": "Hoduję ten ból",
+        "hurst": 1.093,
+        "alpha": 1.263,
+        "lines": 17,
+        "emotion": "rozpacz",
+        "intensity": 0.9,
+        "wordCount": 45
+      },
+      {
+        "id": "piosenka-bohaterow",
+        "title": "Piosenka bohaterów",
+        "hurst": 1.085,
+        "alpha": 1.994,
+        "lines": 13,
+        "emotion": "tęsknota",
+        "intensity": 0.8,
+        "wordCount": 84
+      },
+      {
+        "id": "bajka-jesienna",
+        "title": "Bajka jesienna",
+        "hurst": 1.083,
+        "alpha": 3.174,
+        "lines": 14,
+        "emotion": "melancholia",
+        "intensity": 0.7,
+        "wordCount": 102
+      },
+      {
+        "id": "katalog",
+        "title": "Katalog",
+        "hurst": 1.08,
+        "alpha": 0.311,
+        "lines": 14,
+        "emotion": "melancholia",
+        "intensity": 0.8,
+        "wordCount": 102
+      },
+      {
+        "id": "senna-ballada-na-temat-co-kobiety-wiedza-o-wierszach",
+        "title": "Senna ballada na temat, co kobiety wiedzą o wierszach",
+        "hurst": 1.078,
+        "alpha": 2.521,
+        "lines": 17,
+        "emotion": "tęsknota",
+        "intensity": 0.7,
+        "wordCount": 99
+      },
+      {
+        "id": "moj-szerokostopy-mozg",
+        "title": "Mój szerokostopy mózg",
+        "hurst": 1.074,
+        "alpha": 0.859,
+        "lines": 12,
+        "emotion": "ironia",
+        "intensity": 0.7,
+        "wordCount": 78
+      },
+      {
+        "id": "gwalt",
+        "title": "Gwałt",
+        "hurst": 1.072,
+        "alpha": 1.189,
+        "lines": 17,
+        "emotion": "rozpacz",
+        "intensity": 0.9,
+        "wordCount": 97
+      },
+      {
+        "id": "rimbaud",
+        "title": "Rimbaud",
+        "hurst": 1.069,
+        "alpha": 2.17,
+        "lines": 24,
+        "emotion": "melancholia",
+        "intensity": 0.7,
+        "wordCount": 94
+      },
+      {
+        "id": "nigdy-nie-otwierac-okna",
+        "title": "Nigdy nie otwierać okna",
+        "hurst": 1.055,
+        "alpha": 0.899,
+        "lines": 15,
+        "emotion": "rezygnacja",
+        "intensity": 0.7,
+        "wordCount": 48
+      },
+      {
+        "id": "pewna-wiedza",
+        "title": "Pewna wiedza",
+        "hurst": 1.052,
+        "alpha": 1.702,
+        "lines": 12,
+        "emotion": "melancholia",
+        "intensity": 0.8,
+        "wordCount": 87
+      },
+      {
+        "id": "klub",
+        "title": "Klub",
+        "hurst": 1.044,
+        "alpha": 2.526,
+        "lines": 14,
+        "emotion": "obrzydzenie",
+        "intensity": 0.8,
+        "wordCount": 57
+      },
+      {
+        "id": "wiesz-jest-mala-radosc",
+        "title": "Wiesz jest mała radość",
+        "hurst": 1.031,
+        "alpha": 1.076,
+        "lines": 21,
+        "emotion": "czułość",
+        "intensity": 0.7,
+        "wordCount": 70
+      },
+      {
+        "id": "w-smiertelnej-potrzebie",
+        "title": "W śmiertelnej potrzebie",
+        "hurst": 1.029,
+        "alpha": 1.83,
+        "lines": 16,
+        "emotion": "rozpacz",
+        "intensity": 0.9,
+        "wordCount": 111
+      },
+      {
+        "id": "katalog-2",
+        "title": "Katalog",
+        "hurst": 1.027,
+        "alpha": 1.012,
+        "lines": 16,
+        "emotion": "rozpacz",
+        "intensity": 0.9,
+        "wordCount": 118
+      },
+      {
+        "id": "wybaczcie-piechocie",
+        "title": "Wybaczcie piechocie",
+        "hurst": 1.022,
+        "alpha": 1.903,
+        "lines": 16,
+        "emotion": "obrzydzenie",
+        "intensity": 0.9,
+        "wordCount": 83
+      },
+      {
+        "id": "kim-jest-ten-co-mi-sie-jawi-w-lustrze",
+        "title": "Kim jest ten, co mi się jawi w lustrze",
+        "hurst": 1.002,
+        "alpha": 1.522,
+        "lines": 13,
+        "emotion": "melancholia",
+        "intensity": 0.8,
+        "wordCount": 73
+      },
+      {
+        "id": "zdumiewa-sie-madroscia",
+        "title": "Zdumiewa się mądrością",
+        "hurst": 0.997,
+        "alpha": 3.639,
+        "lines": 16,
+        "emotion": "melancholia",
+        "intensity": 0.7,
+        "wordCount": 96
+      },
+      {
+        "id": "chodze-i-pytam",
+        "title": "Chodzę i pytam",
+        "hurst": 0.995,
+        "alpha": -1.205,
+        "lines": 12,
+        "emotion": "rozpacz",
+        "intensity": 0.9,
+        "wordCount": 76
+      },
+      {
+        "id": "piosenka-bohaterow-iii-na-dworcu-glownym",
+        "title": "Piosenka bohaterów III (na dworcu głównym)",
+        "hurst": 0.995,
+        "alpha": 1.456,
+        "lines": 16,
+        "emotion": "rozpacz",
+        "intensity": 0.8,
+        "wordCount": 94
+      },
+      {
+        "id": "mit-2",
+        "title": "Mit",
+        "hurst": 0.99,
+        "alpha": 1.353,
+        "lines": 12,
+        "emotion": "melancholia",
+        "intensity": 0.7,
+        "wordCount": 76
+      },
+      {
+        "id": "geneza",
+        "title": "Geneza",
+        "hurst": 0.978,
+        "alpha": 2.065,
+        "lines": 19,
+        "emotion": "euforia",
+        "intensity": 0.8,
+        "wordCount": 105
+      },
+      {
+        "id": "koniec-piesni",
+        "title": "Koniec pieśni",
+        "hurst": 0.976,
+        "alpha": 1.336,
+        "lines": 29,
+        "emotion": "melancholia",
+        "intensity": 0.7,
+        "wordCount": 159
+      },
+      {
+        "id": "nasze-zony",
+        "title": "Nasze żony",
+        "hurst": 0.973,
+        "alpha": 2.394,
+        "lines": 14,
+        "emotion": "rezygnacja",
+        "intensity": 0.8,
+        "wordCount": 111
+      },
+      {
+        "id": "zmierzch-lagodnie-rozsuplal",
+        "title": "Zmierzch łagodnie rozsupłał",
+        "hurst": 0.967,
+        "alpha": 1.359,
+        "lines": 20,
+        "emotion": "melancholia",
+        "intensity": 0.8,
+        "wordCount": 132
+      },
+      {
+        "id": "zrodlo",
+        "title": "Zródło",
+        "hurst": 0.965,
+        "alpha": 1.689,
+        "lines": 15,
+        "emotion": "ironia",
+        "intensity": 0.7,
+        "wordCount": 93
+      },
+      {
+        "id": "celnik",
+        "title": "Celnik",
+        "hurst": 0.962,
+        "alpha": 1.808,
+        "lines": 14,
+        "emotion": "tęsknota",
+        "intensity": 0.8,
+        "wordCount": 86
+      },
+      {
+        "id": "ciemnosc-ciemnieje",
+        "title": "Ciemność ciemnieje",
+        "hurst": 0.95,
+        "alpha": 0.262,
+        "lines": 13,
+        "emotion": "rozpacz",
+        "intensity": 0.8,
+        "wordCount": 71
+      },
+      {
+        "id": "imperatyw-milosci",
+        "title": "Imperatyw miłości",
+        "hurst": 0.948,
+        "alpha": 0.962,
+        "lines": 16,
+        "emotion": "ironia",
+        "intensity": 0.8,
+        "wordCount": 91
+      },
+      {
+        "id": "chwila-przed-odjazdem",
+        "title": "Chwila przed odjazdem",
+        "hurst": 0.947,
+        "alpha": 1.553,
+        "lines": 14,
+        "emotion": "tęsknota",
+        "intensity": 0.8,
+        "wordCount": 94
+      },
+      {
+        "id": "byla-wiosna-bylo-lato",
+        "title": "Była wiosna, było lato",
+        "hurst": 0.946,
+        "alpha": 2.251,
+        "lines": 14,
+        "emotion": "rezygnacja",
+        "intensity": 0.8,
+        "wordCount": 107
+      },
+      {
+        "id": "bylem-jestem",
+        "title": "Byłem, jestem",
+        "hurst": 0.945,
+        "alpha": 1.904,
+        "lines": 20,
+        "emotion": "melancholia",
+        "intensity": 0.8,
+        "wordCount": 70
+      },
+      {
+        "id": "ktora-zmeczona-spi",
+        "title": "Która zmęczona śpi",
+        "hurst": 0.944,
+        "alpha": 0.985,
+        "lines": 22,
+        "emotion": "czułość",
+        "intensity": 0.8,
+        "wordCount": 79
+      },
+      {
+        "id": "piosenka-bohaterow-vii-2",
+        "title": "Piosenka bohaterów VII",
+        "hurst": 0.944,
+        "alpha": 0.227,
+        "lines": 14,
+        "emotion": "melancholia",
+        "intensity": 0.8,
+        "wordCount": 80
+      },
+      {
+        "id": "piosenka-bohaterow-vii",
+        "title": "Piosenka bohaterów VII",
+        "hurst": 0.944,
+        "alpha": 0.227,
+        "lines": 14,
+        "emotion": "melancholia",
+        "intensity": 0.7,
+        "wordCount": 80
+      },
+      {
+        "id": "piosenka",
+        "title": "Piosenka",
+        "hurst": 0.942,
+        "alpha": 0.938,
+        "lines": 20,
+        "emotion": "euforia",
+        "intensity": 0.9,
+        "wordCount": 62
+      },
+      {
+        "id": "slowa-do-piosenki-na-ostatni-dzien-roku",
+        "title": "Słowa do piosenki na ostatni dzień roku",
+        "hurst": 0.941,
+        "alpha": 1.4,
+        "lines": 40,
+        "emotion": "melancholia",
+        "intensity": 0.8,
+        "wordCount": 143
+      },
+      {
+        "id": "dla-ciebie-pisze-milosc",
+        "title": "dla ciebie piszę miłość",
+        "hurst": 0.938,
+        "alpha": 0.926,
+        "lines": 18,
+        "emotion": "tęsknota",
+        "intensity": 0.9,
+        "wordCount": 58
+      },
+      {
+        "id": "wiesz-jest-mala-radosc-2",
+        "title": "Wiesz jest mała radość",
+        "hurst": 0.924,
+        "alpha": 0.804,
+        "lines": 24,
+        "emotion": "czułość",
+        "intensity": 0.7,
+        "wordCount": 78
+      },
+      {
+        "id": "pszczoly-innego-rzedu",
+        "title": "Pszczoły innego rzędu",
+        "hurst": 0.922,
+        "alpha": -0.508,
+        "lines": 15,
+        "emotion": "obrzydzenie",
+        "intensity": 0.8,
+        "wordCount": 94
+      },
+      {
+        "id": "wyrok",
+        "title": "Wyrok",
+        "hurst": 0.922,
+        "alpha": 1.252,
+        "lines": 25,
+        "emotion": "rezygnacja",
+        "intensity": 0.8,
+        "wordCount": 78
+      },
+      {
+        "id": "musisz-sie-zawsze-rozy-bac",
+        "title": "Musisz się zawsze róży bać",
+        "hurst": 0.921,
+        "alpha": 1.522,
+        "lines": 14,
+        "emotion": "rozpacz",
+        "intensity": 0.9,
+        "wordCount": 97
+      },
+      {
+        "id": "antyczne",
+        "title": "Antyczne",
+        "hurst": 0.92,
+        "alpha": 1.982,
+        "lines": 15,
+        "emotion": "melancholia",
+        "intensity": 0.8,
+        "wordCount": 97
+      },
+      {
+        "id": "wspomnienie",
+        "title": "Wspomnienie",
+        "hurst": 0.917,
+        "alpha": 1.097,
+        "lines": 17,
+        "emotion": "",
+        "intensity": 0.5,
+        "wordCount": 110
+      },
+      {
+        "id": "prolegomena-do-sztuki-wyzwolonej",
+        "title": "Prolegomena do sztuki wyzwolonej",
+        "hurst": 0.91,
+        "alpha": 4.259,
+        "lines": 12,
+        "emotion": "obrzydzenie",
+        "intensity": 0.8,
+        "wordCount": 79
+      },
+      {
+        "id": "wybrzeze",
+        "title": "Wybrzeże",
+        "hurst": 0.909,
+        "alpha": 2.81,
+        "lines": 12,
+        "emotion": "melancholia",
+        "intensity": 0.8,
+        "wordCount": 46
+      },
+      {
+        "id": "twoje-cialo-bolesne",
+        "title": "Twoje ciało bolesne",
+        "hurst": 0.905,
+        "alpha": 0.844,
+        "lines": 17,
+        "emotion": "czułość",
+        "intensity": 0.8,
+        "wordCount": 51
+      },
+      {
+        "id": "poemat-o-domu-wielce-smutnym",
+        "title": "Poemat o domu wielce smutnym",
+        "hurst": 0.896,
+        "alpha": 0.861,
+        "lines": 33,
+        "emotion": "melancholia",
+        "intensity": 0.8,
+        "wordCount": 188
+      },
+      {
+        "id": "odjazd",
+        "title": "Odjazd",
+        "hurst": 0.895,
+        "alpha": 3.614,
+        "lines": 12,
+        "emotion": "tęsknota",
+        "intensity": 0.8,
+        "wordCount": 87
+      },
+      {
+        "id": "widzenie",
+        "title": "Widzenie",
+        "hurst": 0.893,
+        "alpha": 1.228,
+        "lines": 14,
+        "emotion": "melancholia",
+        "intensity": 0.7,
+        "wordCount": 50
+      },
+      {
+        "id": "modlitwa-bohaterow",
+        "title": "Modlitwa bohaterów",
+        "hurst": 0.892,
+        "alpha": 1.267,
+        "lines": 20,
+        "emotion": "rezygnacja",
+        "intensity": 0.9,
+        "wordCount": 111
+      },
+      {
+        "id": "ze-lampa-ze-krag-swiatla",
+        "title": "Że lampa, że krąg światła",
+        "hurst": 0.889,
+        "alpha": 3.024,
+        "lines": 25,
+        "emotion": "melancholia",
+        "intensity": 0.8,
+        "wordCount": 133
+      },
+      {
+        "id": "w-powiecie",
+        "title": "W powiecie",
+        "hurst": 0.883,
+        "alpha": 1.683,
+        "lines": 19,
+        "emotion": "obrzydzenie",
+        "intensity": 0.8,
+        "wordCount": 65
+      },
+      {
+        "id": "list-do-krolowej-polski",
+        "title": "List do Królowej Polski",
+        "hurst": 0.879,
+        "alpha": 1.646,
+        "lines": 16,
+        "emotion": "rozpacz",
+        "intensity": 0.8,
+        "wordCount": 119
+      },
+      {
+        "id": "blyskawica",
+        "title": "Błyskawica",
+        "hurst": 0.872,
+        "alpha": 1.622,
+        "lines": 19,
+        "emotion": "tęsknota",
+        "intensity": 0.8,
+        "wordCount": 99
+      },
+      {
+        "id": "jak-ja-teraz-snie",
+        "title": "Jak ja teraz śnię",
+        "hurst": 0.868,
+        "alpha": 0.524,
+        "lines": 19,
+        "emotion": "ironia",
+        "intensity": 0.7,
+        "wordCount": 62
+      },
+      {
+        "id": "moj-pies-bardzo-przyjemny",
+        "title": "Mój pies bardzo przyjemny",
+        "hurst": 0.868,
+        "alpha": 1.472,
+        "lines": 19,
+        "emotion": "melancholia",
+        "intensity": 0.8,
+        "wordCount": 97
+      },
+      {
+        "id": "podwojna-elegia",
+        "title": "Podwójna elegia",
+        "hurst": 0.867,
+        "alpha": 1.991,
+        "lines": 18,
+        "emotion": "rozpacz",
+        "intensity": 0.8,
+        "wordCount": 115
+      },
+      {
+        "id": "rekopis",
+        "title": "Rękopis",
+        "hurst": 0.86,
+        "alpha": 1.079,
+        "lines": 27,
+        "emotion": "rozpacz",
+        "intensity": 0.9,
+        "wordCount": 184
+      },
+      {
+        "id": "ranny-wiersz-2",
+        "title": "Ranny wiersz",
+        "hurst": 0.851,
+        "alpha": 1.145,
+        "lines": 28,
+        "emotion": "rozpacz",
+        "intensity": 0.9,
+        "wordCount": 178
+      },
+      {
+        "id": "elementy",
+        "title": "Elementy",
+        "hurst": 0.849,
+        "alpha": 1.524,
+        "lines": 14,
+        "emotion": "obrzydzenie",
+        "intensity": 0.8,
+        "wordCount": 52
+      },
+      {
+        "id": "pierwsza-gwiazda",
+        "title": "Pierwsza gwiazda",
+        "hurst": 0.849,
+        "alpha": 1.779,
+        "lines": 14,
+        "emotion": "",
+        "intensity": 0.5,
+        "wordCount": 72
+      },
+      {
+        "id": "reszta-krwi",
+        "title": "Reszta krwi",
+        "hurst": 0.849,
+        "alpha": 3.182,
+        "lines": 12,
+        "emotion": "melancholia",
+        "intensity": 0.8,
+        "wordCount": 30
+      },
+      {
+        "id": "oto-juz-sie-zaczyna",
+        "title": "Oto już się zaczyna",
+        "hurst": 0.836,
+        "alpha": 0.955,
+        "lines": 13,
+        "emotion": "obrzydzenie",
+        "intensity": 0.8,
+        "wordCount": 94
+      },
+      {
+        "id": "piosenka-z-najwyzszej-wiezy-2",
+        "title": "Piosenka z najwyższej wieży",
+        "hurst": 0.828,
+        "alpha": 0.855,
+        "lines": 38,
+        "emotion": "euforia",
+        "intensity": 0.8,
+        "wordCount": 271
+      },
+      {
+        "id": "poczatek-poezji",
+        "title": "Początek poezji",
+        "hurst": 0.828,
+        "alpha": 0.905,
+        "lines": 21,
+        "emotion": "tęsknota",
+        "intensity": 0.7,
+        "wordCount": 151
+      },
+      {
+        "id": "ekloga-ii",
+        "title": "Ekloga II",
+        "hurst": 0.827,
+        "alpha": 2.931,
+        "lines": 12,
+        "emotion": "tęsknota",
+        "intensity": 0.7,
+        "wordCount": 39
+      },
+      {
+        "id": "notatki-do-opisu-janusza-stycznia",
+        "title": "Notatki do opisu Janusza Stycznia",
+        "hurst": 0.827,
+        "alpha": 0.735,
+        "lines": 148,
+        "emotion": "ironia",
+        "intensity": 0.7,
+        "wordCount": 346
+      },
+      {
+        "id": "kim-jest-ten-co-przybywa",
+        "title": "Kim jest ten, co przybywa",
+        "hurst": 0.826,
+        "alpha": 0.11,
+        "lines": 13,
+        "emotion": "tęsknota",
+        "intensity": 0.8,
+        "wordCount": 103
+      },
+      {
+        "id": "zenskie-rymy-nocy-lipcowej",
+        "title": "Żeńskie rymy nocy lipcowej",
+        "hurst": 0.824,
+        "alpha": 0.987,
+        "lines": 16,
+        "emotion": "melancholia",
+        "intensity": 0.8,
+        "wordCount": 113
+      },
+      {
+        "id": "inicjacja",
+        "title": "Inicjacja",
+        "hurst": 0.821,
+        "alpha": 2.49,
+        "lines": 14,
+        "emotion": "czułość",
+        "intensity": 0.8,
+        "wordCount": 92
+      },
+      {
+        "id": "list-do-nieznanego-poety",
+        "title": "List do nieznanego poety",
+        "hurst": 0.817,
+        "alpha": 1.031,
+        "lines": 21,
+        "emotion": "melancholia",
+        "intensity": 0.8,
+        "wordCount": 135
+      },
+      {
+        "id": "bajka",
+        "title": "Bajka",
+        "hurst": 0.815,
+        "alpha": 0.786,
+        "lines": 21,
+        "emotion": "ironia",
+        "intensity": 0.7,
+        "wordCount": 132
+      },
+      {
+        "id": "kartka",
+        "title": "Kartka",
+        "hurst": 0.814,
+        "alpha": 0.112,
+        "lines": 12,
+        "emotion": "czułość",
+        "intensity": 0.7,
+        "wordCount": 62
+      },
+      {
+        "id": "moje-cialo",
+        "title": "Moje ciało",
+        "hurst": 0.81,
+        "alpha": 0.797,
+        "lines": 54,
+        "emotion": "tęsknota",
+        "intensity": 0.9,
+        "wordCount": 235
+      },
+      {
+        "id": "notatki-z-celi-smierci",
+        "title": "Notatki z celi śmierci",
+        "hurst": 0.81,
+        "alpha": 0.995,
+        "lines": 32,
+        "emotion": "rozpacz",
+        "intensity": 0.9,
+        "wordCount": 116
+      },
+      {
+        "id": "sutki-stwardnialy",
+        "title": "Sutki stwardniały",
+        "hurst": 0.81,
+        "alpha": -2.46,
+        "lines": 13,
+        "emotion": "tęsknota",
+        "intensity": 0.8,
+        "wordCount": 57
+      },
+      {
+        "id": "piesn-smiertelna-bohatera",
+        "title": "Pieśń śmiertelna bohatera",
+        "hurst": 0.808,
+        "alpha": 0.585,
+        "lines": 43,
+        "emotion": "rozpacz",
+        "intensity": 0.9,
+        "wordCount": 216
+      },
+      {
+        "id": "zlodziej-nadziei",
+        "title": "złodziej nadziei",
+        "hurst": 0.801,
+        "alpha": 4.182,
+        "lines": 13,
+        "emotion": "melancholia",
+        "intensity": 0.8,
+        "wordCount": 57
+      },
+      {
+        "id": "vademecum",
+        "title": "Vademecum",
+        "hurst": 0.8,
+        "alpha": 1.336,
+        "lines": 14,
+        "emotion": "bunt",
+        "intensity": 0.8,
+        "wordCount": 104
+      },
+      {
+        "id": "mimikra",
+        "title": "Mimikra",
+        "hurst": 0.796,
+        "alpha": 3.018,
+        "lines": 16,
+        "emotion": "melancholia",
+        "intensity": 0.7,
+        "wordCount": 90
+      },
+      {
+        "id": "inna-bajka",
+        "title": "Inna bajka",
+        "hurst": 0.794,
+        "alpha": 0.717,
+        "lines": 50,
+        "emotion": "melancholia",
+        "intensity": 0.8,
+        "wordCount": 232
+      },
+      {
+        "id": "list-do-nie-wiadomo-kogo",
+        "title": "List do nie wiadomo kogo",
+        "hurst": 0.794,
+        "alpha": 1.172,
+        "lines": 21,
+        "emotion": "ironia",
+        "intensity": 0.8,
+        "wordCount": 143
+      },
+      {
+        "id": "rekopis-2",
+        "title": "Rękopis",
+        "hurst": 0.79,
+        "alpha": 1.12,
+        "lines": 16,
+        "emotion": "tęsknota",
+        "intensity": 0.8,
+        "wordCount": 98
+      },
+      {
+        "id": "latomia",
+        "title": "Latomia",
+        "hurst": 0.783,
+        "alpha": 1.111,
+        "lines": 30,
+        "emotion": "tęsknota",
+        "intensity": 0.7,
+        "wordCount": 128
+      },
+      {
+        "id": "ich-prawem-byla-wlasna-smierc",
+        "title": "Ich prawem była własna śmierć",
+        "hurst": 0.777,
+        "alpha": 1.188,
+        "lines": 20,
+        "emotion": "rozpacz",
+        "intensity": 0.9,
+        "wordCount": 108
+      },
+      {
+        "id": "gdy-pies-ksiezyca",
+        "title": "Gdy pies księżyca",
+        "hurst": 0.776,
+        "alpha": 0.778,
+        "lines": 40,
+        "emotion": "rozpacz",
+        "intensity": 0.9,
+        "wordCount": 290
+      },
+      {
+        "id": "co-ja-o-rzece-wiem",
+        "title": "co ja o rzece wiem",
+        "hurst": 0.775,
+        "alpha": 1.532,
+        "lines": 15,
+        "emotion": "obrzydzenie",
+        "intensity": 0.8,
+        "wordCount": 79
+      },
+      {
+        "id": "sanatorium",
+        "title": "Sanatorium",
+        "hurst": 0.766,
+        "alpha": 0.425,
+        "lines": 35,
+        "emotion": "obrzydzenie",
+        "intensity": 0.7,
+        "wordCount": 169
+      },
+      {
+        "id": "sezon",
+        "title": "Sezon",
+        "hurst": 0.764,
+        "alpha": 0.517,
+        "lines": 21,
+        "emotion": "rezygnacja",
+        "intensity": 0.8,
+        "wordCount": 71
+      },
+      {
+        "id": "sol-w-nasze-rany",
+        "title": "Sól w nasze rany",
+        "hurst": 0.764,
+        "alpha": 2.134,
+        "lines": 15,
+        "emotion": "bunt",
+        "intensity": 0.9,
+        "wordCount": 107
+      },
+      {
+        "id": "bo-smierc-to-jest-wielki-kunktator-poemat-jednej-odwilzy",
+        "title": "Bo śmierć to jest wielki Kunktator. Poemat jednej odwilży",
+        "hurst": 0.761,
+        "alpha": 0.791,
+        "lines": 76,
+        "emotion": "rezygnacja",
+        "intensity": 0.8,
+        "wordCount": 441
+      },
+      {
+        "id": "wolny-wiersz",
+        "title": "Wolny wiersz",
+        "hurst": 0.759,
+        "alpha": 1.284,
+        "lines": 18,
+        "emotion": "ironia",
+        "intensity": 0.8,
+        "wordCount": 69
+      },
+      {
+        "id": "mapa",
+        "title": "Mapa",
+        "hurst": 0.757,
+        "alpha": 3.548,
+        "lines": 12,
+        "emotion": "czułość",
+        "intensity": 0.9,
+        "wordCount": 72
+      },
+      {
+        "id": "slowo-do-jednego",
+        "title": "Słowo do jednego",
+        "hurst": 0.755,
+        "alpha": 1.427,
+        "lines": 18,
+        "emotion": "rezygnacja",
+        "intensity": 0.8,
+        "wordCount": 108
+      },
+      {
+        "id": "nigdy-zgoda",
+        "title": "Nigdy zgoda",
+        "hurst": 0.75,
+        "alpha": 0.778,
+        "lines": 12,
+        "emotion": "gniew",
+        "intensity": 0.8,
+        "wordCount": 100
+      },
+      {
+        "id": "pisze-wiersz",
+        "title": "Piszę wiersz",
+        "hurst": 0.748,
+        "alpha": 0.918,
+        "lines": 34,
+        "emotion": "rozpacz",
+        "intensity": 0.9,
+        "wordCount": 108
+      },
+      {
+        "id": "do-polskiego-poety",
+        "title": "Do polskiego poety",
+        "hurst": 0.747,
+        "alpha": 1.75,
+        "lines": 16,
+        "emotion": "melancholia",
+        "intensity": 0.8,
+        "wordCount": 99
+      },
+      {
+        "id": "jeszcze-w-nia-nie-wszedl",
+        "title": "jeszcze w nią nie wszedł",
+        "hurst": 0.747,
+        "alpha": 1.468,
+        "lines": 16,
+        "emotion": "obrzydzenie",
+        "intensity": 0.9,
+        "wordCount": 80
+      },
+      {
+        "id": "kochankowie-moi",
+        "title": "Kochankowie moi",
+        "hurst": 0.741,
+        "alpha": 0.961,
+        "lines": 16,
+        "emotion": "euforia",
+        "intensity": 0.9,
+        "wordCount": 93
+      },
+      {
+        "id": "mit-o-dawnym-szczesciu",
+        "title": "Mit o dawnym szczęściu",
+        "hurst": 0.74,
+        "alpha": 2.952,
+        "lines": 14,
+        "emotion": "ironia",
+        "intensity": 0.8,
+        "wordCount": 72
+      },
+      {
+        "id": "mowie-do-ciebie-cicho",
+        "title": "Mówię do ciebie cicho",
+        "hurst": 0.74,
+        "alpha": 4.975,
+        "lines": 14,
+        "emotion": "czułość",
+        "intensity": 0.8,
+        "wordCount": 88
+      },
+      {
+        "id": "zapis-z-podziemia",
+        "title": "Zapis z podziemia",
+        "hurst": 0.74,
+        "alpha": 1.42,
+        "lines": 50,
+        "emotion": "melancholia",
+        "intensity": 0.8,
+        "wordCount": 128
+      },
+      {
+        "id": "piosenka-o-poecie-ii",
+        "title": "Piosenka o poecie II",
+        "hurst": 0.739,
+        "alpha": 1.414,
+        "lines": 15,
+        "emotion": "ironia",
+        "intensity": 0.8,
+        "wordCount": 46
+      },
+      {
+        "id": "roza",
+        "title": "Róża",
+        "hurst": 0.739,
+        "alpha": 2.381,
+        "lines": 17,
+        "emotion": "tęsknota",
+        "intensity": 0.8,
+        "wordCount": 99
+      },
+      {
+        "id": "prawdziwy-bohater-bawi-sie-sam",
+        "title": "Prawdziwy bohater bawi się sam",
+        "hurst": 0.738,
+        "alpha": 0.749,
+        "lines": 152,
+        "emotion": "melancholia",
+        "intensity": 0.7,
+        "wordCount": 791
+      },
+      {
+        "id": "zapis-z-podziemia-2",
+        "title": "Zapis z podziemia",
+        "hurst": 0.738,
+        "alpha": 1.368,
+        "lines": 51,
+        "emotion": "melancholia",
+        "intensity": 0.8,
+        "wordCount": 132
+      },
+      {
+        "id": "proba-ostatniego-wiersza",
+        "title": "Próba ostatniego wiersza",
+        "hurst": 0.737,
+        "alpha": 2.277,
+        "lines": 12,
+        "emotion": "rezygnacja",
+        "intensity": 0.8,
+        "wordCount": 74
+      },
+      {
+        "id": "modlitwa-szarego-czlowieka",
+        "title": "Modlitwa szarego człowieka",
+        "hurst": 0.736,
+        "alpha": 1.04,
+        "lines": 24,
+        "emotion": "rezygnacja",
+        "intensity": 0.8,
+        "wordCount": 157
+      },
+      {
+        "id": "to-jest-hanka",
+        "title": "To jest Hanka",
+        "hurst": 0.735,
+        "alpha": 0.672,
+        "lines": 36,
+        "emotion": "melancholia",
+        "intensity": 0.7,
+        "wordCount": 128
+      },
+      {
+        "id": "oddanie",
+        "title": "Oddanie",
+        "hurst": 0.734,
+        "alpha": 2.522,
+        "lines": 14,
+        "emotion": "czułość",
+        "intensity": 0.8,
+        "wordCount": 70
+      },
+      {
+        "id": "martwy-sezon",
+        "title": "Martwy sezon",
+        "hurst": 0.733,
+        "alpha": 0.995,
+        "lines": 27,
+        "emotion": "melancholia",
+        "intensity": 0.8,
+        "wordCount": 105
+      },
+      {
+        "id": "jej-cialo",
+        "title": "Jej ciało",
+        "hurst": 0.731,
+        "alpha": 1.458,
+        "lines": 18,
+        "emotion": "melancholia",
+        "intensity": 0.8,
+        "wordCount": 51
+      },
+      {
+        "id": "kwestie-grudniowe",
+        "title": "Kwestie grudniowe",
+        "hurst": 0.731,
+        "alpha": 1.995,
+        "lines": 15,
+        "emotion": "tęsknota",
+        "intensity": 0.8,
+        "wordCount": 83
+      },
+      {
+        "id": "trzy-wiersze-religijne",
+        "title": "Trzy wiersze religijne",
+        "hurst": 0.724,
+        "alpha": 0.94,
+        "lines": 45,
+        "emotion": "tęsknota",
+        "intensity": 0.8,
+        "wordCount": 287
+      },
+      {
+        "id": "fuga",
+        "title": "Fuga",
+        "hurst": 0.716,
+        "alpha": 1.973,
+        "lines": 14,
+        "emotion": "rozpacz",
+        "intensity": 0.8,
+        "wordCount": 106
+      },
+      {
+        "id": "lament-bohaterow",
+        "title": "Lament bohaterów",
+        "hurst": 0.715,
+        "alpha": 0.542,
+        "lines": 14,
+        "emotion": "gniew",
+        "intensity": 0.8,
+        "wordCount": 88
+      },
+      {
+        "id": "koleda",
+        "title": "Kolęda",
+        "hurst": 0.71,
+        "alpha": 0.883,
+        "lines": 40,
+        "emotion": "rezygnacja",
+        "intensity": 0.8,
+        "wordCount": 244
+      },
+      {
+        "id": "krzyz-2",
+        "title": "Krzyż",
+        "hurst": 0.705,
+        "alpha": -1.77,
+        "lines": 24,
+        "emotion": "tęsknota",
+        "intensity": 0.8,
+        "wordCount": 71
+      },
+      {
+        "id": "krzyz",
+        "title": "Krzyż",
+        "hurst": 0.705,
+        "alpha": -1.77,
+        "lines": 24,
+        "emotion": "pożądanie",
+        "intensity": 0.9,
+        "wordCount": 71
+      },
+      {
+        "id": "marsz-zalobny",
+        "title": "Marsz żałobny",
+        "hurst": 0.701,
+        "alpha": 1.615,
+        "lines": 17,
+        "emotion": "obrzydzenie",
+        "intensity": 0.8,
+        "wordCount": 75
+      },
+      {
+        "id": "moja-piosenka",
+        "title": "MOJA PIOSENKA(A. D. 1969)",
+        "hurst": 0.701,
+        "alpha": 1.258,
+        "lines": 16,
+        "emotion": "melancholia",
+        "intensity": 0.7,
+        "wordCount": 82
+      },
+      {
+        "id": "juz-wyszla-z-pokoju",
+        "title": "Już wyszła z pokoju",
+        "hurst": 0.697,
+        "alpha": 2.149,
+        "lines": 17,
+        "emotion": "rezygnacja",
+        "intensity": 0.7,
+        "wordCount": 70
+      },
+      {
+        "id": "piosenka-starego-ksiezyca",
+        "title": "Piosenka starego księżyca",
+        "hurst": 0.693,
+        "alpha": 1.388,
+        "lines": 14,
+        "emotion": "",
+        "intensity": 0.5,
+        "wordCount": 86
+      },
+      {
+        "id": "imie-i-cialo",
+        "title": "Imię i ciało",
+        "hurst": 0.692,
+        "alpha": 3.297,
+        "lines": 14,
+        "emotion": "czułość",
+        "intensity": 0.8,
+        "wordCount": 36
+      },
+      {
+        "id": "badz-mi",
+        "title": "Bądź mi",
+        "hurst": 0.691,
+        "alpha": 1.34,
+        "lines": 19,
+        "emotion": "tęsknota",
+        "intensity": 0.9,
+        "wordCount": 129
+      },
+      {
+        "id": "rozpisalem-konkurs",
+        "title": "Rozpisałem konkurs",
+        "hurst": 0.691,
+        "alpha": -0.888,
+        "lines": 13,
+        "emotion": "tęsknota",
+        "intensity": 0.8,
+        "wordCount": 79
+      },
+      {
+        "id": "asterisks",
+        "title": "Bez tytułu",
+        "hurst": 0.69,
+        "alpha": 1.017,
+        "lines": 24,
+        "emotion": "rezygnacja",
+        "intensity": 0.8,
+        "wordCount": 94
+      },
+      {
+        "id": "pierwszy-znak-na-tej-karcie",
+        "title": "Pierwszy znak na tej karcie",
+        "hurst": 0.688,
+        "alpha": 5.334,
+        "lines": 13,
+        "emotion": "",
+        "intensity": 0.5,
+        "wordCount": 67
+      },
+      {
+        "id": "moja-piosnka-a-d-1969",
+        "title": "Moja piosnka (A.D. 1969)",
+        "hurst": 0.686,
+        "alpha": 1.445,
+        "lines": 18,
+        "emotion": "melancholia",
+        "intensity": 0.7,
+        "wordCount": 86
+      },
+      {
+        "id": "dobranoc",
+        "title": "Dobranoc",
+        "hurst": 0.685,
+        "alpha": 3.497,
+        "lines": 14,
+        "emotion": "tęsknota",
+        "intensity": 0.8,
+        "wordCount": 71
+      },
+      {
+        "id": "zakon",
+        "title": "Zakon",
+        "hurst": 0.684,
+        "alpha": 0.765,
+        "lines": 15,
+        "emotion": "melancholia",
+        "intensity": 0.7,
+        "wordCount": 101
+      },
+      {
+        "id": "prawdziwe-zycie-bohatera",
+        "title": "Prawdziwe życie bohatera",
+        "hurst": 0.683,
+        "alpha": -0.84,
+        "lines": 12,
+        "emotion": "rozpacz",
+        "intensity": 0.8,
+        "wordCount": 84
+      },
+      {
+        "id": "dziewczynka",
+        "title": "Dziewczynka",
+        "hurst": 0.68,
+        "alpha": 1.821,
+        "lines": 12,
+        "emotion": "tęsknota",
+        "intensity": 0.7,
+        "wordCount": 81
+      },
+      {
+        "id": "kochanka-powieszonego",
+        "title": "Kochanka powieszonego",
+        "hurst": 0.677,
+        "alpha": 0.311,
+        "lines": 18,
+        "emotion": "rozpacz",
+        "intensity": 0.9,
+        "wordCount": 48
+      },
+      {
+        "id": "proba-poematu",
+        "title": "Próba poematu",
+        "hurst": 0.677,
+        "alpha": 0.82,
+        "lines": 40,
+        "emotion": "melancholia",
+        "intensity": 0.7,
+        "wordCount": 196
+      },
+      {
+        "id": "dialog",
+        "title": "Dialog",
+        "hurst": 0.672,
+        "alpha": 1.568,
+        "lines": 28,
+        "emotion": "rozpacz",
+        "intensity": 0.8,
+        "wordCount": 113
+      },
+      {
+        "id": "kobiecosc-iii",
+        "title": "Kobiecość III",
+        "hurst": 0.672,
+        "alpha": 1.066,
+        "lines": 20,
+        "emotion": "",
+        "intensity": 0.5,
+        "wordCount": 139
+      },
+      {
+        "id": "gwiazda-zasypani",
+        "title": "Gwiazda; zasypani",
+        "hurst": 0.668,
+        "alpha": 2.366,
+        "lines": 12,
+        "emotion": "tęsknota",
+        "intensity": 0.8,
+        "wordCount": 82
+      },
+      {
+        "id": "piosenka-innej-ulicy",
+        "title": "Piosenka innej ulicy",
+        "hurst": 0.668,
+        "alpha": 0.894,
+        "lines": 61,
+        "emotion": "rozpacz",
+        "intensity": 0.9,
+        "wordCount": 414
+      },
+      {
+        "id": "piosenka-z-najwyzszej-wiezy",
+        "title": "Piosenka z najwyższej wieży",
+        "hurst": 0.668,
+        "alpha": 0.721,
+        "lines": 47,
+        "emotion": "rozpacz",
+        "intensity": 0.9,
+        "wordCount": 207
+      },
+      {
+        "id": "wspolnie-ulozylismy-list-do-niej",
+        "title": "Wspólnie ułożyliśmy list do niej",
+        "hurst": 0.659,
+        "alpha": 2.892,
+        "lines": 14,
+        "emotion": "ironia",
+        "intensity": 0.7,
+        "wordCount": 76
+      },
+      {
+        "id": "niedziela",
+        "title": "Niedziela",
+        "hurst": 0.657,
+        "alpha": 0.852,
+        "lines": 15,
+        "emotion": "czułość",
+        "intensity": 0.8,
+        "wordCount": 80
+      },
+      {
+        "id": "piosenka-uliczna",
+        "title": "Piosenka uliczna",
+        "hurst": 0.656,
+        "alpha": 0.766,
+        "lines": 64,
+        "emotion": "rezygnacja",
+        "intensity": 0.8,
+        "wordCount": 213
+      },
+      {
+        "id": "piotrus-wariat",
+        "title": "Piotruś wariat",
+        "hurst": 0.656,
+        "alpha": 2.121,
+        "lines": 15,
+        "emotion": "obrzydzenie",
+        "intensity": 0.8,
+        "wordCount": 39
+      },
+      {
+        "id": "pierwszy-dzien-wolnosci",
+        "title": "Pierwszy dzień wolności",
+        "hurst": 0.655,
+        "alpha": 2.522,
+        "lines": 14,
+        "emotion": "obrzydzenie",
+        "intensity": 0.8,
+        "wordCount": 76
+      },
+      {
+        "id": "okno",
+        "title": "Okno",
+        "hurst": 0.647,
+        "alpha": 0.796,
+        "lines": 35,
+        "emotion": "melancholia",
+        "intensity": 0.8,
+        "wordCount": 208
+      },
+      {
+        "id": "mit-rodzinny",
+        "title": "mit rodzinny",
+        "hurst": 0.646,
+        "alpha": 0.996,
+        "lines": 25,
+        "emotion": "obrzydzenie",
+        "intensity": 0.9,
+        "wordCount": 107
+      },
+      {
+        "id": "prosba-2",
+        "title": "Prośba",
+        "hurst": 0.643,
+        "alpha": 0.092,
+        "lines": 14,
+        "emotion": "rezygnacja",
+        "intensity": 0.8,
+        "wordCount": 94
+      },
+      {
+        "id": "prosba",
+        "title": "Prośba",
+        "hurst": 0.643,
+        "alpha": 0.092,
+        "lines": 14,
+        "emotion": "rezygnacja",
+        "intensity": 0.8,
+        "wordCount": 94
+      },
+      {
+        "id": "badz-mi-2",
+        "title": "Bądź mi",
+        "hurst": 0.626,
+        "alpha": 1.329,
+        "lines": 20,
+        "emotion": "tęsknota",
+        "intensity": 0.9,
+        "wordCount": 130
+      },
+      {
+        "id": "na-odwrocie-starego-wiersza",
+        "title": "Na odwrocie starego wiersza",
+        "hurst": 0.626,
+        "alpha": 0.77,
+        "lines": 32,
+        "emotion": "ironia",
+        "intensity": 0.8,
+        "wordCount": 135
+      },
+      {
+        "id": "czy-ja-moglam-w-watlych-ustach-uniesc-taka-milosc",
+        "title": "Czy ja mogłam w wątłych ustach unieść taką miłość",
+        "hurst": 0.625,
+        "alpha": 0.515,
+        "lines": 38,
+        "emotion": "rozpacz",
+        "intensity": 0.8,
+        "wordCount": 109
+      },
+      {
+        "id": "komentarz-do-pewnej-fotografii",
+        "title": "Komentarz do pewnej fotografii",
+        "hurst": 0.624,
+        "alpha": 2.129,
+        "lines": 14,
+        "emotion": "obrzydzenie",
+        "intensity": 0.9,
+        "wordCount": 78
+      },
+      {
+        "id": "w-podwojnej-osobie",
+        "title": "W podwójnej osobie",
+        "hurst": 0.624,
+        "alpha": 0.438,
+        "lines": 60,
+        "emotion": "rezygnacja",
+        "intensity": 0.7,
+        "wordCount": 170
+      },
+      {
+        "id": "poemat-mojej-melancholii",
+        "title": "Poemat mojej melancholii",
+        "hurst": 0.619,
+        "alpha": 0.58,
+        "lines": 146,
+        "emotion": "melancholia",
+        "intensity": 0.8,
+        "wordCount": 555
+      },
+      {
+        "id": "proba-nowego-swiata",
+        "title": "Próba nowego świata",
+        "hurst": 0.617,
+        "alpha": 0.357,
+        "lines": 30,
+        "emotion": "ironia",
+        "intensity": 0.8,
+        "wordCount": 148
+      },
+      {
+        "id": "pochodnie",
+        "title": "Pochodnie",
+        "hurst": 0.608,
+        "alpha": 0.836,
+        "lines": 12,
+        "emotion": "euforia",
+        "intensity": 0.8,
+        "wordCount": 72
+      },
+      {
+        "id": "piosenka-bohaterow-vi",
+        "title": "Piosenka bohaterów VI",
+        "hurst": 0.606,
+        "alpha": 1.93,
+        "lines": 15,
+        "emotion": "melancholia",
+        "intensity": 0.8,
+        "wordCount": 108
+      },
+      {
+        "id": "jest-biel",
+        "title": "Jest biel",
+        "hurst": 0.604,
+        "alpha": 2.484,
+        "lines": 12,
+        "emotion": "rozpacz",
+        "intensity": 0.8,
+        "wordCount": 103
+      },
+      {
+        "id": "piesn-ostateczna",
+        "title": "Pieśń ostateczna",
+        "hurst": 0.603,
+        "alpha": 1.955,
+        "lines": 16,
+        "emotion": "rezygnacja",
+        "intensity": 0.9,
+        "wordCount": 98
+      },
+      {
+        "id": "ludzie-klada-sie-spac",
+        "title": "Ludzie kładą się spać",
+        "hurst": 0.602,
+        "alpha": 0.817,
+        "lines": 14,
+        "emotion": "ironia",
+        "intensity": 0.7,
+        "wordCount": 52
+      },
+      {
+        "id": "czemu-nie-ma-tancerki",
+        "title": "Czemu nie ma tancerki",
+        "hurst": 0.601,
+        "alpha": 0.734,
+        "lines": 22,
+        "emotion": "tęsknota",
+        "intensity": 0.8,
+        "wordCount": 166
+      },
+      {
+        "id": "po-sezonie",
+        "title": "Po sezonie",
+        "hurst": 0.601,
+        "alpha": 2.078,
+        "lines": 16,
+        "emotion": "rezygnacja",
+        "intensity": 0.8,
+        "wordCount": 61
+      },
+      {
+        "id": "siostry-syjamskie",
+        "title": "Siostry syjamskie",
+        "hurst": 0.599,
+        "alpha": 0.655,
+        "lines": 17,
+        "emotion": "obrzydzenie",
+        "intensity": 0.9,
+        "wordCount": 97
+      },
+      {
+        "id": "roze",
+        "title": "Róże",
+        "hurst": 0.592,
+        "alpha": 1.655,
+        "lines": 22,
+        "emotion": "rozpacz",
+        "intensity": 0.9,
+        "wordCount": 55
+      },
+      {
+        "id": "piosenka-odwrotnej-strony-medalu-2",
+        "title": "Piosenka odwrotnej strony medalu",
+        "hurst": 0.583,
+        "alpha": 0.641,
+        "lines": 66,
+        "emotion": "rozpacz",
+        "intensity": 0.9,
+        "wordCount": 285
+      },
+      {
+        "id": "nie-skonczona-krucjata",
+        "title": "Nie skończona krucjata",
+        "hurst": 0.573,
+        "alpha": 0.778,
+        "lines": 12,
+        "emotion": "rezygnacja",
+        "intensity": 0.7,
+        "wordCount": 91
+      },
+      {
+        "id": "serce",
+        "title": "Serce",
+        "hurst": 0.557,
+        "alpha": 1.118,
+        "lines": 21,
+        "emotion": "melancholia",
+        "intensity": 0.8,
+        "wordCount": 125
+      },
+      {
+        "id": "piosenka-bohaterow-viii",
+        "title": "Piosenka bohaterów VIII",
+        "hurst": 0.55,
+        "alpha": 1.56,
+        "lines": 14,
+        "emotion": "tęsknota",
+        "intensity": 0.8,
+        "wordCount": 96
+      },
+      {
+        "id": "ekloga-2",
+        "title": "Ekloga",
+        "hurst": 0.537,
+        "alpha": 4.768,
+        "lines": 12,
+        "emotion": "euforia",
+        "intensity": 0.7,
+        "wordCount": 73
+      },
+      {
+        "id": "ptak-o-ktorym-troche-wiem",
+        "title": "Ptak, o którym trochę wiem",
+        "hurst": 0.519,
+        "alpha": 2.612,
+        "lines": 15,
+        "emotion": "melancholia",
+        "intensity": 0.8,
+        "wordCount": 117
+      },
+      {
+        "id": "na-nucie-najwyzszej",
+        "title": "Na nucie najwyższej",
+        "hurst": 0.513,
+        "alpha": 0.201,
+        "lines": 14,
+        "emotion": "tęsknota",
+        "intensity": 0.7,
+        "wordCount": 95
+      },
+      {
+        "id": "koniec-swiata",
+        "title": "Koniec świata",
+        "hurst": 0.506,
+        "alpha": 1.32,
+        "lines": 16,
+        "emotion": "rezygnacja",
+        "intensity": 0.9,
+        "wordCount": 112
+      },
+      {
+        "id": "zwiastowanie",
+        "title": "Zwiastowanie",
+        "hurst": 0.497,
+        "alpha": 0.184,
+        "lines": 12,
+        "emotion": "czułość",
+        "intensity": 0.8,
+        "wordCount": 77
+      },
+      {
+        "id": "apokryf-2",
+        "title": "Apokryf",
+        "hurst": 0.496,
+        "alpha": 1.398,
+        "lines": 16,
+        "emotion": "rozpacz",
+        "intensity": 0.9,
+        "wordCount": 62
+      },
+      {
+        "id": "piosenka-odwrotnej-strony-medalu",
+        "title": "Piosenka odwrotnej strony medalu",
+        "hurst": 0.488,
+        "alpha": 0.91,
+        "lines": 35,
+        "emotion": "rozpacz",
+        "intensity": 0.9,
+        "wordCount": 146
+      },
+      {
+        "id": "dal-sie-nabrac-na-jezyk-ktorego-nie-bylo",
+        "title": "Dał się nabrać na język, którego nie było",
+        "hurst": 0.482,
+        "alpha": 0.726,
+        "lines": 34,
+        "emotion": "melancholia",
+        "intensity": 0.8,
+        "wordCount": 129
+      },
+      {
+        "id": "ostatnia-noc",
+        "title": "Ostatnia noc",
+        "hurst": 0.464,
+        "alpha": 1.941,
+        "lines": 12,
+        "emotion": "rozpacz",
+        "intensity": 0.9,
+        "wordCount": 76
+      },
+      {
+        "id": "bar-piekielko",
+        "title": "Bar „Piekiełko”",
+        "hurst": 0.463,
+        "alpha": 1.123,
+        "lines": 12,
+        "emotion": "melancholia",
+        "intensity": 0.7,
+        "wordCount": 42
+      },
+      {
+        "id": "bez-przecinka",
+        "title": "Bez przecinka",
+        "hurst": 0.459,
+        "alpha": 0.564,
+        "lines": 30,
+        "emotion": "rozpacz",
+        "intensity": 0.8,
+        "wordCount": 158
+      },
+      {
+        "id": "66",
+        "title": "66",
+        "hurst": 0.453,
+        "alpha": 0.794,
+        "lines": 17,
+        "emotion": "rezygnacja",
+        "intensity": 0.7,
+        "wordCount": 79
+      },
+      {
+        "id": "ballada-obsceniczna",
+        "title": "Ballada obsceniczna",
+        "hurst": 0.438,
+        "alpha": 1.536,
+        "lines": 18,
+        "emotion": "euforia",
+        "intensity": 0.8,
+        "wordCount": 102
+      },
+      {
+        "id": "powiesc-nocy-zimowej",
+        "title": "Powieść nocy zimowej",
+        "hurst": 0.41,
+        "alpha": 0.803,
+        "lines": 17,
+        "emotion": "melancholia",
+        "intensity": 0.7,
+        "wordCount": 102
+      },
+      {
+        "id": "ostatnia-modlitwa-bohaterow",
+        "title": "Ostatnia modlitwa bohaterów",
+        "hurst": 0.408,
+        "alpha": 0.973,
+        "lines": 30,
+        "emotion": "czułość",
+        "intensity": 0.8,
+        "wordCount": 165
+      },
+      {
+        "id": "mit",
+        "title": "Mit",
+        "hurst": 0.372,
+        "alpha": 1.059,
+        "lines": 20,
+        "emotion": "melancholia",
+        "intensity": 0.7,
+        "wordCount": 105
+      },
+      {
+        "id": "ogolniki",
+        "title": "Ogólniki",
+        "hurst": 0.342,
+        "alpha": 1.318,
+        "lines": 24,
+        "emotion": "ironia",
+        "intensity": 0.8,
+        "wordCount": 121
+      },
+      {
+        "id": "na-pokoj-i-na-wojne",
+        "title": "Na pokój i na wojnę",
+        "hurst": 0.341,
+        "alpha": 2.931,
+        "lines": 14,
+        "emotion": "ironia",
+        "intensity": 0.8,
+        "wordCount": 82
+      },
+      {
+        "id": "bajka-zimowego-poranka",
+        "title": "Bajka zimowego poranka",
+        "hurst": 0.337,
+        "alpha": 0.13,
+        "lines": 23,
+        "emotion": "melancholia",
+        "intensity": 0.8,
+        "wordCount": 144
+      },
+      {
+        "id": "nowy-sezon",
+        "title": "Nowy sezon",
+        "hurst": 0.337,
+        "alpha": 0.847,
+        "lines": 21,
+        "emotion": "rezygnacja",
+        "intensity": 0.7,
+        "wordCount": 58
+      },
+      {
+        "id": "swiadectwo",
+        "title": "Świadectwo",
+        "hurst": 0.325,
+        "alpha": 0.69,
+        "lines": 28,
+        "emotion": "melancholia",
+        "intensity": 0.7,
+        "wordCount": 114
+      },
+      {
+        "id": "ballada-o-leku",
+        "title": "Ballada o lęku",
+        "hurst": 0.308,
+        "alpha": 0.502,
+        "lines": 24,
+        "emotion": "lęk",
+        "intensity": 0.9,
+        "wordCount": 107
+      },
+      {
+        "id": "ojczyzna",
+        "title": "Ojczyzna",
+        "hurst": 0.296,
+        "alpha": 1.085,
+        "lines": 14,
+        "emotion": "ironia",
+        "intensity": 0.9,
+        "wordCount": 70
+      },
+      {
+        "id": "jeszcze-polska",
+        "title": "Jeszcze Polska",
+        "hurst": 0.295,
+        "alpha": 0.958,
+        "lines": 14,
+        "emotion": "melancholia",
+        "intensity": 0.7,
+        "wordCount": 86
+      },
+      {
+        "id": "bohater",
+        "title": "Bohater",
+        "hurst": 0.272,
+        "alpha": 1.24,
+        "lines": 15,
+        "emotion": "ironia",
+        "intensity": 0.8,
+        "wordCount": 60
+      },
+      {
+        "id": "twoje-cialo-moje-dzielo",
+        "title": "twoje ciało, moje dzieło",
+        "hurst": 0.219,
+        "alpha": 1.447,
+        "lines": 13,
+        "emotion": "czułość",
+        "intensity": 0.8,
+        "wordCount": 72
+      },
+      {
+        "id": "twarz-2",
+        "title": "Twarz",
+        "hurst": 0.193,
+        "alpha": 3.829,
+        "lines": 12,
+        "emotion": "ironia",
+        "intensity": 0.8,
+        "wordCount": 76
+      },
+      {
+        "id": "jak-dowiem-sie-jej-prawdziwego-imienia",
+        "title": "Jak dowiem się jej prawdziwego imienia",
+        "hurst": 0.186,
+        "alpha": 2.002,
+        "lines": 12,
+        "emotion": "tęsknota",
+        "intensity": 0.8,
+        "wordCount": 79
+      },
+      {
+        "id": "prolegomena-do-innej-bajki",
+        "title": "Prolegomena do innej bajki",
+        "hurst": 0.176,
+        "alpha": 0.516,
+        "lines": 17,
+        "emotion": "tęsknota",
+        "intensity": 0.8,
+        "wordCount": 92
+      },
+      {
+        "id": "myjaca-sie",
+        "title": "Myjąca się",
+        "hurst": 0.153,
+        "alpha": 1.534,
+        "lines": 16,
+        "emotion": "obrzydzenie",
+        "intensity": 0.8,
+        "wordCount": 90
+      },
+      {
+        "id": "chichot",
+        "title": "Chichot",
+        "hurst": 0.035,
+        "alpha": 2.964,
+        "lines": 15,
+        "emotion": "rozpacz",
+        "intensity": 0.8,
+        "wordCount": 72
+      },
+      {
+        "id": "poeta-mowi-jakze-ironicznie",
+        "title": "Poeta mówi jakże ironicznie",
+        "hurst": -0.036,
+        "alpha": 0.112,
+        "lines": 14,
+        "emotion": "ironia",
+        "intensity": 0.8,
+        "wordCount": 70
+      },
+      {
+        "id": "piec-zdan-o-wlosach-2",
+        "title": "Pięć zdań o włosach",
+        "hurst": -0.066,
+        "alpha": 1.885,
+        "lines": 15,
+        "emotion": "",
+        "intensity": 0.5,
+        "wordCount": 57
+      },
+      {
+        "id": "elegia",
+        "title": "Elegia",
+        "hurst": -0.138,
+        "alpha": 2.497,
+        "lines": 14,
+        "emotion": "melancholia",
+        "intensity": 0.8,
+        "wordCount": 84
+      },
+      {
+        "id": "piec-zdan-o-wlosach",
+        "title": "Pięć zdań o włosach",
+        "hurst": -0.489,
+        "alpha": 1.475,
+        "lines": 15,
+        "emotion": "melancholia",
+        "intensity": 0.8,
+        "wordCount": 55
+      },
+      {
+        "id": "dwoje",
+        "title": "Dwoje",
+        "hurst": -0.938,
+        "alpha": 7.19,
+        "lines": 13,
+        "emotion": "obrzydzenie",
+        "intensity": 0.8,
+        "wordCount": 62
+      }
+    ],
+    "totalAnalyzed": 244,
+    "avgHurst": 0.803
+  }
+}

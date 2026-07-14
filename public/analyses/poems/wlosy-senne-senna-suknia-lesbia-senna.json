@@ -1,0 +1,759 @@
+{
+  "id": "wlosy-senne-senna-suknia-lesbia-senna",
+  "title": "Włosy senne senna suknia Lesbia senna",
+  "wordCount": 29,
+  "lineCount": 6,
+  "uniqueWords": 26,
+  "vocabularyRichness": 0.897,
+  "avgWordsPerLine": 4.83,
+  "wordsPerLineDistribution": [
+    3,
+    6,
+    5,
+    6,
+    4,
+    5
+  ],
+  "wordFrequencies": [
+    [
+      "senna",
+      2
+    ],
+    [
+      "włosy",
+      1
+    ],
+    [
+      "senne",
+      1
+    ],
+    [
+      "suknia",
+      1
+    ],
+    [
+      "lesbia",
+      1
+    ],
+    [
+      "wrzos",
+      1
+    ],
+    [
+      "snu",
+      1
+    ],
+    [
+      "słodko",
+      1
+    ],
+    [
+      "sypie",
+      1
+    ],
+    [
+      "arszenikiem",
+      1
+    ],
+    [
+      "słuch",
+      1
+    ],
+    [
+      "zasypia",
+      1
+    ],
+    [
+      "głos",
+      1
+    ],
+    [
+      "ucicha",
+      1
+    ],
+    [
+      "bóg",
+      1
+    ],
+    [
+      "umiera",
+      1
+    ],
+    [
+      "głucho",
+      1
+    ],
+    [
+      "szumi",
+      1
+    ],
+    [
+      "muszla",
+      1
+    ],
+    [
+      "oceanu",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 0,
+    "period": 0,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 0,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 0,
+  "negationWords": [],
+  "pronounDistribution": {
+    "ja": 0,
+    "ty": 0,
+    "on_ona": 0,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 1,
+    "smierc": 0,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 1,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [],
+  "firstWord": "włosy",
+  "lastWord": "pływa",
+  "avgWordLength": 4.93,
+  "wordLengthDistribution": {
+    "1-3": 5,
+    "4-5": 14,
+    "6-7": 9,
+    "10+": 1
+  },
+  "bigrams": [
+    [
+      "włosy senne",
+      1
+    ],
+    [
+      "senne senna",
+      1
+    ],
+    [
+      "senna suknia",
+      1
+    ],
+    [
+      "suknia lesbia",
+      1
+    ],
+    [
+      "lesbia senna",
+      1
+    ],
+    [
+      "senna wrzos",
+      1
+    ],
+    [
+      "wrzos snu",
+      1
+    ],
+    [
+      "snu słodko",
+      1
+    ],
+    [
+      "słodko sypie",
+      1
+    ],
+    [
+      "sypie arszenikiem",
+      1
+    ],
+    [
+      "arszenikiem słuch",
+      1
+    ],
+    [
+      "słuch zasypia",
+      1
+    ],
+    [
+      "zasypia głos",
+      1
+    ]
+  ],
+  "poemWords": [
+    "włosy",
+    "senne",
+    "senna",
+    "suknia",
+    "lesbia",
+    "wrzos",
+    "snu",
+    "słodko",
+    "sypie",
+    "arszenikiem",
+    "słuch",
+    "zasypia",
+    "głos",
+    "ucicha",
+    "bóg",
+    "umiera",
+    "głucho",
+    "szumi",
+    "muszla",
+    "oceanu",
+    "biała",
+    "ryba",
+    "ciała",
+    "wolno",
+    "pływa"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 11,
+        "VERB": 6,
+        "ADJ": 4,
+        "ADV": 3,
+        "PRON": 0,
+        "ADP": 0,
+        "CCONJ": 0,
+        "SCONJ": 0,
+        "INTJ": 0,
+        "PART": 0,
+        "DET": 0,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.423,
+        "VERB": 0.231,
+        "ADJ": 0.154,
+        "ADV": 0.115,
+        "PRON": 0,
+        "ADP": 0,
+        "CCONJ": 0,
+        "SCONJ": 0,
+        "INTJ": 0,
+        "PART": 0,
+        "DET": 0,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 2,
+        "abstract": 1,
+        "ratio": 0.67
+      },
+      "verbTenses": {
+        "present": 6
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 0,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 1,
+        "oceniajace": 0,
+        "opisowe": 3
+      },
+      "adverbs": {
+        "temporalne": [],
+        "modalne": [],
+        "sposobu": [
+          "wolno"
+        ],
+        "top": [
+          {
+            "word": "słodko",
+            "count": 1
+          },
+          {
+            "word": "głucho",
+            "count": 1
+          },
+          {
+            "word": "wolno",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 0,
+        "ty": 0,
+        "on_ona": 0,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 0,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 0,
+        "percentSentences": 0
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 62,
+        "consonants": 78,
+        "ratio": 0.79
+      },
+      "consonantClusters": {
+        "count": 3,
+        "top": [
+          {
+            "cluster": "wrz",
+            "count": 1
+          },
+          {
+            "cluster": "rsz",
+            "count": 1
+          },
+          {
+            "cluster": "szl",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 4,
+        "syczace": 20,
+        "nosowe": 15,
+        "plynne": 15
+      },
+      "rhymes": {
+        "exact": 0,
+        "approximate": 0,
+        "internal": 1,
+        "assonance": 0,
+        "alliteration": 1
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 13,
+        "median": 13,
+        "min": 9,
+        "max": 17,
+        "distribution": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 4.8,
+        "meanSyllables": 10.8,
+        "distribution": [
+          0,
+          0,
+          0,
+          1,
+          1,
+          2,
+          2
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 2,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 0,
+        "noSubject": 0,
+        "noPredicate": 0,
+        "percent": 0
+      },
+      "enjambement": {
+        "count": 0,
+        "percent": 0,
+        "positions": []
+      },
+      "wordOrder": {
+        "svo": 1,
+        "inversions": 1,
+        "other": 0,
+        "deviationPercent": 0.5
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 1,
+        "śmierć": 0,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 1,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 65,
+      "estimatedSeconds": 22,
+      "tempoCategory": "umiarkowane"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 11,
+      "VERB": 6,
+      "ADJ": 4,
+      "ADV": 3,
+      "PRON": 0,
+      "ADP": 0,
+      "CCONJ": 0,
+      "SCONJ": 0,
+      "INTJ": 0,
+      "PART": 0,
+      "DET": 0,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.423,
+      "VERB": 0.231,
+      "ADJ": 0.154,
+      "ADV": 0.115,
+      "PRON": 0,
+      "ADP": 0,
+      "CCONJ": 0,
+      "SCONJ": 0,
+      "INTJ": 0,
+      "PART": 0,
+      "DET": 0,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 2,
+      "abstract": 1,
+      "ratio": 0.67
+    },
+    "verbTenses": {
+      "present": 6
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 0,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 1,
+      "oceniajace": 0,
+      "opisowe": 3
+    },
+    "adverbs": {
+      "temporalne": [],
+      "modalne": [],
+      "sposobu": [
+        "wolno"
+      ],
+      "top": [
+        {
+          "word": "słodko",
+          "count": 1
+        },
+        {
+          "word": "głucho",
+          "count": 1
+        },
+        {
+          "word": "wolno",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 0,
+      "ty": 0,
+      "on_ona": 0,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 0,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 0,
+      "percentSentences": 0
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 13,
+      "median": 13,
+      "min": 9,
+      "max": 17,
+      "distribution": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 4.8,
+      "meanSyllables": 10.8,
+      "distribution": [
+        0,
+        0,
+        0,
+        1,
+        1,
+        2,
+        2
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 2,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 0,
+      "noSubject": 0,
+      "noPredicate": 0,
+      "percent": 0
+    },
+    "enjambement": {
+      "count": 0,
+      "percent": 0,
+      "positions": []
+    },
+    "wordOrder": {
+      "svo": 1,
+      "inversions": 1,
+      "other": 0,
+      "deviationPercent": 0.5
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 62,
+      "consonants": 78,
+      "ratio": 0.79
+    },
+    "consonantClusters": {
+      "count": 3,
+      "top": [
+        {
+          "cluster": "wrz",
+          "count": 1
+        },
+        {
+          "cluster": "rsz",
+          "count": 1
+        },
+        {
+          "cluster": "szl",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 4,
+      "syczace": 20,
+      "nosowe": 15,
+      "plynne": 15
+    },
+    "rhymes": {
+      "exact": 0,
+      "approximate": 0,
+      "internal": 1,
+      "assonance": 0,
+      "alliteration": 1
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        6
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 65,
+      "estimatedSeconds": 22,
+      "tempoCategory": "umiarkowane"
+    },
+    "regularity": {
+      "type": "polregularny",
+      "regularityScore": 0.62
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "inne",
+          "reference": "Lesbia - nawiązanie do Katullusa i jego cyklu o Lesbii",
+          "evidence": "Włosy senne senna suknia Lesbia senna"
+        },
+        {
+          "source": "Baudelaire",
+          "reference": "Estetyka zmysłowa i symbolizm snu",
+          "evidence": "Wrzos snu słodko sypie arszenikiem"
+        },
+        {
+          "source": "mitologia",
+          "reference": "Muszla oceanu - symbol Wenus/Afrodyty",
+          "evidence": "Głucho szumi muszla oceanu"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.7,
+        "baudelaire": 0.9,
+        "bursa": 0.3,
+        "stachura": 0.4,
+        "grochowiak": 0.6,
+        "bialoszewski": 0.2,
+        "rozewicz": 0.1
+      }
+    },
+    "space": {
+      "type": "nieokreslona",
+      "evidence": "Przestrzeń oniryczna między snem a rzeczywistością, ocean jako symbol nieskończoności",
+      "openClosedRatio": 0.8
+    },
+    "timeOfDay": {
+      "period": "noc",
+      "season": "nieokreslona",
+      "evidence": "Włosy senne senna suknia, atmosfera snu i zaśypiania"
+    },
+    "motion": {
+      "movement": 3,
+      "stillness": 8,
+      "dynamism": 0.3,
+      "evidence": "Wolne ruchy: 'Biała ryba ciała wolno pływa', dominuje statyczność snu"
+    },
+    "imageryDensity": {
+      "metaphors": 4,
+      "comparisons": 1,
+      "personifications": 3,
+      "hyperboles": 1,
+      "per100words": 36
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.6,
+      "creationLevel": 0.8,
+      "ironicDistance": 0.2,
+      "autobiographicSignals": [
+        "erotyczne odniesienia do ciała",
+        "metafizyczne rozważania o śmierci Boga"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "melancholia",
+      "secondary": "tęsknota",
+      "intensity": 0.7
+    },
+    "subjectPresence": {
+      "type": "ukryte",
+      "evidence": "podmiot obserwuje Lesbię, ale nie wypowiada się bezpośrednio o sobie"
+    },
+    "addressee": {
+      "type": "nikt",
+      "evidence": "brak bezpośredniego zwrotu do kogokolwiek, wiersz ma charakter opisowy"
+    },
+    "metaphors": [
+      {
+        "source": "wrzos",
+        "target": "sen/śmierć",
+        "example": "Wrzos snu słodko sypie arszenikiem"
+      },
+      {
+        "source": "biała ryba",
+        "target": "ciało",
+        "example": "Biała ryba ciała wolno pływa"
+      },
+      {
+        "source": "muszla oceanu",
+        "target": "głos/dźwięk",
+        "example": "Głucho szumi muszla oceanu"
+      }
+    ],
+    "temperature": {
+      "value": 0.2,
+      "label": "zimne - atmosfera senności, umierania, wolności ruchu"
+    },
+    "senses": {
+      "wzrok": 4,
+      "sluch": 5,
+      "dotyk": 2,
+      "smak": 1,
+      "zapach": 1
+    },
+    "autodestruction": {
+      "level": 0.6,
+      "signals": [
+        "arszenik jako trucizna",
+        "motyw umierania Boga",
+        "atmosfera zanikania"
+      ]
+    }
+  }
+}

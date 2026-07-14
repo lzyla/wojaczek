@@ -1,0 +1,927 @@
+{
+  "id": "ktora-zmeczona-spi",
+  "title": "Która zmęczona śpi",
+  "wordCount": 79,
+  "lineCount": 22,
+  "uniqueWords": 52,
+  "vocabularyRichness": 0.658,
+  "avgWordsPerLine": 3.59,
+  "wordsPerLineDistribution": [
+    3,
+    5,
+    5,
+    3,
+    4,
+    3,
+    3,
+    3,
+    3,
+    4,
+    3,
+    4,
+    5,
+    6,
+    3,
+    3,
+    2,
+    4,
+    3,
+    6,
+    2,
+    2
+  ],
+  "wordFrequencies": [
+    [
+      "zmęczona",
+      2
+    ],
+    [
+      "śpi",
+      2
+    ],
+    [
+      "ciało",
+      2
+    ],
+    [
+      "śnie",
+      2
+    ],
+    [
+      "snu",
+      2
+    ],
+    [
+      "sen",
+      2
+    ],
+    [
+      "noc",
+      1
+    ],
+    [
+      "dzień",
+      1
+    ],
+    [
+      "uśpiony",
+      1
+    ],
+    [
+      "ciele",
+      1
+    ],
+    [
+      "odróżniam",
+      1
+    ],
+    [
+      "ciała",
+      1
+    ],
+    [
+      "świt",
+      1
+    ],
+    [
+      "stop",
+      1
+    ],
+    [
+      "szlachetny",
+      1
+    ],
+    [
+      "księżyca",
+      1
+    ],
+    [
+      "słońca",
+      1
+    ],
+    [
+      "dojrzewa",
+      1
+    ],
+    [
+      "nocy",
+      1
+    ],
+    [
+      "gorącym",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 0,
+    "period": 0,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 0,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 2,
+  "negationWords": [
+    "nie"
+  ],
+  "pronounDistribution": {
+    "ja": 3,
+    "ty": 0,
+    "on_ona": 8,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 2,
+    "smierc": 0,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 4,
+    "bol": 0
+  },
+  "anaphors": [
+    [
+      "która",
+      2
+    ],
+    [
+      "co to",
+      2
+    ],
+    [
+      "mój",
+      2
+    ]
+  ],
+  "firstWord": "która",
+  "lastWord": "róża",
+  "avgWordLength": 4.23,
+  "wordLengthDistribution": {
+    "4-5": 22,
+    "8-9": 6,
+    "1-3": 38,
+    "6-7": 10,
+    "10+": 3
+  },
+  "bigrams": [
+    [
+      "zmęczona śpi",
+      2
+    ],
+    [
+      "noc dzień",
+      1
+    ],
+    [
+      "dzień uśpiony",
+      1
+    ]
+  ],
+  "poemWords": [
+    "zmęczona",
+    "śpi",
+    "ciało",
+    "noc",
+    "dzień",
+    "uśpiony",
+    "ciele",
+    "odróżniam",
+    "ciała",
+    "świt",
+    "stop",
+    "szlachetny",
+    "księżyca",
+    "słońca",
+    "dojrzewa",
+    "nocy",
+    "śnie",
+    "gorącym",
+    "snu",
+    "wyjąć",
+    "sen",
+    "zaciśniętych",
+    "dłoniach",
+    "zarazem",
+    "oddech",
+    "iskra",
+    "spina",
+    "śpiące",
+    "ptakiem",
+    "zakwita",
+    "ofiarowana",
+    "niegdyś",
+    "młoda",
+    "róża"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 22,
+        "VERB": 8,
+        "ADJ": 10,
+        "ADV": 1,
+        "PRON": 12,
+        "ADP": 8,
+        "CCONJ": 3,
+        "SCONJ": 2,
+        "INTJ": 0,
+        "PART": 4,
+        "DET": 4,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.278,
+        "VERB": 0.101,
+        "ADJ": 0.127,
+        "ADV": 0.013,
+        "PRON": 0.152,
+        "ADP": 0.101,
+        "CCONJ": 0.038,
+        "SCONJ": 0.025,
+        "INTJ": 0,
+        "PART": 0.051,
+        "DET": 0.051,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 5,
+        "abstract": 6,
+        "ratio": 0.45
+      },
+      "verbTenses": {
+        "present": 12,
+        "infinitive": 1
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 5,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 1,
+        "oceniajace": 0,
+        "opisowe": 9
+      },
+      "adverbs": {
+        "temporalne": [],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "niegdyś",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 0,
+        "ty": 0,
+        "on_ona": 8,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 2,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 2,
+        "percentSentences": 1
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 141,
+        "consonants": 193,
+        "ratio": 0.73
+      },
+      "consonantClusters": {
+        "count": 3,
+        "top": [
+          {
+            "cluster": "szl",
+            "count": 1
+          },
+          {
+            "cluster": "jrz",
+            "count": 1
+          },
+          {
+            "cluster": "skr",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 10,
+        "syczace": 49,
+        "nosowe": 42,
+        "plynne": 17
+      },
+      "rhymes": {
+        "exact": 1,
+        "approximate": 1,
+        "internal": 0,
+        "assonance": 0,
+        "alliteration": 0
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 39.5,
+        "median": 40,
+        "min": 23,
+        "max": 56,
+        "distribution": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 3.6,
+        "meanSyllables": 6.7,
+        "distribution": [
+          0,
+          0,
+          3,
+          10,
+          4,
+          3,
+          2
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 2,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 0,
+        "noSubject": 0,
+        "noPredicate": 0,
+        "percent": 0
+      },
+      "enjambement": {
+        "count": 21,
+        "percent": 1,
+        "positions": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ]
+      },
+      "wordOrder": {
+        "svo": 2,
+        "inversions": 0,
+        "other": 0,
+        "deviationPercent": 0
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 3,
+        "śmierć": 0,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 6,
+        "ból": 0
+      },
+      "oppositionsFound": [
+        "dzień/noc"
+      ]
+    },
+    "tempo": {
+      "syllables": 147,
+      "estimatedSeconds": 49,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 22,
+      "VERB": 8,
+      "ADJ": 10,
+      "ADV": 1,
+      "PRON": 12,
+      "ADP": 8,
+      "CCONJ": 3,
+      "SCONJ": 2,
+      "INTJ": 0,
+      "PART": 4,
+      "DET": 4,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.278,
+      "VERB": 0.101,
+      "ADJ": 0.127,
+      "ADV": 0.013,
+      "PRON": 0.152,
+      "ADP": 0.101,
+      "CCONJ": 0.038,
+      "SCONJ": 0.025,
+      "INTJ": 0,
+      "PART": 0.051,
+      "DET": 0.051,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 5,
+      "abstract": 6,
+      "ratio": 0.45
+    },
+    "verbTenses": {
+      "present": 12,
+      "infinitive": 1
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 5,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 1,
+      "oceniajace": 0,
+      "opisowe": 9
+    },
+    "adverbs": {
+      "temporalne": [],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "niegdyś",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 0,
+      "ty": 0,
+      "on_ona": 8,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 2,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 2,
+      "percentSentences": 1
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 39.5,
+      "median": 40,
+      "min": 23,
+      "max": 56,
+      "distribution": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 3.6,
+      "meanSyllables": 6.7,
+      "distribution": [
+        0,
+        0,
+        3,
+        10,
+        4,
+        3,
+        2
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 2,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 0,
+      "noSubject": 0,
+      "noPredicate": 0,
+      "percent": 0
+    },
+    "enjambement": {
+      "count": 21,
+      "percent": 1,
+      "positions": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21
+      ]
+    },
+    "wordOrder": {
+      "svo": 2,
+      "inversions": 0,
+      "other": 0,
+      "deviationPercent": 0
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 141,
+      "consonants": 193,
+      "ratio": 0.73
+    },
+    "consonantClusters": {
+      "count": 3,
+      "top": [
+        {
+          "cluster": "szl",
+          "count": 1
+        },
+        {
+          "cluster": "jrz",
+          "count": 1
+        },
+        {
+          "cluster": "skr",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 10,
+      "syczace": 49,
+      "nosowe": 42,
+      "plynne": 17
+    },
+    "rhymes": {
+      "exact": 1,
+      "approximate": 1,
+      "internal": 0,
+      "assonance": 0,
+      "alliteration": 0
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        22
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 147,
+      "estimatedSeconds": 49,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "polregularny",
+      "regularityScore": 0.6
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Leśmian",
+          "reference": "metafizyka snu i ciała",
+          "evidence": "mój sen w jej zaciśniętych dłoniach / zarazem jej oddech"
+        },
+        {
+          "source": "Rimbaud",
+          "reference": "synestezja i metamorfozy",
+          "evidence": "ciało jej jest noc / dzień uśpiony w jej ciele"
+        },
+        {
+          "source": "inne",
+          "reference": "tradycja erotyczna",
+          "evidence": "ofiarowana niegdyś / młoda róża"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.8,
+        "baudelaire": 0.3,
+        "bursa": 0.1,
+        "stachura": 0.4,
+        "grochowiak": 0.2,
+        "bialoszewski": 0.1,
+        "rozewicz": 0.2
+      }
+    },
+    "space": {
+      "type": "zamknieta",
+      "evidence": "sen w zaciśniętych dłoniach, śpiące ciało jako zamknięta przestrzeń intymności",
+      "openClosedRatio": 0.2
+    },
+    "timeOfDay": {
+      "period": "noc",
+      "season": "nieokreslona",
+      "evidence": "ciało jej jest noc, świt, księżyca i słońca, dojrzewa do nocy"
+    },
+    "motion": {
+      "movement": 3,
+      "stillness": 8,
+      "dynamism": 0.3,
+      "evidence": "dominuje sen i bezruch - śpi, uśpiony, śpiące ciało, jedynie subtelny ruch w zakwita"
+    },
+    "imageryDensity": {
+      "metaphors": 8,
+      "comparisons": 2,
+      "personifications": 3,
+      "hyperboles": 1,
+      "per100words": 35
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.9,
+      "creationLevel": 0.7,
+      "ironicDistance": 0.1,
+      "autobiographicSignals": [
+        "mój sen",
+        "nie mogę wyjąć",
+        "nie odróżniam od jej ciała",
+        "intymność wyznania erotycznego"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "czułość",
+      "secondary": "tęsknota",
+      "intensity": 0.8
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "podmiot liryczny mówi w pierwszej osobie: 'się nie odróżniam', 'nie mogę wyjąć mojego snu', 'mój sen'"
+    },
+    "addressee": {
+      "type": "nikt",
+      "evidence": "wiersz ma charakter kontemplacyjny, podmiot nie zwraca się bezpośrednio do nikogo, opisuje stan zjednoczenia z ukochaną"
+    },
+    "metaphors": [
+      {
+        "source": "ciało",
+        "target": "noc",
+        "example": "a ciało jej jest noc"
+      },
+      {
+        "source": "dzień",
+        "target": "coś uśpionego w ciele",
+        "example": "dzień uśpiony w jej ciele"
+      },
+      {
+        "source": "świt",
+        "target": "szlachetny stop",
+        "example": "świt stop szlachetny księżyca i słońca"
+      },
+      {
+        "source": "sen",
+        "target": "kwiat",
+        "example": "mój sen zakwita w jej śnie"
+      },
+      {
+        "source": "kobieta",
+        "target": "róża",
+        "example": "ofiarowana niegdyś młoda róża"
+      }
+    ],
+    "temperature": {
+      "value": 0.7,
+      "label": "ciepłe - intymność i namiętność"
+    },
+    "senses": {
+      "wzrok": 2,
+      "sluch": 1,
+      "dotyk": 5,
+      "smak": 0,
+      "zapach": 1
+    },
+    "autodestruction": {
+      "level": 0.2,
+      "signals": [
+        "zatracenie własnej tożsamości w drugiej osobie: 'że się nie odróżniam od jej ciała'"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 0.944,
+    "dfaAlpha": 0.985,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -0.9932007552050244
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -0.7924224335920811
+      },
+      {
+        "logWin": 1.6094379124341003,
+        "logFluc": -0.5140259947985301
+      },
+      {
+        "logWin": 1.791759469228055,
+        "logFluc": -0.44559111651646777
+      },
+      {
+        "logWin": 1.9459101490553132,
+        "logFluc": -0.11449314597809504
+      }
+    ],
+    "seriesLength": 22,
+    "series": [
+      3,
+      5,
+      5,
+      3,
+      4,
+      3,
+      3,
+      3,
+      3,
+      4,
+      3,
+      4,
+      5,
+      6,
+      3,
+      3,
+      2,
+      4,
+      3,
+      6,
+      2,
+      2
+    ]
+  }
+}

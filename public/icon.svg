@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" fill="#ffffff"/>
+  <!-- Stylized W made of broken/fractured lines - representing Wojaczek's fragmented poetry -->
+  <g stroke="#1a1a1a" stroke-linecap="round" fill="none">
+    <!-- Left stroke of W -->
+    <line x1="128" y1="128" x2="176" y2="384" stroke-width="8"/>
+    <!-- Inner left -->
+    <line x1="176" y1="384" x2="224" y2="240" stroke-width="8"/>
+    <!-- Inner right -->
+    <line x1="224" y1="240" x2="272" y2="384" stroke-width="8"/>
+    <!-- Right stroke -->
+    <line x1="272" y1="384" x2="320" y2="128" stroke-width="8"/>
+    <!-- Fracture/break - a crack through the letter -->
+    <line x1="144" y1="256" x2="304" y2="256" stroke-width="1.5" stroke="#c23030" stroke-dasharray="4,6"/>
+    <!-- Blood drop / red accent dot -->
+    <circle cx="224" cy="256" r="6" fill="#c23030" stroke="none"/>
+  </g>
+  <!-- Subtle baseline -->
+  <line x1="108" y1="400" x2="340" y2="400" stroke="#1a1a1a" stroke-width="1" opacity="0.3"/>
+</svg>

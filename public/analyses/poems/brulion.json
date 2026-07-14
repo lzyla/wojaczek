@@ -1,0 +1,883 @@
+{
+  "id": "brulion",
+  "title": "Brulion",
+  "wordCount": 77,
+  "lineCount": 12,
+  "uniqueWords": 69,
+  "vocabularyRichness": 0.896,
+  "avgWordsPerLine": 6.42,
+  "wordsPerLineDistribution": [
+    7,
+    6,
+    6,
+    6,
+    7,
+    8,
+    8,
+    6,
+    7,
+    7,
+    7,
+    2
+  ],
+  "wordFrequencies": [
+    [
+      "lega",
+      1
+    ],
+    [
+      "kobieta",
+      1
+    ],
+    [
+      "ciałem",
+      1
+    ],
+    [
+      "śmierci",
+      1
+    ],
+    [
+      "żywej",
+      1
+    ],
+    [
+      "spokojna",
+      1
+    ],
+    [
+      "siła",
+      1
+    ],
+    [
+      "której",
+      1
+    ],
+    [
+      "chcemy",
+      1
+    ],
+    [
+      "sprostać",
+      1
+    ],
+    [
+      "musimy",
+      1
+    ],
+    [
+      "najpierw",
+      1
+    ],
+    [
+      "nowo",
+      1
+    ],
+    [
+      "zaufać",
+      1
+    ],
+    [
+      "schizofrenia",
+      1
+    ],
+    [
+      "poddaje",
+      1
+    ],
+    [
+      "rym",
+      1
+    ],
+    [
+      "trumna",
+      1
+    ],
+    [
+      "czego",
+      1
+    ],
+    [
+      "wykpić",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 9,
+    "period": 3,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 1,
+    "colon": 2,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 0,
+  "negationWords": [],
+  "pronounDistribution": {
+    "ja": 0,
+    "ty": 0,
+    "on_ona": 0,
+    "my": 3,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 0,
+    "smierc": 1,
+    "erotyka": 1,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [],
+  "firstWord": "lega",
+  "lastWord": "się",
+  "avgWordLength": 5.12,
+  "wordLengthDistribution": {
+    "4-5": 22,
+    "1-3": 23,
+    "6-7": 18,
+    "8-9": 10,
+    "10+": 4
+  },
+  "bigrams": [
+    [
+      "kobieta swoim",
+      1
+    ],
+    [
+      "swoim ciałem",
+      1
+    ],
+    [
+      "ciałem śmierci",
+      1
+    ],
+    [
+      "śmierci żywej",
+      1
+    ],
+    [
+      "żywej spokojna",
+      1
+    ],
+    [
+      "spokojna siła",
+      1
+    ],
+    [
+      "siła której",
+      1
+    ],
+    [
+      "której jeśli",
+      1
+    ],
+    [
+      "jeśli chcemy",
+      1
+    ],
+    [
+      "chcemy sprostać",
+      1
+    ],
+    [
+      "sprostać musimy",
+      1
+    ],
+    [
+      "musimy najpierw",
+      1
+    ]
+  ],
+  "poemWords": [
+    "lega",
+    "kobieta",
+    "ciałem",
+    "śmierci",
+    "żywej",
+    "spokojna",
+    "siła",
+    "której",
+    "chcemy",
+    "sprostać",
+    "musimy",
+    "najpierw",
+    "nowo",
+    "zaufać",
+    "schizofrenia",
+    "poddaje",
+    "rym",
+    "trumna",
+    "czego",
+    "wykpić",
+    "należy",
+    "choćby",
+    "pierdnięciem",
+    "pierdzi",
+    "łóżko",
+    "odpuszczą",
+    "możemy",
+    "wtulić",
+    "kobietę",
+    "tłustą",
+    "czułością",
+    "umie",
+    "naszą",
+    "śmieszną",
+    "niemoc",
+    "mimochodem",
+    "zamienić",
+    "zysk",
+    "wstajemy",
+    "silni",
+    "pożywnej",
+    "krwi",
+    "witaminowej",
+    "śliny",
+    "senną",
+    "schylając"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 15,
+        "VERB": 15,
+        "ADJ": 8,
+        "ADV": 3,
+        "PRON": 9,
+        "ADP": 8,
+        "CCONJ": 3,
+        "SCONJ": 2,
+        "INTJ": 0,
+        "PART": 5,
+        "DET": 7,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.192,
+        "VERB": 0.192,
+        "ADJ": 0.103,
+        "ADV": 0.038,
+        "PRON": 0.115,
+        "ADP": 0.103,
+        "CCONJ": 0.038,
+        "SCONJ": 0.026,
+        "INTJ": 0,
+        "PART": 0.064,
+        "DET": 0.09,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 3,
+        "abstract": 1,
+        "ratio": 0.75
+      },
+      "verbTenses": {
+        "present": 9,
+        "infinitive": 5,
+        "future": 1
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 0,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 0,
+        "opisowe": 8
+      },
+      "adverbs": {
+        "temporalne": [],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "najpierw",
+            "count": 1
+          },
+          {
+            "word": "nowo",
+            "count": 1
+          },
+          {
+            "word": "tak",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 0,
+        "ty": 0,
+        "on_ona": 1,
+        "my": 2,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 0,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 0,
+        "percentSentences": 0
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 167,
+        "consonants": 234,
+        "ratio": 0.71
+      },
+      "consonantClusters": {
+        "count": 11,
+        "top": [
+          {
+            "cluster": "sch",
+            "count": 2
+          },
+          {
+            "cluster": "prz",
+            "count": 1
+          },
+          {
+            "cluster": "chc",
+            "count": 1
+          },
+          {
+            "cluster": "spr",
+            "count": 1
+          },
+          {
+            "cluster": "rdn",
+            "count": 1
+          },
+          {
+            "cluster": "rdz",
+            "count": 1
+          },
+          {
+            "cluster": "szcz",
+            "count": 1
+          },
+          {
+            "cluster": "szn",
+            "count": 1
+          },
+          {
+            "cluster": "wst",
+            "count": 1
+          },
+          {
+            "cluster": "krw",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 16,
+        "syczace": 47,
+        "nosowe": 60,
+        "plynne": 26
+      },
+      "rhymes": {
+        "exact": 0,
+        "approximate": 0,
+        "internal": 0,
+        "assonance": 0,
+        "alliteration": 0
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 15.6,
+        "median": 20,
+        "min": 0,
+        "max": 21,
+        "distribution": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          2
+        ]
+      },
+      "lineLength": {
+        "meanWords": 6.1,
+        "meanSyllables": 13.2,
+        "distribution": [
+          0,
+          1,
+          1,
+          0,
+          0,
+          0,
+          4,
+          5,
+          1,
+          1
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 5,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 0,
+        "noSubject": 1,
+        "noPredicate": 0,
+        "percent": 0.2
+      },
+      "enjambement": {
+        "count": 1,
+        "percent": 0.08,
+        "positions": [
+          7
+        ]
+      },
+      "wordOrder": {
+        "svo": 2,
+        "inversions": 1,
+        "other": 1,
+        "deviationPercent": 0.5
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 1,
+        "śmierć": 2,
+        "erotyka": 1,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 172,
+      "estimatedSeconds": 57,
+      "tempoCategory": "wolne"
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Biblia",
+          "reference": "miłość/czułość jako zbawienie",
+          "evidence": "czułość która umie naszą śmieszną niemoc zamienić nam w zysk"
+        },
+        {
+          "source": "Baudelaire",
+          "reference": "cielesność i duchowość",
+          "evidence": "witaminowej śliny i nad nią, już senną"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.3,
+        "baudelaire": 0.7,
+        "bursa": 0.4,
+        "stachura": 0.2,
+        "grochowiak": 0.6,
+        "bialoszewski": 0.5,
+        "rozewicz": 0.4
+      }
+    },
+    "space": {
+      "type": "zamknieta",
+      "evidence": "łóżko, wtulić się w kobietę - przestrzeń intymna, domowa",
+      "openClosedRatio": 0.2
+    },
+    "timeOfDay": {
+      "period": "noc",
+      "season": "zima",
+      "evidence": "senną, data grudnia, atmosfera snu i odpoczynku"
+    },
+    "motion": {
+      "movement": 3,
+      "stillness": 7,
+      "dynamism": 0.3,
+      "evidence": "lega, spokojna siła, wtulić się, wstajemy - przewaga statyczności nad ruchem"
+    },
+    "imageryDensity": {
+      "metaphors": 4,
+      "comparisons": 1,
+      "personifications": 2,
+      "hyperboles": 1,
+      "per100words": 12.3
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.8,
+      "creationLevel": 0.6,
+      "ironicDistance": 0.4,
+      "autobiographicSignals": [
+        "data osobista",
+        "intymność sytuacji",
+        "szczegółowość przeżycia",
+        "forma brulionowa"
+      ]
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 15,
+      "VERB": 15,
+      "ADJ": 8,
+      "ADV": 3,
+      "PRON": 9,
+      "ADP": 8,
+      "CCONJ": 3,
+      "SCONJ": 2,
+      "INTJ": 0,
+      "PART": 5,
+      "DET": 7,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.192,
+      "VERB": 0.192,
+      "ADJ": 0.103,
+      "ADV": 0.038,
+      "PRON": 0.115,
+      "ADP": 0.103,
+      "CCONJ": 0.038,
+      "SCONJ": 0.026,
+      "INTJ": 0,
+      "PART": 0.064,
+      "DET": 0.09,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 3,
+      "abstract": 1,
+      "ratio": 0.75
+    },
+    "verbTenses": {
+      "present": 9,
+      "infinitive": 5,
+      "future": 1
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 0,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 0,
+      "opisowe": 8
+    },
+    "adverbs": {
+      "temporalne": [],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "najpierw",
+          "count": 1
+        },
+        {
+          "word": "nowo",
+          "count": 1
+        },
+        {
+          "word": "tak",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 0,
+      "ty": 0,
+      "on_ona": 1,
+      "my": 2,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 0,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 0,
+      "percentSentences": 0
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 15.6,
+      "median": 20,
+      "min": 0,
+      "max": 21,
+      "distribution": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        2
+      ]
+    },
+    "lineLength": {
+      "meanWords": 6.1,
+      "meanSyllables": 13.2,
+      "distribution": [
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        4,
+        5,
+        1,
+        1
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 5,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 0,
+      "noSubject": 1,
+      "noPredicate": 0,
+      "percent": 0.2
+    },
+    "enjambement": {
+      "count": 1,
+      "percent": 0.08,
+      "positions": [
+        7
+      ]
+    },
+    "wordOrder": {
+      "svo": 2,
+      "inversions": 1,
+      "other": 1,
+      "deviationPercent": 0.5
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 167,
+      "consonants": 234,
+      "ratio": 0.71
+    },
+    "consonantClusters": {
+      "count": 11,
+      "top": [
+        {
+          "cluster": "sch",
+          "count": 2
+        },
+        {
+          "cluster": "prz",
+          "count": 1
+        },
+        {
+          "cluster": "chc",
+          "count": 1
+        },
+        {
+          "cluster": "spr",
+          "count": 1
+        },
+        {
+          "cluster": "rdn",
+          "count": 1
+        },
+        {
+          "cluster": "rdz",
+          "count": 1
+        },
+        {
+          "cluster": "szcz",
+          "count": 1
+        },
+        {
+          "cluster": "szn",
+          "count": 1
+        },
+        {
+          "cluster": "wst",
+          "count": 1
+        },
+        {
+          "cluster": "krw",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 16,
+      "syczace": 47,
+      "nosowe": 60,
+      "plynne": 26
+    },
+    "rhymes": {
+      "exact": 0,
+      "approximate": 0,
+      "internal": 0,
+      "assonance": 0,
+      "alliteration": 0
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        13
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 172,
+      "estimatedSeconds": 57,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "polregularny",
+      "regularityScore": 0.66
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "czułość",
+      "secondary": "melancholia",
+      "intensity": 0.7
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "musimy sprostać, nasza schizofrenia, możemy wtulić się, wstajemy znów silni"
+    },
+    "addressee": {
+      "type": "nikt",
+      "evidence": "wiersz ma charakter medytacyjny, podmiot opisuje sytuację bez bezpośredniego zwracania się do kogoś konkretnego"
+    },
+    "metaphors": [
+      {
+        "source": "kobieta",
+        "target": "życiodajna siła",
+        "example": "kobieta swoim ciałem śmierci Żywej"
+      },
+      {
+        "source": "czułość",
+        "target": "pokarm/tłuszcz",
+        "example": "wtulić się w kobietę tłustą Czułością"
+      },
+      {
+        "source": "krew i ślina",
+        "target": "pożywienie",
+        "example": "pożywnej krwi, Witaminowej śliny"
+      }
+    ],
+    "temperature": {
+      "value": 0.4,
+      "label": "chłodna intymność"
+    },
+    "senses": {
+      "wzrok": 3,
+      "sluch": 1,
+      "dotyk": 5,
+      "smak": 3,
+      "zapach": 2
+    },
+    "autodestruction": {
+      "level": 0.3,
+      "signals": [
+        "schizofrenia",
+        "śmieszna niemoc",
+        "ironiczne odniesienia do śmierci"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 1.338,
+    "dfaAlpha": 1.522,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -0.8855700910126593
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -0.4478357223357094
+      }
+    ],
+    "seriesLength": 12,
+    "series": [
+      7,
+      6,
+      6,
+      6,
+      7,
+      8,
+      8,
+      6,
+      7,
+      7,
+      7,
+      2
+    ]
+  }
+}

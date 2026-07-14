@@ -1,0 +1,805 @@
+{
+  "id": "imie-i-cialo",
+  "title": "Imię i ciało",
+  "wordCount": 36,
+  "lineCount": 14,
+  "uniqueWords": 30,
+  "vocabularyRichness": 0.833,
+  "avgWordsPerLine": 2.57,
+  "wordsPerLineDistribution": [
+    3,
+    3,
+    3,
+    2,
+    2,
+    4,
+    4,
+    2,
+    3,
+    1,
+    3,
+    3,
+    2,
+    1
+  ],
+  "wordFrequencies": [
+    [
+      "snu",
+      2
+    ],
+    [
+      "ciało",
+      2
+    ],
+    [
+      "boli",
+      1
+    ],
+    [
+      "ciemny",
+      1
+    ],
+    [
+      "sen",
+      1
+    ],
+    [
+      "teresa",
+      1
+    ],
+    [
+      "wyświecam",
+      1
+    ],
+    [
+      "jasne",
+      1
+    ],
+    [
+      "zawarte",
+      1
+    ],
+    [
+      "dłoniach",
+      1
+    ],
+    [
+      "zdaje",
+      1
+    ],
+    [
+      "spokojniej",
+      1
+    ],
+    [
+      "oswajanie",
+      1
+    ],
+    [
+      "imię",
+      1
+    ],
+    [
+      "pulsujące",
+      1
+    ],
+    [
+      "suchych",
+      1
+    ],
+    [
+      "sutkach",
+      1
+    ],
+    [
+      "dłonie",
+      1
+    ],
+    [
+      "coraz",
+      1
+    ],
+    [
+      "świecą",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 0,
+    "period": 0,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 0,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 0,
+  "negationWords": [],
+  "pronounDistribution": {
+    "ja": 1,
+    "ty": 0,
+    "on_ona": 0,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 3,
+    "smierc": 0,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 1,
+    "bol": 0
+  },
+  "anaphors": [
+    [
+      "i tylko",
+      2
+    ]
+  ],
+  "firstWord": "który",
+  "lastWord": "świecą",
+  "avgWordLength": 4.69,
+  "wordLengthDistribution": {
+    "4-5": 11,
+    "6-7": 7,
+    "1-3": 13,
+    "8-9": 4,
+    "10+": 1
+  },
+  "bigrams": [
+    [
+      "boli ciemny",
+      1
+    ],
+    [
+      "ciemny sen",
+      1
+    ],
+    [
+      "sen teresa",
+      1
+    ],
+    [
+      "teresa wyświecam",
+      1
+    ],
+    [
+      "snu jasne",
+      1
+    ],
+    [
+      "jasne ciało",
+      1
+    ]
+  ],
+  "poemWords": [
+    "boli",
+    "ciemny",
+    "sen",
+    "teresa",
+    "wyświecam",
+    "snu",
+    "jasne",
+    "ciało",
+    "zawarte",
+    "dłoniach",
+    "zdaje",
+    "spokojniej",
+    "oswajanie",
+    "imię",
+    "pulsujące",
+    "suchych",
+    "sutkach",
+    "dłonie",
+    "coraz",
+    "świecą"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 10,
+        "VERB": 4,
+        "ADJ": 5,
+        "ADV": 3,
+        "PRON": 3,
+        "ADP": 3,
+        "CCONJ": 2,
+        "SCONJ": 1,
+        "INTJ": 0,
+        "PART": 3,
+        "DET": 1,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.278,
+        "VERB": 0.111,
+        "ADJ": 0.139,
+        "ADV": 0.083,
+        "PRON": 0.083,
+        "ADP": 0.083,
+        "CCONJ": 0.056,
+        "SCONJ": 0.028,
+        "INTJ": 0,
+        "PART": 0.083,
+        "DET": 0.028,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 2,
+        "abstract": 3,
+        "ratio": 0.4
+      },
+      "verbTenses": {
+        "present": 4
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 0,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 3,
+        "oceniajace": 0,
+        "opisowe": 2
+      },
+      "adverbs": {
+        "temporalne": [],
+        "modalne": [],
+        "sposobu": [
+          "spokojniej"
+        ],
+        "top": [
+          {
+            "word": "gdy",
+            "count": 1
+          },
+          {
+            "word": "spokojniej",
+            "count": 1
+          },
+          {
+            "word": "coraz",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 1,
+        "ty": 0,
+        "on_ona": 0,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 0,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 0,
+        "percentSentences": 0
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 76,
+        "consonants": 93,
+        "ratio": 0.82
+      },
+      "consonantClusters": {
+        "count": 0,
+        "top": []
+      },
+      "soundGroups": {
+        "szumiace": 0,
+        "syczace": 28,
+        "nosowe": 18,
+        "plynne": 12
+      },
+      "rhymes": {
+        "exact": 1,
+        "approximate": 0,
+        "internal": 0,
+        "assonance": 1,
+        "alliteration": 0
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 36,
+        "median": 36,
+        "min": 36,
+        "max": 36,
+        "distribution": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 2.6,
+        "meanSyllables": 5.6,
+        "distribution": [
+          0,
+          2,
+          4,
+          6,
+          2
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 1,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 0,
+        "noSubject": 0,
+        "noPredicate": 0,
+        "percent": 0
+      },
+      "enjambement": {
+        "count": 13,
+        "percent": 1,
+        "positions": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13
+        ]
+      },
+      "wordOrder": {
+        "svo": 1,
+        "inversions": 0,
+        "other": 0,
+        "deviationPercent": 0
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 3,
+        "śmierć": 0,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 2,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 78,
+      "estimatedSeconds": 26,
+      "tempoCategory": "umiarkowane"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 10,
+      "VERB": 4,
+      "ADJ": 5,
+      "ADV": 3,
+      "PRON": 3,
+      "ADP": 3,
+      "CCONJ": 2,
+      "SCONJ": 1,
+      "INTJ": 0,
+      "PART": 3,
+      "DET": 1,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.278,
+      "VERB": 0.111,
+      "ADJ": 0.139,
+      "ADV": 0.083,
+      "PRON": 0.083,
+      "ADP": 0.083,
+      "CCONJ": 0.056,
+      "SCONJ": 0.028,
+      "INTJ": 0,
+      "PART": 0.083,
+      "DET": 0.028,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 2,
+      "abstract": 3,
+      "ratio": 0.4
+    },
+    "verbTenses": {
+      "present": 4
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 0,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 3,
+      "oceniajace": 0,
+      "opisowe": 2
+    },
+    "adverbs": {
+      "temporalne": [],
+      "modalne": [],
+      "sposobu": [
+        "spokojniej"
+      ],
+      "top": [
+        {
+          "word": "gdy",
+          "count": 1
+        },
+        {
+          "word": "spokojniej",
+          "count": 1
+        },
+        {
+          "word": "coraz",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 1,
+      "ty": 0,
+      "on_ona": 0,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 0,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 0,
+      "percentSentences": 0
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 36,
+      "median": 36,
+      "min": 36,
+      "max": 36,
+      "distribution": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 2.6,
+      "meanSyllables": 5.6,
+      "distribution": [
+        0,
+        2,
+        4,
+        6,
+        2
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 1,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 0,
+      "noSubject": 0,
+      "noPredicate": 0,
+      "percent": 0
+    },
+    "enjambement": {
+      "count": 13,
+      "percent": 1,
+      "positions": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ]
+    },
+    "wordOrder": {
+      "svo": 1,
+      "inversions": 0,
+      "other": 0,
+      "deviationPercent": 0
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 76,
+      "consonants": 93,
+      "ratio": 0.82
+    },
+    "consonantClusters": {
+      "count": 0,
+      "top": []
+    },
+    "soundGroups": {
+      "szumiace": 0,
+      "syczace": 28,
+      "nosowe": 18,
+      "plynne": 12
+    },
+    "rhymes": {
+      "exact": 1,
+      "approximate": 0,
+      "internal": 0,
+      "assonance": 1,
+      "alliteration": 0
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        14
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 78,
+      "estimatedSeconds": 26,
+      "tempoCategory": "umiarkowane"
+    },
+    "regularity": {
+      "type": "polregularny",
+      "regularityScore": 0.69
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Biblia",
+          "reference": "mistyczne doświadczenie",
+          "evidence": "wyświecam ze snu / jasne ciało"
+        },
+        {
+          "source": "inne",
+          "reference": "poezja erotyczna",
+          "evidence": "ciało / gdy zawarte w dłoniach"
+        }
+      ],
+      "selfQuotes": [
+        "wyświecam ze snu",
+        "jasne ciało"
+      ],
+      "influences": {
+        "rimbaud": 0.7,
+        "baudelaire": 0.3,
+        "bursa": 0.2,
+        "stachura": 0.4,
+        "grochowiak": 0.6,
+        "bialoszewski": 0.1,
+        "rozewicz": 0.3
+      }
+    },
+    "space": {
+      "type": "zamknieta",
+      "evidence": "zawarte w dłoniach / sen jako przestrzeń intymna",
+      "openClosedRatio": 0.2
+    },
+    "timeOfDay": {
+      "period": "noc",
+      "season": "nieokreslona",
+      "evidence": "ciemny sen / sen jako tło akcji"
+    },
+    "motion": {
+      "movement": 3,
+      "stillness": 8,
+      "dynamism": 0.3,
+      "evidence": "zawarte w dłoniach / oswajanie snu - statyczne obejmowanie"
+    },
+    "imageryDensity": {
+      "metaphors": 4,
+      "comparisons": 0,
+      "personifications": 3,
+      "hyperboles": 1,
+      "per100words": 57.1
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.9,
+      "creationLevel": 0.8,
+      "ironicDistance": 0.1,
+      "autobiographicSignals": [
+        "imię Teresa",
+        "ciemny sen który mnie boli",
+        "intymność gestu"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "czułość",
+      "secondary": "tęsknota",
+      "intensity": 0.8
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "podmiot używa zaimka 'mnie' i czasowników w pierwszej osobie: 'wyświecam'"
+    },
+    "addressee": {
+      "type": "siebie",
+      "evidence": "wiersz ma charakter intymnego monologu wewnętrznego, podmiot zwraca się do własnych doznań i wspomnień"
+    },
+    "metaphors": [
+      {
+        "source": "ciało",
+        "target": "światło",
+        "example": "wyświecam ze snu jasne ciało"
+      },
+      {
+        "source": "imię",
+        "target": "pulsowanie",
+        "example": "imię pulsujące w suchych sutkach"
+      },
+      {
+        "source": "dłonie",
+        "target": "światło",
+        "example": "dłonie coraz to świecą"
+      }
+    ],
+    "temperature": {
+      "value": 0.6,
+      "label": "ciepłe - intymność i czułość, ale z nutą smutku"
+    },
+    "senses": {
+      "wzrok": 5,
+      "sluch": 1,
+      "dotyk": 4,
+      "smak": 0,
+      "zapach": 0
+    },
+    "autodestruction": {
+      "level": 0.2,
+      "signals": [
+        "ból jako punkt wyjścia",
+        "suchość jako oznaka braku życia"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 0.692,
+    "dfaAlpha": 3.297,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -1.7328679513998626
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -0.7843079589569224
+      }
+    ],
+    "seriesLength": 14,
+    "series": [
+      3,
+      3,
+      3,
+      2,
+      2,
+      4,
+      4,
+      2,
+      3,
+      1,
+      3,
+      3,
+      2,
+      1
+    ]
+  }
+}

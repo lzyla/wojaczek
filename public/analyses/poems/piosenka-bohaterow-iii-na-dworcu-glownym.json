@@ -1,0 +1,949 @@
+{
+  "id": "piosenka-bohaterow-iii-na-dworcu-glownym",
+  "title": "Piosenka bohaterów III (na dworcu głównym)",
+  "wordCount": 94,
+  "lineCount": 16,
+  "uniqueWords": 78,
+  "vocabularyRichness": 0.83,
+  "avgWordsPerLine": 5.88,
+  "wordsPerLineDistribution": [
+    3,
+    3,
+    6,
+    8,
+    5,
+    6,
+    7,
+    6,
+    7,
+    4,
+    6,
+    7,
+    6,
+    7,
+    5,
+    8
+  ],
+  "wordFrequencies": [
+    [
+      "piwo",
+      2
+    ],
+    [
+      "zawsze",
+      2
+    ],
+    [
+      "piosenka",
+      1
+    ],
+    [
+      "bohaterów",
+      1
+    ],
+    [
+      "iii",
+      1
+    ],
+    [
+      "dworcu",
+      1
+    ],
+    [
+      "głównym",
+      1
+    ],
+    [
+      "przeżyliśmy",
+      1
+    ],
+    [
+      "mieć",
+      1
+    ],
+    [
+      "śmierć",
+      1
+    ],
+    [
+      "pijemy",
+      1
+    ],
+    [
+      "nędzne",
+      1
+    ],
+    [
+      "najnudniejszy",
+      1
+    ],
+    [
+      "refren",
+      1
+    ],
+    [
+      "najgłupszej",
+      1
+    ],
+    [
+      "piosenki",
+      1
+    ],
+    [
+      "bezsenny",
+      1
+    ],
+    [
+      "dający",
+      1
+    ],
+    [
+      "odpocząć",
+      1
+    ],
+    [
+      "lęk",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 9,
+    "period": 5,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 4,
+    "colon": 0,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 5,
+  "negationWords": [
+    "nie"
+  ],
+  "pronounDistribution": {
+    "ja": 0,
+    "ty": 0,
+    "on_ona": 0,
+    "my": 5,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 0,
+    "smierc": 1,
+    "erotyka": 0,
+    "alkohol": 3,
+    "samotnosc": 2,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [],
+  "firstWord": "piosenka",
+  "lastWord": "płacić",
+  "avgWordLength": 5.01,
+  "wordLengthDistribution": {
+    "8-9": 14,
+    "1-3": 36,
+    "6-7": 19,
+    "10+": 6,
+    "4-5": 19
+  },
+  "bigrams": [
+    [
+      "piosenka bohaterów",
+      1
+    ],
+    [
+      "bohaterów iii",
+      1
+    ],
+    [
+      "dworcu głównym",
+      1
+    ],
+    [
+      "głównym przeżyliśmy",
+      1
+    ],
+    [
+      "mieć śmierć",
+      1
+    ],
+    [
+      "śmierć także",
+      1
+    ]
+  ],
+  "poemWords": [
+    "piosenka",
+    "bohaterów",
+    "iii",
+    "dworcu",
+    "głównym",
+    "przeżyliśmy",
+    "mieć",
+    "śmierć",
+    "pijemy",
+    "nędzne",
+    "piwo",
+    "najnudniejszy",
+    "refren",
+    "najgłupszej",
+    "piosenki",
+    "bezsenny",
+    "dający",
+    "odpocząć",
+    "lęk",
+    "siedzimy",
+    "chodzimy",
+    "zawsze",
+    "bólem",
+    "bezmyślnym",
+    "koszmarny",
+    "zegar",
+    "lepiej",
+    "urodzeni",
+    "świecący",
+    "nieoświeceni",
+    "strachem",
+    "cuchniemy",
+    "policja",
+    "woli",
+    "zbliżać",
+    "rzygać",
+    "prosimy",
+    "krzykiem",
+    "gestami",
+    "zabrali",
+    "śmieje",
+    "lud",
+    "uświadomiony",
+    "wierzący",
+    "cud",
+    "mamy",
+    "czym",
+    "płacić"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 17,
+        "VERB": 15,
+        "ADJ": 16,
+        "ADV": 4,
+        "PRON": 9,
+        "ADP": 5,
+        "CCONJ": 4,
+        "SCONJ": 8,
+        "INTJ": 0,
+        "PART": 12,
+        "DET": 1,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.181,
+        "VERB": 0.16,
+        "ADJ": 0.17,
+        "ADV": 0.043,
+        "PRON": 0.096,
+        "ADP": 0.053,
+        "CCONJ": 0.043,
+        "SCONJ": 0.085,
+        "INTJ": 0,
+        "PART": 0.128,
+        "DET": 0.011,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 2,
+        "abstract": 3,
+        "ratio": 0.4
+      },
+      "verbTenses": {
+        "past": 3,
+        "present": 8,
+        "infinitive": 5
+      },
+      "verbSemantics": {
+        "ruch": 1,
+        "percepcja": 0,
+        "stan": 1,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 1,
+        "cialo": 1
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 1,
+        "opisowe": 15
+      },
+      "adverbs": {
+        "temporalne": [
+          "zawsze"
+        ],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "zawsze",
+            "count": 2
+          },
+          {
+            "word": "lepiej",
+            "count": 1
+          },
+          {
+            "word": "tak",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 0,
+        "ty": 0,
+        "on_ona": 0,
+        "my": 5,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 5,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 5,
+        "percentSentences": 0.83
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 200,
+        "consonants": 271,
+        "ratio": 0.74
+      },
+      "consonantClusters": {
+        "count": 13,
+        "top": [
+          {
+            "cluster": "wsz",
+            "count": 2
+          },
+          {
+            "cluster": "prz",
+            "count": 1
+          },
+          {
+            "cluster": "dzn",
+            "count": 1
+          },
+          {
+            "cluster": "jsz",
+            "count": 1
+          },
+          {
+            "cluster": "jgł",
+            "count": 1
+          },
+          {
+            "cluster": "psz",
+            "count": 1
+          },
+          {
+            "cluster": "śln",
+            "count": 1
+          },
+          {
+            "cluster": "szm",
+            "count": 1
+          },
+          {
+            "cluster": "str",
+            "count": 1
+          },
+          {
+            "cluster": "chn",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 22,
+        "syczace": 56,
+        "nosowe": 69,
+        "plynne": 31
+      },
+      "rhymes": {
+        "exact": 1,
+        "approximate": 0,
+        "internal": 1,
+        "assonance": 0,
+        "alliteration": 1
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 15.7,
+        "median": 10,
+        "min": 6,
+        "max": 50,
+        "distribution": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          2,
+          0,
+          1,
+          0,
+          0,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 6.1,
+        "meanSyllables": 12.9,
+        "distribution": [
+          0,
+          0,
+          0,
+          2,
+          1,
+          2,
+          5,
+          1,
+          4,
+          1
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 6,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 1,
+        "noSubject": 4,
+        "noPredicate": 0,
+        "percent": 0.83
+      },
+      "enjambement": {
+        "count": 4,
+        "percent": 0.27,
+        "positions": [
+          5,
+          7,
+          11,
+          15
+        ]
+      },
+      "wordOrder": {
+        "svo": 0,
+        "inversions": 1,
+        "other": 5,
+        "deviationPercent": 1
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 0,
+        "śmierć": 1,
+        "erotyka": 0,
+        "alkohol": 3,
+        "samotność": 2,
+        "sacrum": 0,
+        "noc": 0,
+        "ból": 1
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 206,
+      "estimatedSeconds": 69,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 17,
+      "VERB": 15,
+      "ADJ": 16,
+      "ADV": 4,
+      "PRON": 9,
+      "ADP": 5,
+      "CCONJ": 4,
+      "SCONJ": 8,
+      "INTJ": 0,
+      "PART": 12,
+      "DET": 1,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.181,
+      "VERB": 0.16,
+      "ADJ": 0.17,
+      "ADV": 0.043,
+      "PRON": 0.096,
+      "ADP": 0.053,
+      "CCONJ": 0.043,
+      "SCONJ": 0.085,
+      "INTJ": 0,
+      "PART": 0.128,
+      "DET": 0.011,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 2,
+      "abstract": 3,
+      "ratio": 0.4
+    },
+    "verbTenses": {
+      "past": 3,
+      "present": 8,
+      "infinitive": 5
+    },
+    "verbSemantics": {
+      "ruch": 1,
+      "percepcja": 0,
+      "stan": 1,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 1,
+      "cialo": 1
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 1,
+      "opisowe": 15
+    },
+    "adverbs": {
+      "temporalne": [
+        "zawsze"
+      ],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "zawsze",
+          "count": 2
+        },
+        {
+          "word": "lepiej",
+          "count": 1
+        },
+        {
+          "word": "tak",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 0,
+      "ty": 0,
+      "on_ona": 0,
+      "my": 5,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 5,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 5,
+      "percentSentences": 0.83
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 15.7,
+      "median": 10,
+      "min": 6,
+      "max": 50,
+      "distribution": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        0,
+        1,
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 6.1,
+      "meanSyllables": 12.9,
+      "distribution": [
+        0,
+        0,
+        0,
+        2,
+        1,
+        2,
+        5,
+        1,
+        4,
+        1
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 6,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 1,
+      "noSubject": 4,
+      "noPredicate": 0,
+      "percent": 0.83
+    },
+    "enjambement": {
+      "count": 4,
+      "percent": 0.27,
+      "positions": [
+        5,
+        7,
+        11,
+        15
+      ]
+    },
+    "wordOrder": {
+      "svo": 0,
+      "inversions": 1,
+      "other": 5,
+      "deviationPercent": 1
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 200,
+      "consonants": 271,
+      "ratio": 0.74
+    },
+    "consonantClusters": {
+      "count": 13,
+      "top": [
+        {
+          "cluster": "wsz",
+          "count": 2
+        },
+        {
+          "cluster": "prz",
+          "count": 1
+        },
+        {
+          "cluster": "dzn",
+          "count": 1
+        },
+        {
+          "cluster": "jsz",
+          "count": 1
+        },
+        {
+          "cluster": "jgł",
+          "count": 1
+        },
+        {
+          "cluster": "psz",
+          "count": 1
+        },
+        {
+          "cluster": "śln",
+          "count": 1
+        },
+        {
+          "cluster": "szm",
+          "count": 1
+        },
+        {
+          "cluster": "str",
+          "count": 1
+        },
+        {
+          "cluster": "chn",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 22,
+      "syczace": 56,
+      "nosowe": 69,
+      "plynne": 31
+    },
+    "rhymes": {
+      "exact": 1,
+      "approximate": 0,
+      "internal": 1,
+      "assonance": 0,
+      "alliteration": 1
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        16
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 206,
+      "estimatedSeconds": 69,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "regularny",
+      "regularityScore": 0.81
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Różewicz",
+          "reference": "ironiczna stylizacja heroiczna",
+          "evidence": "tytuł 'PIOSENKA BOHATERÓW' w kontekście nędzy i upadku"
+        },
+        {
+          "source": "Baudelaire",
+          "reference": "fleurs du mal - piękno w brzydocie",
+          "evidence": "estetyzacja nędzy i społecznego dna"
+        },
+        {
+          "source": "Rimbaud",
+          "reference": "poètes maudits",
+          "evidence": "figura poety przeklętego, wykluczenie społeczne"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.8,
+        "baudelaire": 0.7,
+        "bursa": 0.3,
+        "stachura": 0.6,
+        "grochowiak": 0.4,
+        "bialoszewski": 0.2,
+        "rozewicz": 0.8
+      }
+    },
+    "space": {
+      "type": "otwarta",
+      "evidence": "dworzec główny - przestrzeń publiczna, miejsce tranzytu i bezdomności",
+      "openClosedRatio": 0.8
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "nieokreslona",
+      "evidence": "brak wyraźnych wskazówek temporalnych, akcent na bezczasowość egzystencji"
+    },
+    "motion": {
+      "movement": 3,
+      "stillness": 7,
+      "dynamism": 0.3,
+      "evidence": "'Siedzimy czy chodzimy' - ruch pozbawiony celu, statyczność sytuacji"
+    },
+    "imageryDensity": {
+      "metaphors": 4,
+      "comparisons": 2,
+      "personifications": 1,
+      "hyperboles": 2,
+      "per100words": 11.5
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.9,
+      "creationLevel": 0.7,
+      "ironicDistance": 0.4,
+      "autobiographicSignals": [
+        "doświadczenie nędzy",
+        "wykluczenie społeczne",
+        "identyfikacja z marginesem"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "rozpacz",
+      "secondary": "rezygnacja",
+      "intensity": 0.8
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "wielokrotne użycie 'my', 'nas' - podmiot zbiorowy bohaterów"
+    },
+    "addressee": {
+      "type": "czytelnik",
+      "evidence": "narracja kierowana do odbiorcy, opowiadanie o sobie w trzeciej osobie"
+    },
+    "metaphors": [
+      {
+        "source": "ból",
+        "target": "zegar",
+        "example": "z bólem bezmyślnym jak koszmarny zegar"
+      },
+      {
+        "source": "lęk",
+        "target": "refren piosenki",
+        "example": "najnudniejszy refren najgłupszej piosenki / bezsenny, nie dający nam odpocząć lęk"
+      },
+      {
+        "source": "strach",
+        "target": "zapach",
+        "example": "strachem cuchniemy"
+      }
+    ],
+    "temperature": {
+      "value": 0.3,
+      "label": "chłodne"
+    },
+    "senses": {
+      "wzrok": 2,
+      "sluch": 3,
+      "dotyk": 1,
+      "smak": 3,
+      "zapach": 4
+    },
+    "autodestruction": {
+      "level": 0.9,
+      "signals": [
+        "picie alkoholu pomimo braku pieniędzy",
+        "prośby o aresztowanie",
+        "akceptacja upokorzenia",
+        "życie na dworcu",
+        "degradacja społeczna"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 0.995,
+    "dfaAlpha": 1.456,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -0.9751822497023468
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -0.3392361665807535
+      },
+      {
+        "logWin": 1.6094379124341003,
+        "logFluc": -0.25048933360125625
+      }
+    ],
+    "seriesLength": 16,
+    "series": [
+      3,
+      3,
+      6,
+      8,
+      5,
+      6,
+      7,
+      6,
+      7,
+      4,
+      6,
+      7,
+      6,
+      7,
+      5,
+      8
+    ]
+  }
+}

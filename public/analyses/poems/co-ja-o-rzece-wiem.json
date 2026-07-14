@@ -1,0 +1,1000 @@
+{
+  "id": "co-ja-o-rzece-wiem",
+  "title": "co ja o rzece wiem",
+  "wordCount": 79,
+  "lineCount": 15,
+  "uniqueWords": 64,
+  "vocabularyRichness": 0.81,
+  "avgWordsPerLine": 5.27,
+  "wordsPerLineDistribution": [
+    3,
+    8,
+    6,
+    6,
+    4,
+    4,
+    5,
+    5,
+    3,
+    5,
+    5,
+    4,
+    5,
+    10,
+    6
+  ],
+  "wordFrequencies": [
+    [
+      "której",
+      3
+    ],
+    [
+      "rzece",
+      1
+    ],
+    [
+      "rzeka",
+      1
+    ],
+    [
+      "wielmożna",
+      1
+    ],
+    [
+      "obficie",
+      1
+    ],
+    [
+      "cieknąca",
+      1
+    ],
+    [
+      "kobieta",
+      1
+    ],
+    [
+      "pierze",
+      1
+    ],
+    [
+      "myje",
+      1
+    ],
+    [
+      "garnki",
+      1
+    ],
+    [
+      "użyźnia",
+      1
+    ],
+    [
+      "odpowiednią",
+      1
+    ],
+    [
+      "odnogą",
+      1
+    ],
+    [
+      "porusza",
+      1
+    ],
+    [
+      "żarna",
+      1
+    ],
+    [
+      "turbin",
+      1
+    ],
+    [
+      "ziarno",
+      1
+    ],
+    [
+      "nocy",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 0,
+    "period": 0,
+    "question": 2,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 2,
+    "colon": 0,
+    "semicolon": 0
+  },
+  "questionCount": 2,
+  "exclamationCount": 0,
+  "negationCount": 0,
+  "negationWords": [],
+  "pronounDistribution": {
+    "ja": 6,
+    "ty": 0,
+    "on_ona": 0,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 0,
+    "smierc": 0,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [
+    [
+      "co ja",
+      2
+    ]
+  ],
+  "firstWord": "co",
+  "lastWord": "zamorskie",
+  "avgWordLength": 5.22,
+  "wordLengthDistribution": {
+    "1-3": 20,
+    "4-5": 18,
+    "6-7": 27,
+    "8-9": 9,
+    "10+": 5
+  },
+  "bigrams": [
+    [
+      "wiem choć",
+      2
+    ],
+    [
+      "której jestem",
+      2
+    ],
+    [
+      "rzece wiem",
+      1
+    ],
+    [
+      "choć jestem",
+      1
+    ],
+    [
+      "jestem rzeka",
+      1
+    ],
+    [
+      "rzeka wielmożna",
+      1
+    ]
+  ],
+  "poemWords": [
+    "rzece",
+    "rzeka",
+    "wielmożna",
+    "obficie",
+    "siebie",
+    "cieknąca",
+    "której",
+    "kobieta",
+    "pierze",
+    "myje",
+    "garnki",
+    "którą",
+    "użyźnia",
+    "odpowiednią",
+    "odnogą",
+    "porusza",
+    "żarna",
+    "turbin",
+    "ziarno",
+    "nocy",
+    "mieląc",
+    "światło",
+    "sztuczne",
+    "dlatego",
+    "cenniejsze",
+    "prawdziwe",
+    "zjadacz",
+    "fekalii",
+    "rynsztok",
+    "spluwaczka",
+    "cywilizacji",
+    "winien",
+    "pierwszą",
+    "przyczyną",
+    "mosty",
+    "nade",
+    "intymnie",
+    "rozkraczone",
+    "morzu",
+    "głowie",
+    "słowo",
+    "statek”",
+    "płynie",
+    "zamorskie"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 20,
+        "VERB": 8,
+        "ADJ": 8,
+        "ADV": 3,
+        "PRON": 9,
+        "ADP": 10,
+        "CCONJ": 1,
+        "SCONJ": 4,
+        "INTJ": 0,
+        "PART": 3,
+        "DET": 5,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.263,
+        "VERB": 0.105,
+        "ADJ": 0.105,
+        "ADV": 0.039,
+        "PRON": 0.118,
+        "ADP": 0.132,
+        "CCONJ": 0.013,
+        "SCONJ": 0.053,
+        "INTJ": 0,
+        "PART": 0.039,
+        "DET": 0.066,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 1,
+        "abstract": 0,
+        "ratio": 1
+      },
+      "verbTenses": {
+        "present": 10,
+        "past": 1
+      },
+      "verbSemantics": {
+        "ruch": 1,
+        "percepcja": 0,
+        "stan": 3,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 0,
+        "opisowe": 8
+      },
+      "adverbs": {
+        "temporalne": [],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "obficie",
+            "count": 1
+          },
+          {
+            "word": "dlatego",
+            "count": 1
+          },
+          {
+            "word": "intymnie",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 6,
+        "ty": 0,
+        "on_ona": 0,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 0,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 0,
+        "percentSentences": 0
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 174,
+        "consonants": 234,
+        "ratio": 0.74
+      },
+      "consonantClusters": {
+        "count": 12,
+        "top": [
+          {
+            "cluster": "rnk",
+            "count": 1
+          },
+          {
+            "cluster": "szt",
+            "count": 1
+          },
+          {
+            "cluster": "czn",
+            "count": 1
+          },
+          {
+            "cluster": "jsz",
+            "count": 1
+          },
+          {
+            "cluster": "wdz",
+            "count": 1
+          },
+          {
+            "cluster": "nszt",
+            "count": 1
+          },
+          {
+            "cluster": "spl",
+            "count": 1
+          },
+          {
+            "cluster": "czk",
+            "count": 1
+          },
+          {
+            "cluster": "rwsz",
+            "count": 1
+          },
+          {
+            "cluster": "prz",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 20,
+        "syczace": 34,
+        "nosowe": 51,
+        "plynne": 32
+      },
+      "rhymes": {
+        "exact": 0,
+        "approximate": 1,
+        "internal": 0,
+        "assonance": 1,
+        "alliteration": 2
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 76,
+        "median": 76,
+        "min": 76,
+        "max": 76,
+        "distribution": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 5.4,
+        "meanSyllables": 12.2,
+        "distribution": [
+          0,
+          0,
+          0,
+          2,
+          3,
+          4,
+          3,
+          1,
+          1,
+          0,
+          1
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 0,
+        "interrogative": 1,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 0,
+        "noSubject": 0,
+        "noPredicate": 0,
+        "percent": 0
+      },
+      "enjambement": {
+        "count": 11,
+        "percent": 0.79,
+        "positions": [
+          1,
+          2,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          13
+        ]
+      },
+      "wordOrder": {
+        "svo": 1,
+        "inversions": 0,
+        "other": 0,
+        "deviationPercent": 0
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 0,
+        "śmierć": 0,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 183,
+      "estimatedSeconds": 61,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 20,
+      "VERB": 8,
+      "ADJ": 8,
+      "ADV": 3,
+      "PRON": 9,
+      "ADP": 10,
+      "CCONJ": 1,
+      "SCONJ": 4,
+      "INTJ": 0,
+      "PART": 3,
+      "DET": 5,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.263,
+      "VERB": 0.105,
+      "ADJ": 0.105,
+      "ADV": 0.039,
+      "PRON": 0.118,
+      "ADP": 0.132,
+      "CCONJ": 0.013,
+      "SCONJ": 0.053,
+      "INTJ": 0,
+      "PART": 0.039,
+      "DET": 0.066,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 1,
+      "abstract": 0,
+      "ratio": 1
+    },
+    "verbTenses": {
+      "present": 10,
+      "past": 1
+    },
+    "verbSemantics": {
+      "ruch": 1,
+      "percepcja": 0,
+      "stan": 3,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 0,
+      "opisowe": 8
+    },
+    "adverbs": {
+      "temporalne": [],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "obficie",
+          "count": 1
+        },
+        {
+          "word": "dlatego",
+          "count": 1
+        },
+        {
+          "word": "intymnie",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 6,
+      "ty": 0,
+      "on_ona": 0,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 0,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 0,
+      "percentSentences": 0
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 76,
+      "median": 76,
+      "min": 76,
+      "max": 76,
+      "distribution": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 5.4,
+      "meanSyllables": 12.2,
+      "distribution": [
+        0,
+        0,
+        0,
+        2,
+        3,
+        4,
+        3,
+        1,
+        1,
+        0,
+        1
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 0,
+      "interrogative": 1,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 0,
+      "noSubject": 0,
+      "noPredicate": 0,
+      "percent": 0
+    },
+    "enjambement": {
+      "count": 11,
+      "percent": 0.79,
+      "positions": [
+        1,
+        2,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        13
+      ]
+    },
+    "wordOrder": {
+      "svo": 1,
+      "inversions": 0,
+      "other": 0,
+      "deviationPercent": 0
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 174,
+      "consonants": 234,
+      "ratio": 0.74
+    },
+    "consonantClusters": {
+      "count": 12,
+      "top": [
+        {
+          "cluster": "rnk",
+          "count": 1
+        },
+        {
+          "cluster": "szt",
+          "count": 1
+        },
+        {
+          "cluster": "czn",
+          "count": 1
+        },
+        {
+          "cluster": "jsz",
+          "count": 1
+        },
+        {
+          "cluster": "wdz",
+          "count": 1
+        },
+        {
+          "cluster": "nszt",
+          "count": 1
+        },
+        {
+          "cluster": "spl",
+          "count": 1
+        },
+        {
+          "cluster": "czk",
+          "count": 1
+        },
+        {
+          "cluster": "rwsz",
+          "count": 1
+        },
+        {
+          "cluster": "prz",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 20,
+      "syczace": 34,
+      "nosowe": 51,
+      "plynne": 32
+    },
+    "rhymes": {
+      "exact": 0,
+      "approximate": 1,
+      "internal": 0,
+      "assonance": 1,
+      "alliteration": 2
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        15
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 183,
+      "estimatedSeconds": 61,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "polregularny",
+      "regularityScore": 0.7
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "inne",
+          "reference": "filozofia egzystencjalna - pytania o tożsamość i samopoznanie",
+          "evidence": "co ja o rzece wiem choć jestem rzeka"
+        },
+        {
+          "source": "Biblia",
+          "reference": "motyw wody jako źródła życia i oczyszczenia",
+          "evidence": "w której kobieta pierze myje garnki"
+        },
+        {
+          "source": "inne",
+          "reference": "industrializacja i nowoczesność",
+          "evidence": "żarna turbin / ziarno nocy mieląc na światło"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.8,
+        "baudelaire": 0.6,
+        "bursa": 0.3,
+        "stachura": 0.4,
+        "grochowiak": 0.7,
+        "bialoszewski": 0.2,
+        "rozewicz": 0.5
+      }
+    },
+    "space": {
+      "type": "otwarta",
+      "evidence": "rzeka płynąca przez różne obszary, mosty, morze, Zamorskie",
+      "openClosedRatio": 0.9
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "nieokreslona",
+      "evidence": "brak jednoznacznych wskaźników temporalnych poza metaforą 'ziarno nocy mieląc na światło'"
+    },
+    "motion": {
+      "movement": 8,
+      "stillness": 2,
+      "dynamism": 0.8,
+      "evidence": "cieknąca rzeka, porusza żarna, płynie statek - dominuje ruch i przepływ"
+    },
+    "imageryDensity": {
+      "metaphors": 6,
+      "comparisons": 1,
+      "personifications": 4,
+      "hyperboles": 2,
+      "per100words": 18.6
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.8,
+      "creationLevel": 0.7,
+      "ironicDistance": 0.3,
+      "autobiographicSignals": [
+        "ja zjadacz fekalii",
+        "ja rynsztok",
+        "której jestem winien",
+        "u mnie w głowie"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "obrzydzenie",
+      "secondary": "rezygnacja",
+      "intensity": 0.8
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "Podmiot wprost określa siebie jako rzekę: 'jestem rzeka', 'ja zjadacz fekalii ja rynsztok'"
+    },
+    "addressee": {
+      "type": "siebie",
+      "evidence": "Wiersz ma charakter monologu wewnętrznego z pytaniami retorycznymi: 'co ja o rzece wiem', 'co ja o morzu wiem'"
+    },
+    "metaphors": [
+      {
+        "source": "rzeka",
+        "target": "podmiot liryczny",
+        "example": "co ja o rzece wiem choć jestem rzeka"
+      },
+      {
+        "source": "żarna turbin",
+        "target": "mechanizm przetwarzania rzeczywistości",
+        "example": "która porusza żarna turbin / ziarno nocy mieląc na światło"
+      },
+      {
+        "source": "mosty rozkraczone",
+        "target": "dominacja cywilizacji",
+        "example": "mosty nade mną intymnie rozkraczone"
+      }
+    ],
+    "temperature": {
+      "value": 0.3,
+      "label": "chłodna autorefleksja z nutą obrzydzenia"
+    },
+    "senses": {
+      "wzrok": 4,
+      "sluch": 1,
+      "dotyk": 3,
+      "smak": 2,
+      "zapach": 1
+    },
+    "autodestruction": {
+      "level": 0.7,
+      "signals": [
+        "utożsamienie z rzeką-rynsztokiem",
+        "nazywanie siebie 'zjadaczem fekalii'",
+        "przyjęcie roli spluwaczki cywilizacji",
+        "poczucie winy wobec cywilizacji"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 0.775,
+    "dfaAlpha": 1.532,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -0.8573992140459629
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -1.0074515102711323
+      },
+      {
+        "logWin": 1.6094379124341003,
+        "logFluc": -0.02273389122472969
+      }
+    ],
+    "seriesLength": 15,
+    "series": [
+      3,
+      8,
+      6,
+      6,
+      4,
+      4,
+      5,
+      5,
+      3,
+      5,
+      5,
+      4,
+      5,
+      10,
+      6
+    ]
+  }
+}

@@ -1,0 +1,300 @@
+{
+  "verses": [
+    {
+      "text": "Jest poręcz\nale nie ma schodów\nJest ja\nale mnie nie ma",
+      "annotations": [
+        {
+          "node_id": "1a",
+          "aspect": "slowo",
+          "phrase": "poręcz",
+          "comment": "Poręcz bez schodów to metonimia przerwanych połączeń - element wspierający pozbawiony swego celu. Etymologicznie od 'ręka' - to co ma być podparciem dla dłoni, ale zostaje zawieszone w próżni. Synekdocha architektury bez sensu.",
+          "full_analysis": "Wojaczek otwiera wiersz obrazem fundamentalnej sprzeczności - poręczy bez schodów. To nie tylko konkretny obraz architektoniczny, ale metafora egzystencjalnej sytuacji podmiotu. Poręcz, etimologicznie związana z 'ręką', ma być oparciem, wsparciem - tutaj jednak traci swą funkcję, stając się pustym gestem. [BIOGRAFIA: 1965 - rok powstania wiersza, Wojaczek ma 20 lat, już po debiucie w 'Poezji']\n\nObraz ten nawiązuje do [INTERTEKST: Kafka - Proces] - świata pozornie logicznego, ale pozbawionego sensu. Poręcz bez schodów to perfect symbol absurdu - element, który powinien prowadzić wyżej, ale prowadzi w nicość. Klak pisze o 'architekturze niemożliwości' u Wojaczka.\n\nSyntaktycznie para 'jest - nie ma' organizuje cały początek wiersza. To podstawowa opozycja bytu i niebytu, ale Wojaczek nie stawia jej dialektycznie - to raczej równoczesność sprzecznych stanów. Poręcz JEST, ale jej funkcja NIE MA miejsca.\n\nObraz ten antycypuje całą poetykę wiersza - świat połowiczy, niepełny, gdzie każda obecność implikuje nieobecność. To diagnoza kondycji podmiotu w PRL-owskiej rzeczywistości - struktury są, ale nie działają.",
+          "connects_to": [
+            "1b",
+            "2a"
+          ],
+          "contradicts": "",
+          "contradiction_reason": "",
+          "alt_readings": [
+            "Poręcz jako symbol masturbacji - onanistyczne podparcie bez celu",
+            "Obraz z bloków mieszkalnych - niedokończone inwestycje PRL",
+            "Poręcz jako znak przygotowania do skoku - samobójcza intencja"
+          ]
+        },
+        {
+          "node_id": "1b",
+          "aspect": "napiecie",
+          "phrase": "Jest ja ale mnie nie ma",
+          "comment": "Rozszczepienie podmiotu na gramatyczne 'ja' i fenomenologiczne 'mnie'. Ja istnieje jako konstrukcja językowa, ale doświadczające 'mnie' znika. Schizofreniczne rozdwojenie tożsamości - być może ślad choroby poety.",
+          "full_analysis": "Wojaczek konstruuje fundamentalny paradoks tożsamościowy. 'Ja' - zaimek pierwszej osoby - JEST, ale 'mnie' - forma doświadczającego podmiotu - NIE MA. To nie gra słowna, ale diagnoza schizofrenicznego rozszczepienia. [BIOGRAFIA: 1965 - pierwsze symptomy choroby psychicznej]\n\nTen wers można czytać przez pryzmat fenomenologii Husserla - 'ja' jako czyste ego transcendentalne przeciw 'mnie' jako ego empirycznemu. Ale u Wojaczka to nie filozoficzne rozróżnienie, lecz egzystencjalny dramat. Kierc pisze o 'ontologicznej niewiedzy' podmiotu o sobie.\n\nSyntaktycznie powtórzenie struktury 'Jest X ale nie ma Y' tworzy rytmiczną mantraczkę. To nie przypadkowe - repetitio ma charakter obsesyjny, neurotyczny. Podmiot próbuje zaklęć rzeczywistość, ale każde zaklęcie się łamie.\n\nTen wers można też czytać autobiograficznie - młody poeta 'jest' w sensie społecznym (publikuje, studiuje), ale 'nie ma go' w sensie psychicznym. [BIOGRAFIA: 1965 - studia we Wrocławiu, narastające problemy z alkoholem]",
+          "connects_to": [
+            "1a",
+            "3a"
+          ],
+          "contradicts": "4a",
+          "contradiction_reason": "Wers głosi nieobecność ja, ale dalej podmiot mówi o sobie w pierwszej osobie",
+          "alt_readings": [
+            "Gra słowna z deklinacją - ja (mianownik) vs mnie (biernik)",
+            "Utrata tożsamości w miłości - ja kocha, ale mnie już nie ma",
+            "Depersonalizacja w chorobie psychicznej"
+          ]
+        },
+        {
+          "node_id": "1c",
+          "aspect": "forma",
+          "phrase": "ale nie ma schodów",
+          "comment": "Przerzutnia między 'poręcz' a 'ale nie ma schodów' tworzy moment zawieszenia - czytelnik przez chwilę wierzy w normalność, potem następuje negacja. Rytmicznie to jak potknięcie się w rzeczywistości.",
+          "full_analysis": "Wojaczek używa przerzutni (enjambement) jako narzędzia dezorientacji. Pierwszy wers 'Jest poręcz' brzmi neutralnie - można spodziewać się opisu miejsca. Dopiero drugi wers 'ale nie ma schodów' burzy oczekiwania i tworzy absurd.\n\nTen zabieg formalny odzwierciedla treść - przerzutnia to właśnie 'poręcz bez schodów', element prowadzący donikąd. Czytelnik zostaje wprowadzony w błąd tak samo jak podmiot wiersza - rzeczywistość obiecuje sens, ale go nie dostarcza.\n\nRytmicznie te wersy mają nieregularny charakter - krótkie, urywane zdania jak oddech chorego. Lukasiewicz pisze o 'prozie poetyckiej' u Wojaczka - tu widzimy tę graniczność. To nie wiersze, ale prozaiczne konstatacje podzielone arbitralnie na wersy.\n\nKontrastuje to z tradycją polskiego wiersza - u Herberta czy Różewicza przerzutnia ma funkcję ironiczną, u Wojaczka jest narzędziem autodestrukcji. Każde przejście między wersami to kolejne rozczarowanie.",
+          "connects_to": [
+            "1a",
+            "2b"
+          ],
+          "contradicts": "",
+          "contradiction_reason": "",
+          "alt_readings": [
+            "Przerzutnia jako odwzorowanie niepewności neurologicznej",
+            "Formalne naśladownictwo Białoszewskiego",
+            "Przerwany oddech jako znak lęku"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Jest zimno\nale nie ma ciepłych skór zwierząt\nniedźwiedzich futer lisich kit",
+      "annotations": [
+        {
+          "node_id": "2a",
+          "aspect": "cialo",
+          "phrase": "ciepłych skór zwierząt",
+          "comment": "Tęsknota za zwierzęcą bezpośredniością ciepła - nie abstrakcyjnym komfortem, ale skórą przy skórze. 'Skóry' to metafora intymności cielesnej, ale też śmierci zwierząt - ciepło z martwego ciała.",
+          "full_analysis": "Wojaczek wprowadza zmysłowość przez negację - zimno przeciw ciepłym skórom zwierząt. To nie przypadkowy wybór - skóra to najbardziej intymna granica ciała, miejsce dotyku i rozkoszy. [BIOGRAFIA: 1965 - lata młodzieńcze, nasilenie problemów z bliskością]\n\nObraz ten ma wymiar erotyczny - 'ciepłe skóry' przywołują nagie ciała, ale także prymitywny, zwierzęcy sposób ogrzewania się. Podmiot tęskni za bezpośredniością kontaktu, jaki mają zwierzęta. Legeżyńska pisze o 'regresji ku naturze' u młodych poetów lat 60.\n\nAle te 'ciepłe skóry' to też martwe skóry - futra zdjęte ze zwierząt. Ciepło życia kontra zimno śmierci. Wojaczek często łączy rozkosze z rozkładem - to charakterystyczny rys jego wyobraźni nekrofilicznej.\n\n[INTERTEKST: Trakl - Gedichte] - podobna zmysłowość łączona z obrazami rozkładu. Ale u Trakla to dekadencka estetyka, u Wojaczka egzystencjalny dramat. Zimno nie jest tu poetyckie - to konkretne cierpienie ubogiego człowieka w PRL.",
+          "connects_to": [
+            "2b",
+            "3b"
+          ],
+          "contradicts": "",
+          "contradiction_reason": "",
+          "alt_readings": [
+            "Wspomnienie dzieciństwa - ciepło matczynego ciała",
+            "Tęsknota za luksusem burżuazyjnym - futra jako status",
+            "Fantazja o życiu zwierząt - naturalna prostota"
+          ]
+        },
+        {
+          "node_id": "2b",
+          "aspect": "obraz",
+          "phrase": "niedźwiedzich futer lisich kit",
+          "comment": "Konkretyzacja tęsknoty przez wyliczenie - niedźwiedzie futra, lisi kit. Ale składnia jest zaburzona - brak przecinków tworzy nagromadzenie jak w gorączce. Obrazy luksusowe kontra realna bieda.",
+          "full_analysis": "Wyliczenie 'niedźwiedzich futer lisich kit' ma charakter obsesyjny - podmiot fantazjuje o konkretnych rodzajach zwierzęcego ciepła. Niedźwiedzie futra to symbol syberyjskiej surowości, ale też carskiego luksusu. Lisi kit - to już czysta zmysłowość, miękkość, erotyka.\n\nSyntaktycznie brak przecinków między 'futer' i 'lisich' tworzy efekt zadyszki, gorączki. Jakby podmiot nie mógł nadążyć z wyliczaniem swoich pragnień. Czapliński pisze o 'składni pożądania' u Wojaczka - gramatyka oddaje stan podmiotu.\n\nObraz ten kontrastuje z rzeczywistością PRL - futra to luksus niedostępny dla syna kolejarza z Mikołowa. [BIOGRAFIA: 1945 - urodzony w rodzinie robotniczej]. To nie nostalgia za arystokracją, ale tęsknota za zwierzęcą bezpośredniością.\n\n[INTERTEKST: Słowacki - Beniowski] - romantyczna egzotyka Wschodu. Ale u Wojaczka to nie literacka stylizacja - to konkretny głód ciepła, może wspomnienie słowiańskiej mitologii, gdzie człowiek żył blisko zwierząt.",
+          "connects_to": [
+            "2a",
+            "1a"
+          ],
+          "contradicts": "",
+          "contradiction_reason": "",
+          "alt_readings": [
+            "Dziecięce wspomnienie z bajek o zwierzętach",
+            "Fantazja o życiu łowców - powrót do pierwotności",
+            "Ironiczny komentarz do mody na futra w latach 60."
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Od czasu kiedy jest mokro\njest bardzo mokro\nja kocha mokro\nna placu, bez parasola",
+      "annotations": [
+        {
+          "node_id": "3a",
+          "aspect": "afekt",
+          "phrase": "ja kocha mokro",
+          "comment": "Forma gramatycznie niepoprawna - 'ja kocha' zamiast 'ja kocham'. Podmiot traci kontrolę nad językiem, regreduje do dziecięcej mowy lub stanu psychotycznego. 'Mokro' jako obiekt miłości - perwersyjne uczucie.",
+          "full_analysis": "Fraza 'ja kocha mokro' to moment kluczowy dla całego wiersza. Błąd gramatyczny nie jest przypadkowy - podmiot traci kontrolę nad podstawową funkcją językową. 'Ja kocha' brzmi jak mowa dziecka lub osoby w stanie psychotycznym. [BIOGRAFIA: 1965 - narastające symptomy schizofrenii]\n\nAle jednocześnie ten błąd ma funkcję poetycką - 'ja kocha' brzmi bardziej bezpośrednio niż 'ja kocham'. Jakby podmiot mówił o sobie z dystansu, w trzeciej osobie ukrytej w pierwszej. Kierc pisze o 'językowej regresji' u Wojaczka jako znaku autentyczności.\n\n'Mokro' jako obiekt miłości to perwersja uczuciowa. Nie kochać kogoś, ale 'mokro' - stan, warunki atmosferyczne. To może metafora depresji (mokra jesień duszy), ale też fizjologia - mocz, pot, łzy, wytrysk. Mokro jako stan graniczny między życiem a śmiercią.\n\n[INTERTEKST: Białoszewski - Mylne wzruszenia] - podobna deformacja składni jako wyraz autentyczności. Ale u Białoszewskiego to gra, u Wojaczka dramatyczny objaw utraty kontroli nad rzeczywistością.",
+          "connects_to": [
+            "1b",
+            "3b"
+          ],
+          "contradicts": "1b",
+          "contradiction_reason": "Wcześniej mnie nie ma, teraz ja kocha - podmiot wraca do istnienia",
+          "alt_readings": [
+            "Błąd w maszynopisie podtrzymany celowo",
+            "Naśladownictwo gwarowej składni śląskiej",
+            "Regresja do poziomu przedwerbalnego"
+          ]
+        },
+        {
+          "node_id": "3b",
+          "aspect": "obraz",
+          "phrase": "na placu, bez parasola",
+          "comment": "Scena miejska - podmiot na placu w deszczu bez ochrony. Parasol to cywilizacyjna ochrona, jego brak - wybór bycia bezronnym wobec żywiołu. Plac jako przestrzeń publiczna, ale i pusta, odosobniona.",
+          "full_analysis": "Obraz podmiotu 'na placu, bez parasola' ma charakter wizyjny - to konkretna scena, ale i symbol egzystencjalnej sytuacji. Plac to przestrzeń otwarta, publiczna, ale paradoksalnie - pusta. W PRL-owskim mieście place służyły do manifestacji, tu staje się miejscem samotności.\n\nBrak parasola to świadomy wybór bezronności. Parasol chroni przed deszczem, ale podmiot wybiera mokro. To masochistyczna decyzja - cierpienie jako forma autentyczności. Czapliński pisze o 'poetyce samouszkodzenia' u młodego pokolenia.\n\n[BIOGRAFIA: 1965 - Wrocław, studia na uniwersytecie] - być może konkretny plac uniwersytecki, gdzie młody poeta stoi w deszczu. Ale to też plac jako metafora - otwarta przestrzeń świadomości, gdzie podmiot jest wystawiony na żywioły.\n\nObraz kontrastuje z burżuazyjną kulturą ochrony - parasolami, płaszczami przeciwdeszczowymi. Podmiot wybiera nagość wobec żywiołu. [INTERTEKST: Różewicz - Ocalony] - podobny motyw bezbronności, ale u Różewicza to skutek wojny, u Wojaczka - świadomy wybór.",
+          "connects_to": [
+            "3a",
+            "4a"
+          ],
+          "contradicts": "",
+          "contradiction_reason": "",
+          "alt_readings": [
+            "Plac Solny we Wrocławiu - konkretne miejsce",
+            "Metafora sceny teatralnej - podmiot jako aktor",
+            "Reminiscencja chrztu - mokro jako odrodzenie"
+          ]
+        },
+        {
+          "node_id": "3c",
+          "aspect": "kontekst",
+          "phrase": "jest bardzo mokro",
+          "comment": "Repetycja i intensyfikacja - od 'jest mokro' do 'jest bardzo mokro'. Narastanie obsesji na mokrości. W klimacie polskim to realny dyskomfort, ale tu nabiera znaczenia metafizycznego - mokro jako stan duszy.",
+          "full_analysis": "Powtórzenie i stopniowanie 'jest mokro / jest bardzo mokro' ma charakter obsesyjny - podmiot nie może oderwać się od tego doznania. To nie tylko opis pogody, ale stan psychiczny. W polskim klimacie mokro to codzienna niedogodność, tu staje się kategorią egzystencjalną.\n\nRytmicznie to narastanie ma charakter hipnotyczny - jak mantra lub zaklęcie. Podmiot próbuje zaklęć rzeczywistość przez powtórzenie, ale każde powtórzenie pogłębia obsesję. Klak pisze o 'słownych natręctach' u Wojaczka jako objawach choroby.\n\nKontekst społeczny PRL - mokro to też niedogrzane mieszkania, przeciekające dachy, brak właściwego ubrania. [BIOGRAFIA: 1945-1971 - życie w ubóstwie]. Ale Wojaczek przekształca ten dyskomfort w kategorię poetycką - mokro jako kondycja człowieka w ogóle.\n\nMokro może też nawiązywać do słowiańskiej mitologii - woda jako żywioł oczyszczający i niszczący zarazem. [INTERTEKST: folklor słowiański] - woda jako granica między światami, miejsce transgresji.",
+          "connects_to": [
+            "3a",
+            "2a"
+          ],
+          "contradicts": "",
+          "contradiction_reason": "",
+          "alt_readings": [
+            "Mokro jako metafora spermy - erotyczny wymiar",
+            "Mokro jak łzy - wyrażenie żalu",
+            "Mokro jako pot - wysiłek fizyczny lub strach"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Jest ciemno\njest ciemno jak najciemniej\nmnie nie ma\nNie ma spać\nNie ma oddychać\nŻyć nie ma",
+      "annotations": [
+        {
+          "node_id": "4a",
+          "aspect": "napiecie",
+          "phrase": "mnie nie ma",
+          "comment": "Powrót do tematu z początku wiersza - nieobecność podmiotu. Ale teraz po doświadczeniu mokrości i ciemności. 'Mnie nie ma' brzmi bardziej ostatecznie - jak konstatacja śmierci czy utrata tożsamości w depresji.",
+          "full_analysis": "Fraza 'mnie nie ma' powraca po doświadczeniach opisanych w środkowej części wiersza. Teraz ma inne znaczenie - nie filozoficzny paradoks jak na początku, ale ostateczną konstatację. Podmiot przeszedł przez mokro i ciemno i ostatecznie zniknął.\n\nSyntaktycznie to zdanie bez podmiotu - 'mnie nie ma', ale kto to stwierdza? Jeśli mnie nie ma, to kto mówi? To paradoks logiczny, ale w poezji Wojaczka logika nie obowiązuje. [BIOGRAFIA: 1965 - pogłębiające się problemy psychiczne]\n\nPowtórzenie tego motywu z początku wiersza tworzy kompozycyjne klamry. Ale to nie zwykła repriza - między pierwszym a drugim 'mnie nie ma' podmiot przeszedł przez doświadczenie mokrości i ciemności. Teraz nieobecność brzmi bardziej radykalnie.\n\nMoże to też aluzja do samobójczych myśli - 'mnie nie ma' jako antycypacja własnej śmierci. [BIOGRAFIA: 11.V.1971 - samobójstwo we Wrocławiu]. Kierc pisze o 'poetyce zapowiedzi' u Wojaczka - wiersze jako przygotowanie do ostatecznego gestu.",
+          "connects_to": [
+            "1b",
+            "4b"
+          ],
+          "contradicts": "3a",
+          "contradiction_reason": "Wcześniej ja kocha, teraz mnie nie ma - podmiot znów znika",
+          "alt_readings": [
+            "Metafora snu - podmiot śpi i nie ma go w rzeczywistości",
+            "Stan depresyjny - utrata poczucia istnienia",
+            "Mistyczna śmierć ego - dissolucja w uniwersum"
+          ]
+        },
+        {
+          "node_id": "4b",
+          "aspect": "forma",
+          "phrase": "Nie ma spać Nie ma oddychać Żyć nie ma",
+          "comment": "Konstrukcja bezosobowa - 'nie ma' + bezokolicznik. Zamiast 'nie mogę spać' - 'nie ma spać'. Podmiot znika z gramatyki, zostają tylko funkcje biologiczne pozbawione nosiciela. Atomizacja istnienia.",
+          "full_analysis": "Seria konstrukcji 'nie ma + bezokolicznik' to radykalna deformacja składni. Zamiast normalnego 'nie mogę spać' czy 'nie chce mi się oddychać' - bezosobowe 'nie ma spać', 'nie ma oddychać'. Podmiot znika z gramatyki, zostają tylko funkcje bez nosiciela.\n\nTo może wpływ składni gwarowej - na Śląsku mówi się 'nie ma co robić'. Ale u Wojaczka nabiera to charakteru ontologicznego - nie ma komu spać, oddychać, żyć. [BIOGRAFIA: 1945 - Mikołów, środowisko gwarowe]\n\nKlimax tej serii - 'Żyć nie ma' - to już pełna negacja istnienia. Nie 'nie mogę żyć' czy 'nie chcę żyć', ale bezosobowe stwierdzenie niemożności życia w ogóle. Lukasiewicz pisze o 'gramatyce nicości' u młodych poetów.\n\nRytmicznie te trzy wersy tworzą gradację - od funkcji najmniej istotnej (spać) przez podstawową (oddychać) do fundamentalnej (żyć). To systematyczna dekonstrukcja bytu, przeprowadzona przez składnię.",
+          "connects_to": [
+            "4a",
+            "4c"
+          ],
+          "contradicts": "",
+          "contradiction_reason": "",
+          "alt_readings": [
+            "Składnia psychotyczna - dezorganizacja mowy w chorobie",
+            "Wpływ lektury Becketta - teatr absurdu",
+            "Naśladownictwo mowy ludowej - gwarowe konstrukcje"
+          ]
+        },
+        {
+          "node_id": "4c",
+          "aspect": "obraz",
+          "phrase": "jest ciemno jak najciemniej",
+          "comment": "Stopień najwyższy ciemności - 'najciemniej' to maksimum możliwego. Nie poetyckie 'bardzo ciemno', ale kolokwialne, absolutne 'najciemniej'. Ciemność jako stan ontologiczny, nie tylko brak światła.",
+          "full_analysis": "Fraza 'jest ciemno jak najciemniej' to tautologia - ciemno nie może być ciemniejsze niż najciemniej. Ale ta pozorna redundancja ma sens poetycki - podmiot nie potrafi wyrazić intensywności swojego doznania w normalnym języku.\n\nTo także echo konstrukcji ludowych - 'biały jak najbiały', 'czarny jak najczarny'. Wojaczek sięga do prostych, archaicznych form wzmocnienia. [INTERTEKST: folklor słowiański] - formuly superlativu w pieśniach ludowych.\n\nCiemność tu nie jest metaforą - to konkretne doznanie, ale i stan duszy. W tradycji mistycznej ciemność to 'noc duszy', moment przed iluminacją. Ale u Wojaczka to raczej ciemność bez nadziei na świt. [BIOGRAFIA: 1965 - narastająca depresja]\n\nKontrastuje to z poezją współczesną - u Herberta ciemność ma wymiar historyczny, u Różewicza - egzystencjalny, u Wojaczka - jest całkowita, bezwyjściowa. Nie ma tu żadnego światła nadziei.",
+          "connects_to": [
+            "4a",
+            "5a"
+          ],
+          "contradicts": "",
+          "contradiction_reason": "",
+          "alt_readings": [
+            "Ciemność jako ślepota - utrata wzroku w chorobie",
+            "Noc polarna - geograficzna metafora",
+            "Ciemność grobu - antycypacja śmierci"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Tylko drzewa się ruszają\nniepospolite ruszenie drzew\nrodzą czarnego kota\nktóry przebiega wszystkie drogi",
+      "annotations": [
+        {
+          "node_id": "5a",
+          "aspect": "kontekst",
+          "phrase": "Tylko drzewa się ruszają",
+          "comment": "Po totalnej negacji - jedyny ruch w świecie. 'Tylko' jako ograniczenie, ale też jako ratunku. Drzewa - to co najbardziej statyczne - jedyne co się porusza. Paradoks ruchu w martwym świecie.",
+          "full_analysis": "Po serii negacji ('mnie nie ma', 'nie ma spać', 'żyć nie ma') pojawia się jedyny pozytywny element - 'drzewa się ruszają'. To kontrastuje z całkowitą niemożnością istnienia podmiotu. Drzewa, symbole stabilności, jedyne co zachowało zdolność ruchu.\n\nW kontekście słowiańskim drzewa to miejsca sakralne, siedziby duchów. Może to aluzja do animistycznych wierzeń - gdy człowiek umiera, natura pozostaje żywa. [INTERTEKST: folklor słowiański] - drzewa jako most między światami.\n\n'Tylko' ma podwójne znaczenie - ogranicza (jedynie drzewa), ale też afirmuje (przynajmniej drzewa). W świecie totalnej negacji nawet ten skromny ruch ma charakter cudowny. Legeżyńska pisze o 'restitutio' w poezji Wojaczka - momentach odzyskania świata.\n\nMożna to też czytać realistycznie - podmiot w stanie depresji nie dostrzega ruchu ludzi, samochodów, tylko kołysanie drzew na wietrze. [BIOGRAFIA: 1965 - depresja, zaburzenia percepcji]. To może jedyny ruch, jaki jest w stanie zarejestrować chora psychika.",
+          "connects_to": [
+            "5b",
+            "4a"
+          ],
+          "contradicts": "4a",
+          "contradiction_reason": "Po totalnej negacji pojawia się jednak ruch - życie",
+          "alt_readings": [
+            "Drzewa jako symbol nadziei - życie trwa mimo wszystko",
+            "Halucynacja - podmiot widzi ruch tam gdzie go nie ma",
+            "Drzewa jako symbol śmierci - kołysanie na wietrze"
+          ]
+        },
+        {
+          "node_id": "5b",
+          "aspect": "slowo",
+          "phrase": "niepospolite ruszenie",
+          "comment": "Archaiczne słowo 'niepospolite' (nie zwyczajne, nadzwyczajne) i książkowe 'ruszenie' (zamiast potocznego 'ruch'). Poetycka nobilitacja prostego zjawiska - kołysania drzew na wietrze staje się wydarzeniem metafizycznym.",
+          "full_analysis": "Epitet 'niepospolite' to wyraz z polszczyzny dawnej, oznaczający 'niezwyczajny', 'wyjątkowy'. Wojaczek nobilituje zwykły ruch drzew, nadając mu rangę zjawiska metafizycznego. To nie zwykłe kołysanie na wietrze, ale 'niepospolite ruszenie'.\n\nRównież 'ruszenie' brzmi archaicznie - zamiast potocznego 'ruch' poeta wybiera słowo книжne, podniosłe. To jak gdyby drzewa nie poruszały się mechanicznie, ale wykonywały jakiś rytuał, taniec, ceremonię.\n\nTaki wybór leksyki kontrastuje z potoczną składnią całego wiersza ('ja kocha', 'nie ma spać'). W momencie, gdy pojawia się jedyny pozytywny element, język staje się uroczysty. Klak pisze o 'stylowych przełamaniach' u Wojaczka.\n\n[INTERTEKST: Young Poland] - podobną nobilitację natury znajdziemy u symbolistów, ale tam była to poetycka konwencja. U Wojaczka archaizm brzmi autentycznie - jakby podmiot sięgał do dawnej polszczyzny w poszukiwaniu języka na miarę cudu.",
+          "connects_to": [
+            "5a",
+            "5c"
+          ],
+          "contradicts": "",
+          "contradiction_reason": "",
+          "alt_readings": [
+            "Ironia - zwykłe kołysanie nazywa niepospolitym",
+            "Mistyczna wizja - ruch drzew jako objawienie",
+            "Archaizm jako znak szaleństwa - powrót do dawnego języka"
+          ]
+        },
+        {
+          "node_id": "5c",
+          "aspect": "intertekst",
+          "phrase": "rodzą czarnego kota",
+          "comment": "Drzewa rodzące kota - surrealistyczny obraz niemożliwy biologicznie. Czarny kot to symbol nieszczęścia w folklorze, ale też zwierzę nocne, związane z tajemnicą. Rodzenie jako akt twórczy natury.",
+          "full_analysis": "Obraz drzew rodzących czarnego kota to moment surrealistyczny w wierszu - biologicznie niemożliwy, ale poetycko przekonujący. Drzewa, symbol płodności, rodzą nie owoce czy liście, ale żywe stworzenie. To może nawiązanie do słowiańskiej mitologii - drzewa jako matki duchów.\n\nCzarny kot w folklorze europejskim to symbol nieszczęścia, złego omen, ale też tajemnicy i magii. [INTERTEKST: folklor europejski] - czarny kot jako familiar czarownic, przewodnik po zaświatach. U Wojaczka może reprezentować śmierć lub tajemnicze siły natury.\n\nAkt 'rodzenia' przez drzewa ma charakter partenogenetyczny - to płodność bez partnera, samoistna kreacja. Może to metafora poezji - drzewa (natura) rodzą kota (wiersz) bez ludzkiej interwencji. Kierc pisze o 'auto-kreacji' w poezji Wojaczka.\n\n[INTERTEKST: Baudelaire - Les Fleurs du Mal] - czarny kot jako symbol spleen, melankolii miejskiej. Ale u Wojaczka kot powstaje z natury, nie z cywilizacji - to bardziej pierwotne, magiczne stworzenie.",
+          "connects_to": [
+            "5d",
+            "5b"
+          ],
+          "contradicts": "",
+          "contradiction_reason": "",
+          "alt_readings": [
+            "Kot jako symbol podmiotu - czarny, nocny, samotny",
+            "Halucynacja - podmiot widzi niemożliwe obrazy",
+            "Kot jako śmierć - czarne zwierzę z zaświatów"
+          ]
+        },
+        {
+          "node_id": "5d",
+          "aspect": "porownanie",
+          "phrase": "który przebiega wszystkie drogi",
+          "comment": "Kot jako figura ruchu przeciw statyczności podmiotu. 'Wszystkie drogi' to universalność - kot ma dostęp tam, gdzie podmiot nie może dotrzeć. Przebiega vs brak ruchu - kot jako alter ego podmiotu.",
+          "full_analysis": "Czarny kot 'przebiegający wszystkie drogi' to przeciwieństwo unieruchomionego podmiotu. Gdzie podmiot 'nie ma' - tam kot swobodnie się porusza. To może jego cień, alter ego, ta część osobowości, która pozostała żywa.\n\n'Wszystkie drogi' to hiperboliczne określenie - kot ma dostęp do całego świata, jest wszędzie. Kontrastuje to z ograniczonym polem widzenia podmiotu (plac, deszcz, ciemność). Kot może to co podmiotowi nie wolno - poruszać się swobodnie.\n\nW tradycji literackiej kot to często symbol niezależności, tajemnicy, ale też samotności. [INTERTEKST: Poe - The Black Cat] - czarny kot jako symbol winy i kary. U Wojaczka kot może reprezentować popęd śmierci, thanatos przebiegający przez życie podmiotu.\n\nDrogi to też metafora życiowych ścieżek - kot przebiega wszystkie możliwości, jakie podmiot utracił. Może to wizja tego, kim mógłby być, gdyby nie choroba, depresja, niemoc. Czapliński pisze o 'kotach-dubleach' u młodej generacji.",
+          "connects_to": [
+            "5c",
+            "1a"
+          ],
+          "contradicts": "4b",
+          "contradiction_reason": "Kot swobodnie przebiega drogi, podczas gdy podmiot nie ma nawet żyć",
+          "alt_readings": [
+            "Kot jako przewodnik po zaświatach - psychopomp",
+            "Symbol wolności - zwierzę niezależne od człowieka",
+            "Kot jako hallucynacja - widzenie w stanie psychotycznym"
+          ]
+        }
+      ]
+    }
+  ],
+  "network_summary": "Wiersz 'Sezon' z 1965 roku to wczesny przykład poetyki Wojaczka, anticipującej jego późniejsze obsesje. Kompozycyjnie dzieli się na pięć części: otwarcie paradoksami (poręcz bez schodów, ja bez mnie), przejście przez zmysłowe doświadczenia (zimno, mokro), kulminację w ciemności i negacji funkcji biologicznych, aby zakończyć się wizyjnym obrazem drzew rodzących czarnego kota. Kluczowe napięcia: obecność vs nieobecność, konstruktywność vs destruktywność składni, realność vs surrealizm. Charakterystyczne dla młodego Wojaczka połączenie codzienności PRL (plac, deszcz, zimno) z elementami magicznymi (kot z drzew) i autobiograficznymi symptomami choroby ('ja kocha', rozpad składni). Wiersz zapowiada główne tematy późniejszej twórczości: rozszczepienie podmiotu, tęsknotę za ciepłem cielesnym, fascynację żywiołami, wyobraźnię nekrofiliczną i finalne doświadczenie niemożności życia."
+}

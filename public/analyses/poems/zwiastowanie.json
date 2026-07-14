@@ -1,0 +1,871 @@
+{
+  "id": "zwiastowanie",
+  "title": "Zwiastowanie",
+  "wordCount": 77,
+  "lineCount": 12,
+  "uniqueWords": 60,
+  "vocabularyRichness": 0.779,
+  "avgWordsPerLine": 6.42,
+  "wordsPerLineDistribution": [
+    6,
+    7,
+    6,
+    6,
+    5,
+    8,
+    6,
+    7,
+    7,
+    6,
+    8,
+    5
+  ],
+  "wordFrequencies": [
+    [
+      "głos",
+      4
+    ],
+    [
+      "którego",
+      4
+    ],
+    [
+      "słyszysz",
+      4
+    ],
+    [
+      "gruba",
+      1
+    ],
+    [
+      "woskowina",
+      1
+    ],
+    [
+      "ogłuchłej",
+      1
+    ],
+    [
+      "ciszy",
+      1
+    ],
+    [
+      "uszach",
+      1
+    ],
+    [
+      "najwyższy",
+      1
+    ],
+    [
+      "pęd",
+      1
+    ],
+    [
+      "rozkrzewionego",
+      1
+    ],
+    [
+      "głosu",
+      1
+    ],
+    [
+      "przebija",
+      1
+    ],
+    [
+      "ślepa",
+      1
+    ],
+    [
+      "błyskawica",
+      1
+    ],
+    [
+      "poruszonego",
+      1
+    ],
+    [
+      "wstydu",
+      1
+    ],
+    [
+      "odmienia",
+      1
+    ],
+    [
+      "płeć",
+      1
+    ],
+    [
+      "róża",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 10,
+    "period": 5,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 4,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 5,
+  "negationWords": [
+    "nie"
+  ],
+  "pronounDistribution": {
+    "ja": 0,
+    "ty": 2,
+    "on_ona": 1,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 0,
+    "smierc": 0,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [
+    [
+      "głos",
+      4
+    ]
+  ],
+  "firstWord": "głos",
+  "lastWord": "niewiastami",
+  "avgWordLength": 5.68,
+  "wordLengthDistribution": {
+    "4-5": 24,
+    "6-7": 15,
+    "1-3": 17,
+    "8-9": 14,
+    "10+": 7
+  },
+  "bigrams": [
+    [
+      "głos którego",
+      4
+    ],
+    [
+      "słyszysz gruba",
+      1
+    ],
+    [
+      "gruba woskowina",
+      1
+    ],
+    [
+      "woskowina ogłuchłej",
+      1
+    ],
+    [
+      "ogłuchłej ciszy",
+      1
+    ],
+    [
+      "najwyższy pęd",
+      1
+    ],
+    [
+      "pęd rozkrzewionego",
+      1
+    ],
+    [
+      "rozkrzewionego głosu",
+      1
+    ]
+  ],
+  "poemWords": [
+    "głos",
+    "którego",
+    "słyszysz",
+    "gruba",
+    "woskowina",
+    "ogłuchłej",
+    "ciszy",
+    "uszach",
+    "najwyższy",
+    "pęd",
+    "rozkrzewionego",
+    "głosu",
+    "przebija",
+    "ślepa",
+    "błyskawica",
+    "poruszonego",
+    "wstydu",
+    "odmienia",
+    "płeć",
+    "róża",
+    "wzejdzie",
+    "łonie",
+    "policzkach",
+    "płonie",
+    "długo",
+    "aniołowie",
+    "coraz",
+    "bliższe",
+    "echo",
+    "niosło",
+    "poprzez",
+    "ganki",
+    "ostatni",
+    "przystanął",
+    "progu",
+    "twej",
+    "płci",
+    "wysłuchany",
+    "ucho",
+    "skoro",
+    "dłoniach",
+    "drżysz",
+    "pierwsza",
+    "kobieta",
+    "między",
+    "niewiastami"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 24,
+        "VERB": 11,
+        "ADJ": 11,
+        "ADV": 2,
+        "PRON": 2,
+        "ADP": 9,
+        "CCONJ": 2,
+        "SCONJ": 2,
+        "INTJ": 0,
+        "PART": 7,
+        "DET": 6,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.308,
+        "VERB": 0.141,
+        "ADJ": 0.141,
+        "ADV": 0.026,
+        "PRON": 0.026,
+        "ADP": 0.115,
+        "CCONJ": 0.026,
+        "SCONJ": 0.026,
+        "INTJ": 0,
+        "PART": 0.09,
+        "DET": 0.077,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 0,
+        "abstract": 2,
+        "ratio": 0
+      },
+      "verbTenses": {
+        "present": 9,
+        "future": 1,
+        "past": 2
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 0,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 0,
+        "opisowe": 11
+      },
+      "adverbs": {
+        "temporalne": [],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "długo",
+            "count": 1
+          },
+          {
+            "word": "coraz",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 0,
+        "ty": 1,
+        "on_ona": 1,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 5,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 5,
+        "percentSentences": 0.83
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 180,
+        "consonants": 269,
+        "ratio": 0.67
+      },
+      "consonantClusters": {
+        "count": 16,
+        "top": [
+          {
+            "cluster": "prz",
+            "count": 5
+          },
+          {
+            "cluster": "ższ",
+            "count": 2
+          },
+          {
+            "cluster": "chł",
+            "count": 1
+          },
+          {
+            "cluster": "zkrz",
+            "count": 1
+          },
+          {
+            "cluster": "wst",
+            "count": 1
+          },
+          {
+            "cluster": "jdz",
+            "count": 1
+          },
+          {
+            "cluster": "czk",
+            "count": 1
+          },
+          {
+            "cluster": "płc",
+            "count": 1
+          },
+          {
+            "cluster": "drż",
+            "count": 1
+          },
+          {
+            "cluster": "rwsz",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 28,
+        "syczace": 41,
+        "nosowe": 36,
+        "plynne": 45
+      },
+      "rhymes": {
+        "exact": 0,
+        "approximate": 1,
+        "internal": 2,
+        "assonance": 1,
+        "alliteration": 1
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 13,
+        "median": 15,
+        "min": 1,
+        "max": 20,
+        "distribution": [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          2,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 6,
+        "meanSyllables": 14.1,
+        "distribution": [
+          0,
+          1,
+          0,
+          0,
+          0,
+          2,
+          5,
+          3,
+          2
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 6,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 1,
+        "noSubject": 0,
+        "noPredicate": 0,
+        "percent": 0.17
+      },
+      "enjambement": {
+        "count": 4,
+        "percent": 0.33,
+        "positions": [
+          2,
+          3,
+          5,
+          11
+        ]
+      },
+      "wordOrder": {
+        "svo": 4,
+        "inversions": 1,
+        "other": 0,
+        "deviationPercent": 0.2
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 0,
+        "śmierć": 0,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 183,
+      "estimatedSeconds": 61,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 24,
+      "VERB": 11,
+      "ADJ": 11,
+      "ADV": 2,
+      "PRON": 2,
+      "ADP": 9,
+      "CCONJ": 2,
+      "SCONJ": 2,
+      "INTJ": 0,
+      "PART": 7,
+      "DET": 6,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.308,
+      "VERB": 0.141,
+      "ADJ": 0.141,
+      "ADV": 0.026,
+      "PRON": 0.026,
+      "ADP": 0.115,
+      "CCONJ": 0.026,
+      "SCONJ": 0.026,
+      "INTJ": 0,
+      "PART": 0.09,
+      "DET": 0.077,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 0,
+      "abstract": 2,
+      "ratio": 0
+    },
+    "verbTenses": {
+      "present": 9,
+      "future": 1,
+      "past": 2
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 0,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 0,
+      "opisowe": 11
+    },
+    "adverbs": {
+      "temporalne": [],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "długo",
+          "count": 1
+        },
+        {
+          "word": "coraz",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 0,
+      "ty": 1,
+      "on_ona": 1,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 5,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 5,
+      "percentSentences": 0.83
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 13,
+      "median": 15,
+      "min": 1,
+      "max": 20,
+      "distribution": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 6,
+      "meanSyllables": 14.1,
+      "distribution": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        2,
+        5,
+        3,
+        2
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 6,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 1,
+      "noSubject": 0,
+      "noPredicate": 0,
+      "percent": 0.17
+    },
+    "enjambement": {
+      "count": 4,
+      "percent": 0.33,
+      "positions": [
+        2,
+        3,
+        5,
+        11
+      ]
+    },
+    "wordOrder": {
+      "svo": 4,
+      "inversions": 1,
+      "other": 0,
+      "deviationPercent": 0.2
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 180,
+      "consonants": 269,
+      "ratio": 0.67
+    },
+    "consonantClusters": {
+      "count": 16,
+      "top": [
+        {
+          "cluster": "prz",
+          "count": 5
+        },
+        {
+          "cluster": "ższ",
+          "count": 2
+        },
+        {
+          "cluster": "chł",
+          "count": 1
+        },
+        {
+          "cluster": "zkrz",
+          "count": 1
+        },
+        {
+          "cluster": "wst",
+          "count": 1
+        },
+        {
+          "cluster": "jdz",
+          "count": 1
+        },
+        {
+          "cluster": "czk",
+          "count": 1
+        },
+        {
+          "cluster": "płc",
+          "count": 1
+        },
+        {
+          "cluster": "drż",
+          "count": 1
+        },
+        {
+          "cluster": "rwsz",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 28,
+      "syczace": 41,
+      "nosowe": 36,
+      "plynne": 45
+    },
+    "rhymes": {
+      "exact": 0,
+      "approximate": 1,
+      "internal": 2,
+      "assonance": 1,
+      "alliteration": 1
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        13
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 183,
+      "estimatedSeconds": 61,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "regularny",
+      "regularityScore": 0.78
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Biblia",
+          "reference": "Zwiastowanie Maryi",
+          "evidence": "tytuł wiersza oraz motyw anioła przystającego na progu"
+        },
+        {
+          "source": "Biblia",
+          "reference": "Ave Maria",
+          "evidence": "fraza 'pierwsza wreszcie kobieta między niewiastami' nawiązuje do 'błogosławiona między niewiastami'"
+        },
+        {
+          "source": "Biblia",
+          "reference": "Niepokalanego Poczęcia",
+          "evidence": "motyw róży wzchodzącej w łonie"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.3,
+        "baudelaire": 0.4,
+        "bursa": 0.1,
+        "stachura": 0.2,
+        "grochowiak": 0.3,
+        "bialoszewski": 0.1,
+        "rozewicz": 0.2
+      }
+    },
+    "space": {
+      "type": "zamknieta",
+      "evidence": "przestrzeń domowa z gankami, progiem, uszami - intymna, zamknięta przestrzeń ciała i domu",
+      "openClosedRatio": 0.2
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "nieokreslona",
+      "evidence": "brak wyraźnych wskaźników temporalnych, fokus na momencie mistycznym poza czasem"
+    },
+    "motion": {
+      "movement": 7,
+      "stillness": 5,
+      "dynamism": 0.6,
+      "evidence": "ruch anioła przez ganki, pęd głosu, drżenie w dłoniach vs nieruchomość słuchającej"
+    },
+    "imageryDensity": {
+      "metaphors": 5,
+      "comparisons": 1,
+      "personifications": 2,
+      "hyperboles": 1,
+      "per100words": 75
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.8,
+      "creationLevel": 0.7,
+      "ironicDistance": 0.2,
+      "autobiographicSignals": [
+        "intymny ton zwracania się do kobiety",
+        "erotyczne podteksty w opisie religijnym",
+        "osobisty stosunek do sacrum"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "czułość",
+      "secondary": "tęsknota",
+      "intensity": 0.8
+    },
+    "subjectPresence": {
+      "type": "ukryte",
+      "evidence": "Podmiot liryczny obecny w konstrukcji wypowiedzi i obserwacji adresatki, ale nie ujawnia się bezpośrednio"
+    },
+    "addressee": {
+      "type": "ty",
+      "evidence": "Bezpośrednie zwroty 'Ci płeć', 'Twej płci', 'Twoje ucho', 'w dłoniach drżysz'"
+    },
+    "metaphors": [
+      {
+        "source": "woskowina w uszach",
+        "target": "niemożność słyszenia głosu Bożego",
+        "example": "gruba woskowina ogłuchłej ciszy w uszach"
+      },
+      {
+        "source": "ślepa błyskawica",
+        "target": "transformująca moc Bożego słowa",
+        "example": "ślepa błyskawica poruszonego wstydu odmienia Ci płeć"
+      },
+      {
+        "source": "róża w łonie",
+        "target": "zapłodnienie/wcielenie",
+        "example": "Róża, nim wzejdzie w łonie, na policzkach płonie"
+      }
+    ],
+    "temperature": {
+      "value": 0.7,
+      "label": "ciepłe - duchowa ekstaza i transformacja"
+    },
+    "senses": {
+      "wzrok": 3,
+      "sluch": 5,
+      "dotyk": 4,
+      "smak": 0,
+      "zapach": 0
+    },
+    "autodestruction": {
+      "level": 0.2,
+      "signals": [
+        "poruszonego wstydu",
+        "drżenie w dłoniach jako oznaka przemiany"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 0.497,
+    "dfaAlpha": 0.184,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -0.8855700910126593
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -0.8327436120509676
+      }
+    ],
+    "seriesLength": 12,
+    "series": [
+      6,
+      7,
+      6,
+      6,
+      5,
+      8,
+      6,
+      7,
+      7,
+      6,
+      8,
+      5
+    ]
+  }
+}

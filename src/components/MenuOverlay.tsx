@@ -9,10 +9,12 @@ interface MenuOverlayProps {
 }
 
 const MENU_ITEMS: { id: ViewId; label: string }[] = [
-  { id: 'biography', label: 'Rafał Wojaczek' },
-  { id: 'poems', label: 'Teksty' },
+  { id: 'biography', label: 'Życiorys' },
+  { id: 'poems', label: 'Wiersze' },
   { id: 'list', label: 'Ślady' },
   { id: 'map', label: 'Mapa' },
+  { id: 'generate', label: 'Maszyna do wierszy' },
+  { id: 'datamining', label: 'Eksploracja' },
   { id: 'info', label: 'O aplikacji' },
 ];
 

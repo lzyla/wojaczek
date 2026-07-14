@@ -1,0 +1,881 @@
+{
+  "id": "rozpisalem-konkurs",
+  "title": "Rozpisałem konkurs",
+  "wordCount": 79,
+  "lineCount": 13,
+  "uniqueWords": 65,
+  "vocabularyRichness": 0.823,
+  "avgWordsPerLine": 6.08,
+  "wordsPerLineDistribution": [
+    6,
+    6,
+    6,
+    6,
+    5,
+    6,
+    6,
+    6,
+    7,
+    6,
+    6,
+    8,
+    5
+  ],
+  "wordFrequencies": [
+    [
+      "przychodzi",
+      3
+    ],
+    [
+      "pora",
+      3
+    ],
+    [
+      "mógł",
+      2
+    ],
+    [
+      "rozpisałem",
+      1
+    ],
+    [
+      "konkurs",
+      1
+    ],
+    [
+      "sposób",
+      1
+    ],
+    [
+      "pochwycenia",
+      1
+    ],
+    [
+      "słyszę",
+      1
+    ],
+    [
+      "kroki",
+      1
+    ],
+    [
+      "chodnik",
+      1
+    ],
+    [
+      "słuchu",
+      1
+    ],
+    [
+      "stukot",
+      1
+    ],
+    [
+      "twych",
+      1
+    ],
+    [
+      "pantofli",
+      1
+    ],
+    [
+      "pantofle",
+      1
+    ],
+    [
+      "misternie",
+      1
+    ],
+    [
+      "kuł",
+      1
+    ],
+    [
+      "rozmiar",
+      1
+    ],
+    [
+      "niewidzialnych",
+      1
+    ],
+    [
+      "stóp",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 0,
+    "period": 0,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 0,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 1,
+  "negationWords": [
+    "nie"
+  ],
+  "pronounDistribution": {
+    "ja": 4,
+    "ty": 6,
+    "on_ona": 0,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 2,
+    "smierc": 0,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [
+    [
+      "przychodzi",
+      3
+    ],
+    [
+      "kto",
+      3
+    ]
+  ],
+  "firstWord": "rozpisałem",
+  "lastWord": "syn",
+  "avgWordLength": 5.48,
+  "wordLengthDistribution": {
+    "10+": 11,
+    "6-7": 18,
+    "1-3": 23,
+    "4-5": 22,
+    "8-9": 5
+  },
+  "bigrams": [
+    [
+      "przychodzi pora",
+      3
+    ],
+    [
+      "rozpisałem konkurs",
+      1
+    ],
+    [
+      "sposób pochwycenia",
+      1
+    ],
+    [
+      "pochwycenia cię",
+      1
+    ],
+    [
+      "cię przychodzi",
+      1
+    ],
+    [
+      "słyszę twoje",
+      1
+    ],
+    [
+      "twoje kroki",
+      1
+    ],
+    [
+      "kroki chodnik",
+      1
+    ],
+    [
+      "chodnik mojego",
+      1
+    ],
+    [
+      "mojego słuchu",
+      1
+    ],
+    [
+      "słuchu stukot",
+      1
+    ]
+  ],
+  "poemWords": [
+    "rozpisałem",
+    "konkurs",
+    "sposób",
+    "pochwycenia",
+    "przychodzi",
+    "pora",
+    "słyszę",
+    "kroki",
+    "chodnik",
+    "słuchu",
+    "stukot",
+    "twych",
+    "pantofli",
+    "pantofle",
+    "misternie",
+    "kuł",
+    "rozmiar",
+    "niewidzialnych",
+    "stóp",
+    "czuję",
+    "twe",
+    "dotknięcie",
+    "skóra",
+    "mej",
+    "wrażliwości",
+    "palce",
+    "zręczne",
+    "czułości",
+    "mógł",
+    "nauczyć",
+    "skoro",
+    "jawisz",
+    "śnie",
+    "dłoni",
+    "każesz",
+    "zadrwić",
+    "prawdziwych",
+    "kobiet",
+    "żmudnym",
+    "samogwałtem",
+    "wysyła",
+    "oskarżać",
+    "niepoczęty",
+    "syn"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 20,
+        "VERB": 17,
+        "ADJ": 6,
+        "ADV": 5,
+        "PRON": 10,
+        "ADP": 6,
+        "CCONJ": 0,
+        "SCONJ": 2,
+        "INTJ": 0,
+        "PART": 1,
+        "DET": 9,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.253,
+        "VERB": 0.215,
+        "ADJ": 0.076,
+        "ADV": 0.063,
+        "PRON": 0.127,
+        "ADP": 0.076,
+        "CCONJ": 0,
+        "SCONJ": 0.025,
+        "INTJ": 0,
+        "PART": 0.013,
+        "DET": 0.114,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 1,
+        "abstract": 1,
+        "ratio": 0.5
+      },
+      "verbTenses": {
+        "present": 11,
+        "past": 2,
+        "infinitive": 3,
+        "future": 1
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 2,
+        "stan": 0,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 0,
+        "opisowe": 6
+      },
+      "adverbs": {
+        "temporalne": [],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "kiedy",
+            "count": 3
+          },
+          {
+            "word": "tak",
+            "count": 1
+          },
+          {
+            "word": "misternie",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 2,
+        "ty": 2,
+        "on_ona": 0,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 1,
+        "nic": 0,
+        "nikt": 1,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 2,
+        "percentSentences": 0.29
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 172,
+        "consonants": 261,
+        "ratio": 0.66
+      },
+      "consonantClusters": {
+        "count": 8,
+        "top": [
+          {
+            "cluster": "prz",
+            "count": 3
+          },
+          {
+            "cluster": "chw",
+            "count": 1
+          },
+          {
+            "cluster": "tkn",
+            "count": 1
+          },
+          {
+            "cluster": "czn",
+            "count": 1
+          },
+          {
+            "cluster": "drw",
+            "count": 1
+          },
+          {
+            "cluster": "wdz",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 15,
+        "syczace": 45,
+        "nosowe": 46,
+        "plynne": 34
+      },
+      "rhymes": {
+        "exact": 0,
+        "approximate": 1,
+        "internal": 1,
+        "assonance": 0,
+        "alliteration": 0
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 11.3,
+        "median": 6,
+        "min": 6,
+        "max": 32,
+        "distribution": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          4,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 6.1,
+        "meanSyllables": 13.4,
+        "distribution": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          2,
+          9,
+          1,
+          1
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 7,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 2,
+        "noSubject": 1,
+        "noPredicate": 0,
+        "percent": 0.43
+      },
+      "enjambement": {
+        "count": 0,
+        "percent": 0,
+        "positions": []
+      },
+      "wordOrder": {
+        "svo": 1,
+        "inversions": 3,
+        "other": 3,
+        "deviationPercent": 0.86
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 2,
+        "śmierć": 0,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 174,
+      "estimatedSeconds": 58,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 20,
+      "VERB": 17,
+      "ADJ": 6,
+      "ADV": 5,
+      "PRON": 10,
+      "ADP": 6,
+      "CCONJ": 0,
+      "SCONJ": 2,
+      "INTJ": 0,
+      "PART": 1,
+      "DET": 9,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.253,
+      "VERB": 0.215,
+      "ADJ": 0.076,
+      "ADV": 0.063,
+      "PRON": 0.127,
+      "ADP": 0.076,
+      "CCONJ": 0,
+      "SCONJ": 0.025,
+      "INTJ": 0,
+      "PART": 0.013,
+      "DET": 0.114,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 1,
+      "abstract": 1,
+      "ratio": 0.5
+    },
+    "verbTenses": {
+      "present": 11,
+      "past": 2,
+      "infinitive": 3,
+      "future": 1
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 2,
+      "stan": 0,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 0,
+      "opisowe": 6
+    },
+    "adverbs": {
+      "temporalne": [],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "kiedy",
+          "count": 3
+        },
+        {
+          "word": "tak",
+          "count": 1
+        },
+        {
+          "word": "misternie",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 2,
+      "ty": 2,
+      "on_ona": 0,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 1,
+      "nic": 0,
+      "nikt": 1,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 2,
+      "percentSentences": 0.29
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 11.3,
+      "median": 6,
+      "min": 6,
+      "max": 32,
+      "distribution": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        4,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 6.1,
+      "meanSyllables": 13.4,
+      "distribution": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        9,
+        1,
+        1
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 7,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 2,
+      "noSubject": 1,
+      "noPredicate": 0,
+      "percent": 0.43
+    },
+    "enjambement": {
+      "count": 0,
+      "percent": 0,
+      "positions": []
+    },
+    "wordOrder": {
+      "svo": 1,
+      "inversions": 3,
+      "other": 3,
+      "deviationPercent": 0.86
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 172,
+      "consonants": 261,
+      "ratio": 0.66
+    },
+    "consonantClusters": {
+      "count": 8,
+      "top": [
+        {
+          "cluster": "prz",
+          "count": 3
+        },
+        {
+          "cluster": "chw",
+          "count": 1
+        },
+        {
+          "cluster": "tkn",
+          "count": 1
+        },
+        {
+          "cluster": "czn",
+          "count": 1
+        },
+        {
+          "cluster": "drw",
+          "count": 1
+        },
+        {
+          "cluster": "wdz",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 15,
+      "syczace": 45,
+      "nosowe": 46,
+      "plynne": 34
+    },
+    "rhymes": {
+      "exact": 0,
+      "approximate": 1,
+      "internal": 1,
+      "assonance": 0,
+      "alliteration": 0
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        13
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 174,
+      "estimatedSeconds": 58,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "regularny",
+      "regularityScore": 0.88
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Biblia",
+          "reference": "Zwiastowanie",
+          "evidence": "motyw niewidzialnego dotknięcia, niematerialnej obecności"
+        },
+        {
+          "source": "mitologia",
+          "reference": "sukub/inkub",
+          "evidence": "erotyczne widzenie niewidzialnej istoty"
+        },
+        {
+          "source": "Rimbaud",
+          "reference": "wizyjność",
+          "evidence": "zmysłowa konkretność abstrakcyjnej obecności"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.7,
+        "baudelaire": 0.4,
+        "bursa": 0.8,
+        "stachura": 0.6,
+        "grochowiak": 0.5,
+        "bialoszewski": 0.2,
+        "rozewicz": 0.3
+      }
+    },
+    "space": {
+      "type": "nieokreslona",
+      "evidence": "przestrzeń zmysłowa, nie geograficzna - chodnik słuchu, skóra wrażliwości",
+      "openClosedRatio": 0.3
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "nieokreslona",
+      "evidence": "czas cykliczny - 'przychodzi pora' sugeruje powtarzalność, nie konkretny moment"
+    },
+    "motion": {
+      "movement": 6,
+      "stillness": 4,
+      "dynamism": 0.6,
+      "evidence": "słyszalne kroki, dotknięcie palców, ruch dłoni - dynamika erotyczna"
+    },
+    "imageryDensity": {
+      "metaphors": 7,
+      "comparisons": 1,
+      "personifications": 3,
+      "hyperboles": 2,
+      "per100words": 15.7
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.9,
+      "creationLevel": 0.7,
+      "ironicDistance": 0.3,
+      "autobiographicSignals": [
+        "intymna erotyka",
+        "samotność",
+        "żmudny samogwałt",
+        "oskarżenie niepoczętego syna"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "tęsknota",
+      "secondary": "rozpacz",
+      "intensity": 0.8
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "podmiot mówi w pierwszej osobie: 'słyszę', 'czuję', 'mojej dłoni'"
+    },
+    "addressee": {
+      "type": "ty",
+      "evidence": "bezpośrednie zwroty: 'POCHWYCENIA CIĘ', 'Twoje kroki', 'Twoich stóp', 'Twe dotknięcie'"
+    },
+    "metaphors": [
+      {
+        "source": "chodnik",
+        "target": "słuch",
+        "example": "Chodnik mojego słuchu stukot Twych pantofli"
+      },
+      {
+        "source": "skóra",
+        "target": "wrażliwość",
+        "example": "Skóra mej wrażliwości Twoje palce zręczne"
+      },
+      {
+        "source": "konkurs",
+        "target": "poszukiwanie sposobu",
+        "example": "ROZPISAŁEM KONKURS NA SPOSÓB POCHWYCENIA CIĘ"
+      }
+    ],
+    "temperature": {
+      "value": 0.7,
+      "label": "gorące pragnienie z nutą rozpaczy"
+    },
+    "senses": {
+      "wzrok": 2,
+      "sluch": 5,
+      "dotyk": 5,
+      "smak": 0,
+      "zapach": 0
+    },
+    "autodestruction": {
+      "level": 0.6,
+      "signals": [
+        "żmudny samogwałt",
+        "oskarżanie przez niepoczęty syn",
+        "niemożność dotarcia do adresata"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 0.691,
+    "dfaAlpha": -0.888,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -1.4451858789480823
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -1.7005986908310773
+      }
+    ],
+    "seriesLength": 13,
+    "series": [
+      6,
+      6,
+      6,
+      6,
+      5,
+      6,
+      6,
+      6,
+      7,
+      6,
+      6,
+      8,
+      5
+    ]
+  }
+}

@@ -1,0 +1,951 @@
+{
+  "id": "martwy-sezon",
+  "title": "Martwy sezon",
+  "wordCount": 105,
+  "lineCount": 27,
+  "uniqueWords": 71,
+  "vocabularyRichness": 0.676,
+  "avgWordsPerLine": 3.89,
+  "wordsPerLineDistribution": [
+    5,
+    4,
+    4,
+    6,
+    1,
+    4,
+    5,
+    5,
+    3,
+    4,
+    2,
+    6,
+    4,
+    3,
+    5,
+    4,
+    7,
+    6,
+    2,
+    3,
+    4,
+    3,
+    3,
+    3,
+    5,
+    2,
+    2
+  ],
+  "wordFrequencies": [
+    [
+      "zjechałem",
+      2
+    ],
+    [
+      "porę",
+      2
+    ],
+    [
+      "zacznie",
+      2
+    ],
+    [
+      "pana",
+      2
+    ],
+    [
+      "profesora",
+      2
+    ],
+    [
+      "profesor",
+      2
+    ],
+    [
+      "sezon",
+      1
+    ],
+    [
+      "otwarty",
+      1
+    ],
+    [
+      "miejscowi",
+      1
+    ],
+    [
+      "mówią",
+      1
+    ],
+    [
+      "wczoraj",
+      1
+    ],
+    [
+      "widziałem",
+      1
+    ],
+    [
+      "wyniesiono",
+      1
+    ],
+    [
+      "kubełku",
+      1
+    ],
+    [
+      "taki",
+      1
+    ],
+    [
+      "mały",
+      1
+    ],
+    [
+      "ludzie",
+      1
+    ],
+    [
+      "kurczą",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 4,
+    "period": 0,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 0,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 7,
+  "negationWords": [
+    "nic",
+    "nie"
+  ],
+  "pronounDistribution": {
+    "ja": 0,
+    "ty": 0,
+    "on_ona": 0,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 0,
+    "smierc": 1,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [
+    [
+      "tak",
+      4
+    ],
+    [
+      "pan",
+      2
+    ]
+  ],
+  "firstWord": "zjechałem",
+  "lastWord": "podłogi",
+  "avgWordLength": 4.68,
+  "wordLengthDistribution": {
+    "8-9": 14,
+    "1-3": 47,
+    "4-5": 21,
+    "6-7": 19,
+    "10+": 4
+  },
+  "bigrams": [
+    [
+      "zjechałem tu",
+      2
+    ],
+    [
+      "pana profesora",
+      2
+    ],
+    [
+      "porę sezon",
+      1
+    ]
+  ],
+  "poemWords": [
+    "zjechałem",
+    "porę",
+    "sezon",
+    "otwarty",
+    "miejscowi",
+    "mówią",
+    "nic",
+    "zacznie",
+    "wczoraj",
+    "widziałem",
+    "wyniesiono",
+    "kubełku",
+    "pana",
+    "profesora",
+    "taki",
+    "mały",
+    "ludzie",
+    "kurczą",
+    "oszczędność",
+    "jedzeniu",
+    "deskach",
+    "trumnę",
+    "pan",
+    "profesor",
+    "epoka",
+    "ciągnął",
+    "nogę",
+    "ślad",
+    "ostatniej",
+    "kochance",
+    "miała",
+    "imię",
+    "andrzej",
+    "żyw",
+    "umiera",
+    "pospiesznie",
+    "jedną",
+    "wolną",
+    "salę",
+    "zamieniono",
+    "składzik",
+    "niedługo",
+    "założą",
+    "klamki",
+    "koniec",
+    "myją",
+    "korytarz",
+    "pastują",
+    "podłogi"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 29,
+        "VERB": 15,
+        "ADJ": 7,
+        "ADV": 10,
+        "PRON": 8,
+        "ADP": 9,
+        "CCONJ": 2,
+        "SCONJ": 1,
+        "INTJ": 0,
+        "PART": 15,
+        "DET": 2,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.274,
+        "VERB": 0.142,
+        "ADJ": 0.066,
+        "ADV": 0.094,
+        "PRON": 0.075,
+        "ADP": 0.085,
+        "CCONJ": 0.019,
+        "SCONJ": 0.009,
+        "INTJ": 0,
+        "PART": 0.142,
+        "DET": 0.019,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 0,
+        "abstract": 0,
+        "ratio": 0
+      },
+      "verbTenses": {
+        "past": 10,
+        "present": 8,
+        "future": 3,
+        "imperative": 1
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 4,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 1,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 0,
+        "opisowe": 7
+      },
+      "adverbs": {
+        "temporalne": [],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "tu",
+            "count": 6
+          },
+          {
+            "word": "wczoraj",
+            "count": 1
+          },
+          {
+            "word": "tak",
+            "count": 1
+          },
+          {
+            "word": "pospiesznie",
+            "count": 1
+          },
+          {
+            "word": "niedługo",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 0,
+        "ty": 0,
+        "on_ona": 0,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 5,
+        "nic": 2,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 7,
+        "percentSentences": 1.17
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 215,
+        "consonants": 276,
+        "ratio": 0.78
+      },
+      "consonantClusters": {
+        "count": 10,
+        "top": [
+          {
+            "cluster": "szcz",
+            "count": 2
+          },
+          {
+            "cluster": "czn",
+            "count": 2
+          },
+          {
+            "cluster": "jsc",
+            "count": 1
+          },
+          {
+            "cluster": "wcz",
+            "count": 1
+          },
+          {
+            "cluster": "rcz",
+            "count": 1
+          },
+          {
+            "cluster": "ndrz",
+            "count": 1
+          },
+          {
+            "cluster": "szn",
+            "count": 1
+          },
+          {
+            "cluster": "skł",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 19,
+        "syczace": 40,
+        "nosowe": 70,
+        "plynne": 38
+      },
+      "rhymes": {
+        "exact": 1,
+        "approximate": 0,
+        "internal": 0,
+        "assonance": 0,
+        "alliteration": 3
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 17.7,
+        "median": 18,
+        "min": 1,
+        "max": 33,
+        "distribution": [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 3.8,
+        "meanSyllables": 7.8,
+        "distribution": [
+          0,
+          2,
+          4,
+          6,
+          7,
+          5,
+          3,
+          1
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 5,
+        "interrogative": 0,
+        "imperative": 1,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 1,
+        "noSubject": 0,
+        "noPredicate": 0,
+        "percent": 0.17
+      },
+      "enjambement": {
+        "count": 14,
+        "percent": 0.52,
+        "positions": [
+          2,
+          3,
+          5,
+          6,
+          8,
+          9,
+          14,
+          15,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ]
+      },
+      "wordOrder": {
+        "svo": 3,
+        "inversions": 2,
+        "other": 0,
+        "deviationPercent": 0.4
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 0,
+        "śmierć": 2,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 219,
+      "estimatedSeconds": 73,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 29,
+      "VERB": 15,
+      "ADJ": 7,
+      "ADV": 10,
+      "PRON": 8,
+      "ADP": 9,
+      "CCONJ": 2,
+      "SCONJ": 1,
+      "INTJ": 0,
+      "PART": 15,
+      "DET": 2,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.274,
+      "VERB": 0.142,
+      "ADJ": 0.066,
+      "ADV": 0.094,
+      "PRON": 0.075,
+      "ADP": 0.085,
+      "CCONJ": 0.019,
+      "SCONJ": 0.009,
+      "INTJ": 0,
+      "PART": 0.142,
+      "DET": 0.019,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 0,
+      "abstract": 0,
+      "ratio": 0
+    },
+    "verbTenses": {
+      "past": 10,
+      "present": 8,
+      "future": 3,
+      "imperative": 1
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 4,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 1,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 0,
+      "opisowe": 7
+    },
+    "adverbs": {
+      "temporalne": [],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "tu",
+          "count": 6
+        },
+        {
+          "word": "wczoraj",
+          "count": 1
+        },
+        {
+          "word": "tak",
+          "count": 1
+        },
+        {
+          "word": "pospiesznie",
+          "count": 1
+        },
+        {
+          "word": "niedługo",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 0,
+      "ty": 0,
+      "on_ona": 0,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 5,
+      "nic": 2,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 7,
+      "percentSentences": 1.17
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 17.7,
+      "median": 18,
+      "min": 1,
+      "max": 33,
+      "distribution": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 3.8,
+      "meanSyllables": 7.8,
+      "distribution": [
+        0,
+        2,
+        4,
+        6,
+        7,
+        5,
+        3,
+        1
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 5,
+      "interrogative": 0,
+      "imperative": 1,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 1,
+      "noSubject": 0,
+      "noPredicate": 0,
+      "percent": 0.17
+    },
+    "enjambement": {
+      "count": 14,
+      "percent": 0.52,
+      "positions": [
+        2,
+        3,
+        5,
+        6,
+        8,
+        9,
+        14,
+        15,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ]
+    },
+    "wordOrder": {
+      "svo": 3,
+      "inversions": 2,
+      "other": 0,
+      "deviationPercent": 0.4
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 215,
+      "consonants": 276,
+      "ratio": 0.78
+    },
+    "consonantClusters": {
+      "count": 10,
+      "top": [
+        {
+          "cluster": "szcz",
+          "count": 2
+        },
+        {
+          "cluster": "czn",
+          "count": 2
+        },
+        {
+          "cluster": "jsc",
+          "count": 1
+        },
+        {
+          "cluster": "wcz",
+          "count": 1
+        },
+        {
+          "cluster": "rcz",
+          "count": 1
+        },
+        {
+          "cluster": "ndrz",
+          "count": 1
+        },
+        {
+          "cluster": "szn",
+          "count": 1
+        },
+        {
+          "cluster": "skł",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 19,
+      "syczace": 40,
+      "nosowe": 70,
+      "plynne": 38
+    },
+    "rhymes": {
+      "exact": 1,
+      "approximate": 0,
+      "internal": 0,
+      "assonance": 0,
+      "alliteration": 3
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        28
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 219,
+      "estimatedSeconds": 73,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "polregularny",
+      "regularityScore": 0.57
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "inne",
+          "reference": "topos końca epoki",
+          "evidence": "Pan profesor to była cała epoka"
+        },
+        {
+          "source": "inne",
+          "reference": "motyw zamierającego miejsca",
+          "evidence": "tu się nic nie zacznie / kto żyw ten umiera pospiesznie"
+        }
+      ],
+      "selfQuotes": [
+        "Tak, zjechałem tu nie w porę",
+        "Tak, tu się ludzie kurczą",
+        "Tak, tu już nic się nie zacznie",
+        "Tak, to już jest koniec"
+      ],
+      "influences": {
+        "rimbaud": 0.1,
+        "baudelaire": 0.2,
+        "bursa": 0.8,
+        "stachura": 0.3,
+        "grochowiak": 0.4,
+        "bialoszewski": 0.6,
+        "rozewicz": 0.7
+      }
+    },
+    "space": {
+      "type": "zamknieta",
+      "evidence": "salę zamieniono na składzik / założą tu klamki / Myją korytarz",
+      "openClosedRatio": 0.1
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "nieokreslona",
+      "evidence": "Sezon jeszcze nie otwarty - metaforyczne użycie czasu"
+    },
+    "motion": {
+      "movement": 3,
+      "stillness": 7,
+      "dynamism": 0.2,
+      "evidence": "Zjechałem / wyniesiono w kubełku / Ciągnął za sobą nogę - pojedyncze, wolne ruchy w atmosferze stagnacji"
+    },
+    "imageryDensity": {
+      "metaphors": 4,
+      "comparisons": 1,
+      "personifications": 2,
+      "hyperboles": 1,
+      "per100words": 8.9
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.8,
+      "creationLevel": 0.3,
+      "ironicDistance": 0.4,
+      "autobiographicSignals": [
+        "Zjechałem tu",
+        "zjechałem tu nie w porę",
+        "obserwacja miejsca z pozycji przybysza"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "melancholia",
+      "secondary": "rezygnacja",
+      "intensity": 0.8
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "Zjechałem tu nie w porę"
+    },
+    "addressee": {
+      "type": "siebie",
+      "evidence": "monolog wewnętrzny, refleksja nad zastaną sytuacją"
+    },
+    "metaphors": [
+      {
+        "source": "kurczenie się ludzi",
+        "target": "degradacja życia",
+        "example": "tu się ludzie kurczą"
+      },
+      {
+        "source": "ciągnięcie nogi",
+        "target": "ślad po miłości",
+        "example": "Ciągnął za sobą nogę / To był ślad / po ostatniej kochance"
+      },
+      {
+        "source": "zamykanie sezonu",
+        "target": "koniec epoki",
+        "example": "Sezon jeszcze nie otwarty / a już miejscowi mówią / że tu się nic nie zacznie"
+      }
+    ],
+    "temperature": {
+      "value": 0.2,
+      "label": "chłodna obserwacja upadku"
+    },
+    "senses": {
+      "wzrok": 4,
+      "sluch": 2,
+      "dotyk": 1,
+      "smak": 0,
+      "zapach": 0
+    },
+    "autodestruction": {
+      "level": 0.3,
+      "signals": [
+        "zjechałem tu nie w porę",
+        "świadomość uczestnictwa w końcu"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 0.733,
+    "dfaAlpha": 0.995,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -1.0774610988227644
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -0.6891590694068342
+      },
+      {
+        "logWin": 1.6094379124341003,
+        "logFluc": -0.1479075234321314
+      },
+      {
+        "logWin": 1.791759469228055,
+        "logFluc": -0.2534628562899583
+      },
+      {
+        "logWin": 1.9459101490553132,
+        "logFluc": 0.048064519836807464
+      },
+      {
+        "logWin": 2.1972245773362196,
+        "logFluc": -0.0567463699049879
+      }
+    ],
+    "seriesLength": 27,
+    "series": [
+      5,
+      4,
+      4,
+      6,
+      1,
+      4,
+      5,
+      5,
+      3,
+      4,
+      2,
+      6,
+      4,
+      3,
+      5,
+      4,
+      7,
+      6,
+      2,
+      3,
+      4,
+      3,
+      3,
+      3,
+      5,
+      2,
+      2
+    ]
+  }
+}

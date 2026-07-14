@@ -1,0 +1,750 @@
+{
+  "id": "ekloga-ii",
+  "title": "Ekloga II",
+  "wordCount": 39,
+  "lineCount": 12,
+  "uniqueWords": 36,
+  "vocabularyRichness": 0.923,
+  "avgWordsPerLine": 3.25,
+  "wordsPerLineDistribution": [
+    4,
+    4,
+    3,
+    3,
+    3,
+    3,
+    3,
+    2,
+    3,
+    3,
+    4,
+    4
+  ],
+  "wordFrequencies": [
+    [
+      "matka",
+      2
+    ],
+    [
+      "noc",
+      2
+    ],
+    [
+      "czeka",
+      1
+    ],
+    [
+      "syna",
+      1
+    ],
+    [
+      "ruchoma",
+      1
+    ],
+    [
+      "biali",
+      1
+    ],
+    [
+      "posnęli",
+      1
+    ],
+    [
+      "pokotem",
+      1
+    ],
+    [
+      "językiem",
+      1
+    ],
+    [
+      "widzi",
+      1
+    ],
+    [
+      "murzynów",
+      1
+    ],
+    [
+      "ledwie",
+      1
+    ],
+    [
+      "gestem",
+      1
+    ],
+    [
+      "poprosi",
+      1
+    ],
+    [
+      "odwrócili",
+      1
+    ],
+    [
+      "potrzeba",
+      1
+    ],
+    [
+      "murzyni",
+      1
+    ],
+    [
+      "widzą",
+      1
+    ],
+    [
+      "matkę",
+      1
+    ],
+    [
+      "pilnują",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 0,
+    "period": 0,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 0,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 0,
+  "negationWords": [],
+  "pronounDistribution": {
+    "ja": 0,
+    "ty": 0,
+    "on_ona": 2,
+    "my": 0,
+    "wy": 0,
+    "oni": 1
+  },
+  "semanticFields": {
+    "cialo": 0,
+    "smierc": 0,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 2,
+    "bol": 0
+  },
+  "anaphors": [
+    [
+      "matka",
+      2
+    ]
+  ],
+  "firstWord": "matka",
+  "lastWord": "języku",
+  "avgWordLength": 4.9,
+  "wordLengthDistribution": {
+    "4-5": 12,
+    "1-3": 12,
+    "6-7": 11,
+    "8-9": 4
+  },
+  "bigrams": [
+    [
+      "matka czeka",
+      1
+    ],
+    [
+      "noc ruchoma",
+      1
+    ],
+    [
+      "biali posnęli",
+      1
+    ],
+    [
+      "posnęli pokotem",
+      1
+    ],
+    [
+      "językiem matka",
+      1
+    ],
+    [
+      "matka widzi",
+      1
+    ]
+  ],
+  "poemWords": [
+    "matka",
+    "czeka",
+    "syna",
+    "noc",
+    "ruchoma",
+    "biali",
+    "posnęli",
+    "pokotem",
+    "językiem",
+    "widzi",
+    "murzynów",
+    "ledwie",
+    "gestem",
+    "poprosi",
+    "odwrócili",
+    "potrzeba",
+    "murzyni",
+    "widzą",
+    "matkę",
+    "pilnują",
+    "brzucha",
+    "mówi",
+    "nich",
+    "własnym",
+    "języku"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 12,
+        "VERB": 9,
+        "ADJ": 5,
+        "ADV": 1,
+        "PRON": 4,
+        "ADP": 4,
+        "CCONJ": 2,
+        "SCONJ": 2,
+        "INTJ": 0,
+        "PART": 0,
+        "DET": 0,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.293,
+        "VERB": 0.22,
+        "ADJ": 0.122,
+        "ADV": 0.024,
+        "PRON": 0.098,
+        "ADP": 0.098,
+        "CCONJ": 0.049,
+        "SCONJ": 0.049,
+        "INTJ": 0,
+        "PART": 0,
+        "DET": 0,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 3,
+        "abstract": 0,
+        "ratio": 1
+      },
+      "verbTenses": {
+        "present": 7,
+        "past": 2,
+        "future": 1
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 2,
+        "stan": 2,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 1,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 0,
+        "opisowe": 5
+      },
+      "adverbs": {
+        "temporalne": [],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "kiedy",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 0,
+        "ty": 0,
+        "on_ona": 1,
+        "my": 0,
+        "wy": 0,
+        "oni": 2
+      },
+      "negations": {
+        "nie": 0,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 0,
+        "percentSentences": 0
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 86,
+        "consonants": 113,
+        "ratio": 0.76
+      },
+      "consonantClusters": {
+        "count": 3,
+        "top": [
+          {
+            "cluster": "dwr",
+            "count": 1
+          },
+          {
+            "cluster": "trz",
+            "count": 1
+          },
+          {
+            "cluster": "brz",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 5,
+        "syczace": 16,
+        "nosowe": 28,
+        "plynne": 14
+      },
+      "rhymes": {
+        "exact": 0,
+        "approximate": 1,
+        "internal": 0,
+        "assonance": 0,
+        "alliteration": 0
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 6.8,
+        "median": 6,
+        "min": 2,
+        "max": 13,
+        "distribution": [
+          0,
+          0,
+          1,
+          0,
+          2,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 3.2,
+        "meanSyllables": 6.7,
+        "distribution": [
+          0,
+          0,
+          2,
+          7,
+          4
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 6,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 2,
+        "noSubject": 0,
+        "noPredicate": 0,
+        "percent": 0.33
+      },
+      "enjambement": {
+        "count": 3,
+        "percent": 0.25,
+        "positions": [
+          2,
+          3,
+          8
+        ]
+      },
+      "wordOrder": {
+        "svo": 2,
+        "inversions": 2,
+        "other": 2,
+        "deviationPercent": 0.67
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 1,
+        "śmierć": 0,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 2,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 87,
+      "estimatedSeconds": 29,
+      "tempoCategory": "umiarkowane"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 12,
+      "VERB": 9,
+      "ADJ": 5,
+      "ADV": 1,
+      "PRON": 4,
+      "ADP": 4,
+      "CCONJ": 2,
+      "SCONJ": 2,
+      "INTJ": 0,
+      "PART": 0,
+      "DET": 0,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.293,
+      "VERB": 0.22,
+      "ADJ": 0.122,
+      "ADV": 0.024,
+      "PRON": 0.098,
+      "ADP": 0.098,
+      "CCONJ": 0.049,
+      "SCONJ": 0.049,
+      "INTJ": 0,
+      "PART": 0,
+      "DET": 0,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 3,
+      "abstract": 0,
+      "ratio": 1
+    },
+    "verbTenses": {
+      "present": 7,
+      "past": 2,
+      "future": 1
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 2,
+      "stan": 2,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 1,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 0,
+      "opisowe": 5
+    },
+    "adverbs": {
+      "temporalne": [],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "kiedy",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 0,
+      "ty": 0,
+      "on_ona": 1,
+      "my": 0,
+      "wy": 0,
+      "oni": 2
+    },
+    "negations": {
+      "nie": 0,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 0,
+      "percentSentences": 0
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 6.8,
+      "median": 6,
+      "min": 2,
+      "max": 13,
+      "distribution": [
+        0,
+        0,
+        1,
+        0,
+        2,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 3.2,
+      "meanSyllables": 6.7,
+      "distribution": [
+        0,
+        0,
+        2,
+        7,
+        4
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 6,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 2,
+      "noSubject": 0,
+      "noPredicate": 0,
+      "percent": 0.33
+    },
+    "enjambement": {
+      "count": 3,
+      "percent": 0.25,
+      "positions": [
+        2,
+        3,
+        8
+      ]
+    },
+    "wordOrder": {
+      "svo": 2,
+      "inversions": 2,
+      "other": 2,
+      "deviationPercent": 0.67
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 86,
+      "consonants": 113,
+      "ratio": 0.76
+    },
+    "consonantClusters": {
+      "count": 3,
+      "top": [
+        {
+          "cluster": "dwr",
+          "count": 1
+        },
+        {
+          "cluster": "trz",
+          "count": 1
+        },
+        {
+          "cluster": "brz",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 5,
+      "syczace": 16,
+      "nosowe": 28,
+      "plynne": 14
+    },
+    "rhymes": {
+      "exact": 0,
+      "approximate": 1,
+      "internal": 0,
+      "assonance": 0,
+      "alliteration": 0
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        13
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 87,
+      "estimatedSeconds": 29,
+      "tempoCategory": "umiarkowane"
+    },
+    "regularity": {
+      "type": "regularny",
+      "regularityScore": 0.85
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "inne",
+          "reference": "ekloga (gatunek pasterski Wergiliusza)",
+          "evidence": "tytuł 'EKLOGA II' nawiązuje do klasycznego gatunku bukolicznego"
+        },
+        {
+          "source": "Biblia",
+          "reference": "oczekiwanie na przyjście syna",
+          "evidence": "motyw matki czekającej na syna może nawiązywać do biblijnych wątków oczekiwania"
+        },
+        {
+          "source": "mitologia",
+          "reference": "archetyp Wielkiej Matki",
+          "evidence": "obraz matki pilnowanej przez innych, centralna pozycja kobiety rodzicielki"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.7,
+        "baudelaire": 0.4,
+        "bursa": 0.2,
+        "stachura": 0.3,
+        "grochowiak": 0.1,
+        "bialoszewski": 0.2,
+        "rozewicz": 0.3
+      }
+    },
+    "space": {
+      "type": "nieokreslona",
+      "evidence": "brak konkretnych wyznaczników przestrzennych, wizyjny charakter obrazów",
+      "openClosedRatio": 0.6
+    },
+    "timeOfDay": {
+      "period": "noc",
+      "season": "nieokreslona",
+      "evidence": "bezpośrednie wskazanie 'I jest noc ruchoma'"
+    },
+    "motion": {
+      "movement": 6,
+      "stillness": 4,
+      "dynamism": 0.6,
+      "evidence": "noc ruchoma, Murzyni się odwracają, pilnują, noc mówi - dynamika kontrastuje ze statycznym czekaniem"
+    },
+    "imageryDensity": {
+      "metaphors": 4,
+      "comparisons": 0,
+      "personifications": 2,
+      "hyperboles": 0,
+      "per100words": 12
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.3,
+      "creationLevel": 0.8,
+      "ironicDistance": 0.2,
+      "autobiographicSignals": [
+        "wizyjny, symboliczny charakter obrazów",
+        "oniryczna atmosfera"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "tęsknota",
+      "secondary": "melancholia",
+      "intensity": 0.7
+    },
+    "subjectPresence": {
+      "type": "ukryte",
+      "evidence": "Narrator obserwuje scenę z dystansu, opisując matkę w trzeciej osobie"
+    },
+    "addressee": {
+      "type": "czytelnik",
+      "evidence": "Wiersz ma charakter opowieści skierowanej do odbiorcy, bez bezpośrednich zwrotów"
+    },
+    "metaphors": [
+      {
+        "source": "noc",
+        "target": "stan psychiczny",
+        "example": "noc ruchoma"
+      },
+      {
+        "source": "biali posnęli pokotem pod językiem",
+        "target": "stłumione słowa/niewypowiedziane myśli",
+        "example": "biali posnęli / Pokotem pod językiem"
+      },
+      {
+        "source": "Murzyni pilnują brzucha",
+        "target": "obcy strażnicy życia/płodności",
+        "example": "Murzyni widzą matkę / Pilnują jej brzucha"
+      }
+    ],
+    "temperature": {
+      "value": 0.3,
+      "label": "chłodne oczekiwanie"
+    },
+    "senses": {
+      "wzrok": 4,
+      "sluch": 2,
+      "dotyk": 1,
+      "smak": 0,
+      "zapach": 0
+    },
+    "autodestruction": {
+      "level": 0.2,
+      "signals": [
+        "poczucie obcości",
+        "niemożność komunikacji"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 0.827,
+    "dfaAlpha": 2.931,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -2.1383330595080254
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -1.2951335827229131
+      }
+    ],
+    "seriesLength": 12,
+    "series": [
+      4,
+      4,
+      3,
+      3,
+      3,
+      3,
+      3,
+      2,
+      3,
+      3,
+      4,
+      4
+    ]
+  }
+}

@@ -1,0 +1,908 @@
+{
+  "id": "apokryf",
+  "title": "Apokryf",
+  "wordCount": 72,
+  "lineCount": 12,
+  "uniqueWords": 61,
+  "vocabularyRichness": 0.847,
+  "avgWordsPerLine": 6,
+  "wordsPerLineDistribution": [
+    5,
+    6,
+    5,
+    6,
+    7,
+    7,
+    5,
+    4,
+    8,
+    7,
+    7,
+    5
+  ],
+  "wordFrequencies": [
+    [
+      "głów",
+      2
+    ],
+    [
+      "panny",
+      2
+    ],
+    [
+      "snu",
+      1
+    ],
+    [
+      "stara",
+      1
+    ],
+    [
+      "szlachta",
+      1
+    ],
+    [
+      "kołpaki",
+      1
+    ],
+    [
+      "turbanów",
+      1
+    ],
+    [
+      "zwiniętych",
+      1
+    ],
+    [
+      "wokół",
+      1
+    ],
+    [
+      "idących",
+      1
+    ],
+    [
+      "rany",
+      1
+    ],
+    [
+      "łona",
+      1
+    ],
+    [
+      "matki",
+      1
+    ],
+    [
+      "nietkniętego",
+      1
+    ],
+    [
+      "czołgających",
+      1
+    ],
+    [
+      "storę",
+      1
+    ],
+    [
+      "bramy",
+      1
+    ],
+    [
+      "zmrużonej",
+      1
+    ],
+    [
+      "hymen",
+      1
+    ],
+    [
+      "włosy",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 3,
+    "period": 2,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 1,
+    "colon": 4,
+    "semicolon": 2
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 2,
+  "negationWords": [
+    "nie"
+  ],
+  "pronounDistribution": {
+    "ja": 0,
+    "ty": 0,
+    "on_ona": 0,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 3,
+    "smierc": 1,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 1,
+    "bol": 0
+  },
+  "anaphors": [],
+  "firstWord": "snu",
+  "lastWord": "kobieta",
+  "avgWordLength": 5.17,
+  "wordLengthDistribution": {
+    "1-3": 21,
+    "4-5": 27,
+    "8-9": 8,
+    "6-7": 8,
+    "10+": 8
+  },
+  "bigrams": [
+    [
+      "snu stara",
+      1
+    ],
+    [
+      "stara szlachta",
+      1
+    ],
+    [
+      "szlachta kołpaki",
+      1
+    ],
+    [
+      "kołpaki turbanów",
+      1
+    ],
+    [
+      "turbanów zwiniętych",
+      1
+    ],
+    [
+      "zwiniętych wokół",
+      1
+    ],
+    [
+      "wokół głów",
+      1
+    ],
+    [
+      "głów idących",
+      1
+    ],
+    [
+      "rany łona",
+      1
+    ],
+    [
+      "łona swej",
+      1
+    ],
+    [
+      "swej matki",
+      1
+    ],
+    [
+      "matki nietkniętego",
+      1
+    ],
+    [
+      "nietkniętego panny",
+      1
+    ]
+  ],
+  "poemWords": [
+    "snu",
+    "stara",
+    "szlachta",
+    "kołpaki",
+    "turbanów",
+    "zwiniętych",
+    "wokół",
+    "głów",
+    "idących",
+    "rany",
+    "łona",
+    "matki",
+    "nietkniętego",
+    "panny",
+    "czołgających",
+    "storę",
+    "bramy",
+    "zmrużonej",
+    "hymen",
+    "włosy",
+    "skórę",
+    "oczy",
+    "uszy",
+    "zapłodnionej",
+    "chmurą",
+    "niebieskiej",
+    "spermy",
+    "dwudziestu",
+    "chłopców",
+    "ociekających",
+    "nagością",
+    "kość",
+    "czemu",
+    "turbanach",
+    "głową",
+    "gołą",
+    "sen",
+    "zdziwienia",
+    "spocił",
+    "nasieniem",
+    "pościel",
+    "którą",
+    "ziemia",
+    "spadająca",
+    "nieba",
+    "kobieta"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 29,
+        "VERB": 1,
+        "ADJ": 10,
+        "ADV": 1,
+        "PRON": 2,
+        "ADP": 12,
+        "CCONJ": 3,
+        "SCONJ": 3,
+        "INTJ": 0,
+        "PART": 4,
+        "DET": 2,
+        "NUM": 1
+      },
+      "posPercent": {
+        "NOUN": 0.397,
+        "VERB": 0.014,
+        "ADJ": 0.137,
+        "ADV": 0.014,
+        "PRON": 0.027,
+        "ADP": 0.164,
+        "CCONJ": 0.041,
+        "SCONJ": 0.041,
+        "INTJ": 0,
+        "PART": 0.055,
+        "DET": 0.027,
+        "NUM": 0.014
+      },
+      "nounConcreteAbstract": {
+        "concrete": 3,
+        "abstract": 1,
+        "ratio": 0.75
+      },
+      "verbTenses": {
+        "past": 1,
+        "present": 1
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 1,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 0,
+        "opisowe": 10
+      },
+      "adverbs": {
+        "temporalne": [],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "czemu",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 0,
+        "ty": 0,
+        "on_ona": 0,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 2,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 2,
+        "percentSentences": 1
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 158,
+        "consonants": 221,
+        "ratio": 0.71
+      },
+      "consonantClusters": {
+        "count": 7,
+        "top": [
+          {
+            "cluster": "szl",
+            "count": 1
+          },
+          {
+            "cluster": "cht",
+            "count": 1
+          },
+          {
+            "cluster": "tkn",
+            "count": 1
+          },
+          {
+            "cluster": "zmr",
+            "count": 1
+          },
+          {
+            "cluster": "chm",
+            "count": 1
+          },
+          {
+            "cluster": "chł",
+            "count": 1
+          },
+          {
+            "cluster": "zdz",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 8,
+        "syczace": 46,
+        "nosowe": 50,
+        "plynne": 28
+      },
+      "rhymes": {
+        "exact": 0,
+        "approximate": 1,
+        "internal": 1,
+        "assonance": 0,
+        "alliteration": 0
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 36.5,
+        "median": 36,
+        "min": 27,
+        "max": 46,
+        "distribution": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 5.7,
+        "meanSyllables": 12.8,
+        "distribution": [
+          0,
+          1,
+          0,
+          0,
+          1,
+          4,
+          1,
+          5,
+          1
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 2,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 1,
+        "noSubject": 0,
+        "noPredicate": 0,
+        "percent": 0.5
+      },
+      "enjambement": {
+        "count": 1,
+        "percent": 0.08,
+        "positions": [
+          12
+        ]
+      },
+      "wordOrder": {
+        "svo": 1,
+        "inversions": 0,
+        "other": 1,
+        "deviationPercent": 0.5
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 4,
+        "śmierć": 1,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 1,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 167,
+      "estimatedSeconds": 56,
+      "tempoCategory": "wolne"
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Biblia",
+          "reference": "Apokryfy - księgi niekanoniczne",
+          "evidence": "tytuł 'APOKRYF'"
+        },
+        {
+          "source": "mitologia",
+          "reference": "Hymen - bóg małżeństwa w mitologii greckiej",
+          "evidence": "'Zmrużonej hymen'"
+        },
+        {
+          "source": "Biblia",
+          "reference": "Niepokalane poczęcie",
+          "evidence": "'łona swej matki nietkniętego: panny'"
+        },
+        {
+          "source": "Biblia",
+          "reference": "Zwiastowanie",
+          "evidence": "'zapłodnionej chmurą / Niebieskiej spermy'"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.8,
+        "baudelaire": 0.6,
+        "bursa": 0.2,
+        "stachura": 0.4,
+        "grochowiak": 0.3,
+        "bialoszewski": 0.1,
+        "rozewicz": 0.2
+      }
+    },
+    "space": {
+      "type": "nieokreslona",
+      "evidence": "przestrzeń oniryczna, surrealistyczna - 'sen', 'spadająca do nieba kobieta'",
+      "openClosedRatio": 0.3
+    },
+    "timeOfDay": {
+      "period": "noc",
+      "season": "nieokreslona",
+      "evidence": "'Snu stara szlachta' - czas snu, nocny"
+    },
+    "motion": {
+      "movement": 8,
+      "stillness": 2,
+      "dynamism": 0.8,
+      "evidence": "'idących', 'czołgających się', 'Ociekających', 'spadająca' - intensywny ruch"
+    },
+    "imageryDensity": {
+      "metaphors": 8,
+      "comparisons": 2,
+      "personifications": 3,
+      "hyperboles": 4,
+      "per100words": 28.3
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.3,
+      "creationLevel": 0.9,
+      "ironicDistance": 0.7,
+      "autobiographicSignals": [
+        "sen",
+        "oniryczny charakter wizji"
+      ]
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 29,
+      "VERB": 1,
+      "ADJ": 10,
+      "ADV": 1,
+      "PRON": 2,
+      "ADP": 12,
+      "CCONJ": 3,
+      "SCONJ": 3,
+      "INTJ": 0,
+      "PART": 4,
+      "DET": 2,
+      "NUM": 1
+    },
+    "posPercent": {
+      "NOUN": 0.397,
+      "VERB": 0.014,
+      "ADJ": 0.137,
+      "ADV": 0.014,
+      "PRON": 0.027,
+      "ADP": 0.164,
+      "CCONJ": 0.041,
+      "SCONJ": 0.041,
+      "INTJ": 0,
+      "PART": 0.055,
+      "DET": 0.027,
+      "NUM": 0.014
+    },
+    "nounConcreteAbstract": {
+      "concrete": 3,
+      "abstract": 1,
+      "ratio": 0.75
+    },
+    "verbTenses": {
+      "past": 1,
+      "present": 1
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 1,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 0,
+      "opisowe": 10
+    },
+    "adverbs": {
+      "temporalne": [],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "czemu",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 0,
+      "ty": 0,
+      "on_ona": 0,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 2,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 2,
+      "percentSentences": 1
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 36.5,
+      "median": 36,
+      "min": 27,
+      "max": 46,
+      "distribution": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 5.7,
+      "meanSyllables": 12.8,
+      "distribution": [
+        0,
+        1,
+        0,
+        0,
+        1,
+        4,
+        1,
+        5,
+        1
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 2,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 1,
+      "noSubject": 0,
+      "noPredicate": 0,
+      "percent": 0.5
+    },
+    "enjambement": {
+      "count": 1,
+      "percent": 0.08,
+      "positions": [
+        12
+      ]
+    },
+    "wordOrder": {
+      "svo": 1,
+      "inversions": 0,
+      "other": 1,
+      "deviationPercent": 0.5
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 158,
+      "consonants": 221,
+      "ratio": 0.71
+    },
+    "consonantClusters": {
+      "count": 7,
+      "top": [
+        {
+          "cluster": "szl",
+          "count": 1
+        },
+        {
+          "cluster": "cht",
+          "count": 1
+        },
+        {
+          "cluster": "tkn",
+          "count": 1
+        },
+        {
+          "cluster": "zmr",
+          "count": 1
+        },
+        {
+          "cluster": "chm",
+          "count": 1
+        },
+        {
+          "cluster": "chł",
+          "count": 1
+        },
+        {
+          "cluster": "zdz",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 8,
+      "syczace": 46,
+      "nosowe": 50,
+      "plynne": 28
+    },
+    "rhymes": {
+      "exact": 0,
+      "approximate": 1,
+      "internal": 1,
+      "assonance": 0,
+      "alliteration": 0
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        13
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 167,
+      "estimatedSeconds": 56,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "regularny",
+      "regularityScore": 0.74
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "euforia",
+      "secondary": "obrzydzenie",
+      "intensity": 0.8
+    },
+    "subjectPresence": {
+      "type": "ukryte",
+      "evidence": "podmiot jest niewidoczny, ale obecny w pytaniu 'czemu w turbanach nie z głową gołą' oraz w obserwacji snu"
+    },
+    "addressee": {
+      "type": "nikt",
+      "evidence": "wiersz ma charakter wizyjny, apokaliptyczny, nie ma bezpośredniego zwrotu do konkretnego adresata"
+    },
+    "metaphors": [
+      {
+        "source": "turban",
+        "target": "kołpak",
+        "example": "kołpaki turbanów"
+      },
+      {
+        "source": "chmura",
+        "target": "sperma",
+        "example": "zapłodnionej chmurą niebieskiej spermy"
+      },
+      {
+        "source": "ziemia",
+        "target": "pościel",
+        "example": "pościel, którą nie jest Ziemia"
+      },
+      {
+        "source": "kobieta",
+        "target": "spadający obiekt",
+        "example": "spadająca do nieba kobieta"
+      }
+    ],
+    "temperature": {
+      "value": 0.9,
+      "label": "gorące - intensywna erotyka mieszana z religijną ekstazą"
+    },
+    "senses": {
+      "wzrok": 5,
+      "sluch": 1,
+      "dotyk": 4,
+      "smak": 2,
+      "zapach": 1
+    },
+    "autodestruction": {
+      "level": 0.7,
+      "signals": [
+        "obrazoburcze łączenie sacrum z seksualną obscenicznością",
+        "destrukcja tradycyjnych wyobrażeń religijnych",
+        "obsesyjna wizyjność granicząca z patologią"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 1.605,
+    "dfaAlpha": 0.737,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -0.8855700910126587
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -0.67359497699606
+      }
+    ],
+    "seriesLength": 12,
+    "series": [
+      5,
+      6,
+      5,
+      6,
+      7,
+      7,
+      5,
+      4,
+      8,
+      7,
+      7,
+      5
+    ]
+  }
+}

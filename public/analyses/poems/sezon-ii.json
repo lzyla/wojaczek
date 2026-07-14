@@ -1,0 +1,817 @@
+{
+  "id": "sezon-ii",
+  "title": "Sezon II",
+  "wordCount": 56,
+  "lineCount": 13,
+  "uniqueWords": 45,
+  "vocabularyRichness": 0.804,
+  "avgWordsPerLine": 4.31,
+  "wordsPerLineDistribution": [
+    4,
+    1,
+    4,
+    4,
+    5,
+    5,
+    4,
+    4,
+    4,
+    6,
+    4,
+    6,
+    5
+  ],
+  "wordFrequencies": [
+    [
+      "zza",
+      2
+    ],
+    [
+      "węgła",
+      2
+    ],
+    [
+      "wyskoczył",
+      2
+    ],
+    [
+      "głowę",
+      2
+    ],
+    [
+      "sezon",
+      1
+    ],
+    [
+      "pełny",
+      1
+    ],
+    [
+      "niespodzianek",
+      1
+    ],
+    [
+      "pomyłka",
+      1
+    ],
+    [
+      "gdzieś",
+      1
+    ],
+    [
+      "kącie",
+      1
+    ],
+    [
+      "znaleziono",
+      1
+    ],
+    [
+      "zwłoki",
+      1
+    ],
+    [
+      "dobra",
+      1
+    ],
+    [
+      "śmierć",
+      1
+    ],
+    [
+      "porannym",
+      1
+    ],
+    [
+      "zamiataniu",
+      1
+    ],
+    [
+      "ulic",
+      1
+    ],
+    [
+      "wiele",
+      1
+    ],
+    [
+      "nauczyć",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 1,
+    "period": 0,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 0,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 4,
+  "negationWords": [
+    "nic",
+    "nie",
+    "nigdy"
+  ],
+  "pronounDistribution": {
+    "ja": 0,
+    "ty": 0,
+    "on_ona": 0,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 0,
+    "smierc": 1,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [],
+  "firstWord": "sezon",
+  "lastWord": "pomylił",
+  "avgWordLength": 4.86,
+  "wordLengthDistribution": {
+    "4-5": 22,
+    "1-3": 18,
+    "10+": 3,
+    "8-9": 3,
+    "6-7": 10
+  },
+  "bigrams": [
+    [
+      "zza węgła",
+      2
+    ],
+    [
+      "węgła wyskoczył",
+      2
+    ],
+    [
+      "sezon tu",
+      1
+    ],
+    [
+      "pełny niespodzianek",
+      1
+    ],
+    [
+      "niespodzianek zza",
+      1
+    ],
+    [
+      "pomyłka gdzieś",
+      1
+    ]
+  ],
+  "poemWords": [
+    "sezon",
+    "pełny",
+    "niespodzianek",
+    "zza",
+    "węgła",
+    "wyskoczył",
+    "pomyłka",
+    "gdzieś",
+    "kącie",
+    "znaleziono",
+    "zwłoki",
+    "dobra",
+    "śmierć",
+    "porannym",
+    "zamiataniu",
+    "ulic",
+    "wiele",
+    "nauczyć",
+    "nic",
+    "wiadomo",
+    "koń",
+    "kopnął",
+    "woźnicę",
+    "głowę",
+    "woźnica",
+    "miał",
+    "mocną",
+    "znowu",
+    "razem",
+    "pomylił"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 16,
+        "VERB": 9,
+        "ADJ": 6,
+        "ADV": 5,
+        "PRON": 5,
+        "ADP": 5,
+        "CCONJ": 3,
+        "SCONJ": 0,
+        "INTJ": 0,
+        "PART": 3,
+        "DET": 1,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.276,
+        "VERB": 0.155,
+        "ADJ": 0.103,
+        "ADV": 0.086,
+        "PRON": 0.086,
+        "ADP": 0.086,
+        "CCONJ": 0.052,
+        "SCONJ": 0,
+        "INTJ": 0,
+        "PART": 0.052,
+        "DET": 0.017,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 3,
+        "abstract": 1,
+        "ratio": 0.75
+      },
+      "verbTenses": {
+        "present": 5,
+        "past": 8,
+        "infinitive": 1
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 3,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 1,
+        "opisowe": 5
+      },
+      "adverbs": {
+        "temporalne": [
+          "nigdy"
+        ],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "tu",
+            "count": 1
+          },
+          {
+            "word": "gdzieś",
+            "count": 1
+          },
+          {
+            "word": "tak",
+            "count": 1
+          },
+          {
+            "word": "wiele",
+            "count": 1
+          },
+          {
+            "word": "nigdy",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 0,
+        "ty": 0,
+        "on_ona": 0,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 2,
+        "nic": 1,
+        "nikt": 0,
+        "nigdy": 1,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 4,
+        "percentSentences": 1
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 121,
+        "consonants": 158,
+        "ratio": 0.77
+      },
+      "consonantClusters": {
+        "count": 3,
+        "top": [
+          {
+            "cluster": "gdz",
+            "count": 1
+          },
+          {
+            "cluster": "zwł",
+            "count": 1
+          },
+          {
+            "cluster": "prz",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 5,
+        "syczace": 34,
+        "nosowe": 43,
+        "plynne": 25
+      },
+      "rhymes": {
+        "exact": 0,
+        "approximate": 0,
+        "internal": 0,
+        "assonance": 0,
+        "alliteration": 1
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 14.5,
+        "median": 16,
+        "min": 1,
+        "max": 25,
+        "distribution": [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 4.1,
+        "meanSyllables": 8.8,
+        "distribution": [
+          0,
+          1,
+          1,
+          0,
+          7,
+          3,
+          2
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 4,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 1,
+        "noSubject": 1,
+        "noPredicate": 0,
+        "percent": 0.5
+      },
+      "enjambement": {
+        "count": 7,
+        "percent": 0.54,
+        "positions": [
+          2,
+          4,
+          6,
+          8,
+          11,
+          12,
+          13
+        ]
+      },
+      "wordOrder": {
+        "svo": 1,
+        "inversions": 1,
+        "other": 1,
+        "deviationPercent": 0.67
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 1,
+        "śmierć": 1,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 123,
+      "estimatedSeconds": 41,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 16,
+      "VERB": 9,
+      "ADJ": 6,
+      "ADV": 5,
+      "PRON": 5,
+      "ADP": 5,
+      "CCONJ": 3,
+      "SCONJ": 0,
+      "INTJ": 0,
+      "PART": 3,
+      "DET": 1,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.276,
+      "VERB": 0.155,
+      "ADJ": 0.103,
+      "ADV": 0.086,
+      "PRON": 0.086,
+      "ADP": 0.086,
+      "CCONJ": 0.052,
+      "SCONJ": 0,
+      "INTJ": 0,
+      "PART": 0.052,
+      "DET": 0.017,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 3,
+      "abstract": 1,
+      "ratio": 0.75
+    },
+    "verbTenses": {
+      "present": 5,
+      "past": 8,
+      "infinitive": 1
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 3,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 1,
+      "opisowe": 5
+    },
+    "adverbs": {
+      "temporalne": [
+        "nigdy"
+      ],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "tu",
+          "count": 1
+        },
+        {
+          "word": "gdzieś",
+          "count": 1
+        },
+        {
+          "word": "tak",
+          "count": 1
+        },
+        {
+          "word": "wiele",
+          "count": 1
+        },
+        {
+          "word": "nigdy",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 0,
+      "ty": 0,
+      "on_ona": 0,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 2,
+      "nic": 1,
+      "nikt": 0,
+      "nigdy": 1,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 4,
+      "percentSentences": 1
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 14.5,
+      "median": 16,
+      "min": 1,
+      "max": 25,
+      "distribution": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 4.1,
+      "meanSyllables": 8.8,
+      "distribution": [
+        0,
+        1,
+        1,
+        0,
+        7,
+        3,
+        2
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 4,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 1,
+      "noSubject": 1,
+      "noPredicate": 0,
+      "percent": 0.5
+    },
+    "enjambement": {
+      "count": 7,
+      "percent": 0.54,
+      "positions": [
+        2,
+        4,
+        6,
+        8,
+        11,
+        12,
+        13
+      ]
+    },
+    "wordOrder": {
+      "svo": 1,
+      "inversions": 1,
+      "other": 1,
+      "deviationPercent": 0.67
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 121,
+      "consonants": 158,
+      "ratio": 0.77
+    },
+    "consonantClusters": {
+      "count": 3,
+      "top": [
+        {
+          "cluster": "gdz",
+          "count": 1
+        },
+        {
+          "cluster": "zwł",
+          "count": 1
+        },
+        {
+          "cluster": "prz",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 5,
+      "syczace": 34,
+      "nosowe": 43,
+      "plynne": 25
+    },
+    "rhymes": {
+      "exact": 0,
+      "approximate": 0,
+      "internal": 0,
+      "assonance": 0,
+      "alliteration": 1
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        14
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 123,
+      "estimatedSeconds": 41,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "regularny",
+      "regularityScore": 0.72
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "inne",
+          "reference": "teatr absurdu",
+          "evidence": "tytuł 'SEZON II' i struktura przypominająca scenki teatralne"
+        },
+        {
+          "source": "Różewicz",
+          "reference": "poezja sytuacji",
+          "evidence": "lakoniczne przedstawienie codziennych scen z elementami absurdu"
+        }
+      ],
+      "selfQuotes": [
+        "zza węgła wyskoczył"
+      ],
+      "influences": {
+        "rimbaud": 0.2,
+        "baudelaire": 0.1,
+        "bursa": 0.3,
+        "stachura": 0.4,
+        "grochowiak": 0.6,
+        "bialoszewski": 0.7,
+        "rozewicz": 0.8
+      }
+    },
+    "space": {
+      "type": "otwarta",
+      "evidence": "ulice, węgły, kąty - przestrzeń miejska, zewnętrzna",
+      "openClosedRatio": 0.8
+    },
+    "timeOfDay": {
+      "period": "rano",
+      "season": "nieokreslona",
+      "evidence": "przy porannym zamiataniu ulic"
+    },
+    "motion": {
+      "movement": 8,
+      "stillness": 2,
+      "dynamism": 0.8,
+      "evidence": "wyskoczył, kopnął, zamiatanie - ciągły ruch i akcja"
+    },
+    "imageryDensity": {
+      "metaphors": 1,
+      "comparisons": 0,
+      "personifications": 0,
+      "hyperboles": 0,
+      "per100words": 1.3
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.3,
+      "creationLevel": 0.8,
+      "ironicDistance": 0.7,
+      "autobiographicSignals": [
+        "obserwacja codzienności miejskiej"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "ironia",
+      "secondary": "melancholia",
+      "intensity": 0.7
+    },
+    "subjectPresence": {
+      "type": "ukryte",
+      "evidence": "Podmiot obecny w obserwacji i komentarzach, ale nie ujawnia się wprost - 'można się wiele nauczyć', 'Nigdy nic nie wiadomo'"
+    },
+    "addressee": {
+      "type": "czytelnik",
+      "evidence": "Wiersz ma charakter opowieści kierowanej do odbiorcy, bez bezpośrednich zwrotów"
+    },
+    "metaphors": [
+      {
+        "source": "teatr/film",
+        "target": "życie",
+        "example": "'Sezon tu jest pełny niespodzianek' - życie jako spektakl pełen zwrotów akcji"
+      },
+      {
+        "source": "gra/los",
+        "target": "śmierć",
+        "example": "'tym razem się nie pomylił' - śmierć jako celny strzał po wcześniejszej pomyłce"
+      }
+    ],
+    "temperature": {
+      "value": 0.3,
+      "label": "chłodna obserwacja"
+    },
+    "senses": {
+      "wzrok": 4,
+      "sluch": 1,
+      "dotyk": 2,
+      "smak": 0,
+      "zapach": 0
+    },
+    "autodestrukcja": {
+      "level": 0.4,
+      "signals": [
+        "fascynacja śmiercią",
+        "ironiczny dystans do przemocy",
+        "pesymistyczna wizja rzeczywistości jako nieprzewidywalnej gry"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 1.392,
+    "dfaAlpha": 1.936,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -1.2220423276338719
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -0.6651049254228273
+      }
+    ],
+    "seriesLength": 13,
+    "series": [
+      4,
+      1,
+      4,
+      4,
+      5,
+      5,
+      4,
+      4,
+      4,
+      6,
+      4,
+      6,
+      5
+    ]
+  }
+}

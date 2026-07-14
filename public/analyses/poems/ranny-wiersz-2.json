@@ -1,0 +1,1084 @@
+{
+  "id": "ranny-wiersz-2",
+  "title": "Ranny wiersz",
+  "wordCount": 178,
+  "lineCount": 28,
+  "uniqueWords": 147,
+  "vocabularyRichness": 0.826,
+  "avgWordsPerLine": 6.36,
+  "wordsPerLineDistribution": [
+    6,
+    6,
+    7,
+    7,
+    8,
+    7,
+    6,
+    6,
+    5,
+    3,
+    3,
+    4,
+    5,
+    9,
+    6,
+    6,
+    7,
+    7,
+    3,
+    10,
+    8,
+    5,
+    8,
+    7,
+    9,
+    6,
+    8,
+    6
+  ],
+  "wordFrequencies": [
+    [
+      "wyję",
+      3
+    ],
+    [
+      "miarę",
+      2
+    ],
+    [
+      "częściej",
+      2
+    ],
+    [
+      "mając",
+      2
+    ],
+    [
+      "odbywając",
+      1
+    ],
+    [
+      "stosunki",
+      1
+    ],
+    [
+      "płciowe",
+      1
+    ],
+    [
+      "regularnie",
+      1
+    ],
+    [
+      "powiedziałbym",
+      1
+    ],
+    [
+      "niźli",
+      1
+    ],
+    [
+      "jakiejś",
+      1
+    ],
+    [
+      "ustanowionej",
+      1
+    ],
+    [
+      "zresztą",
+      1
+    ],
+    [
+      "regule",
+      1
+    ],
+    [
+      "dodatku",
+      1
+    ],
+    [
+      "ilomaż",
+      1
+    ],
+    [
+      "sposobami",
+      1
+    ],
+    [
+      "robię",
+      1
+    ],
+    [
+      "wspomnienie",
+      1
+    ],
+    [
+      "zarazem",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 12,
+    "period": 0,
+    "question": 1,
+    "exclamation": 2,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 0,
+    "semicolon": 0
+  },
+  "questionCount": 1,
+  "exclamationCount": 2,
+  "negationCount": 3,
+  "negationWords": [
+    "nie"
+  ],
+  "pronounDistribution": {
+    "ja": 5,
+    "ty": 1,
+    "on_ona": 0,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 1,
+    "smierc": 0,
+    "erotyka": 0,
+    "alkohol": 1,
+    "samotnosc": 1,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [
+    [
+      "nie",
+      2
+    ]
+  ],
+  "firstWord": "odbywając",
+  "lastWord": "żyję",
+  "avgWordLength": 5.31,
+  "wordLengthDistribution": {
+    "8-9": 22,
+    "6-7": 38,
+    "1-3": 55,
+    "4-5": 46,
+    "10+": 17
+  },
+  "bigrams": [
+    [
+      "odbywając stosunki",
+      1
+    ],
+    [
+      "stosunki płciowe",
+      1
+    ],
+    [
+      "miarę regularnie",
+      1
+    ],
+    [
+      "regularnie powiedziałbym",
+      1
+    ],
+    [
+      "powiedziałbym częściej",
+      1
+    ],
+    [
+      "częściej nawet",
+      1
+    ],
+    [
+      "nawet niźli",
+      1
+    ],
+    [
+      "ustanowionej zresztą",
+      1
+    ]
+  ],
+  "poemWords": [
+    "odbywając",
+    "stosunki",
+    "płciowe",
+    "miarę",
+    "regularnie",
+    "powiedziałbym",
+    "częściej",
+    "niźli",
+    "jakiejś",
+    "ustanowionej",
+    "zresztą",
+    "regule",
+    "dodatku",
+    "ilomaż",
+    "sposobami",
+    "robię",
+    "wspomnienie",
+    "zarazem",
+    "zapowiedź",
+    "ciągle",
+    "uszach",
+    "słyszę",
+    "głos",
+    "zobaczysz",
+    "jaki",
+    "odstawię",
+    "numer”",
+    "wódkę",
+    "pijąc",
+    "ponad",
+    "wszelką",
+    "będąc",
+    "rzec",
+    "zasłużonym",
+    "weteranem",
+    "pijackiego",
+    "szlaku",
+    "znając",
+    "trunek",
+    "wszelaki",
+    "doceniając",
+    "wodę",
+    "fryzjerską",
+    "brzozową",
+    "łopianową",
+    "spirytus",
+    "salicylowy",
+    "mówiąc",
+    "cichu",
+    "dobrze",
+    "robi",
+    "żołądek",
+    "mając",
+    "stwierdzenie",
+    "pana",
+    "przybosia",
+    "sztuka",
+    "wiersza",
+    "dźwignią",
+    "poezji",
+    "pilnie",
+    "pracując",
+    "doskonaleniem",
+    "sztuki",
+    "pisując",
+    "wiersze",
+    "dobre",
+    "niż",
+    "złe",
+    "porządnie",
+    "zbudowane",
+    "wyraziste",
+    "mogąc",
+    "założyć",
+    "kilka",
+    "nich",
+    "pięć",
+    "mierzyć",
+    "najlepszymi",
+    "czasie",
+    "jednakowoż",
+    "niezmiernie",
+    "smutny",
+    "bogu",
+    "smutno",
+    "powiedział",
+    "norwid",
+    "zachowywać",
+    "królewskie",
+    "milczenie",
+    "obliczu",
+    "niebios",
+    "szyby",
+    "dnieje",
+    "wyję",
+    "skopany",
+    "pies",
+    "dodatek",
+    "marnej",
+    "pewności",
+    "skoro",
+    "żyję"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 38,
+        "VERB": 28,
+        "ADJ": 18,
+        "ADV": 16,
+        "PRON": 11,
+        "ADP": 16,
+        "CCONJ": 5,
+        "SCONJ": 13,
+        "INTJ": 0,
+        "PART": 17,
+        "DET": 10,
+        "NUM": 1
+      },
+      "posPercent": {
+        "NOUN": 0.21,
+        "VERB": 0.155,
+        "ADJ": 0.099,
+        "ADV": 0.088,
+        "PRON": 0.061,
+        "ADP": 0.088,
+        "CCONJ": 0.028,
+        "SCONJ": 0.072,
+        "INTJ": 0,
+        "PART": 0.094,
+        "DET": 0.055,
+        "NUM": 0.006
+      },
+      "nounConcreteAbstract": {
+        "concrete": 2,
+        "abstract": 1,
+        "ratio": 0.67
+      },
+      "verbTenses": {
+        "present": 19,
+        "past": 2,
+        "future": 3,
+        "infinitive": 4,
+        "imperative": 2
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 1,
+        "stan": 4,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 1,
+        "cialo": 1
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 1,
+        "oceniajace": 3,
+        "opisowe": 14
+      },
+      "adverbs": {
+        "temporalne": [
+          "ciągle"
+        ],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "częściej",
+            "count": 2
+          },
+          {
+            "word": "tak",
+            "count": 2
+          },
+          {
+            "word": "regularnie",
+            "count": 1
+          },
+          {
+            "word": "gdy",
+            "count": 1
+          },
+          {
+            "word": "ciągle",
+            "count": 1
+          },
+          {
+            "word": "wszelaki",
+            "count": 1
+          },
+          {
+            "word": "dobrze",
+            "count": 1
+          },
+          {
+            "word": "pilnie",
+            "count": 1
+          },
+          {
+            "word": "porządnie",
+            "count": 1
+          },
+          {
+            "word": "jednakowoż",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 4,
+        "ty": 1,
+        "on_ona": 0,
+        "my": 0,
+        "wy": 0,
+        "oni": 1
+      },
+      "negations": {
+        "nie": 3,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 3,
+        "percentSentences": 0.27
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 405,
+        "consonants": 550,
+        "ratio": 0.74
+      },
+      "consonantClusters": {
+        "count": 24,
+        "top": [
+          {
+            "cluster": "rsz",
+            "count": 3
+          },
+          {
+            "cluster": "szt",
+            "count": 3
+          },
+          {
+            "cluster": "wsz",
+            "count": 2
+          },
+          {
+            "cluster": "brz",
+            "count": 2
+          },
+          {
+            "cluster": "prz",
+            "count": 2
+          },
+          {
+            "cluster": "płc",
+            "count": 1
+          },
+          {
+            "cluster": "wsp",
+            "count": 1
+          },
+          {
+            "cluster": "dst",
+            "count": 1
+          },
+          {
+            "cluster": "szl",
+            "count": 1
+          },
+          {
+            "cluster": "rsk",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 46,
+        "syczace": 95,
+        "nosowe": 121,
+        "plynne": 67
+      },
+      "rhymes": {
+        "exact": 0,
+        "approximate": 1,
+        "internal": 2,
+        "assonance": 1,
+        "alliteration": 2
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 16.5,
+        "median": 17,
+        "min": 1,
+        "max": 35,
+        "distribution": [
+          0,
+          1,
+          1,
+          0,
+          0,
+          0,
+          2,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          1,
+          0,
+          0,
+          1,
+          1,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          2
+        ]
+      },
+      "lineLength": {
+        "meanWords": 6,
+        "meanSyllables": 13.9,
+        "distribution": [
+          0,
+          1,
+          1,
+          3,
+          1,
+          3,
+          8,
+          6,
+          4,
+          2,
+          1
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 8,
+        "interrogative": 1,
+        "imperative": 1,
+        "exclamatory": 1
+      },
+      "ellipsis": {
+        "incomplete": 1,
+        "noSubject": 3,
+        "noPredicate": 1,
+        "percent": 0.45
+      },
+      "enjambement": {
+        "count": 3,
+        "percent": 0.1,
+        "positions": [
+          16,
+          23,
+          25
+        ]
+      },
+      "wordOrder": {
+        "svo": 1,
+        "inversions": 4,
+        "other": 5,
+        "deviationPercent": 0.9
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 0,
+        "śmierć": 0,
+        "erotyka": 0,
+        "alkohol": 1,
+        "samotność": 1,
+        "sacrum": 0,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 416,
+      "estimatedSeconds": 139,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 38,
+      "VERB": 28,
+      "ADJ": 18,
+      "ADV": 16,
+      "PRON": 11,
+      "ADP": 16,
+      "CCONJ": 5,
+      "SCONJ": 13,
+      "INTJ": 0,
+      "PART": 17,
+      "DET": 10,
+      "NUM": 1
+    },
+    "posPercent": {
+      "NOUN": 0.21,
+      "VERB": 0.155,
+      "ADJ": 0.099,
+      "ADV": 0.088,
+      "PRON": 0.061,
+      "ADP": 0.088,
+      "CCONJ": 0.028,
+      "SCONJ": 0.072,
+      "INTJ": 0,
+      "PART": 0.094,
+      "DET": 0.055,
+      "NUM": 0.006
+    },
+    "nounConcreteAbstract": {
+      "concrete": 2,
+      "abstract": 1,
+      "ratio": 0.67
+    },
+    "verbTenses": {
+      "present": 19,
+      "past": 2,
+      "future": 3,
+      "infinitive": 4,
+      "imperative": 2
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 1,
+      "stan": 4,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 1,
+      "cialo": 1
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 1,
+      "oceniajace": 3,
+      "opisowe": 14
+    },
+    "adverbs": {
+      "temporalne": [
+        "ciągle"
+      ],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "częściej",
+          "count": 2
+        },
+        {
+          "word": "tak",
+          "count": 2
+        },
+        {
+          "word": "regularnie",
+          "count": 1
+        },
+        {
+          "word": "gdy",
+          "count": 1
+        },
+        {
+          "word": "ciągle",
+          "count": 1
+        },
+        {
+          "word": "wszelaki",
+          "count": 1
+        },
+        {
+          "word": "dobrze",
+          "count": 1
+        },
+        {
+          "word": "pilnie",
+          "count": 1
+        },
+        {
+          "word": "porządnie",
+          "count": 1
+        },
+        {
+          "word": "jednakowoż",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 4,
+      "ty": 1,
+      "on_ona": 0,
+      "my": 0,
+      "wy": 0,
+      "oni": 1
+    },
+    "negations": {
+      "nie": 3,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 3,
+      "percentSentences": 0.27
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 16.5,
+      "median": 17,
+      "min": 1,
+      "max": 35,
+      "distribution": [
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2
+      ]
+    },
+    "lineLength": {
+      "meanWords": 6,
+      "meanSyllables": 13.9,
+      "distribution": [
+        0,
+        1,
+        1,
+        3,
+        1,
+        3,
+        8,
+        6,
+        4,
+        2,
+        1
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 8,
+      "interrogative": 1,
+      "imperative": 1,
+      "exclamatory": 1
+    },
+    "ellipsis": {
+      "incomplete": 1,
+      "noSubject": 3,
+      "noPredicate": 1,
+      "percent": 0.45
+    },
+    "enjambement": {
+      "count": 3,
+      "percent": 0.1,
+      "positions": [
+        16,
+        23,
+        25
+      ]
+    },
+    "wordOrder": {
+      "svo": 1,
+      "inversions": 4,
+      "other": 5,
+      "deviationPercent": 0.9
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 405,
+      "consonants": 550,
+      "ratio": 0.74
+    },
+    "consonantClusters": {
+      "count": 24,
+      "top": [
+        {
+          "cluster": "rsz",
+          "count": 3
+        },
+        {
+          "cluster": "szt",
+          "count": 3
+        },
+        {
+          "cluster": "wsz",
+          "count": 2
+        },
+        {
+          "cluster": "brz",
+          "count": 2
+        },
+        {
+          "cluster": "prz",
+          "count": 2
+        },
+        {
+          "cluster": "płc",
+          "count": 1
+        },
+        {
+          "cluster": "wsp",
+          "count": 1
+        },
+        {
+          "cluster": "dst",
+          "count": 1
+        },
+        {
+          "cluster": "szl",
+          "count": 1
+        },
+        {
+          "cluster": "rsk",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 46,
+      "syczace": 95,
+      "nosowe": 121,
+      "plynne": 67
+    },
+    "rhymes": {
+      "exact": 0,
+      "approximate": 1,
+      "internal": 2,
+      "assonance": 1,
+      "alliteration": 2
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        30
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 416,
+      "estimatedSeconds": 139,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "polregularny",
+      "regularityScore": 0.7
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Przyboś",
+          "reference": "sztuka wiersza jest dźwignią poezji",
+          "evidence": "Mając za swoje stwierdzenie Pana Przybosia / Że sztuka wiersza jest dźwignią poezji"
+        },
+        {
+          "source": "Norwid",
+          "reference": "aż Bogu smutno",
+          "evidence": "Jestem jednakowoż tak niezmiernie smutny / Że aż Bogu smutno jak to powiedział Norwid"
+        },
+        {
+          "source": "Norwid",
+          "reference": "królewskie milczenie",
+          "evidence": "Ale gdzie mi tam zachowywać królewskie milczenie"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.7,
+        "baudelaire": 0.8,
+        "bursa": 0.3,
+        "stachura": 0.6,
+        "grochowiak": 0.5,
+        "bialoszewski": 0.4,
+        "rozewicz": 0.3
+      }
+    },
+    "space": {
+      "type": "zamknieta",
+      "evidence": "przez szyby dnieje - obserwacja świata z wnętrza, przestrzeń intymna wyznania",
+      "openClosedRatio": 0.2
+    },
+    "timeOfDay": {
+      "period": "dzien",
+      "season": "nieokreslona",
+      "evidence": "w obliczu niebios co przez szyby dnieje"
+    },
+    "motion": {
+      "movement": 2,
+      "stillness": 6,
+      "dynamism": 0.3,
+      "evidence": "statyczna sytuacja wyznania, jedyny ruch to 'wyję jak skopany pies'"
+    },
+    "imageryDensity": {
+      "metaphors": 3,
+      "comparisons": 2,
+      "personifications": 1,
+      "hyperboles": 4,
+      "per100words": 6.8
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.95,
+      "creationLevel": 0.2,
+      "ironicDistance": 0.1,
+      "autobiographicSignals": [
+        "stosunki płciowe",
+        "wódkę pijąc",
+        "weteranem pijackiego szlaku",
+        "pisując wiersze",
+        "tak niezmiernie smutny",
+        "wyję"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "rozpacz",
+      "secondary": "rezygnacja",
+      "intensity": 0.9
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "Podmiot mówi o sobie w pierwszej osobie: 'Powiedziałbym', 'robię', 'jestem', 'wyję'"
+    },
+    "addressee": {
+      "type": "siebie",
+      "evidence": "Wiersz to monolog wewnętrzny, rozrachunek z samym sobą, bez bezpośredniego zwrotu do kogoś"
+    },
+    "metaphors": [
+      {
+        "source": "pies",
+        "target": "człowiek",
+        "example": "wyję jak skopany pies"
+      },
+      {
+        "source": "szlak",
+        "target": "życie",
+        "example": "weteranem pijackiego szlaku"
+      },
+      {
+        "source": "dźwignia",
+        "target": "sztuka",
+        "example": "sztuka wiersza jest dźwignią poezji"
+      }
+    ],
+    "temperature": {
+      "value": 0.8,
+      "label": "gorące - intensywny ból i rozpacz"
+    },
+    "senses": {
+      "wzrok": 2,
+      "sluch": 4,
+      "dotyk": 2,
+      "smak": 3,
+      "zapach": 1
+    },
+    "autodestruction": {
+      "level": 0.9,
+      "signals": [
+        "picie wódki ponad wszelką miarę",
+        "picie spirytusu salicylowego",
+        "porównanie siebie do skopanego psa",
+        "wątpliwość czy jeszcze żyje"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 0.851,
+    "dfaAlpha": 1.145,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -1.157503806496301
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -0.5104238734417494
+      },
+      {
+        "logWin": 1.6094379124341003,
+        "logFluc": -0.034701839058629454
+      },
+      {
+        "logWin": 1.791759469228055,
+        "logFluc": -0.22185665726940046
+      },
+      {
+        "logWin": 1.9459101490553132,
+        "logFluc": 0.05561845816368599
+      },
+      {
+        "logWin": 2.1972245773362196,
+        "logFluc": 0.17702008712038558
+      }
+    ],
+    "seriesLength": 28,
+    "series": [
+      6,
+      6,
+      7,
+      7,
+      8,
+      7,
+      6,
+      6,
+      5,
+      3,
+      3,
+      4,
+      5,
+      9,
+      6,
+      6,
+      7,
+      7,
+      3,
+      10,
+      8,
+      5,
+      8,
+      7,
+      9,
+      6,
+      8,
+      6
+    ]
+  }
+}

@@ -1,0 +1,864 @@
+{
+  "id": "kartka",
+  "title": "Kartka",
+  "wordCount": 62,
+  "lineCount": 12,
+  "uniqueWords": 59,
+  "vocabularyRichness": 0.952,
+  "avgWordsPerLine": 5.17,
+  "wordsPerLineDistribution": [
+    5,
+    5,
+    5,
+    4,
+    5,
+    5,
+    4,
+    4,
+    7,
+    6,
+    6,
+    6
+  ],
+  "wordFrequencies": [
+    [
+      "czas",
+      1
+    ],
+    [
+      "opowiada",
+      1
+    ],
+    [
+      "głoskami",
+      1
+    ],
+    [
+      "sekund",
+      1
+    ],
+    [
+      "godzina",
+      1
+    ],
+    [
+      "pieśń",
+      1
+    ],
+    [
+      "epicka",
+      1
+    ],
+    [
+      "uwierz",
+      1
+    ],
+    [
+      "nocy",
+      1
+    ],
+    [
+      "napisać",
+      1
+    ],
+    [
+      "najzwięźlej",
+      1
+    ],
+    [
+      "brakłoby",
+      1
+    ],
+    [
+      "papieru",
+      1
+    ],
+    [
+      "choćby",
+      1
+    ],
+    [
+      "szczętu",
+      1
+    ],
+    [
+      "wyrąbano",
+      1
+    ],
+    [
+      "lasy",
+      1
+    ],
+    [
+      "polaków",
+      1
+    ],
+    [
+      "zwleczono",
+      1
+    ],
+    [
+      "odzież",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 1,
+    "period": 0,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 2,
+    "colon": 2,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 2,
+  "negationWords": [
+    "nie"
+  ],
+  "pronounDistribution": {
+    "ja": 0,
+    "ty": 0,
+    "on_ona": 0,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 0,
+    "smierc": 0,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 1,
+    "bol": 0
+  },
+  "anaphors": [],
+  "firstWord": "czas",
+  "lastWord": "lustra",
+  "avgWordLength": 5.52,
+  "wordLengthDistribution": {
+    "4-5": 15,
+    "8-9": 9,
+    "1-3": 15,
+    "6-7": 18,
+    "10+": 5
+  },
+  "bigrams": [
+    [
+      "czas opowiada",
+      1
+    ],
+    [
+      "głoskami sekund",
+      1
+    ],
+    [
+      "sekund każda",
+      1
+    ],
+    [
+      "każda godzina",
+      1
+    ],
+    [
+      "pieśń epicka",
+      1
+    ],
+    [
+      "epicka uwierz",
+      1
+    ],
+    [
+      "można nocy",
+      1
+    ],
+    [
+      "nocy napisać",
+      1
+    ],
+    [
+      "napisać nawet",
+      1
+    ]
+  ],
+  "poemWords": [
+    "czas",
+    "opowiada",
+    "głoskami",
+    "sekund",
+    "godzina",
+    "pieśń",
+    "epicka",
+    "uwierz",
+    "nocy",
+    "napisać",
+    "najzwięźlej",
+    "brakłoby",
+    "papieru",
+    "choćby",
+    "szczętu",
+    "wyrąbano",
+    "lasy",
+    "polaków",
+    "zwleczono",
+    "odzież",
+    "przemielono",
+    "zasób",
+    "bibliotek",
+    "zaprzestano",
+    "wydawania",
+    "prasy",
+    "zaraz",
+    "taka",
+    "smutna",
+    "ujrzysz",
+    "kartkę",
+    "jedna",
+    "noc",
+    "całości",
+    "zawierać",
+    "świcie",
+    "zaglądniesz",
+    "lustra"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 20,
+        "VERB": 12,
+        "ADJ": 4,
+        "ADV": 2,
+        "PRON": 2,
+        "ADP": 5,
+        "CCONJ": 4,
+        "SCONJ": 2,
+        "INTJ": 0,
+        "PART": 4,
+        "DET": 4,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.312,
+        "VERB": 0.188,
+        "ADJ": 0.062,
+        "ADV": 0.031,
+        "PRON": 0.031,
+        "ADP": 0.078,
+        "CCONJ": 0.062,
+        "SCONJ": 0.031,
+        "INTJ": 0,
+        "PART": 0.062,
+        "DET": 0.062,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 1,
+        "abstract": 1,
+        "ratio": 0.5
+      },
+      "verbTenses": {
+        "present": 4,
+        "imperative": 2,
+        "infinitive": 2,
+        "past": 5,
+        "future": 2
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 2,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 1,
+        "opisowe": 3
+      },
+      "adverbs": {
+        "temporalne": [
+          "zaraz"
+        ],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "zaraz",
+            "count": 1
+          },
+          {
+            "word": "kiedy",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 0,
+        "ty": 0,
+        "on_ona": 0,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 2,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 2,
+        "percentSentences": 0.29
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 146,
+        "consonants": 202,
+        "ratio": 0.72
+      },
+      "consonantClusters": {
+        "count": 12,
+        "top": [
+          {
+            "cluster": "prz",
+            "count": 3
+          },
+          {
+            "cluster": "rtk",
+            "count": 2
+          },
+          {
+            "cluster": "jzw",
+            "count": 1
+          },
+          {
+            "cluster": "szcz",
+            "count": 1
+          },
+          {
+            "cluster": "wsz",
+            "count": 1
+          },
+          {
+            "cluster": "stk",
+            "count": 1
+          },
+          {
+            "cluster": "zwl",
+            "count": 1
+          },
+          {
+            "cluster": "jrz",
+            "count": 1
+          },
+          {
+            "cluster": "str",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 17,
+        "syczace": 39,
+        "nosowe": 33,
+        "plynne": 26
+      },
+      "rhymes": {
+        "exact": 1,
+        "approximate": 2,
+        "internal": 0,
+        "assonance": 0,
+        "alliteration": 0
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 9.1,
+        "median": 5,
+        "min": 1,
+        "max": 25,
+        "distribution": [
+          0,
+          1,
+          2,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 4.7,
+        "meanSyllables": 10.8,
+        "distribution": [
+          0,
+          2,
+          0,
+          0,
+          3,
+          4,
+          3,
+          2
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 6,
+        "interrogative": 0,
+        "imperative": 1,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 2,
+        "noSubject": 4,
+        "noPredicate": 0,
+        "percent": 0.86
+      },
+      "enjambement": {
+        "count": 4,
+        "percent": 0.31,
+        "positions": [
+          7,
+          8,
+          9,
+          10
+        ]
+      },
+      "wordOrder": {
+        "svo": 1,
+        "inversions": 0,
+        "other": 5,
+        "deviationPercent": 0.83
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 0,
+        "śmierć": 0,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 1,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 151,
+      "estimatedSeconds": 50,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 20,
+      "VERB": 12,
+      "ADJ": 4,
+      "ADV": 2,
+      "PRON": 2,
+      "ADP": 5,
+      "CCONJ": 4,
+      "SCONJ": 2,
+      "INTJ": 0,
+      "PART": 4,
+      "DET": 4,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.312,
+      "VERB": 0.188,
+      "ADJ": 0.062,
+      "ADV": 0.031,
+      "PRON": 0.031,
+      "ADP": 0.078,
+      "CCONJ": 0.062,
+      "SCONJ": 0.031,
+      "INTJ": 0,
+      "PART": 0.062,
+      "DET": 0.062,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 1,
+      "abstract": 1,
+      "ratio": 0.5
+    },
+    "verbTenses": {
+      "present": 4,
+      "imperative": 2,
+      "infinitive": 2,
+      "past": 5,
+      "future": 2
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 2,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 1,
+      "opisowe": 3
+    },
+    "adverbs": {
+      "temporalne": [
+        "zaraz"
+      ],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "zaraz",
+          "count": 1
+        },
+        {
+          "word": "kiedy",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 0,
+      "ty": 0,
+      "on_ona": 0,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 2,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 2,
+      "percentSentences": 0.29
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 9.1,
+      "median": 5,
+      "min": 1,
+      "max": 25,
+      "distribution": [
+        0,
+        1,
+        2,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 4.7,
+      "meanSyllables": 10.8,
+      "distribution": [
+        0,
+        2,
+        0,
+        0,
+        3,
+        4,
+        3,
+        2
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 6,
+      "interrogative": 0,
+      "imperative": 1,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 2,
+      "noSubject": 4,
+      "noPredicate": 0,
+      "percent": 0.86
+    },
+    "enjambement": {
+      "count": 4,
+      "percent": 0.31,
+      "positions": [
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    "wordOrder": {
+      "svo": 1,
+      "inversions": 0,
+      "other": 5,
+      "deviationPercent": 0.83
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 146,
+      "consonants": 202,
+      "ratio": 0.72
+    },
+    "consonantClusters": {
+      "count": 12,
+      "top": [
+        {
+          "cluster": "prz",
+          "count": 3
+        },
+        {
+          "cluster": "rtk",
+          "count": 2
+        },
+        {
+          "cluster": "jzw",
+          "count": 1
+        },
+        {
+          "cluster": "szcz",
+          "count": 1
+        },
+        {
+          "cluster": "wsz",
+          "count": 1
+        },
+        {
+          "cluster": "stk",
+          "count": 1
+        },
+        {
+          "cluster": "zwl",
+          "count": 1
+        },
+        {
+          "cluster": "jrz",
+          "count": 1
+        },
+        {
+          "cluster": "str",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 17,
+      "syczace": 39,
+      "nosowe": 33,
+      "plynne": 26
+    },
+    "rhymes": {
+      "exact": 1,
+      "approximate": 2,
+      "internal": 0,
+      "assonance": 0,
+      "alliteration": 0
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        14
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 151,
+      "estimatedSeconds": 50,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "polregularny",
+      "regularityScore": 0.62
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "inne",
+          "reference": "motyw nocnego pisania/twórczości",
+          "evidence": "nie można nocy napisać"
+        },
+        {
+          "source": "inne",
+          "reference": "topos wyczerpania środków ekspresji",
+          "evidence": "brakłoby papieru / Choćby do szczętu wyrąbano lasy"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.3,
+        "baudelaire": 0.2,
+        "bursa": 0.1,
+        "stachura": 0.4,
+        "grochowiak": 0.2,
+        "bialoszewski": 0.6,
+        "rozewicz": 0.7
+      }
+    },
+    "space": {
+      "type": "zamknieta",
+      "evidence": "lustro jako zamknięta przestrzeń refleksji, brak otwartych krajobrazów",
+      "openClosedRatio": 0.2
+    },
+    "timeOfDay": {
+      "period": "noc",
+      "season": "nieokreslona",
+      "evidence": "nie można nocy napisać, Tę noc w całości, o świcie zaglądniesz"
+    },
+    "motion": {
+      "movement": 3,
+      "stillness": 7,
+      "dynamism": 0.3,
+      "evidence": "statyczna sytuacja pisania, jedyny ruch to zaglądanie do lustra o świcie"
+    },
+    "imageryDensity": {
+      "metaphors": 4,
+      "comparisons": 1,
+      "personifications": 2,
+      "hyperboles": 3,
+      "per100words": 12.5
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.7,
+      "creationLevel": 0.8,
+      "ironicDistance": 0.3,
+      "autobiographicSignals": [
+        "bezpośredni zwrot do adresata",
+        "refleksja nad pisaniem",
+        "intymny moment przed lustrem"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "czułość",
+      "secondary": "melancholia",
+      "intensity": 0.7
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "Podmiot mówi do adresata 'Uwierz', 'nie bądź smutna', 'ujrzysz'"
+    },
+    "addressee": {
+      "type": "ty",
+      "evidence": "Bezpośrednie zwroty 'Uwierz', 'nie bądź zaraz taka smutna', 'ujrzysz'"
+    },
+    "metaphors": [
+      {
+        "source": "czas",
+        "target": "muzyka/słowo",
+        "example": "Czas opowiada się głoskami sekund / Każda godzina – to pieśń epicka"
+      },
+      {
+        "source": "noc",
+        "target": "tekst niemożliwy do napisania",
+        "example": "nie można nocy napisać / Nawet najzwięźlej: brakłoby papieru"
+      },
+      {
+        "source": "kartka lustra",
+        "target": "medium zawierające całość nocy",
+        "example": "kartkę, co jedna / Tę noc w całości będzie zawierać"
+      }
+    ],
+    "temperature": {
+      "value": 0.3,
+      "label": "chłodna refleksyjność przełamana czułością"
+    },
+    "senses": {
+      "wzrok": 4,
+      "sluch": 3,
+      "dotyk": 2,
+      "smak": 0,
+      "zapach": 0
+    },
+    "autodestruction": {
+      "level": 0.2,
+      "signals": [
+        "metafora lustra jako miejsca konfrontacji z sobą"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 0.814,
+    "dfaAlpha": 0.112,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -1.732867951399861
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -1.7005986908310764
+      }
+    ],
+    "seriesLength": 12,
+    "series": [
+      5,
+      5,
+      5,
+      4,
+      5,
+      5,
+      4,
+      4,
+      7,
+      6,
+      6,
+      6
+    ]
+  }
+}

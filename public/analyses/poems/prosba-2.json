@@ -1,0 +1,917 @@
+{
+  "id": "prosba-2",
+  "title": "Prośba",
+  "wordCount": 94,
+  "lineCount": 14,
+  "uniqueWords": 75,
+  "vocabularyRichness": 0.798,
+  "avgWordsPerLine": 6.71,
+  "wordsPerLineDistribution": [
+    7,
+    7,
+    5,
+    7,
+    7,
+    7,
+    6,
+    7,
+    5,
+    7,
+    8,
+    6,
+    8,
+    7
+  ],
+  "wordFrequencies": [
+    [
+      "bym",
+      4
+    ],
+    [
+      "dać",
+      3
+    ],
+    [
+      "miotłę",
+      1
+    ],
+    [
+      "zamiótł",
+      1
+    ],
+    [
+      "publiczny",
+      1
+    ],
+    [
+      "plac",
+      1
+    ],
+    [
+      "kobietę",
+      1
+    ],
+    [
+      "kochał",
+      1
+    ],
+    [
+      "zapładniał",
+      1
+    ],
+    [
+      "ojczyznę",
+      1
+    ],
+    [
+      "abym",
+      1
+    ],
+    [
+      "opiewał",
+      1
+    ],
+    [
+      "pejzaż",
+      1
+    ],
+    [
+      "ustrój",
+      1
+    ],
+    [
+      "lżył",
+      1
+    ],
+    [
+      "chwalił",
+      1
+    ],
+    [
+      "rząd",
+      1
+    ],
+    [
+      "przedstawić",
+      1
+    ],
+    [
+      "człowieka",
+      1
+    ],
+    [
+      "ujrzał",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 0,
+    "period": 0,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 0,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 0,
+  "negationWords": [],
+  "pronounDistribution": {
+    "ja": 8,
+    "ty": 0,
+    "on_ona": 1,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 0,
+    "smierc": 1,
+    "erotyka": 0,
+    "alkohol": 1,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [
+    [
+      "dać",
+      2
+    ],
+    [
+      "albo",
+      2
+    ]
+  ],
+  "firstWord": "dać",
+  "lastWord": "używać",
+  "avgWordLength": 5.09,
+  "wordLengthDistribution": {
+    "1-3": 32,
+    "6-7": 22,
+    "8-9": 16,
+    "4-5": 20,
+    "10+": 4
+  },
+  "bigrams": [
+    [
+      "miotłę bym",
+      1
+    ],
+    [
+      "bym zamiótł",
+      1
+    ],
+    [
+      "zamiótł publiczny",
+      1
+    ],
+    [
+      "publiczny plac",
+      1
+    ],
+    [
+      "kobietę bym",
+      1
+    ],
+    [
+      "zapładniał dać",
+      1
+    ]
+  ],
+  "poemWords": [
+    "dać",
+    "miotłę",
+    "bym",
+    "zamiótł",
+    "publiczny",
+    "plac",
+    "kobietę",
+    "kochał",
+    "zapładniał",
+    "ojczyznę",
+    "abym",
+    "opiewał",
+    "pejzaż",
+    "ustrój",
+    "lżył",
+    "chwalił",
+    "rząd",
+    "przedstawić",
+    "człowieka",
+    "ujrzał",
+    "wielkość",
+    "nędzę",
+    "opisał",
+    "ciekawych",
+    "słowach",
+    "wskazać",
+    "zakochanych",
+    "wzruszył",
+    "posłać",
+    "szpitala",
+    "komunalny",
+    "cmentarz",
+    "urządzić",
+    "teatr",
+    "igrzyska",
+    "sportowe",
+    "wojnę",
+    "żniwa",
+    "wsi",
+    "festyn",
+    "mieście",
+    "nauczyć",
+    "prowadzić",
+    "samochód",
+    "pisać",
+    "maszynie",
+    "zmusić",
+    "nauki",
+    "języków",
+    "czytania",
+    "gazet",
+    "ostatecznie",
+    "wódki",
+    "żebym",
+    "pił",
+    "rzygał",
+    "poetów",
+    "należy",
+    "używać"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 28,
+        "VERB": 22,
+        "ADJ": 6,
+        "ADV": 2,
+        "PRON": 11,
+        "ADP": 7,
+        "CCONJ": 8,
+        "SCONJ": 5,
+        "INTJ": 0,
+        "PART": 1,
+        "DET": 0,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.292,
+        "VERB": 0.229,
+        "ADJ": 0.062,
+        "ADV": 0.021,
+        "PRON": 0.115,
+        "ADP": 0.073,
+        "CCONJ": 0.083,
+        "SCONJ": 0.052,
+        "INTJ": 0,
+        "PART": 0.01,
+        "DET": 0,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 2,
+        "abstract": 0,
+        "ratio": 1
+      },
+      "verbTenses": {
+        "future": 2,
+        "past": 10,
+        "infinitive": 9,
+        "present": 1
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 0,
+        "destrukcja": 0,
+        "tworzenie": 1,
+        "komunikacja": 0,
+        "cialo": 1
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 1,
+        "opisowe": 5
+      },
+      "adverbs": {
+        "temporalne": [
+          "potem"
+        ],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "ostatecznie",
+            "count": 1
+          },
+          {
+            "word": "potem",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 8,
+        "ty": 0,
+        "on_ona": 2,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 0,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 0,
+        "percentSentences": 0
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 195,
+        "consonants": 289,
+        "ratio": 0.67
+      },
+      "consonantClusters": {
+        "count": 13,
+        "top": [
+          {
+            "cluster": "czn",
+            "count": 2
+          },
+          {
+            "cluster": "jcz",
+            "count": 1
+          },
+          {
+            "cluster": "str",
+            "count": 1
+          },
+          {
+            "cluster": "chw",
+            "count": 1
+          },
+          {
+            "cluster": "prz",
+            "count": 1
+          },
+          {
+            "cluster": "dst",
+            "count": 1
+          },
+          {
+            "cluster": "czł",
+            "count": 1
+          },
+          {
+            "cluster": "jrz",
+            "count": 1
+          },
+          {
+            "cluster": "wsk",
+            "count": 1
+          },
+          {
+            "cluster": "wzr",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 24,
+        "syczace": 54,
+        "nosowe": 56,
+        "plynne": 40
+      },
+      "rhymes": {
+        "exact": 0,
+        "approximate": 2,
+        "internal": 1,
+        "assonance": 0,
+        "alliteration": 1
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 13.7,
+        "median": 12,
+        "min": 1,
+        "max": 36,
+        "distribution": [
+          0,
+          2,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 6,
+        "meanSyllables": 12.4,
+        "distribution": [
+          0,
+          2,
+          0,
+          0,
+          0,
+          2,
+          2,
+          8,
+          2
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 7,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 2,
+        "noSubject": 5,
+        "noPredicate": 0,
+        "percent": 1
+      },
+      "enjambement": {
+        "count": 4,
+        "percent": 0.27,
+        "positions": [
+          2,
+          11,
+          13,
+          14
+        ]
+      },
+      "wordOrder": {
+        "svo": 0,
+        "inversions": 0,
+        "other": 5,
+        "deviationPercent": 1
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 0,
+        "śmierć": 1,
+        "erotyka": 0,
+        "alkohol": 1,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 198,
+      "estimatedSeconds": 66,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 28,
+      "VERB": 22,
+      "ADJ": 6,
+      "ADV": 2,
+      "PRON": 11,
+      "ADP": 7,
+      "CCONJ": 8,
+      "SCONJ": 5,
+      "INTJ": 0,
+      "PART": 1,
+      "DET": 0,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.292,
+      "VERB": 0.229,
+      "ADJ": 0.062,
+      "ADV": 0.021,
+      "PRON": 0.115,
+      "ADP": 0.073,
+      "CCONJ": 0.083,
+      "SCONJ": 0.052,
+      "INTJ": 0,
+      "PART": 0.01,
+      "DET": 0,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 2,
+      "abstract": 0,
+      "ratio": 1
+    },
+    "verbTenses": {
+      "future": 2,
+      "past": 10,
+      "infinitive": 9,
+      "present": 1
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 0,
+      "destrukcja": 0,
+      "tworzenie": 1,
+      "komunikacja": 0,
+      "cialo": 1
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 1,
+      "opisowe": 5
+    },
+    "adverbs": {
+      "temporalne": [
+        "potem"
+      ],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "ostatecznie",
+          "count": 1
+        },
+        {
+          "word": "potem",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 8,
+      "ty": 0,
+      "on_ona": 2,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 0,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 0,
+      "percentSentences": 0
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 13.7,
+      "median": 12,
+      "min": 1,
+      "max": 36,
+      "distribution": [
+        0,
+        2,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 6,
+      "meanSyllables": 12.4,
+      "distribution": [
+        0,
+        2,
+        0,
+        0,
+        0,
+        2,
+        2,
+        8,
+        2
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 7,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 2,
+      "noSubject": 5,
+      "noPredicate": 0,
+      "percent": 1
+    },
+    "enjambement": {
+      "count": 4,
+      "percent": 0.27,
+      "positions": [
+        2,
+        11,
+        13,
+        14
+      ]
+    },
+    "wordOrder": {
+      "svo": 0,
+      "inversions": 0,
+      "other": 5,
+      "deviationPercent": 1
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 195,
+      "consonants": 289,
+      "ratio": 0.67
+    },
+    "consonantClusters": {
+      "count": 13,
+      "top": [
+        {
+          "cluster": "czn",
+          "count": 2
+        },
+        {
+          "cluster": "jcz",
+          "count": 1
+        },
+        {
+          "cluster": "str",
+          "count": 1
+        },
+        {
+          "cluster": "chw",
+          "count": 1
+        },
+        {
+          "cluster": "prz",
+          "count": 1
+        },
+        {
+          "cluster": "dst",
+          "count": 1
+        },
+        {
+          "cluster": "czł",
+          "count": 1
+        },
+        {
+          "cluster": "jrz",
+          "count": 1
+        },
+        {
+          "cluster": "wsk",
+          "count": 1
+        },
+        {
+          "cluster": "wzr",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 24,
+      "syczace": 54,
+      "nosowe": 56,
+      "plynne": 40
+    },
+    "rhymes": {
+      "exact": 0,
+      "approximate": 2,
+      "internal": 1,
+      "assonance": 0,
+      "alliteration": 1
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        16
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 198,
+      "estimatedSeconds": 66,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "polregularny",
+      "regularityScore": 0.61
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Biblia",
+          "reference": "Psalm 137 ('Nad rzekami Babilonu')",
+          "evidence": "struktura żądań, ton błagalny, 'dać mi ojczyznę'"
+        },
+        {
+          "source": "Różewicz",
+          "reference": "poetyka prostoty, antypoetyka",
+          "evidence": "prozaiczność wypowiedzi, odrzucenie poetyckości"
+        },
+        {
+          "source": "inne",
+          "reference": "tradycja romantyczna",
+          "evidence": "ironiczne odwołanie do poety-wieszcza w 'dać mi ojczyznę abym opiewał'"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.3,
+        "baudelaire": 0.2,
+        "bursa": 0.7,
+        "stachura": 0.6,
+        "grochowiak": 0.4,
+        "bialoszewski": 0.8,
+        "rozewicz": 0.9
+      }
+    },
+    "space": {
+      "type": "otwarta",
+      "evidence": "publiczny plac, szpital, cmentarz, teatr, wieś, miasto - różnorodne przestrzenie społeczne",
+      "openClosedRatio": 0.8
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "nieokreslona",
+      "evidence": "brak wskazówek temporalnych, fokus na działaniach ponadczasowych"
+    },
+    "motion": {
+      "movement": 8,
+      "stillness": 2,
+      "dynamism": 0.8,
+      "evidence": "seria dynamicznych czasowników: zamiótł, kochał, zapładniał, opiewał, lżył, chwalił"
+    },
+    "imageryDensity": {
+      "metaphors": 1,
+      "comparisons": 0,
+      "personifications": 0,
+      "hyperboles": 1,
+      "per100words": 1.5
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.9,
+      "creationLevel": 0.2,
+      "ironicDistance": 0.8,
+      "autobiographicSignals": [
+        "poetów należy używać",
+        "bo poetów",
+        "bezpośredni ton zwierzenia"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "rezygnacja",
+      "secondary": "ironia",
+      "intensity": 0.8
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "Liczne formy pierwszej osoby: 'bym zamiótł', 'bym ją kochał', 'abym opiewał', podmiot liryczny bezpośrednio wyraża swoje pragnienia"
+    },
+    "addressee": {
+      "type": "nikt",
+      "evidence": "Wiersz ma formę monologu wewnętrznego, prośby kierowanej do nieokreślonego adresata, może świata, losu czy społeczeństwa"
+    },
+    "metaphors": [
+      {
+        "source": "miotła",
+        "target": "proste zajęcie",
+        "example": "Dać mi miotłę bym zamiótł publiczny plac"
+      },
+      {
+        "source": "poeta jako narzędzie",
+        "target": "instrumentalizacja artysty",
+        "example": "bo poetów należy używać"
+      }
+    ],
+    "temperature": {
+      "value": 0.3,
+      "label": "chłodna rezygnacja z ironicznym podtekstem"
+    },
+    "senses": {
+      "wzrok": 3,
+      "sluch": 1,
+      "dotyk": 2,
+      "smak": 1,
+      "zapach": 0
+    },
+    "autodestruction": {
+      "level": 0.6,
+      "signals": [
+        "żebym pił I potem rzygał",
+        "poczucie bycia używanym",
+        "pragnienie ucieczki w alkohol",
+        "redukcja roli poety do instrumentu"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 0.643,
+    "dfaAlpha": 0.092,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -1.0397207708399177
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -1.0132143399135376
+      }
+    ],
+    "seriesLength": 14,
+    "series": [
+      7,
+      7,
+      5,
+      7,
+      7,
+      7,
+      6,
+      7,
+      5,
+      7,
+      8,
+      6,
+      8,
+      7
+    ]
+  }
+}

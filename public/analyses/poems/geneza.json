@@ -1,0 +1,952 @@
+{
+  "id": "geneza",
+  "title": "Geneza",
+  "wordCount": 105,
+  "lineCount": 19,
+  "uniqueWords": 86,
+  "vocabularyRichness": 0.819,
+  "avgWordsPerLine": 5.53,
+  "wordsPerLineDistribution": [
+    2,
+    1,
+    1,
+    1,
+    7,
+    9,
+    8,
+    6,
+    8,
+    6,
+    7,
+    6,
+    8,
+    7,
+    5,
+    8,
+    5,
+    7,
+    3
+  ],
+  "wordFrequencies": [
+    [
+      "las",
+      2
+    ],
+    [
+      "pył",
+      2
+    ],
+    [
+      "kosmiczny",
+      2
+    ],
+    [
+      "andrzejowi",
+      1
+    ],
+    [
+      "wojaczkowi",
+      1
+    ],
+    [
+      "aktorowi",
+      1
+    ],
+    [
+      "genetycznegenetycznegenetycznegenetycznegenetyczne",
+      1
+    ],
+    [
+      "genezagenezagenezagenezageneza",
+      1
+    ],
+    [
+      "stanął",
+      1
+    ],
+    [
+      "ustaliłem",
+      1
+    ],
+    [
+      "miejsce",
+      1
+    ],
+    [
+      "stał",
+      1
+    ],
+    [
+      "piaszczystym",
+      1
+    ],
+    [
+      "gruntem",
+      1
+    ],
+    [
+      "dobrym",
+      1
+    ],
+    [
+      "sosnę",
+      1
+    ],
+    [
+      "jednym",
+      1
+    ],
+    [
+      "mgnieniu",
+      1
+    ],
+    [
+      "powiek",
+      1
+    ],
+    [
+      "znikąd",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 0,
+    "period": 0,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 0,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 1,
+  "negationWords": [
+    "nie"
+  ],
+  "pronounDistribution": {
+    "ja": 0,
+    "ty": 0,
+    "on_ona": 2,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 0,
+    "smierc": 0,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 2,
+    "sacrum": 1,
+    "noc": 1,
+    "bol": 0
+  },
+  "anaphors": [],
+  "firstWord": "andrzejowi",
+  "lastWord": "bajka",
+  "avgWordLength": 6.17,
+  "wordLengthDistribution": {
+    "10+": 12,
+    "8-9": 15,
+    "1-3": 31,
+    "6-7": 26,
+    "4-5": 21
+  },
+  "bigrams": [
+    [
+      "andrzejowi wojaczkowi",
+      1
+    ],
+    [
+      "wojaczkowi aktorowi",
+      1
+    ],
+    [
+      "aktorowi genetycznegenetycznegenetycznegenetycznegenetyczne",
+      1
+    ],
+    [
+      "genetycznegenetycznegenetycznegenetycznegenetyczne genezagenezagenezagenezageneza",
+      1
+    ],
+    [
+      "genezagenezagenezagenezageneza las",
+      1
+    ],
+    [
+      "las sam",
+      1
+    ],
+    [
+      "sam stanął",
+      1
+    ],
+    [
+      "stanął nim",
+      1
+    ],
+    [
+      "ustaliłem miejsce",
+      1
+    ],
+    [
+      "las nim",
+      1
+    ],
+    [
+      "nim pył",
+      1
+    ]
+  ],
+  "poemWords": [
+    "andrzejowi",
+    "wojaczkowi",
+    "aktorowi",
+    "genetycznegenetycznegenetycznegenetycznegenetyczne",
+    "genezagenezagenezagenezageneza",
+    "las",
+    "stanął",
+    "ustaliłem",
+    "miejsce",
+    "pył",
+    "kosmiczny",
+    "stał",
+    "piaszczystym",
+    "gruntem",
+    "dobrym",
+    "sosnę",
+    "jednym",
+    "mgnieniu",
+    "powiek",
+    "znikąd",
+    "tysiącletni",
+    "wyrósł",
+    "matecznik",
+    "zwalił",
+    "wiatr",
+    "twardnieć",
+    "nieznaną",
+    "ziemię",
+    "dokoła",
+    "korzeni",
+    "magnetycznie",
+    "począł",
+    "biegłą",
+    "stopą",
+    "ścieżka",
+    "rozpoczęła",
+    "dalej",
+    "wydeptać",
+    "niebo",
+    "zrozumiało",
+    "lesie",
+    "rósł",
+    "północny",
+    "kierunek",
+    "mchem",
+    "pniach",
+    "południe",
+    "oscylowało",
+    "zmiennym",
+    "słońcem",
+    "mira",
+    "ceti",
+    "wzeszedł",
+    "siódmy",
+    "księżyc",
+    "znudził",
+    "zaczęło",
+    "powszednieć",
+    "cudowne",
+    "stworzenie",
+    "lasu",
+    "kobieta",
+    "wyszła",
+    "niedziela",
+    "bajka",
+    "1970"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 28,
+        "VERB": 16,
+        "ADJ": 13,
+        "ADV": 7,
+        "PRON": 5,
+        "ADP": 9,
+        "CCONJ": 5,
+        "SCONJ": 4,
+        "INTJ": 0,
+        "PART": 4,
+        "DET": 2,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.267,
+        "VERB": 0.152,
+        "ADJ": 0.124,
+        "ADV": 0.067,
+        "PRON": 0.048,
+        "ADP": 0.086,
+        "CCONJ": 0.048,
+        "SCONJ": 0.038,
+        "INTJ": 0,
+        "PART": 0.038,
+        "DET": 0.019,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 1,
+        "abstract": 0,
+        "ratio": 1
+      },
+      "verbTenses": {
+        "past": 14,
+        "infinitive": 2
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 1,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 2,
+        "opisowe": 11
+      },
+      "adverbs": {
+        "temporalne": [],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "wtedy",
+            "count": 2
+          },
+          {
+            "word": "genezagenezagenezagenezageneza",
+            "count": 1
+          },
+          {
+            "word": "dokoła",
+            "count": 1
+          },
+          {
+            "word": "dalej",
+            "count": 1
+          },
+          {
+            "word": "samo",
+            "count": 1
+          },
+          {
+            "word": "kiedy",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 0,
+        "ty": 0,
+        "on_ona": 0,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 1,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 1,
+        "percentSentences": 0.08
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 268,
+        "consonants": 376,
+        "ratio": 0.71
+      },
+      "consonantClusters": {
+        "count": 22,
+        "top": [
+          {
+            "cluster": "czn",
+            "count": 9
+          },
+          {
+            "cluster": "szcz",
+            "count": 3
+          },
+          {
+            "cluster": "ndrz",
+            "count": 1
+          },
+          {
+            "cluster": "czk",
+            "count": 1
+          },
+          {
+            "cluster": "jsc",
+            "count": 1
+          },
+          {
+            "cluster": "mgn",
+            "count": 1
+          },
+          {
+            "cluster": "rdn",
+            "count": 1
+          },
+          {
+            "cluster": "prz",
+            "count": 1
+          },
+          {
+            "cluster": "mch",
+            "count": 1
+          },
+          {
+            "cluster": "wsz",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 28,
+        "syczace": 64,
+        "nosowe": 96,
+        "plynne": 46
+      },
+      "rhymes": {
+        "exact": 2,
+        "approximate": 2,
+        "internal": 0,
+        "assonance": 0,
+        "alliteration": 1
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 8.8,
+        "median": 8,
+        "min": 1,
+        "max": 21,
+        "distribution": [
+          0,
+          1,
+          0,
+          1,
+          0,
+          1,
+          2,
+          1,
+          1,
+          2,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 5.5,
+        "meanSyllables": 14.4,
+        "distribution": [
+          0,
+          3,
+          1,
+          1,
+          0,
+          2,
+          3,
+          4,
+          4,
+          1
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 12,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 3,
+        "noSubject": 1,
+        "noPredicate": 0,
+        "percent": 0.33
+      },
+      "enjambement": {
+        "count": 4,
+        "percent": 0.22,
+        "positions": [
+          1,
+          8,
+          15,
+          16
+        ]
+      },
+      "wordOrder": {
+        "svo": 5,
+        "inversions": 3,
+        "other": 3,
+        "deviationPercent": 0.55
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 0,
+        "śmierć": 0,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 1,
+        "sacrum": 1,
+        "noc": 1,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 273,
+      "estimatedSeconds": 91,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 28,
+      "VERB": 16,
+      "ADJ": 13,
+      "ADV": 7,
+      "PRON": 5,
+      "ADP": 9,
+      "CCONJ": 5,
+      "SCONJ": 4,
+      "INTJ": 0,
+      "PART": 4,
+      "DET": 2,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.267,
+      "VERB": 0.152,
+      "ADJ": 0.124,
+      "ADV": 0.067,
+      "PRON": 0.048,
+      "ADP": 0.086,
+      "CCONJ": 0.048,
+      "SCONJ": 0.038,
+      "INTJ": 0,
+      "PART": 0.038,
+      "DET": 0.019,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 1,
+      "abstract": 0,
+      "ratio": 1
+    },
+    "verbTenses": {
+      "past": 14,
+      "infinitive": 2
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 1,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 2,
+      "opisowe": 11
+    },
+    "adverbs": {
+      "temporalne": [],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "wtedy",
+          "count": 2
+        },
+        {
+          "word": "genezagenezagenezagenezageneza",
+          "count": 1
+        },
+        {
+          "word": "dokoła",
+          "count": 1
+        },
+        {
+          "word": "dalej",
+          "count": 1
+        },
+        {
+          "word": "samo",
+          "count": 1
+        },
+        {
+          "word": "kiedy",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 0,
+      "ty": 0,
+      "on_ona": 0,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 1,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 1,
+      "percentSentences": 0.08
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 8.8,
+      "median": 8,
+      "min": 1,
+      "max": 21,
+      "distribution": [
+        0,
+        1,
+        0,
+        1,
+        0,
+        1,
+        2,
+        1,
+        1,
+        2,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 5.5,
+      "meanSyllables": 14.4,
+      "distribution": [
+        0,
+        3,
+        1,
+        1,
+        0,
+        2,
+        3,
+        4,
+        4,
+        1
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 12,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 3,
+      "noSubject": 1,
+      "noPredicate": 0,
+      "percent": 0.33
+    },
+    "enjambement": {
+      "count": 4,
+      "percent": 0.22,
+      "positions": [
+        1,
+        8,
+        15,
+        16
+      ]
+    },
+    "wordOrder": {
+      "svo": 5,
+      "inversions": 3,
+      "other": 3,
+      "deviationPercent": 0.55
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 268,
+      "consonants": 376,
+      "ratio": 0.71
+    },
+    "consonantClusters": {
+      "count": 22,
+      "top": [
+        {
+          "cluster": "czn",
+          "count": 9
+        },
+        {
+          "cluster": "szcz",
+          "count": 3
+        },
+        {
+          "cluster": "ndrz",
+          "count": 1
+        },
+        {
+          "cluster": "czk",
+          "count": 1
+        },
+        {
+          "cluster": "jsc",
+          "count": 1
+        },
+        {
+          "cluster": "mgn",
+          "count": 1
+        },
+        {
+          "cluster": "rdn",
+          "count": 1
+        },
+        {
+          "cluster": "prz",
+          "count": 1
+        },
+        {
+          "cluster": "mch",
+          "count": 1
+        },
+        {
+          "cluster": "wsz",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 28,
+      "syczace": 64,
+      "nosowe": 96,
+      "plynne": 46
+    },
+    "rhymes": {
+      "exact": 2,
+      "approximate": 2,
+      "internal": 0,
+      "assonance": 0,
+      "alliteration": 1
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        19
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 273,
+      "estimatedSeconds": 91,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "polregularny",
+      "regularityScore": 0.7
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Biblia",
+          "reference": "Księga Rodzaju - akt stworzenia",
+          "evidence": "\"Las sam stanął Nim jeszcze ustaliłem miejsce\", \"pył kosmiczny stał się choć piaszczystym Gruntem\", \"cudowne stworzenie\""
+        },
+        {
+          "source": "mitologia",
+          "reference": "kosmogonia - powstawanie świata",
+          "evidence": "\"pył kosmiczny\", \"Magnetycznie pył począł\", \"Niebo się samo przez się zrozumiało\""
+        },
+        {
+          "source": "inne",
+          "reference": "astronomia - Mira Ceti (gwiazda zmienna)",
+          "evidence": "\"Mira Ceti\" - konkretne odniesienie do gwiazdy zmiennej"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.7,
+        "baudelaire": 0.3,
+        "bursa": 0.1,
+        "stachura": 0.2,
+        "grochowiak": 0.1,
+        "bialoszewski": 0.1,
+        "rozewicz": 0.1
+      }
+    },
+    "space": {
+      "type": "otwarta",
+      "evidence": "\"Las\", \"pył kosmiczny\", \"Ziemia\", \"Niebo\", \"północny kierunek\", \"Południe\" - przestrzeń kosmiczna i leśna",
+      "openClosedRatio": 0.9
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "nieokreslona",
+      "evidence": "Czas kosmogoniczny, mityczny - \"siódmy księżyc\", \"zmiennym słońcem\" - poza kategoriami doby i pór roku"
+    },
+    "motion": {
+      "movement": 8,
+      "stillness": 2,
+      "dynamism": 0.8,
+      "evidence": "\"Las sam stanął\", \"wyrósł\", \"Twardnieć\", \"Ścieżka się rozpoczęła\", \"Rósł północny kierunek\", \"Oscylowało\", \"wzeszedł\", \"wyszła\" - ciągły ruch stworzenia"
+    },
+    "imageryDensity": {
+      "metaphors": 12,
+      "comparisons": 2,
+      "personifications": 8,
+      "hyperboles": 3,
+      "per100words": 41.1
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.3,
+      "creationLevel": 0.9,
+      "ironicDistance": 0.1,
+      "autobiographicSignals": [
+        "dedykacja \"Andrzejowi Wojaczkowi aktorowi\"",
+        "tytuł \"INNA BAJKA\" sugerujący dystans narratorski"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "euforia",
+      "secondary": "czułość",
+      "intensity": 0.8
+    },
+    "subjectPresence": {
+      "type": "ukryte",
+      "evidence": "Podmiot obserwuje kosmogonię, obecny w aktach postrzegania ('ustaliłem miejsce', 'zrozumiało się')"
+    },
+    "addressee": {
+      "type": "czytelnik",
+      "evidence": "Wiersz ma charakter opowieści kosmogoniczny skierowanej do odbiorcy, dedykacja wskazuje na konkretnego adresata"
+    },
+    "metaphors": [
+      {
+        "source": "las",
+        "target": "początek świata",
+        "example": "Las sam stanął Nim jeszcze ustaliłem miejsce"
+      },
+      {
+        "source": "kobieta",
+        "target": "niedziela",
+        "example": "z lasu kobieta wyszła jak niedziela"
+      },
+      {
+        "source": "pył kosmiczny",
+        "target": "grunt",
+        "example": "pył kosmiczny stał się choć piaszczystym Gruntem"
+      }
+    ],
+    "temperature": {
+      "value": 0.7,
+      "label": "ciepłe - ton kreacyjny i fascynujący"
+    },
+    "senses": {
+      "wzrok": 5,
+      "sluch": 1,
+      "dotyk": 3,
+      "smak": 0,
+      "zapach": 1
+    },
+    "autodestruction": {
+      "level": 0.1,
+      "signals": [
+        "Minimalne sygnały w kontraście między cudownością a powszednieniem"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 0.978,
+    "dfaAlpha": 2.065,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -1.039720770839917
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -0.9198804309846481
+      },
+      {
+        "logWin": 1.6094379124341003,
+        "logFluc": -0.04597859274228979
+      },
+      {
+        "logWin": 1.791759469228055,
+        "logFluc": 0.29208638402172127
+      }
+    ],
+    "seriesLength": 19,
+    "series": [
+      2,
+      1,
+      1,
+      1,
+      7,
+      9,
+      8,
+      6,
+      8,
+      6,
+      7,
+      6,
+      8,
+      7,
+      5,
+      8,
+      5,
+      7,
+      3
+    ]
+  }
+}

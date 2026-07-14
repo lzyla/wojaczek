@@ -1,0 +1,354 @@
+{
+  "verses": [
+    {
+      "text": "Ja jestem pozioma\nTy jesteś pionowy\nTy jesteś góra\nJa jestem dolina",
+      "annotations": [
+        {
+          "node_id": "1a",
+          "aspect": "slowo",
+          "phrase": "pozioma/pionowy",
+          "comment": "Opozycja geometryczna jako metafora relacji erotycznej. 'Pozioma' — łac. horizontalis, rozciągłość, bierność; 'pionowy' — vertikalis, wznosząca się siła, aktywność. Tradycyjny podział ról płciowych zakodowany w przestrzeni.",
+          "full_analysis": "Wojaczek konstruuje wiersz na fundamentalnej opozycji geometryczno-przestrzennej, która stanie się kluczem do całego tekstu. Słowa 'pozioma' i 'pionowy' to nie tylko określenia fizyczne, ale metafory kulturowo nacechowane — kobieta jako horyzont, rozciągłość, ziemskość, mężczyzna jako wertykalność, transcendencja, duchowość. [BIOGRAFIA: 1966 — okres studiów we Wrocławiu, pierwsze doświadczenia erotyczne]. Ta binarność przypomina struktury myślenia religijnego — dół/góra, ciało/duch — ale Wojaczek wykorzystuje je do opisu związku intymnego, profanując tradycyjną symbolikę. Polisemia słowa 'pozioma' (prostytutka w slagu) wprowadza dodatkowe napięcie — kobieta zostaje określona przez swoją seksualność.\n\nOpozycja ta ma wymiar fenomenologiczny — dotyczy doświadczania własnego ciała w przestrzeni. Poziomość to stan spoczynku, podatności, otwartości; pionowość to napięcie, erekcja, dominacja. Wojaczek materializuje abstrakcyjne kategorie płciowości.\n\nGeometria staje się językiem intymności — co radykalne jak na 1966 rok w polskiej poezji. To prekursorskie wykorzystanie dyskursu cielesności, które wyprzedza o dekady podobne eksperymenty w literaturze polskiej.",
+          "connects_to": [
+            "5a",
+            "6b"
+          ],
+          "contradicts": "5a",
+          "contradiction_reason": "Późniejsza inwersja ról kwestionuje tę początkową stabilność",
+          "alt_readings": [
+            "Metafora społeczna — kobieta jako podporządkowana, mężczyzna jako dominujący",
+            "Opis konkretnej pozycji seksualnej bez metaforyzacji",
+            "Ironiczne wykorzystanie stereotypów płciowych do ich dekonstrukcji"
+          ]
+        },
+        {
+          "node_id": "1b",
+          "aspect": "forma",
+          "phrase": "Ja jestem... Ty jesteś...",
+          "comment": "Paralelizm składniowy buduje rytm mantryczny. Struktura litanijnej wyliczanki, ale zamiast inwokacji religijnej — intymna konfesja. Anaforyczne powtórzenia tworzą hipnotyczną narrację ciała.",
+          "full_analysis": "Wojaczek wykorzystuje formułę paralelizmu biblijnego ('Ja jestem drogą i prawdą') do konstrukcji erotycznej litanii. Ta struktura ma kilka wymiarów: po pierwsze, rytmizuje tekst, tworząc puls podobny do oddechu czy bicia serca — somatyczne echo aktu miłosnego. Po drugie, naśladuje składnię psalmów i kantyków, ale wypełnia ją treścią zmysłową, co tworzy efekt sacrálnej profanacji.\n\nPowtarzająca się formuła 'Ja jestem... Ty jestem...' buduje narrację tożsamościową — podmioty definiują się przez relację do siebie nawzajem. To nie solipsystyczne wyznanie, ale dialog, choć jednostronny. Brak odpowiedzi ze strony 'Ty' może sugerować asymetrię w związku lub charakter modlitwy — zwracanie się do nieobecnego boga-kochanka.\n\nSkladnia jest celowo uproszczona, redukowana do minimum — podmiot, orzeczenie, przydawka. Ta oszczędność środków przypomina poezję Różewicza, ale służy innemu celowi — nie demistyfikacji języka, ale jego remitologizacji poprzez erotyzm.",
+          "connects_to": [
+            "2b",
+            "4a"
+          ],
+          "contradicts": "",
+          "contradiction_reason": "",
+          "alt_readings": [
+            "Naśladowanie stylu modlitewnego z Pisma Świętego",
+            "Struktura rozliczeniowa — bilans związku",
+            "Rytm zbliżony do zaklęć lub formuł magicznych"
+          ]
+        },
+        {
+          "node_id": "1c",
+          "aspect": "obraz",
+          "phrase": "góra/dolina",
+          "comment": "Krajobraz erotyczny ciała. Góra jako wypiętrzenie, dominacja, fallus; dolina jako zagłębienie, przyjęcie, vagina. Topografia anatomiczna przekłada się na geografię symboliczną. [INTERTEKST: Pieśń nad Pieśniami — 'góry wonności']",
+          "full_analysis": "Metafora góry i doliny należy do najbardziej archaicznych sposobów opisywania relacji seksualnych. Wojaczek sięga do symboliki obecnej już w Pieśni nad Pieśniami ('Góry wonności', 'doliny uciech'), ale pozbawia ją ornamentacji retorycznej — zostają tylko fundamentalne kształty.\n\nW tradycji romantycznej góra to symbol wzniosłości, duchowej transcendencji (Mickiewicz w Alpach), dolina — miejsce schronienia, ale też ograniczenia. Tutaj te sensy zostają zerotyzowane, ale nie całkiem zatracone — erotyzm Wojaczka zachowuje wymiar metafizyczny, związek kochanków ma aspekt sakralny.\n\n[BIOGRAFIA: 1966 — Wojaczek mieszka w Sudetach, krajobraz górski jest mu bliski]. Konkretne doświadczenie topograficzne przekłada się na metaforykę intymną. To nie abstrakcyjne symbole, ale żywa geografia ciała i miejsca.\n\nObraz ten wprowadza także aspekt fenomenologiczny — ciało odczuwane jako krajobraz, geografia przyjemności i bólu. Kobieta jako dolina to nie tylko metafora anatomiczna, ale sposób doświadczania własnej cielesności — jako przestrzeni otwartej, przyjmującej, podatnej na penetrację.",
+          "connects_to": [
+            "2a",
+            "3a"
+          ],
+          "contradicts": "",
+          "contradiction_reason": "",
+          "alt_readings": [
+            "Opis konkretnego krajobrazu śląskiego jako tła dla sceny miłosnej",
+            "Metafora społeczna — różnice statusu, wykształcenia, pochodzenia",
+            "Nawiązanie do archetypów jungowskich — anima/animus"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Ja jestem Ziemia\nTy jesteś Słońce\nJa jestem tarcza\nTy jesteś miecz",
+      "annotations": [
+        {
+          "node_id": "2a",
+          "aspect": "intertekst",
+          "phrase": "Ziemia/Słońce",
+          "comment": "[INTERTEKST: mitologie solarne — Demeter/Apollo, Gaja/Helios]. Archetyp kobiecości jako Matki Ziemi i męskości jako bóstwa słonecznego. Wojaczek reaktywuje pradawne mity w kontekście erotycznym, ale z zachowaniem ich kosmicznej skali.",
+          "full_analysis": "Para Ziemia/Słońce należy do fundamentalnych opozycji mitologicznych. W tradycji greckiej Gaja (Ziemia) jest macierzyńskim principium, rodzicielką bogów, podczas gdy Helios (Słońce) reprezentuje męskie, penetrujące światło. Wojaczek świadomie sięga po ten archetyp, ale umieszcza go w kontekście współczesnej intymności.\n\n[INTERTEKST: Paul Celan — 'Fuga śmierci', gdzie także pojawia się opozycja światło/ciemność w kontekście erotyczno-thanatologicznym]. Wojaczek może nawiązywać do Celana, którego twórczość poznał w tłumaczeniach. Podobne jest łączenie kosmicznych metafor z opisem relacji między kochankami.\n\nMitologizacja związku miłosnego to sposób nadania mu wymiaru uniwersalnego — nie tylko dwoje ludzi się kocha, ale odtwarza się podstawowa struktura kosmosu. To charakterystyczne dla Wojaczka poszukiwanie transcendencji w immanencji, sakrum w profanum.\n\n[BIOGRAFIA: 1966 — Wojaczek czyta intensywnie filozofię, szczególnie Nietzschego]. Dionizyjska wizja związku jako kosmicznej siły, nie tylko prywatnego uczucia, odpowiada światopoglądowi poety z tego okresu.",
+          "connects_to": [
+            "3b",
+            "4b"
+          ],
+          "contradicts": "",
+          "contradiction_reason": "",
+          "alt_readings": [
+            "Nawiązanie do alchemii — spójnia przeciwieństw",
+            "Opis cyklu naturalnego — dzień/noc, pory roku",
+            "Metafora władzy — Słońce jako suwerenny władca, Ziemia jako poddana"
+          ]
+        },
+        {
+          "node_id": "2b",
+          "aspect": "napiecie",
+          "phrase": "tarcza/miecz",
+          "comment": "Przejście od kosmicznej harmonii do militarnej agresji. Miłość jako walka, penetracja jako atak. Tarcza — obrona, pasywność; miecz — atak, aktywność. Erotyzm przemocowy, ale czy rzeczywisty, czy imitacyjny?",
+          "full_analysis": "Metafora tarczy i miecza radykalnie zmienia tonację wiersza — od kosmicznej harmonii przechodzimy do wyobrażeń militarnych. To nie przypadek: w kulturze patriarchalnej akt seksualny często opisywany jest w kategoriach wojny, podboju, penetracji jako ataku.\n\nWojaczek balansuje tu na granicy między opisem a krytyką tych wyobrażeń. Z jednej strony reprodukuje stereotypy — kobieta jako bierna ofiara, mężczyzna jako agresor. Z drugiej strony — sama oczywistość tej metafory może być ironiczna, pokazywać absurdalność militaryzacji erotyzmu.\n\n[BIOGRAFIA: 1966 — służba wojskowa, doświadczenie koszar i militarnej dyscypliny]. Bezpośrednie doświadczenie wojskowości przekłada się na metaforykę intymną. Ale czy to afirmacja męskiej agresywności, czy jej demaskacja?\n\nNapięcie powstaje także między formą i treścią — delikatny, rytmiczny wiersz opisuje brutalne wyobrażenia. Ta dysproporcja może być kluczem do interpretacji — Wojaczek pokazuje, jak język poezji 'cywilizuje' przemocowe fantazje, czyni je akceptowalnymi.",
+          "connects_to": [
+            "3c",
+            "4c"
+          ],
+          "contradicts": "2a",
+          "contradiction_reason": "Przechodzi od harmonii kosmicznej do konfliktu militarnego",
+          "alt_readings": [
+            "Opis sadomasochistycznych fantazji seksualnych",
+            "Metafora obrony przed inwazją — seksualność jako przemoc",
+            "Ironiczne przedstawienie męskich stereotypów o 'zdobywaniu' kobiet"
+          ]
+        },
+        {
+          "node_id": "2c",
+          "aspect": "cialo",
+          "phrase": "tarcza",
+          "comment": "Ciało kobiece jako powierzchnia obronna, ale paradoksalnie — ochronna dla agresora. Tarcza przyjmuje cios, ale też go absorbuje, neutralizuje. Fenomenologia bycia penetrowanym — nie tylko bierność, ale aktywna absorpcja.",
+          "full_analysis": "Metafora tarczy wprowadza złożoną fenomenologię cielesności. Tarcza to nie tylko obiekt bierny — to narzędzie obrony, które wymaga umiejętności, siły, strategii. Kobieta-tarcza nie jest więc tylko ofiarą, ale aktywnym uczestnikiem 'walki'.\n\nW wymiarze erotycznym tarcza może oznaczać powierzchnię ciała, które przyjmuje pieszczoty, ale też je 'odbija' — odpowiada na nie, generuje własną przyjemność. To bardziej złożona metafora niż pozorna bierność mogłaby sugerować.\n\n[INTERTEKST: mitologia grecka — Atena z tarczą, wojownicza dziewictwo]. Tarcza kojarzy się z Ateną, dziewiczą bogini, która łączy kobiecość z wojowniczością. Czy Wojaczek nawiązuje do tego archetypu? Kobieta, która broni swojej autonomii, nawet w akcie miłosnym?\n\nFenomenologia tarczy to także doświadczenie granic — między sobą a drugim, między wnętrzem a zewnętrzem. Ciało jako granica, która jest przekraczana, ale też stanowi opór, tworzy napięcie niezbędne do przyjemności.",
+          "connects_to": [
+            "4d"
+          ],
+          "contradicts": "",
+          "contradiction_reason": "",
+          "alt_readings": [
+            "Metafora ochrony — kobieta jako obrończyni związku",
+            "Symbol dziewictwa, które ma być 'przełamane'",
+            "Opis konkretnego elementu erotycznej gry wstępnej"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Ja jestem rana\nTy jesteś ból\nJa jestem noc\nTy jesteś Bóg",
+      "annotations": [
+        {
+          "node_id": "3a",
+          "aspect": "afekt",
+          "phrase": "rana/ból",
+          "comment": "Eksplozja masochizmu. Miłość jako wzajemne zadawanie cierpienia — ale kto kogo rani? Rana istnieje przed bólem, czy ból tworzy ranę? Fenomenologia cierpienia jako ekstazy, nie tylko destrukcji.",
+          "full_analysis": "Para rana/ból wprowadza do wiersza wymiar sadystyczno-masochistyczny, ale w sposób filozoficznie wyrafinowany. Pytanie fundamentalne: czy rana poprzedza ból, czy ból tworzy ranę? W logice tekstu kobieta 'jest' raną, mężczyzna 'jest' bólem — co sugeruje, że to jej kondycja ontologiczna, jego — działanie.\n\nTo może być krytyka kultury patriarchalnej — kobieta skazana na cierpienie, mężczyzna na zadawanie go. Ale może też — afirmacja masochistycznej struktury pragnienia. [BIOGRAFIA: 1966 — pierwsze symptomy choroby psychicznej, autoagresja]. Autobiograficzny wymiar tej metafory jest niepokojący.\n\n[INTERTEKST: Różewicz — 'jestem jak rana otwarta'], ale u Różewicza rana to skutek wojny, traumy historycznej. U Wojaczka — efekt miłości. To radykalne przesunięcie: intymność jako pole walki równie niszczącej co wojna.\n\nAfektywnie ten fragment działa jak szok — po kosmicznych metaforach (Ziemia/Słońce) nagłe zanurzenie w ból. Czytelnik doświadcza tej przemiany jako ciosu, co jest zapewne intencją poety.",
+          "connects_to": [
+            "4e",
+            "5c"
+          ],
+          "contradicts": "2a",
+          "contradiction_reason": "Od harmonii kosmicznej do destrukcji i cierpienia",
+          "alt_readings": [
+            "Opis fizycznego bólu podczas pierwszego aktu seksualnego",
+            "Metafora egzystencjalna — być kobietą znaczy być zranioną",
+            "Nawiązanie do mistyki chrześcijańskiej — rana Chrystusa"
+          ]
+        },
+        {
+          "node_id": "3b",
+          "aspect": "biografia",
+          "phrase": "noc/Bóg",
+          "comment": "Teologia erotyczna — mężczyzna jako bóstvo, kobieta jako ciemność. [BIOGRAFIA: 1966 — kryzys religijny, odejście od katolicyzmu]. Wojaczek zastępuje Boga tradycyjnego Bogiem-kochankiem. Profanacja czy sakralizacja?",
+          "full_analysis": "[BIOGRAFIA: lata 60. — Wojaczek przechodzi kryzys wiary, odchodzi od praktykowania katolicyzmu]. W tym kontekście wiersz można czytać jako zastąpienie religii tradycyjnej religią miłości — kochanek staje się nowym bogiem, akt seksualny — nowym kultem.\n\nOpozycja noc/Bóg ma wymiar metafizyczny. Noc to nie tylko ciemność, ale tradycyjnie także kobiecość, tajemnica, nieświadomość (nox w łacińskiej tradycji to pierwotna bogini). Bóg to światło, racjonalność, transcendencja. Ale czy to oznacza, że kobieta reprezentuje chaos, a mężczyzna — ład?\n\nMoże odwrotnie — noc jako przestrzeń, w której Bóg się objawia. W tradycji mistycznej (Jan od Krzyża — 'Noc ciemna duszy') noc to czas spotkania z bóstwem. Kobieta-noc nie jest przeciwieństwem Boga-mężczyzny, ale przestrzenią, w której się objawia.\n\n[INTERTEKST: Nietzsche — 'Bóg umarł'], ale u Wojaczka rodzi się nowy bóg — erotyczny, cielesny, immanentny. To odpowiedź na kryzys tradycyjnej religijności — nie ateizm, ale transformacja sakrum.",
+          "connects_to": [
+            "4f"
+          ],
+          "contradicts": "",
+          "contradiction_reason": "",
+          "alt_readings": [
+            "Opis doświadczenia mistycznego podczas aktu seksualnego",
+            "Ironia — banalizacja pojęcia boga przez erotyzm",
+            "Kryptoportret konkretnej relacji — kochanek jako tyrański 'bóg'"
+          ]
+        },
+        {
+          "node_id": "3c",
+          "aspect": "kontekst",
+          "phrase": "Bóg",
+          "comment": "W PRL-u nazywanie kochanka 'Bogiem' to prowokacja polityczna i religijna. Cenzura, ateizm państwowy, a tu — sakralizacja erotyzmu. Wojaczek łamie tabu podwójnie: seksualne i ideologiczne.",
+          "full_analysis": "Wiersz powstaje w 1966 roku, w okresie nasilonych ataków na Kościół w Polsce. Używanie słowa 'Bóg' w kontekście erotycznym to podwójna prowokacja — wobec władzy komunistycznej (promującej ateizm) i wobec Kościoła (broniącego tradycyjnej moralności).\n\nWojaczek tworzy nowy język religijny — nie antyreligijny, ale alternatywnie religijny. To nie negacja sacrum, ale jego relokacja — z nieba do łóżka, z transcendencji w immanencję. Dla władz komunistycznych to może być akceptowalne (w końcu podważa autorytet Kościoła), ale jednocześnie wprowadza nowy typ duchowości, równie niebezpieczny dla ateistycznej ideologii.\n\n[KONTEKST: lata 60. — rewolucja seksualna na Zachodzie dociera do Polski]. Wojaczek uczestniczy w tej przemianie, ale po polsku — przez pryzmat katolickiej tradycji, którą transformuje, a nie odrzuca.\n\nCenzura faktycznie nie reaguje na ten wiersz — może nie dostrzega jego radykalizmu, może uznaje za nieszkodliwy. To pokazuje, jak subwersywna może być poezja działająca pozornie 'tylko' w sferze prywatnej.",
+          "connects_to": [
+            "2a"
+          ],
+          "contradicts": "",
+          "contradiction_reason": "",
+          "alt_readings": [
+            "Kpina z religii — banalizacja pojęcia boga",
+            "Neopoganizm — powrót do religii natury, płodności",
+            "Autoironia — poeta jako 'bóg' swojej kobiety"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Ty jesteś ogień\nJa jestem woda\nJa jestem naga\nTy jesteś we mnie",
+      "annotations": [
+        {
+          "node_id": "4a",
+          "aspect": "slowo",
+          "phrase": "ogień/woda",
+          "comment": "Elementarna opozycja — ale nie wykluczająca się, lecz komplementarna. Ogień potrzebuje powietrza, ale może także zagrzać wodę, zamienić ją w parę. Erotyzm jako alchemia pierwiastków, transformacja materii.",
+          "full_analysis": "Para ogień/woda należy do podstawowych opozycji w myśli symbolicznej — od przedsokratyków (Heraklit — ogień jako logos, Tales — woda jako arche) przez alchemię (solve et coagula) po psychoanalityczne archetypy. Wojaczek wykorzystuje tę tradycję, ale w kontekście cielesnej intymności.\n\nOgień i woda to nie tylko przeciwieństwa, ale elementy, które mogą się wzajemnie transformować. Woda pod wpływem ognia staje się parą — zmienia stan skupienia, pozostając sobą. To metafora przekształcenia, jakiego doświadczają kochankowie — zachowują tożsamość, ale zmieniają 'stan skupienia' świadomości, ciała, duszy.\n\n[INTERTEKST: Bachelard — fenomenologia wyobraźni materialnej]. Ogień i woda to podstawowe materie poetyckiej wyobraźni. Ogień to dynamizm, agresja, przemiana; woda to płynność, adaptacja, przyjęcie. Kochanek-ogień przemienia kochankę-wodę, ale ona go też 'gasi', tempera jego żar.\n\nW wymiarze fenomenologicznym to także opis wrażeń cielesnych — gorąco i chłód, suchość i wilgoć, napięcie i rozluźnienie. Wojaczek buduje mapę wrażeń zmysłowych, nie tylko metaforyczny system.",
+          "connects_to": [
+            "1a",
+            "5b"
+          ],
+          "contradicts": "",
+          "contradiction_reason": "",
+          "alt_readings": [
+            "Opis temperamentów — mężczyzna porywczy, kobieta spokojna",
+            "Metafora fizjologiczna — gorączka pożądania i chłodzące wydzieliny",
+            "Alchemia duchowa — połączenie przeciwieństw jako droga do pełni"
+          ]
+        },
+        {
+          "node_id": "4b",
+          "aspect": "forma",
+          "phrase": "naga",
+          "comment": "Pierwsza konkretna sytuacja w wierszu — dotąd same metafory, tu — realna nagość. Przełamanie abstrakcji, wtargnięcie cielesności. Ale czy to nagość fizyczna, czy metafizyczna — 'naga prawda'?",
+          "full_analysis": "Słowo 'naga' funkcjonuje na kilku poziomach znaczeniowych. Po pierwsze — dosłownie: kobieta bez ubrania, co wprowadza konkretny, zmysłowy wymiar do dotąd metaforycznego dyskursu. To przełom w strukturze wiersza — od symboli do fizyczności.\n\nPo drugie — egzystencjalnie: nagość jako bezbronność, odsłonięcie, autentyczność. 'Jestem naga' to wyznanie totalnej otwartości, rezygnacji z masek, osłon, społecznych ról. W kontekście PRL-u, gdzie prywatność była luksusem, nagość staje się formą oporu — deklaracją prawa do intymności.\n\nPo trzecie — metafizycznie: nawiązanie do biblijnej nagości Adama i Ewy przed grzechem pierworodnym. Kobieta-kochanka jako Eva ante lapsum — niewinność przed upadkiem, ale też gotowość do przekroczenia.\n\nFormalnie słowo 'naga' wyróżnia się na tle innych — jest jednosylabowe, ostre, bezpośrednie. Po płynnych metaforach (dolina, słońce, woda) — konkretna, brutalna rzeczywistość ciała.",
+          "connects_to": [
+            "4c",
+            "5d"
+          ],
+          "contradicts": "",
+          "contradiction_reason": "",
+          "alt_readings": [
+            "Opis konkretnej sytuacji — scena miłosna w łóżku",
+            "Metafora społeczna — kobieta pozbawiona ochrony, bezbronna",
+            "Symbol prawdy — nagość jako autentyczność, brak udawania"
+          ]
+        },
+        {
+          "node_id": "4c",
+          "aspect": "cialo",
+          "phrase": "we mnie",
+          "comment": "Penetracja jako nie tylko fizyczny, ale ontologiczny akt. 'We mnie' — nie 'w moim ciele', ale we mnie jako istocie. Zatarcie granic między fizycznością a duchowością, między ciałem a tożsamością.",
+          "full_analysis": "Formuła 'Ty jesteś we mnie' to jeden z najbardziej bezpośrednich opisów penetracji w polskiej poezji lat 60. Ale Wojaczek nie używa eufemizmów ani wulgarności — wybiera formułę, która ma wymiar nie tylko fizyczny, ale egzystencjalny.\n\n'We mnie' — nie 'w moim ciele' czy 'w mojej pochwie' — sugeruje, że penetracja dotyczy całości osoby, nie tylko anatomii. To głębokie rozumienie seksualności jako spotkania dwóch tożsamości, nie tylko ciał. Kochanek nie tylko penetruje ciało kochanki, ale jej świadomość, pamięć, wyobraźnię.\n\nFenomenologicznie to opis doświadczenia bycia wypełnioną przez inną osobę. Nie pasywność, ale aktywne przyjęcie, kontemplacja obecności drugiego w sobie. Maurice Merleau-Ponty pisał o cielesności jako o fundamentalnym sposobie bycia w świecie — tutaj ciało staje się światem dla drugiej osoby.\n\n[BIOGRAFIA: 1966 — Wojaczek ma 21 lat, doświadcza pierwszych głębszych związków]. Ta formuła może mieć autobiograficzną podstawę — opis konkretnego doświadczenia, które stało się uniwersalną metaforą.",
+          "connects_to": [
+            "1a",
+            "6a"
+          ],
+          "contradicts": "",
+          "contradiction_reason": "",
+          "alt_readings": [
+            "Opis aktu seksualnego bez eufemizmów",
+            "Metafora duchowego połączenia — 'jesteś w moich myślach'",
+            "Fenomenologia ciąży — nowe życie 'we mnie'"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Ja jestem pozioma\nAle nie zawsze\nTy jesteś pionowy\nAle do czasu",
+      "annotations": [
+        {
+          "node_id": "5a",
+          "aspect": "napiecie",
+          "phrase": "ale nie zawsze",
+          "comment": "Pierwszy moment wątpliwości w wierszu. Stabilne role płciowe okazują się tymczasowe, zmienne. 'Ale' wprowadza logikę sprzeciwu, oporu wobec determinizmu biologicznego.",
+          "full_analysis": "Fragment 'Ale nie zawsze' wprowadza fundamentalną zmianę w logice wiersza. Po dwudziestu wersach budowania stałych opozycji binarnych pojawia się pierwsze zakwestionowanie ich trwałości. To moment krytyczny — czy dotychczasowe metafory były tylko chwilową grą, czy opisywały istotę relacji?\n\n'Ale' to spójnik przeciwstawny, który zaprzecza temu, co zostało wcześniej ustalone. Kobieta może przestać być 'pozioma' — w sensie fizycznym (zmiana pozycji), psychicznym (przejęcie inicjatywy), czy społecznym (odrzucenie tradycyjnej roli). To moment emancypacyjny w tekście.\n\nRytmicznie te dwa wersy różnią się od poprzednich — są dłuższe, zawierają więcej sylab, co spowalnia tempo. Po monotonnym rytmie litanii pojawia się pauza, czas na refleksję. To także struktura muzyczna — accelerando, które nagle zwalnia przed finałem.\n\n[BIOGRAFIA: lata 60. — ruch emancypacji kobiet na świecie]. Wojaczek może reagować na zmiany społeczne, w których tradycyjne role płciowe zostają zakwestionowane. Wiersz staje się nie tylko opisem, ale także prognozą zmian.",
+          "connects_to": [
+            "1a",
+            "6b"
+          ],
+          "contradicts": "1a",
+          "contradiction_reason": "Kwestionuje stabilność ról płciowych ustanowioną na początku",
+          "alt_readings": [
+            "Zapowiedź końca związku — role się zmienią, bo relacja się zmienia",
+            "Opis konkretnych pozycji seksualnych — zmiana podczas aktu",
+            "Metafora społeczna — kobiety zaczynają walczyć o równouprawnienie"
+          ]
+        },
+        {
+          "node_id": "5b",
+          "aspect": "porownanie",
+          "phrase": "ale do czasu",
+          "comment": "Męska dominacja ma datę ważności. Porównaj z Herbert: 'Tron' — tam władza trwa, tu — jest efemeryczna. Wojaczek dekonstruuje męski mit niezmienności, pokazuje jego historyczność, względność.",
+          "full_analysis": "Formuła 'ale do czasu' to radykalne zakwestionowanie męskiej dominacji jako struktury naturalnej i wiecznej. W tradycyjnej kulturze patriarchalnej męska siła, pionowość, władza prezentowane są jako ponadczasowe, niezmienne prawa natury.\n\nWojaczek pokazuje, że to tylko chwilowa konfiguracja, podlegająca zmianie. 'Do czasu' — ale jakiego? Końca aktu seksualnego, końca związku, końca epoki patriarchatu? Ta niedookreśloność jest celowa — otwiera tekst na różne interpretacje.\n\nPorównanie z Herbertem jest tu produktywne — w 'Tronie' Herbert pisze o władzy jako strukturze wiecznej, u Wojaczka władza (także seksualna) jest przemijająca. To różnica generacyjna — Herbert (ur. 1924) myśli kategoriami stabilności, Wojaczek (ur. 1945) — przemijania.\n\n[INTERTEKST: Różewicz — 'nic się nie zmieniło'], ale tu wszystko się zmienia. Wojaczek jest bardziej optymistyczny od Różewicza co do możliwości transformacji, przynajmniej w sferze intymnej. To może wpływ kontrkultury lat 60., której hasłem było 'change the world'.",
+          "connects_to": [
+            "6c"
+          ],
+          "contradicts": "",
+          "contradiction_reason": "",
+          "alt_readings": [
+            "Zapowiedź utraty potencji seksualnej — 'pionowość' jako erekcja",
+            "Proroctwo zmiany społecznej — koniec patriarchatu",
+            "Ironia — mężczyzna tylko pozoruje siłę, w rzeczywistości jest słaby"
+          ]
+        },
+        {
+          "node_id": "5c",
+          "aspect": "afekt",
+          "phrase": "ale",
+          "comment": "Spójnik 'ale' powtórzony dwukrotnie tworzy efekt dramatyczny — oczekiwanie, napięcie, niepewność. Po monotonii litanii — dialektyczny zwrot. Czytelnik czuje, że coś ważnego się zmienia.",
+          "full_analysis": "Powtórzenie spójnika 'ale' w dwóch kolejnych wersach ma silny efekt retoryczny i afektywny. Po osiemnastu wersach budowanych na formule 'Ja jestem... Ty jesteś...' pojawia się element negacji, sprzeciwu, wątpliwości.\n\nAfektywnie to moment przebudzenia — z hipnotycznego rytmu litanii czytelnik zostaje wytrącony przez sygnał oporu. 'Ale' to nie tylko logiczny kontrargument, ale emocjonalny protest przeciw determinizmowi ról płciowych.\n\nW strukturze całego wiersza te dwa 'ale' pełnią funkcję zawiasu — dzielą tekst na część mitologiczno-metafizyczną (wersy 1-16) i część egzystencjalnie konkretną (wersy 17-24). To przejście od archetypu do historii, od mitu do rzeczywistości.\n\nDialektycznie te dwa 'ale' wprowadzają trzeci element do binarnej struktury — teza (ja pozioma, ty pionowy), antyteza (ale nie zawsze, ale do czasu), synteza (co będzie dalej?). Heglowska logika w miniaturze, ale zastosowana do intymności, nie do dziejów świata.",
+          "connects_to": [
+            "6a"
+          ],
+          "contradicts": "",
+          "contradiction_reason": "",
+          "alt_readings": [
+            "Moment zwątpienia w związek — 'ale czy na pewno?'",
+            "Przebudzenie z erotycznego transu — powrót do rzeczywistości",
+            "Zapowiedź zmian — 'ale coś się zmienia'"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Ja jestem pionowa\nGóra orgazmu\nTy jesteś pionowy\nPrzy mnie",
+      "annotations": [
+        {
+          "node_id": "6a",
+          "aspect": "slowo",
+          "phrase": "pionowa",
+          "comment": "Inwersja ról — kobieta przejmuje męską 'pionowość'. Czy to emancypacja, czy tylko pozycja seksualna? Polisemia słowa 'pionowa' — fizyczna, społeczna, metafizyczna — tworzy wielowarstwową interpretację.",
+          "full_analysis": "Transformacja kobiety z 'poziomej' w 'pionową' to kluczowy moment wiersza — przewrócenie hierarchii, rewolucja w mikro-skali. 'Pionowość' oznacza aktywność, dominację, inicjatywę — tradicionalnie męskie atrybuty, teraz przejęte przez kobietę.\n\nFizycznie może to oznaczać zmianę pozycji podczas aktu seksualnego — kobieta na górze, mężczyzna na dole. To rzeczywista praktyka erotyczna, ale także symboliczne odwrócenie ról społecznych. W kulturze, gdzie 'góra' oznacza władzę, to radykalna zmiana.\n\nMetafizycznie 'pionowość' to transcendencja, wznoszenie się ponad materie, duchowość. Kobieta przestaje być 'tylko' ciałem (poziomość, ziemskość) i staje się także duchem (pionowość, niebiańskość). To podważenie tradycyjnego podziału: mężczyzna = duch, kobieta = ciało.\n\n[BIOGRAFIA: 1966 — Wojaczek doświadcza związków, w których kobiety są silne, dominujące]. To może opis konkretnych doświadczeń erotycznych, ale przetransponowanych na język uniwersalnej metafory. Autobiografia staje się antropologią.",
+          "connects_to": [
+            "1a",
+            "6b"
+          ],
+          "contradicts": "1a",
+          "contradiction_reason": "Odwraca fundamentalną opozycję z początku wiersza",
+          "alt_readings": [
+            "Opis pozycji 'kobieta na górze' podczas stosunku",
+            "Metafora emancypacji — kobieta przejmuje inicjatywę",
+            "Symbol duchowego przebudzenia — transcendencja poprzez erotyzm"
+          ]
+        },
+        {
+          "node_id": "6b",
+          "aspect": "obraz",
+          "phrase": "góra orgazmu",
+          "comment": "Topografia ekstazy — orgazm jako wierzchołek, szczyt doświadczenia. Ale kto wspina się na tę górę, kto ją 'jest'? Metafora geograficzna staje się fenomenologią przyjemności — mapy ciała, krajobrazy rozkoszy.",
+          "full_analysis": "'Góra orgazmu' to jeden z najbardziej śmiałych obrazów w polskiej poezji lat 60. Orgazm przedstawiony jako szczyt geograficzny łączy wymiar fizyczny (anatomia rozkoszy) z metafizycznym (ekstaza jako transcendencja).\n\nObraz ten ma także wymiar topograficzny — orgazm jako miejsce, które można opisać, do którego można dotrzeć, na którym można 'być'. Kobieta nie doświadcza orgazmu, ale nim jest — to radykalna fenomenologia, w której granice między podmiotem a doświadczeniem zostają zniesione.\n\nMetafora góry nawiązuje do początku wiersza ('Ty jesteś góra'), ale teraz góra nie jest męska — to góra kobieca, tworzona przez kobiecą przyjemność. Inwersja kompletna — nie ona jest doliną dla jego góry, ale on staje się 'przy' jej górze.\n\n[INTERTEKST: Song of Songs — 'góry wonności']. Biblijny erotyzm, ale odwrócony — tam mężczyzna prowadzi kobietę na 'góry wonności', tutaj kobieta sama staje się górą. To nie jest już patriarchalna geografia rozkoszy, ale jej kobieca alternatywa.",
+          "connects_to": [
+            "1c",
+            "6c"
+          ],
+          "contradicts": "1c",
+          "contradiction_reason": "Odwraca tradycyjną metaforę — kobieta staje się górą",
+          "alt_readings": [
+            "Opis fizjologii orgazmu — napięcie mięśni, krzywizna ciała",
+            "Metafora duchowa — orgazm jako doświadczenie religijne",
+            "Topografia fantazji — miejsca wyobrażone w erotycznych marzeniach"
+          ]
+        },
+        {
+          "node_id": "6c",
+          "aspect": "forma",
+          "phrase": "przy mnie",
+          "comment": "Finał wiersza — mężczyzna z dominanta staje się towarzyszem. 'Przy mnie' to nie 'we mnie' — zmiana relacji z penetracji na partnerstwo. Nowa geografia intymności — nie hierarchia, ale sąsiedztwo.",
+          "full_analysis": "Zakończenie wiersza formułą 'przy mnie' to rewolucyjna zmiana w stosunku do wcześniejszego 'we mnie'. Penetracja zostaje zastąpiona przez towarzyszenie, dominacja przez partnerstwo, hierarchia przez horyzontalność.\n\n'Przy mnie' sugeruje bliskość, ale też autonomię — mężczyzna jest obok, nie w środku. To nowa geografia relacji, w której granice między kochankami są szanowane, a bliskość nie oznacza zawłaszczenia. Po fazie dominacji (pierwszy człon wiersza) i fazie penetracji (środek) — faza partnerstwa.\n\nFormalnie wiersz kończy się na słowie 'mnie' — powrót do podmiotu kobiecego, ale w nowej sytuacji. Na początku 'ja' było definiowane przez relację do 'ty' ('ja jestem pozioma'), na końcu 'ja' staje się punktem odniesienia dla 'ty' ('przy mnie').\n\nStrukturalnie wiersz ma formę koła — zaczyna się od opozycji pozioma/pionowy, kończy na sytuacji, gdzie oboje są pionowi, ale w innej relacji. To nie powrót do punktu wyjścia, ale spirala — podobieństwo z różnicą, dialektyczne zniesienie sprzeczności.",
+          "connects_to": [
+            "4c",
+            "5b"
+          ],
+          "contradicts": "4c",
+          "contradiction_reason": "Zmienia relację z penetracji na towarzyszenie",
+          "alt_readings": [
+            "Opis pozycji seksualnej — oboje stoją czy leżą obok siebie",
+            "Metafora społeczna — równość w związku",
+            "Finał psychoanalityczny — po spełnieniu nastąpiła separacja"
+          ]
+        }
+      ]
+    }
+  ],
+  "network_summary": "Wiersz 'Krzyż' to dialektyczny proces przechodzenia od binarnych opozycji do syntezy partnerskiej. Kluczowe napięcia: 1) między stabilnością ról a ich zmiennością (1a ↔ 5a), 2) między harmonią kosmiczną a przemocą militarną (2a ↔ 2b), 3) między penetracją a towarzyszeniem (4c ↔ 6c). Wojaczek dekonstruuje patriarchalną geografię miłości, pokazując jej historyczność i możliwość transformacji. Biografia, interteksty i kontekst PRL-u tworzą wielowarstwową hermeneutykę erotyzmu jako formy oporu wobec determinizmów biologicznych i społecznych."
+}

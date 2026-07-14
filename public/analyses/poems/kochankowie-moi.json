@@ -1,0 +1,915 @@
+{
+  "id": "kochankowie-moi",
+  "title": "Kochankowie moi",
+  "wordCount": 93,
+  "lineCount": 16,
+  "uniqueWords": 80,
+  "vocabularyRichness": 0.86,
+  "avgWordsPerLine": 5.81,
+  "wordsPerLineDistribution": [
+    3,
+    4,
+    5,
+    5,
+    4,
+    6,
+    6,
+    5,
+    5,
+    6,
+    8,
+    5,
+    9,
+    9,
+    8,
+    5
+  ],
+  "wordFrequencies": [
+    [
+      "ustach",
+      2
+    ],
+    [
+      "kochankowie",
+      1
+    ],
+    [
+      "moi",
+      1
+    ],
+    [
+      "umarli",
+      1
+    ],
+    [
+      "poeci",
+      1
+    ],
+    [
+      "gryzą",
+      1
+    ],
+    [
+      "ziemię",
+      1
+    ],
+    [
+      "mych",
+      1
+    ],
+    [
+      "stóp",
+      1
+    ],
+    [
+      "chłodem",
+      1
+    ],
+    [
+      "wciskają",
+      1
+    ],
+    [
+      "kołdrę",
+      1
+    ],
+    [
+      "krążą",
+      1
+    ],
+    [
+      "rojem",
+      1
+    ],
+    [
+      "rozdrażnionych",
+      1
+    ],
+    [
+      "much",
+      1
+    ],
+    [
+      "kubłem",
+      1
+    ],
+    [
+      "cisnęłam",
+      1
+    ],
+    [
+      "tampon",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 4,
+    "period": 9,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 1,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 0,
+  "negationWords": [],
+  "pronounDistribution": {
+    "ja": 2,
+    "ty": 0,
+    "on_ona": 2,
+    "my": 0,
+    "wy": 0,
+    "oni": 3
+  },
+  "semanticFields": {
+    "cialo": 1,
+    "smierc": 1,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 1,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [],
+  "firstWord": "kochankowie",
+  "lastWord": "madonna”",
+  "avgWordLength": 4.99,
+  "wordLengthDistribution": {
+    "1-3": 28,
+    "10+": 6,
+    "6-7": 23,
+    "4-5": 26,
+    "8-9": 10
+  },
+  "bigrams": [
+    [
+      "kochankowie moi",
+      1
+    ],
+    [
+      "moi umarli",
+      1
+    ],
+    [
+      "umarli poeci",
+      1
+    ],
+    [
+      "poeci gryzą",
+      1
+    ],
+    [
+      "gryzą ziemię",
+      1
+    ],
+    [
+      "ziemię u",
+      1
+    ],
+    [
+      "u mych",
+      1
+    ],
+    [
+      "mych stóp",
+      1
+    ],
+    [
+      "stóp chłodem",
+      1
+    ],
+    [
+      "chłodem wciskają",
+      1
+    ]
+  ],
+  "poemWords": [
+    "kochankowie",
+    "moi",
+    "umarli",
+    "poeci",
+    "gryzą",
+    "ziemię",
+    "mych",
+    "stóp",
+    "chłodem",
+    "wciskają",
+    "kołdrę",
+    "krążą",
+    "rojem",
+    "rozdrażnionych",
+    "much",
+    "kubłem",
+    "cisnęłam",
+    "tampon",
+    "miesięczny",
+    "wieszam",
+    "majtki",
+    "sznurze",
+    "wisi",
+    "jesienin",
+    "biorę",
+    "phanodorm",
+    "tabletkę",
+    "kradnie",
+    "trakl",
+    "otwieram",
+    "oczy",
+    "wyfruwa",
+    "ptak",
+    "anielska",
+    "dusza",
+    "keatsa",
+    "ponad",
+    "wodę",
+    "snu",
+    "śmierć",
+    "przecinkiem",
+    "wciska",
+    "tok",
+    "zdania",
+    "nieustannie",
+    "sylaby",
+    "liczy",
+    "zasypiam",
+    "imieniem",
+    "ustach",
+    "boku",
+    "kroczu",
+    "ciepłej",
+    "macicy",
+    "któryś",
+    "pisze",
+    "słowa",
+    "pochwalona",
+    "pochwa",
+    "twa",
+    "madonna”"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 31,
+        "VERB": 15,
+        "ADJ": 6,
+        "ADV": 4,
+        "PRON": 7,
+        "ADP": 11,
+        "CCONJ": 4,
+        "SCONJ": 0,
+        "INTJ": 0,
+        "PART": 2,
+        "DET": 3,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.344,
+        "VERB": 0.167,
+        "ADJ": 0.067,
+        "ADV": 0.044,
+        "PRON": 0.078,
+        "ADP": 0.122,
+        "CCONJ": 0.044,
+        "SCONJ": 0,
+        "INTJ": 0,
+        "PART": 0.022,
+        "DET": 0.033,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 6,
+        "abstract": 3,
+        "ratio": 0.67
+      },
+      "verbTenses": {
+        "past": 2,
+        "present": 13,
+        "imperative": 1
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 0,
+        "destrukcja": 0,
+        "tworzenie": 1,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 1,
+        "oceniajace": 0,
+        "opisowe": 5
+      },
+      "adverbs": {
+        "temporalne": [
+          "teraz"
+        ],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "gdzie",
+            "count": 1
+          },
+          {
+            "word": "kiedy",
+            "count": 1
+          },
+          {
+            "word": "nieustannie",
+            "count": 1
+          },
+          {
+            "word": "teraz",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 2,
+        "ty": 0,
+        "on_ona": 0,
+        "my": 0,
+        "wy": 0,
+        "oni": 3
+      },
+      "negations": {
+        "nie": 0,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 0,
+        "percentSentences": 0
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 193,
+        "consonants": 267,
+        "ratio": 0.72
+      },
+      "consonantClusters": {
+        "count": 12,
+        "top": [
+          {
+            "cluster": "prz",
+            "count": 2
+          },
+          {
+            "cluster": "chw",
+            "count": 2
+          },
+          {
+            "cluster": "chł",
+            "count": 1
+          },
+          {
+            "cluster": "łdr",
+            "count": 1
+          },
+          {
+            "cluster": "zdr",
+            "count": 1
+          },
+          {
+            "cluster": "gdz",
+            "count": 1
+          },
+          {
+            "cluster": "czn",
+            "count": 1
+          },
+          {
+            "cluster": "jtk",
+            "count": 1
+          },
+          {
+            "cluster": "szn",
+            "count": 1
+          },
+          {
+            "cluster": "lsk",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 13,
+        "syczace": 49,
+        "nosowe": 67,
+        "plynne": 33
+      },
+      "rhymes": {
+        "exact": 0,
+        "approximate": 0,
+        "internal": 0,
+        "assonance": 0,
+        "alliteration": 0
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 11.2,
+        "median": 12,
+        "min": 5,
+        "max": 18,
+        "distribution": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0,
+          2,
+          1,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 5.8,
+        "meanSyllables": 12.6,
+        "distribution": [
+          0,
+          0,
+          0,
+          1,
+          2,
+          6,
+          3,
+          0,
+          2,
+          2
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 8,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 0,
+        "noSubject": 2,
+        "noPredicate": 0,
+        "percent": 0.25
+      },
+      "enjambement": {
+        "count": 1,
+        "percent": 0.07,
+        "positions": [
+          11
+        ]
+      },
+      "wordOrder": {
+        "svo": 3,
+        "inversions": 3,
+        "other": 2,
+        "deviationPercent": 0.62
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 2,
+        "śmierć": 1,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 1,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 201,
+      "estimatedSeconds": 67,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 31,
+      "VERB": 15,
+      "ADJ": 6,
+      "ADV": 4,
+      "PRON": 7,
+      "ADP": 11,
+      "CCONJ": 4,
+      "SCONJ": 0,
+      "INTJ": 0,
+      "PART": 2,
+      "DET": 3,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.344,
+      "VERB": 0.167,
+      "ADJ": 0.067,
+      "ADV": 0.044,
+      "PRON": 0.078,
+      "ADP": 0.122,
+      "CCONJ": 0.044,
+      "SCONJ": 0,
+      "INTJ": 0,
+      "PART": 0.022,
+      "DET": 0.033,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 6,
+      "abstract": 3,
+      "ratio": 0.67
+    },
+    "verbTenses": {
+      "past": 2,
+      "present": 13,
+      "imperative": 1
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 0,
+      "destrukcja": 0,
+      "tworzenie": 1,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 1,
+      "oceniajace": 0,
+      "opisowe": 5
+    },
+    "adverbs": {
+      "temporalne": [
+        "teraz"
+      ],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "gdzie",
+          "count": 1
+        },
+        {
+          "word": "kiedy",
+          "count": 1
+        },
+        {
+          "word": "nieustannie",
+          "count": 1
+        },
+        {
+          "word": "teraz",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 2,
+      "ty": 0,
+      "on_ona": 0,
+      "my": 0,
+      "wy": 0,
+      "oni": 3
+    },
+    "negations": {
+      "nie": 0,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 0,
+      "percentSentences": 0
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 11.2,
+      "median": 12,
+      "min": 5,
+      "max": 18,
+      "distribution": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        2,
+        1,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 5.8,
+      "meanSyllables": 12.6,
+      "distribution": [
+        0,
+        0,
+        0,
+        1,
+        2,
+        6,
+        3,
+        0,
+        2,
+        2
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 8,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 0,
+      "noSubject": 2,
+      "noPredicate": 0,
+      "percent": 0.25
+    },
+    "enjambement": {
+      "count": 1,
+      "percent": 0.07,
+      "positions": [
+        11
+      ]
+    },
+    "wordOrder": {
+      "svo": 3,
+      "inversions": 3,
+      "other": 2,
+      "deviationPercent": 0.62
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 193,
+      "consonants": 267,
+      "ratio": 0.72
+    },
+    "consonantClusters": {
+      "count": 12,
+      "top": [
+        {
+          "cluster": "prz",
+          "count": 2
+        },
+        {
+          "cluster": "chw",
+          "count": 2
+        },
+        {
+          "cluster": "chł",
+          "count": 1
+        },
+        {
+          "cluster": "łdr",
+          "count": 1
+        },
+        {
+          "cluster": "zdr",
+          "count": 1
+        },
+        {
+          "cluster": "gdz",
+          "count": 1
+        },
+        {
+          "cluster": "czn",
+          "count": 1
+        },
+        {
+          "cluster": "jtk",
+          "count": 1
+        },
+        {
+          "cluster": "szn",
+          "count": 1
+        },
+        {
+          "cluster": "lsk",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 13,
+      "syczace": 49,
+      "nosowe": 67,
+      "plynne": 33
+    },
+    "rhymes": {
+      "exact": 0,
+      "approximate": 0,
+      "internal": 0,
+      "assonance": 0,
+      "alliteration": 0
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        16
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 201,
+      "estimatedSeconds": 67,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "regularny",
+      "regularityScore": 0.72
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "inne",
+          "reference": "Jesienin",
+          "evidence": "Wieszam majtki na sznurze wisi Jesienin"
+        },
+        {
+          "source": "inne",
+          "reference": "Trakl",
+          "evidence": "Biorę phanodorm tabletkę kradnie Trakl"
+        },
+        {
+          "source": "inne",
+          "reference": "Keats",
+          "evidence": "Anielska dusza Keatsa ponad wodę snu"
+        },
+        {
+          "source": "Biblia",
+          "reference": "Madonna",
+          "evidence": "Bądź pochwalona pochwa Twa, Madonna"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.6,
+        "baudelaire": 0.7,
+        "bursa": 0.3,
+        "stachura": 0.4,
+        "grochowiak": 0.8,
+        "bialoszewski": 0.2,
+        "rozewicz": 0.3
+      }
+    },
+    "space": {
+      "type": "zamknieta",
+      "evidence": "intymna przestrzeń sypialni, kołdra, sznur na bieliznę",
+      "openClosedRatio": 0.2
+    },
+    "timeOfDay": {
+      "period": "noc",
+      "season": "nieokreslona",
+      "evidence": "Zasypiam, kołdra, sen, tabletkę na sen"
+    },
+    "motion": {
+      "movement": 6,
+      "stillness": 4,
+      "dynamism": 0.6,
+      "evidence": "Krążą rojem, wyfruwa ptak, wciska się"
+    },
+    "imageryDensity": {
+      "metaphors": 8,
+      "comparisons": 2,
+      "personifications": 6,
+      "hyperboles": 3,
+      "per100words": 19
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.9,
+      "creationLevel": 0.7,
+      "ironicDistance": 0.3,
+      "autobiographicSignals": [
+        "intymne czynności codzienne",
+        "miesięczka",
+        "zażywanie leków",
+        "erotyczne wyznania"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "euforia",
+      "secondary": "obrzydzenie",
+      "intensity": 0.9
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "Podmiot liryczny jest kobietą mówiącą w pierwszej osobie: 'moi umarli poeci', 'u mych stóp', 'cisnęłam tampon', 'Wieszam majtki'"
+    },
+    "addressee": {
+      "type": "siebie",
+      "evidence": "Monolog wewnętrzny o relacji z umarlymi poetami, zakończony cytatem skierowanym do podmiotu: 'Bądź pochwalona pochwa Twa, Madonna'"
+    },
+    "metaphors": [
+      {
+        "source": "zmarli poeci",
+        "target": "kochankowie duchowi/muzy",
+        "example": "Kochankowie moi umarli poeci"
+      },
+      {
+        "source": "muchy nad kubłem",
+        "target": "natrętne wspomnienia poetów",
+        "example": "Krążą rojem rozdrażnionych much / Nad kubłem gdzie cisnęłam tampon miesięczny"
+      },
+      {
+        "source": "śmierć jako przecinek",
+        "target": "śmierć jako element składni życia",
+        "example": "Ich śmierć przecinkiem, wciska się w tok zdania"
+      }
+    ],
+    "temperature": {
+      "value": 0.8,
+      "label": "gorące - ekstaza mieszana z prowokacją"
+    },
+    "senses": {
+      "wzrok": 4,
+      "sluch": 2,
+      "dotyk": 5,
+      "smak": 3,
+      "zapach": 1
+    },
+    "autodestruction": {
+      "level": 0.7,
+      "signals": [
+        "przyjmowanie phanodormu",
+        "obsesyjna relacja ze zmarłymi",
+        "seksualizacja śmierci",
+        "prowokacyjne zestawienia sacrum i profanum"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 0.741,
+    "dfaAlpha": 0.961,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -1.108713642326868
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -0.6047746150842604
+      },
+      {
+        "logWin": 1.6094379124341003,
+        "logFluc": -0.637719204903711
+      }
+    ],
+    "seriesLength": 16,
+    "series": [
+      3,
+      4,
+      5,
+      5,
+      4,
+      6,
+      6,
+      5,
+      5,
+      6,
+      8,
+      5,
+      9,
+      9,
+      8,
+      5
+    ]
+  }
+}

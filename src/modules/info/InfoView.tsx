@@ -1,11 +1,13 @@
 import { motion } from 'motion/react';
-import { MapPin, Mail, ExternalLink } from 'lucide-react';
+import { ExternalLink } from 'lucide-react';
 
 const TEAM = [
-  { label: 'KONCEPCJA', value: 'Instytut Mikołowski', initial: 'K' },
-  { label: 'DESIGN', value: 'Studio Minimal', initial: 'D' },
-  { label: 'TECHNOLOGIA', value: 'Gemini AI', initial: 'T' },
-  { label: 'AUDIO', value: 'Studio Nagrań', initial: 'A' },
+  { label: 'KONCEPCJA', value: 'Łukasz Żyła', initial: 'K' },
+  { label: 'DIGITALIZACJA', value: 'Marcin Bies', initial: 'D' },
+  { label: 'DESIGN', value: 'Fundacja Human-tech', initial: 'D' },
+  { label: 'TECHNOLOGIE', value: 'Anthropic', initial: 'T' },
+  { label: 'AUDIO', value: 'ElevenLabs', initial: 'A' },
+  { label: 'ARCHIWUM', value: 'Instytut Mikołowski', initial: 'A' },
 ];
 
 export const InfoView = () => (
@@ -64,16 +66,8 @@ export const InfoView = () => (
       <span className="label-ui block text-ink/70 text-[10px]">KONTAKT</span>
       <div className="p-6 bg-mist-light/25 rounded-xl space-y-4 text-sm">
         <div className="flex items-center gap-3 opacity-70">
-          <MapPin size={14} className="text-mist shrink-0" />
-          <p>ul. Konstytucji 3 Maja 17<br />43-190 Mikołów</p>
-        </div>
-        <div className="flex items-center gap-3 opacity-70">
-          <Mail size={14} className="text-mist shrink-0" />
-          <p>kontakt@instytutmikolowski.pl</p>
-        </div>
-        <div className="flex items-center gap-3 opacity-70">
           <ExternalLink size={14} className="text-mist shrink-0" />
-          <p>instytutmikolowski.pl</p>
+          <p>Human-tech</p>
         </div>
       </div>
     </div>
@@ -82,7 +76,7 @@ export const InfoView = () => (
     <div className="pt-8 border-t border-mist-light opacity-30">
       <p className="label-ui text-[8px] text-mist-dark leading-relaxed">
         WERSJA 1.0 / MIKOŁÓW 2025<br />
-        PROJEKT ARTYSTYCZNY INSTYTUTU MIKOŁOWSKIEGO
+        FUNDACJA HUMAN-TECH
       </p>
     </div>
   </motion.div>

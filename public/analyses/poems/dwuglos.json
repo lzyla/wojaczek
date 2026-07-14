@@ -1,0 +1,645 @@
+{
+  "id": "dwuglos",
+  "title": "Dwugłos",
+  "wordCount": 33,
+  "lineCount": 6,
+  "uniqueWords": 32,
+  "vocabularyRichness": 0.97,
+  "avgWordsPerLine": 5.5,
+  "wordsPerLineDistribution": [
+    2,
+    6,
+    8,
+    2,
+    7,
+    8
+  ],
+  "wordFrequencies": [
+    [
+      "głos",
+      2
+    ],
+    [
+      "kobiecy",
+      1
+    ],
+    [
+      "niebywałe",
+      1
+    ],
+    [
+      "ciało",
+      1
+    ],
+    [
+      "rozległe",
+      1
+    ],
+    [
+      "niebo",
+      1
+    ],
+    [
+      "boi",
+      1
+    ],
+    [
+      "przemierzać",
+      1
+    ],
+    [
+      "musi",
+      1
+    ],
+    [
+      "poetą",
+      1
+    ],
+    [
+      "męski",
+      1
+    ],
+    [
+      "umieć",
+      1
+    ],
+    [
+      "nie”",
+      1
+    ],
+    [
+      "powiedzieć",
+      1
+    ],
+    [
+      "swemu",
+      1
+    ],
+    [
+      "obrzydzeniu",
+      1
+    ],
+    [
+      "potrafi",
+      1
+    ],
+    [
+      "dobrze",
+      1
+    ],
+    [
+      "żył",
+      1
+    ],
+    [
+      "ziemi",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 4,
+    "period": 0,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 0,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 1,
+  "negationWords": [
+    "nie"
+  ],
+  "pronounDistribution": {
+    "ja": 1,
+    "ty": 0,
+    "on_ona": 0,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 1,
+    "smierc": 0,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 1,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [
+    [
+      "głos",
+      2
+    ]
+  ],
+  "firstWord": "głos",
+  "lastWord": "ziemi",
+  "avgWordLength": 5.03,
+  "wordLengthDistribution": {
+    "4-5": 15,
+    "6-7": 3,
+    "8-9": 2,
+    "1-3": 10,
+    "10+": 3
+  },
+  "bigrams": [
+    [
+      "głos kobiecy",
+      1
+    ],
+    [
+      "kobiecy niebywałe",
+      1
+    ],
+    [
+      "niebywałe ciało",
+      1
+    ],
+    [
+      "rozległe niebo",
+      1
+    ],
+    [
+      "niebo kto",
+      1
+    ],
+    [
+      "przemierzać musi",
+      1
+    ]
+  ],
+  "poemWords": [
+    "głos",
+    "kobiecy",
+    "niebywałe",
+    "ciało",
+    "rozległe",
+    "niebo",
+    "boi",
+    "przemierzać",
+    "musi",
+    "poetą",
+    "męski",
+    "umieć",
+    "nie”",
+    "powiedzieć",
+    "swemu",
+    "obrzydzeniu",
+    "potrafi",
+    "dobrze",
+    "żył",
+    "ziemi"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 6,
+        "VERB": 7,
+        "ADJ": 5,
+        "ADV": 2,
+        "PRON": 2,
+        "ADP": 1,
+        "CCONJ": 0,
+        "SCONJ": 1,
+        "INTJ": 0,
+        "PART": 3,
+        "DET": 4,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.171,
+        "VERB": 0.2,
+        "ADJ": 0.143,
+        "ADV": 0.057,
+        "PRON": 0.057,
+        "ADP": 0.029,
+        "CCONJ": 0,
+        "SCONJ": 0.029,
+        "INTJ": 0,
+        "PART": 0.086,
+        "DET": 0.114,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 1,
+        "abstract": 0,
+        "ratio": 1
+      },
+      "verbTenses": {
+        "present": 4,
+        "infinitive": 4,
+        "past": 1
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 2,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 0,
+        "opisowe": 5
+      },
+      "adverbs": {
+        "temporalne": [],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "tak",
+            "count": 1
+          },
+          {
+            "word": "dobrze",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 0,
+        "ty": 0,
+        "on_ona": 0,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 2,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 2,
+        "percentSentences": 0.33
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 78,
+        "consonants": 94,
+        "ratio": 0.83
+      },
+      "consonantClusters": {
+        "count": 3,
+        "top": [
+          {
+            "cluster": "brz",
+            "count": 2
+          },
+          {
+            "cluster": "prz",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 6,
+        "syczace": 15,
+        "nosowe": 17,
+        "plynne": 16
+      },
+      "rhymes": {
+        "exact": 0,
+        "approximate": 0,
+        "internal": 1,
+        "assonance": 0,
+        "alliteration": 1
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 5.8,
+        "median": 6,
+        "min": 1,
+        "max": 10,
+        "distribution": [
+          0,
+          1,
+          0,
+          1,
+          0,
+          0,
+          1,
+          1,
+          1,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 4.4,
+        "meanSyllables": 9.9,
+        "distribution": [
+          0,
+          2,
+          2,
+          0,
+          0,
+          0,
+          1,
+          1,
+          2
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 6,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 2,
+        "noSubject": 1,
+        "noPredicate": 0,
+        "percent": 0.5
+      },
+      "enjambement": {
+        "count": 2,
+        "percent": 0.29,
+        "positions": [
+          1,
+          4
+        ]
+      },
+      "wordOrder": {
+        "svo": 2,
+        "inversions": 0,
+        "other": 3,
+        "deviationPercent": 0.6
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 1,
+        "śmierć": 0,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 1,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 79,
+      "estimatedSeconds": 26,
+      "tempoCategory": "umiarkowane"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 6,
+      "VERB": 7,
+      "ADJ": 5,
+      "ADV": 2,
+      "PRON": 2,
+      "ADP": 1,
+      "CCONJ": 0,
+      "SCONJ": 1,
+      "INTJ": 0,
+      "PART": 3,
+      "DET": 4,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.171,
+      "VERB": 0.2,
+      "ADJ": 0.143,
+      "ADV": 0.057,
+      "PRON": 0.057,
+      "ADP": 0.029,
+      "CCONJ": 0,
+      "SCONJ": 0.029,
+      "INTJ": 0,
+      "PART": 0.086,
+      "DET": 0.114,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 1,
+      "abstract": 0,
+      "ratio": 1
+    },
+    "verbTenses": {
+      "present": 4,
+      "infinitive": 4,
+      "past": 1
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 2,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 0,
+      "opisowe": 5
+    },
+    "adverbs": {
+      "temporalne": [],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "tak",
+          "count": 1
+        },
+        {
+          "word": "dobrze",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 0,
+      "ty": 0,
+      "on_ona": 0,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 2,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 2,
+      "percentSentences": 0.33
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 5.8,
+      "median": 6,
+      "min": 1,
+      "max": 10,
+      "distribution": [
+        0,
+        1,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        1,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 4.4,
+      "meanSyllables": 9.9,
+      "distribution": [
+        0,
+        2,
+        2,
+        0,
+        0,
+        0,
+        1,
+        1,
+        2
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 6,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 2,
+      "noSubject": 1,
+      "noPredicate": 0,
+      "percent": 0.5
+    },
+    "enjambement": {
+      "count": 2,
+      "percent": 0.29,
+      "positions": [
+        1,
+        4
+      ]
+    },
+    "wordOrder": {
+      "svo": 2,
+      "inversions": 0,
+      "other": 3,
+      "deviationPercent": 0.6
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 78,
+      "consonants": 94,
+      "ratio": 0.83
+    },
+    "consonantClusters": {
+      "count": 3,
+      "top": [
+        {
+          "cluster": "brz",
+          "count": 2
+        },
+        {
+          "cluster": "prz",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 6,
+      "syczace": 15,
+      "nosowe": 17,
+      "plynne": 16
+    },
+    "rhymes": {
+      "exact": 0,
+      "approximate": 0,
+      "internal": 1,
+      "assonance": 0,
+      "alliteration": 1
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        8
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 79,
+      "estimatedSeconds": 26,
+      "tempoCategory": "umiarkowane"
+    },
+    "regularity": {
+      "type": "wolny",
+      "regularityScore": 0.21
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "czułość",
+      "secondary": "melancholia",
+      "intensity": 0.7
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "Dwugłos z wyraźnie wydzielonymi głosami kobiecym i męskim"
+    },
+    "addressee": {
+      "type": "czytelnik",
+      "evidence": "Konstrukcja dwugłosu sugeruje uniwersalne przesłanie skierowane do odbiorcy"
+    },
+    "metaphors": [
+      {
+        "source": "niebo",
+        "target": "ciało kobiety",
+        "example": "Niebywałe ciało moje, to rozległe niebo"
+      },
+      {
+        "source": "przemierzanie",
+        "target": "poznawanie miłosne",
+        "example": "Kto nie boi się przemierzać, musi być poetą"
+      }
+    ],
+    "temperature": {
+      "value": 0.6,
+      "label": "ciepłe - zmysłowość przeplata się z refleksją"
+    },
+    "senses": {
+      "wzrok": 4,
+      "sluch": 2,
+      "dotyk": 5,
+      "smak": 1,
+      "zapach": 1
+    },
+    "autodestruction": {
+      "level": 0.3,
+      "signals": [
+        "konfrontacja z obrzydzeniem",
+        "konieczność przezwyciężania niechęci"
+      ]
+    }
+  }
+}

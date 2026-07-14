@@ -1,0 +1,780 @@
+{
+  "id": "dwie-strofki-do-mlodego-poety",
+  "title": "Dwie strofki do młodego poety",
+  "wordCount": 33,
+  "lineCount": 8,
+  "uniqueWords": 31,
+  "vocabularyRichness": 0.939,
+  "avgWordsPerLine": 4.13,
+  "wordsPerLineDistribution": [
+    5,
+    5,
+    4,
+    3,
+    4,
+    4,
+    3,
+    5
+  ],
+  "wordFrequencies": [
+    [
+      "pisać",
+      1
+    ],
+    [
+      "śmie",
+      1
+    ],
+    [
+      "wiersze",
+      1
+    ],
+    [
+      "poemat",
+      1
+    ],
+    [
+      "nóż",
+      1
+    ],
+    [
+      "plecy",
+      1
+    ],
+    [
+      "własne",
+      1
+    ],
+    [
+      "siekiera",
+      1
+    ],
+    [
+      "skroń",
+      1
+    ],
+    [
+      "rozprucie",
+      1
+    ],
+    [
+      "brzucha",
+      1
+    ],
+    [
+      "da",
+      1
+    ],
+    [
+      "zaokrąglić",
+      1
+    ],
+    [
+      "zaokrąglasz",
+      1
+    ],
+    [
+      "wiersz",
+      1
+    ],
+    [
+      "gdyś",
+      1
+    ],
+    [
+      "słaby",
+      1
+    ],
+    [
+      "przestraszysz",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 0,
+    "period": 0,
+    "question": 1,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 0,
+    "semicolon": 0
+  },
+  "questionCount": 1,
+  "exclamationCount": 0,
+  "negationCount": 1,
+  "negationWords": [
+    "nie"
+  ],
+  "pronounDistribution": {
+    "ja": 0,
+    "ty": 0,
+    "on_ona": 0,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 1,
+    "smierc": 1,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [],
+  "firstWord": "kto",
+  "lastWord": "przestraszysz",
+  "avgWordLength": 5.06,
+  "wordLengthDistribution": {
+    "1-3": 13,
+    "6-7": 7,
+    "4-5": 8,
+    "8-9": 2,
+    "10+": 3
+  },
+  "bigrams": [
+    [
+      "pisać śmie",
+      1
+    ],
+    [
+      "śmie wiersze",
+      1
+    ],
+    [
+      "wiersze poemat",
+      1
+    ],
+    [
+      "plecy własne",
+      1
+    ],
+    [
+      "własne siekiera",
+      1
+    ],
+    [
+      "skroń rozprucie",
+      1
+    ]
+  ],
+  "poemWords": [
+    "pisać",
+    "śmie",
+    "wiersze",
+    "poemat",
+    "nóż",
+    "plecy",
+    "własne",
+    "siekiera",
+    "skroń",
+    "rozprucie",
+    "brzucha",
+    "zaokrąglić",
+    "zaokrąglasz",
+    "wiersz",
+    "gdyś",
+    "słaby",
+    "przestraszysz"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 7,
+        "VERB": 8,
+        "ADJ": 5,
+        "ADV": 2,
+        "PRON": 5,
+        "ADP": 3,
+        "CCONJ": 1,
+        "SCONJ": 1,
+        "INTJ": 0,
+        "PART": 3,
+        "DET": 0,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.179,
+        "VERB": 0.205,
+        "ADJ": 0.128,
+        "ADV": 0.051,
+        "PRON": 0.128,
+        "ADP": 0.077,
+        "CCONJ": 0.026,
+        "SCONJ": 0.026,
+        "INTJ": 0,
+        "PART": 0.077,
+        "DET": 0,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 2,
+        "abstract": 0,
+        "ratio": 1
+      },
+      "verbTenses": {
+        "past": 1,
+        "infinitive": 2,
+        "present": 3,
+        "imperative": 1,
+        "future": 2
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 0,
+        "destrukcja": 0,
+        "tworzenie": 1,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 0,
+        "opisowe": 5
+      },
+      "adverbs": {
+        "temporalne": [],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "wtedy",
+            "count": 1
+          },
+          {
+            "word": "jak",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 0,
+        "ty": 0,
+        "on_ona": 0,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 1,
+        "nic": 1,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 2,
+        "percentSentences": 0.4
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 77,
+        "consonants": 115,
+        "ratio": 0.67
+      },
+      "consonantClusters": {
+        "count": 9,
+        "top": [
+          {
+            "cluster": "str",
+            "count": 2
+          },
+          {
+            "cluster": "rsz",
+            "count": 2
+          },
+          {
+            "cluster": "szcz",
+            "count": 1
+          },
+          {
+            "cluster": "skr",
+            "count": 1
+          },
+          {
+            "cluster": "zpr",
+            "count": 1
+          },
+          {
+            "cluster": "brz",
+            "count": 1
+          },
+          {
+            "cluster": "prz",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 13,
+        "syczace": 20,
+        "nosowe": 12,
+        "plynne": 18
+      },
+      "rhymes": {
+        "exact": 0,
+        "approximate": 1,
+        "internal": 0,
+        "assonance": 0,
+        "alliteration": 0
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 7.8,
+        "median": 5,
+        "min": 1,
+        "max": 23,
+        "distribution": [
+          0,
+          1,
+          0,
+          0,
+          0,
+          3,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 3.9,
+        "meanSyllables": 8,
+        "distribution": [
+          0,
+          1,
+          0,
+          2,
+          3,
+          4
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 3,
+        "interrogative": 1,
+        "imperative": 1,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 1,
+        "noSubject": 1,
+        "noPredicate": 0,
+        "percent": 0.4
+      },
+      "enjambement": {
+        "count": 1,
+        "percent": 0.11,
+        "positions": [
+          5
+        ]
+      },
+      "wordOrder": {
+        "svo": 2,
+        "inversions": 0,
+        "other": 2,
+        "deviationPercent": 0.5
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 1,
+        "śmierć": 1,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 80,
+      "estimatedSeconds": 27,
+      "tempoCategory": "umiarkowane"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 7,
+      "VERB": 8,
+      "ADJ": 5,
+      "ADV": 2,
+      "PRON": 5,
+      "ADP": 3,
+      "CCONJ": 1,
+      "SCONJ": 1,
+      "INTJ": 0,
+      "PART": 3,
+      "DET": 0,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.179,
+      "VERB": 0.205,
+      "ADJ": 0.128,
+      "ADV": 0.051,
+      "PRON": 0.128,
+      "ADP": 0.077,
+      "CCONJ": 0.026,
+      "SCONJ": 0.026,
+      "INTJ": 0,
+      "PART": 0.077,
+      "DET": 0,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 2,
+      "abstract": 0,
+      "ratio": 1
+    },
+    "verbTenses": {
+      "past": 1,
+      "infinitive": 2,
+      "present": 3,
+      "imperative": 1,
+      "future": 2
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 0,
+      "destrukcja": 0,
+      "tworzenie": 1,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 0,
+      "opisowe": 5
+    },
+    "adverbs": {
+      "temporalne": [],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "wtedy",
+          "count": 1
+        },
+        {
+          "word": "jak",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 0,
+      "ty": 0,
+      "on_ona": 0,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 1,
+      "nic": 1,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 2,
+      "percentSentences": 0.4
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 7.8,
+      "median": 5,
+      "min": 1,
+      "max": 23,
+      "distribution": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        3,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 3.9,
+      "meanSyllables": 8,
+      "distribution": [
+        0,
+        1,
+        0,
+        2,
+        3,
+        4
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 3,
+      "interrogative": 1,
+      "imperative": 1,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 1,
+      "noSubject": 1,
+      "noPredicate": 0,
+      "percent": 0.4
+    },
+    "enjambement": {
+      "count": 1,
+      "percent": 0.11,
+      "positions": [
+        5
+      ]
+    },
+    "wordOrder": {
+      "svo": 2,
+      "inversions": 0,
+      "other": 2,
+      "deviationPercent": 0.5
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 77,
+      "consonants": 115,
+      "ratio": 0.67
+    },
+    "consonantClusters": {
+      "count": 9,
+      "top": [
+        {
+          "cluster": "str",
+          "count": 2
+        },
+        {
+          "cluster": "rsz",
+          "count": 2
+        },
+        {
+          "cluster": "szcz",
+          "count": 1
+        },
+        {
+          "cluster": "skr",
+          "count": 1
+        },
+        {
+          "cluster": "zpr",
+          "count": 1
+        },
+        {
+          "cluster": "brz",
+          "count": 1
+        },
+        {
+          "cluster": "prz",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 13,
+      "syczace": 20,
+      "nosowe": 12,
+      "plynne": 18
+    },
+    "rhymes": {
+      "exact": 0,
+      "approximate": 1,
+      "internal": 0,
+      "assonance": 0,
+      "alliteration": 0
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        10
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 80,
+      "estimatedSeconds": 27,
+      "tempoCategory": "umiarkowane"
+    },
+    "regularity": {
+      "type": "polregularny",
+      "regularityScore": 0.66
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Rilke",
+          "reference": "Listy do młodego poety",
+          "evidence": "tytuł nawiązuje do słynnego dzieła Rilkego"
+        },
+        {
+          "source": "inne",
+          "reference": "tradycja poetycka",
+          "evidence": "pytanie 'Kto jeszcze pisać śmie wiersze?' to dialog z tradycją"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.7,
+        "baudelaire": 0.3,
+        "bursa": 0.2,
+        "stachura": 0.6,
+        "grochowiak": 0.4,
+        "bialoszewski": 0.1,
+        "rozewicz": 0.8
+      }
+    },
+    "space": {
+      "type": "nieokreslona",
+      "evidence": "brak konkretnych wskazań przestrzennych, dominuje abstrakcyjna refleksja o tworzeniu",
+      "openClosedRatio": 0.5
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "nieokreslona",
+      "evidence": "brak wskazań temporalnych, wiersz skupia się na ponadczasowej refleksji"
+    },
+    "motion": {
+      "movement": 8,
+      "stillness": 2,
+      "dynamism": 0.8,
+      "evidence": "gwałtowne obrazy: 'nóż w plecy', 'siekiera w skroń', 'rozprucie brzucha' - intensywny ruch destrukcyjny"
+    },
+    "imageryDensity": {
+      "metaphors": 3,
+      "comparisons": 1,
+      "personifications": 0,
+      "hyperboles": 2,
+      "per100words": 120
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.9,
+      "creationLevel": 0.8,
+      "ironicDistance": 0.1,
+      "autobiographicSignals": [
+        "bezpośrednie zwrócenie się do młodego poety",
+        "osobista refleksja o trudności pisania",
+        "intymny ton pouczenia"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "rezygnacja",
+      "secondary": "bunt",
+      "intensity": 0.8
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "Podmiot przemawia bezpośrednio, używając form 'śmie', 'zaokrąglasz', 'gdyś'"
+    },
+    "addressee": {
+      "type": "czytelnik",
+      "evidence": "Tytuł 'DO MŁODEGO POETY' jednoznacznie wskazuje adresata - młodego poetę"
+    },
+    "metaphors": [
+      {
+        "source": "nóż w plecy",
+        "target": "poemat",
+        "example": "Poemat to nóż w plecy Własne"
+      },
+      {
+        "source": "siekiera w skroń",
+        "target": "pisanie poezji",
+        "example": "Siekiera w skroń"
+      },
+      {
+        "source": "rozprucie brzucha",
+        "target": "akt twórczy",
+        "example": "Rozprucie sobie brzucha"
+      },
+      {
+        "source": "zaokrąglenie",
+        "target": "artystyczne dopracowanie",
+        "example": "Jak zaokrąglasz wiersz"
+      }
+    ],
+    "temperature": {
+      "value": 0.7,
+      "label": "gorące - intensywne obrazy przemocy i destrukcji"
+    },
+    "senses": {
+      "wzrok": 4,
+      "sluch": 0,
+      "dotyk": 5,
+      "smak": 0,
+      "zapach": 0
+    },
+    "autodestruction": {
+      "level": 0.9,
+      "signals": [
+        "nóż w plecy własne",
+        "siekiera w skroń",
+        "rozprucie sobie brzucha",
+        "metafory samookaleczenia jako cena twórczości"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": null,
+    "dfaAlpha": null,
+    "dfaScaling": [],
+    "seriesLength": 8,
+    "series": [
+      5,
+      5,
+      4,
+      3,
+      4,
+      4,
+      3,
+      5
+    ]
+  }
+}

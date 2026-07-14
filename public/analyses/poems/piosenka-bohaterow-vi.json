@@ -1,0 +1,849 @@
+{
+  "id": "piosenka-bohaterow-vi",
+  "title": "Piosenka bohaterów VI",
+  "wordCount": 108,
+  "lineCount": 15,
+  "uniqueWords": 66,
+  "vocabularyRichness": 0.611,
+  "avgWordsPerLine": 7.2,
+  "wordsPerLineDistribution": [
+    2,
+    8,
+    8,
+    8,
+    7,
+    6,
+    7,
+    10,
+    7,
+    6,
+    8,
+    8,
+    7,
+    8,
+    8
+  ],
+  "wordFrequencies": [
+    [
+      "kość",
+      3
+    ],
+    [
+      "widzę",
+      2
+    ],
+    [
+      "słyszę",
+      2
+    ],
+    [
+      "mróz",
+      2
+    ],
+    [
+      "ciało",
+      2
+    ],
+    [
+      "kwestie",
+      1
+    ],
+    [
+      "grudniowe",
+      1
+    ],
+    [
+      "pada",
+      1
+    ],
+    [
+      "śniegiem",
+      1
+    ],
+    [
+      "krwią",
+      1
+    ],
+    [
+      "wyparowaną",
+      1
+    ],
+    [
+      "kiedyś",
+      1
+    ],
+    [
+      "niewiedza",
+      1
+    ],
+    [
+      "nierozumnością",
+      1
+    ],
+    [
+      "powinienem",
+      1
+    ],
+    [
+      "więcej",
+      1
+    ],
+    [
+      "niż",
+      1
+    ],
+    [
+      "napomknąć",
+      1
+    ],
+    [
+      "pierwszej",
+      1
+    ],
+    [
+      "zwrotce",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 1,
+    "period": 1,
+    "question": 11,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 3,
+    "colon": 1,
+    "semicolon": 0
+  },
+  "questionCount": 11,
+  "exclamationCount": 0,
+  "negationCount": 2,
+  "negationWords": [
+    "nie"
+  ],
+  "pronounDistribution": {
+    "ja": 4,
+    "ty": 0,
+    "on_ona": 0,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 5,
+    "smierc": 0,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [
+    [
+      "czy",
+      6
+    ],
+    [
+      "i czy",
+      2
+    ],
+    [
+      "lecz",
+      2
+    ]
+  ],
+  "firstWord": "kwestie",
+  "lastWord": "składa",
+  "avgWordLength": 4.44,
+  "wordLengthDistribution": {
+    "6-7": 21,
+    "8-9": 8,
+    "1-3": 44,
+    "4-5": 32,
+    "10+": 3
+  },
+  "bigrams": [
+    [
+      "kwestie grudniowe",
+      1
+    ]
+  ],
+  "poemWords": [
+    "kwestie",
+    "grudniowe",
+    "widzę",
+    "słyszę",
+    "pada",
+    "śniegiem",
+    "krwią",
+    "wyparowaną",
+    "kiedyś",
+    "kość",
+    "niewiedza",
+    "nierozumnością",
+    "powinienem",
+    "więcej",
+    "niż",
+    "napomknąć",
+    "pierwszej",
+    "zwrotce",
+    "lipcu",
+    "dziś",
+    "mróz",
+    "gryzie",
+    "mrozem",
+    "kością",
+    "grudzień",
+    "ciało",
+    "trwoni",
+    "żywię",
+    "ciałem",
+    "chleb",
+    "chlebem",
+    "bogiem",
+    "głodu",
+    "kończę",
+    "rym",
+    "rymem",
+    "kłania",
+    "wiersz",
+    "wierszem",
+    "składa"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 23,
+        "VERB": 13,
+        "ADJ": 4,
+        "ADV": 3,
+        "PRON": 15,
+        "ADP": 5,
+        "CCONJ": 9,
+        "SCONJ": 3,
+        "INTJ": 0,
+        "PART": 19,
+        "DET": 3,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.211,
+        "VERB": 0.119,
+        "ADJ": 0.037,
+        "ADV": 0.028,
+        "PRON": 0.138,
+        "ADP": 0.046,
+        "CCONJ": 0.083,
+        "SCONJ": 0.028,
+        "INTJ": 0,
+        "PART": 0.174,
+        "DET": 0.028,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 6,
+        "abstract": 0,
+        "ratio": 1
+      },
+      "verbTenses": {
+        "present": 21,
+        "infinitive": 1
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 4,
+        "stan": 9,
+        "destrukcja": 1,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 0,
+        "opisowe": 4
+      },
+      "adverbs": {
+        "temporalne": [
+          "kiedyś"
+        ],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "kiedyś",
+            "count": 1
+          },
+          {
+            "word": "dziś",
+            "count": 1
+          },
+          {
+            "word": "gdy",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 3,
+        "ty": 0,
+        "on_ona": 0,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 2,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 2,
+        "percentSentences": 0.13
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 193,
+        "consonants": 286,
+        "ratio": 0.67
+      },
+      "consonantClusters": {
+        "count": 14,
+        "top": [
+          {
+            "cluster": "szcz",
+            "count": 2
+          },
+          {
+            "cluster": "chl",
+            "count": 2
+          },
+          {
+            "cluster": "rsz",
+            "count": 2
+          },
+          {
+            "cluster": "krw",
+            "count": 1
+          },
+          {
+            "cluster": "mkn",
+            "count": 1
+          },
+          {
+            "cluster": "rwsz",
+            "count": 1
+          },
+          {
+            "cluster": "zwr",
+            "count": 1
+          },
+          {
+            "cluster": "trw",
+            "count": 1
+          },
+          {
+            "cluster": "szc",
+            "count": 1
+          },
+          {
+            "cluster": "ńcz",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 34,
+        "syczace": 55,
+        "nosowe": 54,
+        "plynne": 31
+      },
+      "rhymes": {
+        "exact": 3,
+        "approximate": 2,
+        "internal": 0,
+        "assonance": 0,
+        "alliteration": 3
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 7.3,
+        "median": 8,
+        "min": 1,
+        "max": 15,
+        "distribution": [
+          0,
+          1,
+          2,
+          0,
+          0,
+          1,
+          2,
+          1,
+          5,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          2
+        ]
+      },
+      "lineLength": {
+        "meanWords": 7,
+        "meanSyllables": 12.4,
+        "distribution": [
+          0,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          5,
+          6,
+          1,
+          0,
+          1
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 4,
+        "interrogative": 11,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 2,
+        "noSubject": 3,
+        "noPredicate": 1,
+        "percent": 0.4
+      },
+      "enjambement": {
+        "count": 0,
+        "percent": 0,
+        "positions": []
+      },
+      "wordOrder": {
+        "svo": 4,
+        "inversions": 1,
+        "other": 9,
+        "deviationPercent": 0.71
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 6,
+        "śmierć": 0,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 198,
+      "estimatedSeconds": 66,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 23,
+      "VERB": 13,
+      "ADJ": 4,
+      "ADV": 3,
+      "PRON": 15,
+      "ADP": 5,
+      "CCONJ": 9,
+      "SCONJ": 3,
+      "INTJ": 0,
+      "PART": 19,
+      "DET": 3,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.211,
+      "VERB": 0.119,
+      "ADJ": 0.037,
+      "ADV": 0.028,
+      "PRON": 0.138,
+      "ADP": 0.046,
+      "CCONJ": 0.083,
+      "SCONJ": 0.028,
+      "INTJ": 0,
+      "PART": 0.174,
+      "DET": 0.028,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 6,
+      "abstract": 0,
+      "ratio": 1
+    },
+    "verbTenses": {
+      "present": 21,
+      "infinitive": 1
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 4,
+      "stan": 9,
+      "destrukcja": 1,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 0,
+      "opisowe": 4
+    },
+    "adverbs": {
+      "temporalne": [
+        "kiedyś"
+      ],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "kiedyś",
+          "count": 1
+        },
+        {
+          "word": "dziś",
+          "count": 1
+        },
+        {
+          "word": "gdy",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 3,
+      "ty": 0,
+      "on_ona": 0,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 2,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 2,
+      "percentSentences": 0.13
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 7.3,
+      "median": 8,
+      "min": 1,
+      "max": 15,
+      "distribution": [
+        0,
+        1,
+        2,
+        0,
+        0,
+        1,
+        2,
+        1,
+        5,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        2
+      ]
+    },
+    "lineLength": {
+      "meanWords": 7,
+      "meanSyllables": 12.4,
+      "distribution": [
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        1,
+        5,
+        6,
+        1,
+        0,
+        1
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 4,
+      "interrogative": 11,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 2,
+      "noSubject": 3,
+      "noPredicate": 1,
+      "percent": 0.4
+    },
+    "enjambement": {
+      "count": 0,
+      "percent": 0,
+      "positions": []
+    },
+    "wordOrder": {
+      "svo": 4,
+      "inversions": 1,
+      "other": 9,
+      "deviationPercent": 0.71
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 193,
+      "consonants": 286,
+      "ratio": 0.67
+    },
+    "consonantClusters": {
+      "count": 14,
+      "top": [
+        {
+          "cluster": "szcz",
+          "count": 2
+        },
+        {
+          "cluster": "chl",
+          "count": 2
+        },
+        {
+          "cluster": "rsz",
+          "count": 2
+        },
+        {
+          "cluster": "krw",
+          "count": 1
+        },
+        {
+          "cluster": "mkn",
+          "count": 1
+        },
+        {
+          "cluster": "rwsz",
+          "count": 1
+        },
+        {
+          "cluster": "zwr",
+          "count": 1
+        },
+        {
+          "cluster": "trw",
+          "count": 1
+        },
+        {
+          "cluster": "szc",
+          "count": 1
+        },
+        {
+          "cluster": "ńcz",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 34,
+      "syczace": 55,
+      "nosowe": 54,
+      "plynne": 31
+    },
+    "rhymes": {
+      "exact": 3,
+      "approximate": 2,
+      "internal": 0,
+      "assonance": 0,
+      "alliteration": 3
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        16
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 198,
+      "estimatedSeconds": 66,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "polregularny",
+      "regularityScore": 0.67
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Biblia",
+          "reference": "Eucharystia - chleb jako ciało Chrystusa",
+          "evidence": "Czy chleb jest chlebem czy może już Bogiem?"
+        },
+        {
+          "source": "inne",
+          "reference": "Filozofia egzystencjalna - pytania o naturę rzeczywistości",
+          "evidence": "Czy to co widzę jest tym co widzę? Czy to co słyszę jest tym co słyszę?"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.7,
+        "baudelaire": 0.4,
+        "bursa": 0.2,
+        "stachura": 0.3,
+        "grochowiak": 0.4,
+        "bialoszewski": 0.6,
+        "rozewicz": 0.8
+      }
+    },
+    "space": {
+      "type": "nieokreslona",
+      "evidence": "Brak konkretnych określeń przestrzennych, przestrzeń mentalna/filozoficzna",
+      "openClosedRatio": 0.3
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "zima",
+      "evidence": "grudzień, mróz gryzie kość, śnieg, kontrast z lipcem"
+    },
+    "motion": {
+      "movement": 2,
+      "stillness": 7,
+      "dynamism": 0.3,
+      "evidence": "Statyczne pytania filozoficzne, minimalna dynamika w 'pada', 'gryzie', 'trwoni'"
+    },
+    "imageryDensity": {
+      "metaphors": 6,
+      "comparisons": 2,
+      "personifications": 3,
+      "hyperboles": 2,
+      "per100words": 12.4
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.8,
+      "creationLevel": 0.7,
+      "ironicDistance": 0.3,
+      "autobiographicSignals": [
+        "Wyparowaną ze mnie",
+        "jeszcze żywię",
+        "mi się kłania",
+        "mi się składa"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "melancholia",
+      "secondary": "rezygnacja",
+      "intensity": 0.8
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "Liczne formy pierwszej osoby: 'widzę', 'słyszę', 'ze mnie', 'moja', 'powinienem', 'żywię', 'mi się'"
+    },
+    "addressee": {
+      "type": "siebie",
+      "evidence": "Seria pytań retorycznych kierowanych do siebie, autorefleksja nad percepcją i rzeczywistością"
+    },
+    "metaphors": [
+      {
+        "source": "krew wyparowana",
+        "target": "śnieg",
+        "example": "Czy to co pada jest śniegiem czy krwią / Wyparowaną ze mnie kiedyś aż po kość?"
+      },
+      {
+        "source": "chleb",
+        "target": "Bóg",
+        "example": "Czy chleb jest chlebem czy może już Bogiem?"
+      },
+      {
+        "source": "mróz gryzący",
+        "target": "czas niszczący",
+        "example": "gdy mróz gryzie kość"
+      }
+    ],
+    "temperature": {
+      "value": 0.2,
+      "label": "zimne - grudniowy chłód egzystencjalny"
+    },
+    "senses": {
+      "wzrok": 4,
+      "sluch": 3,
+      "dotyk": 5,
+      "smak": 2,
+      "zapach": 0
+    },
+    "autodestruction": {
+      "level": 0.7,
+      "signals": [
+        "krew wyparowała ze mnie aż po kość",
+        "grudzień ciało trwoni",
+        "mróz gryzie kość",
+        "wątpienie w własną percepcję"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 0.606,
+    "dfaAlpha": 1.93,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -1.668329430262289
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -0.645997959397475
+      },
+      {
+        "logWin": 1.6094379124341003,
+        "logFluc": -0.7235008703798746
+      }
+    ],
+    "seriesLength": 15,
+    "series": [
+      2,
+      8,
+      8,
+      8,
+      7,
+      6,
+      7,
+      10,
+      7,
+      6,
+      8,
+      8,
+      7,
+      8,
+      8
+    ]
+  }
+}

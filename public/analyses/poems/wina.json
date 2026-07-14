@@ -1,0 +1,856 @@
+{
+  "id": "wina",
+  "title": "Wina",
+  "wordCount": 76,
+  "lineCount": 10,
+  "uniqueWords": 63,
+  "vocabularyRichness": 0.829,
+  "avgWordsPerLine": 7.6,
+  "wordsPerLineDistribution": [
+    6,
+    8,
+    6,
+    9,
+    7,
+    8,
+    7,
+    8,
+    7,
+    10
+  ],
+  "wordFrequencies": [
+    [
+      "ciebie",
+      2
+    ],
+    [
+      "każe",
+      2
+    ],
+    [
+      "ilekroć",
+      1
+    ],
+    [
+      "ciałem",
+      1
+    ],
+    [
+      "niezręcznie",
+      1
+    ],
+    [
+      "wciskasz",
+      1
+    ],
+    [
+      "objęcia",
+      1
+    ],
+    [
+      "kolan",
+      1
+    ],
+    [
+      "czym",
+      1
+    ],
+    [
+      "zawiniłam",
+      1
+    ],
+    [
+      "jaka",
+      1
+    ],
+    [
+      "niezręczność",
+      1
+    ],
+    [
+      "mogła",
+      1
+    ],
+    [
+      "rozgniewać",
+      1
+    ],
+    [
+      "brzuch",
+      1
+    ],
+    [
+      "rozdzierasz",
+      1
+    ],
+    [
+      "mówiąc",
+      1
+    ],
+    [
+      "przebacz",
+      1
+    ],
+    [
+      "całujesz",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 6,
+    "period": 0,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 1,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 3,
+  "negationWords": [
+    "nie"
+  ],
+  "pronounDistribution": {
+    "ja": 6,
+    "ty": 6,
+    "on_ona": 0,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 3,
+    "smierc": 0,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [],
+  "firstWord": "ilekroć",
+  "lastWord": "chować",
+  "avgWordLength": 5.08,
+  "wordLengthDistribution": {
+    "6-7": 14,
+    "4-5": 28,
+    "10+": 5,
+    "1-3": 21,
+    "8-9": 8
+  },
+  "bigrams": [
+    [
+      "ilekroć całym",
+      1
+    ],
+    [
+      "całym ciałem",
+      1
+    ],
+    [
+      "ciałem niezręcznie",
+      1
+    ],
+    [
+      "objęcia moich",
+      1
+    ],
+    [
+      "moich kolan",
+      1
+    ],
+    [
+      "wiem czym",
+      1
+    ],
+    [
+      "czym zawiniłam",
+      1
+    ],
+    [
+      "zawiniłam jaka",
+      1
+    ]
+  ],
+  "poemWords": [
+    "ilekroć",
+    "ciałem",
+    "niezręcznie",
+    "wciskasz",
+    "objęcia",
+    "kolan",
+    "czym",
+    "zawiniłam",
+    "jaka",
+    "niezręczność",
+    "mogła",
+    "rozgniewać",
+    "brzuch",
+    "rozdzierasz",
+    "mówiąc",
+    "przebacz",
+    "całujesz",
+    "ciało",
+    "kości",
+    "rozumiem",
+    "ciebie",
+    "ciągle",
+    "złościć",
+    "pełno",
+    "ustach",
+    "zamieszkujesz",
+    "pępek",
+    "nienawiść",
+    "pytam",
+    "samą",
+    "siebie",
+    "jaki",
+    "wyrzut",
+    "każe",
+    "obejmować",
+    "wstyd",
+    "złych",
+    "dłoniach",
+    "chować"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 14,
+        "VERB": 18,
+        "ADJ": 3,
+        "ADV": 8,
+        "PRON": 12,
+        "ADP": 4,
+        "CCONJ": 1,
+        "SCONJ": 2,
+        "INTJ": 0,
+        "PART": 5,
+        "DET": 10,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.182,
+        "VERB": 0.234,
+        "ADJ": 0.039,
+        "ADV": 0.104,
+        "PRON": 0.156,
+        "ADP": 0.052,
+        "CCONJ": 0.013,
+        "SCONJ": 0.026,
+        "INTJ": 0,
+        "PART": 0.065,
+        "DET": 0.13,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 4,
+        "abstract": 2,
+        "ratio": 0.67
+      },
+      "verbTenses": {
+        "present": 10,
+        "past": 2,
+        "infinitive": 4,
+        "imperative": 1,
+        "future": 1
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 0,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 2,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 1,
+        "opisowe": 2
+      },
+      "adverbs": {
+        "temporalne": [
+          "ciągle",
+          "wciąż"
+        ],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "tak",
+            "count": 2
+          },
+          {
+            "word": "wciąż",
+            "count": 2
+          },
+          {
+            "word": "niezręcznie",
+            "count": 1
+          },
+          {
+            "word": "kiedy",
+            "count": 1
+          },
+          {
+            "word": "ciągle",
+            "count": 1
+          },
+          {
+            "word": "skąd",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 3,
+        "ty": 4,
+        "on_ona": 0,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 3,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 3,
+        "percentSentences": 0.33
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 168,
+        "consonants": 222,
+        "ratio": 0.76
+      },
+      "consonantClusters": {
+        "count": 8,
+        "top": [
+          {
+            "cluster": "czn",
+            "count": 2
+          },
+          {
+            "cluster": "zgn",
+            "count": 1
+          },
+          {
+            "cluster": "brz",
+            "count": 1
+          },
+          {
+            "cluster": "zdz",
+            "count": 1
+          },
+          {
+            "cluster": "prz",
+            "count": 1
+          },
+          {
+            "cluster": "szk",
+            "count": 1
+          },
+          {
+            "cluster": "wst",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 19,
+        "syczace": 52,
+        "nosowe": 50,
+        "plynne": 23
+      },
+      "rhymes": {
+        "exact": 1,
+        "approximate": 0,
+        "internal": 0,
+        "assonance": 0,
+        "alliteration": 0
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 8.6,
+        "median": 8,
+        "min": 1,
+        "max": 15,
+        "distribution": [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          2,
+          1,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0,
+          2
+        ]
+      },
+      "lineLength": {
+        "meanWords": 7,
+        "meanSyllables": 15.5,
+        "distribution": [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          2,
+          3,
+          3,
+          1,
+          1
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 8,
+        "interrogative": 0,
+        "imperative": 1,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 1,
+        "noSubject": 4,
+        "noPredicate": 0,
+        "percent": 0.56
+      },
+      "enjambement": {
+        "count": 2,
+        "percent": 0.2,
+        "positions": [
+          5,
+          9
+        ]
+      },
+      "wordOrder": {
+        "svo": 3,
+        "inversions": 1,
+        "other": 4,
+        "deviationPercent": 0.62
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 4,
+        "śmierć": 0,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 171,
+      "estimatedSeconds": 57,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 14,
+      "VERB": 18,
+      "ADJ": 3,
+      "ADV": 8,
+      "PRON": 12,
+      "ADP": 4,
+      "CCONJ": 1,
+      "SCONJ": 2,
+      "INTJ": 0,
+      "PART": 5,
+      "DET": 10,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.182,
+      "VERB": 0.234,
+      "ADJ": 0.039,
+      "ADV": 0.104,
+      "PRON": 0.156,
+      "ADP": 0.052,
+      "CCONJ": 0.013,
+      "SCONJ": 0.026,
+      "INTJ": 0,
+      "PART": 0.065,
+      "DET": 0.13,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 4,
+      "abstract": 2,
+      "ratio": 0.67
+    },
+    "verbTenses": {
+      "present": 10,
+      "past": 2,
+      "infinitive": 4,
+      "imperative": 1,
+      "future": 1
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 0,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 2,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 1,
+      "opisowe": 2
+    },
+    "adverbs": {
+      "temporalne": [
+        "ciągle",
+        "wciąż"
+      ],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "tak",
+          "count": 2
+        },
+        {
+          "word": "wciąż",
+          "count": 2
+        },
+        {
+          "word": "niezręcznie",
+          "count": 1
+        },
+        {
+          "word": "kiedy",
+          "count": 1
+        },
+        {
+          "word": "ciągle",
+          "count": 1
+        },
+        {
+          "word": "skąd",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 3,
+      "ty": 4,
+      "on_ona": 0,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 3,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 3,
+      "percentSentences": 0.33
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 8.6,
+      "median": 8,
+      "min": 1,
+      "max": 15,
+      "distribution": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        2,
+        1,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        2
+      ]
+    },
+    "lineLength": {
+      "meanWords": 7,
+      "meanSyllables": 15.5,
+      "distribution": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        2,
+        3,
+        3,
+        1,
+        1
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 8,
+      "interrogative": 0,
+      "imperative": 1,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 1,
+      "noSubject": 4,
+      "noPredicate": 0,
+      "percent": 0.56
+    },
+    "enjambement": {
+      "count": 2,
+      "percent": 0.2,
+      "positions": [
+        5,
+        9
+      ]
+    },
+    "wordOrder": {
+      "svo": 3,
+      "inversions": 1,
+      "other": 4,
+      "deviationPercent": 0.62
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 168,
+      "consonants": 222,
+      "ratio": 0.76
+    },
+    "consonantClusters": {
+      "count": 8,
+      "top": [
+        {
+          "cluster": "czn",
+          "count": 2
+        },
+        {
+          "cluster": "zgn",
+          "count": 1
+        },
+        {
+          "cluster": "brz",
+          "count": 1
+        },
+        {
+          "cluster": "zdz",
+          "count": 1
+        },
+        {
+          "cluster": "prz",
+          "count": 1
+        },
+        {
+          "cluster": "szk",
+          "count": 1
+        },
+        {
+          "cluster": "wst",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 19,
+      "syczace": 52,
+      "nosowe": 50,
+      "plynne": 23
+    },
+    "rhymes": {
+      "exact": 1,
+      "approximate": 0,
+      "internal": 0,
+      "assonance": 0,
+      "alliteration": 0
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        11
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 171,
+      "estimatedSeconds": 57,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "polregularny",
+      "regularityScore": 0.7
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Biblia",
+          "reference": "wina pierworodna, grzech",
+          "evidence": "tytuł 'WINA' i motyw cierpienia"
+        },
+        {
+          "source": "Baudelaire",
+          "reference": "erotyka i cierpienie",
+          "evidence": "połączenie fizyczności z bólem i winą"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.3,
+        "baudelaire": 0.8,
+        "bursa": 0.2,
+        "stachura": 0.4,
+        "grochowiak": 0.6,
+        "bialoszewski": 0.1,
+        "rozewicz": 0.3
+      }
+    },
+    "space": {
+      "type": "zamknieta",
+      "evidence": "intymna przestrzeń ciał, objęcia kolan, ukrywanie się w dłoniach",
+      "openClosedRatio": 0.1
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "nieokreslona",
+      "evidence": "brak wskazówek temporalnych, fokus na relacji intymnej"
+    },
+    "motion": {
+      "movement": 6,
+      "stillness": 4,
+      "dynamism": 0.6,
+      "evidence": "wciskanie się, całowanie, rozdzieranie, obejmowanie"
+    },
+    "imageryDensity": {
+      "metaphors": 3,
+      "comparisons": 0,
+      "personifications": 2,
+      "hyperboles": 1,
+      "per100words": 9.1
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.9,
+      "creationLevel": 0.1,
+      "ironicDistance": 0.1,
+      "autobiographicSignals": [
+        "intymny ton",
+        "bezpośrednie zwroty do 'Ciebie'",
+        "pytania retoryczne o własną winę"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "rozpacz",
+      "secondary": "czułość",
+      "intensity": 0.9
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "podmiot liryczny mówi o sobie w pierwszej osobie: 'nie wiem, czym zawiniłama', 'mi brzuch rozdzierasz'"
+    },
+    "addressee": {
+      "type": "ty",
+      "evidence": "bezpośrednie zwroty do drugiej osoby: 'wciskasz', 'Cię rozgniewać', 'Twoja nienawiść'"
+    },
+    "metaphors": [
+      {
+        "source": "relacja fizyczna",
+        "target": "przemoc emocjonalna",
+        "example": "brzuch rozdzierasz nie mówiąc nawet: Przebacz"
+      },
+      {
+        "source": "zamieszkiwanie",
+        "target": "obsesyjna obecność",
+        "example": "zamieszkujesz pępek"
+      },
+      {
+        "source": "ukrywanie się",
+        "target": "poszukiwanie ochrony",
+        "example": "w Twoich złych dłoniach chować"
+      }
+    ],
+    "temperature": {
+      "value": 0.8,
+      "label": "gorące - intensywna namiętność przemieszana z cierpieniem"
+    },
+    "senses": {
+      "wzrok": 2,
+      "sluch": 1,
+      "dotyk": 5,
+      "smak": 3,
+      "zapach": 0
+    },
+    "autodestruction": {
+      "level": 0.8,
+      "signals": [
+        "akceptacja przemocy fizycznej",
+        "pytanie o własną winę",
+        "ukrywanie się w 'złych dłoniach'",
+        "pozwalanie na 'rozdzieranie brzucha'"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": null,
+    "dfaAlpha": 0.991,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -1.1575038064963017
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -0.8722986871417772
+      }
+    ],
+    "seriesLength": 10,
+    "series": [
+      6,
+      8,
+      6,
+      9,
+      7,
+      8,
+      7,
+      8,
+      7,
+      10
+    ]
+  }
+}

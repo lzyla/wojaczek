@@ -1,0 +1,760 @@
+{
+  "id": "martwy-jezyk",
+  "title": "Martwy język",
+  "wordCount": 35,
+  "lineCount": 9,
+  "uniqueWords": 28,
+  "vocabularyRichness": 0.8,
+  "avgWordsPerLine": 3.89,
+  "wordsPerLineDistribution": [
+    2,
+    3,
+    5,
+    4,
+    4,
+    3,
+    7,
+    3,
+    4
+  ],
+  "wordFrequencies": [
+    [
+      "twarzy",
+      2
+    ],
+    [
+      "uśmiech",
+      2
+    ],
+    [
+      "ucha",
+      2
+    ],
+    [
+      "palcami",
+      1
+    ],
+    [
+      "ustalam",
+      1
+    ],
+    [
+      "rysy",
+      1
+    ],
+    [
+      "dwa",
+      1
+    ],
+    [
+      "palce",
+      1
+    ],
+    [
+      "wsadzam",
+      1
+    ],
+    [
+      "usta",
+      1
+    ],
+    [
+      "przydaję",
+      1
+    ],
+    [
+      "uśmiechu",
+      1
+    ],
+    [
+      "rozdzierający",
+      1
+    ],
+    [
+      "przetłuszczoną",
+      1
+    ],
+    [
+      "bladą",
+      1
+    ],
+    [
+      "skórę",
+      1
+    ],
+    [
+      "wypełniony",
+      1
+    ],
+    [
+      "zwojami",
+      1
+    ],
+    [
+      "języka",
+      1
+    ],
+    [
+      "martwy",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 0,
+    "period": 0,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 0,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 0,
+  "negationWords": [],
+  "pronounDistribution": {
+    "ja": 1,
+    "ty": 0,
+    "on_ona": 0,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 3,
+    "smierc": 1,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [
+    [
+      "jest",
+      2
+    ]
+  ],
+  "firstWord": "palcami",
+  "lastWord": "język",
+  "avgWordLength": 5.34,
+  "wordLengthDistribution": {
+    "6-7": 10,
+    "4-5": 12,
+    "1-3": 8,
+    "8-9": 2,
+    "10+": 3
+  },
+  "bigrams": [
+    [
+      "palcami ustalam",
+      1
+    ],
+    [
+      "ustalam rysy",
+      1
+    ],
+    [
+      "rysy mojej",
+      1
+    ],
+    [
+      "mojej twarzy",
+      1
+    ],
+    [
+      "twarzy dwa",
+      1
+    ],
+    [
+      "dwa palce",
+      1
+    ],
+    [
+      "palce wsadzam",
+      1
+    ],
+    [
+      "przydaję twarzy",
+      1
+    ],
+    [
+      "twarzy uśmiechu",
+      1
+    ]
+  ],
+  "poemWords": [
+    "palcami",
+    "ustalam",
+    "rysy",
+    "twarzy",
+    "dwa",
+    "palce",
+    "wsadzam",
+    "usta",
+    "przydaję",
+    "uśmiechu",
+    "uśmiech",
+    "rozdzierający",
+    "przetłuszczoną",
+    "bladą",
+    "skórę",
+    "ucha",
+    "wypełniony",
+    "zwojami",
+    "języka",
+    "martwy",
+    "język"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 15,
+        "VERB": 3,
+        "ADJ": 6,
+        "ADV": 0,
+        "PRON": 0,
+        "ADP": 3,
+        "CCONJ": 1,
+        "SCONJ": 0,
+        "INTJ": 0,
+        "PART": 0,
+        "DET": 1,
+        "NUM": 1
+      },
+      "posPercent": {
+        "NOUN": 0.417,
+        "VERB": 0.083,
+        "ADJ": 0.167,
+        "ADV": 0,
+        "PRON": 0,
+        "ADP": 0.083,
+        "CCONJ": 0.028,
+        "SCONJ": 0,
+        "INTJ": 0,
+        "PART": 0,
+        "DET": 0.028,
+        "NUM": 0.028
+      },
+      "nounConcreteAbstract": {
+        "concrete": 4,
+        "abstract": 0,
+        "ratio": 1
+      },
+      "verbTenses": {
+        "present": 9
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 3,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 1,
+        "oceniajace": 0,
+        "opisowe": 5
+      },
+      "adverbs": {
+        "temporalne": [],
+        "modalne": [],
+        "sposobu": [],
+        "top": []
+      },
+      "pronouns": {
+        "ja": 0,
+        "ty": 0,
+        "on_ona": 0,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 0,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 0,
+        "percentSentences": 0
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 76,
+        "consonants": 111,
+        "ratio": 0.68
+      },
+      "consonantClusters": {
+        "count": 5,
+        "top": [
+          {
+            "cluster": "prz",
+            "count": 2
+          },
+          {
+            "cluster": "zdz",
+            "count": 1
+          },
+          {
+            "cluster": "szcz",
+            "count": 1
+          },
+          {
+            "cluster": "rtw",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 6,
+        "syczace": 23,
+        "nosowe": 19,
+        "plynne": 15
+      },
+      "rhymes": {
+        "exact": 0,
+        "approximate": 0,
+        "internal": 0,
+        "assonance": 0,
+        "alliteration": 0
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 18,
+        "median": 18,
+        "min": 15,
+        "max": 21,
+        "distribution": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 3.6,
+        "meanSyllables": 7.8,
+        "distribution": [
+          0,
+          1,
+          1,
+          3,
+          3,
+          1,
+          0,
+          1
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 2,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 0,
+        "noSubject": 0,
+        "noPredicate": 0,
+        "percent": 0
+      },
+      "enjambement": {
+        "count": 4,
+        "percent": 0.44,
+        "positions": [
+          1,
+          3,
+          5,
+          7
+        ]
+      },
+      "wordOrder": {
+        "svo": 0,
+        "inversions": 1,
+        "other": 1,
+        "deviationPercent": 1
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 5,
+        "śmierć": 1,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 78,
+      "estimatedSeconds": 26,
+      "tempoCategory": "umiarkowane"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 15,
+      "VERB": 3,
+      "ADJ": 6,
+      "ADV": 0,
+      "PRON": 0,
+      "ADP": 3,
+      "CCONJ": 1,
+      "SCONJ": 0,
+      "INTJ": 0,
+      "PART": 0,
+      "DET": 1,
+      "NUM": 1
+    },
+    "posPercent": {
+      "NOUN": 0.417,
+      "VERB": 0.083,
+      "ADJ": 0.167,
+      "ADV": 0,
+      "PRON": 0,
+      "ADP": 0.083,
+      "CCONJ": 0.028,
+      "SCONJ": 0,
+      "INTJ": 0,
+      "PART": 0,
+      "DET": 0.028,
+      "NUM": 0.028
+    },
+    "nounConcreteAbstract": {
+      "concrete": 4,
+      "abstract": 0,
+      "ratio": 1
+    },
+    "verbTenses": {
+      "present": 9
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 3,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 1,
+      "oceniajace": 0,
+      "opisowe": 5
+    },
+    "adverbs": {
+      "temporalne": [],
+      "modalne": [],
+      "sposobu": [],
+      "top": []
+    },
+    "pronouns": {
+      "ja": 0,
+      "ty": 0,
+      "on_ona": 0,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 0,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 0,
+      "percentSentences": 0
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 18,
+      "median": 18,
+      "min": 15,
+      "max": 21,
+      "distribution": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 3.6,
+      "meanSyllables": 7.8,
+      "distribution": [
+        0,
+        1,
+        1,
+        3,
+        3,
+        1,
+        0,
+        1
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 2,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 0,
+      "noSubject": 0,
+      "noPredicate": 0,
+      "percent": 0
+    },
+    "enjambement": {
+      "count": 4,
+      "percent": 0.44,
+      "positions": [
+        1,
+        3,
+        5,
+        7
+      ]
+    },
+    "wordOrder": {
+      "svo": 0,
+      "inversions": 1,
+      "other": 1,
+      "deviationPercent": 1
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 76,
+      "consonants": 111,
+      "ratio": 0.68
+    },
+    "consonantClusters": {
+      "count": 5,
+      "top": [
+        {
+          "cluster": "prz",
+          "count": 2
+        },
+        {
+          "cluster": "zdz",
+          "count": 1
+        },
+        {
+          "cluster": "szcz",
+          "count": 1
+        },
+        {
+          "cluster": "rtw",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 6,
+      "syczace": 23,
+      "nosowe": 19,
+      "plynne": 15
+    },
+    "rhymes": {
+      "exact": 0,
+      "approximate": 0,
+      "internal": 0,
+      "assonance": 0,
+      "alliteration": 0
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 5,
+      "linesPerStanza": [
+        1,
+        2,
+        2,
+        2,
+        3
+      ],
+      "isRegular": false,
+      "isContinuous": false
+    },
+    "readingTempo": {
+      "syllables": 78,
+      "estimatedSeconds": 26,
+      "tempoCategory": "umiarkowane"
+    },
+    "regularity": {
+      "type": "polregularny",
+      "regularityScore": 0.59
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "mitologia",
+          "reference": "motyw maski teatralnej",
+          "evidence": "manipulowanie wyrazem twarzy palcami"
+        },
+        {
+          "source": "Różewicz",
+          "reference": "poetyka nagości i drastyczności",
+          "evidence": "surowy, bezpośredni język opisu ciała"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.3,
+        "baudelaire": 0.2,
+        "bursa": 0.1,
+        "stachura": 0.4,
+        "grochowiak": 0.6,
+        "bialoszewski": 0.3,
+        "rozewicz": 0.7
+      }
+    },
+    "space": {
+      "type": "zamknieta",
+      "evidence": "intymna przestrzeń własnej twarzy, fokus na detalu anatomicznym",
+      "openClosedRatio": 0.1
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "nieokreslona",
+      "evidence": "brak wskazówek temporalnych"
+    },
+    "motion": {
+      "movement": 7,
+      "stillness": 3,
+      "dynamism": 0.7,
+      "evidence": "dynamiczne czynności: 'ustalam', 'wsadzam', 'przydaję', 'rozdzierający'"
+    },
+    "imageryDensity": {
+      "metaphors": 2,
+      "comparisons": 0,
+      "personifications": 1,
+      "hyperboles": 1,
+      "per100words": 80
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.9,
+      "creationLevel": 0.8,
+      "ironicDistance": 0.2,
+      "autobiographicSignals": [
+        "użycie pierwszej osoby",
+        "intymny opis własnej twarzy",
+        "automanipulacja",
+        "data 1965 jako sygnał autobiograficzny"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "obrzydzenie",
+      "secondary": "rezygnacja",
+      "intensity": 0.8
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "Podmiot liryczny używa zaimków 'mojej twarzy', 'wsadzam', opisuje własne działania w pierwszej osobie"
+    },
+    "addressee": {
+      "type": "siebie",
+      "evidence": "Wiersz to autoanaliza, podmiot manipuluje własną twarzą, zwraca się do samego siebie"
+    },
+    "metaphors": [
+      {
+        "source": "mechaniczna manipulacja",
+        "target": "emocje",
+        "example": "Palcami ustalam rysy mojej twarzy"
+      },
+      {
+        "source": "martwy język",
+        "target": "niemożność komunikacji",
+        "example": "To jest martwy język"
+      }
+    ],
+    "temperature": {
+      "value": 0.2,
+      "label": "zimne - mechaniczne, pozbawione życia działania"
+    },
+    "senses": {
+      "wzrok": 4,
+      "sluch": 1,
+      "dotyk": 5,
+      "smak": 2,
+      "zapach": 0
+    },
+    "autodestruction": {
+      "level": 0.7,
+      "signals": [
+        "wsadzanie palców w usta",
+        "rozdzieranie skóry",
+        "sztuczne wywołowanie uśmiechu",
+        "określenie języka jako martwego"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": null,
+    "dfaAlpha": null,
+    "dfaScaling": [],
+    "seriesLength": 9,
+    "series": [
+      2,
+      3,
+      5,
+      4,
+      4,
+      3,
+      7,
+      3,
+      4
+    ]
+  }
+}

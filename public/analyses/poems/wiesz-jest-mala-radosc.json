@@ -1,0 +1,965 @@
+{
+  "id": "wiesz-jest-mala-radosc",
+  "title": "Wiesz jest mała radość",
+  "wordCount": 70,
+  "lineCount": 21,
+  "uniqueWords": 55,
+  "vocabularyRichness": 0.786,
+  "avgWordsPerLine": 3.33,
+  "wordsPerLineDistribution": [
+    4,
+    3,
+    2,
+    2,
+    5,
+    4,
+    6,
+    4,
+    1,
+    4,
+    1,
+    6,
+    4,
+    3,
+    5,
+    2,
+    1,
+    2,
+    6,
+    4,
+    1
+  ],
+  "wordFrequencies": [
+    [
+      "radość",
+      3
+    ],
+    [
+      "wiesz",
+      2
+    ],
+    [
+      "stokrotkę",
+      2
+    ],
+    [
+      "śmieję",
+      2
+    ],
+    [
+      "mała",
+      1
+    ],
+    [
+      "chciałbym",
+      1
+    ],
+    [
+      "rosła",
+      1
+    ],
+    [
+      "duża",
+      1
+    ],
+    [
+      "moi",
+      1
+    ],
+    [
+      "bracia",
+      1
+    ],
+    [
+      "okrutni",
+      1
+    ],
+    [
+      "umarli",
+      1
+    ],
+    [
+      "żyją",
+      1
+    ],
+    [
+      "pamiętam",
+      1
+    ],
+    [
+      "idę",
+      1
+    ],
+    [
+      "ulicą",
+      1
+    ],
+    [
+      "zbaczam",
+      1
+    ],
+    [
+      "zrywam",
+      1
+    ],
+    [
+      "kwiatek",
+      1
+    ],
+    [
+      "nieostrożny",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 0,
+    "period": 0,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 0,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 1,
+  "negationWords": [
+    "nie"
+  ],
+  "pronounDistribution": {
+    "ja": 2,
+    "ty": 3,
+    "on_ona": 1,
+    "my": 1,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 0,
+    "smierc": 0,
+    "erotyka": 1,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [
+    [
+      "ja",
+      2
+    ],
+    [
+      "kiedy",
+      2
+    ]
+  ],
+  "firstWord": "wiesz",
+  "lastWord": "wzajemna",
+  "avgWordLength": 5,
+  "wordLengthDistribution": {
+    "4-5": 17,
+    "6-7": 18,
+    "1-3": 23,
+    "8-9": 8,
+    "10+": 4
+  },
+  "bigrams": [
+    [
+      "mała radość",
+      1
+    ],
+    [
+      "tę radość",
+      1
+    ],
+    [
+      "chciałbym żeby",
+      1
+    ],
+    [
+      "żeby rosła",
+      1
+    ],
+    [
+      "duża moi",
+      1
+    ]
+  ],
+  "poemWords": [
+    "wiesz",
+    "mała",
+    "radość",
+    "chciałbym",
+    "rosła",
+    "duża",
+    "moi",
+    "bracia",
+    "okrutni",
+    "umarli",
+    "żyją",
+    "pamiętam",
+    "idę",
+    "ulicą",
+    "zbaczam",
+    "zrywam",
+    "kwiatek",
+    "nieostrożny",
+    "stokrotkę",
+    "przybliżam",
+    "twarzy",
+    "śmieję",
+    "głośno",
+    "odnajduję",
+    "podobieństwo",
+    "głośniej",
+    "stwierdzam",
+    "różnicę",
+    "poróżnia",
+    "kwiatem",
+    "miłość",
+    "wzajemna"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 14,
+        "VERB": 15,
+        "ADJ": 5,
+        "ADV": 5,
+        "PRON": 9,
+        "ADP": 2,
+        "CCONJ": 5,
+        "SCONJ": 2,
+        "INTJ": 0,
+        "PART": 3,
+        "DET": 6,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.2,
+        "VERB": 0.214,
+        "ADJ": 0.071,
+        "ADV": 0.071,
+        "PRON": 0.129,
+        "ADP": 0.029,
+        "CCONJ": 0.071,
+        "SCONJ": 0.029,
+        "INTJ": 0,
+        "PART": 0.043,
+        "DET": 0.086,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 1,
+        "abstract": 4,
+        "ratio": 0.2
+      },
+      "verbTenses": {
+        "present": 16,
+        "past": 3
+      },
+      "verbSemantics": {
+        "ruch": 1,
+        "percepcja": 0,
+        "stan": 4,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 0,
+        "opisowe": 5
+      },
+      "adverbs": {
+        "temporalne": [],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "kiedy",
+            "count": 3
+          },
+          {
+            "word": "głośno",
+            "count": 1
+          },
+          {
+            "word": "głośniej",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 2,
+        "ty": 2,
+        "on_ona": 1,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 1,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 1,
+        "percentSentences": 0.5
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 152,
+        "consonants": 198,
+        "ratio": 0.77
+      },
+      "consonantClusters": {
+        "count": 7,
+        "top": [
+          {
+            "cluster": "chc",
+            "count": 1
+          },
+          {
+            "cluster": "str",
+            "count": 1
+          },
+          {
+            "cluster": "prz",
+            "count": 1
+          },
+          {
+            "cluster": "ństw",
+            "count": 1
+          },
+          {
+            "cluster": "szcz",
+            "count": 1
+          },
+          {
+            "cluster": "stw",
+            "count": 1
+          },
+          {
+            "cluster": "rdz",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 16,
+        "syczace": 35,
+        "nosowe": 45,
+        "plynne": 26
+      },
+      "rhymes": {
+        "exact": 1,
+        "approximate": 1,
+        "internal": 0,
+        "assonance": 0,
+        "alliteration": 3
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 35,
+        "median": 35,
+        "min": 13,
+        "max": 57,
+        "distribution": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 3.3,
+        "meanSyllables": 7.3,
+        "distribution": [
+          0,
+          4,
+          4,
+          2,
+          6,
+          2,
+          3
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 2,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 0,
+        "noSubject": 0,
+        "noPredicate": 0,
+        "percent": 0
+      },
+      "enjambement": {
+        "count": 20,
+        "percent": 1,
+        "positions": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ]
+      },
+      "wordOrder": {
+        "svo": 1,
+        "inversions": 1,
+        "other": 0,
+        "deviationPercent": 0.5
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 0,
+        "śmierć": 0,
+        "erotyka": 1,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 153,
+      "estimatedSeconds": 51,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 14,
+      "VERB": 15,
+      "ADJ": 5,
+      "ADV": 5,
+      "PRON": 9,
+      "ADP": 2,
+      "CCONJ": 5,
+      "SCONJ": 2,
+      "INTJ": 0,
+      "PART": 3,
+      "DET": 6,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.2,
+      "VERB": 0.214,
+      "ADJ": 0.071,
+      "ADV": 0.071,
+      "PRON": 0.129,
+      "ADP": 0.029,
+      "CCONJ": 0.071,
+      "SCONJ": 0.029,
+      "INTJ": 0,
+      "PART": 0.043,
+      "DET": 0.086,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 1,
+      "abstract": 4,
+      "ratio": 0.2
+    },
+    "verbTenses": {
+      "present": 16,
+      "past": 3
+    },
+    "verbSemantics": {
+      "ruch": 1,
+      "percepcja": 0,
+      "stan": 4,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 0,
+      "opisowe": 5
+    },
+    "adverbs": {
+      "temporalne": [],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "kiedy",
+          "count": 3
+        },
+        {
+          "word": "głośno",
+          "count": 1
+        },
+        {
+          "word": "głośniej",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 2,
+      "ty": 2,
+      "on_ona": 1,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 1,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 1,
+      "percentSentences": 0.5
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 35,
+      "median": 35,
+      "min": 13,
+      "max": 57,
+      "distribution": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 3.3,
+      "meanSyllables": 7.3,
+      "distribution": [
+        0,
+        4,
+        4,
+        2,
+        6,
+        2,
+        3
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 2,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 0,
+      "noSubject": 0,
+      "noPredicate": 0,
+      "percent": 0
+    },
+    "enjambement": {
+      "count": 20,
+      "percent": 1,
+      "positions": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ]
+    },
+    "wordOrder": {
+      "svo": 1,
+      "inversions": 1,
+      "other": 0,
+      "deviationPercent": 0.5
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 152,
+      "consonants": 198,
+      "ratio": 0.77
+    },
+    "consonantClusters": {
+      "count": 7,
+      "top": [
+        {
+          "cluster": "chc",
+          "count": 1
+        },
+        {
+          "cluster": "str",
+          "count": 1
+        },
+        {
+          "cluster": "prz",
+          "count": 1
+        },
+        {
+          "cluster": "ństw",
+          "count": 1
+        },
+        {
+          "cluster": "szcz",
+          "count": 1
+        },
+        {
+          "cluster": "stw",
+          "count": 1
+        },
+        {
+          "cluster": "rdz",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 16,
+      "syczace": 35,
+      "nosowe": 45,
+      "plynne": 26
+    },
+    "rhymes": {
+      "exact": 1,
+      "approximate": 1,
+      "internal": 0,
+      "assonance": 0,
+      "alliteration": 3
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 8,
+      "linesPerStanza": [
+        4,
+        1,
+        1,
+        1,
+        4,
+        3,
+        3,
+        4
+      ],
+      "isRegular": false,
+      "isContinuous": false
+    },
+    "readingTempo": {
+      "syllables": 153,
+      "estimatedSeconds": 51,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "polregularny",
+      "regularityScore": 0.48
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Rimbaud",
+          "reference": "radość jako motyw egzystencjalny",
+          "evidence": "wiesz jest mała radość / ja tę radość / ja chciałbym / żeby rosła"
+        },
+        {
+          "source": "Baudelaire",
+          "reference": "melancholia i śmierć bliskich",
+          "evidence": "moi bracia okrutni umarli"
+        },
+        {
+          "source": "Leśmian",
+          "reference": "antropomorfizacja przyrody",
+          "evidence": "kwiatek nieostrożny / stokrotkę"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.8,
+        "baudelaire": 0.6,
+        "bursa": 0.2,
+        "stachura": 0.4,
+        "grochowiak": 0.3,
+        "bialoszewski": 0.5,
+        "rozewicz": 0.3
+      }
+    },
+    "space": {
+      "type": "otwarta",
+      "evidence": "kiedy idę ulicą / zbaczam",
+      "openClosedRatio": 0.8
+    },
+    "timeOfDay": {
+      "period": "dzien",
+      "season": "wiosna",
+      "evidence": "zrywam kwiatek nieostrożny / stokrotkę"
+    },
+    "motion": {
+      "movement": 7,
+      "stillness": 3,
+      "dynamism": 0.7,
+      "evidence": "kiedy idę ulicą / zbaczam / i zrywam"
+    },
+    "imageryDensity": {
+      "metaphors": 2,
+      "comparisons": 1,
+      "personifications": 2,
+      "hyperboles": 1,
+      "per100words": 12.5
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.9,
+      "creationLevel": 0.3,
+      "ironicDistance": 0.2,
+      "autobiographicSignals": [
+        "moi bracia okrutni umarli",
+        "ja tę radość",
+        "nasza miłość"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "czułość",
+      "secondary": "melancholia",
+      "intensity": 0.7
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "ja tę radość, ja chciałbym, kiedy idę ulicą, śmieję się głośno"
+    },
+    "addressee": {
+      "type": "ty",
+      "evidence": "przybliżam do twojej twarzy, ty wiesz, to co cię poróżnia, to jest nasza miłość"
+    },
+    "metaphors": [
+      {
+        "source": "kwiatek/stokrotka",
+        "target": "ukochana osoba",
+        "example": "tę stokrotkę przybliżam do twojej twarzy i śmieję się głośno kiedy odnajduję podobieństwo"
+      },
+      {
+        "source": "różnica między osobą a kwiatem",
+        "target": "miłość wzajemna",
+        "example": "to co cię poróżnia z kwiatem to jest nasza miłość wzajemna"
+      }
+    ],
+    "temperature": {
+      "value": 0.6,
+      "label": "ciepłe - radość przeplata się z melancholią"
+    },
+    "senses": {
+      "wzrok": 4,
+      "sluch": 2,
+      "dotyk": 3,
+      "smak": 0,
+      "zapach": 1
+    },
+    "autodestruction": {
+      "level": 0.2,
+      "signals": [
+        "pamięć o umarłych braciach",
+        "niepewność czy żyją ale zapomnienie o nich"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 1.031,
+    "dfaAlpha": 1.076,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -0.6185073057636145
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -0.447912669058912
+      },
+      {
+        "logWin": 1.6094379124341003,
+        "logFluc": -0.014957771132663595
+      },
+      {
+        "logWin": 1.791759469228055,
+        "logFluc": 0.02466979415768687
+      },
+      {
+        "logWin": 1.9459101490553132,
+        "logFluc": 0.282504494882226
+      }
+    ],
+    "seriesLength": 21,
+    "series": [
+      4,
+      3,
+      2,
+      2,
+      5,
+      4,
+      6,
+      4,
+      1,
+      4,
+      1,
+      6,
+      4,
+      3,
+      5,
+      2,
+      1,
+      2,
+      6,
+      4,
+      1
+    ]
+  }
+}

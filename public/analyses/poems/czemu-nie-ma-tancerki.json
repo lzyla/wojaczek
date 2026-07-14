@@ -1,0 +1,959 @@
+{
+  "id": "czemu-nie-ma-tancerki",
+  "title": "Czemu nie ma tancerki",
+  "wordCount": 166,
+  "lineCount": 22,
+  "uniqueWords": 79,
+  "vocabularyRichness": 0.476,
+  "avgWordsPerLine": 7.55,
+  "wordsPerLineDistribution": [
+    3,
+    8,
+    7,
+    8,
+    8,
+    10,
+    8,
+    8,
+    7,
+    7,
+    5,
+    8,
+    8,
+    8,
+    6,
+    8,
+    8,
+    7,
+    8,
+    8,
+    9,
+    9
+  ],
+  "wordFrequencies": [
+    [
+      "czemu",
+      17
+    ],
+    [
+      "tańczyłaby",
+      10
+    ],
+    [
+      "tańczącej",
+      8
+    ],
+    [
+      "tancerki",
+      3
+    ],
+    [
+      "alicji",
+      1
+    ],
+    [
+      "reniewicz",
+      1
+    ],
+    [
+      "smutek",
+      1
+    ],
+    [
+      "muzyka",
+      1
+    ],
+    [
+      "krąży",
+      1
+    ],
+    [
+      "szlifując",
+      1
+    ],
+    [
+      "posadzkę",
+      1
+    ],
+    [
+      "imię",
+      1
+    ],
+    [
+      "naszej",
+      1
+    ],
+    [
+      "rozpaczy",
+      1
+    ],
+    [
+      "matczynej",
+      1
+    ],
+    [
+      "bajkę",
+      1
+    ],
+    [
+      "snu",
+      1
+    ],
+    [
+      "śnie",
+      1
+    ],
+    [
+      "winy",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 24,
+    "period": 0,
+    "question": 16,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 0,
+    "semicolon": 1
+  },
+  "questionCount": 16,
+  "exclamationCount": 0,
+  "negationCount": 15,
+  "negationWords": [
+    "nie"
+  ],
+  "pronounDistribution": {
+    "ja": 0,
+    "ty": 0,
+    "on_ona": 1,
+    "my": 13,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 0,
+    "smierc": 1,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 1
+  },
+  "anaphors": [
+    [
+      "czemu",
+      16
+    ]
+  ],
+  "firstWord": "pani",
+  "lastWord": "śmierć",
+  "avgWordLength": 5.18,
+  "wordLengthDistribution": {
+    "4-5": 40,
+    "6-7": 18,
+    "8-9": 24,
+    "1-3": 65,
+    "10+": 19
+  },
+  "bigrams": [
+    [
+      "ma tańczącej",
+      5
+    ],
+    [
+      "tańczącej nam",
+      4
+    ],
+    [
+      "tańczyłaby nam",
+      4
+    ],
+    [
+      "ma tancerki",
+      3
+    ],
+    [
+      "tańczyłaby nasz",
+      2
+    ],
+    [
+      "nam nasze",
+      2
+    ],
+    [
+      "alicji reniewicz",
+      1
+    ]
+  ],
+  "poemWords": [
+    "pani",
+    "alicji",
+    "reniewicz",
+    "czemu",
+    "tancerki",
+    "tańczyłaby",
+    "smutek",
+    "muzyka",
+    "krąży",
+    "szlifując",
+    "posadzkę",
+    "tańczącej",
+    "imię",
+    "naszej",
+    "rozpaczy",
+    "matczynej",
+    "bajkę",
+    "snu",
+    "śnie",
+    "winy",
+    "pamięci",
+    "urodziny",
+    "odważnej",
+    "linie",
+    "słonecznego",
+    "promienia",
+    "prosto",
+    "oczu",
+    "padnie",
+    "księżycowej",
+    "estradzie",
+    "zdecydowanej",
+    "wahanie",
+    "darmo",
+    "ciemności",
+    "skutecznie",
+    "światło",
+    "bezwstydnej",
+    "nago",
+    "ubrana",
+    "gazę",
+    "zachwyconego",
+    "spojrzenia",
+    "bolesnych",
+    "rzęsach",
+    "spokojnej",
+    "obłęd",
+    "koniecznej",
+    "przypadek",
+    "szum",
+    "wezbranego",
+    "wiatru",
+    "zawsze",
+    "wiersze",
+    "pozwy",
+    "krzyk",
+    "płacz",
+    "śmiech",
+    "życie",
+    "śmierć"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 37,
+        "VERB": 28,
+        "ADJ": 20,
+        "ADV": 22,
+        "PRON": 19,
+        "ADP": 12,
+        "CCONJ": 4,
+        "SCONJ": 1,
+        "INTJ": 0,
+        "PART": 17,
+        "DET": 6,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.216,
+        "VERB": 0.164,
+        "ADJ": 0.117,
+        "ADV": 0.129,
+        "PRON": 0.111,
+        "ADP": 0.07,
+        "CCONJ": 0.023,
+        "SCONJ": 0.006,
+        "INTJ": 0,
+        "PART": 0.099,
+        "DET": 0.035,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 0,
+        "abstract": 8,
+        "ratio": 0
+      },
+      "verbTenses": {
+        "present": 17,
+        "past": 10,
+        "future": 1
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 0,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 0,
+        "opisowe": 20
+      },
+      "adverbs": {
+        "temporalne": [
+          "zawsze"
+        ],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "czemu",
+            "count": 16
+          },
+          {
+            "word": "gdy",
+            "count": 1
+          },
+          {
+            "word": "prosto",
+            "count": 1
+          },
+          {
+            "word": "darmo",
+            "count": 1
+          },
+          {
+            "word": "skutecznie",
+            "count": 1
+          },
+          {
+            "word": "nago",
+            "count": 1
+          },
+          {
+            "word": "zawsze",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 0,
+        "ty": 0,
+        "on_ona": 1,
+        "my": 8,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 16,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 16,
+        "percentSentences": 0.89
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 367,
+        "consonants": 511,
+        "ratio": 0.72
+      },
+      "consonantClusters": {
+        "count": 33,
+        "top": [
+          {
+            "cluster": "ńcz",
+            "count": 18
+          },
+          {
+            "cluster": "czn",
+            "count": 3
+          },
+          {
+            "cluster": "szl",
+            "count": 1
+          },
+          {
+            "cluster": "dzk",
+            "count": 1
+          },
+          {
+            "cluster": "tcz",
+            "count": 1
+          },
+          {
+            "cluster": "str",
+            "count": 1
+          },
+          {
+            "cluster": "zwst",
+            "count": 1
+          },
+          {
+            "cluster": "chw",
+            "count": 1
+          },
+          {
+            "cluster": "jrz",
+            "count": 1
+          },
+          {
+            "cluster": "prz",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 63,
+        "syczace": 66,
+        "nosowe": 154,
+        "plynne": 41
+      },
+      "rhymes": {
+        "exact": 4,
+        "approximate": 4,
+        "internal": 2,
+        "assonance": 3,
+        "alliteration": 12
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 9.5,
+        "median": 8,
+        "min": 1,
+        "max": 18,
+        "distribution": [
+          0,
+          1,
+          0,
+          0,
+          1,
+          1,
+          0,
+          2,
+          7,
+          1,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0,
+          1,
+          2
+        ]
+      },
+      "lineLength": {
+        "meanWords": 7.1,
+        "meanSyllables": 15.5,
+        "distribution": [
+          0,
+          1,
+          0,
+          1,
+          1,
+          1,
+          1,
+          4,
+          12,
+          2,
+          1
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 2,
+        "interrogative": 16,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 1,
+        "noSubject": 6,
+        "noPredicate": 1,
+        "percent": 0.44
+      },
+      "enjambement": {
+        "count": 2,
+        "percent": 0.09,
+        "positions": [
+          6,
+          9
+        ]
+      },
+      "wordOrder": {
+        "svo": 2,
+        "inversions": 8,
+        "other": 7,
+        "deviationPercent": 0.88
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 0,
+        "śmierć": 1,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 1,
+        "ból": 1
+      },
+      "oppositionsFound": [
+        "życie/śmierć",
+        "światło/ciemność"
+      ]
+    },
+    "tempo": {
+      "syllables": 371,
+      "estimatedSeconds": 124,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 37,
+      "VERB": 28,
+      "ADJ": 20,
+      "ADV": 22,
+      "PRON": 19,
+      "ADP": 12,
+      "CCONJ": 4,
+      "SCONJ": 1,
+      "INTJ": 0,
+      "PART": 17,
+      "DET": 6,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.216,
+      "VERB": 0.164,
+      "ADJ": 0.117,
+      "ADV": 0.129,
+      "PRON": 0.111,
+      "ADP": 0.07,
+      "CCONJ": 0.023,
+      "SCONJ": 0.006,
+      "INTJ": 0,
+      "PART": 0.099,
+      "DET": 0.035,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 0,
+      "abstract": 8,
+      "ratio": 0
+    },
+    "verbTenses": {
+      "present": 17,
+      "past": 10,
+      "future": 1
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 0,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 0,
+      "opisowe": 20
+    },
+    "adverbs": {
+      "temporalne": [
+        "zawsze"
+      ],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "czemu",
+          "count": 16
+        },
+        {
+          "word": "gdy",
+          "count": 1
+        },
+        {
+          "word": "prosto",
+          "count": 1
+        },
+        {
+          "word": "darmo",
+          "count": 1
+        },
+        {
+          "word": "skutecznie",
+          "count": 1
+        },
+        {
+          "word": "nago",
+          "count": 1
+        },
+        {
+          "word": "zawsze",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 0,
+      "ty": 0,
+      "on_ona": 1,
+      "my": 8,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 16,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 16,
+      "percentSentences": 0.89
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 9.5,
+      "median": 8,
+      "min": 1,
+      "max": 18,
+      "distribution": [
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        0,
+        2,
+        7,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        1,
+        2
+      ]
+    },
+    "lineLength": {
+      "meanWords": 7.1,
+      "meanSyllables": 15.5,
+      "distribution": [
+        0,
+        1,
+        0,
+        1,
+        1,
+        1,
+        1,
+        4,
+        12,
+        2,
+        1
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 2,
+      "interrogative": 16,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 1,
+      "noSubject": 6,
+      "noPredicate": 1,
+      "percent": 0.44
+    },
+    "enjambement": {
+      "count": 2,
+      "percent": 0.09,
+      "positions": [
+        6,
+        9
+      ]
+    },
+    "wordOrder": {
+      "svo": 2,
+      "inversions": 8,
+      "other": 7,
+      "deviationPercent": 0.88
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 367,
+      "consonants": 511,
+      "ratio": 0.72
+    },
+    "consonantClusters": {
+      "count": 33,
+      "top": [
+        {
+          "cluster": "ńcz",
+          "count": 18
+        },
+        {
+          "cluster": "czn",
+          "count": 3
+        },
+        {
+          "cluster": "szl",
+          "count": 1
+        },
+        {
+          "cluster": "dzk",
+          "count": 1
+        },
+        {
+          "cluster": "tcz",
+          "count": 1
+        },
+        {
+          "cluster": "str",
+          "count": 1
+        },
+        {
+          "cluster": "zwst",
+          "count": 1
+        },
+        {
+          "cluster": "chw",
+          "count": 1
+        },
+        {
+          "cluster": "jrz",
+          "count": 1
+        },
+        {
+          "cluster": "prz",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 63,
+      "syczace": 66,
+      "nosowe": 154,
+      "plynne": 41
+    },
+    "rhymes": {
+      "exact": 4,
+      "approximate": 4,
+      "internal": 2,
+      "assonance": 3,
+      "alliteration": 12
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        24
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 371,
+      "estimatedSeconds": 124,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "regularny",
+      "regularityScore": 0.74
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Biblia",
+          "reference": "taniec Salome",
+          "evidence": "bezwstydna tancerka tańcząca nago"
+        },
+        {
+          "source": "mitologia",
+          "reference": "muzy i taniec jako sztuka",
+          "evidence": "tancerka jako symbol sztuki i ekspresji"
+        },
+        {
+          "source": "Różewicz",
+          "reference": "pytania egzystencjalne",
+          "evidence": "repetytywne pytania 'czemu nie ma'"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.3,
+        "baudelaire": 0.4,
+        "bursa": 0.1,
+        "stachura": 0.2,
+        "grochowiak": 0.3,
+        "bialoszewski": 0.2,
+        "rozewicz": 0.7
+      }
+    },
+    "space": {
+      "type": "nieokreslona",
+      "evidence": "przestrzeń metaforyczna - od posadzki przez estradę księżycową po rzęsy",
+      "openClosedRatio": 0.8
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "nieokreslona",
+      "evidence": "czas uniwersalny - od urodzin przez życie do śmierci, wzmianka o słońcu i księżycu"
+    },
+    "motion": {
+      "movement": 9,
+      "stillness": 2,
+      "dynamism": 0.9,
+      "evidence": "dominuje ruch tańca, 'muzyka krąży', 'tańczyłaby' powtarzane wielokrotnie"
+    },
+    "imageryDensity": {
+      "metaphors": 12,
+      "comparisons": 3,
+      "personifications": 8,
+      "hyperboles": 4,
+      "per100words": 15.2
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.8,
+      "creationLevel": 0.6,
+      "ironicDistance": 0.2,
+      "autobiographicSignals": [
+        "nasz smutek",
+        "nasze winy",
+        "nasze życie i śmierć",
+        "dedykacja dla konkretnej osoby"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "tęsknota",
+      "secondary": "rozpacz",
+      "intensity": 0.8
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "użycie zaimka 'nam' i 'naszych' - podmiot zbiorowy, mówiący w imieniu wspólnoty"
+    },
+    "addressee": {
+      "type": "nikt",
+      "evidence": "pytania retoryczne skierowane w pustkę, brak konkretnego adresata"
+    },
+    "metaphors": [
+      {
+        "source": "taniec",
+        "target": "ucieleśnienie emocji i doznań",
+        "example": "tańczyłaby nasz smutek"
+      },
+      {
+        "source": "tancerka",
+        "target": "wymarzona muza/kobieta idealna",
+        "example": "tańczyłaby nam imię naszej rozpaczy"
+      },
+      {
+        "source": "linia słonecznego promienia",
+        "target": "niebezpieczna granica między życiem a śmiercią",
+        "example": "tańczyłaby na linie słonecznego promienia"
+      },
+      {
+        "source": "gaza zachwyconego spojrzenia",
+        "target": "kruchość piękna i pożądania",
+        "example": "ubrana tylko w gazę zachwyconego spojrzenia"
+      }
+    ],
+    "temperature": {
+      "value": 0.7,
+      "label": "ciepłe pragnienie"
+    },
+    "senses": {
+      "wzrok": 5,
+      "sluch": 3,
+      "dotyk": 4,
+      "smak": 0,
+      "zapach": 0
+    },
+    "autodestruction": {
+      "level": 0.5,
+      "signals": [
+        "obsesyjne powtarzanie pytań",
+        "fascynacja niemożliwością",
+        "identyfikacja z bólem i rozpaczą"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 0.601,
+    "dfaAlpha": 0.734,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -0.9932007552050252
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -0.8652285482189797
+      },
+      {
+        "logWin": 1.6094379124341003,
+        "logFluc": -1.028795378266216
+      },
+      {
+        "logWin": 1.791759469228055,
+        "logFluc": -0.4718170650126617
+      },
+      {
+        "logWin": 1.9459101490553132,
+        "logFluc": -0.3722314847522102
+      }
+    ],
+    "seriesLength": 22,
+    "series": [
+      3,
+      8,
+      7,
+      8,
+      8,
+      10,
+      8,
+      8,
+      7,
+      7,
+      5,
+      8,
+      8,
+      8,
+      6,
+      8,
+      8,
+      7,
+      8,
+      8,
+      9,
+      9
+    ]
+  }
+}

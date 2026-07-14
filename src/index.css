@@ -24,11 +24,20 @@
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     overflow-x: hidden;
+    -webkit-overflow-scrolling: touch;
   }
 
-  /* All images black & white */
-  img {
+  /* All images black & white (except map tiles) */
+  img:not(.leaflet-tile) {
     filter: grayscale(100%);
+  }
+
+  /* Datamining module: enable color */
+  .datamining-color img {
+    filter: none;
+  }
+  .datamining-color svg text {
+    fill: currentColor;
   }
 
   h1, h2, h3 {
@@ -186,7 +195,16 @@
     border: 1px solid rgba(255, 255, 255, 0.08);
   }
 
-  .leaflet-dark .leaflet-tile-pane {
-    /* Dark tiles from CARTO - no extra filter needed */
+  .leaflet-container .leaflet-tile-pane {
+    filter: none;
+  }
+
+  /* Typewriter cursor blink */
+  @keyframes blink {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0; }
+  }
+  .animate-blink {
+    animation: blink 0.7s step-end infinite;
   }
 }

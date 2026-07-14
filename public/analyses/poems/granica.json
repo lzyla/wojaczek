@@ -1,0 +1,889 @@
+{
+  "id": "granica",
+  "title": "Granica",
+  "wordCount": 56,
+  "lineCount": 11,
+  "uniqueWords": 52,
+  "vocabularyRichness": 0.929,
+  "avgWordsPerLine": 5.09,
+  "wordsPerLineDistribution": [
+    6,
+    5,
+    2,
+    4,
+    5,
+    6,
+    4,
+    6,
+    5,
+    6,
+    7
+  ],
+  "wordFrequencies": [
+    [
+      "ludzie",
+      2
+    ],
+    [
+      "ludzi",
+      2
+    ],
+    [
+      "trzy",
+      1
+    ],
+    [
+      "razy",
+      1
+    ],
+    [
+      "uciekałem",
+      1
+    ],
+    [
+      "azji",
+      1
+    ],
+    [
+      "wróciłem",
+      1
+    ],
+    [
+      "siedzę",
+      1
+    ],
+    [
+      "odrą",
+      1
+    ],
+    [
+      "myję",
+      1
+    ],
+    [
+      "genitalia",
+      1
+    ],
+    [
+      "przychodzą",
+      1
+    ],
+    [
+      "odchodzą",
+      1
+    ],
+    [
+      "kamienni",
+      1
+    ],
+    [
+      "kres",
+      1
+    ],
+    [
+      "zjedzmy",
+      1
+    ],
+    [
+      "matki",
+      1
+    ],
+    [
+      "biali",
+      1
+    ],
+    [
+      "przyjdzie",
+      1
+    ],
+    [
+      "epoka",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 1,
+    "period": 0,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 0,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 0,
+  "negationWords": [],
+  "pronounDistribution": {
+    "ja": 0,
+    "ty": 0,
+    "on_ona": 0,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 0,
+    "smierc": 1,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [],
+  "firstWord": "trzy",
+  "lastWord": "ziemia",
+  "avgWordLength": 5.57,
+  "wordLengthDistribution": {
+    "4-5": 20,
+    "8-9": 10,
+    "1-3": 8,
+    "6-7": 16,
+    "10+": 2
+  },
+  "bigrams": [
+    [
+      "trzy razy",
+      1
+    ],
+    [
+      "razy uciekałem",
+      1
+    ],
+    [
+      "azji wróciłem",
+      1
+    ],
+    [
+      "wróciłem siedzę",
+      1
+    ],
+    [
+      "odrą myję",
+      1
+    ],
+    [
+      "myję genitalia",
+      1
+    ],
+    [
+      "genitalia przychodzą",
+      1
+    ],
+    [
+      "przychodzą odchodzą",
+      1
+    ],
+    [
+      "odchodzą ludzie",
+      1
+    ],
+    [
+      "ludzie kamienni",
+      1
+    ],
+    [
+      "kamienni ludzi",
+      1
+    ]
+  ],
+  "poemWords": [
+    "trzy",
+    "razy",
+    "uciekałem",
+    "azji",
+    "wróciłem",
+    "siedzę",
+    "odrą",
+    "myję",
+    "genitalia",
+    "przychodzą",
+    "odchodzą",
+    "ludzie",
+    "kamienni",
+    "ludzi",
+    "kres",
+    "zjedzmy",
+    "matki",
+    "biali",
+    "przyjdzie",
+    "epoka",
+    "dobrych",
+    "harnych",
+    "impotencją",
+    "boga",
+    "wołam",
+    "strzelec",
+    "wychodzi",
+    "mózgu",
+    "nadzieją",
+    "świecącą",
+    "końcu",
+    "różdżki",
+    "idzie",
+    "długi",
+    "głód",
+    "teresy",
+    "drugiej",
+    "strony",
+    "śmierć",
+    "kończy",
+    "zaczyna",
+    "ziemia"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 18,
+        "VERB": 13,
+        "ADJ": 7,
+        "ADV": 1,
+        "PRON": 1,
+        "ADP": 6,
+        "CCONJ": 1,
+        "SCONJ": 0,
+        "INTJ": 0,
+        "PART": 1,
+        "DET": 1,
+        "NUM": 1
+      },
+      "posPercent": {
+        "NOUN": 0.316,
+        "VERB": 0.228,
+        "ADJ": 0.123,
+        "ADV": 0.018,
+        "PRON": 0.018,
+        "ADP": 0.105,
+        "CCONJ": 0.018,
+        "SCONJ": 0,
+        "INTJ": 0,
+        "PART": 0.018,
+        "DET": 0.018,
+        "NUM": 0.018
+      },
+      "nounConcreteAbstract": {
+        "concrete": 0,
+        "abstract": 2,
+        "ratio": 0
+      },
+      "verbTenses": {
+        "past": 3,
+        "present": 10,
+        "future": 1
+      },
+      "verbSemantics": {
+        "ruch": 2,
+        "percepcja": 0,
+        "stan": 1,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 1,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 1,
+        "opisowe": 6
+      },
+      "adverbs": {
+        "temporalne": [],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "gdzie",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 0,
+        "ty": 0,
+        "on_ona": 0,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 0,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 0,
+        "percentSentences": 0
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 132,
+        "consonants": 187,
+        "ratio": 0.71
+      },
+      "consonantClusters": {
+        "count": 13,
+        "top": [
+          {
+            "cluster": "prz",
+            "count": 2
+          },
+          {
+            "cluster": "trz",
+            "count": 1
+          },
+          {
+            "cluster": "dch",
+            "count": 1
+          },
+          {
+            "cluster": "dzm",
+            "count": 1
+          },
+          {
+            "cluster": "jdz",
+            "count": 1
+          },
+          {
+            "cluster": "szcz",
+            "count": 1
+          },
+          {
+            "cluster": "ncj",
+            "count": 1
+          },
+          {
+            "cluster": "strz",
+            "count": 1
+          },
+          {
+            "cluster": "żdżk",
+            "count": 1
+          },
+          {
+            "cluster": "str",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 11,
+        "syczace": 33,
+        "nosowe": 35,
+        "plynne": 28
+      },
+      "rhymes": {
+        "exact": 1,
+        "approximate": 0,
+        "internal": 1,
+        "assonance": 1,
+        "alliteration": 0
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 28.5,
+        "median": 28,
+        "min": 24,
+        "max": 33,
+        "distribution": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 4.8,
+        "meanSyllables": 11.2,
+        "distribution": [
+          0,
+          1,
+          1,
+          0,
+          2,
+          3,
+          4,
+          1
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 2,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 0,
+        "noSubject": 0,
+        "noPredicate": 0,
+        "percent": 0
+      },
+      "enjambement": {
+        "count": 4,
+        "percent": 0.36,
+        "positions": [
+          4,
+          9,
+          10,
+          11
+        ]
+      },
+      "wordOrder": {
+        "svo": 1,
+        "inversions": 1,
+        "other": 0,
+        "deviationPercent": 0.5
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 0,
+        "śmierć": 1,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 135,
+      "estimatedSeconds": 45,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 18,
+      "VERB": 13,
+      "ADJ": 7,
+      "ADV": 1,
+      "PRON": 1,
+      "ADP": 6,
+      "CCONJ": 1,
+      "SCONJ": 0,
+      "INTJ": 0,
+      "PART": 1,
+      "DET": 1,
+      "NUM": 1
+    },
+    "posPercent": {
+      "NOUN": 0.316,
+      "VERB": 0.228,
+      "ADJ": 0.123,
+      "ADV": 0.018,
+      "PRON": 0.018,
+      "ADP": 0.105,
+      "CCONJ": 0.018,
+      "SCONJ": 0,
+      "INTJ": 0,
+      "PART": 0.018,
+      "DET": 0.018,
+      "NUM": 0.018
+    },
+    "nounConcreteAbstract": {
+      "concrete": 0,
+      "abstract": 2,
+      "ratio": 0
+    },
+    "verbTenses": {
+      "past": 3,
+      "present": 10,
+      "future": 1
+    },
+    "verbSemantics": {
+      "ruch": 2,
+      "percepcja": 0,
+      "stan": 1,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 1,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 1,
+      "opisowe": 6
+    },
+    "adverbs": {
+      "temporalne": [],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "gdzie",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 0,
+      "ty": 0,
+      "on_ona": 0,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 0,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 0,
+      "percentSentences": 0
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 28.5,
+      "median": 28,
+      "min": 24,
+      "max": 33,
+      "distribution": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 4.8,
+      "meanSyllables": 11.2,
+      "distribution": [
+        0,
+        1,
+        1,
+        0,
+        2,
+        3,
+        4,
+        1
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 2,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 0,
+      "noSubject": 0,
+      "noPredicate": 0,
+      "percent": 0
+    },
+    "enjambement": {
+      "count": 4,
+      "percent": 0.36,
+      "positions": [
+        4,
+        9,
+        10,
+        11
+      ]
+    },
+    "wordOrder": {
+      "svo": 1,
+      "inversions": 1,
+      "other": 0,
+      "deviationPercent": 0.5
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 132,
+      "consonants": 187,
+      "ratio": 0.71
+    },
+    "consonantClusters": {
+      "count": 13,
+      "top": [
+        {
+          "cluster": "prz",
+          "count": 2
+        },
+        {
+          "cluster": "trz",
+          "count": 1
+        },
+        {
+          "cluster": "dch",
+          "count": 1
+        },
+        {
+          "cluster": "dzm",
+          "count": 1
+        },
+        {
+          "cluster": "jdz",
+          "count": 1
+        },
+        {
+          "cluster": "szcz",
+          "count": 1
+        },
+        {
+          "cluster": "ncj",
+          "count": 1
+        },
+        {
+          "cluster": "strz",
+          "count": 1
+        },
+        {
+          "cluster": "żdżk",
+          "count": 1
+        },
+        {
+          "cluster": "str",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 11,
+      "syczace": 33,
+      "nosowe": 35,
+      "plynne": 28
+    },
+    "rhymes": {
+      "exact": 1,
+      "approximate": 0,
+      "internal": 1,
+      "assonance": 1,
+      "alliteration": 0
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        12
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 135,
+      "estimatedSeconds": 45,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "polregularny",
+      "regularityScore": 0.68
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Rimbaud",
+          "reference": "Uciekanie do Azji nawiązuje do 'Une saison en enfer' i motywów orientalnych",
+          "evidence": "Trzy razy uciekałem do Azji"
+        },
+        {
+          "source": "Biblia",
+          "reference": "Motyw zjedzenia matek przypomina biblijne przekleństwa i apokalipsę",
+          "evidence": "Zjedzmy swoje matki biali ludzie"
+        },
+        {
+          "source": "mitologia",
+          "reference": "Strzelec jako figura zodiakalną/mitologiczna",
+          "evidence": "Strzelec wychodzi z mózgu"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.8,
+        "baudelaire": 0.3,
+        "bursa": 0.2,
+        "stachura": 0.4,
+        "grochowiak": 0.2,
+        "bialoszewski": 0.1,
+        "rozewicz": 0.3
+      }
+    },
+    "space": {
+      "type": "otwarta",
+      "evidence": "Azja, Odra, 'druga strona' - przestrzeń geograficzna i metafizyczna bez granic",
+      "openClosedRatio": 0.8
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "nieokreslona",
+      "evidence": "Brak wskazówek temporalnych, czas mityczny/wieczny"
+    },
+    "motion": {
+      "movement": 8,
+      "stillness": 3,
+      "dynamism": 0.7,
+      "evidence": "Uciekanie, przychodzenie-odchodzenie ludzi, wychodzenie Strzelca, ruch między światami"
+    },
+    "imageryDensity": {
+      "metaphors": 6,
+      "comparisons": 1,
+      "personifications": 3,
+      "hyperboles": 2,
+      "per100words": 18.5
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.9,
+      "creationLevel": 0.7,
+      "ironicDistance": 0.2,
+      "autobiographicSignals": [
+        "Siedzę nad Odrą",
+        "uciekałem",
+        "myję genitalia",
+        "Jestem impotencją Boga"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "rozpacz",
+      "secondary": "bunt",
+      "intensity": 0.9
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "Trzy razy uciekałem... Siedzę nad Odrą... Jestem impotencją Boga wołam"
+    },
+    "addressee": {
+      "type": "siebie",
+      "evidence": "monolog wewnętrzny, refleksja nad własnym stanem i miejscem w świecie"
+    },
+    "metaphors": [
+      {
+        "source": "impotencja",
+        "target": "niespełnienie egzystencjalne",
+        "example": "Jestem impotencją Boga"
+      },
+      {
+        "source": "strzelec z mózgu",
+        "target": "myśl/pragnienie",
+        "example": "Strzelec wychodzi z mózgu z nadzieją świecącą na końcu różdżki"
+      },
+      {
+        "source": "długi głód",
+        "target": "tęsknota/pragnienie",
+        "example": "długi głód Teresy"
+      }
+    ],
+    "temperature": {
+      "value": 0.7,
+      "label": "gorące nihilistyczne rozdarcie"
+    },
+    "senses": {
+      "wzrok": 4,
+      "sluch": 2,
+      "dotyk": 5,
+      "smak": 3,
+      "zapach": 1
+    },
+    "autodestruction": {
+      "level": 0.8,
+      "signals": [
+        "ucieczki do Azji",
+        "mycie genitaliów jako akt puryfikacji/upokorzenia",
+        "utożsamienie z impotencją Boga",
+        "nihilistyczne wezwanie do zjedzenia matek"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": null,
+    "dfaAlpha": 1.04,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -0.9343602551820918
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -0.6352688853230317
+      }
+    ],
+    "seriesLength": 11,
+    "series": [
+      6,
+      5,
+      2,
+      4,
+      5,
+      6,
+      4,
+      6,
+      5,
+      6,
+      7
+    ]
+  }
+}

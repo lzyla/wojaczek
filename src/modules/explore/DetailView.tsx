@@ -1,5 +1,5 @@
 import { motion } from 'motion/react';
-import { Clock, Layers, X } from 'lucide-react';
+import { Camera, Clock, Layers, X } from 'lucide-react';
 import { MiniMap } from './components/MiniMap';
 import { AudioPlayer } from './components/AudioPlayer';
 import { MediaBlockRenderer } from './components/MediaBlocks';
@@ -16,12 +16,14 @@ interface DetailViewProps {
   onGenerate: () => void;
   onOpenKeyDialog: () => void;
   onSelectPoint: (point: Point) => void;
+  onOpenAr: () => void;
 }
 
 export const DetailView = ({
   point,
   onBack,
   onSelectPoint,
+  onOpenAr,
 }: DetailViewProps) => {
   const { points } = useData();
   return (
@@ -67,6 +69,24 @@ export const DetailView = ({
 
     {/* Short description */}
     <p className="text-sm leading-relaxed opacity-70">{point.description}</p>
+
+    {point.arExperience && (
+      <div className="rounded-2xl border border-seal/15 bg-seal/[0.04] p-5">
+        <span className="label-ui text-seal">NA MIEJSCU</span>
+        <h3 className="mt-2 text-2xl">{point.arExperience.title}</h3>
+        <p className="mt-2 text-sm leading-relaxed opacity-70">{point.arExperience.hint}</p>
+        <motion.button
+          whileTap={{ scale: 0.98 }}
+          onClick={onOpenAr}
+          className="mt-5 w-full bg-seal px-4 py-4 text-white"
+        >
+          <span className="label-ui flex items-center justify-center gap-3">
+            <Camera size={14} />
+            Otwórz kamerę AR
+          </span>
+        </motion.button>
+      </div>
+    )}
 
     {/* Narrator / Audio Player */}
     <AudioPlayer duration={point.duration} />

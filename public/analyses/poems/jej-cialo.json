@@ -1,0 +1,823 @@
+{
+  "id": "jej-cialo",
+  "title": "Jej ciało",
+  "wordCount": 51,
+  "lineCount": 18,
+  "uniqueWords": 37,
+  "vocabularyRichness": 0.725,
+  "avgWordsPerLine": 2.83,
+  "wordsPerLineDistribution": [
+    3,
+    1,
+    2,
+    5,
+    3,
+    3,
+    2,
+    2,
+    3,
+    2,
+    5,
+    2,
+    3,
+    1,
+    2,
+    5,
+    4,
+    3
+  ],
+  "wordFrequencies": [
+    [
+      "ciało",
+      3
+    ],
+    [
+      "gwiazda",
+      3
+    ],
+    [
+      "śmierć",
+      2
+    ],
+    [
+      "teresie",
+      1
+    ],
+    [
+      "spadnie",
+      1
+    ],
+    [
+      "dojrzała",
+      1
+    ],
+    [
+      "zwyczajna",
+      1
+    ],
+    [
+      "oddech",
+      1
+    ],
+    [
+      "pamięć",
+      1
+    ],
+    [
+      "końca",
+      1
+    ],
+    [
+      "wyświetlona",
+      1
+    ],
+    [
+      "śnie",
+      1
+    ],
+    [
+      "zgaśnie",
+      1
+    ],
+    [
+      "uroczystym",
+      1
+    ],
+    [
+      "porządku",
+      1
+    ],
+    [
+      "wygasania",
+      1
+    ],
+    [
+      "czuły",
+      1
+    ],
+    [
+      "upór",
+      1
+    ],
+    [
+      "powoduje",
+      1
+    ],
+    [
+      "światło",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 0,
+    "period": 0,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 0,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 0,
+  "negationWords": [],
+  "pronounDistribution": {
+    "ja": 4,
+    "ty": 0,
+    "on_ona": 3,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 4,
+    "smierc": 2,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [
+    [
+      "jej",
+      2
+    ]
+  ],
+  "firstWord": "teresie",
+  "lastWord": "śmierć",
+  "avgWordLength": 5.02,
+  "wordLengthDistribution": {
+    "1-3": 17,
+    "6-7": 13,
+    "4-5": 12,
+    "8-9": 7,
+    "10+": 2
+  },
+  "bigrams": [
+    [
+      "ciało spadnie",
+      1
+    ],
+    [
+      "nim dojrzała",
+      1
+    ],
+    [
+      "śmierć zwyczajna",
+      1
+    ]
+  ],
+  "poemWords": [
+    "teresie",
+    "ciało",
+    "spadnie",
+    "gwiazda",
+    "dojrzała",
+    "śmierć",
+    "zwyczajna",
+    "oddech",
+    "pamięć",
+    "końca",
+    "wyświetlona",
+    "śnie",
+    "zgaśnie",
+    "uroczystym",
+    "porządku",
+    "wygasania",
+    "czuły",
+    "upór",
+    "powoduje",
+    "światło",
+    "minie",
+    "zakrywam",
+    "twarz",
+    "przyznaję",
+    "własną"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 17,
+        "VERB": 7,
+        "ADJ": 5,
+        "ADV": 0,
+        "PRON": 4,
+        "ADP": 4,
+        "CCONJ": 2,
+        "SCONJ": 4,
+        "INTJ": 0,
+        "PART": 1,
+        "DET": 3,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.354,
+        "VERB": 0.146,
+        "ADJ": 0.104,
+        "ADV": 0,
+        "PRON": 0.083,
+        "ADP": 0.083,
+        "CCONJ": 0.042,
+        "SCONJ": 0.083,
+        "INTJ": 0,
+        "PART": 0.021,
+        "DET": 0.062,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 3,
+        "abstract": 4,
+        "ratio": 0.43
+      },
+      "verbTenses": {
+        "future": 3,
+        "past": 1,
+        "present": 3
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 0,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 0,
+        "opisowe": 5
+      },
+      "adverbs": {
+        "temporalne": [],
+        "modalne": [],
+        "sposobu": [],
+        "top": []
+      },
+      "pronouns": {
+        "ja": 1,
+        "ty": 0,
+        "on_ona": 3,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 0,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 0,
+        "percentSentences": 0
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 105,
+        "consonants": 148,
+        "ratio": 0.71
+      },
+      "consonantClusters": {
+        "count": 3,
+        "top": [
+          {
+            "cluster": "jrz",
+            "count": 1
+          },
+          {
+            "cluster": "szcz",
+            "count": 1
+          },
+          {
+            "cluster": "prz",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 10,
+        "syczace": 26,
+        "nosowe": 25,
+        "plynne": 19
+      },
+      "rhymes": {
+        "exact": 0,
+        "approximate": 0,
+        "internal": 0,
+        "assonance": 0,
+        "alliteration": 0
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 16,
+        "median": 12,
+        "min": 0,
+        "max": 36,
+        "distribution": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 2.8,
+        "meanSyllables": 6.2,
+        "distribution": [
+          0,
+          2,
+          6,
+          6,
+          1,
+          3
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 3,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 0,
+        "noSubject": 0,
+        "noPredicate": 0,
+        "percent": 0
+      },
+      "enjambement": {
+        "count": 14,
+        "percent": 0.82,
+        "positions": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17
+        ]
+      },
+      "wordOrder": {
+        "svo": 2,
+        "inversions": 0,
+        "other": 0,
+        "deviationPercent": 0
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 4,
+        "śmierć": 2,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 111,
+      "estimatedSeconds": 37,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 17,
+      "VERB": 7,
+      "ADJ": 5,
+      "ADV": 0,
+      "PRON": 4,
+      "ADP": 4,
+      "CCONJ": 2,
+      "SCONJ": 4,
+      "INTJ": 0,
+      "PART": 1,
+      "DET": 3,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.354,
+      "VERB": 0.146,
+      "ADJ": 0.104,
+      "ADV": 0,
+      "PRON": 0.083,
+      "ADP": 0.083,
+      "CCONJ": 0.042,
+      "SCONJ": 0.083,
+      "INTJ": 0,
+      "PART": 0.021,
+      "DET": 0.062,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 3,
+      "abstract": 4,
+      "ratio": 0.43
+    },
+    "verbTenses": {
+      "future": 3,
+      "past": 1,
+      "present": 3
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 0,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 0,
+      "opisowe": 5
+    },
+    "adverbs": {
+      "temporalne": [],
+      "modalne": [],
+      "sposobu": [],
+      "top": []
+    },
+    "pronouns": {
+      "ja": 1,
+      "ty": 0,
+      "on_ona": 3,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 0,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 0,
+      "percentSentences": 0
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 16,
+      "median": 12,
+      "min": 0,
+      "max": 36,
+      "distribution": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 2.8,
+      "meanSyllables": 6.2,
+      "distribution": [
+        0,
+        2,
+        6,
+        6,
+        1,
+        3
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 3,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 0,
+      "noSubject": 0,
+      "noPredicate": 0,
+      "percent": 0
+    },
+    "enjambement": {
+      "count": 14,
+      "percent": 0.82,
+      "positions": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ]
+    },
+    "wordOrder": {
+      "svo": 2,
+      "inversions": 0,
+      "other": 0,
+      "deviationPercent": 0
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 105,
+      "consonants": 148,
+      "ratio": 0.71
+    },
+    "consonantClusters": {
+      "count": 3,
+      "top": [
+        {
+          "cluster": "jrz",
+          "count": 1
+        },
+        {
+          "cluster": "szcz",
+          "count": 1
+        },
+        {
+          "cluster": "prz",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 10,
+      "syczace": 26,
+      "nosowe": 25,
+      "plynne": 19
+    },
+    "rhymes": {
+      "exact": 0,
+      "approximate": 0,
+      "internal": 0,
+      "assonance": 0,
+      "alliteration": 0
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        18
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 111,
+      "estimatedSeconds": 37,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "polregularny",
+      "regularityScore": 0.55
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Biblia",
+          "reference": "zakrywanie twarzy wobec śmierci",
+          "evidence": "I ja zakrywam twarz / przyznaję własną śmierć"
+        },
+        {
+          "source": "Rimbaud",
+          "reference": "gwiazda jako symbol przemijania",
+          "evidence": "Jej ciało / spadnie jak gwiazda"
+        },
+        {
+          "source": "Baudelaire",
+          "reference": "erotyka połączona ze śmiercią",
+          "evidence": "W nim / dojrzała moja śmierć"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.8,
+        "baudelaire": 0.7,
+        "bursa": 0.1,
+        "stachura": 0.3,
+        "grochowiak": 0.4,
+        "bialoszewski": 0.2,
+        "rozewicz": 0.3
+      }
+    },
+    "space": {
+      "type": "nieokreslona",
+      "evidence": "przestrzeń kosmiczna, metafizyczna - gwiazdy, wygasanie",
+      "openClosedRatio": 0.8
+    },
+    "timeOfDay": {
+      "period": "noc",
+      "season": "nieokreslona",
+      "evidence": "gwiazdy, wygasanie, kosmiczny porządek przemijania"
+    },
+    "motion": {
+      "movement": 8,
+      "stillness": 3,
+      "dynamism": 0.7,
+      "evidence": "spadnie, zgaśnie, minie - dynamika przemijania i ruchu kosmicznego"
+    },
+    "imageryDensity": {
+      "metaphors": 4,
+      "comparisons": 3,
+      "personifications": 2,
+      "hyperboles": 1,
+      "per100words": 18.5
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.9,
+      "creationLevel": 0.8,
+      "ironicDistance": 0.1,
+      "autobiographicSignals": [
+        "dedykacja 'Teresie'",
+        "data 15 V 66",
+        "moja śmierć",
+        "moja pamięć",
+        "ja zakrywam twarz"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "melancholia",
+      "secondary": "tęsknota",
+      "intensity": 0.8
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "moja śmierć, moja pamięć, mój czuły upór, ja zakrywam twarz"
+    },
+    "addressee": {
+      "type": "ty",
+      "evidence": "dedykacja 'Teresie' oraz bezpośrednie odniesienie do 'jej ciała'"
+    },
+    "metaphors": [
+      {
+        "source": "gwiazda",
+        "target": "ciało kochanki",
+        "example": "Jej ciało spadnie jak gwiazda"
+      },
+      {
+        "source": "światło",
+        "target": "miłość/uczucie",
+        "example": "mój czuły upór jeszcze powoduje światło"
+      },
+      {
+        "source": "sen",
+        "target": "pamięć",
+        "example": "moja pamięć do końca wyświetlona w śnie"
+      }
+    ],
+    "temperature": {
+      "value": 0.3,
+      "label": "chłodna melancholia z nutą czułości"
+    },
+    "senses": {
+      "wzrok": 5,
+      "sluch": 0,
+      "dotyk": 2,
+      "smak": 0,
+      "zapach": 0
+    },
+    "autodestruction": {
+      "level": 0.7,
+      "signals": [
+        "dojrzała moja śmierć",
+        "przyznaję własną śmierć",
+        "ja zakrywam twarz"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 0.731,
+    "dfaAlpha": 1.458,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -1.291035199120824
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -0.2896600856993008
+      },
+      {
+        "logWin": 1.6094379124341003,
+        "logFluc": -0.594872026025772
+      },
+      {
+        "logWin": 1.791759469228055,
+        "logFluc": -0.10501351802387601
+      }
+    ],
+    "seriesLength": 18,
+    "series": [
+      3,
+      1,
+      2,
+      5,
+      3,
+      3,
+      2,
+      2,
+      3,
+      2,
+      5,
+      2,
+      3,
+      1,
+      2,
+      5,
+      4,
+      3
+    ]
+  }
+}

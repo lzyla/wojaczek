@@ -1,0 +1,957 @@
+{
+  "id": "wybaczcie-piechocie",
+  "title": "Wybaczcie piechocie",
+  "wordCount": 83,
+  "lineCount": 16,
+  "uniqueWords": 71,
+  "vocabularyRichness": 0.855,
+  "avgWordsPerLine": 5.19,
+  "wordsPerLineDistribution": [
+    6,
+    4,
+    4,
+    4,
+    6,
+    5,
+    5,
+    5,
+    5,
+    4,
+    7,
+    5,
+    6,
+    6,
+    6,
+    5
+  ],
+  "wordFrequencies": [
+    [
+      "którego",
+      2
+    ],
+    [
+      "lubię",
+      1
+    ],
+    [
+      "poezji",
+      1
+    ],
+    [
+      "znoszę",
+      1
+    ],
+    [
+      "skurwysyna",
+      1
+    ],
+    [
+      "wojaczka",
+      1
+    ],
+    [
+      "poety",
+      1
+    ],
+    [
+      "pijaka",
+      1
+    ],
+    [
+      "darmozjada",
+      1
+    ],
+    [
+      "dawno",
+      1
+    ],
+    [
+      "powinni",
+      1
+    ],
+    [
+      "zamknąć",
+      1
+    ],
+    [
+      "dłużej",
+      1
+    ],
+    [
+      "niż",
+      1
+    ],
+    [
+      "zdolna",
+      1
+    ],
+    [
+      "byłaby",
+      1
+    ],
+    [
+      "wytrwać",
+      1
+    ],
+    [
+      "miłość",
+      1
+    ],
+    [
+      "biednej",
+      1
+    ],
+    [
+      "córki",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 9,
+    "period": 3,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 2,
+    "colon": 0,
+    "semicolon": 2
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 3,
+  "negationWords": [
+    "nie"
+  ],
+  "pronounDistribution": {
+    "ja": 0,
+    "ty": 0,
+    "on_ona": 4,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 0,
+    "smierc": 0,
+    "erotyka": 1,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [],
+  "firstWord": "nie",
+  "lastWord": "czworakach",
+  "avgWordLength": 5.16,
+  "wordLengthDistribution": {
+    "1-3": 28,
+    "4-5": 19,
+    "6-7": 23,
+    "10+": 6,
+    "8-9": 7
+  },
+  "bigrams": [
+    [
+      "lubię poezji",
+      1
+    ],
+    [
+      "skurwysyna wojaczka",
+      1
+    ],
+    [
+      "wojaczka poety",
+      1
+    ],
+    [
+      "poety pijaka",
+      1
+    ],
+    [
+      "darmozjada którego",
+      1
+    ],
+    [
+      "którego dawno",
+      1
+    ],
+    [
+      "dawno powinni",
+      1
+    ]
+  ],
+  "poemWords": [
+    "lubię",
+    "poezji",
+    "znoszę",
+    "skurwysyna",
+    "wojaczka",
+    "poety",
+    "pijaka",
+    "darmozjada",
+    "którego",
+    "dawno",
+    "powinni",
+    "zamknąć",
+    "dłużej",
+    "niż",
+    "zdolna",
+    "byłaby",
+    "wytrwać",
+    "miłość",
+    "biednej",
+    "córki",
+    "kupca",
+    "zmarłego",
+    "czasem",
+    "zgonu",
+    "uczcić",
+    "mogła",
+    "wstrzemięźliwością",
+    "rozpacz",
+    "zazdrosne",
+    "samolubne",
+    "bydlę",
+    "końcu",
+    "rzucił",
+    "wykorzystawszy",
+    "cna",
+    "młodość",
+    "boleje",
+    "coraz",
+    "lepszych",
+    "powiadają",
+    "wierszach",
+    "zwykle",
+    "pije",
+    "siebie",
+    "wraca",
+    "pieszo",
+    "najczęściej",
+    "czworakach"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 14,
+        "VERB": 15,
+        "ADJ": 6,
+        "ADV": 10,
+        "PRON": 6,
+        "ADP": 9,
+        "CCONJ": 5,
+        "SCONJ": 4,
+        "INTJ": 0,
+        "PART": 6,
+        "DET": 4,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.163,
+        "VERB": 0.174,
+        "ADJ": 0.07,
+        "ADV": 0.116,
+        "PRON": 0.07,
+        "ADP": 0.105,
+        "CCONJ": 0.058,
+        "SCONJ": 0.047,
+        "INTJ": 0,
+        "PART": 0.07,
+        "DET": 0.047,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 0,
+        "abstract": 3,
+        "ratio": 0
+      },
+      "verbTenses": {
+        "past": 7,
+        "present": 8,
+        "infinitive": 3
+      },
+      "verbSemantics": {
+        "ruch": 1,
+        "percepcja": 0,
+        "stan": 2,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 1
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 1,
+        "opisowe": 5
+      },
+      "adverbs": {
+        "temporalne": [
+          "dawno",
+          "teraz"
+        ],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "piechocie",
+            "count": 1
+          },
+          {
+            "word": "dawno",
+            "count": 1
+          },
+          {
+            "word": "dłużej",
+            "count": 1
+          },
+          {
+            "word": "wstrzemięźliwością",
+            "count": 1
+          },
+          {
+            "word": "tak",
+            "count": 1
+          },
+          {
+            "word": "teraz",
+            "count": 1
+          },
+          {
+            "word": "coraz",
+            "count": 1
+          },
+          {
+            "word": "zwykle",
+            "count": 1
+          },
+          {
+            "word": "pieszo",
+            "count": 1
+          },
+          {
+            "word": "najczęściej",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 0,
+        "ty": 0,
+        "on_ona": 5,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 3,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 3,
+        "percentSentences": 0.5
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 186,
+        "consonants": 260,
+        "ratio": 0.72
+      },
+      "consonantClusters": {
+        "count": 13,
+        "top": [
+          {
+            "cluster": "czc",
+            "count": 2
+          },
+          {
+            "cluster": "czk",
+            "count": 1
+          },
+          {
+            "cluster": "mkn",
+            "count": 1
+          },
+          {
+            "cluster": "trw",
+            "count": 1
+          },
+          {
+            "cluster": "prz",
+            "count": 1
+          },
+          {
+            "cluster": "wstrz",
+            "count": 1
+          },
+          {
+            "cluster": "zdr",
+            "count": 1
+          },
+          {
+            "cluster": "wsz",
+            "count": 1
+          },
+          {
+            "cluster": "psz",
+            "count": 1
+          },
+          {
+            "cluster": "rsz",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 18,
+        "syczace": 48,
+        "nosowe": 44,
+        "plynne": 36
+      },
+      "rhymes": {
+        "exact": 1,
+        "approximate": 1,
+        "internal": 2,
+        "assonance": 0,
+        "alliteration": 2
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 14.3,
+        "median": 15,
+        "min": 1,
+        "max": 30,
+        "distribution": [
+          0,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 4.9,
+        "meanSyllables": 10.6,
+        "distribution": [
+          0,
+          1,
+          1,
+          0,
+          4,
+          6,
+          4,
+          1,
+          1
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 6,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 1,
+        "noSubject": 3,
+        "noPredicate": 0,
+        "percent": 0.67
+      },
+      "enjambement": {
+        "count": 0,
+        "percent": 0,
+        "positions": []
+      },
+      "wordOrder": {
+        "svo": 1,
+        "inversions": 1,
+        "other": 3,
+        "deviationPercent": 0.8
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 0,
+        "śmierć": 1,
+        "erotyka": 1,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 191,
+      "estimatedSeconds": 64,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 14,
+      "VERB": 15,
+      "ADJ": 6,
+      "ADV": 10,
+      "PRON": 6,
+      "ADP": 9,
+      "CCONJ": 5,
+      "SCONJ": 4,
+      "INTJ": 0,
+      "PART": 6,
+      "DET": 4,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.163,
+      "VERB": 0.174,
+      "ADJ": 0.07,
+      "ADV": 0.116,
+      "PRON": 0.07,
+      "ADP": 0.105,
+      "CCONJ": 0.058,
+      "SCONJ": 0.047,
+      "INTJ": 0,
+      "PART": 0.07,
+      "DET": 0.047,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 0,
+      "abstract": 3,
+      "ratio": 0
+    },
+    "verbTenses": {
+      "past": 7,
+      "present": 8,
+      "infinitive": 3
+    },
+    "verbSemantics": {
+      "ruch": 1,
+      "percepcja": 0,
+      "stan": 2,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 1
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 1,
+      "opisowe": 5
+    },
+    "adverbs": {
+      "temporalne": [
+        "dawno",
+        "teraz"
+      ],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "piechocie",
+          "count": 1
+        },
+        {
+          "word": "dawno",
+          "count": 1
+        },
+        {
+          "word": "dłużej",
+          "count": 1
+        },
+        {
+          "word": "wstrzemięźliwością",
+          "count": 1
+        },
+        {
+          "word": "tak",
+          "count": 1
+        },
+        {
+          "word": "teraz",
+          "count": 1
+        },
+        {
+          "word": "coraz",
+          "count": 1
+        },
+        {
+          "word": "zwykle",
+          "count": 1
+        },
+        {
+          "word": "pieszo",
+          "count": 1
+        },
+        {
+          "word": "najczęściej",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 0,
+      "ty": 0,
+      "on_ona": 5,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 3,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 3,
+      "percentSentences": 0.5
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 14.3,
+      "median": 15,
+      "min": 1,
+      "max": 30,
+      "distribution": [
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 4.9,
+      "meanSyllables": 10.6,
+      "distribution": [
+        0,
+        1,
+        1,
+        0,
+        4,
+        6,
+        4,
+        1,
+        1
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 6,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 1,
+      "noSubject": 3,
+      "noPredicate": 0,
+      "percent": 0.67
+    },
+    "enjambement": {
+      "count": 0,
+      "percent": 0,
+      "positions": []
+    },
+    "wordOrder": {
+      "svo": 1,
+      "inversions": 1,
+      "other": 3,
+      "deviationPercent": 0.8
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 186,
+      "consonants": 260,
+      "ratio": 0.72
+    },
+    "consonantClusters": {
+      "count": 13,
+      "top": [
+        {
+          "cluster": "czc",
+          "count": 2
+        },
+        {
+          "cluster": "czk",
+          "count": 1
+        },
+        {
+          "cluster": "mkn",
+          "count": 1
+        },
+        {
+          "cluster": "trw",
+          "count": 1
+        },
+        {
+          "cluster": "prz",
+          "count": 1
+        },
+        {
+          "cluster": "wstrz",
+          "count": 1
+        },
+        {
+          "cluster": "zdr",
+          "count": 1
+        },
+        {
+          "cluster": "wsz",
+          "count": 1
+        },
+        {
+          "cluster": "psz",
+          "count": 1
+        },
+        {
+          "cluster": "rsz",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 18,
+      "syczace": 48,
+      "nosowe": 44,
+      "plynne": 36
+    },
+    "rhymes": {
+      "exact": 1,
+      "approximate": 1,
+      "internal": 2,
+      "assonance": 0,
+      "alliteration": 2
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        18
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 191,
+      "estimatedSeconds": 64,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "regularny",
+      "regularityScore": 0.73
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "inne",
+          "reference": "konwencja literacka autoprezentacji",
+          "evidence": "podmiot mówiący o sobie w trzeciej osobie jako o 'Wojaczku'"
+        },
+        {
+          "source": "inne",
+          "reference": "topos poety przeklętego",
+          "evidence": "obraz poety-pijaka i darmozjada"
+        }
+      ],
+      "selfQuotes": [
+        "cały wiersz jest autotematyką i autoironią"
+      ],
+      "influences": {
+        "rimbaud": 0.3,
+        "baudelaire": 0.4,
+        "bursa": 0.1,
+        "stachura": 0.2,
+        "grochowiak": 0.1,
+        "bialoszewski": 0.7,
+        "rozewicz": 0.8
+      }
+    },
+    "space": {
+      "type": "otwarta",
+      "evidence": "powrót 'pieszo' sugeruje przestrzeń zewnętrzną, ulicę",
+      "openClosedRatio": 0.7
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "nieokreslona",
+      "evidence": "brak wyraźnych wskaźników temporalnych"
+    },
+    "motion": {
+      "movement": 6,
+      "stillness": 2,
+      "dynamism": 0.6,
+      "evidence": "powrót pieszo i na czworakach, dynamika życiowego upadku"
+    },
+    "imageryDensity": {
+      "metaphors": 2,
+      "comparisons": 0,
+      "personifications": 1,
+      "hyperboles": 3,
+      "per100words": 8.1
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.9,
+      "creationLevel": 0.8,
+      "ironicDistance": 0.9,
+      "autobiographicSignals": [
+        "nazwisko Wojaczka",
+        "bezpośrednie odniesienia do biografii",
+        "związek z 'córką kupca'",
+        "data 1969"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "obrzydzenie",
+      "secondary": "gniew",
+      "intensity": 0.9
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "Nie lubię poezji, bo nie znoszę / Tego skurwysyna Wojaczka"
+    },
+    "addressee": {
+      "type": "czytelnik",
+      "evidence": "Wybaczcie piechocie - bezpośredni zwrot do czytelników"
+    },
+    "metaphors": [
+      {
+        "source": "zwierzę",
+        "target": "poeta",
+        "example": "samolubne bydlę"
+      },
+      {
+        "source": "handel",
+        "target": "miłość",
+        "example": "wykorzystawszy do cna jej młodość"
+      },
+      {
+        "source": "zwierzę",
+        "target": "sposób poruszania",
+        "example": "na czworakach"
+      }
+    ],
+    "temperature": {
+      "value": 0.8,
+      "label": "gorące - intensywna agresja i obrzydzenie"
+    },
+    "senses": {
+      "wzrok": 4,
+      "sluch": 0,
+      "dotyk": 2,
+      "smak": 1,
+      "zapach": 0
+    },
+    "autodestruction": {
+      "level": 0.95,
+      "signals": [
+        "skurwysyna Wojaczka, poety",
+        "Pijaka i darmozjada",
+        "samolubne bydlę",
+        "jak zwykle Pije",
+        "na czworakach"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 1.022,
+    "dfaAlpha": 1.903,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -1.9560115027140699
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -1.5070689382232536
+      },
+      {
+        "logWin": 1.6094379124341003,
+        "logFluc": -0.9751822497023468
+      }
+    ],
+    "seriesLength": 16,
+    "series": [
+      6,
+      4,
+      4,
+      4,
+      6,
+      5,
+      5,
+      5,
+      5,
+      4,
+      7,
+      5,
+      6,
+      6,
+      6,
+      5
+    ]
+  }
+}

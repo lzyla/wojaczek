@@ -1,0 +1,929 @@
+{
+  "id": "senna-ballada-na-temat-co-kobiety-wiedza-o-wierszach",
+  "title": "Senna ballada na temat, co kobiety wiedzą o wierszach",
+  "wordCount": 99,
+  "lineCount": 17,
+  "uniqueWords": 85,
+  "vocabularyRichness": 0.859,
+  "avgWordsPerLine": 5.82,
+  "wordsPerLineDistribution": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    4,
+    4,
+    8,
+    9,
+    7,
+    3,
+    3,
+    10,
+    8,
+    7,
+    3,
+    3
+  ],
+  "wordFrequencies": [
+    [
+      "kadź",
+      3
+    ],
+    [
+      "senna",
+      1
+    ],
+    [
+      "ballada",
+      1
+    ],
+    [
+      "temat",
+      1
+    ],
+    [
+      "kobiety",
+      1
+    ],
+    [
+      "wiedzą",
+      1
+    ],
+    [
+      "wierszach",
+      1
+    ],
+    [
+      "zrywałam",
+      1
+    ],
+    [
+      "owoce",
+      1
+    ],
+    [
+      "były",
+      1
+    ],
+    [
+      "piersi",
+      1
+    ],
+    [
+      "deptałam",
+      1
+    ],
+    [
+      "ziemi",
+      1
+    ],
+    [
+      "pieniła",
+      1
+    ],
+    [
+      "wokół",
+      1
+    ],
+    [
+      "gołych",
+      1
+    ],
+    [
+      "łydek",
+      1
+    ],
+    [
+      "madera",
+      1
+    ],
+    [
+      "czułam",
+      1
+    ],
+    [
+      "stopą",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 1,
+    "period": 0,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 3,
+    "colon": 0,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 4,
+  "negationWords": [
+    "nie"
+  ],
+  "pronounDistribution": {
+    "ja": 3,
+    "ty": 1,
+    "on_ona": 0,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 1,
+    "smierc": 0,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 1,
+    "sacrum": 0,
+    "noc": 1,
+    "bol": 0
+  },
+  "anaphors": [
+    [
+      "lecz",
+      2
+    ]
+  ],
+  "firstWord": "senna",
+  "lastWord": "chciał",
+  "avgWordLength": 4.67,
+  "wordLengthDistribution": {
+    "4-5": 38,
+    "6-7": 21,
+    "1-3": 31,
+    "8-9": 7,
+    "10+": 2
+  },
+  "bigrams": [
+    [
+      "senna ballada",
+      1
+    ],
+    [
+      "kobiety wiedzą",
+      1
+    ],
+    [
+      "wierszach zrywałam",
+      1
+    ],
+    [
+      "były piersi",
+      1
+    ]
+  ],
+  "poemWords": [
+    "senna",
+    "ballada",
+    "temat",
+    "kobiety",
+    "wiedzą",
+    "wierszach",
+    "zrywałam",
+    "owoce",
+    "były",
+    "piersi",
+    "deptałam",
+    "ziemi",
+    "kadź",
+    "pieniła",
+    "wokół",
+    "gołych",
+    "łydek",
+    "madera",
+    "czułam",
+    "stopą",
+    "kadzi",
+    "dna",
+    "słowo",
+    "piersi”",
+    "ciągle",
+    "śniło",
+    "sen",
+    "wyniósł",
+    "ziemię",
+    "wzleciałam",
+    "wcale",
+    "widziałam",
+    "owoców",
+    "czyli",
+    "zebrałeś",
+    "uszach",
+    "zdarcia",
+    "uszy",
+    "śniły",
+    "słyszałam",
+    "wolne",
+    "głosy",
+    "zaraz",
+    "włosami",
+    "gołej",
+    "skóry",
+    "rosły",
+    "jakbyś",
+    "cumy",
+    "długość",
+    "wysokość",
+    "tonu",
+    "wpierw",
+    "wypróbować",
+    "chciał"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 27,
+        "VERB": 16,
+        "ADJ": 3,
+        "ADV": 8,
+        "PRON": 10,
+        "ADP": 13,
+        "CCONJ": 5,
+        "SCONJ": 2,
+        "INTJ": 0,
+        "PART": 5,
+        "DET": 5,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.273,
+        "VERB": 0.162,
+        "ADJ": 0.03,
+        "ADV": 0.081,
+        "PRON": 0.101,
+        "ADP": 0.131,
+        "CCONJ": 0.051,
+        "SCONJ": 0.02,
+        "INTJ": 0,
+        "PART": 0.051,
+        "DET": 0.051,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 4,
+        "abstract": 1,
+        "ratio": 0.8
+      },
+      "verbTenses": {
+        "present": 2,
+        "past": 16,
+        "infinitive": 1
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 3,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 0,
+        "opisowe": 3
+      },
+      "adverbs": {
+        "temporalne": [
+          "ciągle",
+          "potem",
+          "zaraz"
+        ],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "ciągle",
+            "count": 1
+          },
+          {
+            "word": "potem",
+            "count": 1
+          },
+          {
+            "word": "gdy",
+            "count": 1
+          },
+          {
+            "word": "wcale",
+            "count": 1
+          },
+          {
+            "word": "sam",
+            "count": 1
+          },
+          {
+            "word": "tak",
+            "count": 1
+          },
+          {
+            "word": "zaraz",
+            "count": 1
+          },
+          {
+            "word": "wpierw",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 3,
+        "ty": 1,
+        "on_ona": 0,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 4,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 4,
+        "percentSentences": 0.57
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 196,
+        "consonants": 265,
+        "ratio": 0.74
+      },
+      "consonantClusters": {
+        "count": 4,
+        "top": [
+          {
+            "cluster": "rsz",
+            "count": 1
+          },
+          {
+            "cluster": "prz",
+            "count": 1
+          },
+          {
+            "cluster": "wzl",
+            "count": 1
+          },
+          {
+            "cluster": "chc",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 9,
+        "syczace": 58,
+        "nosowe": 45,
+        "plynne": 50
+      },
+      "rhymes": {
+        "exact": 1,
+        "approximate": 1,
+        "internal": 2,
+        "assonance": 0,
+        "alliteration": 0
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 14.1,
+        "median": 10,
+        "min": 6,
+        "max": 37,
+        "distribution": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          2,
+          1,
+          0,
+          0,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 6,
+        "meanSyllables": 11.9,
+        "distribution": [
+          0,
+          0,
+          0,
+          3,
+          4,
+          1,
+          1,
+          3,
+          3,
+          1,
+          0,
+          0,
+          1
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 7,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 0,
+        "noSubject": 2,
+        "noPredicate": 0,
+        "percent": 0.29
+      },
+      "enjambement": {
+        "count": 4,
+        "percent": 0.25,
+        "positions": [
+          3,
+          4,
+          9,
+          12
+        ]
+      },
+      "wordOrder": {
+        "svo": 3,
+        "inversions": 1,
+        "other": 3,
+        "deviationPercent": 0.57
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 2,
+        "śmierć": 0,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 1,
+        "sacrum": 0,
+        "noc": 2,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 202,
+      "estimatedSeconds": 67,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 27,
+      "VERB": 16,
+      "ADJ": 3,
+      "ADV": 8,
+      "PRON": 10,
+      "ADP": 13,
+      "CCONJ": 5,
+      "SCONJ": 2,
+      "INTJ": 0,
+      "PART": 5,
+      "DET": 5,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.273,
+      "VERB": 0.162,
+      "ADJ": 0.03,
+      "ADV": 0.081,
+      "PRON": 0.101,
+      "ADP": 0.131,
+      "CCONJ": 0.051,
+      "SCONJ": 0.02,
+      "INTJ": 0,
+      "PART": 0.051,
+      "DET": 0.051,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 4,
+      "abstract": 1,
+      "ratio": 0.8
+    },
+    "verbTenses": {
+      "present": 2,
+      "past": 16,
+      "infinitive": 1
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 3,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 0,
+      "opisowe": 3
+    },
+    "adverbs": {
+      "temporalne": [
+        "ciągle",
+        "potem",
+        "zaraz"
+      ],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "ciągle",
+          "count": 1
+        },
+        {
+          "word": "potem",
+          "count": 1
+        },
+        {
+          "word": "gdy",
+          "count": 1
+        },
+        {
+          "word": "wcale",
+          "count": 1
+        },
+        {
+          "word": "sam",
+          "count": 1
+        },
+        {
+          "word": "tak",
+          "count": 1
+        },
+        {
+          "word": "zaraz",
+          "count": 1
+        },
+        {
+          "word": "wpierw",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 3,
+      "ty": 1,
+      "on_ona": 0,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 4,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 4,
+      "percentSentences": 0.57
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 14.1,
+      "median": 10,
+      "min": 6,
+      "max": 37,
+      "distribution": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        2,
+        1,
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 6,
+      "meanSyllables": 11.9,
+      "distribution": [
+        0,
+        0,
+        0,
+        3,
+        4,
+        1,
+        1,
+        3,
+        3,
+        1,
+        0,
+        0,
+        1
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 7,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 0,
+      "noSubject": 2,
+      "noPredicate": 0,
+      "percent": 0.29
+    },
+    "enjambement": {
+      "count": 4,
+      "percent": 0.25,
+      "positions": [
+        3,
+        4,
+        9,
+        12
+      ]
+    },
+    "wordOrder": {
+      "svo": 3,
+      "inversions": 1,
+      "other": 3,
+      "deviationPercent": 0.57
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 196,
+      "consonants": 265,
+      "ratio": 0.74
+    },
+    "consonantClusters": {
+      "count": 4,
+      "top": [
+        {
+          "cluster": "rsz",
+          "count": 1
+        },
+        {
+          "cluster": "prz",
+          "count": 1
+        },
+        {
+          "cluster": "wzl",
+          "count": 1
+        },
+        {
+          "cluster": "chc",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 9,
+      "syczace": 58,
+      "nosowe": 45,
+      "plynne": 50
+    },
+    "rhymes": {
+      "exact": 1,
+      "approximate": 1,
+      "internal": 2,
+      "assonance": 0,
+      "alliteration": 0
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        17
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 202,
+      "estimatedSeconds": 67,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "polregularny",
+      "regularityScore": 0.65
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Biblia",
+          "reference": "scena zrywania owoców z Edenem",
+          "evidence": "Zrywałam Ci owoce które były piersi"
+        },
+        {
+          "source": "mitologia",
+          "reference": "wznoszenie się nad ziemię jako motyw mityczny",
+          "evidence": "Gdy nad Ziemię wzleciałam"
+        },
+        {
+          "source": "Leśmian",
+          "reference": "synestezja i metamorfozy",
+          "evidence": "Włosami z gołej skóry rosły jakbyś cumy"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.7,
+        "baudelaire": 0.3,
+        "bursa": 0.1,
+        "stachura": 0.2,
+        "grochowiak": 0.4,
+        "bialoszewski": 0.2,
+        "rozewicz": 0.1
+      }
+    },
+    "space": {
+      "type": "otwarta",
+      "evidence": "wzlot nad Ziemię, kadź jako przestrzeń nieograniczona",
+      "openClosedRatio": 0.8
+    },
+    "timeOfDay": {
+      "period": "noc",
+      "season": "nieokreslona",
+      "evidence": "sen ów który potem wyniósł mnie nad kadź"
+    },
+    "motion": {
+      "movement": 8,
+      "stillness": 3,
+      "dynamism": 0.8,
+      "evidence": "zrywanie, deptanie, wzlatywanie, rośnięcie włosów"
+    },
+    "imageryDensity": {
+      "metaphors": 6,
+      "comparisons": 2,
+      "personifications": 3,
+      "hyperboles": 2,
+      "per100words": 18.5
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.6,
+      "creationLevel": 0.8,
+      "ironicDistance": 0.3,
+      "autobiographicSignals": [
+        "forma żeńska",
+        "doświadczenie intymne",
+        "sen jako pamięć"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "tęsknota",
+      "secondary": "melancholia",
+      "intensity": 0.7
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "Zrywałam Ci owoce, deptałam, wzleciałam - wyraźne 'ja' liryczne w formie żeńskiej"
+    },
+    "addressee": {
+      "type": "ty",
+      "evidence": "Zrywałam Ci owoce, Zebrałeś sobie sam - bezpośrednie zwracanie się do 'Ciebie'"
+    },
+    "metaphors": [
+      {
+        "source": "owoce",
+        "target": "piersi",
+        "example": "owoce które były piersi"
+      },
+      {
+        "source": "Ziemia",
+        "target": "kadź",
+        "example": "deptałam na Ziemi która była kadź"
+      },
+      {
+        "source": "włosy",
+        "target": "cumy",
+        "example": "Włosami z gołej skóry rosły jakbyś cumy"
+      }
+    ],
+    "temperature": {
+      "value": 0.6,
+      "label": "ciepłe - zmysłowość przemieszana z nostalgią"
+    },
+    "senses": {
+      "wzrok": 3,
+      "sluch": 4,
+      "dotyk": 5,
+      "smak": 2,
+      "zapach": 1
+    },
+    "autodestruction": {
+      "level": 0.3,
+      "signals": [
+        "deptanie ziemi",
+        "niemożność odczuwania matery pod stopą",
+        "sen jako ucieczka od rzeczywistości"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 1.078,
+    "dfaAlpha": 2.521,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -1.108713642326868
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -0.0037299123387238807
+      },
+      {
+        "logWin": 1.6094379124341003,
+        "logFluc": 0.14569159256202402
+      }
+    ],
+    "seriesLength": 17,
+    "series": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      4,
+      4,
+      8,
+      9,
+      7,
+      3,
+      3,
+      10,
+      8,
+      7,
+      3,
+      3
+    ]
+  }
+}

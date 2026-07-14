@@ -1,0 +1,1296 @@
+{
+  "id": "piosenka-z-najwyzszej-wiezy-2",
+  "title": "Piosenka z najwyższej wieży",
+  "wordCount": 271,
+  "lineCount": 38,
+  "uniqueWords": 187,
+  "vocabularyRichness": 0.69,
+  "avgWordsPerLine": 7.13,
+  "wordsPerLineDistribution": [
+    8,
+    9,
+    8,
+    6,
+    5,
+    7,
+    9,
+    7,
+    8,
+    8,
+    3,
+    5,
+    6,
+    7,
+    9,
+    8,
+    8,
+    8,
+    9,
+    8,
+    7,
+    9,
+    6,
+    8,
+    8,
+    6,
+    8,
+    5,
+    5,
+    10,
+    9,
+    6,
+    9,
+    8,
+    10,
+    9,
+    1,
+    1
+  ],
+  "wordFrequencies": [
+    [
+      "nocy",
+      4
+    ],
+    [
+      "usta",
+      2
+    ],
+    [
+      "najmniejszą",
+      2
+    ],
+    [
+      "oczy",
+      2
+    ],
+    [
+      "śmierci",
+      2
+    ],
+    [
+      "serce",
+      2
+    ],
+    [
+      "dziś",
+      2
+    ],
+    [
+      "krew",
+      2
+    ],
+    [
+      "trzy",
+      2
+    ],
+    [
+      "ziemi",
+      2
+    ],
+    [
+      "ziemię",
+      2
+    ],
+    [
+      "róża",
+      2
+    ],
+    [
+      "wieża",
+      1
+    ],
+    [
+      "abym",
+      1
+    ],
+    [
+      "wyniośle",
+      1
+    ],
+    [
+      "mógł",
+      1
+    ],
+    [
+      "rość",
+      1
+    ],
+    [
+      "kiedyś",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 32,
+    "period": 6,
+    "question": 0,
+    "exclamation": 1,
+    "ellipsis": 0,
+    "dash": 12,
+    "colon": 4,
+    "semicolon": 6
+  },
+  "questionCount": 0,
+  "exclamationCount": 1,
+  "negationCount": 8,
+  "negationWords": [
+    "nie"
+  ],
+  "pronounDistribution": {
+    "ja": 16,
+    "ty": 0,
+    "on_ona": 7,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 11,
+    "smierc": 3,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 1,
+    "sacrum": 1,
+    "noc": 2,
+    "bol": 0
+  },
+  "anaphors": [
+    [
+      "lecz",
+      2
+    ]
+  ],
+  "firstWord": "ja",
+  "lastWord": "muszę",
+  "avgWordLength": 4.86,
+  "wordLengthDistribution": {
+    "1-3": 83,
+    "6-7": 58,
+    "4-5": 92,
+    "8-9": 27,
+    "10+": 11
+  },
+  "bigrams": [
+    [
+      "jestem wieża",
+      1
+    ],
+    [
+      "wieża abym",
+      1
+    ],
+    [
+      "abym wyniośle",
+      1
+    ],
+    [
+      "wyniośle wciąż",
+      1
+    ],
+    [
+      "mógł rość",
+      1
+    ],
+    [
+      "kiedyś usta",
+      1
+    ]
+  ],
+  "poemWords": [
+    "wieża",
+    "abym",
+    "wyniośle",
+    "siebie",
+    "mógł",
+    "rość",
+    "kiedyś",
+    "usta",
+    "wyrosły",
+    "nieba",
+    "wymusić",
+    "tchnieniem",
+    "bliska",
+    "najmniejszą",
+    "iskrę",
+    "gwiazdy",
+    "wnętrze",
+    "nocy",
+    "wypełniającej",
+    "oczy",
+    "kolorami",
+    "palety",
+    "wymyśliła",
+    "podobieństwo",
+    "znanej",
+    "tęczy",
+    "wypluło",
+    "śmierci",
+    "poufnej",
+    "serce",
+    "mogłoby",
+    "szeptem",
+    "siostrze",
+    "słyszalnym",
+    "gwieździe",
+    "dyszeć",
+    "życie",
+    "żyło",
+    "snem",
+    "niepodległym",
+    "dzień",
+    "nareszcie",
+    "skończony",
+    "opłotkach",
+    "widnokręgu",
+    "widnokręgiem",
+    "odsłaniał",
+    "śmierć",
+    "wiedziałem",
+    "myślałem",
+    "umrę",
+    "dłoń",
+    "szukała",
+    "dziś",
+    "noc",
+    "umierania",
+    "kształtem",
+    "jawnym",
+    "wyszedł",
+    "krew",
+    "wyrastam",
+    "żywi",
+    "widzeń",
+    "dojrzały",
+    "powieką",
+    "uczone",
+    "czytanie",
+    "głosów",
+    "śmieją",
+    "pośladki",
+    "trzy",
+    "księżyce",
+    "ziemi",
+    "czasem",
+    "drenując",
+    "niebo",
+    "meteor",
+    "plemnik",
+    "zleci",
+    "ziemię",
+    "którą",
+    "stopy",
+    "ledwie",
+    "węszą",
+    "zawsze",
+    "kobieta",
+    "głodne",
+    "róża",
+    "krocza",
+    "rozchyla",
+    "płatki",
+    "rozległa",
+    "polska",
+    "ziemia",
+    "migoce",
+    "oczach",
+    "gwiazdką",
+    "zgasłą",
+    "mierzę",
+    "lata",
+    "światła",
+    "tren",
+    "oczu",
+    "leci",
+    "wbrew",
+    "widnieje",
+    "pamięci",
+    "mimo",
+    "tamtej",
+    "uśmiechnięte",
+    "wiszą",
+    "drwiąc",
+    "tęsknoty",
+    "której",
+    "śnią",
+    "ogromne",
+    "jądra",
+    "wycieka",
+    "ust",
+    "rzeka",
+    "mowy",
+    "język",
+    "spławna",
+    "nazwać",
+    "śmiał",
+    "inną",
+    "nowa",
+    "stwarzać",
+    "zacząć",
+    "muszę",
+    "19651968"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 73,
+        "VERB": 40,
+        "ADJ": 21,
+        "ADV": 10,
+        "PRON": 31,
+        "ADP": 29,
+        "CCONJ": 7,
+        "SCONJ": 9,
+        "INTJ": 0,
+        "PART": 27,
+        "DET": 13,
+        "NUM": 2
+      },
+      "posPercent": {
+        "NOUN": 0.264,
+        "VERB": 0.145,
+        "ADJ": 0.076,
+        "ADV": 0.036,
+        "PRON": 0.112,
+        "ADP": 0.105,
+        "CCONJ": 0.025,
+        "SCONJ": 0.033,
+        "INTJ": 0,
+        "PART": 0.098,
+        "DET": 0.047,
+        "NUM": 0.007
+      },
+      "nounConcreteAbstract": {
+        "concrete": 10,
+        "abstract": 7,
+        "ratio": 0.59
+      },
+      "verbTenses": {
+        "present": 20,
+        "past": 16,
+        "infinitive": 5,
+        "future": 3
+      },
+      "verbSemantics": {
+        "ruch": 1,
+        "percepcja": 0,
+        "stan": 10,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 0,
+        "opisowe": 21
+      },
+      "adverbs": {
+        "temporalne": [
+          "kiedyś",
+          "teraz",
+          "wciąż",
+          "zawsze"
+        ],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "gdy",
+            "count": 2
+          },
+          {
+            "word": "dziś",
+            "count": 2
+          },
+          {
+            "word": "wciąż",
+            "count": 1
+          },
+          {
+            "word": "kiedyś",
+            "count": 1
+          },
+          {
+            "word": "teraz",
+            "count": 1
+          },
+          {
+            "word": "ledwie",
+            "count": 1
+          },
+          {
+            "word": "tam",
+            "count": 1
+          },
+          {
+            "word": "zawsze",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 12,
+        "ty": 0,
+        "on_ona": 8,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 8,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 8,
+        "percentSentences": 0.89
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 561,
+        "consonants": 771,
+        "ratio": 0.73
+      },
+      "consonantClusters": {
+        "count": 34,
+        "top": [
+          {
+            "cluster": "szcz",
+            "count": 4
+          },
+          {
+            "cluster": "trz",
+            "count": 3
+          },
+          {
+            "cluster": "jmn",
+            "count": 2
+          },
+          {
+            "cluster": "jsz",
+            "count": 2
+          },
+          {
+            "cluster": "szc",
+            "count": 2
+          },
+          {
+            "cluster": "ższ",
+            "count": 1
+          },
+          {
+            "cluster": "tchn",
+            "count": 1
+          },
+          {
+            "cluster": "skr",
+            "count": 1
+          },
+          {
+            "cluster": "ństw",
+            "count": 1
+          },
+          {
+            "cluster": "strz",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 68,
+        "syczace": 126,
+        "nosowe": 179,
+        "plynne": 98
+      },
+      "rhymes": {
+        "exact": 2,
+        "approximate": 2,
+        "internal": 1,
+        "assonance": 0,
+        "alliteration": 0
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 30.7,
+        "median": 14,
+        "min": 2,
+        "max": 113,
+        "distribution": [
+          0,
+          0,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          2,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 7.4,
+        "meanSyllables": 14.9,
+        "distribution": [
+          0,
+          2,
+          0,
+          1,
+          1,
+          2,
+          5,
+          4,
+          11,
+          8,
+          5
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 8,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 1
+      },
+      "ellipsis": {
+        "incomplete": 2,
+        "noSubject": 0,
+        "noPredicate": 0,
+        "percent": 0.22
+      },
+      "enjambement": {
+        "count": 17,
+        "percent": 0.45,
+        "positions": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          8,
+          11,
+          13,
+          18,
+          21,
+          24,
+          26,
+          28,
+          30,
+          35,
+          36,
+          37
+        ]
+      },
+      "wordOrder": {
+        "svo": 2,
+        "inversions": 5,
+        "other": 2,
+        "deviationPercent": 0.78
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 11,
+        "śmierć": 4,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 1,
+        "sacrum": 1,
+        "noc": 4,
+        "ból": 0
+      },
+      "oppositionsFound": [
+        "życie/śmierć",
+        "dzień/noc"
+      ]
+    },
+    "tempo": {
+      "syllables": 583,
+      "estimatedSeconds": 194,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 73,
+      "VERB": 40,
+      "ADJ": 21,
+      "ADV": 10,
+      "PRON": 31,
+      "ADP": 29,
+      "CCONJ": 7,
+      "SCONJ": 9,
+      "INTJ": 0,
+      "PART": 27,
+      "DET": 13,
+      "NUM": 2
+    },
+    "posPercent": {
+      "NOUN": 0.264,
+      "VERB": 0.145,
+      "ADJ": 0.076,
+      "ADV": 0.036,
+      "PRON": 0.112,
+      "ADP": 0.105,
+      "CCONJ": 0.025,
+      "SCONJ": 0.033,
+      "INTJ": 0,
+      "PART": 0.098,
+      "DET": 0.047,
+      "NUM": 0.007
+    },
+    "nounConcreteAbstract": {
+      "concrete": 10,
+      "abstract": 7,
+      "ratio": 0.59
+    },
+    "verbTenses": {
+      "present": 20,
+      "past": 16,
+      "infinitive": 5,
+      "future": 3
+    },
+    "verbSemantics": {
+      "ruch": 1,
+      "percepcja": 0,
+      "stan": 10,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 0,
+      "opisowe": 21
+    },
+    "adverbs": {
+      "temporalne": [
+        "kiedyś",
+        "teraz",
+        "wciąż",
+        "zawsze"
+      ],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "gdy",
+          "count": 2
+        },
+        {
+          "word": "dziś",
+          "count": 2
+        },
+        {
+          "word": "wciąż",
+          "count": 1
+        },
+        {
+          "word": "kiedyś",
+          "count": 1
+        },
+        {
+          "word": "teraz",
+          "count": 1
+        },
+        {
+          "word": "ledwie",
+          "count": 1
+        },
+        {
+          "word": "tam",
+          "count": 1
+        },
+        {
+          "word": "zawsze",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 12,
+      "ty": 0,
+      "on_ona": 8,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 8,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 8,
+      "percentSentences": 0.89
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 30.7,
+      "median": 14,
+      "min": 2,
+      "max": 113,
+      "distribution": [
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        2,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 7.4,
+      "meanSyllables": 14.9,
+      "distribution": [
+        0,
+        2,
+        0,
+        1,
+        1,
+        2,
+        5,
+        4,
+        11,
+        8,
+        5
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 8,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 1
+    },
+    "ellipsis": {
+      "incomplete": 2,
+      "noSubject": 0,
+      "noPredicate": 0,
+      "percent": 0.22
+    },
+    "enjambement": {
+      "count": 17,
+      "percent": 0.45,
+      "positions": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        8,
+        11,
+        13,
+        18,
+        21,
+        24,
+        26,
+        28,
+        30,
+        35,
+        36,
+        37
+      ]
+    },
+    "wordOrder": {
+      "svo": 2,
+      "inversions": 5,
+      "other": 2,
+      "deviationPercent": 0.78
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 561,
+      "consonants": 771,
+      "ratio": 0.73
+    },
+    "consonantClusters": {
+      "count": 34,
+      "top": [
+        {
+          "cluster": "szcz",
+          "count": 4
+        },
+        {
+          "cluster": "trz",
+          "count": 3
+        },
+        {
+          "cluster": "jmn",
+          "count": 2
+        },
+        {
+          "cluster": "jsz",
+          "count": 2
+        },
+        {
+          "cluster": "szc",
+          "count": 2
+        },
+        {
+          "cluster": "ższ",
+          "count": 1
+        },
+        {
+          "cluster": "tchn",
+          "count": 1
+        },
+        {
+          "cluster": "skr",
+          "count": 1
+        },
+        {
+          "cluster": "ństw",
+          "count": 1
+        },
+        {
+          "cluster": "strz",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 68,
+      "syczace": 126,
+      "nosowe": 179,
+      "plynne": 98
+    },
+    "rhymes": {
+      "exact": 2,
+      "approximate": 2,
+      "internal": 1,
+      "assonance": 0,
+      "alliteration": 0
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        39
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 583,
+      "estimatedSeconds": 194,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "polregularny",
+      "regularityScore": 0.7
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Rimbaud",
+          "reference": "motyw wieży i wzrostu poetyckiego",
+          "evidence": "Ja jestem wieża, abym wyniośle wciąż nad siebie / mógł rość"
+        },
+        {
+          "source": "Biblia",
+          "reference": "stwarzanie świata",
+          "evidence": "inną Ziemię od nowa stwarzać zacząć / muszę"
+        },
+        {
+          "source": "mitologia",
+          "reference": "motyw meteoru/plemnika",
+          "evidence": "drenując niebo jak meteor, plemnik / zleci na Ziemię"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.9,
+        "baudelaire": 0.6,
+        "bursa": 0.3,
+        "stachura": 0.4,
+        "grochowiak": 0.3,
+        "bialoszewski": 0.2,
+        "rozewicz": 0.1
+      }
+    },
+    "space": {
+      "type": "otwarta",
+      "evidence": "motyw wieży, nieba, gwiazd, widnokręgu - przestrzeń kosmiczna, nieograniczona",
+      "openClosedRatio": 0.9
+    },
+    "timeOfDay": {
+      "period": "noc",
+      "season": "nieokreslona",
+      "evidence": "gwiazdy we wnętrze nocy / ta noc była mojego umierania / pod powieką nocy"
+    },
+    "motion": {
+      "movement": 8,
+      "stillness": 3,
+      "dynamism": 0.8,
+      "evidence": "rość, wyrastam, zleci, migoce, wycieka - intensywny ruch wertykalny i transformacyjny"
+    },
+    "imageryDensity": {
+      "metaphors": 12,
+      "comparisons": 6,
+      "personifications": 8,
+      "hyperboles": 4,
+      "per100words": 18.5
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.8,
+      "creationLevel": 0.9,
+      "ironicDistance": 0.3,
+      "autobiographicSignals": [
+        "ja jestem",
+        "moje życie",
+        "moje jądra",
+        "wycieka mi z ust"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "euforia",
+      "secondary": "tęsknota",
+      "intensity": 0.8
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "\"Ja jestem wieża\", \"moje życie\", \"wyrastam ze śmierci\""
+    },
+    "addressee": {
+      "type": "siebie",
+      "evidence": "Monolog wewnętrzny podmiotu, brak bezpośrednich zwrotów do konkretnego adresata"
+    },
+    "metaphors": [
+      {
+        "source": "wieża",
+        "target": "podmiot liryczny",
+        "example": "Ja jestem wieża, abym wyniośle wciąż nad siebie mógł rość"
+      },
+      {
+        "source": "rzeka",
+        "target": "mowa/język",
+        "example": "wycieka mi z ust rzeka dla mowy, język, spławna"
+      },
+      {
+        "source": "róża",
+        "target": "Polska/kobieta",
+        "example": "rozchyla płatki rozległa róża Polska"
+      }
+    ],
+    "temperature": {
+      "value": 0.7,
+      "label": "intensywne pożądanie przekształcone w twórczą energię"
+    },
+    "senses": {
+      "wzrok": 5,
+      "sluch": 3,
+      "dotyk": 4,
+      "smak": 2,
+      "zapach": 3
+    },
+    "autodestruction": {
+      "level": 0.4,
+      "signals": [
+        "ta noc była mojego umierania kształtem jawnym",
+        "wyrastam ze śmierci"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 0.828,
+    "dfaAlpha": 0.855,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -0.8390500753777667
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -0.47460404711769694
+      },
+      {
+        "logWin": 1.6094379124341003,
+        "logFluc": -0.2175657723061452
+      },
+      {
+        "logWin": 1.791759469228055,
+        "logFluc": -0.05329707278271146
+      },
+      {
+        "logWin": 1.9459101490553132,
+        "logFluc": -0.10166547317903186
+      },
+      {
+        "logWin": 2.0794415416798357,
+        "logFluc": 0.2522862475484678
+      },
+      {
+        "logWin": 2.302585092994046,
+        "logFluc": 0.2349507198375024
+      },
+      {
+        "logWin": 2.4849066497880004,
+        "logFluc": 0.37767147908087584
+      }
+    ],
+    "seriesLength": 38,
+    "series": [
+      8,
+      9,
+      8,
+      6,
+      5,
+      7,
+      9,
+      7,
+      8,
+      8,
+      3,
+      5,
+      6,
+      7,
+      9,
+      8,
+      8,
+      8,
+      9,
+      8,
+      7,
+      9,
+      6,
+      8,
+      8,
+      6,
+      8,
+      5,
+      5,
+      10,
+      9,
+      6,
+      9,
+      8,
+      10,
+      9,
+      1,
+      1
+    ]
+  }
+}

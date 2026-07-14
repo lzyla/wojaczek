@@ -1,0 +1,537 @@
+{
+  "id": "umiem-byc-cisza",
+  "title": "Umiem być ciszą",
+  "wordCount": 5,
+  "lineCount": 2,
+  "uniqueWords": 5,
+  "vocabularyRichness": 1,
+  "avgWordsPerLine": 2.5,
+  "wordsPerLineDistribution": [
+    4,
+    1
+  ],
+  "wordFrequencies": [
+    [
+      "miłość",
+      1
+    ],
+    [
+      "człowiek",
+      1
+    ],
+    [
+      "niedokończony",
+      1
+    ],
+    [
+      "eluard",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 0,
+    "period": 0,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 0,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 0,
+  "negationWords": [],
+  "pronounDistribution": {
+    "ja": 0,
+    "ty": 0,
+    "on_ona": 0,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 0,
+    "smierc": 0,
+    "erotyka": 1,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [],
+  "firstWord": "miłość",
+  "lastWord": "eluard",
+  "avgWordLength": 7,
+  "wordLengthDistribution": {
+    "6-7": 2,
+    "1-3": 1,
+    "8-9": 1,
+    "10+": 1
+  },
+  "bigrams": [
+    [
+      "człowiek niedokończony",
+      1
+    ],
+    [
+      "niedokończony eluard",
+      1
+    ]
+  ],
+  "poemWords": [
+    "miłość",
+    "człowiek",
+    "niedokończony",
+    "eluard"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 2,
+        "VERB": 0,
+        "ADJ": 1,
+        "ADV": 0,
+        "PRON": 0,
+        "ADP": 0,
+        "CCONJ": 0,
+        "SCONJ": 0,
+        "INTJ": 0,
+        "PART": 0,
+        "DET": 0,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.4,
+        "VERB": 0,
+        "ADJ": 0.2,
+        "ADV": 0,
+        "PRON": 0,
+        "ADP": 0,
+        "CCONJ": 0,
+        "SCONJ": 0,
+        "INTJ": 0,
+        "PART": 0,
+        "DET": 0,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 0,
+        "abstract": 1,
+        "ratio": 0
+      },
+      "verbTenses": {
+        "present": 1
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 0,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 0,
+        "opisowe": 1
+      },
+      "adverbs": {
+        "temporalne": [],
+        "modalne": [],
+        "sposobu": [],
+        "top": []
+      },
+      "pronouns": {
+        "ja": 0,
+        "ty": 0,
+        "on_ona": 0,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 0,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 0,
+        "percentSentences": 0
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 15,
+        "consonants": 20,
+        "ratio": 0.75
+      },
+      "consonantClusters": {
+        "count": 2,
+        "top": [
+          {
+            "cluster": "czł",
+            "count": 1
+          },
+          {
+            "cluster": "ńcz",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 2,
+        "syczace": 2,
+        "nosowe": 4,
+        "plynne": 4
+      },
+      "rhymes": {
+        "exact": 0,
+        "approximate": 0,
+        "internal": 0,
+        "assonance": 0,
+        "alliteration": 0
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 5,
+        "median": 5,
+        "min": 5,
+        "max": 5,
+        "distribution": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 2.5,
+        "meanSyllables": 7.5,
+        "distribution": [
+          0,
+          1,
+          0,
+          0,
+          1
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 1,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 0,
+        "noSubject": 0,
+        "noPredicate": 0,
+        "percent": 0
+      },
+      "enjambement": {
+        "count": 0,
+        "percent": 0,
+        "positions": []
+      },
+      "wordOrder": {
+        "svo": 0,
+        "inversions": 0,
+        "other": 1,
+        "deviationPercent": 1
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 0,
+        "śmierć": 0,
+        "erotyka": 1,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 15,
+      "estimatedSeconds": 5,
+      "tempoCategory": "szybkie"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 2,
+      "VERB": 0,
+      "ADJ": 1,
+      "ADV": 0,
+      "PRON": 0,
+      "ADP": 0,
+      "CCONJ": 0,
+      "SCONJ": 0,
+      "INTJ": 0,
+      "PART": 0,
+      "DET": 0,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.4,
+      "VERB": 0,
+      "ADJ": 0.2,
+      "ADV": 0,
+      "PRON": 0,
+      "ADP": 0,
+      "CCONJ": 0,
+      "SCONJ": 0,
+      "INTJ": 0,
+      "PART": 0,
+      "DET": 0,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 0,
+      "abstract": 1,
+      "ratio": 0
+    },
+    "verbTenses": {
+      "present": 1
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 0,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 0,
+      "opisowe": 1
+    },
+    "adverbs": {
+      "temporalne": [],
+      "modalne": [],
+      "sposobu": [],
+      "top": []
+    },
+    "pronouns": {
+      "ja": 0,
+      "ty": 0,
+      "on_ona": 0,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 0,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 0,
+      "percentSentences": 0
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 5,
+      "median": 5,
+      "min": 5,
+      "max": 5,
+      "distribution": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 2.5,
+      "meanSyllables": 7.5,
+      "distribution": [
+        0,
+        1,
+        0,
+        0,
+        1
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 1,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 0,
+      "noSubject": 0,
+      "noPredicate": 0,
+      "percent": 0
+    },
+    "enjambement": {
+      "count": 0,
+      "percent": 0,
+      "positions": []
+    },
+    "wordOrder": {
+      "svo": 0,
+      "inversions": 0,
+      "other": 1,
+      "deviationPercent": 1
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 15,
+      "consonants": 20,
+      "ratio": 0.75
+    },
+    "consonantClusters": {
+      "count": 2,
+      "top": [
+        {
+          "cluster": "czł",
+          "count": 1
+        },
+        {
+          "cluster": "ńcz",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 2,
+      "syczace": 2,
+      "nosowe": 4,
+      "plynne": 4
+    },
+    "rhymes": {
+      "exact": 0,
+      "approximate": 0,
+      "internal": 0,
+      "assonance": 0,
+      "alliteration": 0
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 2,
+      "linesPerStanza": [
+        1,
+        1
+      ],
+      "isRegular": true,
+      "isContinuous": false
+    },
+    "readingTempo": {
+      "syllables": 15,
+      "estimatedSeconds": 5,
+      "tempoCategory": "szybkie"
+    },
+    "regularity": {
+      "type": "wolny",
+      "regularityScore": 0.15
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "inne",
+          "reference": "Paul Éluard - poeta francuski surrealistyczny",
+          "evidence": "Bezpośrednie wskazanie autora 'Eluard' pod wierszem"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.2,
+        "baudelaire": 0.3,
+        "bursa": 0.1,
+        "stachura": 0.2,
+        "grochowiak": 0.1,
+        "bialoszewski": 0.1,
+        "rozewicz": 0.1
+      }
+    },
+    "space": {
+      "type": "nieokreslona",
+      "evidence": "Wiersz ma charakter filozoficznej definicji bez wskazania konkretnego miejsca",
+      "openClosedRatio": 0.5
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "nieokreslona",
+      "evidence": "Brak wskaźników temporalnych - wiersz ma charakter ponadczasowej refleksji"
+    },
+    "motion": {
+      "movement": 3,
+      "stillness": 7,
+      "dynamism": 0.3,
+      "evidence": "Statyczna definicja miłości, ale pojęcie 'niedokończony' sugeruje proces w toku"
+    },
+    "imageryDensity": {
+      "metaphors": 1,
+      "comparisons": 0,
+      "personifications": 0,
+      "hyperboles": 0,
+      "per100words": 20
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.3,
+      "creationLevel": 0.8,
+      "ironicDistance": 0.2,
+      "autobiographicSignals": []
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "melancholia",
+      "secondary": "tęsknota",
+      "intensity": 0.7
+    },
+    "subjectPresence": {
+      "type": "bezosobowe",
+      "evidence": "Brak wyraźnego podmiotu mówiącego, sformułowanie definicyjne 'Miłość to...'"
+    },
+    "addressee": {
+      "type": "czytelnik",
+      "evidence": "Aforystyczna forma skierowana do odbiorcy, brak bezpośredniego zwrotu"
+    },
+    "metaphors": [
+      {
+        "source": "człowiek niedokończony",
+        "target": "miłość",
+        "example": "Miłość to człowiek niedokończony"
+      }
+    ],
+    "temperature": {
+      "value": 0.3,
+      "label": "chłodne"
+    },
+    "senses": {
+      "wzrok": 0,
+      "sluch": 0,
+      "dotyk": 0,
+      "smak": 0,
+      "zapach": 0
+    },
+    "autodestruction": {
+      "level": 0.4,
+      "signals": [
+        "niedokończoność jako forma braku/deficytu",
+        "miłość jako stanu niepełności"
+      ]
+    }
+  }
+}

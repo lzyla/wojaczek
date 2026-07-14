@@ -1,0 +1,808 @@
+{
+  "id": "owoc",
+  "title": "Owoc",
+  "wordCount": 35,
+  "lineCount": 10,
+  "uniqueWords": 32,
+  "vocabularyRichness": 0.914,
+  "avgWordsPerLine": 3.5,
+  "wordsPerLineDistribution": [
+    5,
+    3,
+    3,
+    2,
+    3,
+    3,
+    7,
+    4,
+    1,
+    4
+  ],
+  "wordFrequencies": [
+    [
+      "obca",
+      1
+    ],
+    [
+      "metalowy",
+      1
+    ],
+    [
+      "roztopią",
+      1
+    ],
+    [
+      "alkohol",
+      1
+    ],
+    [
+      "suchy",
+      1
+    ],
+    [
+      "głód",
+      1
+    ],
+    [
+      "pijaka",
+      1
+    ],
+    [
+      "cichą",
+      1
+    ],
+    [
+      "szklankę",
+      1
+    ],
+    [
+      "osłaniał",
+      1
+    ],
+    [
+      "dłońmi",
+      1
+    ],
+    [
+      "mówił",
+      1
+    ],
+    [
+      "dobrze",
+      1
+    ],
+    [
+      "zadźwięczy",
+      1
+    ],
+    [
+      "dno",
+      1
+    ],
+    [
+      "gwiazda",
+      1
+    ],
+    [
+      "późny",
+      1
+    ],
+    [
+      "owoc",
+      1
+    ],
+    [
+      "krwi",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 0,
+    "period": 0,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 0,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 0,
+  "negationWords": [],
+  "pronounDistribution": {
+    "ja": 2,
+    "ty": 2,
+    "on_ona": 0,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 0,
+    "smierc": 0,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [
+    [
+      "kiedy",
+      2
+    ],
+    [
+      "wtedy",
+      2
+    ]
+  ],
+  "firstWord": "kiedy",
+  "lastWord": "krwi",
+  "avgWordLength": 4.94,
+  "wordLengthDistribution": {
+    "4-5": 14,
+    "1-3": 8,
+    "8-9": 5,
+    "6-7": 7,
+    "10+": 1
+  },
+  "bigrams": [
+    [
+      "będziesz obca",
+      1
+    ],
+    [
+      "będę metalowy",
+      1
+    ],
+    [
+      "metalowy wtedy",
+      1
+    ],
+    [
+      "alkohol suchy",
+      1
+    ],
+    [
+      "suchy głód",
+      1
+    ],
+    [
+      "głód pijaka",
+      1
+    ]
+  ],
+  "poemWords": [
+    "obca",
+    "metalowy",
+    "roztopią",
+    "alkohol",
+    "suchy",
+    "głód",
+    "pijaka",
+    "cichą",
+    "szklankę",
+    "osłaniał",
+    "dłońmi",
+    "mówił",
+    "dobrze",
+    "zadźwięczy",
+    "dno",
+    "gwiazda",
+    "późny",
+    "owoc",
+    "krwi"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 9,
+        "VERB": 3,
+        "ADJ": 6,
+        "ADV": 5,
+        "PRON": 3,
+        "ADP": 2,
+        "CCONJ": 1,
+        "SCONJ": 0,
+        "INTJ": 0,
+        "PART": 2,
+        "DET": 1,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.25,
+        "VERB": 0.083,
+        "ADJ": 0.167,
+        "ADV": 0.139,
+        "PRON": 0.083,
+        "ADP": 0.056,
+        "CCONJ": 0.028,
+        "SCONJ": 0,
+        "INTJ": 0,
+        "PART": 0.056,
+        "DET": 0.028,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 2,
+        "abstract": 0,
+        "ratio": 1
+      },
+      "verbTenses": {
+        "future": 3,
+        "present": 1,
+        "past": 2
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 3,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 1,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 2,
+        "oceniajace": 0,
+        "opisowe": 4
+      },
+      "adverbs": {
+        "temporalne": [],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "kiedy",
+            "count": 2
+          },
+          {
+            "word": "wtedy",
+            "count": 2
+          },
+          {
+            "word": "dobrze",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 2,
+        "ty": 1,
+        "on_ona": 0,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 0,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 0,
+        "percentSentences": 0
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 77,
+        "consonants": 100,
+        "ratio": 0.77
+      },
+      "consonantClusters": {
+        "count": 4,
+        "top": [
+          {
+            "cluster": "szkl",
+            "count": 1
+          },
+          {
+            "cluster": "brz",
+            "count": 1
+          },
+          {
+            "cluster": "dźw",
+            "count": 1
+          },
+          {
+            "cluster": "krw",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 5,
+        "syczace": 13,
+        "nosowe": 19,
+        "plynne": 12
+      },
+      "rhymes": {
+        "exact": 0,
+        "approximate": 0,
+        "internal": 0,
+        "assonance": 0,
+        "alliteration": 0
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 12,
+        "median": 6,
+        "min": 3,
+        "max": 27,
+        "distribution": [
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 3.3,
+        "meanSyllables": 7,
+        "distribution": [
+          0,
+          2,
+          1,
+          4,
+          2,
+          1,
+          0,
+          1
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 3,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 0,
+        "noSubject": 0,
+        "noPredicate": 0,
+        "percent": 0
+      },
+      "enjambement": {
+        "count": 7,
+        "percent": 0.7,
+        "positions": [
+          1,
+          4,
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      },
+      "wordOrder": {
+        "svo": 0,
+        "inversions": 1,
+        "other": 2,
+        "deviationPercent": 1
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 1,
+        "śmierć": 0,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 77,
+      "estimatedSeconds": 26,
+      "tempoCategory": "umiarkowane"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 9,
+      "VERB": 3,
+      "ADJ": 6,
+      "ADV": 5,
+      "PRON": 3,
+      "ADP": 2,
+      "CCONJ": 1,
+      "SCONJ": 0,
+      "INTJ": 0,
+      "PART": 2,
+      "DET": 1,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.25,
+      "VERB": 0.083,
+      "ADJ": 0.167,
+      "ADV": 0.139,
+      "PRON": 0.083,
+      "ADP": 0.056,
+      "CCONJ": 0.028,
+      "SCONJ": 0,
+      "INTJ": 0,
+      "PART": 0.056,
+      "DET": 0.028,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 2,
+      "abstract": 0,
+      "ratio": 1
+    },
+    "verbTenses": {
+      "future": 3,
+      "present": 1,
+      "past": 2
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 3,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 1,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 2,
+      "oceniajace": 0,
+      "opisowe": 4
+    },
+    "adverbs": {
+      "temporalne": [],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "kiedy",
+          "count": 2
+        },
+        {
+          "word": "wtedy",
+          "count": 2
+        },
+        {
+          "word": "dobrze",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 2,
+      "ty": 1,
+      "on_ona": 0,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 0,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 0,
+      "percentSentences": 0
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 12,
+      "median": 6,
+      "min": 3,
+      "max": 27,
+      "distribution": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 3.3,
+      "meanSyllables": 7,
+      "distribution": [
+        0,
+        2,
+        1,
+        4,
+        2,
+        1,
+        0,
+        1
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 3,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 0,
+      "noSubject": 0,
+      "noPredicate": 0,
+      "percent": 0
+    },
+    "enjambement": {
+      "count": 7,
+      "percent": 0.7,
+      "positions": [
+        1,
+        4,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    "wordOrder": {
+      "svo": 0,
+      "inversions": 1,
+      "other": 2,
+      "deviationPercent": 1
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 77,
+      "consonants": 100,
+      "ratio": 0.77
+    },
+    "consonantClusters": {
+      "count": 4,
+      "top": [
+        {
+          "cluster": "szkl",
+          "count": 1
+        },
+        {
+          "cluster": "brz",
+          "count": 1
+        },
+        {
+          "cluster": "dźw",
+          "count": 1
+        },
+        {
+          "cluster": "krw",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 5,
+      "syczace": 13,
+      "nosowe": 19,
+      "plynne": 12
+    },
+    "rhymes": {
+      "exact": 0,
+      "approximate": 0,
+      "internal": 0,
+      "assonance": 0,
+      "alliteration": 0
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        11
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 77,
+      "estimatedSeconds": 26,
+      "tempoCategory": "umiarkowane"
+    },
+    "regularity": {
+      "type": "polregularny",
+      "regularityScore": 0.49
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Biblia",
+          "reference": "owoc zakazany, krew jako symbol życia",
+          "evidence": "późny owoc Twojej krwi"
+        },
+        {
+          "source": "Rimbaud",
+          "reference": "metamorfoza ja lirycznego, alkoholizm poetycki",
+          "evidence": "Ja będę metalowy / Wtedy mnie roztopią / na alkohol"
+        }
+      ],
+      "selfQuotes": [
+        "motyw alkoholu",
+        "metamorfoza ciała"
+      ],
+      "influences": {
+        "rimbaud": 0.8,
+        "baudelaire": 0.3,
+        "bursa": 0.2,
+        "stachura": 0.6,
+        "grochowiak": 0.4,
+        "bialoszewski": 0.1,
+        "rozewicz": 0.2
+      }
+    },
+    "space": {
+      "type": "zamknieta",
+      "evidence": "cichą szklankę będzie osłaniał dłońmi",
+      "openClosedRatio": 0.2
+    },
+    "timeOfDay": {
+      "period": "noc",
+      "season": "lato",
+      "evidence": "21 VIII 66 - sierpień, późny owoc, gwiazda zadźwięczy"
+    },
+    "motion": {
+      "movement": 4,
+      "stillness": 6,
+      "dynamism": 0.4,
+      "evidence": "roztopią, zadźwięczy o dno - akcje finalne, ale dominuje statyczność picia"
+    },
+    "imageryDensity": {
+      "metaphors": 4,
+      "comparisons": 0,
+      "personifications": 2,
+      "hyperboles": 1,
+      "per100words": 15
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.9,
+      "creationLevel": 0.7,
+      "ironicDistance": 0.1,
+      "autobiographicSignals": [
+        "data dziennikowa 21 VIII 66",
+        "motyw alkoholizmu",
+        "intymne Ty",
+        "własna śmierć"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "tęsknota",
+      "secondary": "rezygnacja",
+      "intensity": 0.8
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "Ja będę metalowy"
+    },
+    "addressee": {
+      "type": "ty",
+      "evidence": "Kiedy i Ty będziesz obca"
+    },
+    "metaphors": [
+      {
+        "source": "metal",
+        "target": "podmiot liryczny",
+        "example": "Ja będę metalowy"
+      },
+      {
+        "source": "topienie metalu",
+        "target": "transformacja w alkohol",
+        "example": "Wtedy mnie roztopią na alkohol"
+      },
+      {
+        "source": "gwiazda",
+        "target": "krew adresatki",
+        "example": "gwiazda późny owoc Twojej krwi"
+      }
+    ],
+    "temperature": {
+      "value": 0.3,
+      "label": "chłodne"
+    },
+    "senses": {
+      "wzrok": 2,
+      "sluch": 4,
+      "dotyk": 3,
+      "smak": 3,
+      "zapach": 0
+    },
+    "autodestruction": {
+      "level": 0.9,
+      "signals": [
+        "roztopią mnie na alkohol",
+        "suchy głód Pijaka",
+        "transformacja w substancję niszczącą"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": null,
+    "dfaAlpha": 2.931,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -1.4451858789480811
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -0.6019864021629678
+      }
+    ],
+    "seriesLength": 10,
+    "series": [
+      5,
+      3,
+      3,
+      2,
+      3,
+      3,
+      7,
+      4,
+      1,
+      4
+    ]
+  }
+}

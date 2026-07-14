@@ -1,0 +1,790 @@
+{
+  "id": "wiecej-niz-slowa",
+  "title": "Więcej niż słowa",
+  "wordCount": 65,
+  "lineCount": 10,
+  "uniqueWords": 47,
+  "vocabularyRichness": 0.723,
+  "avgWordsPerLine": 6.5,
+  "wordsPerLineDistribution": [
+    6,
+    7,
+    9,
+    5,
+    7,
+    6,
+    5,
+    8,
+    6,
+    6
+  ],
+  "wordFrequencies": [
+    [
+      "boli",
+      5
+    ],
+    [
+      "głowa",
+      2
+    ],
+    [
+      "serce",
+      2
+    ],
+    [
+      "dłoń",
+      2
+    ],
+    [
+      "noga",
+      2
+    ],
+    [
+      "wszechświecie",
+      1
+    ],
+    [
+      "ziemi",
+      1
+    ],
+    [
+      "pewne",
+      1
+    ],
+    [
+      "ścięcie",
+      1
+    ],
+    [
+      "dzień",
+      1
+    ],
+    [
+      "nudną",
+      1
+    ],
+    [
+      "noc",
+      1
+    ],
+    [
+      "czyżby",
+      1
+    ],
+    [
+      "zastrzyk",
+      1
+    ],
+    [
+      "benzyny",
+      1
+    ],
+    [
+      "czuło",
+      1
+    ],
+    [
+      "piszę",
+      1
+    ],
+    [
+      "wiersz",
+      1
+    ],
+    [
+      "prozę",
+      1
+    ],
+    [
+      "podcieram",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 5,
+    "period": 0,
+    "question": 4,
+    "exclamation": 1,
+    "ellipsis": 0,
+    "dash": 5,
+    "colon": 0,
+    "semicolon": 0
+  },
+  "questionCount": 4,
+  "exclamationCount": 1,
+  "negationCount": 1,
+  "negationWords": [
+    "nie"
+  ],
+  "pronounDistribution": {
+    "ja": 6,
+    "ty": 0,
+    "on_ona": 0,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 8,
+    "smierc": 0,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 1,
+    "bol": 0
+  },
+  "anaphors": [
+    [
+      "boli",
+      5
+    ]
+  ],
+  "firstWord": "boli",
+  "lastWord": "słowa",
+  "avgWordLength": 4.29,
+  "wordLengthDistribution": {
+    "4-5": 33,
+    "1-3": 21,
+    "10+": 2,
+    "6-7": 7,
+    "8-9": 2
+  },
+  "bigrams": [
+    [
+      "głowa jako",
+      1
+    ],
+    [
+      "pewne ścięcie",
+      1
+    ],
+    [
+      "ścięcie boli",
+      1
+    ]
+  ],
+  "poemWords": [
+    "boli",
+    "głowa",
+    "wszechświecie",
+    "ziemi",
+    "pewne",
+    "ścięcie",
+    "serce",
+    "dzień",
+    "nudną",
+    "noc",
+    "czyżby",
+    "zastrzyk",
+    "benzyny",
+    "czuło",
+    "dłoń",
+    "piszę",
+    "wiersz",
+    "prozę",
+    "podcieram",
+    "utną",
+    "nożem",
+    "noga",
+    "dziewczyna",
+    "tańczę",
+    "wyrwą",
+    "tyłka",
+    "były",
+    "więcej",
+    "niż",
+    "słowa"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 20,
+        "VERB": 11,
+        "ADJ": 3,
+        "ADV": 4,
+        "PRON": 7,
+        "ADP": 6,
+        "CCONJ": 2,
+        "SCONJ": 7,
+        "INTJ": 0,
+        "PART": 2,
+        "DET": 3,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.294,
+        "VERB": 0.162,
+        "ADJ": 0.044,
+        "ADV": 0.059,
+        "PRON": 0.103,
+        "ADP": 0.088,
+        "CCONJ": 0.029,
+        "SCONJ": 0.103,
+        "INTJ": 0,
+        "PART": 0.029,
+        "DET": 0.044,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 5,
+        "abstract": 0,
+        "ratio": 1
+      },
+      "verbTenses": {
+        "present": 9,
+        "past": 2,
+        "future": 1,
+        "imperative": 1
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 1,
+        "stan": 1,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 1,
+        "opisowe": 2
+      },
+      "adverbs": {
+        "temporalne": [],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "tak",
+            "count": 2
+          },
+          {
+            "word": "gdy",
+            "count": 1
+          },
+          {
+            "word": "jak",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 6,
+        "ty": 0,
+        "on_ona": 0,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 1,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 1,
+        "percentSentences": 0.12
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 125,
+        "consonants": 168,
+        "ratio": 0.74
+      },
+      "consonantClusters": {
+        "count": 6,
+        "top": [
+          {
+            "cluster": "wsz",
+            "count": 1
+          },
+          {
+            "cluster": "chśw",
+            "count": 1
+          },
+          {
+            "cluster": "strz",
+            "count": 1
+          },
+          {
+            "cluster": "rsz",
+            "count": 1
+          },
+          {
+            "cluster": "wcz",
+            "count": 1
+          },
+          {
+            "cluster": "ńcz",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 14,
+        "syczace": 25,
+        "nosowe": 44,
+        "plynne": 21
+      },
+      "rhymes": {
+        "exact": 1,
+        "approximate": 0,
+        "internal": 0,
+        "assonance": 0,
+        "alliteration": 0
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 8.5,
+        "median": 7,
+        "min": 3,
+        "max": 14,
+        "distribution": [
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          2,
+          2,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 6.6,
+        "meanSyllables": 12.2,
+        "distribution": [
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          4,
+          1,
+          2,
+          2
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 3,
+        "interrogative": 4,
+        "imperative": 0,
+        "exclamatory": 1
+      },
+      "ellipsis": {
+        "incomplete": 2,
+        "noSubject": 1,
+        "noPredicate": 0,
+        "percent": 0.38
+      },
+      "enjambement": {
+        "count": 0,
+        "percent": 0,
+        "positions": []
+      },
+      "wordOrder": {
+        "svo": 0,
+        "inversions": 5,
+        "other": 3,
+        "deviationPercent": 1
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 8,
+        "śmierć": 0,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 1,
+        "ból": 0
+      },
+      "oppositionsFound": [
+        "dzień/noc"
+      ]
+    },
+    "tempo": {
+      "syllables": 134,
+      "estimatedSeconds": 45,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 20,
+      "VERB": 11,
+      "ADJ": 3,
+      "ADV": 4,
+      "PRON": 7,
+      "ADP": 6,
+      "CCONJ": 2,
+      "SCONJ": 7,
+      "INTJ": 0,
+      "PART": 2,
+      "DET": 3,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.294,
+      "VERB": 0.162,
+      "ADJ": 0.044,
+      "ADV": 0.059,
+      "PRON": 0.103,
+      "ADP": 0.088,
+      "CCONJ": 0.029,
+      "SCONJ": 0.103,
+      "INTJ": 0,
+      "PART": 0.029,
+      "DET": 0.044,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 5,
+      "abstract": 0,
+      "ratio": 1
+    },
+    "verbTenses": {
+      "present": 9,
+      "past": 2,
+      "future": 1,
+      "imperative": 1
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 1,
+      "stan": 1,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 1,
+      "opisowe": 2
+    },
+    "adverbs": {
+      "temporalne": [],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "tak",
+          "count": 2
+        },
+        {
+          "word": "gdy",
+          "count": 1
+        },
+        {
+          "word": "jak",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 6,
+      "ty": 0,
+      "on_ona": 0,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 1,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 1,
+      "percentSentences": 0.12
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 8.5,
+      "median": 7,
+      "min": 3,
+      "max": 14,
+      "distribution": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        2,
+        2,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 6.6,
+      "meanSyllables": 12.2,
+      "distribution": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        1,
+        4,
+        1,
+        2,
+        2
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 3,
+      "interrogative": 4,
+      "imperative": 0,
+      "exclamatory": 1
+    },
+    "ellipsis": {
+      "incomplete": 2,
+      "noSubject": 1,
+      "noPredicate": 0,
+      "percent": 0.38
+    },
+    "enjambement": {
+      "count": 0,
+      "percent": 0,
+      "positions": []
+    },
+    "wordOrder": {
+      "svo": 0,
+      "inversions": 5,
+      "other": 3,
+      "deviationPercent": 1
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 125,
+      "consonants": 168,
+      "ratio": 0.74
+    },
+    "consonantClusters": {
+      "count": 6,
+      "top": [
+        {
+          "cluster": "wsz",
+          "count": 1
+        },
+        {
+          "cluster": "chśw",
+          "count": 1
+        },
+        {
+          "cluster": "strz",
+          "count": 1
+        },
+        {
+          "cluster": "rsz",
+          "count": 1
+        },
+        {
+          "cluster": "wcz",
+          "count": 1
+        },
+        {
+          "cluster": "ńcz",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 14,
+      "syczace": 25,
+      "nosowe": 44,
+      "plynne": 21
+    },
+    "rhymes": {
+      "exact": 1,
+      "approximate": 0,
+      "internal": 0,
+      "assonance": 0,
+      "alliteration": 0
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        11
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 134,
+      "estimatedSeconds": 45,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "regularny",
+      "regularityScore": 0.8
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Biblia",
+          "reference": "cierpienie jako doświadczenie egzystencjalne",
+          "evidence": "Boli mnie głowa jako w Wszechświecie"
+        },
+        {
+          "source": "inne",
+          "reference": "tradycja poezji konfesyjnej",
+          "evidence": "autobiograficzny ton całości"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.3,
+        "baudelaire": 0.2,
+        "bursa": 0.6,
+        "stachura": 0.4,
+        "grochowiak": 0.7,
+        "bialoszewski": 0.8,
+        "rozewicz": 0.5
+      }
+    },
+    "space": {
+      "type": "nieokreslona",
+      "evidence": "przestrzeń kosmiczna (Wszechświat) kontrastuje z intymną przestrzenią ciała",
+      "openClosedRatio": 0.6
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "nieokreslona",
+      "evidence": "wskazania temporalne: dzień i noc, ale bez konkretyzacji"
+    },
+    "motion": {
+      "movement": 3,
+      "stillness": 7,
+      "dynamism": 0.3,
+      "evidence": "statyczność dominuje, ruch tylko w czynnościach pisania i higieny"
+    },
+    "imageryDensity": {
+      "metaphors": 4,
+      "comparisons": 2,
+      "personifications": 1,
+      "hyperboles": 3,
+      "per100words": 16.7
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.9,
+      "creationLevel": 0.3,
+      "ironicDistance": 0.4,
+      "autobiographicSignals": [
+        "data wiersza",
+        "czynności intymne",
+        "bezpośrednie wyznanie bólu",
+        "odniesienie do pisania"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "ironia",
+      "secondary": "rozpacz",
+      "intensity": 0.8
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "Konsekwentne użycie pierwszej osoby 'Boli mnie głowa', 'Boli mnie serce', 'Boli mnie dłoń'"
+    },
+    "addressee": {
+      "type": "czytelnik",
+      "evidence": "Brak bezpośredniego zwrotu, wiersz kierowany do odbiorcy jako wyznanie bólu"
+    },
+    "metaphors": [
+      {
+        "source": "ból głowy",
+        "target": "ból kosmiczny",
+        "example": "Boli mnie głowa jako w Wszechświecie"
+      },
+      {
+        "source": "serce",
+        "target": "silnik",
+        "example": "czyżby zastrzyk benzyny czuło"
+      },
+      {
+        "source": "ciało",
+        "target": "słowa",
+        "example": "Jakby to były więcej niż słowa"
+      }
+    ],
+    "temperature": {
+      "value": 0.6,
+      "label": "umiarkowanie ciepłe - ironiczny dystans łagodzi rozpacz"
+    },
+    "senses": {
+      "wzrok": 2,
+      "sluch": 1,
+      "dotyk": 5,
+      "smak": 0,
+      "zapach": 0
+    },
+    "autodestruction": {
+      "level": 0.7,
+      "signals": [
+        "wizje okaleczenia ciała",
+        "pytania o ścięcie głowy",
+        "ucinanie nożem",
+        "wyrywanie nogi",
+        "obsesja na punkcie bólu fizycznego"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": null,
+    "dfaAlpha": 2.265,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -0.9343602551820916
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -0.28270751955974527
+      }
+    ],
+    "seriesLength": 10,
+    "series": [
+      6,
+      7,
+      9,
+      5,
+      7,
+      6,
+      5,
+      8,
+      6,
+      6
+    ]
+  }
+}

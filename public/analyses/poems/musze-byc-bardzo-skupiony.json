@@ -1,0 +1,807 @@
+{
+  "id": "musze-byc-bardzo-skupiony",
+  "title": "Muszę być bardzo skupiony",
+  "wordCount": 50,
+  "lineCount": 11,
+  "uniqueWords": 47,
+  "vocabularyRichness": 0.94,
+  "avgWordsPerLine": 4.55,
+  "wordsPerLineDistribution": [
+    4,
+    3,
+    5,
+    6,
+    5,
+    7,
+    6,
+    6,
+    3,
+    3,
+    2
+  ],
+  "wordFrequencies": [
+    [
+      "muszę",
+      1
+    ],
+    [
+      "skupiony",
+      1
+    ],
+    [
+      "twarz",
+      1
+    ],
+    [
+      "widzeniu",
+      1
+    ],
+    [
+      "słoju",
+      1
+    ],
+    [
+      "genitalia",
+      1
+    ],
+    [
+      "żyda",
+      1
+    ],
+    [
+      "naznaczony",
+      1
+    ],
+    [
+      "ostrożny",
+      1
+    ],
+    [
+      "gładki",
+      1
+    ],
+    [
+      "wąsikiem",
+      1
+    ],
+    [
+      "znowu",
+      1
+    ],
+    [
+      "żąda",
+      1
+    ],
+    [
+      "tłumaczyć",
+      1
+    ],
+    [
+      "sen",
+      1
+    ],
+    [
+      "powtarza",
+      1
+    ],
+    [
+      "rytmicznie",
+      1
+    ],
+    [
+      "period",
+      1
+    ],
+    [
+      "mówi",
+      1
+    ],
+    [
+      "kłębek",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 0,
+    "period": 0,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 1,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 1,
+  "negationWords": [
+    "bez"
+  ],
+  "pronounDistribution": {
+    "ja": 1,
+    "ty": 0,
+    "on_ona": 2,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 2,
+    "smierc": 0,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 1,
+    "bol": 0
+  },
+  "anaphors": [],
+  "firstWord": "muszę",
+  "lastWord": "marzec",
+  "avgWordLength": 4.6,
+  "wordLengthDistribution": {
+    "4-5": 12,
+    "1-3": 21,
+    "6-7": 6,
+    "8-9": 8,
+    "10+": 3
+  },
+  "bigrams": [
+    [
+      "bardzo skupiony",
+      1
+    ],
+    [
+      "skupiony twarz",
+      1
+    ],
+    [
+      "słoju genitalia",
+      1
+    ],
+    [
+      "genitalia żyda",
+      1
+    ],
+    [
+      "jestem naznaczony",
+      1
+    ]
+  ],
+  "poemWords": [
+    "muszę",
+    "skupiony",
+    "twarz",
+    "widzeniu",
+    "słoju",
+    "genitalia",
+    "żyda",
+    "naznaczony",
+    "ostrożny",
+    "gładki",
+    "wąsikiem",
+    "znowu",
+    "żąda",
+    "tłumaczyć",
+    "sen",
+    "powtarza",
+    "rytmicznie",
+    "period",
+    "mówi",
+    "kłębek",
+    "skrwawionej",
+    "waty",
+    "wciskany",
+    "usta",
+    "ręki",
+    "marzec"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 12,
+        "VERB": 8,
+        "ADJ": 6,
+        "ADV": 3,
+        "PRON": 6,
+        "ADP": 5,
+        "CCONJ": 2,
+        "SCONJ": 4,
+        "INTJ": 0,
+        "PART": 2,
+        "DET": 1,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.222,
+        "VERB": 0.148,
+        "ADJ": 0.111,
+        "ADV": 0.056,
+        "PRON": 0.111,
+        "ADP": 0.093,
+        "CCONJ": 0.037,
+        "SCONJ": 0.074,
+        "INTJ": 0,
+        "PART": 0.037,
+        "DET": 0.019,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 1,
+        "abstract": 1,
+        "ratio": 0.5
+      },
+      "verbTenses": {
+        "present": 8,
+        "infinitive": 3
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 4,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 1,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 1,
+        "oceniajace": 0,
+        "opisowe": 5
+      },
+      "adverbs": {
+        "temporalne": [],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "bardzo",
+            "count": 2
+          },
+          {
+            "word": "rytmicznie",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 1,
+        "ty": 0,
+        "on_ona": 2,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 0,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 0,
+        "percentSentences": 0
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 103,
+        "consonants": 147,
+        "ratio": 0.7
+      },
+      "consonantClusters": {
+        "count": 5,
+        "top": [
+          {
+            "cluster": "rdz",
+            "count": 2
+          },
+          {
+            "cluster": "str",
+            "count": 1
+          },
+          {
+            "cluster": "czn",
+            "count": 1
+          },
+          {
+            "cluster": "skrw",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 12,
+        "syczace": 22,
+        "nosowe": 32,
+        "plynne": 16
+      },
+      "rhymes": {
+        "exact": 1,
+        "approximate": 2,
+        "internal": 0,
+        "assonance": 1,
+        "alliteration": 1
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 13.5,
+        "median": 9,
+        "min": 4,
+        "max": 32,
+        "distribution": [
+          0,
+          0,
+          0,
+          0,
+          2,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 4.5,
+        "meanSyllables": 9,
+        "distribution": [
+          0,
+          0,
+          1,
+          3,
+          2,
+          2,
+          3,
+          1
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 4,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 0,
+        "noSubject": 2,
+        "noPredicate": 0,
+        "percent": 0.5
+      },
+      "enjambement": {
+        "count": 7,
+        "percent": 0.64,
+        "positions": [
+          3,
+          5,
+          6,
+          8,
+          9,
+          10,
+          11
+        ]
+      },
+      "wordOrder": {
+        "svo": 2,
+        "inversions": 0,
+        "other": 2,
+        "deviationPercent": 0.5
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 2,
+        "śmierć": 0,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 1,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 108,
+      "estimatedSeconds": 36,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 12,
+      "VERB": 8,
+      "ADJ": 6,
+      "ADV": 3,
+      "PRON": 6,
+      "ADP": 5,
+      "CCONJ": 2,
+      "SCONJ": 4,
+      "INTJ": 0,
+      "PART": 2,
+      "DET": 1,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.222,
+      "VERB": 0.148,
+      "ADJ": 0.111,
+      "ADV": 0.056,
+      "PRON": 0.111,
+      "ADP": 0.093,
+      "CCONJ": 0.037,
+      "SCONJ": 0.074,
+      "INTJ": 0,
+      "PART": 0.037,
+      "DET": 0.019,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 1,
+      "abstract": 1,
+      "ratio": 0.5
+    },
+    "verbTenses": {
+      "present": 8,
+      "infinitive": 3
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 4,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 1,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 1,
+      "oceniajace": 0,
+      "opisowe": 5
+    },
+    "adverbs": {
+      "temporalne": [],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "bardzo",
+          "count": 2
+        },
+        {
+          "word": "rytmicznie",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 1,
+      "ty": 0,
+      "on_ona": 2,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 0,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 0,
+      "percentSentences": 0
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 13.5,
+      "median": 9,
+      "min": 4,
+      "max": 32,
+      "distribution": [
+        0,
+        0,
+        0,
+        0,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 4.5,
+      "meanSyllables": 9,
+      "distribution": [
+        0,
+        0,
+        1,
+        3,
+        2,
+        2,
+        3,
+        1
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 4,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 0,
+      "noSubject": 2,
+      "noPredicate": 0,
+      "percent": 0.5
+    },
+    "enjambement": {
+      "count": 7,
+      "percent": 0.64,
+      "positions": [
+        3,
+        5,
+        6,
+        8,
+        9,
+        10,
+        11
+      ]
+    },
+    "wordOrder": {
+      "svo": 2,
+      "inversions": 0,
+      "other": 2,
+      "deviationPercent": 0.5
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 103,
+      "consonants": 147,
+      "ratio": 0.7
+    },
+    "consonantClusters": {
+      "count": 5,
+      "top": [
+        {
+          "cluster": "rdz",
+          "count": 2
+        },
+        {
+          "cluster": "str",
+          "count": 1
+        },
+        {
+          "cluster": "czn",
+          "count": 1
+        },
+        {
+          "cluster": "skrw",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 12,
+      "syczace": 22,
+      "nosowe": 32,
+      "plynne": 16
+    },
+    "rhymes": {
+      "exact": 1,
+      "approximate": 2,
+      "internal": 0,
+      "assonance": 1,
+      "alliteration": 1
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        12
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 108,
+      "estimatedSeconds": 36,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "polregularny",
+      "regularityScore": 0.62
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Biblia",
+          "reference": "Żyd jako figura religijna i kulturowa",
+          "evidence": "genitalia Żyda"
+        },
+        {
+          "source": "mitologia",
+          "reference": "Sen jako objawienie wymagające interpretacji",
+          "evidence": "żąda by tłumaczyć mu sen"
+        },
+        {
+          "source": "inne",
+          "reference": "Historia Polski (Marzec 1968)",
+          "evidence": "marzec 66 - antysemicka kampania"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.3,
+        "baudelaire": 0.2,
+        "bursa": 0.1,
+        "stachura": 0.2,
+        "grochowiak": 0.4,
+        "bialoszewski": 0.1,
+        "rozewicz": 0.5
+      }
+    },
+    "space": {
+      "type": "zamknieta",
+      "evidence": "słój jako zamknięta przestrzeń, usta jako miejsce wciskania",
+      "openClosedRatio": 0.2
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "nieokreslona",
+      "evidence": "brak wyraźnych wskaźników temporalnych poza datą"
+    },
+    "motion": {
+      "movement": 3,
+      "stillness": 7,
+      "dynamism": 0.3,
+      "evidence": "skupienie sugeruje bezruch, jedynie 'wciskany' wskazuje na ruch"
+    },
+    "imageryDensity": {
+      "metaphors": 4,
+      "comparisons": 2,
+      "personifications": 1,
+      "hyperboles": 0,
+      "per100words": 10.9
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.8,
+      "creationLevel": 0.6,
+      "ironicDistance": 0.2,
+      "autobiographicSignals": [
+        "Ja też jestem naznaczony",
+        "Muszę być bardzo skupiony",
+        "data marzec 66"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "obrzydzenie",
+      "secondary": "gniew",
+      "intensity": 0.9
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "Podmiot bezpośrednio wypowiada się w pierwszej osobie: 'Muszę być bardzo skupiony', 'Ja też jestem naznaczony'"
+    },
+    "addressee": {
+      "type": "siebie",
+      "evidence": "Podmiot zwraca się do siebie, formułując wewnętrzne nakazy i obserwacje: 'Muszę być bardzo skupiony'"
+    },
+    "metaphors": [
+      {
+        "source": "kłębek skrwawionej waty",
+        "target": "traumatyczne doświadczenie",
+        "example": "mówi to jest kłębek skrwawionej waty wciskany w usta"
+      },
+      {
+        "source": "słój",
+        "target": "przestrzeń uwięzienia/konserwacji",
+        "example": "a w słoju genitalia Żyda"
+      }
+    ],
+    "temperature": {
+      "value": 0.8,
+      "label": "gorące - intensywne obrzydzenie i niepokój"
+    },
+    "senses": {
+      "wzrok": 5,
+      "sluch": 2,
+      "dotyk": 4,
+      "smak": 1,
+      "zapach": 0
+    },
+    "autodestruction": {
+      "level": 0.7,
+      "signals": [
+        "obrazy przemocy i dehumanizacji",
+        "identyfikacja z ofiarą ('Ja też jestem naznaczony')",
+        "obsesyjne powracanie traumatycznych wizji",
+        "poczucie bezsilności wobec powtarzających się obrazów"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": null,
+    "dfaAlpha": -0.221,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -0.5978880185608786
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -0.6615043154114381
+      }
+    ],
+    "seriesLength": 11,
+    "series": [
+      4,
+      3,
+      5,
+      6,
+      5,
+      7,
+      6,
+      6,
+      3,
+      3,
+      2
+    ]
+  }
+}

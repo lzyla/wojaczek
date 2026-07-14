@@ -1,0 +1,860 @@
+{
+  "id": "ojczyzna",
+  "title": "Ojczyzna",
+  "wordCount": 70,
+  "lineCount": 14,
+  "uniqueWords": 48,
+  "vocabularyRichness": 0.686,
+  "avgWordsPerLine": 5,
+  "wordsPerLineDistribution": [
+    5,
+    6,
+    4,
+    5,
+    5,
+    5,
+    5,
+    6,
+    5,
+    5,
+    5,
+    4,
+    5,
+    5
+  ],
+  "wordFrequencies": [
+    [
+      "matka",
+      7
+    ],
+    [
+      "królowa",
+      2
+    ],
+    [
+      "polski",
+      2
+    ],
+    [
+      "mądra",
+      1
+    ],
+    [
+      "wieża",
+      1
+    ],
+    [
+      "kościoła",
+      1
+    ],
+    [
+      "większa",
+      1
+    ],
+    [
+      "niż",
+      1
+    ],
+    [
+      "rzymski",
+      1
+    ],
+    [
+      "kościół",
+      1
+    ],
+    [
+      "długa",
+      1
+    ],
+    [
+      "transsyberyjska",
+      1
+    ],
+    [
+      "kolej",
+      1
+    ],
+    [
+      "sahara",
+      1
+    ],
+    [
+      "szeroka",
+      1
+    ],
+    [
+      "pobożna",
+      1
+    ],
+    [
+      "partyjny",
+      1
+    ],
+    [
+      "dziennik",
+      1
+    ],
+    [
+      "piękna",
+      1
+    ],
+    [
+      "niczym",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 0,
+    "period": 0,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 0,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 0,
+  "negationWords": [],
+  "pronounDistribution": {
+    "ja": 0,
+    "ty": 0,
+    "on_ona": 0,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 1,
+    "smierc": 0,
+    "erotyka": 0,
+    "alkohol": 1,
+    "samotnosc": 1,
+    "sacrum": 1,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [
+    [
+      "matka",
+      7
+    ]
+  ],
+  "firstWord": "matka",
+  "lastWord": "polski",
+  "avgWordLength": 5.21,
+  "wordLengthDistribution": {
+    "4-5": 22,
+    "1-3": 19,
+    "8-9": 8,
+    "6-7": 20,
+    "10+": 1
+  },
+  "bigrams": [
+    [
+      "królowa polski",
+      2
+    ],
+    [
+      "matka mądra",
+      1
+    ],
+    [
+      "wieża kościoła",
+      1
+    ],
+    [
+      "kościoła matka",
+      1
+    ],
+    [
+      "matka większa",
+      1
+    ],
+    [
+      "większa niż",
+      1
+    ],
+    [
+      "niż sam",
+      1
+    ],
+    [
+      "sam rzymski",
+      1
+    ],
+    [
+      "rzymski kościół",
+      1
+    ],
+    [
+      "kościół matka",
+      1
+    ],
+    [
+      "matka długa",
+      1
+    ]
+  ],
+  "poemWords": [
+    "matka",
+    "mądra",
+    "wieża",
+    "kościoła",
+    "większa",
+    "niż",
+    "rzymski",
+    "kościół",
+    "długa",
+    "transsyberyjska",
+    "kolej",
+    "sahara",
+    "szeroka",
+    "pobożna",
+    "partyjny",
+    "dziennik",
+    "piękna",
+    "niczym",
+    "straż",
+    "pożarna",
+    "cierpliwa",
+    "oficer",
+    "śledczy",
+    "bolesna",
+    "połogu",
+    "prawdziwa",
+    "gumowa",
+    "pałka",
+    "dobra",
+    "piwo",
+    "żywieckie",
+    "piersi",
+    "matki",
+    "dwie",
+    "pobożne",
+    "setki",
+    "troskliwa",
+    "bufetowa",
+    "boska",
+    "królowa",
+    "polski",
+    "cudza"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 22,
+        "VERB": 0,
+        "ADJ": 25,
+        "ADV": 0,
+        "PRON": 0,
+        "ADP": 1,
+        "CCONJ": 6,
+        "SCONJ": 12,
+        "INTJ": 0,
+        "PART": 2,
+        "DET": 0,
+        "NUM": 1
+      },
+      "posPercent": {
+        "NOUN": 0.306,
+        "VERB": 0,
+        "ADJ": 0.347,
+        "ADV": 0,
+        "PRON": 0,
+        "ADP": 0.014,
+        "CCONJ": 0.083,
+        "SCONJ": 0.167,
+        "INTJ": 0,
+        "PART": 0.028,
+        "DET": 0,
+        "NUM": 0.014
+      },
+      "nounConcreteAbstract": {
+        "concrete": 1,
+        "abstract": 0,
+        "ratio": 1
+      },
+      "verbTenses": {},
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 0,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 2,
+        "opisowe": 23
+      },
+      "adverbs": {
+        "temporalne": [],
+        "modalne": [],
+        "sposobu": [],
+        "top": []
+      },
+      "pronouns": {
+        "ja": 0,
+        "ty": 0,
+        "on_ona": 0,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 0,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 0,
+        "percentSentences": 0
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 154,
+        "consonants": 219,
+        "ratio": 0.7
+      },
+      "consonantClusters": {
+        "count": 12,
+        "top": [
+          {
+            "cluster": "lsk",
+            "count": 2
+          },
+          {
+            "cluster": "jcz",
+            "count": 1
+          },
+          {
+            "cluster": "ksz",
+            "count": 1
+          },
+          {
+            "cluster": "msk",
+            "count": 1
+          },
+          {
+            "cluster": "nss",
+            "count": 1
+          },
+          {
+            "cluster": "jsk",
+            "count": 1
+          },
+          {
+            "cluster": "str",
+            "count": 1
+          },
+          {
+            "cluster": "rpl",
+            "count": 1
+          },
+          {
+            "cluster": "dcz",
+            "count": 1
+          },
+          {
+            "cluster": "wdz",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 13,
+        "syczace": 24,
+        "nosowe": 28,
+        "plynne": 31
+      },
+      "rhymes": {
+        "exact": 1,
+        "approximate": 3,
+        "internal": 1,
+        "assonance": 1,
+        "alliteration": 3
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 10.3,
+        "median": 12,
+        "min": 1,
+        "max": 21,
+        "distribution": [
+          0,
+          1,
+          0,
+          0,
+          0,
+          2,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          2,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 4.5,
+        "meanSyllables": 9.8,
+        "distribution": [
+          0,
+          2,
+          0,
+          0,
+          2,
+          10,
+          2
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 7,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 4,
+        "noSubject": 0,
+        "noPredicate": 3,
+        "percent": 1
+      },
+      "enjambement": {
+        "count": 5,
+        "percent": 0.33,
+        "positions": [
+          5,
+          7,
+          8,
+          9,
+          12
+        ]
+      },
+      "wordOrder": {
+        "svo": 0,
+        "inversions": 0,
+        "other": 6,
+        "deviationPercent": 1
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 1,
+        "śmierć": 0,
+        "erotyka": 0,
+        "alkohol": 1,
+        "samotność": 1,
+        "sacrum": 1,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 156,
+      "estimatedSeconds": 52,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 22,
+      "VERB": 0,
+      "ADJ": 25,
+      "ADV": 0,
+      "PRON": 0,
+      "ADP": 1,
+      "CCONJ": 6,
+      "SCONJ": 12,
+      "INTJ": 0,
+      "PART": 2,
+      "DET": 0,
+      "NUM": 1
+    },
+    "posPercent": {
+      "NOUN": 0.306,
+      "VERB": 0,
+      "ADJ": 0.347,
+      "ADV": 0,
+      "PRON": 0,
+      "ADP": 0.014,
+      "CCONJ": 0.083,
+      "SCONJ": 0.167,
+      "INTJ": 0,
+      "PART": 0.028,
+      "DET": 0,
+      "NUM": 0.014
+    },
+    "nounConcreteAbstract": {
+      "concrete": 1,
+      "abstract": 0,
+      "ratio": 1
+    },
+    "verbTenses": {},
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 0,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 2,
+      "opisowe": 23
+    },
+    "adverbs": {
+      "temporalne": [],
+      "modalne": [],
+      "sposobu": [],
+      "top": []
+    },
+    "pronouns": {
+      "ja": 0,
+      "ty": 0,
+      "on_ona": 0,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 0,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 0,
+      "percentSentences": 0
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 10.3,
+      "median": 12,
+      "min": 1,
+      "max": 21,
+      "distribution": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 4.5,
+      "meanSyllables": 9.8,
+      "distribution": [
+        0,
+        2,
+        0,
+        0,
+        2,
+        10,
+        2
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 7,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 4,
+      "noSubject": 0,
+      "noPredicate": 3,
+      "percent": 1
+    },
+    "enjambement": {
+      "count": 5,
+      "percent": 0.33,
+      "positions": [
+        5,
+        7,
+        8,
+        9,
+        12
+      ]
+    },
+    "wordOrder": {
+      "svo": 0,
+      "inversions": 0,
+      "other": 6,
+      "deviationPercent": 1
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 154,
+      "consonants": 219,
+      "ratio": 0.7
+    },
+    "consonantClusters": {
+      "count": 12,
+      "top": [
+        {
+          "cluster": "lsk",
+          "count": 2
+        },
+        {
+          "cluster": "jcz",
+          "count": 1
+        },
+        {
+          "cluster": "ksz",
+          "count": 1
+        },
+        {
+          "cluster": "msk",
+          "count": 1
+        },
+        {
+          "cluster": "nss",
+          "count": 1
+        },
+        {
+          "cluster": "jsk",
+          "count": 1
+        },
+        {
+          "cluster": "str",
+          "count": 1
+        },
+        {
+          "cluster": "rpl",
+          "count": 1
+        },
+        {
+          "cluster": "dcz",
+          "count": 1
+        },
+        {
+          "cluster": "wdz",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 13,
+      "syczace": 24,
+      "nosowe": 28,
+      "plynne": 31
+    },
+    "rhymes": {
+      "exact": 1,
+      "approximate": 3,
+      "internal": 1,
+      "assonance": 1,
+      "alliteration": 3
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        16
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 156,
+      "estimatedSeconds": 52,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "polregularny",
+      "regularityScore": 0.68
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Biblia",
+          "reference": "Matka Boska",
+          "evidence": "Matka boska jak Królowa Polski"
+        },
+        {
+          "source": "inne",
+          "reference": "Królowa Polski (Matka Boska Częstochowska)",
+          "evidence": "Matka boska jak Królowa Polski / Matka cudza jak Królowa Polski"
+        },
+        {
+          "source": "inne",
+          "reference": "komunistyczna propaganda",
+          "evidence": "pobożna jak partyjny dziennik"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.1,
+        "baudelaire": 0.1,
+        "bursa": 0.2,
+        "stachura": 0.1,
+        "grochowiak": 0.3,
+        "bialoszewski": 0.4,
+        "rozewicz": 0.6
+      }
+    },
+    "space": {
+      "type": "nieokreslona",
+      "evidence": "przestrzeń pojęciowa ojczyzny jako matki, bez konkretnej lokalizacji geograficznej",
+      "openClosedRatio": 0.5
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "nieokreslona",
+      "evidence": "brak wskazań temporalnych, czas historyczny 1968"
+    },
+    "motion": {
+      "movement": 2,
+      "stillness": 8,
+      "dynamism": 0.2,
+      "evidence": "dominuje statyczność porównań, jedynym ruchem jest 'połóg'"
+    },
+    "imageryDensity": {
+      "metaphors": 3,
+      "comparisons": 13,
+      "personifications": 1,
+      "hyperboles": 4,
+      "per100words": 21
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.8,
+      "creationLevel": 0.7,
+      "ironicDistance": 0.9,
+      "autobiographicSignals": [
+        "data 1968",
+        "doświadczenie PRL-u",
+        "stosunek do ojczyzny"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "ironia",
+      "secondary": "bunt",
+      "intensity": 0.9
+    },
+    "subjectPresence": {
+      "type": "ukryte",
+      "evidence": "brak bezpośrednich form pierwszoosobowych, ale wyraźna obecność podmiotu krytykującego w ironicznej stylizacji"
+    },
+    "addressee": {
+      "type": "czytelnik",
+      "evidence": "wiersz skierowany do odbiorcy jako manifest krytyczny wobec oficjalnego obrazu ojczyzny"
+    },
+    "metaphors": [
+      {
+        "source": "matka",
+        "target": "ojczyzna",
+        "example": "Matka mądra jak wieża kościoła"
+      },
+      {
+        "source": "wieża kościoła",
+        "target": "mądrość",
+        "example": "Matka mądra jak wieża kościoła"
+      },
+      {
+        "source": "gumowa pałka",
+        "target": "prawda",
+        "example": "I prawdziwa jak gumowa pałka"
+      },
+      {
+        "source": "straż pożarna",
+        "target": "piękno",
+        "example": "Matka piękna niczym straż pożarna"
+      }
+    ],
+    "temperature": {
+      "value": 0.7,
+      "label": "ciepłe - złość i sarkazm wobec fałszu ideologicznego"
+    },
+    "senses": {
+      "wzrok": 4,
+      "sluch": 1,
+      "dotyk": 2,
+      "smak": 2,
+      "zapach": 0
+    },
+    "autodestruction": {
+      "level": 0.3,
+      "signals": [
+        "ryzykowna krytyka systemu w 1968 roku",
+        "prowokacyjne zestawienia sacrum z profanum"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 0.296,
+    "dfaAlpha": 1.085,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -1.4451858789480823
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -1.1331493138292645
+      }
+    ],
+    "seriesLength": 14,
+    "series": [
+      5,
+      6,
+      4,
+      5,
+      5,
+      5,
+      5,
+      6,
+      5,
+      5,
+      5,
+      4,
+      5,
+      5
+    ]
+  }
+}

@@ -1,0 +1,988 @@
+{
+  "id": "badz-mi-2",
+  "title": "Bądź mi",
+  "wordCount": 130,
+  "lineCount": 20,
+  "uniqueWords": 94,
+  "vocabularyRichness": 0.723,
+  "avgWordsPerLine": 6.5,
+  "wordsPerLineDistribution": [
+    2,
+    10,
+    8,
+    8,
+    5,
+    7,
+    6,
+    5,
+    7,
+    8,
+    7,
+    6,
+    8,
+    7,
+    7,
+    7,
+    8,
+    6,
+    7,
+    1
+  ],
+  "wordFrequencies": [
+    [
+      "paznokci",
+      2
+    ],
+    [
+      "mózg",
+      2
+    ],
+    [
+      "bądz",
+      1
+    ],
+    [
+      "stóp",
+      1
+    ],
+    [
+      "głowy",
+      1
+    ],
+    [
+      "pięty",
+      1
+    ],
+    [
+      "ucha",
+      1
+    ],
+    [
+      "kolan",
+      1
+    ],
+    [
+      "pachwiny",
+      1
+    ],
+    [
+      "łokcia",
+      1
+    ],
+    [
+      "pachą",
+      1
+    ],
+    [
+      "językiem",
+      1
+    ],
+    [
+      "łechtaczki",
+      1
+    ],
+    [
+      "rzęs",
+      1
+    ],
+    [
+      "biegunem",
+      1
+    ],
+    [
+      "pomylonego",
+      1
+    ],
+    [
+      "serca",
+      1
+    ],
+    [
+      "rakiem",
+      1
+    ],
+    [
+      "jedząc",
+      1
+    ],
+    [
+      "pozwoli",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 24,
+    "period": 0,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 1,
+    "colon": 1,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 1,
+  "negationWords": [
+    "nie"
+  ],
+  "pronounDistribution": {
+    "ja": 6,
+    "ty": 1,
+    "on_ona": 0,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 2,
+    "smierc": 2,
+    "erotyka": 1,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 1,
+    "bol": 0
+  },
+  "anaphors": [
+    [
+      "bądź",
+      11
+    ]
+  ],
+  "firstWord": "bądz",
+  "lastWord": "śmierć",
+  "avgWordLength": 5.05,
+  "wordLengthDistribution": {
+    "4-5": 47,
+    "1-3": 36,
+    "8-9": 15,
+    "6-7": 21,
+    "10+": 11
+  },
+  "bigrams": [],
+  "poemWords": [
+    "bądz",
+    "stóp",
+    "głowy",
+    "pięty",
+    "ucha",
+    "kolan",
+    "pachwiny",
+    "łokcia",
+    "paznokci",
+    "pachą",
+    "językiem",
+    "łechtaczki",
+    "rzęs",
+    "biegunem",
+    "pomylonego",
+    "serca",
+    "rakiem",
+    "mózg",
+    "jedząc",
+    "pozwoli",
+    "poczuć",
+    "wodą",
+    "tlenu",
+    "spalonych",
+    "płuc",
+    "stanikiem",
+    "majtkami",
+    "podwiązką",
+    "kołyską",
+    "ciała",
+    "niańką",
+    "kołysze",
+    "jedz",
+    "brud",
+    "zza",
+    "pij",
+    "miesięczną",
+    "krew",
+    "żądzą",
+    "spełnieniem",
+    "rozkoszą",
+    "znowu",
+    "głodem",
+    "przeszłością",
+    "przyszłością",
+    "sekundą",
+    "wiecznością",
+    "chłopcem",
+    "dziewczyną",
+    "nocą",
+    "dniem",
+    "życiem",
+    "radością",
+    "śmiercią",
+    "zazdrością",
+    "złością",
+    "pogardą",
+    "nieszczęściem",
+    "nudą",
+    "bogiem",
+    "murzynem",
+    "ojcem",
+    "matką",
+    "synem",
+    "pytaj",
+    "wypłacę",
+    "darmo",
+    "weźmiesz",
+    "najpiękniejszą",
+    "zdradę",
+    "miłość",
+    "obudzi",
+    "śpiącą",
+    "tobie",
+    "śmierć"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 54,
+        "VERB": 11,
+        "ADJ": 6,
+        "ADV": 3,
+        "PRON": 8,
+        "ADP": 16,
+        "CCONJ": 12,
+        "SCONJ": 0,
+        "INTJ": 0,
+        "PART": 2,
+        "DET": 3,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.415,
+        "VERB": 0.085,
+        "ADJ": 0.046,
+        "ADV": 0.023,
+        "PRON": 0.062,
+        "ADP": 0.123,
+        "CCONJ": 0.092,
+        "SCONJ": 0,
+        "INTJ": 0,
+        "PART": 0.015,
+        "DET": 0.023,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 8,
+        "abstract": 8,
+        "ratio": 0.5
+      },
+      "verbTenses": {
+        "present": 3,
+        "imperative": 14,
+        "future": 4,
+        "infinitive": 1
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 0,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 1,
+        "cialo": 1
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 0,
+        "opisowe": 6
+      },
+      "adverbs": {
+        "temporalne": [],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "jak",
+            "count": 1
+          },
+          {
+            "word": "wtedy",
+            "count": 1
+          },
+          {
+            "word": "darmo",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 5,
+        "ty": 1,
+        "on_ona": 0,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 1,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 1,
+        "percentSentences": 0.12
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 266,
+        "consonants": 390,
+        "ratio": 0.68
+      },
+      "consonantClusters": {
+        "count": 16,
+        "top": [
+          {
+            "cluster": "czn",
+            "count": 2
+          },
+          {
+            "cluster": "prz",
+            "count": 2
+          },
+          {
+            "cluster": "szł",
+            "count": 2
+          },
+          {
+            "cluster": "zdr",
+            "count": 2
+          },
+          {
+            "cluster": "chw",
+            "count": 1
+          },
+          {
+            "cluster": "cht",
+            "count": 1
+          },
+          {
+            "cluster": "czk",
+            "count": 1
+          },
+          {
+            "cluster": "jtk",
+            "count": 1
+          },
+          {
+            "cluster": "chł",
+            "count": 1
+          },
+          {
+            "cluster": "wcz",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 19,
+        "syczace": 85,
+        "nosowe": 112,
+        "plynne": 40
+      },
+      "rhymes": {
+        "exact": 1,
+        "approximate": 2,
+        "internal": 6,
+        "assonance": 0,
+        "alliteration": 7
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 16.2,
+        "median": 10,
+        "min": 1,
+        "max": 64,
+        "distribution": [
+          0,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 6.5,
+        "meanSyllables": 13.4,
+        "distribution": [
+          0,
+          1,
+          1,
+          0,
+          0,
+          2,
+          3,
+          7,
+          4,
+          1,
+          1
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 7,
+        "interrogative": 0,
+        "imperative": 1,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 1,
+        "noSubject": 4,
+        "noPredicate": 0,
+        "percent": 0.62
+      },
+      "enjambement": {
+        "count": 1,
+        "percent": 0.05,
+        "positions": [
+          17
+        ]
+      },
+      "wordOrder": {
+        "svo": 2,
+        "inversions": 1,
+        "other": 4,
+        "deviationPercent": 0.71
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 3,
+        "śmierć": 2,
+        "erotyka": 1,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 1,
+        "ból": 0
+      },
+      "oppositionsFound": [
+        "życie/śmierć",
+        "dzień/noc"
+      ]
+    },
+    "tempo": {
+      "syllables": 269,
+      "estimatedSeconds": 90,
+      "tempoCategory": "wolne"
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Biblia",
+          "reference": "modlitwa Ojcze nasz",
+          "evidence": "struktura anaforyczna 'Bądź mi' nawiązuje do litanijnej formy modlitwy"
+        },
+        {
+          "source": "mitologia",
+          "reference": "polarność bóstwa",
+          "evidence": "Bądź Bogiem, bądź Murzynem - zestawienie sakrum z profanum"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.7,
+        "baudelaire": 0.8,
+        "bursa": 0.3,
+        "stachura": 0.2,
+        "grochowiak": 0.9,
+        "bialoszewski": 0.1,
+        "rozewicz": 0.2
+      }
+    },
+    "space": {
+      "type": "zamknieta",
+      "evidence": "przestrzeń ciała jako zamknięty uniwersum intymności - od stóp do głowy, pod pachą, pod językiem",
+      "openClosedRatio": 0.2
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "nieokreslona",
+      "evidence": "czas zawieszony w wieczności miłosnego doświadczenia - sekundą i wiecznością"
+    },
+    "motion": {
+      "movement": 8,
+      "stillness": 2,
+      "dynamism": 0.8,
+      "evidence": "intensywny ruch pożądania - jedz, pij, kołysze, obudzi - dynamika erotyczna"
+    },
+    "imageryDensity": {
+      "metaphors": 12,
+      "comparisons": 3,
+      "personifications": 4,
+      "hyperboles": 8,
+      "per100words": 45.7
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.9,
+      "creationLevel": 0.3,
+      "ironicDistance": 0.1,
+      "autobiographicSignals": [
+        "bezpośrednie zwroty do kochanki",
+        "intymne szczegóły cielesne",
+        "wyznanie miłosne bez dystansu"
+      ]
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 54,
+      "VERB": 11,
+      "ADJ": 6,
+      "ADV": 3,
+      "PRON": 8,
+      "ADP": 16,
+      "CCONJ": 12,
+      "SCONJ": 0,
+      "INTJ": 0,
+      "PART": 2,
+      "DET": 3,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.415,
+      "VERB": 0.085,
+      "ADJ": 0.046,
+      "ADV": 0.023,
+      "PRON": 0.062,
+      "ADP": 0.123,
+      "CCONJ": 0.092,
+      "SCONJ": 0,
+      "INTJ": 0,
+      "PART": 0.015,
+      "DET": 0.023,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 8,
+      "abstract": 8,
+      "ratio": 0.5
+    },
+    "verbTenses": {
+      "present": 3,
+      "imperative": 14,
+      "future": 4,
+      "infinitive": 1
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 0,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 1,
+      "cialo": 1
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 0,
+      "opisowe": 6
+    },
+    "adverbs": {
+      "temporalne": [],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "jak",
+          "count": 1
+        },
+        {
+          "word": "wtedy",
+          "count": 1
+        },
+        {
+          "word": "darmo",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 5,
+      "ty": 1,
+      "on_ona": 0,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 1,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 1,
+      "percentSentences": 0.12
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 16.2,
+      "median": 10,
+      "min": 1,
+      "max": 64,
+      "distribution": [
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 6.5,
+      "meanSyllables": 13.4,
+      "distribution": [
+        0,
+        1,
+        1,
+        0,
+        0,
+        2,
+        3,
+        7,
+        4,
+        1,
+        1
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 7,
+      "interrogative": 0,
+      "imperative": 1,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 1,
+      "noSubject": 4,
+      "noPredicate": 0,
+      "percent": 0.62
+    },
+    "enjambement": {
+      "count": 1,
+      "percent": 0.05,
+      "positions": [
+        17
+      ]
+    },
+    "wordOrder": {
+      "svo": 2,
+      "inversions": 1,
+      "other": 4,
+      "deviationPercent": 0.71
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 266,
+      "consonants": 390,
+      "ratio": 0.68
+    },
+    "consonantClusters": {
+      "count": 16,
+      "top": [
+        {
+          "cluster": "czn",
+          "count": 2
+        },
+        {
+          "cluster": "prz",
+          "count": 2
+        },
+        {
+          "cluster": "szł",
+          "count": 2
+        },
+        {
+          "cluster": "zdr",
+          "count": 2
+        },
+        {
+          "cluster": "chw",
+          "count": 1
+        },
+        {
+          "cluster": "cht",
+          "count": 1
+        },
+        {
+          "cluster": "czk",
+          "count": 1
+        },
+        {
+          "cluster": "jtk",
+          "count": 1
+        },
+        {
+          "cluster": "chł",
+          "count": 1
+        },
+        {
+          "cluster": "wcz",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 19,
+      "syczace": 85,
+      "nosowe": 112,
+      "plynne": 40
+    },
+    "rhymes": {
+      "exact": 1,
+      "approximate": 2,
+      "internal": 6,
+      "assonance": 0,
+      "alliteration": 7
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        20
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 269,
+      "estimatedSeconds": 90,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "polregularny",
+      "regularityScore": 0.67
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "tęsknota",
+      "secondary": "rozpacz",
+      "intensity": 0.9
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "Liryczne 'ja' jest bardzo wyraźnie obecne poprzez zaimki 'mi', 'moje', 'Ci' i bezpośrednie zwracanie się do adresata"
+    },
+    "addressee": {
+      "type": "ty",
+      "evidence": "Cały wiersz to bezpośredni monolog do konkretnej osoby, z użyciem form 'bądź mi', 'Ci się wypłacę', 'w Tobie'"
+    },
+    "metaphors": [
+      {
+        "source": "rak",
+        "target": "miłość/pożądanie",
+        "example": "Rakiem, który mózg jedząc pozwoli poczuć mózg"
+      },
+      {
+        "source": "woda tlenu",
+        "target": "ukochana osoba",
+        "example": "Bądź wodą tlenu dla spalonych płuc"
+      },
+      {
+        "source": "biegun",
+        "target": "centrum uczuciowego świata",
+        "example": "Bądź biegunem mojego pomylonego serca"
+      }
+    ],
+    "temperature": {
+      "value": 0.85,
+      "label": "bardzo gorące - intensywne pożądanie i desperacja"
+    },
+    "senses": {
+      "wzrok": 3,
+      "sluch": 2,
+      "dotyk": 5,
+      "smak": 4,
+      "zapach": 2
+    },
+    "autodestruction": {
+      "level": 0.8,
+      "signals": [
+        "pomylone serce",
+        "spalzone płuca",
+        "prośba o bycie rakiem pożerającym mózg",
+        "akceptacja zdrady jako zapłaty",
+        "śmierć jako finał miłości"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 0.626,
+    "dfaAlpha": 1.329,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -1.0397207708399179
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -0.5033500761360343
+      },
+      {
+        "logWin": 1.6094379124341003,
+        "logFluc": 0.03557543753103835
+      },
+      {
+        "logWin": 1.791759469228055,
+        "logFluc": -0.24798549156156255
+      }
+    ],
+    "seriesLength": 20,
+    "series": [
+      2,
+      10,
+      8,
+      8,
+      5,
+      7,
+      6,
+      5,
+      7,
+      8,
+      7,
+      6,
+      8,
+      7,
+      7,
+      7,
+      8,
+      6,
+      7,
+      1
+    ]
+  }
+}

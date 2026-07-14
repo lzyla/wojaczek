@@ -1,0 +1,844 @@
+{
+  "id": "bylem-jestem",
+  "title": "Byłem, jestem",
+  "wordCount": 70,
+  "lineCount": 20,
+  "uniqueWords": 62,
+  "vocabularyRichness": 0.886,
+  "avgWordsPerLine": 3.5,
+  "wordsPerLineDistribution": [
+    1,
+    1,
+    5,
+    2,
+    6,
+    4,
+    1,
+    4,
+    4,
+    7,
+    6,
+    6,
+    3,
+    4,
+    5,
+    2,
+    1,
+    2,
+    4,
+    2
+  ],
+  "wordFrequencies": [
+    [
+      "teresie",
+      1
+    ],
+    [
+      "byłem",
+      1
+    ],
+    [
+      "jezusem",
+      1
+    ],
+    [
+      "bratem",
+      1
+    ],
+    [
+      "żydem",
+      1
+    ],
+    [
+      "kupiłaś",
+      1
+    ],
+    [
+      "ciało",
+      1
+    ],
+    [
+      "śmierć",
+      1
+    ],
+    [
+      "wezbraną",
+      1
+    ],
+    [
+      "przeżyłaś",
+      1
+    ],
+    [
+      "ii",
+      1
+    ],
+    [
+      "umiem",
+      1
+    ],
+    [
+      "oczy",
+      1
+    ],
+    [
+      "odmierzam",
+      1
+    ],
+    [
+      "słuch",
+      1
+    ],
+    [
+      "wysłuchuję",
+      1
+    ],
+    [
+      "trzewia",
+      1
+    ],
+    [
+      "wiersz",
+      1
+    ],
+    [
+      "wiruje",
+      1
+    ],
+    [
+      "kończy",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 0,
+    "period": 14,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 3,
+    "colon": 0,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 0,
+  "negationWords": [],
+  "pronounDistribution": {
+    "ja": 6,
+    "ty": 3,
+    "on_ona": 1,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 3,
+    "smierc": 1,
+    "erotyka": 1,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 1,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [
+    [
+      "jestem",
+      2
+    ],
+    [
+      "jest",
+      2
+    ]
+  ],
+  "firstWord": "teresie",
+  "lastWord": "wrzesień",
+  "avgWordLength": 5.61,
+  "wordLengthDistribution": {
+    "6-7": 23,
+    "1-3": 13,
+    "4-5": 22,
+    "8-9": 8,
+    "10+": 4
+  },
+  "bigrams": [
+    [
+      "byłem jezusem",
+      1
+    ],
+    [
+      "jezusem jestem",
+      1
+    ],
+    [
+      "jestem twoim",
+      1
+    ],
+    [
+      "twoim bratem",
+      1
+    ],
+    [
+      "bratem znów",
+      1
+    ],
+    [
+      "znów żydem",
+      1
+    ]
+  ],
+  "poemWords": [
+    "teresie",
+    "byłem",
+    "jezusem",
+    "bratem",
+    "żydem",
+    "kupiłaś",
+    "ciało",
+    "śmierć",
+    "wezbraną",
+    "przeżyłaś",
+    "umiem",
+    "oczy",
+    "odmierzam",
+    "słuch",
+    "wysłuchuję",
+    "trzewia",
+    "wiersz",
+    "wiruje",
+    "kończy",
+    "ptakiem",
+    "nieśmiertelność",
+    "krótka",
+    "pewna",
+    "ostatni",
+    "chrystus",
+    "reszką",
+    "serca",
+    "księżycem",
+    "gwiazdą",
+    "zniekształcony",
+    "odległość",
+    "poślednim",
+    "zmysłem",
+    "orientującym",
+    "bieguny",
+    "iii",
+    "miłość",
+    "zlizuję",
+    "warg",
+    "wrzesień",
+    "1966"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 20,
+        "VERB": 7,
+        "ADJ": 7,
+        "ADV": 0,
+        "PRON": 3,
+        "ADP": 3,
+        "CCONJ": 4,
+        "SCONJ": 0,
+        "INTJ": 0,
+        "PART": 3,
+        "DET": 8,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.278,
+        "VERB": 0.097,
+        "ADJ": 0.097,
+        "ADV": 0,
+        "PRON": 0.042,
+        "ADP": 0.042,
+        "CCONJ": 0.056,
+        "SCONJ": 0,
+        "INTJ": 0,
+        "PART": 0.042,
+        "DET": 0.111,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 3,
+        "abstract": 2,
+        "ratio": 0.6
+      },
+      "verbTenses": {
+        "present": 11,
+        "past": 3,
+        "future": 2
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 7,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 0,
+        "opisowe": 7
+      },
+      "adverbs": {
+        "temporalne": [],
+        "modalne": [],
+        "sposobu": [],
+        "top": []
+      },
+      "pronouns": {
+        "ja": 0,
+        "ty": 1,
+        "on_ona": 1,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 0,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 0,
+        "percentSentences": 0
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 161,
+        "consonants": 239,
+        "ratio": 0.67
+      },
+      "consonantClusters": {
+        "count": 10,
+        "top": [
+          {
+            "cluster": "prz",
+            "count": 2
+          },
+          {
+            "cluster": "zbr",
+            "count": 1
+          },
+          {
+            "cluster": "trz",
+            "count": 1
+          },
+          {
+            "cluster": "rsz",
+            "count": 1
+          },
+          {
+            "cluster": "ńcz",
+            "count": 1
+          },
+          {
+            "cluster": "chr",
+            "count": 1
+          },
+          {
+            "cluster": "szk",
+            "count": 1
+          },
+          {
+            "cluster": "kszt",
+            "count": 1
+          },
+          {
+            "cluster": "wrz",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 14,
+        "syczace": 51,
+        "nosowe": 53,
+        "plynne": 35
+      },
+      "rhymes": {
+        "exact": 2,
+        "approximate": 2,
+        "internal": 1,
+        "assonance": 0,
+        "alliteration": 2
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 4.8,
+        "median": 4,
+        "min": 2,
+        "max": 10,
+        "distribution": [
+          0,
+          0,
+          4,
+          3,
+          1,
+          1,
+          2,
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 3.6,
+        "meanSyllables": 8,
+        "distribution": [
+          0,
+          4,
+          4,
+          1,
+          5,
+          3,
+          3,
+          1
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 15,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 3,
+        "noSubject": 7,
+        "noPredicate": 0,
+        "percent": 0.67
+      },
+      "enjambement": {
+        "count": 4,
+        "percent": 0.2,
+        "positions": [
+          2,
+          6,
+          16,
+          19
+        ]
+      },
+      "wordOrder": {
+        "svo": 3,
+        "inversions": 0,
+        "other": 12,
+        "deviationPercent": 0.8
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 3,
+        "śmierć": 1,
+        "erotyka": 1,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 1,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 167,
+      "estimatedSeconds": 56,
+      "tempoCategory": "wolne"
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Biblia",
+          "reference": "Jezus Chrystus",
+          "evidence": "Byłem Jezusem"
+        },
+        {
+          "source": "Biblia",
+          "reference": "żydowskie pochodzenie Chrystusa",
+          "evidence": "znów Żydem"
+        },
+        {
+          "source": "Biblia",
+          "reference": "odkupienie przez śmierć",
+          "evidence": "kupiłaś moje ciało i śmierć"
+        },
+        {
+          "source": "Biblia",
+          "reference": "ostatni sąd/paruzja",
+          "evidence": "Ostatni Chrystus"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.7,
+        "baudelaire": 0.3,
+        "bursa": 0.2,
+        "stachura": 0.4,
+        "grochowiak": 0.3,
+        "bialoszewski": 0.1,
+        "rozewicz": 0.2
+      }
+    },
+    "space": {
+      "type": "nieokreslona",
+      "evidence": "brak konkretnych wskazówek przestrzennych, dominuje przestrzeń wewnętrzna podmiotu",
+      "openClosedRatio": 0.5
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "jesien",
+      "evidence": "Wrzesień 1966 w dacie powstania wiersza"
+    },
+    "motion": {
+      "movement": 7,
+      "stillness": 3,
+      "dynamism": 0.7,
+      "evidence": "wiersz wiruje, zlizuję - dynamiczne czasowniki ruchu"
+    },
+    "imageryDensity": {
+      "metaphors": 6,
+      "comparisons": 2,
+      "personifications": 3,
+      "hyperboles": 2,
+      "per100words": 18.5
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.9,
+      "creationLevel": 0.8,
+      "ironicDistance": 0.1,
+      "autobiographicSignals": [
+        "dedykacja 'Teresie'",
+        "data osobista 'Wrzesień 1966'",
+        "intymne zwroty 'Twoich warg'",
+        "bezpośrednie wyznania 'Jestem'"
+      ]
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 20,
+      "VERB": 7,
+      "ADJ": 7,
+      "ADV": 0,
+      "PRON": 3,
+      "ADP": 3,
+      "CCONJ": 4,
+      "SCONJ": 0,
+      "INTJ": 0,
+      "PART": 3,
+      "DET": 8,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.278,
+      "VERB": 0.097,
+      "ADJ": 0.097,
+      "ADV": 0,
+      "PRON": 0.042,
+      "ADP": 0.042,
+      "CCONJ": 0.056,
+      "SCONJ": 0,
+      "INTJ": 0,
+      "PART": 0.042,
+      "DET": 0.111,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 3,
+      "abstract": 2,
+      "ratio": 0.6
+    },
+    "verbTenses": {
+      "present": 11,
+      "past": 3,
+      "future": 2
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 7,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 0,
+      "opisowe": 7
+    },
+    "adverbs": {
+      "temporalne": [],
+      "modalne": [],
+      "sposobu": [],
+      "top": []
+    },
+    "pronouns": {
+      "ja": 0,
+      "ty": 1,
+      "on_ona": 1,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 0,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 0,
+      "percentSentences": 0
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 4.8,
+      "median": 4,
+      "min": 2,
+      "max": 10,
+      "distribution": [
+        0,
+        0,
+        4,
+        3,
+        1,
+        1,
+        2,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 3.6,
+      "meanSyllables": 8,
+      "distribution": [
+        0,
+        4,
+        4,
+        1,
+        5,
+        3,
+        3,
+        1
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 15,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 3,
+      "noSubject": 7,
+      "noPredicate": 0,
+      "percent": 0.67
+    },
+    "enjambement": {
+      "count": 4,
+      "percent": 0.2,
+      "positions": [
+        2,
+        6,
+        16,
+        19
+      ]
+    },
+    "wordOrder": {
+      "svo": 3,
+      "inversions": 0,
+      "other": 12,
+      "deviationPercent": 0.8
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 161,
+      "consonants": 239,
+      "ratio": 0.67
+    },
+    "consonantClusters": {
+      "count": 10,
+      "top": [
+        {
+          "cluster": "prz",
+          "count": 2
+        },
+        {
+          "cluster": "zbr",
+          "count": 1
+        },
+        {
+          "cluster": "trz",
+          "count": 1
+        },
+        {
+          "cluster": "rsz",
+          "count": 1
+        },
+        {
+          "cluster": "ńcz",
+          "count": 1
+        },
+        {
+          "cluster": "chr",
+          "count": 1
+        },
+        {
+          "cluster": "szk",
+          "count": 1
+        },
+        {
+          "cluster": "kszt",
+          "count": 1
+        },
+        {
+          "cluster": "wrz",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 14,
+      "syczace": 51,
+      "nosowe": 53,
+      "plynne": 35
+    },
+    "rhymes": {
+      "exact": 2,
+      "approximate": 2,
+      "internal": 1,
+      "assonance": 0,
+      "alliteration": 2
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        21
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 167,
+      "estimatedSeconds": 56,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "polregularny",
+      "regularityScore": 0.47
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "melancholia",
+      "secondary": "tęsknota",
+      "intensity": 0.8
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "Wielokrotne użycie 'jestem', 'byłem', 'mój', 'moim' - podmiot liryczny bezpośrednio się prezentuje"
+    },
+    "addressee": {
+      "type": "ty",
+      "evidence": "Dedykacja 'Teresie', bezpośrednie zwroty 'Ty kupiłaś', 'Twoich warg'"
+    },
+    "metaphors": [
+      {
+        "source": "Chrystus/Żyd",
+        "target": "przemiana tożsamości",
+        "example": "Byłem Jezusem jestem Twoim bratem – znów Żydem"
+      },
+      {
+        "source": "ptak",
+        "target": "wiersz/poezja",
+        "example": "Mój wiersz wiruje i kończy się ptakiem"
+      },
+      {
+        "source": "księżyc/gwiazda",
+        "target": "Chrystus w sercu",
+        "example": "Ostatni Chrystus jest reszką mojego serca. Moim księżycem – gwiazdą"
+      }
+    ],
+    "temperature": {
+      "value": 0.6,
+      "label": "umiarkowanie ciepłe - intymność z nutą rezygnacji"
+    },
+    "senses": {
+      "wzrok": 3,
+      "sluch": 4,
+      "dotyk": 5,
+      "smak": 4,
+      "zapach": 1
+    },
+    "autodestruction": {
+      "level": 0.7,
+      "signals": [
+        "kupno ciała i śmierci",
+        "resztka serca",
+        "zniekształcenie przez odległość",
+        "pośledni zmysł"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 0.945,
+    "dfaAlpha": 1.904,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -1.1575038064963004
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -0.5501558506188216
+      },
+      {
+        "logWin": 1.6094379124341003,
+        "logFluc": -0.024945368367371497
+      },
+      {
+        "logWin": 1.791759469228055,
+        "logFluc": 0.10950623275553743
+      }
+    ],
+    "seriesLength": 20,
+    "series": [
+      1,
+      1,
+      5,
+      2,
+      6,
+      4,
+      1,
+      4,
+      4,
+      7,
+      6,
+      6,
+      3,
+      4,
+      5,
+      2,
+      1,
+      2,
+      4,
+      2
+    ]
+  }
+}

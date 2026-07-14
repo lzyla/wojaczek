@@ -1,0 +1,923 @@
+{
+  "id": "ostatnia-noc",
+  "title": "Ostatnia noc",
+  "wordCount": 76,
+  "lineCount": 12,
+  "uniqueWords": 67,
+  "vocabularyRichness": 0.882,
+  "avgWordsPerLine": 6.33,
+  "wordsPerLineDistribution": [
+    6,
+    6,
+    7,
+    5,
+    6,
+    6,
+    5,
+    9,
+    5,
+    6,
+    7,
+    8
+  ],
+  "wordFrequencies": [
+    [
+      "śmierć",
+      2
+    ],
+    [
+      "ciało",
+      1
+    ],
+    [
+      "białe",
+      1
+    ],
+    [
+      "leukemia",
+      1
+    ],
+    [
+      "mdły",
+      1
+    ],
+    [
+      "zapach",
+      1
+    ],
+    [
+      "śluzu",
+      1
+    ],
+    [
+      "pękniętego",
+      1
+    ],
+    [
+      "krocza",
+      1
+    ],
+    [
+      "stoi",
+      1
+    ],
+    [
+      "gwiazda",
+      1
+    ],
+    [
+      "najmłodsza",
+      1
+    ],
+    [
+      "szukam",
+      1
+    ],
+    [
+      "usprawiedliwienia",
+      1
+    ],
+    [
+      "chlebem",
+      1
+    ],
+    [
+      "najlepszym",
+      1
+    ],
+    [
+      "chleba",
+      1
+    ],
+    [
+      "solą",
+      1
+    ],
+    [
+      "masłem",
+      1
+    ],
+    [
+      "modlitwą",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 0,
+    "period": 0,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 4,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 1,
+  "negationWords": [
+    "nie"
+  ],
+  "pronounDistribution": {
+    "ja": 0,
+    "ty": 0,
+    "on_ona": 1,
+    "my": 1,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 1,
+    "smierc": 2,
+    "erotyka": 1,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [],
+  "firstWord": "jest",
+  "lastWord": "pocałunek",
+  "avgWordLength": 5.18,
+  "wordLengthDistribution": {
+    "4-5": 20,
+    "6-7": 15,
+    "1-3": 26,
+    "8-9": 8,
+    "10+": 7
+  },
+  "bigrams": [
+    [
+      "ciało białe",
+      1
+    ],
+    [
+      "leukemia mdły",
+      1
+    ],
+    [
+      "mdły zapach",
+      1
+    ],
+    [
+      "zapach śluzu",
+      1
+    ],
+    [
+      "pękniętego krocza",
+      1
+    ],
+    [
+      "nim stoi",
+      1
+    ]
+  ],
+  "poemWords": [
+    "ciało",
+    "białe",
+    "leukemia",
+    "mdły",
+    "zapach",
+    "śluzu",
+    "pękniętego",
+    "krocza",
+    "stoi",
+    "śmierć",
+    "gwiazda",
+    "najmłodsza",
+    "szukam",
+    "usprawiedliwienia",
+    "chlebem",
+    "najlepszym",
+    "chleba",
+    "solą",
+    "masłem",
+    "modlitwą",
+    "siebie",
+    "nazywam",
+    "przyczyną",
+    "słyszę",
+    "śpiewa",
+    "tobie",
+    "krzyczysz",
+    "piłem",
+    "najmocniejszą",
+    "wódkę",
+    "szczęśliwą",
+    "ślinę",
+    "lęk",
+    "zmieszany",
+    "cóż",
+    "przeznaczone",
+    "targuj",
+    "życie",
+    "pocałunek"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 20,
+        "VERB": 10,
+        "ADJ": 9,
+        "ADV": 7,
+        "PRON": 7,
+        "ADP": 8,
+        "CCONJ": 6,
+        "SCONJ": 3,
+        "INTJ": 0,
+        "PART": 5,
+        "DET": 0,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.256,
+        "VERB": 0.128,
+        "ADJ": 0.115,
+        "ADV": 0.09,
+        "PRON": 0.09,
+        "ADP": 0.103,
+        "CCONJ": 0.077,
+        "SCONJ": 0.038,
+        "INTJ": 0,
+        "PART": 0.064,
+        "DET": 0,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 4,
+        "abstract": 3,
+        "ratio": 0.57
+      },
+      "verbTenses": {
+        "present": 9,
+        "past": 2
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 1,
+        "stan": 3,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 1,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 1,
+        "oceniajace": 0,
+        "opisowe": 8
+      },
+      "adverbs": {
+        "temporalne": [
+          "potem",
+          "teraz"
+        ],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "teraz",
+            "count": 2
+          },
+          {
+            "word": "kiedy",
+            "count": 2
+          },
+          {
+            "word": "gdy",
+            "count": 1
+          },
+          {
+            "word": "potem",
+            "count": 1
+          },
+          {
+            "word": "tak",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 0,
+        "ty": 0,
+        "on_ona": 2,
+        "my": 1,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 1,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 1,
+        "percentSentences": 0.33
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 167,
+        "consonants": 238,
+        "ratio": 0.7
+      },
+      "consonantClusters": {
+        "count": 16,
+        "top": [
+          {
+            "cluster": "prz",
+            "count": 3
+          },
+          {
+            "cluster": "szcz",
+            "count": 2
+          },
+          {
+            "cluster": "chl",
+            "count": 2
+          },
+          {
+            "cluster": "mdł",
+            "count": 1
+          },
+          {
+            "cluster": "jmł",
+            "count": 1
+          },
+          {
+            "cluster": "dsz",
+            "count": 1
+          },
+          {
+            "cluster": "spr",
+            "count": 1
+          },
+          {
+            "cluster": "psz",
+            "count": 1
+          },
+          {
+            "cluster": "wsz",
+            "count": 1
+          },
+          {
+            "cluster": "stk",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 27,
+        "syczace": 38,
+        "nosowe": 52,
+        "plynne": 33
+      },
+      "rhymes": {
+        "exact": 0,
+        "approximate": 2,
+        "internal": 0,
+        "assonance": 0,
+        "alliteration": 0
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 26,
+        "median": 26,
+        "min": 15,
+        "max": 37,
+        "distribution": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 6,
+        "meanSyllables": 13.1,
+        "distribution": [
+          0,
+          0,
+          1,
+          0,
+          0,
+          3,
+          5,
+          2,
+          1,
+          1
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 3,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 0,
+        "noSubject": 2,
+        "noPredicate": 0,
+        "percent": 0.67
+      },
+      "enjambement": {
+        "count": 6,
+        "percent": 0.5,
+        "positions": [
+          3,
+          5,
+          7,
+          8,
+          9,
+          11
+        ]
+      },
+      "wordOrder": {
+        "svo": 1,
+        "inversions": 0,
+        "other": 2,
+        "deviationPercent": 0.67
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 2,
+        "śmierć": 2,
+        "erotyka": 1,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 1,
+        "ból": 0
+      },
+      "oppositionsFound": [
+        "życie/śmierć"
+      ]
+    },
+    "tempo": {
+      "syllables": 170,
+      "estimatedSeconds": 57,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 20,
+      "VERB": 10,
+      "ADJ": 9,
+      "ADV": 7,
+      "PRON": 7,
+      "ADP": 8,
+      "CCONJ": 6,
+      "SCONJ": 3,
+      "INTJ": 0,
+      "PART": 5,
+      "DET": 0,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.256,
+      "VERB": 0.128,
+      "ADJ": 0.115,
+      "ADV": 0.09,
+      "PRON": 0.09,
+      "ADP": 0.103,
+      "CCONJ": 0.077,
+      "SCONJ": 0.038,
+      "INTJ": 0,
+      "PART": 0.064,
+      "DET": 0,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 4,
+      "abstract": 3,
+      "ratio": 0.57
+    },
+    "verbTenses": {
+      "present": 9,
+      "past": 2
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 1,
+      "stan": 3,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 1,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 1,
+      "oceniajace": 0,
+      "opisowe": 8
+    },
+    "adverbs": {
+      "temporalne": [
+        "potem",
+        "teraz"
+      ],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "teraz",
+          "count": 2
+        },
+        {
+          "word": "kiedy",
+          "count": 2
+        },
+        {
+          "word": "gdy",
+          "count": 1
+        },
+        {
+          "word": "potem",
+          "count": 1
+        },
+        {
+          "word": "tak",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 0,
+      "ty": 0,
+      "on_ona": 2,
+      "my": 1,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 1,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 1,
+      "percentSentences": 0.33
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 26,
+      "median": 26,
+      "min": 15,
+      "max": 37,
+      "distribution": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 6,
+      "meanSyllables": 13.1,
+      "distribution": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        3,
+        5,
+        2,
+        1,
+        1
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 3,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 0,
+      "noSubject": 2,
+      "noPredicate": 0,
+      "percent": 0.67
+    },
+    "enjambement": {
+      "count": 6,
+      "percent": 0.5,
+      "positions": [
+        3,
+        5,
+        7,
+        8,
+        9,
+        11
+      ]
+    },
+    "wordOrder": {
+      "svo": 1,
+      "inversions": 0,
+      "other": 2,
+      "deviationPercent": 0.67
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 167,
+      "consonants": 238,
+      "ratio": 0.7
+    },
+    "consonantClusters": {
+      "count": 16,
+      "top": [
+        {
+          "cluster": "prz",
+          "count": 3
+        },
+        {
+          "cluster": "szcz",
+          "count": 2
+        },
+        {
+          "cluster": "chl",
+          "count": 2
+        },
+        {
+          "cluster": "mdł",
+          "count": 1
+        },
+        {
+          "cluster": "jmł",
+          "count": 1
+        },
+        {
+          "cluster": "dsz",
+          "count": 1
+        },
+        {
+          "cluster": "spr",
+          "count": 1
+        },
+        {
+          "cluster": "psz",
+          "count": 1
+        },
+        {
+          "cluster": "wsz",
+          "count": 1
+        },
+        {
+          "cluster": "stk",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 27,
+      "syczace": 38,
+      "nosowe": 52,
+      "plynne": 33
+    },
+    "rhymes": {
+      "exact": 0,
+      "approximate": 2,
+      "internal": 0,
+      "assonance": 0,
+      "alliteration": 0
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        13
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 170,
+      "estimatedSeconds": 57,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "regularny",
+      "regularityScore": 0.75
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Biblia",
+          "reference": "Chleb jako symbol eucharystyczny",
+          "evidence": "Bo było chlebem najlepszym i wszystkim / Do chleba: solą masłem i modlitwą"
+        },
+        {
+          "source": "Biblia",
+          "reference": "Przeznaczenie, fatalizm biblijny",
+          "evidence": "Lecz cóż: kiedy nam tak już przeznaczone"
+        },
+        {
+          "source": "mitologia",
+          "reference": "Śmierć jako gwiazda/bóstwo",
+          "evidence": "Gdy nad nim stoi śmierć: gwiazda najmłodsza"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.7,
+        "baudelaire": 0.8,
+        "bursa": 0.3,
+        "stachura": 0.4,
+        "grochowiak": 0.6,
+        "bialoszewski": 0.2,
+        "rozewicz": 0.3
+      }
+    },
+    "space": {
+      "type": "zamknieta",
+      "evidence": "Intymna przestrzeń ciała i śmierci, klaustrofobiczny charakter sceny",
+      "openClosedRatio": 0.2
+    },
+    "timeOfDay": {
+      "period": "noc",
+      "season": "nieokreslona",
+      "evidence": "Tytuł wiersza 'OSTATNIA NOC' bezpośrednio wskazuje na porę nocną"
+    },
+    "motion": {
+      "movement": 3,
+      "stillness": 7,
+      "dynamism": 0.3,
+      "evidence": "Dominuje statyczność - 'stoi śmierć', 'białe ciało', dynamika jedynie w 'krzyczysz', 'śpiewa'"
+    },
+    "imageryDensity": {
+      "metaphors": 4,
+      "comparisons": 2,
+      "personifications": 2,
+      "hyperboles": 1,
+      "per100words": 12.5
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.9,
+      "creationLevel": 0.3,
+      "ironicDistance": 0.1,
+      "autobiographicSignals": [
+        "siebie teraz nazywam przyczyną",
+        "piłem najmocniejszą wódkę",
+        "intymny ton zwierzeń"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "rozpacz",
+      "secondary": "tęsknota",
+      "intensity": 0.9
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "Teraz szukam dla niego usprawiedliwienia / I siebie teraz nazywam przyczyną"
+    },
+    "addressee": {
+      "type": "ty",
+      "evidence": "słyszę że śpiewa śmierć już w Tobie: krzyczysz"
+    },
+    "metaphors": [
+      {
+        "source": "ciało",
+        "target": "chleb",
+        "example": "było chlebem najlepszym i wszystkim"
+      },
+      {
+        "source": "śmierć",
+        "target": "gwiazda",
+        "example": "śmierć: gwiazda najmłodsza"
+      },
+      {
+        "source": "ciało",
+        "target": "choroba",
+        "example": "ciało białe jak leukemia"
+      }
+    ],
+    "temperature": {
+      "value": 0.7,
+      "label": "gorące - intensywne przeżycie śmierci i miłości"
+    },
+    "senses": {
+      "wzrok": 4,
+      "sluch": 3,
+      "dotyk": 5,
+      "smak": 4,
+      "zapach": 3
+    },
+    "autodestruction": {
+      "level": 0.8,
+      "signals": [
+        "identyfikacja z umierającym ciałem",
+        "picie najmocniejszej wódki",
+        "nazywanie siebie przyczyną",
+        "rezygnacja z walki o życie"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 0.464,
+    "dfaAlpha": 1.941,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -1.0397207708399177
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -0.48140471670548546
+      }
+    ],
+    "seriesLength": 12,
+    "series": [
+      6,
+      6,
+      7,
+      5,
+      6,
+      6,
+      5,
+      9,
+      5,
+      6,
+      7,
+      8
+    ]
+  }
+}

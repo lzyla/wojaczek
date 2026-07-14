@@ -1,0 +1,948 @@
+{
+  "id": "komentarz-do-pewnej-fotografii",
+  "title": "Komentarz do pewnej fotografii",
+  "wordCount": 78,
+  "lineCount": 14,
+  "uniqueWords": 76,
+  "vocabularyRichness": 0.974,
+  "avgWordsPerLine": 5.57,
+  "wordsPerLineDistribution": [
+    6,
+    5,
+    4,
+    6,
+    4,
+    4,
+    4,
+    5,
+    5,
+    7,
+    5,
+    8,
+    9,
+    6
+  ],
+  "wordFrequencies": [
+    [
+      "dobrze",
+      1
+    ],
+    [
+      "odżywiona",
+      1
+    ],
+    [
+      "sok",
+      1
+    ],
+    [
+      "pomarańczowy",
+      1
+    ],
+    [
+      "corne",
+      1
+    ],
+    [
+      "boeuf",
+      1
+    ],
+    [
+      "racja",
+      1
+    ],
+    [
+      "whisky",
+      1
+    ],
+    [
+      "czekolada",
+      1
+    ],
+    [
+      "biały",
+      1
+    ],
+    [
+      "chleb",
+      1
+    ],
+    [
+      "odpowiednio",
+      1
+    ],
+    [
+      "ubrana",
+      1
+    ],
+    [
+      "pierwszorzędna",
+      1
+    ],
+    [
+      "jakość",
+      1
+    ],
+    [
+      "tkanin",
+      1
+    ],
+    [
+      "specjalna",
+      1
+    ],
+    [
+      "bielizna",
+      1
+    ],
+    [
+      "hełm",
+      1
+    ],
+    [
+      "przeciw",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 1,
+    "period": 0,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 1,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 0,
+  "negationWords": [],
+  "pronounDistribution": {
+    "ja": 0,
+    "ty": 0,
+    "on_ona": 0,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 0,
+    "smierc": 1,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [],
+  "firstWord": "dobrze",
+  "lastWord": "chłopca",
+  "avgWordLength": 7.15,
+  "wordLengthDistribution": {
+    "6-7": 19,
+    "8-9": 17,
+    "1-3": 8,
+    "10+": 17,
+    "4-5": 17
+  },
+  "bigrams": [
+    [
+      "dobrze odżywiona",
+      1
+    ],
+    [
+      "odżywiona sok",
+      1
+    ],
+    [
+      "sok pomarańczowy",
+      1
+    ],
+    [
+      "pomarańczowy corne",
+      1
+    ],
+    [
+      "corne boeuf",
+      1
+    ],
+    [
+      "boeuf racja",
+      1
+    ],
+    [
+      "racja whisky",
+      1
+    ],
+    [
+      "whisky czekolada",
+      1
+    ],
+    [
+      "czekolada biały",
+      1
+    ],
+    [
+      "biały chleb",
+      1
+    ],
+    [
+      "chleb odpowiednio",
+      1
+    ],
+    [
+      "odpowiednio ubrana",
+      1
+    ],
+    [
+      "ubrana pierwszorzędna",
+      1
+    ],
+    [
+      "pierwszorzędna jakość",
+      1
+    ],
+    [
+      "jakość tkanin",
+      1
+    ]
+  ],
+  "poemWords": [
+    "dobrze",
+    "odżywiona",
+    "sok",
+    "pomarańczowy",
+    "corne",
+    "boeuf",
+    "racja",
+    "whisky",
+    "czekolada",
+    "biały",
+    "chleb",
+    "odpowiednio",
+    "ubrana",
+    "pierwszorzędna",
+    "jakość",
+    "tkanin",
+    "specjalna",
+    "bielizna",
+    "hełm",
+    "przeciw",
+    "odłamkom",
+    "znakomicie",
+    "wyposażona",
+    "broń",
+    "automatyczna",
+    "superfortece",
+    "czołgi",
+    "napalm",
+    "bakteriologiczna",
+    "jasnowidząca",
+    "dzięki",
+    "radarowi",
+    "czujnikom",
+    "podczerwieni",
+    "posługująca",
+    "japońską",
+    "optyką",
+    "świetnie",
+    "wyszkolona",
+    "podług",
+    "najlepszych",
+    "wzorów",
+    "wziętych",
+    "historii",
+    "auschwitz",
+    "majdanek",
+    "gross",
+    "rosen",
+    "mająca",
+    "zapewnioną",
+    "szybką",
+    "pomoc",
+    "lekarską",
+    "wsparcie",
+    "wody",
+    "powietrza",
+    "seato",
+    "żyjąca",
+    "koszt",
+    "podatnika",
+    "ostatniego",
+    "murzyna",
+    "włocha",
+    "śmierć",
+    "czternastoletniego",
+    "wietnamskiego",
+    "chłopca"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 30,
+        "VERB": 0,
+        "ADJ": 26,
+        "ADV": 5,
+        "PRON": 1,
+        "ADP": 8,
+        "CCONJ": 2,
+        "SCONJ": 0,
+        "INTJ": 0,
+        "PART": 1,
+        "DET": 1,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.361,
+        "VERB": 0,
+        "ADJ": 0.313,
+        "ADV": 0.06,
+        "PRON": 0.012,
+        "ADP": 0.096,
+        "CCONJ": 0.024,
+        "SCONJ": 0,
+        "INTJ": 0,
+        "PART": 0.012,
+        "DET": 0.012,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 2,
+        "abstract": 1,
+        "ratio": 0.67
+      },
+      "verbTenses": {
+        "present": 1
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 1,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 1,
+        "oceniajace": 1,
+        "opisowe": 24
+      },
+      "adverbs": {
+        "temporalne": [],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "dobrze",
+            "count": 1
+          },
+          {
+            "word": "odpowiednio",
+            "count": 1
+          },
+          {
+            "word": "znakomicie",
+            "count": 1
+          },
+          {
+            "word": "świetnie",
+            "count": 1
+          },
+          {
+            "word": "oraz",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 0,
+        "ty": 0,
+        "on_ona": 0,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 0,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 0,
+        "percentSentences": 0
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 241,
+        "consonants": 344,
+        "ratio": 0.7
+      },
+      "consonantClusters": {
+        "count": 19,
+        "top": [
+          {
+            "cluster": "czn",
+            "count": 2
+          },
+          {
+            "cluster": "brz",
+            "count": 1
+          },
+          {
+            "cluster": "ńcz",
+            "count": 1
+          },
+          {
+            "cluster": "chl",
+            "count": 1
+          },
+          {
+            "cluster": "rwsz",
+            "count": 1
+          },
+          {
+            "cluster": "prz",
+            "count": 1
+          },
+          {
+            "cluster": "dcz",
+            "count": 1
+          },
+          {
+            "cluster": "ńsk",
+            "count": 1
+          },
+          {
+            "cluster": "szk",
+            "count": 1
+          },
+          {
+            "cluster": "psz",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 24,
+        "syczace": 55,
+        "nosowe": 65,
+        "plynne": 46
+      },
+      "rhymes": {
+        "exact": 2,
+        "approximate": 1,
+        "internal": 1,
+        "assonance": 0,
+        "alliteration": 0
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 11.9,
+        "median": 10,
+        "min": 1,
+        "max": 30,
+        "distribution": [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          1,
+          2,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 5.2,
+        "meanSyllables": 15.3,
+        "distribution": [
+          0,
+          1,
+          0,
+          0,
+          5,
+          4,
+          3,
+          1,
+          1,
+          1
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 7,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 5,
+        "noSubject": 0,
+        "noPredicate": 1,
+        "percent": 0.86
+      },
+      "enjambement": {
+        "count": 0,
+        "percent": 0,
+        "positions": []
+      },
+      "wordOrder": {
+        "svo": 0,
+        "inversions": 0,
+        "other": 6,
+        "deviationPercent": 1
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 0,
+        "śmierć": 1,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 245,
+      "estimatedSeconds": 82,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 30,
+      "VERB": 0,
+      "ADJ": 26,
+      "ADV": 5,
+      "PRON": 1,
+      "ADP": 8,
+      "CCONJ": 2,
+      "SCONJ": 0,
+      "INTJ": 0,
+      "PART": 1,
+      "DET": 1,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.361,
+      "VERB": 0,
+      "ADJ": 0.313,
+      "ADV": 0.06,
+      "PRON": 0.012,
+      "ADP": 0.096,
+      "CCONJ": 0.024,
+      "SCONJ": 0,
+      "INTJ": 0,
+      "PART": 0.012,
+      "DET": 0.012,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 2,
+      "abstract": 1,
+      "ratio": 0.67
+    },
+    "verbTenses": {
+      "present": 1
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 1,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 1,
+      "oceniajace": 1,
+      "opisowe": 24
+    },
+    "adverbs": {
+      "temporalne": [],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "dobrze",
+          "count": 1
+        },
+        {
+          "word": "odpowiednio",
+          "count": 1
+        },
+        {
+          "word": "znakomicie",
+          "count": 1
+        },
+        {
+          "word": "świetnie",
+          "count": 1
+        },
+        {
+          "word": "oraz",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 0,
+      "ty": 0,
+      "on_ona": 0,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 0,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 0,
+      "percentSentences": 0
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 11.9,
+      "median": 10,
+      "min": 1,
+      "max": 30,
+      "distribution": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 5.2,
+      "meanSyllables": 15.3,
+      "distribution": [
+        0,
+        1,
+        0,
+        0,
+        5,
+        4,
+        3,
+        1,
+        1,
+        1
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 7,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 5,
+      "noSubject": 0,
+      "noPredicate": 1,
+      "percent": 0.86
+    },
+    "enjambement": {
+      "count": 0,
+      "percent": 0,
+      "positions": []
+    },
+    "wordOrder": {
+      "svo": 0,
+      "inversions": 0,
+      "other": 6,
+      "deviationPercent": 1
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 241,
+      "consonants": 344,
+      "ratio": 0.7
+    },
+    "consonantClusters": {
+      "count": 19,
+      "top": [
+        {
+          "cluster": "czn",
+          "count": 2
+        },
+        {
+          "cluster": "brz",
+          "count": 1
+        },
+        {
+          "cluster": "ńcz",
+          "count": 1
+        },
+        {
+          "cluster": "chl",
+          "count": 1
+        },
+        {
+          "cluster": "rwsz",
+          "count": 1
+        },
+        {
+          "cluster": "prz",
+          "count": 1
+        },
+        {
+          "cluster": "dcz",
+          "count": 1
+        },
+        {
+          "cluster": "ńsk",
+          "count": 1
+        },
+        {
+          "cluster": "szk",
+          "count": 1
+        },
+        {
+          "cluster": "psz",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 24,
+      "syczace": 55,
+      "nosowe": 65,
+      "plynne": 46
+    },
+    "rhymes": {
+      "exact": 2,
+      "approximate": 1,
+      "internal": 1,
+      "assonance": 0,
+      "alliteration": 0
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        16
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 245,
+      "estimatedSeconds": 82,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "polregularny",
+      "regularityScore": 0.7
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "inne",
+          "reference": "Auschwitz Majdanek Gross Rosen",
+          "evidence": "bezpośrednie wymienienie nazw obozów koncentracyjnych jako wzorców szkolenia"
+        },
+        {
+          "source": "inne",
+          "reference": "SEATO",
+          "evidence": "odniesienie do sojuszu wojskowego Azji Południowo-Wschodniej"
+        },
+        {
+          "source": "inne",
+          "reference": "wojna w Wietnamie",
+          "evidence": "kontekst historyczny z 1970 roku, napalm, czternastoletni wietnamski chłopiec"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.3,
+        "baudelaire": 0.2,
+        "bursa": 0.1,
+        "stachura": 0.1,
+        "grochowiak": 0.1,
+        "bialoszewski": 0.2,
+        "rozewicz": 0.8
+      }
+    },
+    "space": {
+      "type": "otwarta",
+      "evidence": "przestrzeń globalna - od konsumpcji po pola bitewne, od Ameryki po Wietnam",
+      "openClosedRatio": 0.9
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "nieokreslona",
+      "evidence": "brak wskazówek temporalnych dotyczących pory dnia czy roku"
+    },
+    "motion": {
+      "movement": 0,
+      "stillness": 9,
+      "dynamism": 0.1,
+      "evidence": "statyczny opis fotografii, wyliczenie bez czasowników ruchu"
+    },
+    "imageryDensity": {
+      "metaphors": 1,
+      "comparisons": 0,
+      "personifications": 2,
+      "hyperboles": 0,
+      "per100words": 3.8
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.9,
+      "creationLevel": 0.2,
+      "ironicDistance": 0.8,
+      "autobiographicSignals": [
+        "komentarz do fotografii",
+        "data 1970",
+        "bezpośredni ton oskarżenia"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "obrzydzenie",
+      "secondary": "gniew",
+      "intensity": 0.9
+    },
+    "subjectPresence": {
+      "type": "ukryte",
+      "evidence": "Podmiot ukryty za wyliczeniem, ale obecny w ironicznym komentarzu do fotografii"
+    },
+    "addressee": {
+      "type": "czytelnik",
+      "evidence": "Tytuł 'KOMENTARZ' sugeruje zwrot do odbiorcy, przekaz społeczny"
+    },
+    "metaphors": [
+      {
+        "source": "śmierć",
+        "target": "konsument dóbr",
+        "example": "śmierć jest 'dobrze odżywiona', 'odpowiednio ubrana', 'znakomicie wyposażona'"
+      },
+      {
+        "source": "wojna",
+        "target": "przemysł konsumpcyjny",
+        "example": "zestawienie 'sok pomarańczowy' z 'hełm przeciw odłamkom'"
+      },
+      {
+        "source": "obozy zagłady",
+        "target": "wzorce szkolenia",
+        "example": "wzorów / Wziętych z historii: Auschwitz Majdanek Gross Rosen"
+      }
+    ],
+    "temperature": {
+      "value": 0.8,
+      "label": "gorące - kontrolowany gniew i oburzenie"
+    },
+    "senses": {
+      "wzrok": 5,
+      "sluch": 0,
+      "dotyk": 2,
+      "smak": 3,
+      "zapach": 0
+    },
+    "autodestruction": {
+      "level": 0.1,
+      "signals": [
+        "pośrednie - przez krytykę systemu niszczącego jednostkę"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 0.624,
+    "dfaAlpha": 2.129,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -1.44518587894808
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -0.8327436120509678
+      }
+    ],
+    "seriesLength": 14,
+    "series": [
+      6,
+      5,
+      4,
+      6,
+      4,
+      4,
+      4,
+      5,
+      5,
+      7,
+      5,
+      8,
+      9,
+      6
+    ]
+  }
+}

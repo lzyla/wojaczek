@@ -1,0 +1,902 @@
+{
+  "id": "piosenka-bohaterow-viii",
+  "title": "Piosenka bohaterów VIII",
+  "wordCount": 96,
+  "lineCount": 14,
+  "uniqueWords": 83,
+  "vocabularyRichness": 0.865,
+  "avgWordsPerLine": 6.86,
+  "wordsPerLineDistribution": [
+    9,
+    7,
+    6,
+    8,
+    6,
+    7,
+    8,
+    6,
+    7,
+    6,
+    6,
+    8,
+    6,
+    6
+  ],
+  "wordFrequencies": [
+    [
+      "będą",
+      2
+    ],
+    [
+      "zadbać",
+      1
+    ],
+    [
+      "wierni",
+      1
+    ],
+    [
+      "nienawiści",
+      1
+    ],
+    [
+      "dnie",
+      1
+    ],
+    [
+      "krwi",
+      1
+    ],
+    [
+      "mieszkając",
+      1
+    ],
+    [
+      "miłość",
+      1
+    ],
+    [
+      "zarazem",
+      1
+    ],
+    [
+      "śni",
+      1
+    ],
+    [
+      "dbamy",
+      1
+    ],
+    [
+      "gdzieś",
+      1
+    ],
+    [
+      "takie",
+      1
+    ],
+    [
+      "kobiety",
+      1
+    ],
+    [
+      "matki",
+      1
+    ],
+    [
+      "polki",
+      1
+    ],
+    [
+      "panny",
+      1
+    ],
+    [
+      "nauczycielki",
+      1
+    ],
+    [
+      "ciepłej",
+      1
+    ],
+    [
+      "zagrodzie",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 13,
+    "period": 0,
+    "question": 6,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 1,
+    "semicolon": 0
+  },
+  "questionCount": 6,
+  "exclamationCount": 0,
+  "negationCount": 4,
+  "negationWords": [
+    "nic",
+    "nie"
+  ],
+  "pronounDistribution": {
+    "ja": 0,
+    "ty": 0,
+    "on_ona": 0,
+    "my": 2,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 1,
+    "smierc": 1,
+    "erotyka": 1,
+    "alkohol": 1,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [
+    [
+      "które",
+      4
+    ],
+    [
+      "tylko",
+      2
+    ]
+  ],
+  "firstWord": "kto",
+  "lastWord": "ojczyzny",
+  "avgWordLength": 4.96,
+  "wordLengthDistribution": {
+    "1-3": 27,
+    "6-7": 24,
+    "4-5": 34,
+    "10+": 3,
+    "8-9": 8
+  },
+  "bigrams": [
+    [
+      "może zadbać",
+      1
+    ]
+  ],
+  "poemWords": [
+    "zadbać",
+    "wierni",
+    "nienawiści",
+    "dnie",
+    "krwi",
+    "mieszkając",
+    "miłość",
+    "zarazem",
+    "śni",
+    "dbamy",
+    "gdzieś",
+    "takie",
+    "kobiety",
+    "matki",
+    "polki",
+    "panny",
+    "nauczycielki",
+    "ciepłej",
+    "zagrodzie",
+    "kuchni",
+    "dadzą",
+    "pić",
+    "czułą",
+    "gąbką",
+    "zetrą",
+    "krew",
+    "rozbitej",
+    "brwi",
+    "czasem",
+    "nakarmią",
+    "mądrym",
+    "ściegiem",
+    "zszyją",
+    "rękaw",
+    "koszuli",
+    "będą",
+    "drwić",
+    "zechcemy",
+    "zwierzyć",
+    "najnowsze",
+    "winy",
+    "kosmos",
+    "uciszą",
+    "jednym",
+    "słowem",
+    "śpij”",
+    "żądać",
+    "zamian",
+    "nic",
+    "milcząc",
+    "pozwolą",
+    "iść",
+    "szukać",
+    "policji",
+    "pałką",
+    "nauczy",
+    "miłości",
+    "ojczyzny"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 26,
+        "VERB": 20,
+        "ADJ": 10,
+        "ADV": 3,
+        "PRON": 7,
+        "ADP": 5,
+        "CCONJ": 3,
+        "SCONJ": 1,
+        "INTJ": 0,
+        "PART": 9,
+        "DET": 10,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.263,
+        "VERB": 0.202,
+        "ADJ": 0.101,
+        "ADV": 0.03,
+        "PRON": 0.071,
+        "ADP": 0.051,
+        "CCONJ": 0.03,
+        "SCONJ": 0.01,
+        "INTJ": 0,
+        "PART": 0.091,
+        "DET": 0.101,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 2,
+        "abstract": 3,
+        "ratio": 0.4
+      },
+      "verbTenses": {
+        "present": 6,
+        "infinitive": 7,
+        "future": 7,
+        "past": 1,
+        "imperative": 1
+      },
+      "verbSemantics": {
+        "ruch": 1,
+        "percepcja": 0,
+        "stan": 4,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 1
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 1,
+        "oceniajace": 0,
+        "opisowe": 9
+      },
+      "adverbs": {
+        "temporalne": [],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "gdy",
+            "count": 1
+          },
+          {
+            "word": "gdzieś",
+            "count": 1
+          },
+          {
+            "word": "kiedy",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 0,
+        "ty": 0,
+        "on_ona": 0,
+        "my": 2,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 3,
+        "nic": 1,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 4,
+        "percentSentences": 0.8
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 207,
+        "consonants": 289,
+        "ratio": 0.72
+      },
+      "consonantClusters": {
+        "count": 12,
+        "top": [
+          {
+            "cluster": "szcz",
+            "count": 1
+          },
+          {
+            "cluster": "krw",
+            "count": 1
+          },
+          {
+            "cluster": "szk",
+            "count": 1
+          },
+          {
+            "cluster": "gdz",
+            "count": 1
+          },
+          {
+            "cluster": "chn",
+            "count": 1
+          },
+          {
+            "cluster": "brw",
+            "count": 1
+          },
+          {
+            "cluster": "zsz",
+            "count": 1
+          },
+          {
+            "cluster": "drw",
+            "count": 1
+          },
+          {
+            "cluster": "chc",
+            "count": 1
+          },
+          {
+            "cluster": "wsz",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 20,
+        "syczace": 54,
+        "nosowe": 65,
+        "plynne": 34
+      },
+      "rhymes": {
+        "exact": 0,
+        "approximate": 3,
+        "internal": 1,
+        "assonance": 1,
+        "alliteration": 3
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 19.8,
+        "median": 20,
+        "min": 6,
+        "max": 29,
+        "distribution": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 6.6,
+        "meanSyllables": 14,
+        "distribution": [
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          7,
+          3,
+          3,
+          1
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 0,
+        "interrogative": 5,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 0,
+        "noSubject": 2,
+        "noPredicate": 0,
+        "percent": 0.4
+      },
+      "enjambement": {
+        "count": 5,
+        "percent": 0.36,
+        "positions": [
+          2,
+          3,
+          7,
+          9,
+          14
+        ]
+      },
+      "wordOrder": {
+        "svo": 2,
+        "inversions": 1,
+        "other": 2,
+        "deviationPercent": 0.6
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 1,
+        "śmierć": 1,
+        "erotyka": 1,
+        "alkohol": 1,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": [
+        "miłość/nienawiść"
+      ]
+    },
+    "tempo": {
+      "syllables": 210,
+      "estimatedSeconds": 70,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 26,
+      "VERB": 20,
+      "ADJ": 10,
+      "ADV": 3,
+      "PRON": 7,
+      "ADP": 5,
+      "CCONJ": 3,
+      "SCONJ": 1,
+      "INTJ": 0,
+      "PART": 9,
+      "DET": 10,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.263,
+      "VERB": 0.202,
+      "ADJ": 0.101,
+      "ADV": 0.03,
+      "PRON": 0.071,
+      "ADP": 0.051,
+      "CCONJ": 0.03,
+      "SCONJ": 0.01,
+      "INTJ": 0,
+      "PART": 0.091,
+      "DET": 0.101,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 2,
+      "abstract": 3,
+      "ratio": 0.4
+    },
+    "verbTenses": {
+      "present": 6,
+      "infinitive": 7,
+      "future": 7,
+      "past": 1,
+      "imperative": 1
+    },
+    "verbSemantics": {
+      "ruch": 1,
+      "percepcja": 0,
+      "stan": 4,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 1
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 1,
+      "oceniajace": 0,
+      "opisowe": 9
+    },
+    "adverbs": {
+      "temporalne": [],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "gdy",
+          "count": 1
+        },
+        {
+          "word": "gdzieś",
+          "count": 1
+        },
+        {
+          "word": "kiedy",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 0,
+      "ty": 0,
+      "on_ona": 0,
+      "my": 2,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 3,
+      "nic": 1,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 4,
+      "percentSentences": 0.8
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 19.8,
+      "median": 20,
+      "min": 6,
+      "max": 29,
+      "distribution": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 6.6,
+      "meanSyllables": 14,
+      "distribution": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        7,
+        3,
+        3,
+        1
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 0,
+      "interrogative": 5,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 0,
+      "noSubject": 2,
+      "noPredicate": 0,
+      "percent": 0.4
+    },
+    "enjambement": {
+      "count": 5,
+      "percent": 0.36,
+      "positions": [
+        2,
+        3,
+        7,
+        9,
+        14
+      ]
+    },
+    "wordOrder": {
+      "svo": 2,
+      "inversions": 1,
+      "other": 2,
+      "deviationPercent": 0.6
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 207,
+      "consonants": 289,
+      "ratio": 0.72
+    },
+    "consonantClusters": {
+      "count": 12,
+      "top": [
+        {
+          "cluster": "szcz",
+          "count": 1
+        },
+        {
+          "cluster": "krw",
+          "count": 1
+        },
+        {
+          "cluster": "szk",
+          "count": 1
+        },
+        {
+          "cluster": "gdz",
+          "count": 1
+        },
+        {
+          "cluster": "chn",
+          "count": 1
+        },
+        {
+          "cluster": "brw",
+          "count": 1
+        },
+        {
+          "cluster": "zsz",
+          "count": 1
+        },
+        {
+          "cluster": "drw",
+          "count": 1
+        },
+        {
+          "cluster": "chc",
+          "count": 1
+        },
+        {
+          "cluster": "wsz",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 20,
+      "syczace": 54,
+      "nosowe": 65,
+      "plynne": 34
+    },
+    "rhymes": {
+      "exact": 0,
+      "approximate": 3,
+      "internal": 1,
+      "assonance": 1,
+      "alliteration": 3
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        15
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 210,
+      "estimatedSeconds": 70,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "regularny",
+      "regularityScore": 0.89
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Biblia",
+          "reference": "motyw matki karmiącej i opiekującej się",
+          "evidence": "matki, które czasem nakarmią"
+        },
+        {
+          "source": "mitologia",
+          "reference": "archetyp Wielkiej Matki",
+          "evidence": "matki, Polki, czy panny, czy nauczycielki"
+        },
+        {
+          "source": "inne",
+          "reference": "tradycja patriotyczna",
+          "evidence": "Miłości Ojczyzny"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.3,
+        "baudelaire": 0.2,
+        "bursa": 0.7,
+        "stachura": 0.4,
+        "grochowiak": 0.5,
+        "bialoszewski": 0.1,
+        "rozewicz": 0.6
+      }
+    },
+    "space": {
+      "type": "zamknieta",
+      "evidence": "ciepła zagroda kuchni jako miejsce schronienia",
+      "openClosedRatio": 0.2
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "nieokreslona",
+      "evidence": "brak wyraźnych wskaźników temporalnych"
+    },
+    "motion": {
+      "movement": 6,
+      "stillness": 4,
+      "dynamism": 0.6,
+      "evidence": "pozwolą iść, szukać policji - ruch w kierunku konfrontacji"
+    },
+    "imageryDensity": {
+      "metaphors": 4,
+      "comparisons": 2,
+      "personifications": 3,
+      "hyperboles": 2,
+      "per100words": 9.5
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.8,
+      "creationLevel": 0.3,
+      "ironicDistance": 0.4,
+      "autobiographicSignals": [
+        "my, wierni",
+        "swe najnowsze winy",
+        "ton osobistego zwierzenia"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "tęsknota",
+      "secondary": "rezygnacja",
+      "intensity": 0.8
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "podmiot zbiorowy 'my' - bohaterowie, którzy nie dbają o siebie"
+    },
+    "addressee": {
+      "type": "nikt",
+      "evidence": "pytania retoryczne skierowane w próżnię, bez konkretnego adresata"
+    },
+    "metaphors": [
+      {
+        "source": "nienawiść na dnie krwi",
+        "target": "wewnętrzny konflikt",
+        "example": "nienawiści, która na dnie krwi mieszkając jako miłość zarazem się śni"
+      },
+      {
+        "source": "ciepła zagroda kuchni",
+        "target": "bezpieczne schronienie",
+        "example": "w ciepłej zagrodzie kuchni dadzą pić"
+      },
+      {
+        "source": "pałka policji",
+        "target": "przemoc władzy",
+        "example": "pałką nauczy Miłości Ojczyzny"
+      }
+    ],
+    "temperature": {
+      "value": 0.3,
+      "label": "chłodna rezygnacja z nutą tęsknoty"
+    },
+    "senses": {
+      "wzrok": 3,
+      "sluch": 1,
+      "dotyk": 4,
+      "smak": 2,
+      "zapach": 1
+    },
+    "autodestruction": {
+      "level": 0.7,
+      "signals": [
+        "nie dbamy o siebie",
+        "szukać policji",
+        "rozbitej brwi",
+        "najnowsze winy"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 0.55,
+    "dfaAlpha": 1.56,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -1.2220423276338725
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -0.7733580361189819
+      }
+    ],
+    "seriesLength": 14,
+    "series": [
+      9,
+      7,
+      6,
+      8,
+      6,
+      7,
+      8,
+      6,
+      7,
+      6,
+      6,
+      8,
+      6,
+      6
+    ]
+  }
+}

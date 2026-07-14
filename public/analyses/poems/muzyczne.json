@@ -1,0 +1,851 @@
+{
+  "id": "muzyczne",
+  "title": "Muzyczne",
+  "wordCount": 65,
+  "lineCount": 14,
+  "uniqueWords": 60,
+  "vocabularyRichness": 0.923,
+  "avgWordsPerLine": 4.64,
+  "wordsPerLineDistribution": [
+    6,
+    5,
+    5,
+    4,
+    3,
+    4,
+    6,
+    5,
+    3,
+    4,
+    5,
+    6,
+    5,
+    4
+  ],
+  "wordFrequencies": [
+    [
+      "inaczej",
+      1
+    ],
+    [
+      "wywieść",
+      1
+    ],
+    [
+      "lasu",
+      1
+    ],
+    [
+      "wybacz",
+      1
+    ],
+    [
+      "musiałem",
+      1
+    ],
+    [
+      "zbudzić",
+      1
+    ],
+    [
+      "tobie",
+      1
+    ],
+    [
+      "muzykę",
+      1
+    ],
+    [
+      "niema",
+      1
+    ],
+    [
+      "potrąciła",
+      1
+    ],
+    [
+      "liść",
+      1
+    ],
+    [
+      "widzialnie",
+      1
+    ],
+    [
+      "spadła",
+      1
+    ],
+    [
+      "jagoda",
+      1
+    ],
+    [
+      "jarzębiny",
+      1
+    ],
+    [
+      "igłach",
+      1
+    ],
+    [
+      "sosen",
+      1
+    ],
+    [
+      "zaiskrzyła",
+      1
+    ],
+    [
+      "wiedzące",
+      1
+    ],
+    [
+      "sennie",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 0,
+    "period": 0,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 0,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 1,
+  "negationWords": [
+    "nie"
+  ],
+  "pronounDistribution": {
+    "ja": 0,
+    "ty": 0,
+    "on_ona": 1,
+    "my": 2,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 0,
+    "smierc": 0,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [
+    [
+      "już",
+      2
+    ]
+  ],
+  "firstWord": "jak",
+  "lastWord": "domowe",
+  "avgWordLength": 5.29,
+  "wordLengthDistribution": {
+    "1-3": 21,
+    "6-7": 18,
+    "4-5": 13,
+    "8-9": 9,
+    "10+": 4
+  },
+  "bigrams": [
+    [
+      "inaczej wywieść",
+      1
+    ],
+    [
+      "lasu wybacz",
+      1
+    ],
+    [
+      "wybacz musiałem",
+      1
+    ],
+    [
+      "musiałem zbudzić",
+      1
+    ],
+    [
+      "tobie muzykę",
+      1
+    ],
+    [
+      "muzykę chociaż",
+      1
+    ],
+    [
+      "chociaż dla",
+      1
+    ]
+  ],
+  "poemWords": [
+    "inaczej",
+    "wywieść",
+    "lasu",
+    "wybacz",
+    "musiałem",
+    "zbudzić",
+    "tobie",
+    "muzykę",
+    "niema",
+    "potrąciła",
+    "liść",
+    "widzialnie",
+    "spadła",
+    "jagoda",
+    "jarzębiny",
+    "igłach",
+    "sosen",
+    "zaiskrzyła",
+    "wiedzące",
+    "sennie",
+    "snujące",
+    "duktach",
+    "zwierzęta",
+    "zabolała",
+    "płonącą",
+    "obręcz",
+    "twego",
+    "wianka",
+    "przeskoczyłem",
+    "oślep",
+    "bólem",
+    "idąc",
+    "przyszły",
+    "wianek",
+    "pierścień",
+    "daję",
+    "cyfrę",
+    "wypal",
+    "przyjmując",
+    "domowe"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 15,
+        "VERB": 14,
+        "ADJ": 6,
+        "ADV": 5,
+        "PRON": 5,
+        "ADP": 10,
+        "CCONJ": 0,
+        "SCONJ": 3,
+        "INTJ": 0,
+        "PART": 5,
+        "DET": 0,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.227,
+        "VERB": 0.212,
+        "ADJ": 0.091,
+        "ADV": 0.076,
+        "PRON": 0.076,
+        "ADP": 0.152,
+        "CCONJ": 0,
+        "SCONJ": 0.045,
+        "INTJ": 0,
+        "PART": 0.076,
+        "DET": 0,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 0,
+        "abstract": 1,
+        "ratio": 0
+      },
+      "verbTenses": {
+        "present": 5,
+        "infinitive": 2,
+        "imperative": 1,
+        "past": 7
+      },
+      "verbSemantics": {
+        "ruch": 1,
+        "percepcja": 0,
+        "stan": 1,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 0,
+        "opisowe": 6
+      },
+      "adverbs": {
+        "temporalne": [],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "jak",
+            "count": 1
+          },
+          {
+            "word": "inaczej",
+            "count": 1
+          },
+          {
+            "word": "widzialnie",
+            "count": 1
+          },
+          {
+            "word": "sennie",
+            "count": 1
+          },
+          {
+            "word": "gdy",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 0,
+        "ty": 1,
+        "on_ona": 1,
+        "my": 2,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 1,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 1,
+        "percentSentences": 0.17
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 146,
+        "consonants": 206,
+        "ratio": 0.71
+      },
+      "consonantClusters": {
+        "count": 9,
+        "top": [
+          {
+            "cluster": "prz",
+            "count": 3
+          },
+          {
+            "cluster": "czn",
+            "count": 1
+          },
+          {
+            "cluster": "skrz",
+            "count": 1
+          },
+          {
+            "cluster": "szcz",
+            "count": 1
+          },
+          {
+            "cluster": "szc",
+            "count": 1
+          },
+          {
+            "cluster": "szł",
+            "count": 1
+          },
+          {
+            "cluster": "rśc",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 19,
+        "syczace": 44,
+        "nosowe": 43,
+        "plynne": 28
+      },
+      "rhymes": {
+        "exact": 0,
+        "approximate": 2,
+        "internal": 0,
+        "assonance": 0,
+        "alliteration": 1
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 11,
+        "median": 12,
+        "min": 1,
+        "max": 18,
+        "distribution": [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 4.4,
+        "meanSyllables": 9.9,
+        "distribution": [
+          0,
+          1,
+          0,
+          2,
+          4,
+          5,
+          3
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 5,
+        "interrogative": 0,
+        "imperative": 1,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 1,
+        "noSubject": 2,
+        "noPredicate": 0,
+        "percent": 0.5
+      },
+      "enjambement": {
+        "count": 0,
+        "percent": 0,
+        "positions": []
+      },
+      "wordOrder": {
+        "svo": 1,
+        "inversions": 2,
+        "other": 2,
+        "deviationPercent": 0.8
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 0,
+        "śmierć": 0,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 148,
+      "estimatedSeconds": 49,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 15,
+      "VERB": 14,
+      "ADJ": 6,
+      "ADV": 5,
+      "PRON": 5,
+      "ADP": 10,
+      "CCONJ": 0,
+      "SCONJ": 3,
+      "INTJ": 0,
+      "PART": 5,
+      "DET": 0,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.227,
+      "VERB": 0.212,
+      "ADJ": 0.091,
+      "ADV": 0.076,
+      "PRON": 0.076,
+      "ADP": 0.152,
+      "CCONJ": 0,
+      "SCONJ": 0.045,
+      "INTJ": 0,
+      "PART": 0.076,
+      "DET": 0,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 0,
+      "abstract": 1,
+      "ratio": 0
+    },
+    "verbTenses": {
+      "present": 5,
+      "infinitive": 2,
+      "imperative": 1,
+      "past": 7
+    },
+    "verbSemantics": {
+      "ruch": 1,
+      "percepcja": 0,
+      "stan": 1,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 0,
+      "opisowe": 6
+    },
+    "adverbs": {
+      "temporalne": [],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "jak",
+          "count": 1
+        },
+        {
+          "word": "inaczej",
+          "count": 1
+        },
+        {
+          "word": "widzialnie",
+          "count": 1
+        },
+        {
+          "word": "sennie",
+          "count": 1
+        },
+        {
+          "word": "gdy",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 0,
+      "ty": 1,
+      "on_ona": 1,
+      "my": 2,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 1,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 1,
+      "percentSentences": 0.17
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 11,
+      "median": 12,
+      "min": 1,
+      "max": 18,
+      "distribution": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        1,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 4.4,
+      "meanSyllables": 9.9,
+      "distribution": [
+        0,
+        1,
+        0,
+        2,
+        4,
+        5,
+        3
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 5,
+      "interrogative": 0,
+      "imperative": 1,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 1,
+      "noSubject": 2,
+      "noPredicate": 0,
+      "percent": 0.5
+    },
+    "enjambement": {
+      "count": 0,
+      "percent": 0,
+      "positions": []
+    },
+    "wordOrder": {
+      "svo": 1,
+      "inversions": 2,
+      "other": 2,
+      "deviationPercent": 0.8
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 146,
+      "consonants": 206,
+      "ratio": 0.71
+    },
+    "consonantClusters": {
+      "count": 9,
+      "top": [
+        {
+          "cluster": "prz",
+          "count": 3
+        },
+        {
+          "cluster": "czn",
+          "count": 1
+        },
+        {
+          "cluster": "skrz",
+          "count": 1
+        },
+        {
+          "cluster": "szcz",
+          "count": 1
+        },
+        {
+          "cluster": "szc",
+          "count": 1
+        },
+        {
+          "cluster": "szł",
+          "count": 1
+        },
+        {
+          "cluster": "rśc",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 19,
+      "syczace": 44,
+      "nosowe": 43,
+      "plynne": 28
+    },
+    "rhymes": {
+      "exact": 0,
+      "approximate": 2,
+      "internal": 0,
+      "assonance": 0,
+      "alliteration": 1
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        15
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 148,
+      "estimatedSeconds": 49,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "regularny",
+      "regularityScore": 0.78
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "mitologia",
+          "reference": "wianek/obręcz - symbolika dionizyjska",
+          "evidence": "Płonącą obręcz twego wianka"
+        },
+        {
+          "source": "Leśmian",
+          "reference": "animizacja przyrody",
+          "evidence": "zwierzęta zabolała / Sennie snujące się po duktach"
+        },
+        {
+          "source": "inne",
+          "reference": "tradycja ludowa - wianki",
+          "evidence": "Za wianek pierścień daję cyfrę"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.8,
+        "baudelaire": 0.3,
+        "bursa": 0.1,
+        "stachura": 0.6,
+        "grochowiak": 0.4,
+        "bialoszewski": 0.2,
+        "rozewicz": 0.1
+      }
+    },
+    "space": {
+      "type": "otwarta",
+      "evidence": "z lasu / Na igłach sosen / po duktach",
+      "openClosedRatio": 0.9
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "jesien",
+      "evidence": "Spadła jagoda jarzębiny / Na igłach sosen zaiskrzyła"
+    },
+    "motion": {
+      "movement": 8,
+      "stillness": 3,
+      "dynamism": 0.8,
+      "evidence": "wywieść z lasu / Spadła jagoda / przeskoczyłem / idąc do nas przyszły"
+    },
+    "imageryDensity": {
+      "metaphors": 4,
+      "comparisons": 0,
+      "personifications": 3,
+      "hyperboles": 1,
+      "per100words": 57.14
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.7,
+      "creationLevel": 0.8,
+      "ironicDistance": 0.2,
+      "autobiographicSignals": [
+        "musiałem zbudzić w tobie",
+        "dla nas niema",
+        "przeskoczyłem",
+        "do nas przyszły"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "tęsknota",
+      "secondary": "melancholia",
+      "intensity": 0.7
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "musiałem zbudzić, przeskoczyłem, daję"
+    },
+    "addressee": {
+      "type": "ty",
+      "evidence": "Wybacz musiałem zbudzić w tobie"
+    },
+    "metaphors": [
+      {
+        "source": "muzyka",
+        "target": "uczucie/relacja",
+        "example": "musiałem zbudzić w tobie Muzykę"
+      },
+      {
+        "source": "płonąca obręcz wianka",
+        "target": "ból/cierpienie",
+        "example": "zwierzęta zabolała Płonącą obręcz twego wianka"
+      },
+      {
+        "source": "pierścień za wianek",
+        "target": "wymiana/transformacja",
+        "example": "Za wianek pierścień daję cyfrę"
+      }
+    ],
+    "temperature": {
+      "value": 0.4,
+      "label": "chłodna melancholia z nutami ciepła"
+    },
+    "senses": {
+      "wzrok": 4,
+      "sluch": 2,
+      "dotyk": 3,
+      "smak": 0,
+      "zapach": 1
+    },
+    "autodestruction": {
+      "level": 0.5,
+      "signals": [
+        "zbudzić ból",
+        "płonąca obręcz",
+        "na oślep za bólem idąc"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 1.192,
+    "dfaAlpha": 1.816,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -1.445185878948082
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -0.9228192530182381
+      }
+    ],
+    "seriesLength": 14,
+    "series": [
+      6,
+      5,
+      5,
+      4,
+      3,
+      4,
+      6,
+      5,
+      3,
+      4,
+      5,
+      6,
+      5,
+      4
+    ]
+  }
+}

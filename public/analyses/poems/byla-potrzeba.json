@@ -1,0 +1,761 @@
+{
+  "id": "byla-potrzeba",
+  "title": "Była potrzeba",
+  "wordCount": 48,
+  "lineCount": 8,
+  "uniqueWords": 29,
+  "vocabularyRichness": 0.604,
+  "avgWordsPerLine": 6,
+  "wordsPerLineDistribution": [
+    6,
+    5,
+    6,
+    6,
+    6,
+    6,
+    6,
+    7
+  ],
+  "wordFrequencies": [
+    [
+      "potrzeba",
+      7
+    ],
+    [
+      "życia",
+      2
+    ],
+    [
+      "śmierci",
+      2
+    ],
+    [
+      "wiersza",
+      2
+    ],
+    [
+      "użytek",
+      2
+    ],
+    [
+      "miłości",
+      1
+    ],
+    [
+      "ciebie",
+      1
+    ],
+    [
+      "królową",
+      1
+    ],
+    [
+      "polski",
+      1
+    ],
+    [
+      "nazywałem",
+      1
+    ],
+    [
+      "wódki",
+      1
+    ],
+    [
+      "śliny",
+      1
+    ],
+    [
+      "piłem",
+      1
+    ],
+    [
+      "zarówno",
+      1
+    ],
+    [
+      "smakowałem",
+      1
+    ],
+    [
+      "mydliny",
+      1
+    ],
+    [
+      "oszukiwałem",
+      1
+    ],
+    [
+      "potrzeby",
+      1
+    ],
+    [
+      "oszustwem",
+      1
+    ],
+    [
+      "zaraz",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 3,
+    "period": 6,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 0,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 0,
+  "negationWords": [],
+  "pronounDistribution": {
+    "ja": 0,
+    "ty": 2,
+    "on_ona": 0,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 0,
+    "smierc": 0,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [
+    [
+      "była",
+      4
+    ]
+  ],
+  "firstWord": "była",
+  "lastWord": "śmierci",
+  "avgWordLength": 5.54,
+  "wordLengthDistribution": {
+    "4-5": 13,
+    "8-9": 11,
+    "6-7": 12,
+    "1-3": 10,
+    "10+": 2
+  },
+  "bigrams": [
+    [
+      "potrzeba życia",
+      1
+    ],
+    [
+      "śmierci potrzeba",
+      1
+    ],
+    [
+      "potrzeba wiersza",
+      1
+    ],
+    [
+      "wiersza potrzeba",
+      1
+    ],
+    [
+      "potrzeba miłości",
+      1
+    ],
+    [
+      "potrzeba ciebie",
+      1
+    ],
+    [
+      "królową polski",
+      1
+    ]
+  ],
+  "poemWords": [
+    "potrzeba",
+    "życia",
+    "śmierci",
+    "wiersza",
+    "miłości",
+    "ciebie",
+    "królową",
+    "polski",
+    "nazywałem",
+    "użytek",
+    "wódki",
+    "śliny",
+    "piłem",
+    "zarówno",
+    "smakowałem",
+    "mydliny",
+    "oszukiwałem",
+    "potrzeby",
+    "oszustwem",
+    "zaraz",
+    "rósł",
+    "rachunek"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 20,
+        "VERB": 9,
+        "ADJ": 1,
+        "ADV": 3,
+        "PRON": 2,
+        "ADP": 3,
+        "CCONJ": 6,
+        "SCONJ": 0,
+        "INTJ": 0,
+        "PART": 0,
+        "DET": 0,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.392,
+        "VERB": 0.176,
+        "ADJ": 0.02,
+        "ADV": 0.059,
+        "PRON": 0.039,
+        "ADP": 0.059,
+        "CCONJ": 0.118,
+        "SCONJ": 0,
+        "INTJ": 0,
+        "PART": 0,
+        "DET": 0,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 1,
+        "abstract": 5,
+        "ratio": 0.17
+      },
+      "verbTenses": {
+        "future": 1,
+        "past": 10,
+        "present": 4
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 5,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 0,
+        "opisowe": 1
+      },
+      "adverbs": {
+        "temporalne": [
+          "zaraz"
+        ],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "wtedy",
+            "count": 1
+          },
+          {
+            "word": "gdy",
+            "count": 1
+          },
+          {
+            "word": "zaraz",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 0,
+        "ty": 2,
+        "on_ona": 0,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 0,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 0,
+        "percentSentences": 0
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 121,
+        "consonants": 157,
+        "ratio": 0.77
+      },
+      "consonantClusters": {
+        "count": 13,
+        "top": [
+          {
+            "cluster": "trz",
+            "count": 9
+          },
+          {
+            "cluster": "rsz",
+            "count": 2
+          },
+          {
+            "cluster": "lsk",
+            "count": 1
+          },
+          {
+            "cluster": "stw",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 17,
+        "syczace": 21,
+        "nosowe": 19,
+        "plynne": 34
+      },
+      "rhymes": {
+        "exact": 2,
+        "approximate": 0,
+        "internal": 1,
+        "assonance": 1,
+        "alliteration": 3
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 7.3,
+        "median": 6,
+        "min": 1,
+        "max": 13,
+        "distribution": [
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          2,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 5.1,
+        "meanSyllables": 12.3,
+        "distribution": [
+          0,
+          1,
+          1,
+          0,
+          0,
+          1,
+          6,
+          1
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 7,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 1,
+        "noSubject": 4,
+        "noPredicate": 0,
+        "percent": 0.71
+      },
+      "enjambement": {
+        "count": 0,
+        "percent": 0,
+        "positions": []
+      },
+      "wordOrder": {
+        "svo": 1,
+        "inversions": 1,
+        "other": 4,
+        "deviationPercent": 0.83
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 0,
+        "śmierć": 1,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": [
+        "życie/śmierć"
+      ]
+    },
+    "tempo": {
+      "syllables": 123,
+      "estimatedSeconds": 41,
+      "tempoCategory": "wolne"
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "inne",
+          "reference": "Królowa Polski",
+          "evidence": "Nazywałem Cię wtedy na użytek wiersza - aluzja do romantycznej tradycji poetyckiej wynoszenia kobiety do rangi świętości narodowej"
+        },
+        {
+          "source": "Różewicz",
+          "reference": "poetyka prostoty i konkretu",
+          "evidence": "Była potrzeba życia, była śmierci potrzeba - powtarzalna struktura składniowa charakterystyczna dla Różewicza"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.2,
+        "baudelaire": 0.3,
+        "bursa": 0.7,
+        "stachura": 0.6,
+        "grochowiak": 0.8,
+        "bialoszewski": 0.3,
+        "rozewicz": 0.7
+      }
+    },
+    "space": {
+      "type": "nieokreslona",
+      "evidence": "Brak konkretnych wskazówek przestrzennych, uniwersalność doświadczenia",
+      "openClosedRatio": 0.5
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "nieokreslona",
+      "evidence": "Czas nieokreślony, retrospektywny ('wtedy', '1969'), uniwersalny"
+    },
+    "motion": {
+      "movement": 3,
+      "stillness": 7,
+      "dynamism": 0.3,
+      "evidence": "Statyczna refleksja nad przeszłością, minimalna dynamika w 'piłem i zarówno smakowałem'"
+    },
+    "imageryDensity": {
+      "metaphors": 2,
+      "comparisons": 0,
+      "personifications": 1,
+      "hyperboles": 0,
+      "per100words": 5.4
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.9,
+      "creationLevel": 0.7,
+      "ironicDistance": 0.2,
+      "autobiographicSignals": [
+        "data '1969'",
+        "bezpośrednie zwroty do adresatki",
+        "konkretne szczegóły biograficzne jak 'piłem wódkę'"
+      ]
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 20,
+      "VERB": 9,
+      "ADJ": 1,
+      "ADV": 3,
+      "PRON": 2,
+      "ADP": 3,
+      "CCONJ": 6,
+      "SCONJ": 0,
+      "INTJ": 0,
+      "PART": 0,
+      "DET": 0,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.392,
+      "VERB": 0.176,
+      "ADJ": 0.02,
+      "ADV": 0.059,
+      "PRON": 0.039,
+      "ADP": 0.059,
+      "CCONJ": 0.118,
+      "SCONJ": 0,
+      "INTJ": 0,
+      "PART": 0,
+      "DET": 0,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 1,
+      "abstract": 5,
+      "ratio": 0.17
+    },
+    "verbTenses": {
+      "future": 1,
+      "past": 10,
+      "present": 4
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 5,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 0,
+      "opisowe": 1
+    },
+    "adverbs": {
+      "temporalne": [
+        "zaraz"
+      ],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "wtedy",
+          "count": 1
+        },
+        {
+          "word": "gdy",
+          "count": 1
+        },
+        {
+          "word": "zaraz",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 0,
+      "ty": 2,
+      "on_ona": 0,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 0,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 0,
+      "percentSentences": 0
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 7.3,
+      "median": 6,
+      "min": 1,
+      "max": 13,
+      "distribution": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        2,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 5.1,
+      "meanSyllables": 12.3,
+      "distribution": [
+        0,
+        1,
+        1,
+        0,
+        0,
+        1,
+        6,
+        1
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 7,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 1,
+      "noSubject": 4,
+      "noPredicate": 0,
+      "percent": 0.71
+    },
+    "enjambement": {
+      "count": 0,
+      "percent": 0,
+      "positions": []
+    },
+    "wordOrder": {
+      "svo": 1,
+      "inversions": 1,
+      "other": 4,
+      "deviationPercent": 0.83
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 121,
+      "consonants": 157,
+      "ratio": 0.77
+    },
+    "consonantClusters": {
+      "count": 13,
+      "top": [
+        {
+          "cluster": "trz",
+          "count": 9
+        },
+        {
+          "cluster": "rsz",
+          "count": 2
+        },
+        {
+          "cluster": "lsk",
+          "count": 1
+        },
+        {
+          "cluster": "stw",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 17,
+      "syczace": 21,
+      "nosowe": 19,
+      "plynne": 34
+    },
+    "rhymes": {
+      "exact": 2,
+      "approximate": 0,
+      "internal": 1,
+      "assonance": 1,
+      "alliteration": 3
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        10
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 123,
+      "estimatedSeconds": 41,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "polregularny",
+      "regularityScore": 0.59
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "melancholia",
+      "secondary": "rezygnacja",
+      "intensity": 0.8
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "Liczne formy pierwszej osoby: 'Nazywałem', 'piłem', 'smakowałem', 'oszukiwałem'"
+    },
+    "addressee": {
+      "type": "ty",
+      "evidence": "Bezpośrednie zwroty 'Ciebie', 'Nazywałem Cię'"
+    },
+    "metaphors": [
+      {
+        "source": "kobieta",
+        "target": "Królowa Polski",
+        "example": "Królową Polski Nazywałem Cię wtedy"
+      },
+      {
+        "source": "życie",
+        "target": "oszustwo",
+        "example": "gdy oszukiwałem na użytek potrzeby Życia"
+      },
+      {
+        "source": "śmierć",
+        "target": "rachunek",
+        "example": "rósł rachunek śmierci"
+      }
+    ],
+    "temperature": {
+      "value": 0.3,
+      "label": "chłodna refleksja nad przeszłością"
+    },
+    "senses": {
+      "wzrok": 2,
+      "sluch": 1,
+      "dotyk": 2,
+      "smak": 4,
+      "zapach": 1
+    },
+    "autodestruction": {
+      "level": 0.7,
+      "signals": [
+        "picie wódki",
+        "smakowałem mydliny",
+        "oszukiwałem",
+        "rachunek śmierci"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": null,
+    "dfaAlpha": null,
+    "dfaScaling": [],
+    "seriesLength": 8,
+    "series": [
+      6,
+      5,
+      6,
+      6,
+      6,
+      6,
+      6,
+      7
+    ]
+  }
+}

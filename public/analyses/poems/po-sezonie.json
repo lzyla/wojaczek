@@ -1,0 +1,929 @@
+{
+  "id": "po-sezonie",
+  "title": "Po sezonie",
+  "wordCount": 61,
+  "lineCount": 16,
+  "uniqueWords": 53,
+  "vocabularyRichness": 0.869,
+  "avgWordsPerLine": 3.81,
+  "wordsPerLineDistribution": [
+    4,
+    4,
+    4,
+    4,
+    6,
+    4,
+    6,
+    3,
+    5,
+    2,
+    4,
+    4,
+    4,
+    3,
+    2,
+    2
+  ],
+  "wordFrequencies": [
+    [
+      "śnieg",
+      2
+    ],
+    [
+      "spadł",
+      1
+    ],
+    [
+      "pierwszy",
+      1
+    ],
+    [
+      "zastało",
+      1
+    ],
+    [
+      "komórce",
+      1
+    ],
+    [
+      "zamkniętych",
+      1
+    ],
+    [
+      "siostrą",
+      1
+    ],
+    [
+      "teresą",
+      1
+    ],
+    [
+      "znaczy",
+      1
+    ],
+    [
+      "koniec",
+      1
+    ],
+    [
+      "sezonu",
+      1
+    ],
+    [
+      "flagą",
+      1
+    ],
+    [
+      "zapomniano",
+      1
+    ],
+    [
+      "przysypało",
+      1
+    ],
+    [
+      "dziwnego",
+      1
+    ],
+    [
+      "pewnym",
+      1
+    ],
+    [
+      "czasie",
+      1
+    ],
+    [
+      "zaczęliśmy",
+      1
+    ],
+    [
+      "rozkładać",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 0,
+    "period": 0,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 0,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 1,
+  "negationWords": [
+    "nic"
+  ],
+  "pronounDistribution": {
+    "ja": 0,
+    "ty": 0,
+    "on_ona": 0,
+    "my": 4,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 2,
+    "smierc": 1,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [],
+  "firstWord": "kiedy",
+  "lastWord": "listopad",
+  "avgWordLength": 5.64,
+  "wordLengthDistribution": {
+    "4-5": 12,
+    "8-9": 8,
+    "6-7": 15,
+    "1-3": 18,
+    "10+": 8
+  },
+  "bigrams": [
+    [
+      "spadł pierwszy",
+      1
+    ],
+    [
+      "pierwszy śnieg",
+      1
+    ],
+    [
+      "śnieg zastało",
+      1
+    ],
+    [
+      "komórce zamkniętych",
+      1
+    ],
+    [
+      "siostrą teresą",
+      1
+    ],
+    [
+      "teresą śnieg",
+      1
+    ],
+    [
+      "śnieg znaczy",
+      1
+    ],
+    [
+      "znaczy koniec",
+      1
+    ],
+    [
+      "koniec sezonu",
+      1
+    ]
+  ],
+  "poemWords": [
+    "spadł",
+    "pierwszy",
+    "śnieg",
+    "zastało",
+    "komórce",
+    "zamkniętych",
+    "siostrą",
+    "teresą",
+    "znaczy",
+    "koniec",
+    "sezonu",
+    "flagą",
+    "zapomniano",
+    "przysypało",
+    "nic",
+    "dziwnego",
+    "pewnym",
+    "czasie",
+    "zaczęliśmy",
+    "rozkładać",
+    "pierwsza",
+    "rozłożyła",
+    "siostra",
+    "teresa",
+    "wznak",
+    "myśmy",
+    "zachowywali",
+    "pozory",
+    "oddawaliśmy",
+    "złudzeniom",
+    "rozebrało",
+    "mięso",
+    "kości",
+    "odeszło",
+    "bezboleśnie",
+    "listopad",
+    "1965"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 17,
+        "VERB": 12,
+        "ADJ": 4,
+        "ADV": 4,
+        "PRON": 9,
+        "ADP": 7,
+        "CCONJ": 1,
+        "SCONJ": 2,
+        "INTJ": 0,
+        "PART": 3,
+        "DET": 1,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.27,
+        "VERB": 0.19,
+        "ADJ": 0.063,
+        "ADV": 0.063,
+        "PRON": 0.143,
+        "ADP": 0.111,
+        "CCONJ": 0.016,
+        "SCONJ": 0.032,
+        "INTJ": 0,
+        "PART": 0.048,
+        "DET": 0.016,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 0,
+        "abstract": 1,
+        "ratio": 0
+      },
+      "verbTenses": {
+        "past": 10,
+        "present": 1,
+        "infinitive": 1
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 0,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 0,
+        "opisowe": 4
+      },
+      "adverbs": {
+        "temporalne": [
+          "potem"
+        ],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "kiedy",
+            "count": 1
+          },
+          {
+            "word": "całkiem",
+            "count": 1
+          },
+          {
+            "word": "potem",
+            "count": 1
+          },
+          {
+            "word": "bezboleśnie",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 0,
+        "ty": 0,
+        "on_ona": 0,
+        "my": 5,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 0,
+        "nic": 1,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 1,
+        "percentSentences": 0.33
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 149,
+        "consonants": 200,
+        "ratio": 0.74
+      },
+      "consonantClusters": {
+        "count": 11,
+        "top": [
+          {
+            "cluster": "rwsz",
+            "count": 2
+          },
+          {
+            "cluster": "str",
+            "count": 2
+          },
+          {
+            "cluster": "mkn",
+            "count": 1
+          },
+          {
+            "cluster": "prz",
+            "count": 1
+          },
+          {
+            "cluster": "zkł",
+            "count": 1
+          },
+          {
+            "cluster": "wzn",
+            "count": 1
+          },
+          {
+            "cluster": "szcz",
+            "count": 1
+          },
+          {
+            "cluster": "szc",
+            "count": 1
+          },
+          {
+            "cluster": "szł",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 12,
+        "syczace": 55,
+        "nosowe": 42,
+        "plynne": 30
+      },
+      "rhymes": {
+        "exact": 0,
+        "approximate": 0,
+        "internal": 0,
+        "assonance": 1,
+        "alliteration": 1
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 21,
+        "median": 19,
+        "min": 7,
+        "max": 37,
+        "distribution": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 3.7,
+        "meanSyllables": 9,
+        "distribution": [
+          0,
+          0,
+          4,
+          2,
+          8,
+          1,
+          2
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 3,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 0,
+        "noSubject": 0,
+        "noPredicate": 0,
+        "percent": 0
+      },
+      "enjambement": {
+        "count": 12,
+        "percent": 0.75,
+        "positions": [
+          1,
+          2,
+          3,
+          5,
+          6,
+          8,
+          9,
+          10,
+          12,
+          13,
+          15,
+          16
+        ]
+      },
+      "wordOrder": {
+        "svo": 3,
+        "inversions": 0,
+        "other": 0,
+        "deviationPercent": 0
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 2,
+        "śmierć": 1,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 153,
+      "estimatedSeconds": 51,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 17,
+      "VERB": 12,
+      "ADJ": 4,
+      "ADV": 4,
+      "PRON": 9,
+      "ADP": 7,
+      "CCONJ": 1,
+      "SCONJ": 2,
+      "INTJ": 0,
+      "PART": 3,
+      "DET": 1,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.27,
+      "VERB": 0.19,
+      "ADJ": 0.063,
+      "ADV": 0.063,
+      "PRON": 0.143,
+      "ADP": 0.111,
+      "CCONJ": 0.016,
+      "SCONJ": 0.032,
+      "INTJ": 0,
+      "PART": 0.048,
+      "DET": 0.016,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 0,
+      "abstract": 1,
+      "ratio": 0
+    },
+    "verbTenses": {
+      "past": 10,
+      "present": 1,
+      "infinitive": 1
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 0,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 0,
+      "opisowe": 4
+    },
+    "adverbs": {
+      "temporalne": [
+        "potem"
+      ],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "kiedy",
+          "count": 1
+        },
+        {
+          "word": "całkiem",
+          "count": 1
+        },
+        {
+          "word": "potem",
+          "count": 1
+        },
+        {
+          "word": "bezboleśnie",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 0,
+      "ty": 0,
+      "on_ona": 0,
+      "my": 5,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 0,
+      "nic": 1,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 1,
+      "percentSentences": 0.33
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 21,
+      "median": 19,
+      "min": 7,
+      "max": 37,
+      "distribution": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 3.7,
+      "meanSyllables": 9,
+      "distribution": [
+        0,
+        0,
+        4,
+        2,
+        8,
+        1,
+        2
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 3,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 0,
+      "noSubject": 0,
+      "noPredicate": 0,
+      "percent": 0
+    },
+    "enjambement": {
+      "count": 12,
+      "percent": 0.75,
+      "positions": [
+        1,
+        2,
+        3,
+        5,
+        6,
+        8,
+        9,
+        10,
+        12,
+        13,
+        15,
+        16
+      ]
+    },
+    "wordOrder": {
+      "svo": 3,
+      "inversions": 0,
+      "other": 0,
+      "deviationPercent": 0
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 149,
+      "consonants": 200,
+      "ratio": 0.74
+    },
+    "consonantClusters": {
+      "count": 11,
+      "top": [
+        {
+          "cluster": "rwsz",
+          "count": 2
+        },
+        {
+          "cluster": "str",
+          "count": 2
+        },
+        {
+          "cluster": "mkn",
+          "count": 1
+        },
+        {
+          "cluster": "prz",
+          "count": 1
+        },
+        {
+          "cluster": "zkł",
+          "count": 1
+        },
+        {
+          "cluster": "wzn",
+          "count": 1
+        },
+        {
+          "cluster": "szcz",
+          "count": 1
+        },
+        {
+          "cluster": "szc",
+          "count": 1
+        },
+        {
+          "cluster": "szł",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 12,
+      "syczace": 55,
+      "nosowe": 42,
+      "plynne": 30
+    },
+    "rhymes": {
+      "exact": 0,
+      "approximate": 0,
+      "internal": 0,
+      "assonance": 1,
+      "alliteration": 1
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        17
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 153,
+      "estimatedSeconds": 51,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "polregularny",
+      "regularityScore": 0.63
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Biblia",
+          "reference": "siostra Teresa - nawiązanie do świętej Teresy",
+          "evidence": "siostra Teresa"
+        },
+        {
+          "source": "inne",
+          "reference": "śmierć jako rozkład - tradycja memento mori",
+          "evidence": "zaczęliśmy się rozkładać"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.3,
+        "baudelaire": 0.7,
+        "bursa": 0.2,
+        "stachura": 0.1,
+        "grochowiak": 0.4,
+        "bialoszewski": 0.2,
+        "rozewicz": 0.8
+      }
+    },
+    "space": {
+      "type": "zamknieta",
+      "evidence": "w komórce zamkniętych",
+      "openClosedRatio": 0.1
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "zima",
+      "evidence": "spadł pierwszy śnieg, listopad 1965"
+    },
+    "motion": {
+      "movement": 2,
+      "stillness": 8,
+      "dynamism": 0.2,
+      "evidence": "zamkniętych, rozłożyła się na wznak, bezboleśnie"
+    },
+    "imageryDensity": {
+      "metaphors": 4,
+      "comparisons": 0,
+      "personifications": 2,
+      "hyperboles": 1,
+      "per100words": 10
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.8,
+      "creationLevel": 0.6,
+      "ironicDistance": 0.3,
+      "autobiographicSignals": [
+        "listopad 1965",
+        "zastało nas",
+        "myśmy"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "rezygnacja",
+      "secondary": "melancholia",
+      "intensity": 0.8
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "wyraźne użycie 'nas', 'myśmy', podmiot zbiorowy obecny w całym wierszu"
+    },
+    "addressee": {
+      "type": "czytelnik",
+      "evidence": "relacjonowanie sytuacji w formie opowieści skierowanej do odbiorcy"
+    },
+    "metaphors": [
+      {
+        "source": "śnieg",
+        "target": "śmierć/zapomnienie",
+        "example": "Śnieg znaczy koniec sezonu"
+      },
+      {
+        "source": "komórka",
+        "target": "grób/miejsce izolacji",
+        "example": "zastało nas w komórce zamkniętych"
+      },
+      {
+        "source": "flaga",
+        "target": "pamięć/życie społeczne",
+        "example": "więc z flagą o nas zapomniano"
+      },
+      {
+        "source": "rozkład ciała",
+        "target": "rozpad tożsamości",
+        "example": "Mięso od kości odeszło bezboleśnie"
+      }
+    ],
+    "temperature": {
+      "value": 0.2,
+      "label": "zimne - dominuje śnieg, rozkład, bezboleśność"
+    },
+    "senses": {
+      "wzrok": 4,
+      "sluch": 1,
+      "dotyk": 3,
+      "smak": 0,
+      "zapach": 2
+    },
+    "autodestruction": {
+      "level": 0.9,
+      "signals": [
+        "rozkładanie się",
+        "oddawanie się złudzeniom",
+        "rozebrano nas",
+        "mięso od kości odeszło"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 0.601,
+    "dfaAlpha": 2.078,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -1.445185878948081
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -1.0258571131636516
+      },
+      {
+        "logWin": 1.6094379124341003,
+        "logFluc": -0.3679024917966318
+      }
+    ],
+    "seriesLength": 16,
+    "series": [
+      4,
+      4,
+      4,
+      4,
+      6,
+      4,
+      6,
+      3,
+      5,
+      2,
+      4,
+      4,
+      4,
+      3,
+      2,
+      2
+    ]
+  }
+}

@@ -1,0 +1,1023 @@
+{
+  "id": "pisze-wiersz",
+  "title": "Piszę wiersz",
+  "wordCount": 108,
+  "lineCount": 34,
+  "uniqueWords": 87,
+  "vocabularyRichness": 0.806,
+  "avgWordsPerLine": 3.18,
+  "wordsPerLineDistribution": [
+    3,
+    3,
+    3,
+    4,
+    2,
+    3,
+    3,
+    4,
+    2,
+    1,
+    3,
+    2,
+    4,
+    4,
+    5,
+    6,
+    4,
+    2,
+    2,
+    4,
+    4,
+    5,
+    2,
+    4,
+    1,
+    5,
+    4,
+    4,
+    2,
+    4,
+    2,
+    4,
+    1,
+    2
+  ],
+  "wordFrequencies": [
+    [
+      "krew",
+      3
+    ],
+    [
+      "siedzę",
+      2
+    ],
+    [
+      "czasu",
+      2
+    ],
+    [
+      "żyję",
+      2
+    ],
+    [
+      "psa",
+      2
+    ],
+    [
+      "lepszy",
+      2
+    ],
+    [
+      "kącie",
+      1
+    ],
+    [
+      "pokoju",
+      1
+    ],
+    [
+      "zamknięty",
+      1
+    ],
+    [
+      "klucz",
+      1
+    ],
+    [
+      "sprawdzić",
+      1
+    ],
+    [
+      "szpilką",
+      1
+    ],
+    [
+      "nakłuwam",
+      1
+    ],
+    [
+      "wnętrza",
+      1
+    ],
+    [
+      "czaszki",
+      1
+    ],
+    [
+      "wprowadzam",
+      1
+    ],
+    [
+      "świderek",
+      1
+    ],
+    [
+      "sposoby",
+      1
+    ],
+    [
+      "zawodne",
+      1
+    ],
+    [
+      "kałuży",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 0,
+    "period": 2,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 1,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 2,
+  "negationWords": [
+    "nie"
+  ],
+  "pronounDistribution": {
+    "ja": 4,
+    "ty": 0,
+    "on_ona": 0,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 4,
+    "smierc": 5,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [
+    [
+      "siedzę",
+      2
+    ],
+    [
+      "ale",
+      2
+    ],
+    [
+      "albo",
+      2
+    ]
+  ],
+  "firstWord": "siedzę",
+  "lastWord": "marzec",
+  "avgWordLength": 4.89,
+  "wordLengthDistribution": {
+    "6-7": 29,
+    "1-3": 31,
+    "4-5": 34,
+    "8-9": 10,
+    "10+": 4
+  },
+  "bigrams": [
+    [
+      "swoim pokoju",
+      1
+    ],
+    [
+      "pokoju zamknięty",
+      1
+    ]
+  ],
+  "poemWords": [
+    "siedzę",
+    "kącie",
+    "pokoju",
+    "zamknięty",
+    "klucz",
+    "czasu",
+    "sprawdzić",
+    "żyję",
+    "szpilką",
+    "nakłuwam",
+    "wnętrza",
+    "czaszki",
+    "wprowadzam",
+    "świderek",
+    "sposoby",
+    "zawodne",
+    "kałuży",
+    "krwi",
+    "krew",
+    "mówię",
+    "wcale",
+    "pewny",
+    "takim",
+    "razie",
+    "zwierząt",
+    "psa",
+    "miłego",
+    "fauny",
+    "spokojnej",
+    "maczam",
+    "palec",
+    "cieczy",
+    "ciemniejącej",
+    "gęstniejącej",
+    "wypisuję",
+    "ścianie",
+    "paradoks",
+    "pierwszy",
+    "lepszy",
+    "trup",
+    "żywego",
+    "byle",
+    "martwy",
+    "przyglądam",
+    "długo",
+    "dziełu",
+    "każdemu",
+    "słowu",
+    "literze",
+    "osobna",
+    "nagle",
+    "zauważam",
+    "ściana",
+    "czysta",
+    "biała",
+    "marzec",
+    "1965"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 32,
+        "VERB": 10,
+        "ADJ": 17,
+        "ADV": 3,
+        "PRON": 3,
+        "ADP": 12,
+        "CCONJ": 7,
+        "SCONJ": 3,
+        "INTJ": 0,
+        "PART": 5,
+        "DET": 10,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.296,
+        "VERB": 0.093,
+        "ADJ": 0.157,
+        "ADV": 0.028,
+        "PRON": 0.028,
+        "ADP": 0.111,
+        "CCONJ": 0.065,
+        "SCONJ": 0.028,
+        "INTJ": 0,
+        "PART": 0.046,
+        "DET": 0.093,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 10,
+        "abstract": 2,
+        "ratio": 0.83
+      },
+      "verbTenses": {
+        "present": 15,
+        "infinitive": 1
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 1,
+        "stan": 7,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 1,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 1,
+        "oceniajace": 2,
+        "opisowe": 14
+      },
+      "adverbs": {
+        "temporalne": [],
+        "modalne": [],
+        "sposobu": [
+          "nagle"
+        ],
+        "top": [
+          {
+            "word": "wcale",
+            "count": 1
+          },
+          {
+            "word": "długo",
+            "count": 1
+          },
+          {
+            "word": "nagle",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 0,
+        "ty": 0,
+        "on_ona": 0,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 2,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 2,
+        "percentSentences": 0.4
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 218,
+        "consonants": 306,
+        "ratio": 0.71
+      },
+      "consonantClusters": {
+        "count": 15,
+        "top": [
+          {
+            "cluster": "psz",
+            "count": 2
+          },
+          {
+            "cluster": "mkn",
+            "count": 1
+          },
+          {
+            "cluster": "spr",
+            "count": 1
+          },
+          {
+            "cluster": "wdz",
+            "count": 1
+          },
+          {
+            "cluster": "szcz",
+            "count": 1
+          },
+          {
+            "cluster": "szp",
+            "count": 1
+          },
+          {
+            "cluster": "trz",
+            "count": 1
+          },
+          {
+            "cluster": "szk",
+            "count": 1
+          },
+          {
+            "cluster": "wpr",
+            "count": 1
+          },
+          {
+            "cluster": "krw",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 29,
+        "syczace": 45,
+        "nosowe": 57,
+        "plynne": 38
+      },
+      "rhymes": {
+        "exact": 1,
+        "approximate": 2,
+        "internal": 2,
+        "assonance": 0,
+        "alliteration": 2
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 21.6,
+        "median": 19,
+        "min": 9,
+        "max": 37,
+        "distribution": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 3.2,
+        "meanSyllables": 6.6,
+        "distribution": [
+          0,
+          3,
+          9,
+          6,
+          12,
+          3,
+          1
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 5,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 0,
+        "noSubject": 1,
+        "noPredicate": 0,
+        "percent": 0.2
+      },
+      "enjambement": {
+        "count": 26,
+        "percent": 0.79,
+        "positions": [
+          1,
+          2,
+          4,
+          5,
+          6,
+          7,
+          8,
+          10,
+          11,
+          12,
+          14,
+          15,
+          17,
+          18,
+          19,
+          20,
+          22,
+          23,
+          24,
+          26,
+          28,
+          29,
+          30,
+          31,
+          32,
+          33
+        ]
+      },
+      "wordOrder": {
+        "svo": 1,
+        "inversions": 3,
+        "other": 1,
+        "deviationPercent": 0.8
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 4,
+        "śmierć": 5,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 225,
+      "estimatedSeconds": 75,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 32,
+      "VERB": 10,
+      "ADJ": 17,
+      "ADV": 3,
+      "PRON": 3,
+      "ADP": 12,
+      "CCONJ": 7,
+      "SCONJ": 3,
+      "INTJ": 0,
+      "PART": 5,
+      "DET": 10,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.296,
+      "VERB": 0.093,
+      "ADJ": 0.157,
+      "ADV": 0.028,
+      "PRON": 0.028,
+      "ADP": 0.111,
+      "CCONJ": 0.065,
+      "SCONJ": 0.028,
+      "INTJ": 0,
+      "PART": 0.046,
+      "DET": 0.093,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 10,
+      "abstract": 2,
+      "ratio": 0.83
+    },
+    "verbTenses": {
+      "present": 15,
+      "infinitive": 1
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 1,
+      "stan": 7,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 1,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 1,
+      "oceniajace": 2,
+      "opisowe": 14
+    },
+    "adverbs": {
+      "temporalne": [],
+      "modalne": [],
+      "sposobu": [
+        "nagle"
+      ],
+      "top": [
+        {
+          "word": "wcale",
+          "count": 1
+        },
+        {
+          "word": "długo",
+          "count": 1
+        },
+        {
+          "word": "nagle",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 0,
+      "ty": 0,
+      "on_ona": 0,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 2,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 2,
+      "percentSentences": 0.4
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 21.6,
+      "median": 19,
+      "min": 9,
+      "max": 37,
+      "distribution": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 3.2,
+      "meanSyllables": 6.6,
+      "distribution": [
+        0,
+        3,
+        9,
+        6,
+        12,
+        3,
+        1
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 5,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 0,
+      "noSubject": 1,
+      "noPredicate": 0,
+      "percent": 0.2
+    },
+    "enjambement": {
+      "count": 26,
+      "percent": 0.79,
+      "positions": [
+        1,
+        2,
+        4,
+        5,
+        6,
+        7,
+        8,
+        10,
+        11,
+        12,
+        14,
+        15,
+        17,
+        18,
+        19,
+        20,
+        22,
+        23,
+        24,
+        26,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33
+      ]
+    },
+    "wordOrder": {
+      "svo": 1,
+      "inversions": 3,
+      "other": 1,
+      "deviationPercent": 0.8
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 218,
+      "consonants": 306,
+      "ratio": 0.71
+    },
+    "consonantClusters": {
+      "count": 15,
+      "top": [
+        {
+          "cluster": "psz",
+          "count": 2
+        },
+        {
+          "cluster": "mkn",
+          "count": 1
+        },
+        {
+          "cluster": "spr",
+          "count": 1
+        },
+        {
+          "cluster": "wdz",
+          "count": 1
+        },
+        {
+          "cluster": "szcz",
+          "count": 1
+        },
+        {
+          "cluster": "szp",
+          "count": 1
+        },
+        {
+          "cluster": "trz",
+          "count": 1
+        },
+        {
+          "cluster": "szk",
+          "count": 1
+        },
+        {
+          "cluster": "wpr",
+          "count": 1
+        },
+        {
+          "cluster": "krw",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 29,
+      "syczace": 45,
+      "nosowe": 57,
+      "plynne": 38
+    },
+    "rhymes": {
+      "exact": 1,
+      "approximate": 2,
+      "internal": 2,
+      "assonance": 0,
+      "alliteration": 2
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        34
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 225,
+      "estimatedSeconds": 75,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "polregularny",
+      "regularityScore": 0.63
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Różewicz",
+          "reference": "poetyka prostoty i codzienności",
+          "evidence": "siedzę w kącie / w swoim pokoju"
+        },
+        {
+          "source": "Baudelaire",
+          "reference": "taedium vitae i spleen",
+          "evidence": "sprawdzić / czy żyję jeszcze"
+        },
+        {
+          "source": "inne",
+          "reference": "egzystencjalizm",
+          "evidence": "paradoks o trupie lepszym od żywego"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.3,
+        "baudelaire": 0.7,
+        "bursa": 0.8,
+        "stachura": 0.4,
+        "grochowiak": 0.5,
+        "bialoszewski": 0.2,
+        "rozewicz": 0.6
+      }
+    },
+    "space": {
+      "type": "zamknieta",
+      "evidence": "siedzę w kącie / w swoim pokoju / zamknięty na klucz",
+      "openClosedRatio": 0.1
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "wiosna",
+      "evidence": "marzec 1965",
+      "openClosedRatio": 0.5
+    },
+    "motion": {
+      "movement": 2,
+      "stillness": 8,
+      "dynamism": 0.2,
+      "evidence": "siedzę w kącie, maczam palec, przyglądam się długo"
+    },
+    "imageryDensity": {
+      "metaphors": 4,
+      "comparisons": 1,
+      "personifications": 1,
+      "hyperboles": 2,
+      "per100words": 8.5
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.9,
+      "creationLevel": 0.7,
+      "ironicDistance": 0.4,
+      "autobiographicSignals": [
+        "swoim pokoju",
+        "moja krew",
+        "moje zwierzęta",
+        "data marzec 1965"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "rozpacz",
+      "secondary": "rezygnacja",
+      "intensity": 0.9
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "Silna obecność podmiotu w pierwszej osobie: 'Siedzę', 'nakłuwam', 'wprowadzam', 'mówię', 'wypisuję'"
+    },
+    "addressee": {
+      "type": "siebie",
+      "evidence": "Podmiot prowadzi wewnętrzny monolog, zwraca się do siebie: 'to jest moja krew mówię', 'Przyglądam się'"
+    },
+    "metaphors": [
+      {
+        "source": "szpilka i świderek",
+        "target": "próba weryfikacji życia",
+        "example": "by sprawdzić / czy żyję jeszcze / szpilką się nakłuwam"
+      },
+      {
+        "source": "kałuża krwi",
+        "target": "egzystencjalny stan podmiotu",
+        "example": "Siedzę w kałuży krwi / to jest moja krew"
+      },
+      {
+        "source": "pisanie krwią",
+        "target": "twórczość z bólu",
+        "example": "Maczam palec w tej cieczy / i wypisuję na ścianie"
+      }
+    ],
+    "temperature": {
+      "value": 0.2,
+      "label": "zimne - egzystencjalna pustka i rezygnacja"
+    },
+    "senses": {
+      "wzrok": 4,
+      "sluch": 0,
+      "dotyk": 3,
+      "smak": 0,
+      "zapach": 0
+    },
+    "autodestruction": {
+      "level": 0.8,
+      "signals": [
+        "nakłuwanie szpilką",
+        "wprowadzanie świderka do czaszki",
+        "kałuża krwi",
+        "krew zwierząt",
+        "pragnienie śmierci wyrażone w paradoksie"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 0.748,
+    "dfaAlpha": 0.918,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -1.1350309506442426
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -0.8713106626730773
+      },
+      {
+        "logWin": 1.6094379124341003,
+        "logFluc": -0.43785716674417663
+      },
+      {
+        "logWin": 1.791759469228055,
+        "logFluc": -0.42079471262108753
+      },
+      {
+        "logWin": 1.9459101490553132,
+        "logFluc": -0.1698033735528099
+      },
+      {
+        "logWin": 2.0794415416798357,
+        "logFluc": -0.041159904179677076
+      },
+      {
+        "logWin": 2.1972245773362196,
+        "logFluc": -0.1523368243351819
+      },
+      {
+        "logWin": 2.3978952727983707,
+        "logFluc": 0.02682509506748186
+      }
+    ],
+    "seriesLength": 34,
+    "series": [
+      3,
+      3,
+      3,
+      4,
+      2,
+      3,
+      3,
+      4,
+      2,
+      1,
+      3,
+      2,
+      4,
+      4,
+      5,
+      6,
+      4,
+      2,
+      2,
+      4,
+      4,
+      5,
+      2,
+      4,
+      1,
+      5,
+      4,
+      4,
+      2,
+      4,
+      2,
+      4,
+      1,
+      2
+    ]
+  }
+}

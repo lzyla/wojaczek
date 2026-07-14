@@ -1,0 +1,781 @@
+{
+  "id": "krzyz",
+  "title": "Krzyż",
+  "wordCount": 71,
+  "lineCount": 24,
+  "uniqueWords": 29,
+  "vocabularyRichness": 0.408,
+  "avgWordsPerLine": 2.96,
+  "wordsPerLineDistribution": [
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    4,
+    3,
+    3,
+    3,
+    3,
+    3,
+    2,
+    3,
+    2
+  ],
+  "wordFrequencies": [
+    [
+      "pionowy",
+      3
+    ],
+    [
+      "pozioma",
+      2
+    ],
+    [
+      "góra",
+      2
+    ],
+    [
+      "dolina",
+      1
+    ],
+    [
+      "ziemia",
+      1
+    ],
+    [
+      "słońce",
+      1
+    ],
+    [
+      "tarcza",
+      1
+    ],
+    [
+      "miecz",
+      1
+    ],
+    [
+      "rana",
+      1
+    ],
+    [
+      "ból",
+      1
+    ],
+    [
+      "noc",
+      1
+    ],
+    [
+      "bóg",
+      1
+    ],
+    [
+      "ogień",
+      1
+    ],
+    [
+      "woda",
+      1
+    ],
+    [
+      "naga",
+      1
+    ],
+    [
+      "zawsze",
+      1
+    ],
+    [
+      "czasu",
+      1
+    ],
+    [
+      "pionowa",
+      1
+    ],
+    [
+      "orgazmu",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 0,
+    "period": 0,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 0,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 1,
+  "negationWords": [
+    "nie"
+  ],
+  "pronounDistribution": {
+    "ja": 12,
+    "ty": 10,
+    "on_ona": 0,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 0,
+    "smierc": 1,
+    "erotyka": 1,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 1,
+    "noc": 1,
+    "bol": 1
+  },
+  "anaphors": [
+    [
+      "ja",
+      10
+    ],
+    [
+      "ty",
+      10
+    ],
+    [
+      "ale",
+      2
+    ]
+  ],
+  "firstWord": "ja",
+  "lastWord": "mnie",
+  "avgWordLength": 4.34,
+  "wordLengthDistribution": {
+    "1-3": 28,
+    "6-7": 32,
+    "4-5": 11
+  },
+  "bigrams": [
+    [
+      "jesteś pionowy",
+      3
+    ],
+    [
+      "jestem pozioma",
+      2
+    ],
+    [
+      "jesteś góra",
+      1
+    ],
+    [
+      "jestem dolina",
+      1
+    ],
+    [
+      "jestem ziemia",
+      1
+    ],
+    [
+      "jesteś słońce",
+      1
+    ],
+    [
+      "jestem tarcza",
+      1
+    ]
+  ],
+  "poemWords": [
+    "pozioma",
+    "pionowy",
+    "góra",
+    "dolina",
+    "ziemia",
+    "słońce",
+    "tarcza",
+    "miecz",
+    "rana",
+    "ból",
+    "noc",
+    "bóg",
+    "ogień",
+    "woda",
+    "naga",
+    "zawsze",
+    "czasu",
+    "pionowa",
+    "orgazmu"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 13,
+        "VERB": 0,
+        "ADJ": 7,
+        "ADV": 1,
+        "PRON": 22,
+        "ADP": 3,
+        "CCONJ": 2,
+        "SCONJ": 0,
+        "INTJ": 0,
+        "PART": 1,
+        "DET": 0,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.183,
+        "VERB": 0,
+        "ADJ": 0.099,
+        "ADV": 0.014,
+        "PRON": 0.31,
+        "ADP": 0.042,
+        "CCONJ": 0.028,
+        "SCONJ": 0,
+        "INTJ": 0,
+        "PART": 0.014,
+        "DET": 0,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 1,
+        "abstract": 2,
+        "ratio": 0.33
+      },
+      "verbTenses": {
+        "present": 20
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 20,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 0,
+        "opisowe": 7
+      },
+      "adverbs": {
+        "temporalne": [
+          "zawsze"
+        ],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "zawsze",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 12,
+        "ty": 10,
+        "on_ona": 0,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 1,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 1,
+        "percentSentences": 0.05
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 133,
+        "consonants": 175,
+        "ratio": 0.76
+      },
+      "consonantClusters": {
+        "count": 3,
+        "top": [
+          {
+            "cluster": "rcz",
+            "count": 1
+          },
+          {
+            "cluster": "wsz",
+            "count": 1
+          },
+          {
+            "cluster": "prz",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 5,
+        "syczace": 39,
+        "nosowe": 30,
+        "plynne": 11
+      },
+      "rhymes": {
+        "exact": 1,
+        "approximate": 0,
+        "internal": 0,
+        "assonance": 0,
+        "alliteration": 4
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 3.7,
+        "median": 3,
+        "min": 2,
+        "max": 9,
+        "distribution": [
+          0,
+          0,
+          1,
+          13,
+          1,
+          1,
+          2,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 3,
+        "meanSyllables": 5.5,
+        "distribution": [
+          0,
+          0,
+          2,
+          21,
+          1
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 19,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 2,
+        "noSubject": 1,
+        "noPredicate": 0,
+        "percent": 0.16
+      },
+      "enjambement": {
+        "count": 0,
+        "percent": 0,
+        "positions": []
+      },
+      "wordOrder": {
+        "svo": 0,
+        "inversions": 0,
+        "other": 19,
+        "deviationPercent": 1
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 0,
+        "śmierć": 0,
+        "erotyka": 1,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 1,
+        "noc": 1,
+        "ból": 1
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 133,
+      "estimatedSeconds": 44,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 13,
+      "VERB": 0,
+      "ADJ": 7,
+      "ADV": 1,
+      "PRON": 22,
+      "ADP": 3,
+      "CCONJ": 2,
+      "SCONJ": 0,
+      "INTJ": 0,
+      "PART": 1,
+      "DET": 0,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.183,
+      "VERB": 0,
+      "ADJ": 0.099,
+      "ADV": 0.014,
+      "PRON": 0.31,
+      "ADP": 0.042,
+      "CCONJ": 0.028,
+      "SCONJ": 0,
+      "INTJ": 0,
+      "PART": 0.014,
+      "DET": 0,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 1,
+      "abstract": 2,
+      "ratio": 0.33
+    },
+    "verbTenses": {
+      "present": 20
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 20,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 0,
+      "opisowe": 7
+    },
+    "adverbs": {
+      "temporalne": [
+        "zawsze"
+      ],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "zawsze",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 12,
+      "ty": 10,
+      "on_ona": 0,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 1,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 1,
+      "percentSentences": 0.05
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 3.7,
+      "median": 3,
+      "min": 2,
+      "max": 9,
+      "distribution": [
+        0,
+        0,
+        1,
+        13,
+        1,
+        1,
+        2,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 3,
+      "meanSyllables": 5.5,
+      "distribution": [
+        0,
+        0,
+        2,
+        21,
+        1
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 19,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 2,
+      "noSubject": 1,
+      "noPredicate": 0,
+      "percent": 0.16
+    },
+    "enjambement": {
+      "count": 0,
+      "percent": 0,
+      "positions": []
+    },
+    "wordOrder": {
+      "svo": 0,
+      "inversions": 0,
+      "other": 19,
+      "deviationPercent": 1
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 133,
+      "consonants": 175,
+      "ratio": 0.76
+    },
+    "consonantClusters": {
+      "count": 3,
+      "top": [
+        {
+          "cluster": "rcz",
+          "count": 1
+        },
+        {
+          "cluster": "wsz",
+          "count": 1
+        },
+        {
+          "cluster": "prz",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 5,
+      "syczace": 39,
+      "nosowe": 30,
+      "plynne": 11
+    },
+    "rhymes": {
+      "exact": 1,
+      "approximate": 0,
+      "internal": 0,
+      "assonance": 0,
+      "alliteration": 4
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        24
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 133,
+      "estimatedSeconds": 44,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "regularny",
+      "regularityScore": 0.79
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Biblia",
+          "reference": "Stworzenie świata, opozycja Bóg-człowiek",
+          "evidence": "Ja jestem Ziemia / Ty jesteś Słońce / Ja jestem noc / Ty jesteś Bóg"
+        },
+        {
+          "source": "mitologia",
+          "reference": "Archetypy żeńskie i męskie",
+          "evidence": "opozycje: pozioma-pionowy, dolina-góra, woda-ogień"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.2,
+        "baudelaire": 0.1,
+        "bursa": 0,
+        "stachura": 0.3,
+        "grochowiak": 0.7,
+        "bialoszewski": 0.1,
+        "rozewicz": 0.2
+      }
+    },
+    "space": {
+      "type": "otwarta",
+      "evidence": "przestrzeń kosmiczna (Ziemia-Słońce) i intymna jednocześnie, brak konkretnych granic",
+      "openClosedRatio": 0.8
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "nieokreslona",
+      "evidence": "wymiar ponadczasowy, choć pojawia się 'noc' jako metafora"
+    },
+    "motion": {
+      "movement": 7,
+      "stillness": 3,
+      "dynamism": 0.7,
+      "evidence": "dynamika pozycji: pozioma-pionowa, kulminacja w 'górze orgazmu', zmienność stanów"
+    },
+    "imageryDensity": {
+      "metaphors": 12,
+      "comparisons": 0,
+      "personifications": 2,
+      "hyperboles": 3,
+      "per100words": 28.3
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.9,
+      "creationLevel": 0.8,
+      "ironicDistance": 0.1,
+      "autobiographicSignals": [
+        "erotyzm",
+        "intymność cielesna",
+        "nagość",
+        "orgazm",
+        "relacja miłosna"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "pożądanie",
+      "secondary": "czułość",
+      "intensity": 0.9
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "Konsekwentne użycie 'Ja jestem' przez cały wiersz, silna obecność podmiotu lirycznego"
+    },
+    "addressee": {
+      "type": "ty",
+      "evidence": "Wielokrotne zwroty 'Ty jesteś', wiersz ma charakter dialogiczny, skierowany do konkretnej osoby"
+    },
+    "metaphors": [
+      {
+        "source": "położenie przestrzenne",
+        "target": "role w relacji",
+        "example": "Ja jestem pozioma / Ty jesteś pionowy"
+      },
+      {
+        "source": "elementy krajobrazu",
+        "target": "komplementarność",
+        "example": "Ty jesteś góra / Ja jestem dolina"
+      },
+      {
+        "source": "ciała niebieskie",
+        "target": "hierarchia miłosna",
+        "example": "Ja jestem Ziemia / Ty jesteś Słońce"
+      },
+      {
+        "source": "walka",
+        "target": "akt miłosny",
+        "example": "Ja jestem tarcza / Ty jesteś miecz"
+      },
+      {
+        "source": "żywioły",
+        "target": "przeciwieństwa",
+        "example": "Ty jesteś ogień / Ja jestem woda"
+      }
+    ],
+    "temperature": {
+      "value": 0.95,
+      "label": "bardzo gorące - erotyczne napięcie i kulminacja"
+    },
+    "senses": {
+      "wzrok": 2,
+      "sluch": 1,
+      "dotyk": 5,
+      "smak": 1,
+      "zapach": 1
+    },
+    "autodestruction": {
+      "level": 0.3,
+      "signals": [
+        "Ja jestem rana",
+        "motyw bólu w kontekście miłosnym"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 0.705,
+    "dfaAlpha": -1.77,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -3.524627420627912
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -2.489983361504433
+      },
+      {
+        "logWin": 1.6094379124341003,
+        "logFluc": -35.62067785225806
+      },
+      {
+        "logWin": 1.791759469228055,
+        "logFluc": -2.0077012924755384
+      },
+      {
+        "logWin": 1.9459101490553132,
+        "logFluc": -2.3836445177322627
+      }
+    ],
+    "seriesLength": 24,
+    "series": [
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      4,
+      3,
+      3,
+      3,
+      3,
+      3,
+      2,
+      3,
+      2
+    ]
+  }
+}

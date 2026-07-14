@@ -1,0 +1,819 @@
+{
+  "id": "klub",
+  "title": "Klub",
+  "wordCount": 57,
+  "lineCount": 14,
+  "uniqueWords": 48,
+  "vocabularyRichness": 0.842,
+  "avgWordsPerLine": 4.07,
+  "wordsPerLineDistribution": [
+    6,
+    1,
+    5,
+    4,
+    5,
+    6,
+    5,
+    3,
+    3,
+    3,
+    4,
+    5,
+    3,
+    4
+  ],
+  "wordFrequencies": [
+    [
+      "patrzy",
+      1
+    ],
+    [
+      "dno",
+      1
+    ],
+    [
+      "szklanki",
+      1
+    ],
+    [
+      "oko",
+      1
+    ],
+    [
+      "spodniach",
+      1
+    ],
+    [
+      "głową",
+      1
+    ],
+    [
+      "poci",
+      1
+    ],
+    [
+      "kroczu",
+      1
+    ],
+    [
+      "pederastą",
+      1
+    ],
+    [
+      "walczę",
+      1
+    ],
+    [
+      "odwrotnej",
+      1
+    ],
+    [
+      "pozycji",
+      1
+    ],
+    [
+      "mówi",
+      1
+    ],
+    [
+      "mrówki",
+      1
+    ],
+    [
+      "umierałem",
+      1
+    ],
+    [
+      "skracałem",
+      1
+    ],
+    [
+      "odmawianiem",
+      1
+    ],
+    [
+      "tabliczki",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 0,
+    "period": 0,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 0,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 1,
+  "negationWords": [
+    "nie"
+  ],
+  "pronounDistribution": {
+    "ja": 3,
+    "ty": 0,
+    "on_ona": 0,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 1,
+    "smierc": 0,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [
+    [
+      "pani",
+      2
+    ],
+    [
+      "kiedy",
+      2
+    ]
+  ],
+  "firstWord": "patrzy",
+  "lastWord": "powiedzieć",
+  "avgWordLength": 4.68,
+  "wordLengthDistribution": {
+    "6-7": 7,
+    "1-3": 22,
+    "4-5": 16,
+    "8-9": 10,
+    "10+": 2
+  },
+  "bigrams": [
+    [
+      "dno szklanki",
+      1
+    ],
+    [
+      "szklanki oko",
+      1
+    ],
+    [
+      "głową poci",
+      1
+    ]
+  ],
+  "poemWords": [
+    "patrzy",
+    "dno",
+    "szklanki",
+    "oko",
+    "pani",
+    "spodniach",
+    "głową",
+    "poci",
+    "kroczu",
+    "pan",
+    "pederastą",
+    "walczę",
+    "odwrotnej",
+    "pozycji",
+    "mówi",
+    "mrówki",
+    "umierałem",
+    "skracałem",
+    "odmawianiem",
+    "tabliczki",
+    "mnożenia",
+    "zbiegam",
+    "dół",
+    "rozpinam",
+    "spodnie",
+    "pisuarem",
+    "prosi",
+    "powiedzieć"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 18,
+        "VERB": 11,
+        "ADJ": 3,
+        "ADV": 2,
+        "PRON": 6,
+        "ADP": 8,
+        "CCONJ": 3,
+        "SCONJ": 3,
+        "INTJ": 0,
+        "PART": 3,
+        "DET": 0,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.31,
+        "VERB": 0.19,
+        "ADJ": 0.052,
+        "ADV": 0.034,
+        "PRON": 0.103,
+        "ADP": 0.138,
+        "CCONJ": 0.052,
+        "SCONJ": 0.052,
+        "INTJ": 0,
+        "PART": 0.052,
+        "DET": 0,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 2,
+        "abstract": 0,
+        "ratio": 1
+      },
+      "verbTenses": {
+        "present": 9,
+        "past": 2,
+        "infinitive": 1
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 2,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 2,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 0,
+        "opisowe": 3
+      },
+      "adverbs": {
+        "temporalne": [],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "kiedy",
+            "count": 2
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 3,
+        "ty": 0,
+        "on_ona": 0,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 1,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 1,
+        "percentSentences": 0.2
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 114,
+        "consonants": 157,
+        "ratio": 0.73
+      },
+      "consonantClusters": {
+        "count": 8,
+        "top": [
+          {
+            "cluster": "prz",
+            "count": 2
+          },
+          {
+            "cluster": "trz",
+            "count": 1
+          },
+          {
+            "cluster": "szkl",
+            "count": 1
+          },
+          {
+            "cluster": "lcz",
+            "count": 1
+          },
+          {
+            "cluster": "dwr",
+            "count": 1
+          },
+          {
+            "cluster": "skr",
+            "count": 1
+          },
+          {
+            "cluster": "czk",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 11,
+        "syczace": 22,
+        "nosowe": 34,
+        "plynne": 20
+      },
+      "rhymes": {
+        "exact": 1,
+        "approximate": 2,
+        "internal": 0,
+        "assonance": 0,
+        "alliteration": 1
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 11.6,
+        "median": 8,
+        "min": 1,
+        "max": 31,
+        "distribution": [
+          0,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 3.9,
+        "meanSyllables": 7.9,
+        "distribution": [
+          0,
+          2,
+          0,
+          4,
+          3,
+          4,
+          2
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 5,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 2,
+        "noSubject": 0,
+        "noPredicate": 0,
+        "percent": 0.4
+      },
+      "enjambement": {
+        "count": 8,
+        "percent": 0.57,
+        "positions": [
+          6,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14
+        ]
+      },
+      "wordOrder": {
+        "svo": 2,
+        "inversions": 1,
+        "other": 1,
+        "deviationPercent": 0.5
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 1,
+        "śmierć": 0,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 118,
+      "estimatedSeconds": 39,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 18,
+      "VERB": 11,
+      "ADJ": 3,
+      "ADV": 2,
+      "PRON": 6,
+      "ADP": 8,
+      "CCONJ": 3,
+      "SCONJ": 3,
+      "INTJ": 0,
+      "PART": 3,
+      "DET": 0,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.31,
+      "VERB": 0.19,
+      "ADJ": 0.052,
+      "ADV": 0.034,
+      "PRON": 0.103,
+      "ADP": 0.138,
+      "CCONJ": 0.052,
+      "SCONJ": 0.052,
+      "INTJ": 0,
+      "PART": 0.052,
+      "DET": 0,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 2,
+      "abstract": 0,
+      "ratio": 1
+    },
+    "verbTenses": {
+      "present": 9,
+      "past": 2,
+      "infinitive": 1
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 2,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 2,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 0,
+      "opisowe": 3
+    },
+    "adverbs": {
+      "temporalne": [],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "kiedy",
+          "count": 2
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 3,
+      "ty": 0,
+      "on_ona": 0,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 1,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 1,
+      "percentSentences": 0.2
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 11.6,
+      "median": 8,
+      "min": 1,
+      "max": 31,
+      "distribution": [
+        0,
+        1,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 3.9,
+      "meanSyllables": 7.9,
+      "distribution": [
+        0,
+        2,
+        0,
+        4,
+        3,
+        4,
+        2
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 5,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 2,
+      "noSubject": 0,
+      "noPredicate": 0,
+      "percent": 0.4
+    },
+    "enjambement": {
+      "count": 8,
+      "percent": 0.57,
+      "positions": [
+        6,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ]
+    },
+    "wordOrder": {
+      "svo": 2,
+      "inversions": 1,
+      "other": 1,
+      "deviationPercent": 0.5
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 114,
+      "consonants": 157,
+      "ratio": 0.73
+    },
+    "consonantClusters": {
+      "count": 8,
+      "top": [
+        {
+          "cluster": "prz",
+          "count": 2
+        },
+        {
+          "cluster": "trz",
+          "count": 1
+        },
+        {
+          "cluster": "szkl",
+          "count": 1
+        },
+        {
+          "cluster": "lcz",
+          "count": 1
+        },
+        {
+          "cluster": "dwr",
+          "count": 1
+        },
+        {
+          "cluster": "skr",
+          "count": 1
+        },
+        {
+          "cluster": "czk",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 11,
+      "syczace": 22,
+      "nosowe": 34,
+      "plynne": 20
+    },
+    "rhymes": {
+      "exact": 1,
+      "approximate": 2,
+      "internal": 0,
+      "assonance": 0,
+      "alliteration": 1
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        15
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 118,
+      "estimatedSeconds": 39,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "polregularny",
+      "regularityScore": 0.57
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "inne",
+          "reference": "tabliczka mnożenia jako forma medytacji/modlitwy",
+          "evidence": "odmawianiem tabliczki mnożenia"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.3,
+        "baudelaire": 0.2,
+        "bursa": 0.8,
+        "stachura": 0.4,
+        "grochowiak": 0.7,
+        "bialoszewski": 0.6,
+        "rozewicz": 0.5
+      }
+    },
+    "space": {
+      "type": "zamknieta",
+      "evidence": "klub, pisuar - przestrzenie zamknięte, intymne",
+      "openClosedRatio": 0.2
+    },
+    "timeOfDay": {
+      "period": "wieczor",
+      "season": "nieokreslona",
+      "evidence": "klub sugeruje porę wieczorną"
+    },
+    "motion": {
+      "movement": 6,
+      "stillness": 4,
+      "dynamism": 0.6,
+      "evidence": "zbiegam na dół, rozpinam spodnie - intensywny ruch fizyczny"
+    },
+    "imageryDensity": {
+      "metaphors": 2,
+      "comparisons": 0,
+      "personifications": 1,
+      "hyperboles": 0,
+      "per100words": 6.8
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.9,
+      "creationLevel": 0.3,
+      "ironicDistance": 0.1,
+      "autobiographicSignals": [
+        "kiedy ja umierałem",
+        "intymne szczegóły fizjologiczne",
+        "bezpośredni ton wyznania"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "obrzydzenie",
+      "secondary": "rezygnacja",
+      "intensity": 0.8
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "Podmiot liryczny mówi w pierwszej osobie: 'patrzy na mnie', 'ja walczę', 'kiedy ja umierałem'"
+    },
+    "addressee": {
+      "type": "nikt",
+      "evidence": "Brak bezpośredniego zwrotu do kogokolwiek, monolog wewnętrzny w przestrzeni publicznej"
+    },
+    "metaphors": [
+      {
+        "source": "oko w szklance",
+        "target": "obserwacja/podglądanie",
+        "example": "Patrzy na mnie przez dno szklanki / Oko"
+      },
+      {
+        "source": "mrówki",
+        "target": "chaos myślowy/absurd",
+        "example": "Mówi że nie bo mrówki"
+      },
+      {
+        "source": "tabliczka mnożenia",
+        "target": "rutyna jako ucieczka od śmierci",
+        "example": "to sobie skracałem / odmawianiem tabliczki mnożenia"
+      }
+    ],
+    "temperature": {
+      "value": 0.3,
+      "label": "chłodny dyskomfort"
+    },
+    "senses": {
+      "wzrok": 4,
+      "sluch": 2,
+      "dotyk": 3,
+      "smak": 0,
+      "zapach": 1
+    },
+    "autodestruction": {
+      "level": 0.6,
+      "signals": [
+        "eksponowanie się w miejscach publicznych",
+        "ryzykowne zachowania seksualne",
+        "myśli o umieraniu",
+        "degradacja własnego wizerunku"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 1.044,
+    "dfaAlpha": 2.526,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -1.0397207708399172
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -0.31302181066006207
+      }
+    ],
+    "seriesLength": 14,
+    "series": [
+      6,
+      1,
+      5,
+      4,
+      5,
+      6,
+      5,
+      3,
+      3,
+      3,
+      4,
+      5,
+      3,
+      4
+    ]
+  }
+}

@@ -1,0 +1,785 @@
+{
+  "id": "czys-wiedzial",
+  "title": "Czyś wiedział...",
+  "wordCount": 49,
+  "lineCount": 7,
+  "uniqueWords": 41,
+  "vocabularyRichness": 0.837,
+  "avgWordsPerLine": 7,
+  "wordsPerLineDistribution": [
+    2,
+    6,
+    4,
+    9,
+    9,
+    9,
+    10
+  ],
+  "wordFrequencies": [
+    [
+      "czyś",
+      2
+    ],
+    [
+      "wiedział",
+      2
+    ],
+    [
+      "śmierć",
+      2
+    ],
+    [
+      "śpiewa",
+      2
+    ],
+    [
+      "zdyszany",
+      1
+    ],
+    [
+      "szept",
+      1
+    ],
+    [
+      "zegarka",
+      1
+    ],
+    [
+      "pęknięte",
+      1
+    ],
+    [
+      "lustro",
+      1
+    ],
+    [
+      "słowa",
+      1
+    ],
+    [
+      "sen",
+      1
+    ],
+    [
+      "bezsenność",
+      1
+    ],
+    [
+      "rytmiczna",
+      1
+    ],
+    [
+      "czternastosylabowa",
+      1
+    ],
+    [
+      "cezurą",
+      1
+    ],
+    [
+      "skurcz",
+      1
+    ],
+    [
+      "serca",
+      1
+    ],
+    [
+      "sercu",
+      1
+    ],
+    [
+      "tobie",
+      1
+    ],
+    [
+      "zaśniesz",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 5,
+    "period": 1,
+    "question": 1,
+    "exclamation": 0,
+    "ellipsis": 1,
+    "dash": 1,
+    "colon": 1,
+    "semicolon": 2
+  },
+  "questionCount": 1,
+  "exclamationCount": 0,
+  "negationCount": 2,
+  "negationWords": [
+    "nie"
+  ],
+  "pronounDistribution": {
+    "ja": 1,
+    "ty": 1,
+    "on_ona": 0,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 0,
+    "smierc": 2,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 2,
+    "bol": 1
+  },
+  "anaphors": [],
+  "firstWord": "czyś",
+  "lastWord": "skona",
+  "avgWordLength": 5.18,
+  "wordLengthDistribution": {
+    "4-5": 12,
+    "8-9": 7,
+    "6-7": 12,
+    "1-3": 16,
+    "10+": 2
+  },
+  "bigrams": [
+    [
+      "czyś wiedział",
+      2
+    ],
+    [
+      "wiedział zdyszany",
+      1
+    ],
+    [
+      "zdyszany szept",
+      1
+    ],
+    [
+      "szept zegarka",
+      1
+    ],
+    [
+      "zegarka pęknięte",
+      1
+    ],
+    [
+      "pęknięte lustro",
+      1
+    ],
+    [
+      "lustro słowa",
+      1
+    ],
+    [
+      "słowa sen",
+      1
+    ],
+    [
+      "sen bezsenność",
+      1
+    ],
+    [
+      "bezsenność rytmiczna",
+      1
+    ],
+    [
+      "rytmiczna czternastosylabowa",
+      1
+    ]
+  ],
+  "poemWords": [
+    "czyś",
+    "wiedział",
+    "zdyszany",
+    "szept",
+    "zegarka",
+    "pęknięte",
+    "lustro",
+    "słowa",
+    "sen",
+    "bezsenność",
+    "rytmiczna",
+    "czternastosylabowa",
+    "cezurą",
+    "skurcz",
+    "serca",
+    "śmierć",
+    "sercu",
+    "śpiewa",
+    "tobie",
+    "zaśniesz",
+    "zżują",
+    "mrówki",
+    "minut",
+    "zaklnę",
+    "rym",
+    "wkręcona",
+    "klatce",
+    "tercyny",
+    "skona"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 19,
+        "VERB": 6,
+        "ADJ": 5,
+        "ADV": 2,
+        "PRON": 3,
+        "ADP": 4,
+        "CCONJ": 1,
+        "SCONJ": 3,
+        "INTJ": 0,
+        "PART": 3,
+        "DET": 1,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.388,
+        "VERB": 0.122,
+        "ADJ": 0.102,
+        "ADV": 0.041,
+        "PRON": 0.061,
+        "ADP": 0.082,
+        "CCONJ": 0.02,
+        "SCONJ": 0.061,
+        "INTJ": 0,
+        "PART": 0.061,
+        "DET": 0.02,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 3,
+        "abstract": 3,
+        "ratio": 0.5
+      },
+      "verbTenses": {
+        "past": 2,
+        "present": 2,
+        "future": 2
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 0,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 2,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 0,
+        "opisowe": 5
+      },
+      "adverbs": {
+        "temporalne": [],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "gdy",
+            "count": 1
+          },
+          {
+            "word": "tak",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 1,
+        "ty": 2,
+        "on_ona": 0,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 2,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 2,
+        "percentSentences": 0.4
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 101,
+        "consonants": 153,
+        "ratio": 0.66
+      },
+      "consonantClusters": {
+        "count": 6,
+        "top": [
+          {
+            "cluster": "str",
+            "count": 1
+          },
+          {
+            "cluster": "czn",
+            "count": 1
+          },
+          {
+            "cluster": "czt",
+            "count": 1
+          },
+          {
+            "cluster": "rcz",
+            "count": 1
+          },
+          {
+            "cluster": "kln",
+            "count": 1
+          },
+          {
+            "cluster": "wkr",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 12,
+        "syczace": 36,
+        "nosowe": 31,
+        "plynne": 23
+      },
+      "rhymes": {
+        "exact": 1,
+        "approximate": 2,
+        "internal": 1,
+        "assonance": 0,
+        "alliteration": 0
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 9.8,
+        "median": 10,
+        "min": 2,
+        "max": 17,
+        "distribution": [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 7.1,
+        "meanSyllables": 15,
+        "distribution": [
+          0,
+          0,
+          1,
+          0,
+          1,
+          0,
+          1,
+          0,
+          0,
+          2,
+          2
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 4,
+        "interrogative": 1,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 1,
+        "noSubject": 1,
+        "noPredicate": 1,
+        "percent": 0.6
+      },
+      "enjambement": {
+        "count": 0,
+        "percent": 0,
+        "positions": []
+      },
+      "wordOrder": {
+        "svo": 2,
+        "inversions": 0,
+        "other": 3,
+        "deviationPercent": 0.6
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 1,
+        "śmierć": 2,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 2,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 105,
+      "estimatedSeconds": 35,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 19,
+      "VERB": 6,
+      "ADJ": 5,
+      "ADV": 2,
+      "PRON": 3,
+      "ADP": 4,
+      "CCONJ": 1,
+      "SCONJ": 3,
+      "INTJ": 0,
+      "PART": 3,
+      "DET": 1,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.388,
+      "VERB": 0.122,
+      "ADJ": 0.102,
+      "ADV": 0.041,
+      "PRON": 0.061,
+      "ADP": 0.082,
+      "CCONJ": 0.02,
+      "SCONJ": 0.061,
+      "INTJ": 0,
+      "PART": 0.061,
+      "DET": 0.02,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 3,
+      "abstract": 3,
+      "ratio": 0.5
+    },
+    "verbTenses": {
+      "past": 2,
+      "present": 2,
+      "future": 2
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 0,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 2,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 0,
+      "opisowe": 5
+    },
+    "adverbs": {
+      "temporalne": [],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "gdy",
+          "count": 1
+        },
+        {
+          "word": "tak",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 1,
+      "ty": 2,
+      "on_ona": 0,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 2,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 2,
+      "percentSentences": 0.4
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 9.8,
+      "median": 10,
+      "min": 2,
+      "max": 17,
+      "distribution": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 7.1,
+      "meanSyllables": 15,
+      "distribution": [
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        1,
+        0,
+        0,
+        2,
+        2
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 4,
+      "interrogative": 1,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 1,
+      "noSubject": 1,
+      "noPredicate": 1,
+      "percent": 0.6
+    },
+    "enjambement": {
+      "count": 0,
+      "percent": 0,
+      "positions": []
+    },
+    "wordOrder": {
+      "svo": 2,
+      "inversions": 0,
+      "other": 3,
+      "deviationPercent": 0.6
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 101,
+      "consonants": 153,
+      "ratio": 0.66
+    },
+    "consonantClusters": {
+      "count": 6,
+      "top": [
+        {
+          "cluster": "str",
+          "count": 1
+        },
+        {
+          "cluster": "czn",
+          "count": 1
+        },
+        {
+          "cluster": "czt",
+          "count": 1
+        },
+        {
+          "cluster": "rcz",
+          "count": 1
+        },
+        {
+          "cluster": "kln",
+          "count": 1
+        },
+        {
+          "cluster": "wkr",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 12,
+      "syczace": 36,
+      "nosowe": 31,
+      "plynne": 23
+    },
+    "rhymes": {
+      "exact": 1,
+      "approximate": 2,
+      "internal": 1,
+      "assonance": 0,
+      "alliteration": 0
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        7
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 105,
+      "estimatedSeconds": 35,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "polregularny",
+      "regularityScore": 0.68
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "inne",
+          "reference": "tercyna - forma wersyfikacyjna Dantego",
+          "evidence": "w klatce tercyny skona"
+        },
+        {
+          "source": "inne",
+          "reference": "tradycja sonetowa",
+          "evidence": "czternastosylabowa / Z cezurą na skurcz serca"
+        },
+        {
+          "source": "Baudelaire",
+          "reference": "motyw czasu jako destrukcyjnej siły",
+          "evidence": "mrówki minut"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.3,
+        "baudelaire": 0.7,
+        "bursa": 0.2,
+        "stachura": 0.4,
+        "grochowiak": 0.3,
+        "bialoszewski": 0.1,
+        "rozewicz": 0.2
+      }
+    },
+    "space": {
+      "type": "zamknieta",
+      "evidence": "w klatce tercyny skona - metafora uwięzienia w formie poetyckiej",
+      "openClosedRatio": 0.2
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "nieokreslona",
+      "evidence": "brak konkretnych wskaźników czasowych poza abstrakcyjnym 'mrówki minut'"
+    },
+    "motion": {
+      "movement": 4,
+      "stillness": 6,
+      "dynamism": 0.4,
+      "evidence": "zdyszany szept - sugeruje ruch, ale dominuje statyczność snu i bezsenności"
+    },
+    "imageryDensity": {
+      "metaphors": 6,
+      "comparisons": 1,
+      "personifications": 3,
+      "hyperboles": 1,
+      "per100words": 27.5
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.9,
+      "creationLevel": 0.8,
+      "ironicDistance": 0.2,
+      "autobiographicSignals": [
+        "Czyś wiedział",
+        "nie Tobie śpiewa",
+        "że zaklnę",
+        "bezpośredni zwrot do adresata"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "tęsknota",
+      "secondary": "rozpacz",
+      "intensity": 0.8
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "podmiot liryczny mówi w pierwszej osobie: 'zżują mi Cię', 'zaklnę'"
+    },
+    "addressee": {
+      "type": "ty",
+      "evidence": "bezpośrednie zwroty do adresata: 'Czyś wiedział', 'nie Tobie śpiewa', 'zżują mi Cię'"
+    },
+    "metaphors": [
+      {
+        "source": "zegar",
+        "target": "czas",
+        "example": "Zdyszany szept zegarka"
+      },
+      {
+        "source": "mrówki",
+        "target": "minuty/czas",
+        "example": "mrówki minut"
+      },
+      {
+        "source": "klatka",
+        "target": "forma poetycka",
+        "example": "w klatce tercyny"
+      }
+    ],
+    "temperature": {
+      "value": 0.7,
+      "label": "ciepłe - intensywne uczucie miłosne i lęk przed utratą"
+    },
+    "senses": {
+      "wzrok": 2,
+      "sluch": 4,
+      "dotyk": 3,
+      "smak": 0,
+      "zapach": 0
+    },
+    "autodestruction": {
+      "level": 0.3,
+      "signals": [
+        "'skurcz serca'",
+        "obsesja na punkcie śmierci",
+        "rytmiczna bezsenność"
+      ]
+    }
+  }
+}

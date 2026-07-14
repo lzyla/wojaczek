@@ -1,0 +1,948 @@
+{
+  "id": "zdumiewa-sie-madroscia",
+  "title": "Zdumiewa się mądrością",
+  "wordCount": 96,
+  "lineCount": 16,
+  "uniqueWords": 86,
+  "vocabularyRichness": 0.896,
+  "avgWordsPerLine": 6,
+  "wordsPerLineDistribution": [
+    2,
+    4,
+    4,
+    6,
+    9,
+    7,
+    7,
+    7,
+    6,
+    7,
+    5,
+    5,
+    10,
+    6,
+    6,
+    5
+  ],
+  "wordFrequencies": [
+    [
+      "stanislawowi",
+      1
+    ],
+    [
+      "ścierskiemu",
+      1
+    ],
+    [
+      "teatru",
+      1
+    ],
+    [
+      "13",
+      1
+    ],
+    [
+      "rzędów",
+      1
+    ],
+    [
+      "nowym",
+      1
+    ],
+    [
+      "świecie",
+      1
+    ],
+    [
+      "zdumiewa",
+      1
+    ],
+    [
+      "mądrością",
+      1
+    ],
+    [
+      "małej",
+      1
+    ],
+    [
+      "człowieczej",
+      1
+    ],
+    [
+      "rzeczy",
+      1
+    ],
+    [
+      "gość",
+      1
+    ],
+    [
+      "gospodę",
+      1
+    ],
+    [
+      "obrał",
+      1
+    ],
+    [
+      "dziś",
+      1
+    ],
+    [
+      "ziemi",
+      1
+    ],
+    [
+      "iż",
+      1
+    ],
+    [
+      "zmierzchłym",
+      1
+    ],
+    [
+      "przestworze",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 14,
+    "period": 2,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 1,
+    "colon": 1,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 2,
+  "negationWords": [
+    "bez",
+    "nie"
+  ],
+  "pronounDistribution": {
+    "ja": 0,
+    "ty": 0,
+    "on_ona": 3,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 0,
+    "smierc": 0,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [],
+  "firstWord": "stanislawowi",
+  "lastWord": "polsce",
+  "avgWordLength": 5.63,
+  "wordLengthDistribution": {
+    "10+": 14,
+    "1-3": 28,
+    "6-7": 24,
+    "4-5": 21,
+    "8-9": 9
+  },
+  "bigrams": [
+    [
+      "stanislawowi ścierskiemu",
+      1
+    ],
+    [
+      "teatru 13",
+      1
+    ],
+    [
+      "13 rzędów",
+      1
+    ],
+    [
+      "rzędów właśnie",
+      1
+    ],
+    [
+      "nowym świecie",
+      1
+    ],
+    [
+      "świecie zdumiewa",
+      1
+    ],
+    [
+      "mądrością małej",
+      1
+    ],
+    [
+      "małej człowieczej",
+      1
+    ],
+    [
+      "człowieczej rzeczy",
+      1
+    ]
+  ],
+  "poemWords": [
+    "stanislawowi",
+    "ścierskiemu",
+    "teatru",
+    "rzędów",
+    "nowym",
+    "świecie",
+    "zdumiewa",
+    "mądrością",
+    "małej",
+    "człowieczej",
+    "rzeczy",
+    "gość",
+    "gospodę",
+    "obrał",
+    "dziś",
+    "ziemi",
+    "zmierzchłym",
+    "przestworze",
+    "zamajaczyła",
+    "gwiazdą",
+    "łaskawie",
+    "swojską",
+    "rzekłby",
+    "krwi",
+    "tkliwie",
+    "bratnią",
+    "ironii",
+    "wróżącą",
+    "jaki",
+    "pewny",
+    "dom",
+    "przychylność",
+    "nędzy",
+    "zrozumienie",
+    "snom",
+    "osiągnąwszy",
+    "zsiadł",
+    "uprzejmej",
+    "mgławicy",
+    "przygodnego",
+    "obłoku",
+    "zaraz",
+    "spod",
+    "szubienicy",
+    "krzyża",
+    "ustawionego",
+    "wyniosłym",
+    "pagórze",
+    "dwaj",
+    "znani",
+    "snu",
+    "śnił",
+    "dzieciństwie",
+    "stróże",
+    "legitymujący",
+    "milczący",
+    "wyszli",
+    "schwycili",
+    "młotków",
+    "gwoździ",
+    "dobyli",
+    "przybili",
+    "1969",
+    "polsce"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 27,
+        "VERB": 12,
+        "ADJ": 14,
+        "ADV": 3,
+        "PRON": 8,
+        "ADP": 10,
+        "CCONJ": 4,
+        "SCONJ": 2,
+        "INTJ": 0,
+        "PART": 3,
+        "DET": 3,
+        "NUM": 2
+      },
+      "posPercent": {
+        "NOUN": 0.287,
+        "VERB": 0.128,
+        "ADJ": 0.149,
+        "ADV": 0.032,
+        "PRON": 0.085,
+        "ADP": 0.106,
+        "CCONJ": 0.043,
+        "SCONJ": 0.021,
+        "INTJ": 0,
+        "PART": 0.032,
+        "DET": 0.032,
+        "NUM": 0.021
+      },
+      "nounConcreteAbstract": {
+        "concrete": 2,
+        "abstract": 1,
+        "ratio": 0.67
+      },
+      "verbTenses": {
+        "present": 2,
+        "past": 10
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 0,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 0,
+        "opisowe": 14
+      },
+      "adverbs": {
+        "temporalne": [
+          "zaraz"
+        ],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "dziś",
+            "count": 1
+          },
+          {
+            "word": "gdy",
+            "count": 1
+          },
+          {
+            "word": "zaraz",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 0,
+        "ty": 0,
+        "on_ona": 3,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 1,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 1,
+        "percentSentences": 0.25
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 226,
+        "consonants": 318,
+        "ratio": 0.71
+      },
+      "consonantClusters": {
+        "count": 22,
+        "top": [
+          {
+            "cluster": "prz",
+            "count": 5
+          },
+          {
+            "cluster": "rsk",
+            "count": 1
+          },
+          {
+            "cluster": "czł",
+            "count": 1
+          },
+          {
+            "cluster": "rzchł",
+            "count": 1
+          },
+          {
+            "cluster": "stw",
+            "count": 1
+          },
+          {
+            "cluster": "jsk",
+            "count": 1
+          },
+          {
+            "cluster": "kłb",
+            "count": 1
+          },
+          {
+            "cluster": "krw",
+            "count": 1
+          },
+          {
+            "cluster": "tkl",
+            "count": 1
+          },
+          {
+            "cluster": "wsz",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 24,
+        "syczace": 66,
+        "nosowe": 66,
+        "plynne": 48
+      },
+      "rhymes": {
+        "exact": 1,
+        "approximate": 1,
+        "internal": 3,
+        "assonance": 0,
+        "alliteration": 0
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 23.5,
+        "median": 20,
+        "min": 17,
+        "max": 36,
+        "distribution": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 5.9,
+        "meanSyllables": 14.5,
+        "distribution": [
+          0,
+          0,
+          1,
+          1,
+          2,
+          2,
+          3,
+          5,
+          0,
+          1,
+          1
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 4,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 0,
+        "noSubject": 1,
+        "noPredicate": 0,
+        "percent": 0.25
+      },
+      "enjambement": {
+        "count": 1,
+        "percent": 0.07,
+        "positions": [
+          2
+        ]
+      },
+      "wordOrder": {
+        "svo": 2,
+        "inversions": 1,
+        "other": 1,
+        "deviationPercent": 0.5
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 0,
+        "śmierć": 0,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 1,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 232,
+      "estimatedSeconds": 77,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 27,
+      "VERB": 12,
+      "ADJ": 14,
+      "ADV": 3,
+      "PRON": 8,
+      "ADP": 10,
+      "CCONJ": 4,
+      "SCONJ": 2,
+      "INTJ": 0,
+      "PART": 3,
+      "DET": 3,
+      "NUM": 2
+    },
+    "posPercent": {
+      "NOUN": 0.287,
+      "VERB": 0.128,
+      "ADJ": 0.149,
+      "ADV": 0.032,
+      "PRON": 0.085,
+      "ADP": 0.106,
+      "CCONJ": 0.043,
+      "SCONJ": 0.021,
+      "INTJ": 0,
+      "PART": 0.032,
+      "DET": 0.032,
+      "NUM": 0.021
+    },
+    "nounConcreteAbstract": {
+      "concrete": 2,
+      "abstract": 1,
+      "ratio": 0.67
+    },
+    "verbTenses": {
+      "present": 2,
+      "past": 10
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 0,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 0,
+      "opisowe": 14
+    },
+    "adverbs": {
+      "temporalne": [
+        "zaraz"
+      ],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "dziś",
+          "count": 1
+        },
+        {
+          "word": "gdy",
+          "count": 1
+        },
+        {
+          "word": "zaraz",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 0,
+      "ty": 0,
+      "on_ona": 3,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 1,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 1,
+      "percentSentences": 0.25
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 23.5,
+      "median": 20,
+      "min": 17,
+      "max": 36,
+      "distribution": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 5.9,
+      "meanSyllables": 14.5,
+      "distribution": [
+        0,
+        0,
+        1,
+        1,
+        2,
+        2,
+        3,
+        5,
+        0,
+        1,
+        1
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 4,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 0,
+      "noSubject": 1,
+      "noPredicate": 0,
+      "percent": 0.25
+    },
+    "enjambement": {
+      "count": 1,
+      "percent": 0.07,
+      "positions": [
+        2
+      ]
+    },
+    "wordOrder": {
+      "svo": 2,
+      "inversions": 1,
+      "other": 1,
+      "deviationPercent": 0.5
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 226,
+      "consonants": 318,
+      "ratio": 0.71
+    },
+    "consonantClusters": {
+      "count": 22,
+      "top": [
+        {
+          "cluster": "prz",
+          "count": 5
+        },
+        {
+          "cluster": "rsk",
+          "count": 1
+        },
+        {
+          "cluster": "czł",
+          "count": 1
+        },
+        {
+          "cluster": "rzchł",
+          "count": 1
+        },
+        {
+          "cluster": "stw",
+          "count": 1
+        },
+        {
+          "cluster": "jsk",
+          "count": 1
+        },
+        {
+          "cluster": "kłb",
+          "count": 1
+        },
+        {
+          "cluster": "krw",
+          "count": 1
+        },
+        {
+          "cluster": "tkl",
+          "count": 1
+        },
+        {
+          "cluster": "wsz",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 24,
+      "syczace": 66,
+      "nosowe": 66,
+      "plynne": 48
+    },
+    "rhymes": {
+      "exact": 1,
+      "approximate": 1,
+      "internal": 3,
+      "assonance": 0,
+      "alliteration": 0
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        16
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 232,
+      "estimatedSeconds": 77,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "regularny",
+      "regularityScore": 0.76
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Biblia",
+          "reference": "ukrzyżowanie Chrystusa",
+          "evidence": "szubienicy Krzyża ustawionego na wyniosłym pagórze"
+        },
+        {
+          "source": "Biblia",
+          "reference": "Golgota",
+          "evidence": "wyniosły pagórek z krzyżem"
+        },
+        {
+          "source": "Biblia",
+          "reference": "przybicie do krzyża",
+          "evidence": "młotków, gwoździ dobyli i przybili"
+        },
+        {
+          "source": "Biblia",
+          "reference": "Gość na ziemi",
+          "evidence": "Gość, co gospodę sobie obrał dziś na tej Ziemi"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.2,
+        "baudelaire": 0.3,
+        "bursa": 0.1,
+        "stachura": 0.2,
+        "grochowiak": 0.3,
+        "bialoszewski": 0.1,
+        "rozewicz": 0.4
+      }
+    },
+    "space": {
+      "type": "otwarta",
+      "evidence": "przestworze, mgławica, pagórek, kosmiczna perspektywa",
+      "openClosedRatio": 0.8
+    },
+    "timeOfDay": {
+      "period": "wieczor",
+      "season": "nieokreslona",
+      "evidence": "zmierzchłe przestworze"
+    },
+    "motion": {
+      "movement": 8,
+      "stillness": 3,
+      "dynamism": 0.7,
+      "evidence": "zsiadł z mgławicy, stróże wyszli, schwycieli, przybili"
+    },
+    "imageryDensity": {
+      "metaphors": 4,
+      "comparisons": 2,
+      "personifications": 3,
+      "hyperboles": 1,
+      "per100words": 12.5
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.6,
+      "creationLevel": 0.8,
+      "ironicDistance": 0.3,
+      "autobiographicSignals": [
+        "dedykacja osobie znanej",
+        "data i miejsce napisania",
+        "ton osobisty"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "melancholia",
+      "secondary": "tęsknota",
+      "intensity": 0.7
+    },
+    "subjectPresence": {
+      "type": "ukryte",
+      "evidence": "podmiot ukryty za figurą Gościa, który jest alter ego poety obserwującego ludzkę kondycję"
+    },
+    "addressee": {
+      "type": "czytelnik",
+      "evidence": "dedykacja dla Stanisława Ścierskiego oraz filozoficzny ton sugerują zwrot do czytelnika"
+    },
+    "metaphors": [
+      {
+        "source": "gwiazda",
+        "target": "nadzieja/dom",
+        "example": "zamajaczyła gwiazdą / Łaskawie swojską, rzekłby: krwi jego tkliwie bratnią"
+      },
+      {
+        "source": "gość",
+        "target": "człowiek na ziemi",
+        "example": "Gość, co gospodę sobie obrał dziś na tej Ziemi"
+      },
+      {
+        "source": "mgławica/obłok",
+        "target": "iluzje/marzenia",
+        "example": "osiągnąwszy zsiadł z uprzejmej mgławicy / Przygodnego obłoku"
+      }
+    ],
+    "temperature": {
+      "value": 0.3,
+      "label": "chłodna melancholia"
+    },
+    "senses": {
+      "wzrok": 4,
+      "sluch": 1,
+      "dotyk": 2,
+      "smak": 0,
+      "zapach": 0
+    },
+    "autodestruction": {
+      "level": 0.8,
+      "signals": [
+        "ukrzyżowanie jako finał ludzkiej wędrówki",
+        "przejście od nadziei do śmierci",
+        "stróże ze snu dzieciństwa jako kataci",
+        "data i miejsce wskazujące na osobisty dramat"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 0.997,
+    "dfaAlpha": 3.639,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -1.956011502714071
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -1.071990031408703
+      },
+      {
+        "logWin": 1.6094379124341003,
+        "logFluc": -0.08286875796725768
+      }
+    ],
+    "seriesLength": 16,
+    "series": [
+      2,
+      4,
+      4,
+      6,
+      9,
+      7,
+      7,
+      7,
+      6,
+      7,
+      5,
+      5,
+      10,
+      6,
+      6,
+      5
+    ]
+  }
+}

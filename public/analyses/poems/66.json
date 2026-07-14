@@ -1,0 +1,886 @@
+{
+  "id": "66",
+  "title": "66",
+  "wordCount": 79,
+  "lineCount": 17,
+  "uniqueWords": 59,
+  "vocabularyRichness": 0.747,
+  "avgWordsPerLine": 4.65,
+  "wordsPerLineDistribution": [
+    4,
+    5,
+    7,
+    4,
+    4,
+    5,
+    2,
+    3,
+    5,
+    5,
+    7,
+    4,
+    4,
+    7,
+    3,
+    5,
+    5
+  ],
+  "wordFrequencies": [
+    [
+      "żydek",
+      2
+    ],
+    [
+      "targuj",
+      2
+    ],
+    [
+      "bój",
+      1
+    ],
+    [
+      "komediantów",
+      1
+    ],
+    [
+      "dobry",
+      1
+    ],
+    [
+      "aktor",
+      1
+    ],
+    [
+      "zawsze",
+      1
+    ],
+    [
+      "kobietą",
+      1
+    ],
+    [
+      "miał",
+      1
+    ],
+    [
+      "trzynaście",
+      1
+    ],
+    [
+      "lat",
+      1
+    ],
+    [
+      "urodzony",
+      1
+    ],
+    [
+      "obcej",
+      1
+    ],
+    [
+      "prowincji",
+      1
+    ],
+    [
+      "widział",
+      1
+    ],
+    [
+      "nagiego",
+      1
+    ],
+    [
+      "księcia",
+      1
+    ],
+    [
+      "uciekł",
+      1
+    ],
+    [
+      "pisze",
+      1
+    ],
+    [
+      "wiersze",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 0,
+    "period": 0,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 1,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 10,
+  "negationWords": [
+    "nie",
+    "nigdy"
+  ],
+  "pronounDistribution": {
+    "ja": 0,
+    "ty": 3,
+    "on_ona": 1,
+    "my": 0,
+    "wy": 0,
+    "oni": 1
+  },
+  "semanticFields": {
+    "cialo": 0,
+    "smierc": 0,
+    "erotyka": 1,
+    "alkohol": 0,
+    "samotnosc": 1,
+    "sacrum": 0,
+    "noc": 1,
+    "bol": 0
+  },
+  "anaphors": [
+    [
+      "nie",
+      4
+    ]
+  ],
+  "firstWord": "nie",
+  "lastWord": "życie",
+  "avgWordLength": 4.65,
+  "wordLengthDistribution": {
+    "1-3": 31,
+    "10+": 4,
+    "4-5": 23,
+    "6-7": 17,
+    "8-9": 4
+  },
+  "bigrams": [
+    [
+      "komediantów dobry",
+      1
+    ],
+    [
+      "dobry aktor",
+      1
+    ],
+    [
+      "aktor zawsze",
+      1
+    ]
+  ],
+  "poemWords": [
+    "bój",
+    "komediantów",
+    "dobry",
+    "aktor",
+    "zawsze",
+    "kobietą",
+    "żydek",
+    "miał",
+    "trzynaście",
+    "lat",
+    "urodzony",
+    "obcej",
+    "prowincji",
+    "widział",
+    "nagiego",
+    "księcia",
+    "uciekł",
+    "pisze",
+    "wiersze",
+    "własnej",
+    "twarzy",
+    "boisz",
+    "spójrz",
+    "gwiazdy",
+    "jaka",
+    "płeć",
+    "musisz",
+    "rozstrzygać",
+    "zdaj",
+    "nich",
+    "stoją",
+    "wokół",
+    "ciebie",
+    "proś",
+    "litość",
+    "ośmieszysz",
+    "targuj",
+    "pocałunek",
+    "życie"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 13,
+        "VERB": 17,
+        "ADJ": 6,
+        "ADV": 3,
+        "PRON": 11,
+        "ADP": 7,
+        "CCONJ": 2,
+        "SCONJ": 2,
+        "INTJ": 0,
+        "PART": 11,
+        "DET": 2,
+        "NUM": 1
+      },
+      "posPercent": {
+        "NOUN": 0.163,
+        "VERB": 0.212,
+        "ADJ": 0.075,
+        "ADV": 0.037,
+        "PRON": 0.138,
+        "ADP": 0.087,
+        "CCONJ": 0.025,
+        "SCONJ": 0.025,
+        "INTJ": 0,
+        "PART": 0.138,
+        "DET": 0.025,
+        "NUM": 0.013
+      },
+      "nounConcreteAbstract": {
+        "concrete": 0,
+        "abstract": 1,
+        "ratio": 0
+      },
+      "verbTenses": {
+        "imperative": 4,
+        "present": 11,
+        "past": 3,
+        "infinitive": 1
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 1,
+        "stan": 4,
+        "destrukcja": 0,
+        "tworzenie": 1,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 1,
+        "opisowe": 5
+      },
+      "adverbs": {
+        "temporalne": [
+          "nigdy",
+          "teraz",
+          "zawsze"
+        ],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "zawsze",
+            "count": 1
+          },
+          {
+            "word": "nigdy",
+            "count": 1
+          },
+          {
+            "word": "teraz",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 0,
+        "ty": 3,
+        "on_ona": 0,
+        "my": 0,
+        "wy": 0,
+        "oni": 2
+      },
+      "negations": {
+        "nie": 9,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 1,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 10,
+        "percentSentences": 1.43
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 161,
+        "consonants": 206,
+        "ratio": 0.78
+      },
+      "consonantClusters": {
+        "count": 7,
+        "top": [
+          {
+            "cluster": "wsz",
+            "count": 1
+          },
+          {
+            "cluster": "prz",
+            "count": 1
+          },
+          {
+            "cluster": "trz",
+            "count": 1
+          },
+          {
+            "cluster": "ncj",
+            "count": 1
+          },
+          {
+            "cluster": "rsz",
+            "count": 1
+          },
+          {
+            "cluster": "jrz",
+            "count": 1
+          },
+          {
+            "cluster": "zstrz",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 16,
+        "syczace": 43,
+        "nosowe": 36,
+        "plynne": 26
+      },
+      "rhymes": {
+        "exact": 0,
+        "approximate": 0,
+        "internal": 0,
+        "assonance": 0,
+        "alliteration": 1
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 11.4,
+        "median": 5,
+        "min": 4,
+        "max": 35,
+        "distribution": [
+          0,
+          0,
+          0,
+          0,
+          1,
+          3,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 4.4,
+        "meanSyllables": 9.1,
+        "distribution": [
+          0,
+          1,
+          1,
+          2,
+          5,
+          6,
+          0,
+          3
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 4,
+        "interrogative": 0,
+        "imperative": 3,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 0,
+        "noSubject": 4,
+        "noPredicate": 0,
+        "percent": 0.57
+      },
+      "enjambement": {
+        "count": 5,
+        "percent": 0.29,
+        "positions": [
+          3,
+          6,
+          7,
+          9,
+          15
+        ]
+      },
+      "wordOrder": {
+        "svo": 2,
+        "inversions": 1,
+        "other": 4,
+        "deviationPercent": 0.71
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 0,
+        "śmierć": 0,
+        "erotyka": 1,
+        "alkohol": 0,
+        "samotność": 1,
+        "sacrum": 0,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 163,
+      "estimatedSeconds": 54,
+      "tempoCategory": "wolne"
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Biblia",
+          "reference": "motyw trzynastu lat - wiek Chrystusa w świątyni",
+          "evidence": "Żydek miał trzynaście lat"
+        },
+        {
+          "source": "mitologia",
+          "reference": "gwiazdy jako siły kosmiczne",
+          "evidence": "Spójrz na gwiazdy jaka jest ich płeć"
+        },
+        {
+          "source": "inne",
+          "reference": "teatr jako metafora życia",
+          "evidence": "Nie bój się komediantów / Dobry aktor zawsze jest kobietą"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.8,
+        "baudelaire": 0.3,
+        "bursa": 0.7,
+        "stachura": 0.6,
+        "grochowiak": 0.4,
+        "bialoszewski": 0.2,
+        "rozewicz": 0.5
+      }
+    },
+    "space": {
+      "type": "otwarta",
+      "evidence": "gwiazdy stoją wokół ciebie - przestrzeń kosmiczna",
+      "openClosedRatio": 0.8
+    },
+    "timeOfDay": {
+      "period": "noc",
+      "season": "nieokreslona",
+      "evidence": "Spójrz na gwiazdy - obserwacja nocnego nieba"
+    },
+    "motion": {
+      "movement": 6,
+      "stillness": 4,
+      "dynamism": 0.6,
+      "evidence": "uciekł / Teraz pisze / stoją wokół - dynamika ucieczki i pisania vs statyczność gwiazd"
+    },
+    "imageryDensity": {
+      "metaphors": 4,
+      "comparisons": 1,
+      "personifications": 2,
+      "hyperboles": 1,
+      "per100words": 8.9
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.7,
+      "creationLevel": 0.6,
+      "ironicDistance": 0.4,
+      "autobiographicSignals": [
+        "ty nie jesteś ów Żydek",
+        "prowincja",
+        "pisze wiersze",
+        "nie ma własnej twarzy"
+      ]
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 13,
+      "VERB": 17,
+      "ADJ": 6,
+      "ADV": 3,
+      "PRON": 11,
+      "ADP": 7,
+      "CCONJ": 2,
+      "SCONJ": 2,
+      "INTJ": 0,
+      "PART": 11,
+      "DET": 2,
+      "NUM": 1
+    },
+    "posPercent": {
+      "NOUN": 0.163,
+      "VERB": 0.212,
+      "ADJ": 0.075,
+      "ADV": 0.037,
+      "PRON": 0.138,
+      "ADP": 0.087,
+      "CCONJ": 0.025,
+      "SCONJ": 0.025,
+      "INTJ": 0,
+      "PART": 0.138,
+      "DET": 0.025,
+      "NUM": 0.013
+    },
+    "nounConcreteAbstract": {
+      "concrete": 0,
+      "abstract": 1,
+      "ratio": 0
+    },
+    "verbTenses": {
+      "imperative": 4,
+      "present": 11,
+      "past": 3,
+      "infinitive": 1
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 1,
+      "stan": 4,
+      "destrukcja": 0,
+      "tworzenie": 1,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 1,
+      "opisowe": 5
+    },
+    "adverbs": {
+      "temporalne": [
+        "nigdy",
+        "teraz",
+        "zawsze"
+      ],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "zawsze",
+          "count": 1
+        },
+        {
+          "word": "nigdy",
+          "count": 1
+        },
+        {
+          "word": "teraz",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 0,
+      "ty": 3,
+      "on_ona": 0,
+      "my": 0,
+      "wy": 0,
+      "oni": 2
+    },
+    "negations": {
+      "nie": 9,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 1,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 10,
+      "percentSentences": 1.43
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 11.4,
+      "median": 5,
+      "min": 4,
+      "max": 35,
+      "distribution": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        3,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 4.4,
+      "meanSyllables": 9.1,
+      "distribution": [
+        0,
+        1,
+        1,
+        2,
+        5,
+        6,
+        0,
+        3
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 4,
+      "interrogative": 0,
+      "imperative": 3,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 0,
+      "noSubject": 4,
+      "noPredicate": 0,
+      "percent": 0.57
+    },
+    "enjambement": {
+      "count": 5,
+      "percent": 0.29,
+      "positions": [
+        3,
+        6,
+        7,
+        9,
+        15
+      ]
+    },
+    "wordOrder": {
+      "svo": 2,
+      "inversions": 1,
+      "other": 4,
+      "deviationPercent": 0.71
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 161,
+      "consonants": 206,
+      "ratio": 0.78
+    },
+    "consonantClusters": {
+      "count": 7,
+      "top": [
+        {
+          "cluster": "wsz",
+          "count": 1
+        },
+        {
+          "cluster": "prz",
+          "count": 1
+        },
+        {
+          "cluster": "trz",
+          "count": 1
+        },
+        {
+          "cluster": "ncj",
+          "count": 1
+        },
+        {
+          "cluster": "rsz",
+          "count": 1
+        },
+        {
+          "cluster": "jrz",
+          "count": 1
+        },
+        {
+          "cluster": "zstrz",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 16,
+      "syczace": 43,
+      "nosowe": 36,
+      "plynne": 26
+    },
+    "rhymes": {
+      "exact": 0,
+      "approximate": 0,
+      "internal": 0,
+      "assonance": 0,
+      "alliteration": 1
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        18
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 163,
+      "estimatedSeconds": 54,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "polregularny",
+      "regularityScore": 0.64
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "rezygnacja",
+      "secondary": "melancholia",
+      "intensity": 0.7
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "podmiot liryczny przywołuje 'ty' i 'Żydka', a także odnosi się do własnych doświadczeń"
+    },
+    "addressee": {
+      "type": "ty",
+      "evidence": "bezpośrednie zwroty 'ty nie jesteś', 'Ale ty się nie boisz', 'Spójrz na gwiazdy'"
+    },
+    "metaphors": [
+      {
+        "source": "aktor",
+        "target": "kobieta",
+        "example": "Dobry aktor zawsze jest kobietą"
+      },
+      {
+        "source": "gwiazdy",
+        "target": "sędziowie/świadkowie",
+        "example": "stoją wokół ciebie nie proś o litość"
+      },
+      {
+        "source": "targowanie się",
+        "target": "bezsilne błaganie",
+        "example": "Nie targuj się o pocałunek / Nie targuj się o życie"
+      }
+    ],
+    "temperature": {
+      "value": 0.3,
+      "label": "chłodna rezygnacja z nutą goryczy"
+    },
+    "senses": {
+      "wzrok": 4,
+      "sluch": 1,
+      "dotyk": 2,
+      "smak": 0,
+      "zapach": 0
+    },
+    "autodestruction": {
+      "level": 0.6,
+      "signals": [
+        "nie ma własnej twarzy",
+        "tylko się ośmieszysz",
+        "nie proś o litość",
+        "rezygnacja z walki o życie i miłość"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 0.453,
+    "dfaAlpha": 0.794,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -0.5697171415941824
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -0.3811779589842145
+      },
+      {
+        "logWin": 1.6094379124341003,
+        "logFluc": -0.1607176226624962
+      }
+    ],
+    "seriesLength": 17,
+    "series": [
+      4,
+      5,
+      7,
+      4,
+      4,
+      5,
+      2,
+      3,
+      5,
+      5,
+      7,
+      4,
+      4,
+      7,
+      3,
+      5,
+      5
+    ]
+  }
+}

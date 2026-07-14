@@ -1,0 +1,1502 @@
+{
+  "id": "bo-smierc-to-jest-wielki-kunktator-poemat-jednej-odwilzy",
+  "title": "Bo śmierć to jest wielki Kunktator. Poemat jednej odwilży",
+  "wordCount": 441,
+  "lineCount": 76,
+  "uniqueWords": 320,
+  "vocabularyRichness": 0.726,
+  "avgWordsPerLine": 5.8,
+  "wordsPerLineDistribution": [
+    6,
+    3,
+    10,
+    1,
+    5,
+    5,
+    2,
+    7,
+    6,
+    5,
+    6,
+    7,
+    5,
+    4,
+    4,
+    5,
+    6,
+    5,
+    4,
+    6,
+    5,
+    5,
+    6,
+    5,
+    5,
+    6,
+    7,
+    5,
+    5,
+    5,
+    4,
+    3,
+    6,
+    3,
+    5,
+    6,
+    6,
+    2,
+    6,
+    7,
+    4,
+    5,
+    7,
+    1,
+    10,
+    5,
+    5,
+    6,
+    7,
+    8,
+    9,
+    9,
+    9,
+    6,
+    6,
+    9,
+    6,
+    8,
+    7,
+    8,
+    10,
+    7,
+    7,
+    6,
+    8,
+    9,
+    6,
+    7,
+    11,
+    8,
+    8,
+    5,
+    1,
+    5,
+    2,
+    2
+  ],
+  "wordFrequencies": [
+    [
+      "sposób",
+      3
+    ],
+    [
+      "śmierć",
+      2
+    ],
+    [
+      "rymy",
+      2
+    ],
+    [
+      "leżałem",
+      2
+    ],
+    [
+      "dokonałem",
+      2
+    ],
+    [
+      "jednym",
+      2
+    ],
+    [
+      "mało",
+      2
+    ],
+    [
+      "wielki",
+      1
+    ],
+    [
+      "kunktator",
+      1
+    ],
+    [
+      "poemat",
+      1
+    ],
+    [
+      "jednej",
+      1
+    ],
+    [
+      "odwilży",
+      1
+    ],
+    [
+      "uwaga",
+      1
+    ],
+    [
+      "wulgarne",
+      1
+    ],
+    [
+      "zakończenie",
+      1
+    ],
+    [
+      "prozą",
+      1
+    ],
+    [
+      "grażynie",
+      1
+    ],
+    [
+      "dobrze",
+      1
+    ],
+    [
+      "zachodni",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 35,
+    "period": 2,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 3,
+    "colon": 3,
+    "semicolon": 3
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 11,
+  "negationWords": [
+    "nic",
+    "nie"
+  ],
+  "pronounDistribution": {
+    "ja": 13,
+    "ty": 3,
+    "on_ona": 5,
+    "my": 0,
+    "wy": 0,
+    "oni": 1
+  },
+  "semanticFields": {
+    "cialo": 1,
+    "smierc": 5,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [
+    [
+      "oraz",
+      12
+    ],
+    [
+      "już",
+      3
+    ],
+    [
+      "wtedy",
+      2
+    ],
+    [
+      "lecz",
+      2
+    ],
+    [
+      "*",
+      2
+    ]
+  ],
+  "firstWord": "bo",
+  "lastWord": "scheiss",
+  "avgWordLength": 5.42,
+  "wordLengthDistribution": {
+    "1-3": 132,
+    "6-7": 96,
+    "4-5": 112,
+    "8-9": 57,
+    "10+": 44
+  },
+  "bigrams": [
+    [
+      "oraz dokonałem",
+      2
+    ],
+    [
+      "wielki kunktator",
+      1
+    ],
+    [
+      "kunktator poemat",
+      1
+    ],
+    [
+      "poemat jednej",
+      1
+    ],
+    [
+      "jednej odwilży",
+      1
+    ],
+    [
+      "odwilży uwaga",
+      1
+    ]
+  ],
+  "poemWords": [
+    "śmierć",
+    "wielki",
+    "kunktator",
+    "poemat",
+    "jednej",
+    "odwilży",
+    "uwaga",
+    "rymy",
+    "wulgarne",
+    "zakończenie",
+    "prozą",
+    "grażynie",
+    "dobrze",
+    "zachodni",
+    "wiatr",
+    "wzniecił",
+    "wiosnę",
+    "opowiem",
+    "jakże",
+    "twarzy",
+    "śmiercią",
+    "którą",
+    "leżałem",
+    "pościeli",
+    "śniegu",
+    "niedożywiona",
+    "przytulnie",
+    "konać",
+    "niczym",
+    "polak",
+    "płotem",
+    "dnie",
+    "wolna",
+    "stygnącej",
+    "krwi",
+    "umierałem",
+    "grzecznie",
+    "posłuszny",
+    "wyrokom",
+    "zimy",
+    "sprawiedliwie",
+    "sądziła",
+    "winy",
+    "których",
+    "wcale",
+    "wypierałem",
+    "zasługę",
+    "miałem",
+    "wiedząc",
+    "lepiej",
+    "przynajmniej",
+    "winnym",
+    "aniżeli",
+    "nikim",
+    "wszak",
+    "winą",
+    "sprzymierzony",
+    "przeciw",
+    "pogodzony",
+    "odjęty",
+    "ciepłej",
+    "piersi",
+    "wzięty",
+    "stołu",
+    "butelki",
+    "nagłym",
+    "pragnieniem",
+    "chyłkiem",
+    "odwrócić",
+    "tyłkiem",
+    "jadła",
+    "deser",
+    "rosła",
+    "oczu",
+    "gwiazda",
+    "wypalić",
+    "skórze",
+    "nieba",
+    "kolejne",
+    "signum",
+    "wzdęcia",
+    "barborygmy",
+    "męczyły",
+    "idiotycznie",
+    "uparte",
+    "zwyczajne",
+    "echolalia",
+    "patrz",
+    "bilikiewicz",
+    "psychiatria",
+    "kliniczna”",
+    "tabliczkę",
+    "mnożenia",
+    "zmawiałem",
+    "zająć",
+    "formułka",
+    "nasunęła",
+    "równa",
+    "trzy",
+    "zainteresowanym",
+    "młodym",
+    "poetom",
+    "wyjaśniam",
+    "osobiście",
+    "zgłaszać",
+    "bełtem",
+    "empiku",
+    "cyganerii",
+    "cieplej",
+    "pałacem",
+    "następnie",
+    "wymyśliłem",
+    "nowy",
+    "sposób",
+    "miłosny",
+    "gwarantowany",
+    "drobnej",
+    "kradzieży",
+    "sklepach",
+    "samoobsługowych",
+    "taki",
+    "obrażania",
+    "władzy",
+    "nic",
+    "świecie",
+    "pociąganym",
+    "odpowiedzialności",
+    "pewną",
+    "niewielką",
+    "innowację",
+    "formalną",
+    "dokonałem",
+    "egzegezy",
+    "jednego",
+    "notabene",
+    "znakomitego",
+    "utworu",
+    "poetyckiego",
+    "kolegi",
+    "janusza",
+    "stycznia",
+    "mogąc",
+    "dociec",
+    "autor",
+    "pisząc",
+    "kursuje",
+    "autobus",
+    "miedzy",
+    "jednym",
+    "włosem",
+    "drugim”",
+    "miał",
+    "myśli",
+    "osoba",
+    "której",
+    "tyczy",
+    "łysa",
+    "obmyśliłem",
+    "dwa",
+    "listy",
+    "dyrektorów",
+    "dwu",
+    "różnych",
+    "wydawnictw",
+    "czystej",
+    "bezinteresowności",
+    "przewidywałem",
+    "napisania",
+    "wysłania",
+    "wyobraziłem",
+    "powiesz",
+    "westchnąłem",
+    "biedną",
+    "matką",
+    "pomyślałem",
+    "starszym",
+    "bracie",
+    "pewno",
+    "byłby",
+    "skurwysynem",
+    "skorygowałem",
+    "mniemanie",
+    "biorąc",
+    "poprawkę",
+    "fakt",
+    "obciążony",
+    "dziedziczną",
+    "babce",
+    "strony",
+    "ojca",
+    "podług",
+    "słów",
+    "matki",
+    "syfilitycznej",
+    "kurwie",
+    "schizofrenią",
+    "natomiast",
+    "pisze",
+    "wierszy",
+    "przeto",
+    "dana",
+    "możliwość",
+    "autoterapii",
+    "obliczyłem",
+    "ileż",
+    "gotówki",
+    "wobec",
+    "okoliczności",
+    "przepiłem",
+    "przeznaczyć",
+    "mogłem",
+    "jakiś",
+    "chwalebny",
+    "mało",
+    "obchodzący",
+    "cel",
+    "zastanowiłem",
+    "niejakim",
+    "zainteresowaniem",
+    "tematu",
+    "jakąż",
+    "notką",
+    "uczczony",
+    "godziwy",
+    "zgon",
+    "koniec",
+    "podsumowania",
+    "drogi",
+    "życiowej",
+    "wyraziło",
+    "słowem",
+    "krótkim",
+    "dobitnym",
+    "dodatku",
+    "obcym",
+    "języku",
+    "zauważyłem",
+    "nadeszła",
+    "odwilż",
+    "styczeń",
+    "1970",
+    "scheiss"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 100,
+        "VERB": 52,
+        "ADJ": 51,
+        "ADV": 23,
+        "PRON": 39,
+        "ADP": 44,
+        "CCONJ": 30,
+        "SCONJ": 22,
+        "INTJ": 0,
+        "PART": 25,
+        "DET": 21,
+        "NUM": 3
+      },
+      "posPercent": {
+        "NOUN": 0.228,
+        "VERB": 0.118,
+        "ADJ": 0.116,
+        "ADV": 0.052,
+        "PRON": 0.089,
+        "ADP": 0.1,
+        "CCONJ": 0.068,
+        "SCONJ": 0.05,
+        "INTJ": 0,
+        "PART": 0.057,
+        "DET": 0.048,
+        "NUM": 0.007
+      },
+      "nounConcreteAbstract": {
+        "concrete": 6,
+        "abstract": 4,
+        "ratio": 0.6
+      },
+      "verbTenses": {
+        "present": 17,
+        "past": 36,
+        "future": 3,
+        "infinitive": 10,
+        "imperative": 1
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 11,
+        "destrukcja": 0,
+        "tworzenie": 2,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 1,
+        "oceniajace": 0,
+        "opisowe": 50
+      },
+      "adverbs": {
+        "temporalne": [
+          "potem",
+          "wciąż"
+        ],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "wtedy",
+            "count": 3
+          },
+          {
+            "word": "tak",
+            "count": 2
+          },
+          {
+            "word": "mało",
+            "count": 2
+          },
+          {
+            "word": "kiedy",
+            "count": 1
+          },
+          {
+            "word": "dobrze",
+            "count": 1
+          },
+          {
+            "word": "przytulnie",
+            "count": 1
+          },
+          {
+            "word": "grzecznie",
+            "count": 1
+          },
+          {
+            "word": "sprawiedliwie",
+            "count": 1
+          },
+          {
+            "word": "wcale",
+            "count": 1
+          },
+          {
+            "word": "lepiej",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 9,
+        "ty": 1,
+        "on_ona": 4,
+        "my": 0,
+        "wy": 0,
+        "oni": 2
+      },
+      "negations": {
+        "nie": 10,
+        "nic": 1,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 11,
+        "percentSentences": 0.55
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 1026,
+        "consonants": 1355,
+        "ratio": 0.76
+      },
+      "consonantClusters": {
+        "count": 50,
+        "top": [
+          {
+            "cluster": "prz",
+            "count": 8
+          },
+          {
+            "cluster": "czn",
+            "count": 7
+          },
+          {
+            "cluster": "wsz",
+            "count": 3
+          },
+          {
+            "cluster": "stk",
+            "count": 2
+          },
+          {
+            "cluster": "trz",
+            "count": 2
+          },
+          {
+            "cluster": "rsz",
+            "count": 2
+          },
+          {
+            "cluster": "sch",
+            "count": 2
+          },
+          {
+            "cluster": "nkt",
+            "count": 1
+          },
+          {
+            "cluster": "szcz",
+            "count": 1
+          },
+          {
+            "cluster": "ńcz",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 91,
+        "syczace": 218,
+        "nosowe": 300,
+        "plynne": 198
+      },
+      "rhymes": {
+        "exact": 5,
+        "approximate": 2,
+        "internal": 6,
+        "assonance": 2,
+        "alliteration": 2
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 21.9,
+        "median": 12,
+        "min": 2,
+        "max": 90,
+        "distribution": [
+          0,
+          0,
+          1,
+          0,
+          0,
+          2,
+          3,
+          0,
+          0,
+          2,
+          0,
+          1,
+          2,
+          1,
+          0,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          2,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 5.8,
+        "meanSyllables": 13.8,
+        "distribution": [
+          0,
+          3,
+          4,
+          3,
+          5,
+          18,
+          18,
+          8,
+          8,
+          5,
+          3,
+          1
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 19,
+        "interrogative": 0,
+        "imperative": 1,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 4,
+        "noSubject": 7,
+        "noPredicate": 0,
+        "percent": 0.55
+      },
+      "enjambement": {
+        "count": 24,
+        "percent": 0.32,
+        "positions": [
+          2,
+          4,
+          9,
+          11,
+          16,
+          29,
+          30,
+          31,
+          33,
+          43,
+          45,
+          48,
+          49,
+          50,
+          51,
+          54,
+          58,
+          61,
+          62,
+          63,
+          65,
+          66,
+          68,
+          74
+        ]
+      },
+      "wordOrder": {
+        "svo": 1,
+        "inversions": 8,
+        "other": 11,
+        "deviationPercent": 0.95
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 3,
+        "śmierć": 6,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 1049,
+      "estimatedSeconds": 350,
+      "tempoCategory": "wolne"
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Biblia",
+          "reference": "śmierć jako sędzia",
+          "evidence": "sprawiedliwie sądziła winy"
+        },
+        {
+          "source": "mitologia",
+          "reference": "śmierć personifikowana",
+          "evidence": "śmierć mnie jadła"
+        },
+        {
+          "source": "Różewicz",
+          "reference": "prozaizacja poezji",
+          "evidence": "zakończenie prozą, wypunktowanie myśli"
+        },
+        {
+          "source": "inne",
+          "reference": "T. Bilikiewicz \"Psychiatria kliniczna\"",
+          "evidence": "bezpośredni cytat z dzieła psychiatrycznego"
+        }
+      ],
+      "selfQuotes": [
+        "Poemat jednej odwilży",
+        "rymy wulgarne"
+      ],
+      "influences": {
+        "rimbaud": 0.3,
+        "baudelaire": 0.4,
+        "bursa": 0.2,
+        "stachura": 0.5,
+        "grochowiak": 0.3,
+        "bialoszewski": 0.6,
+        "rozewicz": 0.8
+      }
+    },
+    "space": {
+      "type": "zamknieta",
+      "evidence": "pościel śniegu, leżenie, atmosfera choroby i uwięzienia",
+      "openClosedRatio": 0.2
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "zima",
+      "evidence": "śnieg, zima, odwilż, styczeń 1970"
+    },
+    "motion": {
+      "movement": 2,
+      "stillness": 8,
+      "dynamism": 0.2,
+      "evidence": "leżałem sobie, konanie, brak dynamiki ruchowej"
+    },
+    "imageryDensity": {
+      "metaphors": 8,
+      "comparisons": 3,
+      "personifications": 4,
+      "hyperboles": 2,
+      "per100words": 15.2
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.9,
+      "creationLevel": 0.4,
+      "ironicDistance": 0.7,
+      "autobiographicSignals": [
+        "Grażynie",
+        "moja biedna matka",
+        "mój starszy brat",
+        "dziedziczna schizofrenia",
+        "styczeń 1970"
+      ]
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 100,
+      "VERB": 52,
+      "ADJ": 51,
+      "ADV": 23,
+      "PRON": 39,
+      "ADP": 44,
+      "CCONJ": 30,
+      "SCONJ": 22,
+      "INTJ": 0,
+      "PART": 25,
+      "DET": 21,
+      "NUM": 3
+    },
+    "posPercent": {
+      "NOUN": 0.228,
+      "VERB": 0.118,
+      "ADJ": 0.116,
+      "ADV": 0.052,
+      "PRON": 0.089,
+      "ADP": 0.1,
+      "CCONJ": 0.068,
+      "SCONJ": 0.05,
+      "INTJ": 0,
+      "PART": 0.057,
+      "DET": 0.048,
+      "NUM": 0.007
+    },
+    "nounConcreteAbstract": {
+      "concrete": 6,
+      "abstract": 4,
+      "ratio": 0.6
+    },
+    "verbTenses": {
+      "present": 17,
+      "past": 36,
+      "future": 3,
+      "infinitive": 10,
+      "imperative": 1
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 11,
+      "destrukcja": 0,
+      "tworzenie": 2,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 1,
+      "oceniajace": 0,
+      "opisowe": 50
+    },
+    "adverbs": {
+      "temporalne": [
+        "potem",
+        "wciąż"
+      ],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "wtedy",
+          "count": 3
+        },
+        {
+          "word": "tak",
+          "count": 2
+        },
+        {
+          "word": "mało",
+          "count": 2
+        },
+        {
+          "word": "kiedy",
+          "count": 1
+        },
+        {
+          "word": "dobrze",
+          "count": 1
+        },
+        {
+          "word": "przytulnie",
+          "count": 1
+        },
+        {
+          "word": "grzecznie",
+          "count": 1
+        },
+        {
+          "word": "sprawiedliwie",
+          "count": 1
+        },
+        {
+          "word": "wcale",
+          "count": 1
+        },
+        {
+          "word": "lepiej",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 9,
+      "ty": 1,
+      "on_ona": 4,
+      "my": 0,
+      "wy": 0,
+      "oni": 2
+    },
+    "negations": {
+      "nie": 10,
+      "nic": 1,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 11,
+      "percentSentences": 0.55
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 21.9,
+      "median": 12,
+      "min": 2,
+      "max": 90,
+      "distribution": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        2,
+        3,
+        0,
+        0,
+        2,
+        0,
+        1,
+        2,
+        1,
+        0,
+        1,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 5.8,
+      "meanSyllables": 13.8,
+      "distribution": [
+        0,
+        3,
+        4,
+        3,
+        5,
+        18,
+        18,
+        8,
+        8,
+        5,
+        3,
+        1
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 19,
+      "interrogative": 0,
+      "imperative": 1,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 4,
+      "noSubject": 7,
+      "noPredicate": 0,
+      "percent": 0.55
+    },
+    "enjambement": {
+      "count": 24,
+      "percent": 0.32,
+      "positions": [
+        2,
+        4,
+        9,
+        11,
+        16,
+        29,
+        30,
+        31,
+        33,
+        43,
+        45,
+        48,
+        49,
+        50,
+        51,
+        54,
+        58,
+        61,
+        62,
+        63,
+        65,
+        66,
+        68,
+        74
+      ]
+    },
+    "wordOrder": {
+      "svo": 1,
+      "inversions": 8,
+      "other": 11,
+      "deviationPercent": 0.95
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 1026,
+      "consonants": 1355,
+      "ratio": 0.76
+    },
+    "consonantClusters": {
+      "count": 50,
+      "top": [
+        {
+          "cluster": "prz",
+          "count": 8
+        },
+        {
+          "cluster": "czn",
+          "count": 7
+        },
+        {
+          "cluster": "wsz",
+          "count": 3
+        },
+        {
+          "cluster": "stk",
+          "count": 2
+        },
+        {
+          "cluster": "trz",
+          "count": 2
+        },
+        {
+          "cluster": "rsz",
+          "count": 2
+        },
+        {
+          "cluster": "sch",
+          "count": 2
+        },
+        {
+          "cluster": "nkt",
+          "count": 1
+        },
+        {
+          "cluster": "szcz",
+          "count": 1
+        },
+        {
+          "cluster": "ńcz",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 91,
+      "syczace": 218,
+      "nosowe": 300,
+      "plynne": 198
+    },
+    "rhymes": {
+      "exact": 5,
+      "approximate": 2,
+      "internal": 6,
+      "assonance": 2,
+      "alliteration": 2
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        76
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 1049,
+      "estimatedSeconds": 350,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "polregularny",
+      "regularityScore": 0.61
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "rezygnacja",
+      "secondary": "ironia",
+      "intensity": 0.8
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "Podmiot wyraźnie obecny przez zaimki 'ja', 'mi', 'mnie' oraz formy czasownikowe pierwszej osoby"
+    },
+    "addressee": {
+      "type": "ty",
+      "evidence": "Bezpośrednie zwroty 'Odjęty od Twojej ciepłej piersi' oraz 'co Ty na to wszystko powiesz'"
+    },
+    "metaphors": [
+      {
+        "source": "śmierć",
+        "target": "kochanka",
+        "example": "Z którą leżałem w pościeli śniegu"
+      },
+      {
+        "source": "umieranie",
+        "target": "jedzenie",
+        "example": "śmierć mnie jadła"
+      },
+      {
+        "source": "gwiazda",
+        "target": "ból/cierpienie",
+        "example": "rosła mi z oczu gwiazda / Żeby wypalić na skórze nieba"
+      }
+    ],
+    "temperature": {
+      "value": 0.2,
+      "label": "zimne - rezygnacja i odrętwienie"
+    },
+    "senses": {
+      "wzrok": 3,
+      "sluch": 2,
+      "dotyk": 4,
+      "smak": 1,
+      "zapach": 0
+    },
+    "autodestruction": {
+      "level": 0.9,
+      "signals": [
+        "leżenie w śniegu ze śmiercią",
+        "pragnienie śmierci",
+        "alkoholizm ('przepiłem gotówkę')",
+        "poczucie winy jako zasługi",
+        "odwrócenie się od życia",
+        "schizofreniczne wizje"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 0.761,
+    "dfaAlpha": 0.791,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -0.7322360710919565
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -0.3956854912090391
+      },
+      {
+        "logWin": 1.791759469228055,
+        "logFluc": -0.14020984905449307
+      },
+      {
+        "logWin": 1.9459101490553132,
+        "logFluc": -0.07656900274169626
+      },
+      {
+        "logWin": 2.1972245773362196,
+        "logFluc": 0.11307125516677188
+      },
+      {
+        "logWin": 2.4849066497880004,
+        "logFluc": 0.2493791755032415
+      },
+      {
+        "logWin": 2.70805020110221,
+        "logFluc": 0.5671271640243151
+      },
+      {
+        "logWin": 2.9444389791664403,
+        "logFluc": 1.0340567283899114
+      },
+      {
+        "logWin": 3.2188758248682006,
+        "logFluc": 0.8414557489810006
+      }
+    ],
+    "seriesLength": 76,
+    "series": [
+      6,
+      3,
+      10,
+      1,
+      5,
+      5,
+      2,
+      7,
+      6,
+      5,
+      6,
+      7,
+      5,
+      4,
+      4,
+      5,
+      6,
+      5,
+      4,
+      6,
+      5,
+      5,
+      6,
+      5,
+      5,
+      6,
+      7,
+      5,
+      5,
+      5,
+      4,
+      3,
+      6,
+      3,
+      5,
+      6,
+      6,
+      2,
+      6,
+      7,
+      4,
+      5,
+      7,
+      1,
+      10,
+      5,
+      5,
+      6,
+      7,
+      8,
+      9,
+      9,
+      9,
+      6,
+      6,
+      9,
+      6,
+      8,
+      7,
+      8,
+      10,
+      7,
+      7,
+      6,
+      8,
+      9,
+      6,
+      7,
+      11,
+      8,
+      8,
+      5,
+      1,
+      5,
+      2,
+      2
+    ]
+  }
+}

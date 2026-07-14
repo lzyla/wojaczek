@@ -1,0 +1,896 @@
+{
+  "id": "inny-zakon",
+  "title": "Inny zakon",
+  "wordCount": 63,
+  "lineCount": 12,
+  "uniqueWords": 59,
+  "vocabularyRichness": 0.937,
+  "avgWordsPerLine": 5.25,
+  "wordsPerLineDistribution": [
+    5,
+    6,
+    5,
+    6,
+    7,
+    5,
+    3,
+    4,
+    6,
+    6,
+    3,
+    7
+  ],
+  "wordFrequencies": [
+    [
+      "bracia",
+      1
+    ],
+    [
+      "surowszej",
+      1
+    ],
+    [
+      "reguły",
+      1
+    ],
+    [
+      "niż",
+      1
+    ],
+    [
+      "konstytucja",
+      1
+    ],
+    [
+      "głodu",
+      1
+    ],
+    [
+      "byśmy",
+      1
+    ],
+    [
+      "uczciwie",
+      1
+    ],
+    [
+      "mogli",
+      1
+    ],
+    [
+      "kupić",
+      1
+    ],
+    [
+      "prace",
+      1
+    ],
+    [
+      "chwałę",
+      1
+    ],
+    [
+      "inną",
+      1
+    ],
+    [
+      "puste",
+      1
+    ],
+    [
+      "zmierzyć",
+      1
+    ],
+    [
+      "miarą",
+      1
+    ],
+    [
+      "prac",
+      1
+    ],
+    [
+      "tamtych",
+      1
+    ],
+    [
+      "umieli",
+      1
+    ],
+    [
+      "zmyślną",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 5,
+    "period": 2,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 2,
+    "colon": 2,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 1,
+  "negationWords": [
+    "nie"
+  ],
+  "pronounDistribution": {
+    "ja": 0,
+    "ty": 0,
+    "on_ona": 2,
+    "my": 2,
+    "wy": 0,
+    "oni": 1
+  },
+  "semanticFields": {
+    "cialo": 1,
+    "smierc": 0,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [],
+  "firstWord": "są",
+  "lastWord": "ust",
+  "avgWordLength": 5.3,
+  "wordLengthDistribution": {
+    "1-3": 21,
+    "6-7": 11,
+    "8-9": 9,
+    "10+": 5,
+    "4-5": 17
+  },
+  "bigrams": [
+    [
+      "bracia surowszej",
+      1
+    ],
+    [
+      "surowszej reguły",
+      1
+    ],
+    [
+      "reguły niż",
+      1
+    ],
+    [
+      "niż konstytucja",
+      1
+    ],
+    [
+      "konstytucja głodu",
+      1
+    ],
+    [
+      "byśmy uczciwie",
+      1
+    ],
+    [
+      "uczciwie mogli",
+      1
+    ]
+  ],
+  "poemWords": [
+    "bracia",
+    "surowszej",
+    "reguły",
+    "niż",
+    "konstytucja",
+    "głodu",
+    "byśmy",
+    "uczciwie",
+    "mogli",
+    "kupić",
+    "prace",
+    "chwałę",
+    "inną",
+    "puste",
+    "zmierzyć",
+    "miarą",
+    "prac",
+    "tamtych",
+    "umieli",
+    "zmyślną",
+    "ślinę",
+    "pragnień",
+    "użyźniającą",
+    "nieskończone",
+    "wargi",
+    "zazdrosnych",
+    "rękopisów",
+    "przymusić",
+    "zamieniła",
+    "kurz",
+    "mózgu",
+    "siedzi",
+    "rodząc",
+    "nowotwory",
+    "nieodczynionych",
+    "poematów",
+    "mają",
+    "języka",
+    "ust"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 17,
+        "VERB": 12,
+        "ADJ": 8,
+        "ADV": 3,
+        "PRON": 8,
+        "ADP": 4,
+        "CCONJ": 2,
+        "SCONJ": 2,
+        "INTJ": 0,
+        "PART": 2,
+        "DET": 2,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.262,
+        "VERB": 0.185,
+        "ADJ": 0.123,
+        "ADV": 0.046,
+        "PRON": 0.123,
+        "ADP": 0.062,
+        "CCONJ": 0.031,
+        "SCONJ": 0.031,
+        "INTJ": 0,
+        "PART": 0.031,
+        "DET": 0.031,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 1,
+        "abstract": 0,
+        "ratio": 1
+      },
+      "verbTenses": {
+        "past": 5,
+        "present": 6,
+        "infinitive": 3
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 3,
+        "destrukcja": 0,
+        "tworzenie": 1,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 0,
+        "opisowe": 8
+      },
+      "adverbs": {
+        "temporalne": [],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "uczciwie",
+            "count": 1
+          },
+          {
+            "word": "gdy",
+            "count": 1
+          },
+          {
+            "word": "tak",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 0,
+        "ty": 0,
+        "on_ona": 1,
+        "my": 1,
+        "wy": 0,
+        "oni": 1
+      },
+      "negations": {
+        "nie": 1,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 1,
+        "percentSentences": 0.5
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 145,
+        "consonants": 198,
+        "ratio": 0.73
+      },
+      "consonantClusters": {
+        "count": 10,
+        "top": [
+          {
+            "cluster": "szcz",
+            "count": 1
+          },
+          {
+            "cluster": "wsz",
+            "count": 1
+          },
+          {
+            "cluster": "nst",
+            "count": 1
+          },
+          {
+            "cluster": "czc",
+            "count": 1
+          },
+          {
+            "cluster": "chw",
+            "count": 1
+          },
+          {
+            "cluster": "śln",
+            "count": 1
+          },
+          {
+            "cluster": "ńcz",
+            "count": 1
+          },
+          {
+            "cluster": "zdr",
+            "count": 1
+          },
+          {
+            "cluster": "prz",
+            "count": 1
+          },
+          {
+            "cluster": "dcz",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 14,
+        "syczace": 45,
+        "nosowe": 52,
+        "plynne": 24
+      },
+      "rhymes": {
+        "exact": 0,
+        "approximate": 0,
+        "internal": 0,
+        "assonance": 0,
+        "alliteration": 1
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 32.5,
+        "median": 32,
+        "min": 23,
+        "max": 42,
+        "distribution": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 5.2,
+        "meanSyllables": 11.5,
+        "distribution": [
+          0,
+          0,
+          1,
+          1,
+          1,
+          4,
+          4,
+          2
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 2,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 0,
+        "noSubject": 0,
+        "noPredicate": 0,
+        "percent": 0
+      },
+      "enjambement": {
+        "count": 0,
+        "percent": 0,
+        "positions": []
+      },
+      "wordOrder": {
+        "svo": 2,
+        "inversions": 0,
+        "other": 0,
+        "deviationPercent": 0
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 2,
+        "śmierć": 0,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 149,
+      "estimatedSeconds": 50,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 17,
+      "VERB": 12,
+      "ADJ": 8,
+      "ADV": 3,
+      "PRON": 8,
+      "ADP": 4,
+      "CCONJ": 2,
+      "SCONJ": 2,
+      "INTJ": 0,
+      "PART": 2,
+      "DET": 2,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.262,
+      "VERB": 0.185,
+      "ADJ": 0.123,
+      "ADV": 0.046,
+      "PRON": 0.123,
+      "ADP": 0.062,
+      "CCONJ": 0.031,
+      "SCONJ": 0.031,
+      "INTJ": 0,
+      "PART": 0.031,
+      "DET": 0.031,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 1,
+      "abstract": 0,
+      "ratio": 1
+    },
+    "verbTenses": {
+      "past": 5,
+      "present": 6,
+      "infinitive": 3
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 3,
+      "destrukcja": 0,
+      "tworzenie": 1,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 0,
+      "opisowe": 8
+    },
+    "adverbs": {
+      "temporalne": [],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "uczciwie",
+          "count": 1
+        },
+        {
+          "word": "gdy",
+          "count": 1
+        },
+        {
+          "word": "tak",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 0,
+      "ty": 0,
+      "on_ona": 1,
+      "my": 1,
+      "wy": 0,
+      "oni": 1
+    },
+    "negations": {
+      "nie": 1,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 1,
+      "percentSentences": 0.5
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 32.5,
+      "median": 32,
+      "min": 23,
+      "max": 42,
+      "distribution": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 5.2,
+      "meanSyllables": 11.5,
+      "distribution": [
+        0,
+        0,
+        1,
+        1,
+        1,
+        4,
+        4,
+        2
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 2,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 0,
+      "noSubject": 0,
+      "noPredicate": 0,
+      "percent": 0
+    },
+    "enjambement": {
+      "count": 0,
+      "percent": 0,
+      "positions": []
+    },
+    "wordOrder": {
+      "svo": 2,
+      "inversions": 0,
+      "other": 0,
+      "deviationPercent": 0
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 145,
+      "consonants": 198,
+      "ratio": 0.73
+    },
+    "consonantClusters": {
+      "count": 10,
+      "top": [
+        {
+          "cluster": "szcz",
+          "count": 1
+        },
+        {
+          "cluster": "wsz",
+          "count": 1
+        },
+        {
+          "cluster": "nst",
+          "count": 1
+        },
+        {
+          "cluster": "czc",
+          "count": 1
+        },
+        {
+          "cluster": "chw",
+          "count": 1
+        },
+        {
+          "cluster": "śln",
+          "count": 1
+        },
+        {
+          "cluster": "ńcz",
+          "count": 1
+        },
+        {
+          "cluster": "zdr",
+          "count": 1
+        },
+        {
+          "cluster": "prz",
+          "count": 1
+        },
+        {
+          "cluster": "dcz",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 14,
+      "syczace": 45,
+      "nosowe": 52,
+      "plynne": 24
+    },
+    "rhymes": {
+      "exact": 0,
+      "approximate": 0,
+      "internal": 0,
+      "assonance": 0,
+      "alliteration": 1
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        13
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 149,
+      "estimatedSeconds": 50,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "regularny",
+      "regularityScore": 0.78
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Biblia",
+          "reference": "zakon religijny, bracia",
+          "evidence": "Są jeszcze bracia surowszej reguły"
+        },
+        {
+          "source": "inne",
+          "reference": "literatura monastyczna",
+          "evidence": "konstytucja głodu, co nas je"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.2,
+        "baudelaire": 0.3,
+        "bursa": 0.7,
+        "stachura": 0.6,
+        "grochowiak": 0.4,
+        "bialoszewski": 0.1,
+        "rozewicz": 0.3
+      }
+    },
+    "space": {
+      "type": "nieokreslona",
+      "evidence": "przestrzeń abstrakcyjna, mentalna - mózg, rękopiśmienne prace",
+      "openClosedRatio": 0.3
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "nieokreslona",
+      "evidence": "brak konkretnych wskazówek temporalnych"
+    },
+    "motion": {
+      "movement": 3,
+      "stillness": 7,
+      "dynamism": 0.3,
+      "evidence": "statyczna refleksja, kurz 'siedzi w mózgu', brak dynamicznych czasowników"
+    },
+    "imageryDensity": {
+      "metaphors": 6,
+      "comparisons": 2,
+      "personifications": 3,
+      "hyperboles": 2,
+      "per100words": 18.6
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.8,
+      "creationLevel": 0.9,
+      "ironicDistance": 0.2,
+      "autobiographicSignals": [
+        "naszych zazdrosnych rękopisów",
+        "swoje prace",
+        "nieodczynionych poematów"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "melancholia",
+      "secondary": "zazdrość",
+      "intensity": 0.7
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "Używanie zaimków 'nas', 'naszych', 'sobie' wskazuje na obecność podmiotu zbiorowego obejmującego mówiącego"
+    },
+    "addressee": {
+      "type": "czytelnik",
+      "evidence": "Wiersz ma charakter refleksyjny, zwraca się do odbiorcy poprzez filozoficzne rozważania o dwóch rodzajach twórców"
+    },
+    "metaphors": [
+      {
+        "source": "zakon religijny",
+        "target": "twórczość poetycka",
+        "example": "bracia surowszej reguły"
+      },
+      {
+        "source": "głód fizyczny",
+        "target": "pragnienie sławy",
+        "example": "konstytucja głodu, co nas je"
+      },
+      {
+        "source": "ślina",
+        "target": "inspiracja twórcza",
+        "example": "zmyślną ślinę pragnień"
+      },
+      {
+        "source": "nowotwór",
+        "target": "nierealizowane pomysły poetyckie",
+        "example": "rodząc nowotwory / Nieodczynionych poematów"
+      }
+    ],
+    "temperature": {
+      "value": 0.3,
+      "label": "chłodna refleksja przesiąknięta goryczą"
+    },
+    "senses": {
+      "wzrok": 2,
+      "sluch": 1,
+      "dotyk": 3,
+      "smak": 4,
+      "zapach": 1
+    },
+    "autodestruction": {
+      "level": 0.6,
+      "signals": [
+        "porównanie pragnień do nowotworów w mózgu",
+        "obraz kurzu zamiast twórczej inspiracji",
+        "poczucie niższości wobec innych twórców"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 1.69,
+    "dfaAlpha": -0.29,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -0.6342556627317535
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -0.7177673534697104
+      }
+    ],
+    "seriesLength": 12,
+    "series": [
+      5,
+      6,
+      5,
+      6,
+      7,
+      5,
+      3,
+      4,
+      6,
+      6,
+      3,
+      7
+    ]
+  }
+}

@@ -1,0 +1,907 @@
+{
+  "id": "ballada-o-leku",
+  "title": "Ballada o lęku",
+  "wordCount": 107,
+  "lineCount": 24,
+  "uniqueWords": 80,
+  "vocabularyRichness": 0.748,
+  "avgWordsPerLine": 4.46,
+  "wordsPerLineDistribution": [
+    4,
+    3,
+    7,
+    2,
+    4,
+    3,
+    7,
+    3,
+    4,
+    3,
+    8,
+    3,
+    4,
+    3,
+    8,
+    3,
+    4,
+    3,
+    8,
+    2,
+    4,
+    3,
+    10,
+    4
+  ],
+  "wordFrequencies": [
+    [
+      "lęk",
+      2
+    ],
+    [
+      "szpik",
+      2
+    ],
+    [
+      "krew",
+      2
+    ],
+    [
+      "zbliża",
+      1
+    ],
+    [
+      "twarz",
+      1
+    ],
+    [
+      "śniegu",
+      1
+    ],
+    [
+      "zielonego",
+      1
+    ],
+    [
+      "fosfor",
+      1
+    ],
+    [
+      "kość",
+      1
+    ],
+    [
+      "spróchniałego",
+      1
+    ],
+    [
+      "drzewa",
+      1
+    ],
+    [
+      "wkłada",
+      1
+    ],
+    [
+      "ust",
+      1
+    ],
+    [
+      "dłoń",
+      1
+    ],
+    [
+      "jemy",
+      1
+    ],
+    [
+      "wysysając",
+      1
+    ],
+    [
+      "sopla",
+      1
+    ],
+    [
+      "sok",
+      1
+    ],
+    [
+      "idący",
+      1
+    ],
+    [
+      "serca",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 7,
+    "period": 5,
+    "question": 0,
+    "exclamation": 1,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 4,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 1,
+  "negationCount": 7,
+  "negationWords": [
+    "bez",
+    "nie"
+  ],
+  "pronounDistribution": {
+    "ja": 0,
+    "ty": 0,
+    "on_ona": 3,
+    "my": 7,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 7,
+    "smierc": 2,
+    "erotyka": 0,
+    "alkohol": 1,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 1
+  },
+  "anaphors": [
+    [
+      "wiemy",
+      2
+    ],
+    [
+      "nie",
+      2
+    ]
+  ],
+  "firstWord": "zbliża",
+  "lastWord": "przeraża",
+  "avgWordLength": 3.93,
+  "wordLengthDistribution": {
+    "6-7": 13,
+    "1-3": 57,
+    "4-5": 29,
+    "8-9": 7,
+    "10+": 1
+  },
+  "bigrams": [
+    [
+      "lęk ma",
+      1
+    ],
+    [
+      "ma twarz",
+      1
+    ],
+    [
+      "śniegu zielonego",
+      1
+    ]
+  ],
+  "poemWords": [
+    "zbliża",
+    "lęk",
+    "twarz",
+    "śniegu",
+    "zielonego",
+    "fosfor",
+    "kość",
+    "spróchniałego",
+    "drzewa",
+    "wkłada",
+    "ust",
+    "dłoń",
+    "jemy",
+    "wysysając",
+    "sopla",
+    "sok",
+    "idący",
+    "serca",
+    "daje",
+    "pić",
+    "krwi",
+    "szpik",
+    "mózgu",
+    "wyjeść",
+    "musimy",
+    "czaszki",
+    "dno",
+    "zęby",
+    "zazgrzyta",
+    "krew",
+    "przyjmie",
+    "żyłach",
+    "mogły",
+    "woli",
+    "oddychać",
+    "trujący",
+    "trzewia",
+    "będą",
+    "głos",
+    "zawodziły",
+    "zdrada",
+    "ból",
+    "przeraża"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 29,
+        "VERB": 18,
+        "ADJ": 4,
+        "ADV": 0,
+        "PRON": 14,
+        "ADP": 14,
+        "CCONJ": 5,
+        "SCONJ": 7,
+        "INTJ": 0,
+        "PART": 9,
+        "DET": 3,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.264,
+        "VERB": 0.164,
+        "ADJ": 0.036,
+        "ADV": 0,
+        "PRON": 0.127,
+        "ADP": 0.127,
+        "CCONJ": 0.045,
+        "SCONJ": 0.064,
+        "INTJ": 0,
+        "PART": 0.082,
+        "DET": 0.027,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 6,
+        "abstract": 1,
+        "ratio": 0.86
+      },
+      "verbTenses": {
+        "present": 16,
+        "infinitive": 4,
+        "future": 2,
+        "past": 2
+      },
+      "verbSemantics": {
+        "ruch": 1,
+        "percepcja": 0,
+        "stan": 4,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 2
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 0,
+        "opisowe": 4
+      },
+      "adverbs": {
+        "temporalne": [],
+        "modalne": [],
+        "sposobu": [],
+        "top": []
+      },
+      "pronouns": {
+        "ja": 0,
+        "ty": 0,
+        "on_ona": 6,
+        "my": 5,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 5,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 5,
+        "percentSentences": 0.56
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 178,
+        "consonants": 254,
+        "ratio": 0.7
+      },
+      "consonantClusters": {
+        "count": 14,
+        "top": [
+          {
+            "cluster": "szp",
+            "count": 2
+          },
+          {
+            "cluster": "prz",
+            "count": 2
+          },
+          {
+            "cluster": "zbl",
+            "count": 1
+          },
+          {
+            "cluster": "spr",
+            "count": 1
+          },
+          {
+            "cluster": "chn",
+            "count": 1
+          },
+          {
+            "cluster": "drz",
+            "count": 1
+          },
+          {
+            "cluster": "wkł",
+            "count": 1
+          },
+          {
+            "cluster": "krw",
+            "count": 1
+          },
+          {
+            "cluster": "szk",
+            "count": 1
+          },
+          {
+            "cluster": "zgrz",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 22,
+        "syczace": 48,
+        "nosowe": 49,
+        "plynne": 34
+      },
+      "rhymes": {
+        "exact": 1,
+        "approximate": 0,
+        "internal": 0,
+        "assonance": 0,
+        "alliteration": 1
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 12.2,
+        "median": 16,
+        "min": 0,
+        "max": 21,
+        "distribution": [
+          1,
+          0,
+          0,
+          2,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          1,
+          2,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 4.4,
+        "meanSyllables": 7.3,
+        "distribution": [
+          0,
+          0,
+          2,
+          10,
+          7,
+          0,
+          0,
+          2,
+          3,
+          0,
+          1
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 8,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 1
+      },
+      "ellipsis": {
+        "incomplete": 2,
+        "noSubject": 2,
+        "noPredicate": 0,
+        "percent": 0.44
+      },
+      "enjambement": {
+        "count": 17,
+        "percent": 0.71,
+        "positions": [
+          2,
+          3,
+          4,
+          6,
+          7,
+          8,
+          10,
+          11,
+          12,
+          14,
+          15,
+          16,
+          18,
+          19,
+          20,
+          23,
+          24
+        ]
+      },
+      "wordOrder": {
+        "svo": 1,
+        "inversions": 3,
+        "other": 4,
+        "deviationPercent": 0.88
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 7,
+        "śmierć": 2,
+        "erotyka": 0,
+        "alkohol": 1,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 0,
+        "ból": 1
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 182,
+      "estimatedSeconds": 61,
+      "tempoCategory": "wolne"
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Biblia",
+          "reference": "Eucharystia - spożywanie ciała i krwi",
+          "evidence": "Daje nam swej pić / krwi i szpik / mózgu wyjeść musimy mu z czaszki"
+        },
+        {
+          "source": "mitologia",
+          "reference": "Motyw kanibalizmu rytualnego",
+          "evidence": "jemy ją wysysając jakby z sopla sok / idący do serca"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.3,
+        "baudelaire": 0.7,
+        "bursa": 0.2,
+        "stachura": 0.4,
+        "grochowiak": 0.3,
+        "bialoszewski": 0.1,
+        "rozewicz": 0.2
+      }
+    },
+    "space": {
+      "type": "nieokreslona",
+      "evidence": "Brak konkretnych wskazówek przestrzennych, przestrzeń psychiczna dominuje nad fizyczną",
+      "openClosedRatio": 0.3
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "nieokreslona",
+      "evidence": "Czas poetycki, bez wyraźnych wskazówek temporalnych"
+    },
+    "motion": {
+      "movement": 7,
+      "stillness": 3,
+      "dynamism": 0.7,
+      "evidence": "Zbliża się do nas / lęk, Wkłada nam do ust, dynamika akcji lęku wobec podmiotu"
+    },
+    "imageryDensity": {
+      "metaphors": 8,
+      "comparisons": 3,
+      "personifications": 5,
+      "hyperboles": 2,
+      "per100words": 18
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.8,
+      "creationLevel": 0.7,
+      "ironicDistance": 0.2,
+      "autobiographicSignals": [
+        "nas bez niego nie ma",
+        "nasze trzewia będą w głos / zawodziły",
+        "bezpośredniość doświadczenia lęku"
+      ]
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 29,
+      "VERB": 18,
+      "ADJ": 4,
+      "ADV": 0,
+      "PRON": 14,
+      "ADP": 14,
+      "CCONJ": 5,
+      "SCONJ": 7,
+      "INTJ": 0,
+      "PART": 9,
+      "DET": 3,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.264,
+      "VERB": 0.164,
+      "ADJ": 0.036,
+      "ADV": 0,
+      "PRON": 0.127,
+      "ADP": 0.127,
+      "CCONJ": 0.045,
+      "SCONJ": 0.064,
+      "INTJ": 0,
+      "PART": 0.082,
+      "DET": 0.027,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 6,
+      "abstract": 1,
+      "ratio": 0.86
+    },
+    "verbTenses": {
+      "present": 16,
+      "infinitive": 4,
+      "future": 2,
+      "past": 2
+    },
+    "verbSemantics": {
+      "ruch": 1,
+      "percepcja": 0,
+      "stan": 4,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 2
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 0,
+      "opisowe": 4
+    },
+    "adverbs": {
+      "temporalne": [],
+      "modalne": [],
+      "sposobu": [],
+      "top": []
+    },
+    "pronouns": {
+      "ja": 0,
+      "ty": 0,
+      "on_ona": 6,
+      "my": 5,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 5,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 5,
+      "percentSentences": 0.56
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 12.2,
+      "median": 16,
+      "min": 0,
+      "max": 21,
+      "distribution": [
+        1,
+        0,
+        0,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        1,
+        1,
+        2,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 4.4,
+      "meanSyllables": 7.3,
+      "distribution": [
+        0,
+        0,
+        2,
+        10,
+        7,
+        0,
+        0,
+        2,
+        3,
+        0,
+        1
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 8,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 1
+    },
+    "ellipsis": {
+      "incomplete": 2,
+      "noSubject": 2,
+      "noPredicate": 0,
+      "percent": 0.44
+    },
+    "enjambement": {
+      "count": 17,
+      "percent": 0.71,
+      "positions": [
+        2,
+        3,
+        4,
+        6,
+        7,
+        8,
+        10,
+        11,
+        12,
+        14,
+        15,
+        16,
+        18,
+        19,
+        20,
+        23,
+        24
+      ]
+    },
+    "wordOrder": {
+      "svo": 1,
+      "inversions": 3,
+      "other": 4,
+      "deviationPercent": 0.88
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 178,
+      "consonants": 254,
+      "ratio": 0.7
+    },
+    "consonantClusters": {
+      "count": 14,
+      "top": [
+        {
+          "cluster": "szp",
+          "count": 2
+        },
+        {
+          "cluster": "prz",
+          "count": 2
+        },
+        {
+          "cluster": "zbl",
+          "count": 1
+        },
+        {
+          "cluster": "spr",
+          "count": 1
+        },
+        {
+          "cluster": "chn",
+          "count": 1
+        },
+        {
+          "cluster": "drz",
+          "count": 1
+        },
+        {
+          "cluster": "wkł",
+          "count": 1
+        },
+        {
+          "cluster": "krw",
+          "count": 1
+        },
+        {
+          "cluster": "szk",
+          "count": 1
+        },
+        {
+          "cluster": "zgrz",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 22,
+      "syczace": 48,
+      "nosowe": 49,
+      "plynne": 34
+    },
+    "rhymes": {
+      "exact": 1,
+      "approximate": 0,
+      "internal": 0,
+      "assonance": 0,
+      "alliteration": 1
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        25
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 182,
+      "estimatedSeconds": 61,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "polregularny",
+      "regularityScore": 0.43
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "lęk",
+      "secondary": "rozpacz",
+      "intensity": 0.9
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "Podmiot mówiący wyraźnie obecny przez zaimki 'nas', 'nam', 'naszych', 'nasze' - mówi w imieniu zbiorowości"
+    },
+    "addressee": {
+      "type": "czytelnik",
+      "evidence": "Wiersz ma charakter uniwersalny, zwraca się do szerszej wspólnoty doświadczającej lęku, podmiot mówi 'my'"
+    },
+    "metaphors": [
+      {
+        "source": "lęk",
+        "target": "istota żywa",
+        "example": "ma twarz ze śniegu zielonego jak fosfor"
+      },
+      {
+        "source": "lęk",
+        "target": "karmiciel/wampir",
+        "example": "Wkłada nam do ust dłoń i już jemy ją"
+      },
+      {
+        "source": "lęk",
+        "target": "trucizna",
+        "example": "szpik jak krew trujący"
+      },
+      {
+        "source": "relacja z lękiem",
+        "target": "symbiotyczna zależność",
+        "example": "nas bez niego nie ma, a i on bez nas nie przeraża"
+      }
+    ],
+    "temperature": {
+      "value": 0.3,
+      "label": "zimne z nutą grozy"
+    },
+    "senses": {
+      "wzrok": 4,
+      "sluch": 2,
+      "dotyk": 5,
+      "smak": 5,
+      "zapach": 1
+    },
+    "autodestruction": {
+      "level": 0.8,
+      "signals": [
+        "wysysanie soku idącego do serca",
+        "jedzenie trującego szpiku",
+        "akceptacja trucizny mimo świadomości szkody",
+        "niemożność uwolnienia się od niszczącej relacji"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 0.308,
+    "dfaAlpha": 0.502,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -0.3057515957597175
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": 0.13934089669604946
+      },
+      {
+        "logWin": 1.6094379124341003,
+        "logFluc": 0.10108439242156758
+      },
+      {
+        "logWin": 1.791759469228055,
+        "logFluc": 0.2814226152412522
+      },
+      {
+        "logWin": 1.9459101490553132,
+        "logFluc": 0.10328548020655016
+      }
+    ],
+    "seriesLength": 24,
+    "series": [
+      4,
+      3,
+      7,
+      2,
+      4,
+      3,
+      7,
+      3,
+      4,
+      3,
+      8,
+      3,
+      4,
+      3,
+      8,
+      3,
+      4,
+      3,
+      8,
+      2,
+      4,
+      3,
+      10,
+      4
+    ]
+  }
+}

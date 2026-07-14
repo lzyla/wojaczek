@@ -1,0 +1,837 @@
+{
+  "id": "fuga",
+  "title": "Fuga",
+  "wordCount": 106,
+  "lineCount": 14,
+  "uniqueWords": 72,
+  "vocabularyRichness": 0.679,
+  "avgWordsPerLine": 7.57,
+  "wordsPerLineDistribution": [
+    9,
+    7,
+    7,
+    7,
+    9,
+    7,
+    7,
+    7,
+    7,
+    5,
+    9,
+    8,
+    7,
+    10
+  ],
+  "wordFrequencies": [
+    [
+      "klaszcze",
+      2
+    ],
+    [
+      "wali",
+      2
+    ],
+    [
+      "blachę",
+      2
+    ],
+    [
+      "głowy",
+      2
+    ],
+    [
+      "wystawia",
+      2
+    ],
+    [
+      "nóż",
+      2
+    ],
+    [
+      "wyrok",
+      2
+    ],
+    [
+      "pióro",
+      2
+    ],
+    [
+      "papier",
+      2
+    ],
+    [
+      "stos",
+      2
+    ],
+    [
+      "zacięcie",
+      1
+    ],
+    [
+      "ostrzy",
+      1
+    ],
+    [
+      "słyszę",
+      1
+    ],
+    [
+      "chichoce",
+      1
+    ],
+    [
+      "piwo",
+      1
+    ],
+    [
+      "warzy",
+      1
+    ],
+    [
+      "kadź",
+      1
+    ],
+    [
+      "bulgoce",
+      1
+    ],
+    [
+      "pisze",
+      1
+    ],
+    [
+      "skrzypi",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 23,
+    "period": 0,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 0,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 4,
+  "negationWords": [
+    "nie"
+  ],
+  "pronounDistribution": {
+    "ja": 4,
+    "ty": 0,
+    "on_ona": 0,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 3,
+    "smierc": 2,
+    "erotyka": 0,
+    "alkohol": 1,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [
+    [
+      "ktoś",
+      14
+    ]
+  ],
+  "firstWord": "ktoś",
+  "lastWord": "ma",
+  "avgWordLength": 4.72,
+  "wordLengthDistribution": {
+    "4-5": 50,
+    "8-9": 10,
+    "1-3": 23,
+    "6-7": 23
+  },
+  "bigrams": [
+    [
+      "klaszcze wali",
+      2
+    ],
+    [
+      "nóż zacięcie",
+      1
+    ],
+    [
+      "zacięcie ostrzy",
+      1
+    ],
+    [
+      "ostrzy słyszę",
+      1
+    ]
+  ],
+  "poemWords": [
+    "klaszcze",
+    "wali",
+    "blachę",
+    "głowy",
+    "wystawia",
+    "nóż",
+    "zacięcie",
+    "ostrzy",
+    "słyszę",
+    "chichoce",
+    "piwo",
+    "warzy",
+    "kadź",
+    "bulgoce",
+    "wyrok",
+    "pisze",
+    "pióro",
+    "skrzypi",
+    "papier",
+    "ziewa",
+    "biegnie",
+    "skrada",
+    "śmiem",
+    "oddychać",
+    "lufy",
+    "czyści",
+    "lufach",
+    "gra",
+    "stos",
+    "układa",
+    "podlewa",
+    "szczapy",
+    "piją",
+    "trumnę",
+    "zbija",
+    "palec",
+    "trafia",
+    "klnie",
+    "uśmiecha",
+    "skóra",
+    "trzeszczy",
+    "warga",
+    "pęka",
+    "zapala",
+    "papierosa",
+    "łykam",
+    "dym",
+    "szybę",
+    "tłucze",
+    "szmatę",
+    "pali",
+    "duszę",
+    "spisał",
+    "schował",
+    "wziął",
+    "głos",
+    "czyta",
+    "głoski",
+    "łyka"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 33,
+        "VERB": 33,
+        "ADJ": 4,
+        "ADV": 1,
+        "PRON": 22,
+        "ADP": 5,
+        "CCONJ": 3,
+        "SCONJ": 1,
+        "INTJ": 0,
+        "PART": 5,
+        "DET": 0,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.306,
+        "VERB": 0.306,
+        "ADJ": 0.037,
+        "ADV": 0.009,
+        "PRON": 0.204,
+        "ADP": 0.046,
+        "CCONJ": 0.028,
+        "SCONJ": 0.009,
+        "INTJ": 0,
+        "PART": 0.046,
+        "DET": 0,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 7,
+        "abstract": 1,
+        "ratio": 0.88
+      },
+      "verbTenses": {
+        "past": 5,
+        "present": 26,
+        "future": 1,
+        "infinitive": 1
+      },
+      "verbSemantics": {
+        "ruch": 1,
+        "percepcja": 1,
+        "stan": 0,
+        "destrukcja": 1,
+        "tworzenie": 1,
+        "komunikacja": 0,
+        "cialo": 2
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 0,
+        "opisowe": 4
+      },
+      "adverbs": {
+        "temporalne": [],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "śmiem",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 4,
+        "ty": 0,
+        "on_ona": 0,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 4,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 4,
+        "percentSentences": 0.27
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 200,
+        "consonants": 304,
+        "ratio": 0.66
+      },
+      "consonantClusters": {
+        "count": 11,
+        "top": [
+          {
+            "cluster": "szcz",
+            "count": 4
+          },
+          {
+            "cluster": "strz",
+            "count": 1
+          },
+          {
+            "cluster": "skrz",
+            "count": 1
+          },
+          {
+            "cluster": "skr",
+            "count": 1
+          },
+          {
+            "cluster": "kln",
+            "count": 1
+          },
+          {
+            "cluster": "trz",
+            "count": 1
+          },
+          {
+            "cluster": "szm",
+            "count": 1
+          },
+          {
+            "cluster": "sch",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 26,
+        "syczace": 59,
+        "nosowe": 36,
+        "plynne": 45
+      },
+      "rhymes": {
+        "exact": 1,
+        "approximate": 0,
+        "internal": 2,
+        "assonance": 0,
+        "alliteration": 13
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 7.2,
+        "median": 7,
+        "min": 1,
+        "max": 14,
+        "distribution": [
+          0,
+          2,
+          0,
+          0,
+          0,
+          1,
+          0,
+          6,
+          1,
+          3,
+          1,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 6.8,
+        "meanSyllables": 12.8,
+        "distribution": [
+          0,
+          2,
+          0,
+          0,
+          0,
+          1,
+          0,
+          8,
+          1,
+          3,
+          1
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 15,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 2,
+        "noSubject": 0,
+        "noPredicate": 0,
+        "percent": 0.13
+      },
+      "enjambement": {
+        "count": 0,
+        "percent": 0,
+        "positions": []
+      },
+      "wordOrder": {
+        "svo": 13,
+        "inversions": 0,
+        "other": 0,
+        "deviationPercent": 0
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 4,
+        "śmierć": 2,
+        "erotyka": 0,
+        "alkohol": 1,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 204,
+      "estimatedSeconds": 68,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 33,
+      "VERB": 33,
+      "ADJ": 4,
+      "ADV": 1,
+      "PRON": 22,
+      "ADP": 5,
+      "CCONJ": 3,
+      "SCONJ": 1,
+      "INTJ": 0,
+      "PART": 5,
+      "DET": 0,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.306,
+      "VERB": 0.306,
+      "ADJ": 0.037,
+      "ADV": 0.009,
+      "PRON": 0.204,
+      "ADP": 0.046,
+      "CCONJ": 0.028,
+      "SCONJ": 0.009,
+      "INTJ": 0,
+      "PART": 0.046,
+      "DET": 0,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 7,
+      "abstract": 1,
+      "ratio": 0.88
+    },
+    "verbTenses": {
+      "past": 5,
+      "present": 26,
+      "future": 1,
+      "infinitive": 1
+    },
+    "verbSemantics": {
+      "ruch": 1,
+      "percepcja": 1,
+      "stan": 0,
+      "destrukcja": 1,
+      "tworzenie": 1,
+      "komunikacja": 0,
+      "cialo": 2
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 0,
+      "opisowe": 4
+    },
+    "adverbs": {
+      "temporalne": [],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "śmiem",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 4,
+      "ty": 0,
+      "on_ona": 0,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 4,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 4,
+      "percentSentences": 0.27
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 7.2,
+      "median": 7,
+      "min": 1,
+      "max": 14,
+      "distribution": [
+        0,
+        2,
+        0,
+        0,
+        0,
+        1,
+        0,
+        6,
+        1,
+        3,
+        1,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 6.8,
+      "meanSyllables": 12.8,
+      "distribution": [
+        0,
+        2,
+        0,
+        0,
+        0,
+        1,
+        0,
+        8,
+        1,
+        3,
+        1
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 15,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 2,
+      "noSubject": 0,
+      "noPredicate": 0,
+      "percent": 0.13
+    },
+    "enjambement": {
+      "count": 0,
+      "percent": 0,
+      "positions": []
+    },
+    "wordOrder": {
+      "svo": 13,
+      "inversions": 0,
+      "other": 0,
+      "deviationPercent": 0
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 200,
+      "consonants": 304,
+      "ratio": 0.66
+    },
+    "consonantClusters": {
+      "count": 11,
+      "top": [
+        {
+          "cluster": "szcz",
+          "count": 4
+        },
+        {
+          "cluster": "strz",
+          "count": 1
+        },
+        {
+          "cluster": "skrz",
+          "count": 1
+        },
+        {
+          "cluster": "skr",
+          "count": 1
+        },
+        {
+          "cluster": "kln",
+          "count": 1
+        },
+        {
+          "cluster": "trz",
+          "count": 1
+        },
+        {
+          "cluster": "szm",
+          "count": 1
+        },
+        {
+          "cluster": "sch",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 26,
+      "syczace": 59,
+      "nosowe": 36,
+      "plynne": 45
+    },
+    "rhymes": {
+      "exact": 1,
+      "approximate": 0,
+      "internal": 2,
+      "assonance": 0,
+      "alliteration": 13
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        16
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 204,
+      "estimatedSeconds": 68,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "polregularny",
+      "regularityScore": 0.62
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "inne",
+          "reference": "fuga muzyczna",
+          "evidence": "tytuł 'FUGA' i powtarzająca się struktura 'Ktoś...'"
+        },
+        {
+          "source": "Biblia",
+          "reference": "sąd ostateczny",
+          "evidence": "wyrok pisze, wyrok spisał, na głos czyta"
+        },
+        {
+          "source": "inne",
+          "reference": "literatura egzystencjalna",
+          "evidence": "anonimowość sprawców, lęk, zagrożenie"
+        }
+      ],
+      "selfQuotes": [
+        "Ktoś klaszcze, wali w blachę, lecz głowy nie wystawia"
+      ],
+      "influences": {
+        "rimbaud": 0.3,
+        "baudelaire": 0.4,
+        "bursa": 0.2,
+        "stachura": 0.1,
+        "grochowiak": 0.3,
+        "bialoszewski": 0.2,
+        "rozewicz": 0.6
+      }
+    },
+    "space": {
+      "type": "zamknieta",
+      "evidence": "duszenie się, zamknięta przestrzeń zagrożenia, brak ucieczki",
+      "openClosedRatio": 0.1
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "nieokreslona",
+      "evidence": "brak wskazówek temporalnych, czas zawieszony w lęku"
+    },
+    "motion": {
+      "movement": 8,
+      "stillness": 2,
+      "dynamism": 0.8,
+      "evidence": "intensywne działania: biegnie, skrada się, wali, tłucze, zbija"
+    },
+    "imageryDensity": {
+      "metaphors": 4,
+      "comparisons": 0,
+      "personifications": 6,
+      "hyperboles": 2,
+      "per100words": 12
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.9,
+      "creationLevel": 0.7,
+      "ironicDistance": 0.1,
+      "autobiographicSignals": [
+        "ja nie śmiem oddychać",
+        "łykam dym",
+        "ja się duszę",
+        "mnie już nie ma"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "rozpacz",
+      "secondary": "rezygnacja",
+      "intensity": 0.8
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "ja nie śmiem oddychać, łykam dym, ja się duszę, mnie już nie ma"
+    },
+    "addressee": {
+      "type": "nikt",
+      "evidence": "wiersz to monolog wewnętrzny, brak bezpośredniego zwrotu do kogokolwiek"
+    },
+    "metaphors": [
+      {
+        "source": "fuga muzyczna",
+        "target": "sekwencja destrukcyjnych działań",
+        "example": "powtarzające się 'ktoś' jak motywy w fudze"
+      },
+      {
+        "source": "wyrok",
+        "target": "przeznaczenie/śmierć",
+        "example": "Ktoś wyrok pisze, pióro skrzypi, papier ziewa"
+      },
+      {
+        "source": "stos",
+        "target": "przygotowanie do egzekucji",
+        "example": "Ktoś stos układa, stos podlewa, szczapy piją"
+      }
+    ],
+    "temperature": {
+      "value": 0.2,
+      "label": "zimne - dominuje lęk i bezsilność"
+    },
+    "senses": {
+      "wzrok": 2,
+      "sluch": 5,
+      "dotyk": 3,
+      "smak": 1,
+      "zapach": 2
+    },
+    "autodestruction": {
+      "level": 0.9,
+      "signals": [
+        "ja nie śmiem oddychać",
+        "łykam dym",
+        "ja się duszę",
+        "mnie już nie ma",
+        "obserwacja przygotowań do własnej destrukcji"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 0.716,
+    "dfaAlpha": 1.973,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -1.7328679513998617
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -1.1653779849803696
+      }
+    ],
+    "seriesLength": 14,
+    "series": [
+      9,
+      7,
+      7,
+      7,
+      9,
+      7,
+      7,
+      7,
+      7,
+      5,
+      9,
+      8,
+      7,
+      10
+    ]
+  }
+}

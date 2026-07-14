@@ -1,0 +1,1002 @@
+{
+  "id": "jaka-bym-ci-chciala-sie-napisac",
+  "title": "Jaka bym ci chciała się napisać",
+  "wordCount": 84,
+  "lineCount": 12,
+  "uniqueWords": 58,
+  "vocabularyRichness": 0.69,
+  "avgWordsPerLine": 7,
+  "wordsPerLineDistribution": [
+    8,
+    8,
+    8,
+    7,
+    6,
+    8,
+    6,
+    5,
+    7,
+    6,
+    7,
+    8
+  ],
+  "wordFrequencies": [
+    [
+      "niczym",
+      5
+    ],
+    [
+      "naga",
+      4
+    ],
+    [
+      "czysta",
+      2
+    ],
+    [
+      "jasna",
+      2
+    ],
+    [
+      "bóg",
+      2
+    ],
+    [
+      "wenus",
+      2
+    ],
+    [
+      "jedna",
+      2
+    ],
+    [
+      "wierna",
+      2
+    ],
+    [
+      "goła",
+      1
+    ],
+    [
+      "stal",
+      1
+    ],
+    [
+      "woda",
+      1
+    ],
+    [
+      "żywa",
+      1
+    ],
+    [
+      "krew",
+      1
+    ],
+    [
+      "jawna",
+      1
+    ],
+    [
+      "prosta",
+      1
+    ],
+    [
+      "prawda",
+      1
+    ],
+    [
+      "jeden",
+      1
+    ],
+    [
+      "słowo",
+      1
+    ],
+    [
+      "kocham",
+      1
+    ],
+    [
+      "wyrzeczone",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 8,
+    "period": 0,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 0,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 0,
+  "negationWords": [],
+  "pronounDistribution": {
+    "ja": 0,
+    "ty": 4,
+    "on_ona": 1,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 1,
+    "smierc": 1,
+    "erotyka": 4,
+    "alkohol": 1,
+    "samotnosc": 2,
+    "sacrum": 2,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [
+    [
+      "naga",
+      3
+    ]
+  ],
+  "firstWord": "naga",
+  "lastWord": "odry",
+  "avgWordLength": 5.11,
+  "wordLengthDistribution": {
+    "4-5": 31,
+    "1-3": 22,
+    "6-7": 17,
+    "10+": 6,
+    "8-9": 8
+  },
+  "bigrams": [
+    [
+      "goła stal",
+      1
+    ],
+    [
+      "stal czysta",
+      1
+    ],
+    [
+      "naga woda",
+      1
+    ],
+    [
+      "woda niczym",
+      1
+    ],
+    [
+      "niczym żywa",
+      1
+    ],
+    [
+      "żywa krew",
+      1
+    ],
+    [
+      "krew jawna",
+      1
+    ],
+    [
+      "jawna prosta",
+      1
+    ],
+    [
+      "jasna prawda",
+      1
+    ]
+  ],
+  "poemWords": [
+    "naga",
+    "goła",
+    "stal",
+    "czysta",
+    "woda",
+    "niczym",
+    "żywa",
+    "krew",
+    "jawna",
+    "prosta",
+    "jasna",
+    "prawda",
+    "jeden",
+    "bóg",
+    "wenus",
+    "jedna",
+    "słowo",
+    "kocham",
+    "wyrzeczone",
+    "ciżbę",
+    "pospólnych",
+    "słów",
+    "rzymska",
+    "składnia",
+    "wierna",
+    "strach",
+    "matka",
+    "prawdziwa",
+    "strachu",
+    "boskie",
+    "przykazanie",
+    "łacińska",
+    "oda",
+    "mickiewicza",
+    "wódka",
+    "niedomytej",
+    "szklanki",
+    "matczyna",
+    "wilczyca",
+    "straszna",
+    "zabrakło",
+    "szaleństwo",
+    "mieszka",
+    "dnie",
+    "odry"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 18,
+        "VERB": 3,
+        "ADJ": 25,
+        "ADV": 2,
+        "PRON": 3,
+        "ADP": 4,
+        "CCONJ": 0,
+        "SCONJ": 16,
+        "INTJ": 0,
+        "PART": 1,
+        "DET": 3,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.214,
+        "VERB": 0.036,
+        "ADJ": 0.298,
+        "ADV": 0.024,
+        "PRON": 0.036,
+        "ADP": 0.048,
+        "CCONJ": 0,
+        "SCONJ": 0.19,
+        "INTJ": 0,
+        "PART": 0.012,
+        "DET": 0.036,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 4,
+        "abstract": 3,
+        "ratio": 0.57
+      },
+      "verbTenses": {
+        "present": 2,
+        "past": 1
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 1,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 2,
+        "oceniajace": 1,
+        "opisowe": 22
+      },
+      "adverbs": {
+        "temporalne": [],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "jak",
+            "count": 1
+          },
+          {
+            "word": "kiedy",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 0,
+        "ty": 1,
+        "on_ona": 1,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 0,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 0,
+        "percentSentences": 0
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 164,
+        "consonants": 265,
+        "ratio": 0.62
+      },
+      "consonantClusters": {
+        "count": 14,
+        "top": [
+          {
+            "cluster": "str",
+            "count": 3
+          },
+          {
+            "cluster": "msk",
+            "count": 1
+          },
+          {
+            "cluster": "skł",
+            "count": 1
+          },
+          {
+            "cluster": "wdz",
+            "count": 1
+          },
+          {
+            "cluster": "prz",
+            "count": 1
+          },
+          {
+            "cluster": "ńsk",
+            "count": 1
+          },
+          {
+            "cluster": "szkl",
+            "count": 1
+          },
+          {
+            "cluster": "tcz",
+            "count": 1
+          },
+          {
+            "cluster": "lcz",
+            "count": 1
+          },
+          {
+            "cluster": "szn",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 20,
+        "syczace": 34,
+        "nosowe": 47,
+        "plynne": 25
+      },
+      "rhymes": {
+        "exact": 0,
+        "approximate": 2,
+        "internal": 0,
+        "assonance": 1,
+        "alliteration": 1
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 84,
+        "median": 84,
+        "min": 84,
+        "max": 84,
+        "distribution": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 7,
+        "meanSyllables": 13.8,
+        "distribution": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          3,
+          3,
+          5
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 1,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 0,
+        "noSubject": 0,
+        "noPredicate": 0,
+        "percent": 0
+      },
+      "enjambement": {
+        "count": 0,
+        "percent": 0,
+        "positions": []
+      },
+      "wordOrder": {
+        "svo": 1,
+        "inversions": 0,
+        "other": 0,
+        "deviationPercent": 0
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 1,
+        "śmierć": 1,
+        "erotyka": 4,
+        "alkohol": 1,
+        "samotność": 2,
+        "sacrum": 2,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 166,
+      "estimatedSeconds": 55,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 18,
+      "VERB": 3,
+      "ADJ": 25,
+      "ADV": 2,
+      "PRON": 3,
+      "ADP": 4,
+      "CCONJ": 0,
+      "SCONJ": 16,
+      "INTJ": 0,
+      "PART": 1,
+      "DET": 3,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.214,
+      "VERB": 0.036,
+      "ADJ": 0.298,
+      "ADV": 0.024,
+      "PRON": 0.036,
+      "ADP": 0.048,
+      "CCONJ": 0,
+      "SCONJ": 0.19,
+      "INTJ": 0,
+      "PART": 0.012,
+      "DET": 0.036,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 4,
+      "abstract": 3,
+      "ratio": 0.57
+    },
+    "verbTenses": {
+      "present": 2,
+      "past": 1
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 1,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 2,
+      "oceniajace": 1,
+      "opisowe": 22
+    },
+    "adverbs": {
+      "temporalne": [],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "jak",
+          "count": 1
+        },
+        {
+          "word": "kiedy",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 0,
+      "ty": 1,
+      "on_ona": 1,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 0,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 0,
+      "percentSentences": 0
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 84,
+      "median": 84,
+      "min": 84,
+      "max": 84,
+      "distribution": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 7,
+      "meanSyllables": 13.8,
+      "distribution": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        3,
+        3,
+        5
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 1,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 0,
+      "noSubject": 0,
+      "noPredicate": 0,
+      "percent": 0
+    },
+    "enjambement": {
+      "count": 0,
+      "percent": 0,
+      "positions": []
+    },
+    "wordOrder": {
+      "svo": 1,
+      "inversions": 0,
+      "other": 0,
+      "deviationPercent": 0
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 164,
+      "consonants": 265,
+      "ratio": 0.62
+    },
+    "consonantClusters": {
+      "count": 14,
+      "top": [
+        {
+          "cluster": "str",
+          "count": 3
+        },
+        {
+          "cluster": "msk",
+          "count": 1
+        },
+        {
+          "cluster": "skł",
+          "count": 1
+        },
+        {
+          "cluster": "wdz",
+          "count": 1
+        },
+        {
+          "cluster": "prz",
+          "count": 1
+        },
+        {
+          "cluster": "ńsk",
+          "count": 1
+        },
+        {
+          "cluster": "szkl",
+          "count": 1
+        },
+        {
+          "cluster": "tcz",
+          "count": 1
+        },
+        {
+          "cluster": "lcz",
+          "count": 1
+        },
+        {
+          "cluster": "szn",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 20,
+      "syczace": 34,
+      "nosowe": 47,
+      "plynne": 25
+    },
+    "rhymes": {
+      "exact": 0,
+      "approximate": 2,
+      "internal": 0,
+      "assonance": 1,
+      "alliteration": 1
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 4,
+      "linesPerStanza": [
+        3,
+        3,
+        3,
+        3
+      ],
+      "isRegular": true,
+      "isContinuous": false
+    },
+    "readingTempo": {
+      "syllables": 166,
+      "estimatedSeconds": 55,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "regularny",
+      "regularityScore": 0.91
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "mitologia",
+          "reference": "Wenus",
+          "evidence": "jak sama Wenus jedna / Naga jak Wenus"
+        },
+        {
+          "source": "Biblia",
+          "reference": "przykazania boskie",
+          "evidence": "boskie przykazanie"
+        },
+        {
+          "source": "Biblia",
+          "reference": "monoteizm",
+          "evidence": "Sama jak jeden Bóg"
+        },
+        {
+          "source": "inne",
+          "reference": "Mickiewicz",
+          "evidence": "łacińska oda Mickiewicza"
+        },
+        {
+          "source": "mitologia",
+          "reference": "wilczyca",
+          "evidence": "matczyna jak wilczyca"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.7,
+        "baudelaire": 0.6,
+        "bursa": 0.2,
+        "stachura": 0.4,
+        "grochowiak": 0.5,
+        "bialoszewski": 0.3,
+        "rozewicz": 0.4
+      }
+    },
+    "space": {
+      "type": "nieokreslona",
+      "evidence": "przestrzeń abstrakcyjna, metafizyczna - odniesienia do Boga, Wenus, dna Odry",
+      "openClosedRatio": 0.6
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "nieokreslona",
+      "evidence": "brak konkretnych wskaźników temporalnych"
+    },
+    "motion": {
+      "movement": 2,
+      "stillness": 7,
+      "dynamism": 0.3,
+      "evidence": "statyczne porównania, jedyne ruchy to 'wyrzeczone' i 'mieszka'"
+    },
+    "imageryDensity": {
+      "metaphors": 8,
+      "comparisons": 15,
+      "personifications": 3,
+      "hyperboles": 4,
+      "per100words": 42.8
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.8,
+      "creationLevel": 0.9,
+      "ironicDistance": 0.2,
+      "autobiographicSignals": [
+        "Twój strach",
+        "Twoja jak wierna matka",
+        "kiedy Ci go zabrakło",
+        "Twoja niczym szaleństwo"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "czułość",
+      "secondary": "tęsknota",
+      "intensity": 0.8
+    },
+    "subjectPresence": {
+      "type": "ukryte",
+      "evidence": "Podmiot liryczny ukryty za katalogiem porównań, ujawnia się przez emocjonalne zaangażowanie w opis"
+    },
+    "addressee": {
+      "type": "ty",
+      "evidence": "Bezpośrednie zwroty 'Twój strach', 'Twoja jak wierna matka', 'kiedy Ci go zabrakło'"
+    },
+    "metaphors": [
+      {
+        "source": "nagość",
+        "target": "czystość/prawda",
+        "example": "Naga jak goła stal, czysta jak naga woda"
+      },
+      {
+        "source": "Wenus",
+        "target": "ideał kobiecości",
+        "example": "jak sama Wenus jedna"
+      },
+      {
+        "source": "szaleństwo na dnie Odry",
+        "target": "przynależność/tożsamość",
+        "example": "Twoja niczym szaleństwo, co mieszka na dnie Odry"
+      }
+    ],
+    "temperature": {
+      "value": 0.7,
+      "label": "ciepłe - namiętne uwielbienie"
+    },
+    "senses": {
+      "wzrok": 5,
+      "sluch": 2,
+      "dotyk": 4,
+      "smak": 3,
+      "zapach": 1
+    },
+    "autodestruction": {
+      "level": 0.3,
+      "signals": [
+        "odwołanie do strachu i braku Boga",
+        "szaleństwo na dnie rzeki"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 1.206,
+    "dfaAlpha": 1.912,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -1.2220423276338719
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -0.6719410790144371
+      }
+    ],
+    "seriesLength": 12,
+    "series": [
+      8,
+      8,
+      8,
+      7,
+      6,
+      8,
+      6,
+      5,
+      7,
+      6,
+      7,
+      8
+    ]
+  }
+}

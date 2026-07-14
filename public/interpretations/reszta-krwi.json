@@ -1,0 +1,223 @@
+{
+  "verses": [
+    {
+      "text": "Widzisz\nto jest Ziemia\nWygląda jak gwiazda",
+      "annotations": [
+        {
+          "node_id": "1a",
+          "aspect": "slowo",
+          "phrase": "Widzisz",
+          "comment": "Imperativ otwierający wiersz jak deiktyczna formuła wskazywania. Poeta ustanawia relację ja-ty, ale jednocześnie kwestionuje możliwość wspólnego widzenia. 'Widzisz' brzmi jak pytanie zamaskowane jako stwierdzenie - czy rzeczywiście widzisz to samo co ja?",
+          "full_analysis": "Pierwsza linijka ustanawia paradoksalną sytuację komunikacyjną. Czasownik w trybie rozkazującym sugeruje pewność i władzę mówiącego, ale faktycznie odsłania desperację - potrzebę bycia zrozumianym, zobaczonym. [BIOGRAFIA: 1967 - intensywne przeżywanie choroby psychicznej] To także echo biblijnego 'oto' - formuły objawienia, ale zsekularyzowanej i niepewnej.\n\nKlak zauważa, że u Wojaczka imperatyw często maskuje błaganie. Nie 'patrz', lecz 'widzisz' - jakby poeta zakładał już wspólnotę percepcji, którą jednocześnie kwestionuje. Jest w tym desperacka naiwność - wiara, że można zmusić kogoś do współodczuwania własnej wizji świata.\n\nW kontekście całej twórczości Wojaczka 'widzisz' odsyła do obsesji na punkcie bycia widzianym - przez matkę, kochankę, czytelnika. [INTERTEKST: Celan - Du] Niemiecka poezja powojennych traum operuje podobnymi apostrofami do niemożliwego odbiorcy.\n\nSłowo otwiera także serię gestów wskazywania: 'to jest', 'to pewnie', 'to reszta'. Poeta próbuje nazwać świat, ale każda definicja się rozpada.",
+          "connects_to": [
+            "1b",
+            "2a"
+          ],
+          "contradicts": "",
+          "contradiction_reason": "",
+          "alt_readings": [
+            "Widzisz jako ironiczna konstatacja ślepoty adresata",
+            "Widzisz jako rozpaczliwe wołanie o uwagę",
+            "Widzisz jako test na wspólnotę doświadczenia"
+          ]
+        },
+        {
+          "node_id": "1b",
+          "aspect": "forma",
+          "phrase": "to jest Ziemia",
+          "comment": "Definicja jak z elementarza, ale umieszczona w kosmicznej pustce. Przerzutnia po 'Widzisz' tworzy dramatyczną pauzę - poeta zbiera się na odwagę, by nazwać całą rzeczywistość. 'To jest' brzmi jak ostateczne wyjaśnienie tajemnicy bytu.",
+          "full_analysis": "Składniowo mamy do czynienia z konstrukcją kopularną - najprostszą formą językową identyfikacji. Ale ta pozorna prostota kryje filozoficzną przepaść. Co znaczy 'być Ziemią'? [BIOGRAFIA: 1965-69 - studia na UWr, kontakt z filozofią] Wojaczek czytał egzystencjalistów - być może echo Heideggerowskiego pytania o bycie.\n\nWersyfikacyjnie kluczowa jest przerzutnia między 'Widzisz' a 'to jest Ziemia'. Pauza zmusza czytelnika do zawahania - jakby poeta wahał się przed wypowiedzeniem tej fundamentalnej diagnozy. Kiedy wreszcie pada 'to jest Ziemia', brzmi to jak bolesne odkrycie, nie oczywistość.\n\nLegeżyńska pisze o infantylizmie stylistycznym u Wojaczka - językowej regresji jako sposobie na dotarcie do prawdy sprzed kulturowych nawarstwień. 'To jest Ziemia' brzmi jak dziecięca tautologia, ale w ustach umierającego młodzieńca nabiera tragicznej wymowy.\n\nWielka litera 'Ziemia' nobilituje planetę do rangi imienia własnego - nie 'ziemia' jako gleba, lecz 'Ziemia' jako jedyna znana nam forma istnienia. Ale czy to wystarczy do szczęścia?",
+          "connects_to": [
+            "1c",
+            "2b"
+          ],
+          "contradicts": "3a",
+          "contradiction_reason": "Pewność definicji kłóci się z późniejszą niemożnością określenia tego, co świeci",
+          "alt_readings": [
+            "To jest Ziemia jako żałosna konstatacja ograniczeń",
+            "To jest Ziemia jako akt nazywania świata od nowa",
+            "To jest Ziemia jako gorycz kogoś, kto spodziewał się czegoś więcej"
+          ]
+        },
+        {
+          "node_id": "1c",
+          "aspect": "obraz",
+          "phrase": "Wygląda jak gwiazda",
+          "comment": "Perspektywa kosmonauty lub umierającego - Ziemia widziana z dystansu niemożliwego. Porównanie odwraca hierarchie: to nie gwiazdy są jak punkty światła, lecz nasza planeta staje się jedną z gwiazd. Poetycka realizacja kopernikańskiego przewrotu.",
+          "full_analysis": "Obraz Ziemi-gwiazdy wywraca antropocentryczną perspektywę. Zamiast patrzeć z Ziemi na gwiazdy, poeta patrzy na Ziemię jak na gwiazdę. [BIOGRAFIA: 1969 - rok przed lotem Apollo 11] Kontekst podboju kosmosu nadaje wizji aktualność, ale u Wojaczka dominuje melancholia, nie triumf techniki.\n\n[INTERTEKST: Saint-Exupéry - Mały Książę] Motyw planety widzianej z zewnątrz ma w literaturze XX wieku wymiar alegoryczny - człowiek odkrywa własną kosmiczną bezdomność. Ale gdzie indziej dziecięcy zachwyt, tu rozpacz.\n\nCzapliński pisze o 'wyobcowanej intymności' u Wojaczka - najbardziej osobiste przeżycia ujmowane w kosmicznych skalach. Ziemia-gwiazda to nie poetycka metafora, lecz dosłowna wizja - efekt depersonalizacji towarzyszącej chorobie psychicznej.\n\nObraz ma także wymiar eschatologiczny. W tradycji chrześcijańskiej gwiazdy to zapowiedź końca świata. Czy poeta widzi własną śmierć w skali planetarnej? Ziemia jako gwiazda to Ziemia po nas - piękna i martwa.",
+          "connects_to": [
+            "2c",
+            "4a"
+          ],
+          "contradicts": "",
+          "contradiction_reason": "",
+          "alt_readings": [
+            "Gwiazda jako symbol nieosiągalnego piękna",
+            "Gwiazda jako metafora samotności w kosmosie",
+            "Gwiazda jako obraz rzeczy martwej, ale świecącej"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "na dnie\nłzy\nMoja kochana nie wiem",
+      "annotations": [
+        {
+          "node_id": "2a",
+          "aspect": "cialo",
+          "phrase": "na dnie łzy",
+          "comment": "Ziemia umieszczona wewnątrz łzy - mikrokosmiczna wizja bólu. Łza staje się oceanem, w którym tonie cała rzeczywistość. Fizjologia płaczu jako kosmogonia - świat rodzący się z cierpienia. Solna woda łez to pierwotny żywioł.",
+          "full_analysis": "Obraz Ziemi na dnie łzy to jedna z najbardziej radykalnych metafor u Wojaczka. Łza - kropla soli i wody - zawiera w sobie całą planetę. [BIOGRAFIA: 1967 - nasilenie stanów depresyjnych] To poetycka transpozycja doświadczenia depresji: świat widziany przez pryzmat płaczu.\n\nFenomenologicznie łza jest miejscem, gdzie wnętrze staje się zewnętrzem - to co najbardziej intymne (ból) materializuje się w postaci kropli. Kierc pisze o 'cielesnej metafizyce' Wojaczka - ciało jako jedyna dostępna droga do poznania bytu.\n\n'Na dnie' sugeruje głębię i tonięcie. Łza nie jest tu gestem ulgi, lecz więzieniem. Ziemia uwięziona w łzie jak insekt w bursztynie - piękna, ale martwa. [INTERTEKST: Norwid - łza jako 'kropla świata'] Ale gdzie u Norwida łza to świadectwo człowieczeństwa, tu staje się kosmicznym więzieniem.\n\nObraz ma też wymiar optyczny - łza jak soczewka załamuje światło, deformuje widzenie. Może dlatego Ziemia 'wygląda jak gwiazda' - to efekt optyczny, złudzenie wywołane łzami?",
+          "connects_to": [
+            "1c",
+            "2b"
+          ],
+          "contradicts": "",
+          "contradiction_reason": "",
+          "alt_readings": [
+            "Łza jako soczewka powiększająca cierpienie",
+            "Łza jako miejsce oczyszczenia przez ból",
+            "Łza jako ostatnia wilgoć w wysychającym świecie"
+          ]
+        },
+        {
+          "node_id": "2b",
+          "aspect": "afekt",
+          "phrase": "Moja kochana nie wiem",
+          "comment": "Przejście od kosmicznej wizji do intymnego wyznania. 'Nie wiem' po poprzednich pozornie pewnych stwierdzeniach - załamanie się poznawczej pewności. Czułość połączona z epistemologiczną klęską. Poeta wie jak wygląda świat, ale nie wie, co to znaczy.",
+          "full_analysis": "Apostrofa 'Moja kochana' wprowadza dramatyczny zwrot - od samotnej kontemplacji ku dialogowi z nieobecną kochanką. [BIOGRAFIA: 1965-71 - burzliwe związki uczuciowe] Ale miłosne 'moja' brzmi jak pieszczotliwe zawłaszczenie kogoś, kto prawdopodobnie już odszedł.\n\n'Nie wiem' to kapitulacja rozumu wobec tajemnicy bytu. Po apodyktycznych stwierdzeniach ('to jest Ziemia') przychodzi moment epistemologicznej pokory. Łukasiewicz pisze o 'filozofii niewiedzy' u Wojaczka - poznanie przez rezygnację z poznania.\n\nAfektywnie 'nie wiem' wyraża bezradność dziecka wobec świata dorosłych. Regresja językowa idzie w parze z regresją emocjonalną - poeta wraca do stanu pierwotnej niewiedzy, ale już nie niewinnej. To niewiedza po doświadczeniu, nie przed nim.\n\nStrukturalnie wyznanie 'nie wiem' przygotowuje kolejne próby definiowania ('to pewnie', 'to reszta'). Niewiedza rodzi kolejne hipotezy, ale wszystkie pozostaną niepewne.",
+          "connects_to": [
+            "3a",
+            "3b"
+          ],
+          "contradicts": "1b",
+          "contradiction_reason": "Pewność definicji 'to jest Ziemia' zaprzeczona przez 'nie wiem'",
+          "alt_readings": [
+            "Nie wiem jako kokieteria wobec kochanki",
+            "Nie wiem jako wyznanie filozoficznej klęski",
+            "Nie wiem jako początek mądrości"
+          ]
+        },
+        {
+          "node_id": "2c",
+          "aspect": "napiecie",
+          "phrase": "przejście Widzisz-kochana",
+          "comment": "Zerwanie ciągłości adresata - od anonimowego 'ty' do intymnej 'kochanej'. Czy to ta sama osoba? Poeta jakby zapominał, do kogo mówi, lub usiłuje różnych adresatów przekonać do swojej wizji. Komunikacyjny chaos odzwierciedla chaos wewnętrzny.",
+          "full_analysis": "Niespójność adresatów to jeden z najważniejszych sygnałów zaburzeń w lirycznym 'ja' Wojaczka. [BIOGRAFIA: 1967 - pogorszenie stanu psychicznego] Rozpoczęcie od bezosobowego 'Widzisz', przejście przez kosmiczną wizję, by wreszcie trafić do 'Mojej kochanej' - to mapa fragmentaryzującej się świadomości.\n\nW pierwszej części wiersza poeta jest pewny siebie - nazywa, definiuje, wskazuje. W drugiej przyznaje się do niewiedzy i szuka wsparcia w miłosnej apostrofie. [INTERTEKST: Leśmian - rozmowy z nieobecnymi] Ale gdzie u Leśmiana fantazja, tu patologia.\n\nNapięcie między publicznym gestem wskazywania ('Widzisz') a prywatnym wyznaniem ('Moja kochana') odzwierciedla rozdarcie między potrzebą komunikacji a świadomością własnej niekomunikowalności. Poeta chce być zrozumiany przez wszystkich i przez jedną osobę jednocześnie.\n\nStruktura ta przygotowuje kolejny zwrot - od kochanki do 'kochanego', co jeszcze bardziej skomplikuje komunikacyjną mapę wiersza.",
+          "connects_to": [
+            "3b",
+            "1a"
+          ],
+          "contradicts": "",
+          "contradiction_reason": "",
+          "alt_readings": [
+            "Chaos adresatów jako symptom schizofrenii",
+            "Zmiana adresata jako poetycka strategia",
+            "Różni adresaci jako różne aspekty jednej osoby"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "co tam świeci, to pewnie\nboża krówka\nMój kochany powiem:",
+      "annotations": [
+        {
+          "node_id": "3a",
+          "aspect": "slowo",
+          "phrase": "boża krówka",
+          "comment": "Zderzenie sacrum z infantylnym słodyczem. 'Boża krówka' to karmel w białej czekoladzie, ale także ironiczna profanacja - zamiast boskiej iskry, słodka papka. Dziecięcy język jako sposób oswojenia metafizycznej grozy. Co jeśli transcendencja to tylko cukierek?",
+          "full_analysis": "Nazwa słodyczy w kontekście kosmicznej wizji to klasyczny przykład wojaczkowskiego zestawiania wysokiego z niskim. [BIOGRAFIA: 1945 - dzieciństwo w ubogiej rodzinie kolejarza] 'Boża krówka' to słodycz z czasów dzieciństwa, symbol prostych przyjemności niedostępnych w dorosłości.\n\nEtymologicznie 'boża krówka' odsyła do ludowej religijności - Bóg pojmowany przez pryzmat wiejskiej gospodarki, gdzie krowa to symbol dobrobytu. Ale u Wojaczka ta naiwność brzmi gorzko - poeta wie już, że Bóg, jeśli istnieje, to nie opiekuńczy właściciel stada.\n\nKierc zwraca uwagę na 'gastronomiczną metafizykę' Wojaczka - najwyższe prawdy wyrażane przez jedzenie. 'Boża krówka' jako odpowiednik communion - słodyczy, która ma nasycić głód absolutu. [INTERTEKST: Białoszewski - prozaizmy w funkcji poetyckiej] Ale gdzie u Białoszewskiego radość z codzienności, tu rozpacz zamaskowana infantylizmem.\n\nNajważniejsze jest 'to pewnie' - poeta nie jest pewny nawet własnej ironii. 'Boża krówka' to może tylko kolejna hipoteza, próba nazwania nienazwywalnego światła.",
+          "connects_to": [
+            "2b",
+            "4b"
+          ],
+          "contradicts": "",
+          "contradiction_reason": "",
+          "alt_readings": [
+            "Boża krówka jako kpina z religijnej naiwności",
+            "Boża krówka jako tęsknota za dziecięcą wiarą",
+            "Boża krówka jako ostatni dowód na istnienie Boga"
+          ]
+        },
+        {
+          "node_id": "3b",
+          "aspect": "biografia",
+          "phrase": "Mój kochany powiem",
+          "comment": "Kolejna zmiana adresata - od 'kochanej' do 'kochanego'. Może to znak biseksualnych skłonności poety, ale raczej objaw fragmentacji tożsamości. 'Powiem' brzmi jak zapowiedź ostatecznego wyjaśnienia, ale co może powiedzieć ktoś, kto przed chwilą wyznał 'nie wiem'?",
+          "full_analysis": "[BIOGRAFIA: 1965-71 - związki z kobietami i mężczyznami] Wojaczek nie ukrywał biseksualnych doświadczeń, co w PRL-u było dodatkowym społecznym piętnem. 'Mój kochany' może być zwrotem do konkretnego partnera, ale też gestem desperackiego szukania miłości bez względu na płeć adresata.\n\nGramatycznie 'powiem' to futurum - obietnica wyjaśnienia, która już się spełnia w następnym wersie. Ale czy 'reszta naszej krwi' to rzeczywiście wyjaśnienie? Poet obiecuje prawdę, ale oferuje tylko kolejną metaforę. [BIOGRAFIA: 1969-71 - narastające problemy z komunikacją] Choroba utrudnia nie tylko odbiór świata, ale też jego przekaz.\n\nZmiana z formy żeńskiej na męską może też sygnalizować rozszczepienie osobowości - poeta rozmawia sam ze sobą, zmieniając płeć jak maski. Łukasiewicz pisze o 'dialogach z nikim' u Wojaczka - konwersacjach, które są w istocie monologami rozbitej świadomości.\n\n'Mój' brzmi possessivnie - poeta chce zawłaszczyć adresata, uczynić go własnością. Ale można zawłaszczyć tylko to, co już odeszło - stąd rozpaczliwa czułość tego słowa.",
+          "connects_to": [
+            "2b",
+            "4b"
+          ],
+          "contradicts": "2c",
+          "contradiction_reason": "Zapowiedź pewności 'powiem' kłóci się z wcześniejszym 'nie wiem'",
+          "alt_readings": [
+            "Kochany jako alter ego poety",
+            "Kochany jako społeczna prowokacja",
+            "Kochany jako próba przezwyciężenia samotności"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "to reszta naszej krwi\nglob\nprześwieca",
+      "annotations": [
+        {
+          "node_id": "4a",
+          "aspect": "obraz",
+          "phrase": "reszta naszej krwi",
+          "comment": "Ziemia jako pozostałość po kosmicznej katastrofie - to co zostało z 'naszej' krwi. Kto to 'my'? Ludzkość? Kochankowie? Wszyscy, którzy już umarli? Krew jako substancja życia, ale tu tylko 'reszta' - końcówka, osad, to co nieprzydatne. Planeta jak ranà, która się nie goi.",
+          "full_analysis": "Metafora krwi jako substancji kosmicznej to kulminacja wizji Wojaczka. [BIOGRAFIA: 1969-71 - myśli samobójcze] Poeta obsesyjnie powraca do obrazów krwi - własnej i cudzej, realnej i metaforycznej. Ziemia-krew to planeta zrodzona z cierpienia, nie z boskiego tchnienia.\n\n'Reszta' ma wymiar eschatologiczny - to co pozostaje po końcu świata. Ale też prozaiczny - resztki jedzenia, odpadki. [INTERTEKST: Celan - Fuga śmierci] Niemiecka poezja Zagłady operuje podobnymi obrazami - świat jako pozostałość po katastrofie. U Wojaczka brak jednak historycznej konkretności - to apokalipsa prywatna, nie zbiorowa.\n\n'Naszej' włącza odbiorcę w kosmiczną wspólnotę cierpienia. Czyja krew? Wszystkich zmarłych? Wszystkich żyjących? Klak pisze o 'inclusive we' u Wojaczka - geście desperackiego budowania wspólnoty z czytelnikiem. Poeta chce, by jego ból stał się uniwersalny.\n\nObraz ma też wymiar alchemiczny - krew jako prima materia, z której powstaje świat. Ale gdzie średniowieczni alchemicy szukali złota, Wojaczek znajduje tylko 'resztę' - to co zostało po nieudanej przemianie.",
+          "connects_to": [
+            "4b",
+            "1c"
+          ],
+          "contradicts": "",
+          "contradiction_reason": "",
+          "alt_readings": [
+            "Reszta krwi jako wspólne dziedzictwo cierpienia",
+            "Reszta krwi jako substancja życia po katastrofie",
+            "Reszta krwi jako metafora solidarności w bólu"
+          ]
+        },
+        {
+          "node_id": "4b",
+          "aspect": "forma",
+          "phrase": "glob prześwieca",
+          "comment": "Finał jako wizualne crescendo - od 'gwiazdy' przez 'łzę' do 'globu', który 'prześwieca'. Słowo 'glob' brzmi naukowo, ale 'prześwieca' wprowadza element magiczny. Ziemia nie świeci światłem zewnętrznym, lecz prześwieca od wewnątrz - jak lampa z abażurem z ludzkiej skóry.",
+          "full_analysis": "Zakończenie wiersza to synteza wszystkich wcześniejszych obrazów. 'glob' to łacińskie globus - kula, ale w polszczyźnie potocznej też żarówka. [BIOGRAFIA: 1971 - rok śmierci] Czy poeta widzi już własne wygaśnięcie w tej wizji świecącej planety?\n\nCzasownik 'prześwieca' ma kluczowe znaczenie - nie 'świeci' (aktywnie), lecz 'prześwieca' (pasywnie, przepuszcza światło). Ziemia jak pergamin, przez który przebija jakieś inne światło. [INTERTEKST: Trakl - obrazy przeświecania] U Trakla podobna optyka - rzeczywistość jako półprzezroczysta zasłona.\n\nWersyfikacyjnie 'glob' stoi samotnie - jak planeta w kosmosie. 'Prześwieca' w osobnym wersie to rozciągnięty akt świecenia - czasownik w aspekcie niedokonanym sugeruje trwanie. Legeżyńska pisze o 'czasowych paradoksach' u Wojaczka - moment i wieczność nakładają się na siebie.\n\nFinał jest otwarty - nie wiemy, co prześwieca przez glob ziemski. Może ta 'reszta naszej krwi', może 'boża krówka', a może nic - samo przeświecanie jako ostatni dowód istnienia.",
+          "connects_to": [
+            "4a",
+            "3a"
+          ],
+          "contradicts": "",
+          "contradiction_reason": "",
+          "alt_readings": [
+            "Prześwieca jako znak wewnętrznego światła",
+            "Prześwieca jako obraz agonii - ostatnie błyski życia",
+            "Prześwieca jako nadzieja - światło mimo wszystko"
+          ]
+        },
+        {
+          "node_id": "4c",
+          "aspect": "porownanie",
+          "phrase": "struktura całości",
+          "comment": "W porównaniu z innymi wierszami Wojaczka 'Reszta krwi' ma strukturę spiralną - od kosmicznej perspektywy przez intymność z powrotem do kosmosu. Ta sama technika w 'Szpitalu' czy 'Sezonie' - zoom out/zoom in jako sposób na ujęcie nieujmowanego bólu. Ale tu bez narracyjnej linearności - same skoki perspektywy.",
+          "full_analysis": "Kompozycyjnie 'Reszta krwi' reprezentuje dojrzały styl Wojaczka - rezygnację z tradycyjnych struktur poetyckich na rzecz swobodnych skojarzeń. [BIOGRAFIA: 1967 - eksperymentowanie z formą] W porównaniu z wcześniejszymi wierszami ('Którego nie ma', 'Bio') tutaj poeta osiąga maksymalną kondensację obrazu.\n\n[INTERTEKST: Różewicz - Ocalony] U Różewicza podobna technika nagłych zwrotów, ale tam dominuje ironia, tu rozpacz. Wojaczek nie zachowuje ironicznego dystansu - jest całkowicie pochłonięty przez własną wizję. Czapliński nazywa to 'estetyką nieuspokojenia' - brakiem katharsis.\n\nW kontekście całej twórczości wiersz pokazuje ewolucję od wczesnych prób naśladowania Herberta ('Sezon') ku wypracowaniu własnego języka poetyckiego. [BIOGRAFIA: 1969 - rozstanie z grupą krakowską] Uniezależnienie się od środowiska idzie w parze z radykalizacją poetyki.\n\nTemat krwi powraca w wielu wierszach ('Ja z rezygnacji', 'Czerwona zarękawka'), ale tu po raz pierwszy krew staje się kosmogonią - nie tylko śladem cierpienia, ale materiałem, z którego zbudowany jest świat.",
+          "connects_to": [
+            "1a",
+            "4a"
+          ],
+          "contradicts": "",
+          "contradiction_reason": "",
+          "alt_readings": [
+            "Struktura jako mapa rozpadającej się świadomości",
+            "Struktura jako poetycka reprezentacja wizji mistycznej",
+            "Struktura jako symptom choroby psychicznej"
+          ]
+        }
+      ]
+    }
+  ],
+  "network_summary": "Wiersz tworzy sieć napięć między pewnością a zwątpieniem (1b→2b), kosmiczną perspektywą a intymnym wyznaniem (1c→2a), a także między różnymi próbami nazwania tego samego fenomenu (3a→4a). Kluczowe jest przejście od pozornej wiedzy ('to jest Ziemia') przez przyznanie się do niewiedzy ('nie wiem') ku finalnemu obrazowi, który łączy wszystkie poprzednie metafory (4b). Chaos adresatów (2c) odzwierciedla fragmentację podmiotu, a obrazy cielesne (łza, krew) kontrastują z abstrakcyjnymi pojęciami (glob, gwiazda). Całość to mapa świadomości balansującej między kosmiczną wizją a personalną rozpaczą - typowe dla Wojaczka połączenie skali mikro i makro w jednej wizji egzystencjalnego bólu."
+}

@@ -1,0 +1,928 @@
+{
+  "id": "gwalt",
+  "title": "Gwałt",
+  "wordCount": 97,
+  "lineCount": 17,
+  "uniqueWords": 75,
+  "vocabularyRichness": 0.773,
+  "avgWordsPerLine": 5.71,
+  "wordsPerLineDistribution": [
+    6,
+    11,
+    1,
+    5,
+    5,
+    5,
+    4,
+    6,
+    6,
+    5,
+    5,
+    5,
+    7,
+    6,
+    8,
+    6,
+    6
+  ],
+  "wordFrequencies": [
+    [
+      "nieznanej",
+      5
+    ],
+    [
+      "kobiecygłos",
+      4
+    ],
+    [
+      "poetkiz",
+      4
+    ],
+    [
+      "kół",
+      2
+    ],
+    [
+      "bólu",
+      2
+    ],
+    [
+      "krzyk",
+      2
+    ],
+    [
+      "nieba",
+      2
+    ],
+    [
+      "głos",
+      1
+    ],
+    [
+      "kobiecy",
+      1
+    ],
+    [
+      "poetki",
+      1
+    ],
+    [
+      "gwgwgwgwgwałałałałałttttt",
+      1
+    ],
+    [
+      "ciało",
+      1
+    ],
+    [
+      "wciągnięte",
+      1
+    ],
+    [
+      "promień",
+      1
+    ],
+    [
+      "tkanki",
+      1
+    ],
+    [
+      "zapala",
+      1
+    ],
+    [
+      "jakie",
+      1
+    ],
+    [
+      "konie",
+      1
+    ],
+    [
+      "wprzągnięte",
+      1
+    ],
+    [
+      "stóp",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 0,
+    "period": 0,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 0,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 4,
+  "negationWords": [
+    "nie",
+    "nigdy"
+  ],
+  "pronounDistribution": {
+    "ja": 4,
+    "ty": 1,
+    "on_ona": 0,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 2,
+    "smierc": 0,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 2
+  },
+  "anaphors": [],
+  "firstWord": "głos",
+  "lastWord": "słyszy",
+  "avgWordLength": 5.69,
+  "wordLengthDistribution": {
+    "4-5": 31,
+    "10+": 9,
+    "6-7": 27,
+    "1-3": 22,
+    "8-9": 8
+  },
+  "bigrams": [
+    [
+      "nieznanej poetkiz",
+      4
+    ],
+    [
+      "poetkiz nieznanej",
+      4
+    ],
+    [
+      "kobiecygłos kobiecygłos",
+      3
+    ],
+    [
+      "głos kobiecygłos",
+      1
+    ],
+    [
+      "kobiecygłos kobiecy",
+      1
+    ],
+    [
+      "nieznanej poetki",
+      1
+    ],
+    [
+      "poetki gwgwgwgwgwałałałałałttttt",
+      1
+    ],
+    [
+      "ciało wciągnięte",
+      1
+    ],
+    [
+      "kół promień",
+      1
+    ]
+  ],
+  "poemWords": [
+    "głos",
+    "kobiecygłos",
+    "kobiecy",
+    "nieznanej",
+    "poetkiz",
+    "poetki",
+    "gwgwgwgwgwałałałałałttttt",
+    "ciało",
+    "wciągnięte",
+    "kół",
+    "promień",
+    "bólu",
+    "tkanki",
+    "zapala",
+    "jakie",
+    "konie",
+    "wprzągnięte",
+    "stóp",
+    "ciągną",
+    "dobra",
+    "trawa",
+    "prześcieradła",
+    "rósł",
+    "taki",
+    "krzyk",
+    "sufity",
+    "głuche",
+    "okno",
+    "nieba",
+    "słyszą",
+    "wszyscy",
+    "dziś",
+    "łaski",
+    "prawdziwa",
+    "kobieta",
+    "powalona",
+    "zawsze",
+    "wznak",
+    "chcę",
+    "pozostać",
+    "kość",
+    "gardle",
+    "skończy",
+    "gwałt",
+    "długi",
+    "stanie",
+    "krzyżem",
+    "zakotwiczyć",
+    "wierzę",
+    "kamień",
+    "słyszy"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 28,
+        "VERB": 14,
+        "ADJ": 14,
+        "ADV": 6,
+        "PRON": 6,
+        "ADP": 9,
+        "CCONJ": 0,
+        "SCONJ": 1,
+        "INTJ": 0,
+        "PART": 5,
+        "DET": 5,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.289,
+        "VERB": 0.144,
+        "ADJ": 0.144,
+        "ADV": 0.062,
+        "PRON": 0.062,
+        "ADP": 0.093,
+        "CCONJ": 0,
+        "SCONJ": 0.01,
+        "INTJ": 0,
+        "PART": 0.052,
+        "DET": 0.052,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 3,
+        "abstract": 2,
+        "ratio": 0.6
+      },
+      "verbTenses": {
+        "present": 10,
+        "future": 3,
+        "past": 1,
+        "infinitive": 2
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 2,
+        "stan": 3,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 0,
+        "opisowe": 14
+      },
+      "adverbs": {
+        "temporalne": [
+          "nigdy",
+          "teraz",
+          "zawsze"
+        ],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "nigdy",
+            "count": 2
+          },
+          {
+            "word": "teraz",
+            "count": 1
+          },
+          {
+            "word": "dziś",
+            "count": 1
+          },
+          {
+            "word": "zawsze",
+            "count": 1
+          },
+          {
+            "word": "tak",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 2,
+        "ty": 0,
+        "on_ona": 0,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 2,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 2,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 4,
+        "percentSentences": 0.4
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 222,
+        "consonants": 330,
+        "ratio": 0.67
+      },
+      "consonantClusters": {
+        "count": 16,
+        "top": [
+          {
+            "cluster": "krz",
+            "count": 3
+          },
+          {
+            "cluster": "prz",
+            "count": 2
+          },
+          {
+            "cluster": "wsz",
+            "count": 2
+          },
+          {
+            "cluster": "gwgwgwgwgw",
+            "count": 1
+          },
+          {
+            "cluster": "łttttt",
+            "count": 1
+          },
+          {
+            "cluster": "wprz",
+            "count": 1
+          },
+          {
+            "cluster": "szcz",
+            "count": 1
+          },
+          {
+            "cluster": "wdz",
+            "count": 1
+          },
+          {
+            "cluster": "wzn",
+            "count": 1
+          },
+          {
+            "cluster": "chc",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 18,
+        "syczace": 59,
+        "nosowe": 58,
+        "plynne": 41
+      },
+      "rhymes": {
+        "exact": 0,
+        "approximate": 0,
+        "internal": 3,
+        "assonance": 0,
+        "alliteration": 0
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 9.7,
+        "median": 8,
+        "min": 1,
+        "max": 20,
+        "distribution": [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          3,
+          1,
+          0,
+          1,
+          0,
+          1,
+          0,
+          0,
+          1,
+          0,
+          0,
+          1,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 5.7,
+        "meanSyllables": 13.3,
+        "distribution": [
+          0,
+          1,
+          0,
+          0,
+          1,
+          6,
+          6,
+          1,
+          1,
+          0,
+          0,
+          1
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 10,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 1,
+        "noSubject": 2,
+        "noPredicate": 0,
+        "percent": 0.3
+      },
+      "enjambement": {
+        "count": 0,
+        "percent": 0,
+        "positions": []
+      },
+      "wordOrder": {
+        "svo": 1,
+        "inversions": 5,
+        "other": 3,
+        "deviationPercent": 0.89
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 2,
+        "śmierć": 0,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 1,
+        "noc": 0,
+        "ból": 3
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 226,
+      "estimatedSeconds": 75,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 28,
+      "VERB": 14,
+      "ADJ": 14,
+      "ADV": 6,
+      "PRON": 6,
+      "ADP": 9,
+      "CCONJ": 0,
+      "SCONJ": 1,
+      "INTJ": 0,
+      "PART": 5,
+      "DET": 5,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.289,
+      "VERB": 0.144,
+      "ADJ": 0.144,
+      "ADV": 0.062,
+      "PRON": 0.062,
+      "ADP": 0.093,
+      "CCONJ": 0,
+      "SCONJ": 0.01,
+      "INTJ": 0,
+      "PART": 0.052,
+      "DET": 0.052,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 3,
+      "abstract": 2,
+      "ratio": 0.6
+    },
+    "verbTenses": {
+      "present": 10,
+      "future": 3,
+      "past": 1,
+      "infinitive": 2
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 2,
+      "stan": 3,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 0,
+      "opisowe": 14
+    },
+    "adverbs": {
+      "temporalne": [
+        "nigdy",
+        "teraz",
+        "zawsze"
+      ],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "nigdy",
+          "count": 2
+        },
+        {
+          "word": "teraz",
+          "count": 1
+        },
+        {
+          "word": "dziś",
+          "count": 1
+        },
+        {
+          "word": "zawsze",
+          "count": 1
+        },
+        {
+          "word": "tak",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 2,
+      "ty": 0,
+      "on_ona": 0,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 2,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 2,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 4,
+      "percentSentences": 0.4
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 9.7,
+      "median": 8,
+      "min": 1,
+      "max": 20,
+      "distribution": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        3,
+        1,
+        0,
+        1,
+        0,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 5.7,
+      "meanSyllables": 13.3,
+      "distribution": [
+        0,
+        1,
+        0,
+        0,
+        1,
+        6,
+        6,
+        1,
+        1,
+        0,
+        0,
+        1
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 10,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 1,
+      "noSubject": 2,
+      "noPredicate": 0,
+      "percent": 0.3
+    },
+    "enjambement": {
+      "count": 0,
+      "percent": 0,
+      "positions": []
+    },
+    "wordOrder": {
+      "svo": 1,
+      "inversions": 5,
+      "other": 3,
+      "deviationPercent": 0.89
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 222,
+      "consonants": 330,
+      "ratio": 0.67
+    },
+    "consonantClusters": {
+      "count": 16,
+      "top": [
+        {
+          "cluster": "krz",
+          "count": 3
+        },
+        {
+          "cluster": "prz",
+          "count": 2
+        },
+        {
+          "cluster": "wsz",
+          "count": 2
+        },
+        {
+          "cluster": "gwgwgwgwgw",
+          "count": 1
+        },
+        {
+          "cluster": "łttttt",
+          "count": 1
+        },
+        {
+          "cluster": "wprz",
+          "count": 1
+        },
+        {
+          "cluster": "szcz",
+          "count": 1
+        },
+        {
+          "cluster": "wdz",
+          "count": 1
+        },
+        {
+          "cluster": "wzn",
+          "count": 1
+        },
+        {
+          "cluster": "chc",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 18,
+      "syczace": 59,
+      "nosowe": 58,
+      "plynne": 41
+    },
+    "rhymes": {
+      "exact": 0,
+      "approximate": 0,
+      "internal": 3,
+      "assonance": 0,
+      "alliteration": 0
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        17
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 226,
+      "estimatedSeconds": 75,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "polregularny",
+      "regularityScore": 0.47
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Biblia",
+          "reference": "Ukrzyżowanie Chrystusa",
+          "evidence": "Krzyżem by się we mnie zakotwiczyć, kół, ciało wciągnięte"
+        },
+        {
+          "source": "Biblia",
+          "reference": "Męka Pańska",
+          "evidence": "Promień bólu, krzyk przez okno nieba"
+        },
+        {
+          "source": "mitologia",
+          "reference": "Męczeństwo świętych",
+          "evidence": "ciało wciągnięte na kół, kość bólu"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.7,
+        "baudelaire": 0.6,
+        "bursa": 0.3,
+        "stachura": 0.2,
+        "grochowiak": 0.8,
+        "bialoszewski": 0.1,
+        "rozewicz": 0.2
+      }
+    },
+    "space": {
+      "type": "zamknieta",
+      "evidence": "sufity, okno nieba, powalona na wznak - przestrzeń ciasna, ograniczona",
+      "openClosedRatio": 0.2
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "nieokreslona",
+      "evidence": "brak wyraźnych wskazówek temporalnych, fokus na doświadczeniu wewnętrznym"
+    },
+    "motion": {
+      "movement": 8,
+      "stillness": 2,
+      "dynamism": 0.8,
+      "evidence": "konie wprzągnięte, ciągną, rósł krzyk, zakotwiczyć - intensywny ruch i dynamika"
+    },
+    "imageryDensity": {
+      "metaphors": 12,
+      "comparisons": 3,
+      "personifications": 4,
+      "hyperboles": 6,
+      "per100words": 35.7
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.9,
+      "creationLevel": 0.8,
+      "ironicDistance": 0.1,
+      "autobiographicSignals": [
+        "Jestem dziś",
+        "Moje ciało",
+        "Chcę pozostać",
+        "mój krzyk"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "rozpacz",
+      "secondary": "bunt",
+      "intensity": 0.9
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "Moje ciało, Jestem dziś, Chcę pozostać, mój krzyk"
+    },
+    "addressee": {
+      "type": "bóg",
+      "evidence": "Z Twojej łaski, okno nieba, kamień nieba słyszy"
+    },
+    "metaphors": [
+      {
+        "source": "ciało",
+        "target": "koło tortur",
+        "example": "Moje ciało wciągnięte na kół"
+      },
+      {
+        "source": "ból",
+        "target": "promień światła",
+        "example": "Promień bólu tkanki mi zapala"
+      },
+      {
+        "source": "krzyk",
+        "target": "roślina",
+        "example": "Nigdy jeszcze nie rósł taki krzyk"
+      },
+      {
+        "source": "gwałt",
+        "target": "krzyż",
+        "example": "Krzyżem by się we mnie zakotwiczyć"
+      }
+    ],
+    "temperature": {
+      "value": 0.8,
+      "label": "płomienne cierpienie"
+    },
+    "senses": {
+      "wzrok": 3,
+      "sluch": 5,
+      "dotyk": 5,
+      "smak": 1,
+      "zapach": 0
+    },
+    "autodestruction": {
+      "level": 0.9,
+      "signals": [
+        "Moje ciało wciągnięte na kół",
+        "Powalona już zawsze na wznak",
+        "Kość bólu już w gardle",
+        "Niechaj nigdy nie skończy się gwałt"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 1.072,
+    "dfaAlpha": 1.189,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -0.5697171415941816
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -0.2765799472032126
+      },
+      {
+        "logWin": 1.6094379124341003,
+        "logFluc": 0.041692892329269086
+      }
+    ],
+    "seriesLength": 17,
+    "series": [
+      6,
+      11,
+      1,
+      5,
+      5,
+      5,
+      4,
+      6,
+      6,
+      5,
+      5,
+      5,
+      7,
+      6,
+      8,
+      6,
+      6
+    ]
+  }
+}

@@ -1,0 +1,1057 @@
+{
+  "id": "rekopis",
+  "title": "Rękopis",
+  "wordCount": 184,
+  "lineCount": 27,
+  "uniqueWords": 144,
+  "vocabularyRichness": 0.783,
+  "avgWordsPerLine": 6.81,
+  "wordsPerLineDistribution": [
+    1,
+    7,
+    8,
+    8,
+    6,
+    9,
+    8,
+    9,
+    6,
+    11,
+    10,
+    6,
+    1,
+    1,
+    8,
+    8,
+    5,
+    8,
+    10,
+    8,
+    9,
+    8,
+    9,
+    8,
+    5,
+    5,
+    2
+  ],
+  "wordFrequencies": [
+    [
+      "krwi",
+      3
+    ],
+    [
+      "kartka",
+      2
+    ],
+    [
+      "końcu",
+      2
+    ],
+    [
+      "skreślone",
+      2
+    ],
+    [
+      "słowa",
+      2
+    ],
+    [
+      "śmierć",
+      2
+    ],
+    [
+      "słabości",
+      1
+    ],
+    [
+      "okrutnie",
+      1
+    ],
+    [
+      "drwiąco",
+      1
+    ],
+    [
+      "pełna",
+      1
+    ],
+    [
+      "ciągle",
+      1
+    ],
+    [
+      "przymuszasz",
+      1
+    ],
+    [
+      "jakże",
+      1
+    ],
+    [
+      "uparcie",
+      1
+    ],
+    [
+      "pełzać",
+      1
+    ],
+    [
+      "poprzez",
+      1
+    ],
+    [
+      "nudną",
+      1
+    ],
+    [
+      "saharę",
+      1
+    ],
+    [
+      "dotrzeć",
+      1
+    ],
+    [
+      "źródła",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 19,
+    "period": 8,
+    "question": 3,
+    "exclamation": 1,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 2,
+    "semicolon": 0
+  },
+  "questionCount": 3,
+  "exclamationCount": 1,
+  "negationCount": 4,
+  "negationWords": [
+    "nie",
+    "nikt"
+  ],
+  "pronounDistribution": {
+    "ja": 0,
+    "ty": 11,
+    "on_ona": 0,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 1,
+    "smierc": 2,
+    "erotyka": 1,
+    "alkohol": 0,
+    "samotnosc": 1,
+    "sacrum": 0,
+    "noc": 1,
+    "bol": 0
+  },
+  "anaphors": [],
+  "firstWord": "kartka",
+  "lastWord": "luty",
+  "avgWordLength": 4.86,
+  "wordLengthDistribution": {
+    "1-3": 69,
+    "6-7": 42,
+    "8-9": 16,
+    "4-5": 43,
+    "10+": 14
+  },
+  "bigrams": [
+    [
+      "kartka słabości",
+      1
+    ],
+    [
+      "słabości twojej",
+      1
+    ],
+    [
+      "twojej okrutnie",
+      1
+    ],
+    [
+      "drwiąco pełna",
+      1
+    ],
+    [
+      "ciągle przymuszasz",
+      1
+    ],
+    [
+      "przymuszasz jakże",
+      1
+    ]
+  ],
+  "poemWords": [
+    "kartka",
+    "słabości",
+    "okrutnie",
+    "drwiąco",
+    "pełna",
+    "ciągle",
+    "przymuszasz",
+    "jakże",
+    "uparcie",
+    "pełzać",
+    "poprzez",
+    "nudną",
+    "saharę",
+    "dotrzeć",
+    "źródła",
+    "rozpaczliwie",
+    "oblizujesz",
+    "spierzchnięte",
+    "usta",
+    "oby",
+    "końcu",
+    "wysechł",
+    "atrament",
+    "twym",
+    "kałamarzu",
+    "obyś",
+    "bezwładnie",
+    "sypki",
+    "piach",
+    "liter",
+    "uderzył",
+    "twarzą",
+    "cóż",
+    "duma",
+    "miłość",
+    "nienawiść",
+    "każe",
+    "iść",
+    "podług",
+    "meandrów",
+    "wysychającej",
+    "słonej",
+    "krwi",
+    "pocie",
+    "topisz",
+    "pustyni",
+    "sól",
+    "zżarła",
+    "łamiesz",
+    "paznokieć",
+    "pióra",
+    "skreślone",
+    "słowa",
+    "życie",
+    "napisana",
+    "śmierć",
+    "chusteczka",
+    "pokój",
+    "cztery",
+    "rogi",
+    "byś",
+    "haftował",
+    "drobnym",
+    "ściegiem",
+    "wielkimi",
+    "krokami",
+    "imaginacji",
+    "chodził",
+    "przysłowia",
+    "przecinka",
+    "kropki",
+    "chodzi",
+    "uganiasz",
+    "możesz",
+    "dobiec",
+    "ostatniego",
+    "zdania",
+    "chcesz",
+    "wyhaftować",
+    "oszczędzasz",
+    "jaką",
+    "różę",
+    "wystarczyć",
+    "przędza",
+    "spójrz",
+    "dobra",
+    "noc",
+    "kończy",
+    "nędzę",
+    "kryła",
+    "głosem",
+    "pierwszego",
+    "ptaka",
+    "dzień",
+    "ciebie",
+    "drwić",
+    "zaczyna",
+    "zapomnij",
+    "kartce",
+    "śpij",
+    "napisze",
+    "nikt",
+    "1970",
+    "luty"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 49,
+        "VERB": 31,
+        "ADJ": 16,
+        "ADV": 15,
+        "PRON": 16,
+        "ADP": 18,
+        "CCONJ": 9,
+        "SCONJ": 8,
+        "INTJ": 1,
+        "PART": 5,
+        "DET": 9,
+        "NUM": 1
+      },
+      "posPercent": {
+        "NOUN": 0.265,
+        "VERB": 0.168,
+        "ADJ": 0.086,
+        "ADV": 0.081,
+        "PRON": 0.086,
+        "ADP": 0.097,
+        "CCONJ": 0.049,
+        "SCONJ": 0.043,
+        "INTJ": 0.005,
+        "PART": 0.027,
+        "DET": 0.049,
+        "NUM": 0.005
+      },
+      "nounConcreteAbstract": {
+        "concrete": 6,
+        "abstract": 4,
+        "ratio": 0.6
+      },
+      "verbTenses": {
+        "present": 16,
+        "infinitive": 7,
+        "past": 6,
+        "imperative": 3,
+        "future": 1
+      },
+      "verbSemantics": {
+        "ruch": 1,
+        "percepcja": 0,
+        "stan": 1,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 2,
+        "opisowe": 14
+      },
+      "adverbs": {
+        "temporalne": [
+          "ciągle",
+          "wciąż"
+        ],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "tak",
+            "count": 4
+          },
+          {
+            "word": "wciąż",
+            "count": 2
+          },
+          {
+            "word": "okrutnie",
+            "count": 1
+          },
+          {
+            "word": "drwiąco",
+            "count": 1
+          },
+          {
+            "word": "ciągle",
+            "count": 1
+          },
+          {
+            "word": "jakże",
+            "count": 1
+          },
+          {
+            "word": "uparcie",
+            "count": 1
+          },
+          {
+            "word": "rozpaczliwie",
+            "count": 1
+          },
+          {
+            "word": "oby",
+            "count": 1
+          },
+          {
+            "word": "bezwładnie",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 0,
+        "ty": 9,
+        "on_ona": 0,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 3,
+        "nic": 0,
+        "nikt": 1,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 4,
+        "percentSentences": 0.22
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 367,
+        "consonants": 531,
+        "ratio": 0.69
+      },
+      "consonantClusters": {
+        "count": 29,
+        "top": [
+          {
+            "cluster": "prz",
+            "count": 5
+          },
+          {
+            "cluster": "krw",
+            "count": 3
+          },
+          {
+            "cluster": "rtk",
+            "count": 2
+          },
+          {
+            "cluster": "drw",
+            "count": 2
+          },
+          {
+            "cluster": "skr",
+            "count": 2
+          },
+          {
+            "cluster": "trz",
+            "count": 1
+          },
+          {
+            "cluster": "czl",
+            "count": 1
+          },
+          {
+            "cluster": "rzchn",
+            "count": 1
+          },
+          {
+            "cluster": "chł",
+            "count": 1
+          },
+          {
+            "cluster": "zwł",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 43,
+        "syczace": 102,
+        "nosowe": 82,
+        "plynne": 76
+      },
+      "rhymes": {
+        "exact": 1,
+        "approximate": 0,
+        "internal": 1,
+        "assonance": 1,
+        "alliteration": 1
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 10.3,
+        "median": 8,
+        "min": 2,
+        "max": 22,
+        "distribution": [
+          0,
+          0,
+          1,
+          0,
+          0,
+          2,
+          2,
+          0,
+          4,
+          3,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          3,
+          1,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 6.6,
+        "meanSyllables": 13.4,
+        "distribution": [
+          0,
+          4,
+          1,
+          0,
+          0,
+          3,
+          3,
+          1,
+          9,
+          4,
+          2,
+          1
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 12,
+        "interrogative": 3,
+        "imperative": 2,
+        "exclamatory": 1
+      },
+      "ellipsis": {
+        "incomplete": 3,
+        "noSubject": 7,
+        "noPredicate": 1,
+        "percent": 0.61
+      },
+      "enjambement": {
+        "count": 3,
+        "percent": 0.11,
+        "positions": [
+          1,
+          17,
+          20
+        ]
+      },
+      "wordOrder": {
+        "svo": 5,
+        "inversions": 2,
+        "other": 11,
+        "deviationPercent": 0.72
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 3,
+        "śmierć": 4,
+        "erotyka": 1,
+        "alkohol": 0,
+        "samotność": 1,
+        "sacrum": 0,
+        "noc": 1,
+        "ból": 0
+      },
+      "oppositionsFound": [
+        "życie/śmierć",
+        "miłość/nienawiść",
+        "dzień/noc"
+      ]
+    },
+    "tempo": {
+      "syllables": 374,
+      "estimatedSeconds": 125,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 49,
+      "VERB": 31,
+      "ADJ": 16,
+      "ADV": 15,
+      "PRON": 16,
+      "ADP": 18,
+      "CCONJ": 9,
+      "SCONJ": 8,
+      "INTJ": 1,
+      "PART": 5,
+      "DET": 9,
+      "NUM": 1
+    },
+    "posPercent": {
+      "NOUN": 0.265,
+      "VERB": 0.168,
+      "ADJ": 0.086,
+      "ADV": 0.081,
+      "PRON": 0.086,
+      "ADP": 0.097,
+      "CCONJ": 0.049,
+      "SCONJ": 0.043,
+      "INTJ": 0.005,
+      "PART": 0.027,
+      "DET": 0.049,
+      "NUM": 0.005
+    },
+    "nounConcreteAbstract": {
+      "concrete": 6,
+      "abstract": 4,
+      "ratio": 0.6
+    },
+    "verbTenses": {
+      "present": 16,
+      "infinitive": 7,
+      "past": 6,
+      "imperative": 3,
+      "future": 1
+    },
+    "verbSemantics": {
+      "ruch": 1,
+      "percepcja": 0,
+      "stan": 1,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 2,
+      "opisowe": 14
+    },
+    "adverbs": {
+      "temporalne": [
+        "ciągle",
+        "wciąż"
+      ],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "tak",
+          "count": 4
+        },
+        {
+          "word": "wciąż",
+          "count": 2
+        },
+        {
+          "word": "okrutnie",
+          "count": 1
+        },
+        {
+          "word": "drwiąco",
+          "count": 1
+        },
+        {
+          "word": "ciągle",
+          "count": 1
+        },
+        {
+          "word": "jakże",
+          "count": 1
+        },
+        {
+          "word": "uparcie",
+          "count": 1
+        },
+        {
+          "word": "rozpaczliwie",
+          "count": 1
+        },
+        {
+          "word": "oby",
+          "count": 1
+        },
+        {
+          "word": "bezwładnie",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 0,
+      "ty": 9,
+      "on_ona": 0,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 3,
+      "nic": 0,
+      "nikt": 1,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 4,
+      "percentSentences": 0.22
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 10.3,
+      "median": 8,
+      "min": 2,
+      "max": 22,
+      "distribution": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        2,
+        2,
+        0,
+        4,
+        3,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        3,
+        1,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 6.6,
+      "meanSyllables": 13.4,
+      "distribution": [
+        0,
+        4,
+        1,
+        0,
+        0,
+        3,
+        3,
+        1,
+        9,
+        4,
+        2,
+        1
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 12,
+      "interrogative": 3,
+      "imperative": 2,
+      "exclamatory": 1
+    },
+    "ellipsis": {
+      "incomplete": 3,
+      "noSubject": 7,
+      "noPredicate": 1,
+      "percent": 0.61
+    },
+    "enjambement": {
+      "count": 3,
+      "percent": 0.11,
+      "positions": [
+        1,
+        17,
+        20
+      ]
+    },
+    "wordOrder": {
+      "svo": 5,
+      "inversions": 2,
+      "other": 11,
+      "deviationPercent": 0.72
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 367,
+      "consonants": 531,
+      "ratio": 0.69
+    },
+    "consonantClusters": {
+      "count": 29,
+      "top": [
+        {
+          "cluster": "prz",
+          "count": 5
+        },
+        {
+          "cluster": "krw",
+          "count": 3
+        },
+        {
+          "cluster": "rtk",
+          "count": 2
+        },
+        {
+          "cluster": "drw",
+          "count": 2
+        },
+        {
+          "cluster": "skr",
+          "count": 2
+        },
+        {
+          "cluster": "trz",
+          "count": 1
+        },
+        {
+          "cluster": "czl",
+          "count": 1
+        },
+        {
+          "cluster": "rzchn",
+          "count": 1
+        },
+        {
+          "cluster": "chł",
+          "count": 1
+        },
+        {
+          "cluster": "zwł",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 43,
+      "syczace": 102,
+      "nosowe": 82,
+      "plynne": 76
+    },
+    "rhymes": {
+      "exact": 1,
+      "approximate": 0,
+      "internal": 1,
+      "assonance": 1,
+      "alliteration": 1
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        28
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 374,
+      "estimatedSeconds": 125,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "polregularny",
+      "regularityScore": 0.56
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Biblia",
+          "reference": "pustynia jako miejsce duchowej próby",
+          "evidence": "nudną Saharę, aby dotrzeć do źródła"
+        },
+        {
+          "source": "mitologia",
+          "reference": "mit Tantala - pragnienie nigdy nie zaspokojone",
+          "evidence": "rozpaczliwie już oblizujesz spierzchnięte usta"
+        },
+        {
+          "source": "Rimbaud",
+          "reference": "poeta jako przeklęty wizjoner",
+          "evidence": "W pocie się topisz na tej pustyni"
+        },
+        {
+          "source": "inne",
+          "reference": "tradycja ars poetica",
+          "evidence": "łamiesz paznokieć pióra"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.8,
+        "baudelaire": 0.7,
+        "bursa": 0.3,
+        "stachura": 0.6,
+        "grochowiak": 0.4,
+        "bialoszewski": 0.2,
+        "rozewicz": 0.5
+      }
+    },
+    "space": {
+      "type": "zamknieta",
+      "evidence": "kartka jak chusteczka albo twój pokój: cztery Ma rogi",
+      "openClosedRatio": 0.2
+    },
+    "timeOfDay": {
+      "period": "noc",
+      "season": "zima",
+      "evidence": "dobra noc się kończy, co twoją nędzę kryła, Głosem pierwszego ptaka dzień z ciebie drwić zaczyna; 1970, luty"
+    },
+    "motion": {
+      "movement": 8,
+      "stillness": 3,
+      "dynamism": 0.7,
+      "evidence": "przymuszasz jakże uparcie pełzać, wielkimi krokami imaginacji chodził, wciąż się uganiasz"
+    },
+    "imageryDensity": {
+      "metaphors": 12,
+      "comparisons": 4,
+      "personifications": 6,
+      "hyperboles": 3,
+      "per100words": 18.5
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.9,
+      "creationLevel": 0.8,
+      "ironicDistance": 0.3,
+      "autobiographicSignals": [
+        "twój pokój",
+        "atrament w twym kałamarzu",
+        "krwi swojej drobnym ściegiem",
+        "twoją nędzę"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "rozpacz",
+      "secondary": "rezygnacja",
+      "intensity": 0.9
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "Bezpośrednie zwracanie się do siebie w drugiej osobie: 'A ty się ciągle przymuszasz', 'Ale o co ci chodzi'"
+    },
+    "addressee": {
+      "type": "siebie",
+      "evidence": "Konsekwentne używanie zaimka 'ty' w odniesieniu do siebie samego, autoanaliza procesu twórczego"
+    },
+    "metaphors": [
+      {
+        "source": "pustynia Sahara",
+        "target": "proces twórczy",
+        "example": "nudną Saharę, aby dotrzeć do źródła"
+      },
+      {
+        "source": "haftowanie",
+        "target": "pisanie",
+        "example": "haftował krwi swojej drobnym ściegiem"
+      },
+      {
+        "source": "kartka jako chusteczka/pokój",
+        "target": "przestrzeń twórcza",
+        "example": "Ta kartka jak chusteczka albo twój pokój: cztery Ma rogi"
+      }
+    ],
+    "temperature": {
+      "value": 0.7,
+      "label": "gorące cierpienie"
+    },
+    "senses": {
+      "wzrok": 4,
+      "sluch": 2,
+      "dotyk": 5,
+      "smak": 3,
+      "zapach": 1
+    },
+    "autodestruction": {
+      "level": 0.8,
+      "signals": [
+        "Obyś bezwładnie w sypki piach liter uderzył twarzą",
+        "W pocie się topisz na tej pustyni, by cię sól zżarła",
+        "krwi nie oszczędzasz",
+        "Skreślone słowa, skreślone życie"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 0.86,
+    "dfaAlpha": 1.079,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -0.3843139182628195
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -0.31481683914899566
+      },
+      {
+        "logWin": 1.6094379124341003,
+        "logFluc": 0.07576819390406954
+      },
+      {
+        "logWin": 1.791759469228055,
+        "logFluc": -0.094150869168388
+      },
+      {
+        "logWin": 1.9459101490553132,
+        "logFluc": 0.6353581281463463
+      },
+      {
+        "logWin": 2.1972245773362196,
+        "logFluc": 0.709342846772207
+      }
+    ],
+    "seriesLength": 27,
+    "series": [
+      1,
+      7,
+      8,
+      8,
+      6,
+      9,
+      8,
+      9,
+      6,
+      11,
+      10,
+      6,
+      1,
+      1,
+      8,
+      8,
+      5,
+      8,
+      10,
+      8,
+      9,
+      8,
+      9,
+      8,
+      5,
+      5,
+      2
+    ]
+  }
+}

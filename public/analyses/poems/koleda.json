@@ -1,0 +1,1254 @@
+{
+  "id": "koleda",
+  "title": "Kolęda",
+  "wordCount": 244,
+  "lineCount": 40,
+  "uniqueWords": 183,
+  "vocabularyRichness": 0.75,
+  "avgWordsPerLine": 6.1,
+  "wordsPerLineDistribution": [
+    6,
+    5,
+    6,
+    4,
+    6,
+    7,
+    7,
+    5,
+    10,
+    7,
+    6,
+    5,
+    8,
+    7,
+    7,
+    6,
+    6,
+    5,
+    5,
+    4,
+    8,
+    5,
+    4,
+    5,
+    7,
+    8,
+    5,
+    8,
+    5,
+    7,
+    6,
+    5,
+    7,
+    8,
+    6,
+    5,
+    7,
+    5,
+    5,
+    6
+  ],
+  "wordFrequencies": [
+    [
+      "zanim",
+      2
+    ],
+    [
+      "począłeś",
+      2
+    ],
+    [
+      "kobiecie",
+      2
+    ],
+    [
+      "urodziny",
+      1
+    ],
+    [
+      "bezbronny",
+      1
+    ],
+    [
+      "broń",
+      1
+    ],
+    [
+      "nakazałem",
+      1
+    ],
+    [
+      "odłożyć",
+      1
+    ],
+    [
+      "ołówek",
+      1
+    ],
+    [
+      "tarczę",
+      1
+    ],
+    [
+      "kartki",
+      1
+    ],
+    [
+      "schowałem",
+      1
+    ],
+    [
+      "szufladę",
+      1
+    ],
+    [
+      "tamtą",
+      1
+    ],
+    [
+      "kobietę",
+      1
+    ],
+    [
+      "zwróciłem",
+      1
+    ],
+    [
+      "rodzinie",
+      1
+    ],
+    [
+      "osoby",
+      1
+    ],
+    [
+      "dawnych",
+      1
+    ],
+    [
+      "wierszy",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 0,
+    "period": 0,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 0,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 9,
+  "negationWords": [
+    "nie",
+    "żaden"
+  ],
+  "pronounDistribution": {
+    "ja": 5,
+    "ty": 2,
+    "on_ona": 1,
+    "my": 0,
+    "wy": 0,
+    "oni": 2
+  },
+  "semanticFields": {
+    "cialo": 1,
+    "smierc": 2,
+    "erotyka": 0,
+    "alkohol": 2,
+    "samotnosc": 2,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [
+    [
+      "i nie",
+      3
+    ],
+    [
+      "począłeś",
+      2
+    ]
+  ],
+  "firstWord": "na",
+  "lastWord": "zwyciężać",
+  "avgWordLength": 5.18,
+  "wordLengthDistribution": {
+    "1-3": 84,
+    "4-5": 46,
+    "8-9": 41,
+    "6-7": 62,
+    "10+": 11
+  },
+  "bigrams": [
+    [
+      "twoje urodziny",
+      1
+    ],
+    [
+      "urodziny jestem",
+      1
+    ],
+    [
+      "jestem sam",
+      1
+    ],
+    [
+      "sam bezbronny",
+      1
+    ],
+    [
+      "bezbronny broń",
+      1
+    ],
+    [
+      "broń nakazałem",
+      1
+    ],
+    [
+      "odłożyć ołówek",
+      1
+    ]
+  ],
+  "poemWords": [
+    "urodziny",
+    "bezbronny",
+    "broń",
+    "nakazałem",
+    "odłożyć",
+    "ołówek",
+    "tarczę",
+    "kartki",
+    "schowałem",
+    "szufladę",
+    "tamtą",
+    "kobietę",
+    "zwróciłem",
+    "rodzinie",
+    "osoby",
+    "dawnych",
+    "wierszy",
+    "ode",
+    "odeszły",
+    "uroczystej",
+    "zastawy",
+    "stole",
+    "ukrywam",
+    "krzakiem",
+    "drzewka",
+    "zasłoną",
+    "parującej",
+    "zupy",
+    "psa",
+    "stołem",
+    "którym",
+    "bym",
+    "rozmawiał",
+    "żaden",
+    "list",
+    "przyszedł",
+    "nadawcy",
+    "umarli",
+    "wymyśloną",
+    "przeze",
+    "śmierć",
+    "autorzy",
+    "zabrali",
+    "książki",
+    "ojczyzny",
+    "trup",
+    "pamięci",
+    "leży",
+    "brudach",
+    "zużyta",
+    "chustka",
+    "oknem",
+    "śnieg",
+    "zasypał",
+    "razem",
+    "poezją",
+    "śmiercią",
+    "afryką",
+    "wyszczerbioną",
+    "szklankę",
+    "musztardzie",
+    "butelce",
+    "spirytus",
+    "denaturowany",
+    "którego",
+    "mózg",
+    "płonie",
+    "fioletowo",
+    "zapalona",
+    "rtęciowa",
+    "żarówka",
+    "piję",
+    "spod",
+    "śniegu",
+    "dochodzą",
+    "zaklęcia",
+    "pijanego",
+    "ludu",
+    "usiłuje",
+    "wymusić",
+    "odpowiedź",
+    "milczącego",
+    "talerzu",
+    "karpia",
+    "życzę",
+    "jakoś",
+    "dogadali",
+    "pewno",
+    "stanie",
+    "skoro",
+    "talerz",
+    "niedługo",
+    "zacznie",
+    "mówić",
+    "ludzkim",
+    "głosem",
+    "barszcz",
+    "bigos",
+    "grzyby",
+    "kapuście",
+    "zanim",
+    "odkorkuję",
+    "naleję",
+    "wypiję",
+    "samym",
+    "podzielę",
+    "opłatkiem",
+    "skórki",
+    "chleba",
+    "suchego",
+    "wargi",
+    "spierzchłymi",
+    "opowiem",
+    "począłeś",
+    "kobiecie",
+    "wielkiej",
+    "melancholii",
+    "łonie",
+    "dom",
+    "ogromny",
+    "zamieszkany",
+    "zaludnia",
+    "najpierw",
+    "echem",
+    "kroków",
+    "magnetycznie",
+    "skupią",
+    "atomy",
+    "najbrzydszej",
+    "świecie",
+    "obdarzona",
+    "pośladkami",
+    "dwoma",
+    "piersiami",
+    "uwieść",
+    "zdołała",
+    "męża",
+    "rodzisz",
+    "zwyciężać"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 64,
+        "VERB": 39,
+        "ADJ": 26,
+        "ADV": 12,
+        "PRON": 23,
+        "ADP": 28,
+        "CCONJ": 14,
+        "SCONJ": 7,
+        "INTJ": 0,
+        "PART": 18,
+        "DET": 7,
+        "NUM": 1
+      },
+      "posPercent": {
+        "NOUN": 0.261,
+        "VERB": 0.159,
+        "ADJ": 0.106,
+        "ADV": 0.049,
+        "PRON": 0.094,
+        "ADP": 0.114,
+        "CCONJ": 0.057,
+        "SCONJ": 0.029,
+        "INTJ": 0,
+        "PART": 0.073,
+        "DET": 0.029,
+        "NUM": 0.004
+      },
+      "nounConcreteAbstract": {
+        "concrete": 9,
+        "abstract": 3,
+        "ratio": 0.75
+      },
+      "verbTenses": {
+        "present": 14,
+        "infinitive": 6,
+        "past": 14,
+        "future": 7
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 4,
+        "destrukcja": 0,
+        "tworzenie": 1,
+        "komunikacja": 1,
+        "cialo": 1
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 1,
+        "oceniajace": 0,
+        "opisowe": 25
+      },
+      "adverbs": {
+        "temporalne": [
+          "teraz"
+        ],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "gdy",
+            "count": 1
+          },
+          {
+            "word": "razem",
+            "count": 1
+          },
+          {
+            "word": "fioletowo",
+            "count": 1
+          },
+          {
+            "word": "jak",
+            "count": 1
+          },
+          {
+            "word": "kiedy",
+            "count": 1
+          },
+          {
+            "word": "jakoś",
+            "count": 1
+          },
+          {
+            "word": "pewno",
+            "count": 1
+          },
+          {
+            "word": "niedługo",
+            "count": 1
+          },
+          {
+            "word": "tyle",
+            "count": 1
+          },
+          {
+            "word": "najpierw",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 5,
+        "ty": 1,
+        "on_ona": 1,
+        "my": 0,
+        "wy": 0,
+        "oni": 2
+      },
+      "negations": {
+        "nie": 8,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 2,
+        "total": 10,
+        "percentSentences": 1
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 556,
+        "consonants": 714,
+        "ratio": 0.78
+      },
+      "consonantClusters": {
+        "count": 32,
+        "top": [
+          {
+            "cluster": "prz",
+            "count": 3
+          },
+          {
+            "cluster": "szcz",
+            "count": 2
+          },
+          {
+            "cluster": "czn",
+            "count": 2
+          },
+          {
+            "cluster": "zbr",
+            "count": 1
+          },
+          {
+            "cluster": "rcz",
+            "count": 1
+          },
+          {
+            "cluster": "rtk",
+            "count": 1
+          },
+          {
+            "cluster": "sch",
+            "count": 1
+          },
+          {
+            "cluster": "zwr",
+            "count": 1
+          },
+          {
+            "cluster": "rsz",
+            "count": 1
+          },
+          {
+            "cluster": "szł",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 52,
+        "syczace": 126,
+        "nosowe": 161,
+        "plynne": 107
+      },
+      "rhymes": {
+        "exact": 1,
+        "approximate": 1,
+        "internal": 2,
+        "assonance": 0,
+        "alliteration": 0
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 24.5,
+        "median": 16,
+        "min": 1,
+        "max": 81,
+        "distribution": [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          2,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 6,
+        "meanSyllables": 13.8,
+        "distribution": [
+          0,
+          1,
+          0,
+          0,
+          3,
+          13,
+          9,
+          9,
+          5,
+          0,
+          1
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 10,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 1,
+        "noSubject": 2,
+        "noPredicate": 0,
+        "percent": 0.3
+      },
+      "enjambement": {
+        "count": 9,
+        "percent": 0.23,
+        "positions": [
+          3,
+          6,
+          7,
+          9,
+          10,
+          13,
+          15,
+          18,
+          28
+        ]
+      },
+      "wordOrder": {
+        "svo": 3,
+        "inversions": 4,
+        "other": 2,
+        "deviationPercent": 0.67
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 1,
+        "śmierć": 2,
+        "erotyka": 0,
+        "alkohol": 2,
+        "samotność": 2,
+        "sacrum": 0,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 567,
+      "estimatedSeconds": 189,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 64,
+      "VERB": 39,
+      "ADJ": 26,
+      "ADV": 12,
+      "PRON": 23,
+      "ADP": 28,
+      "CCONJ": 14,
+      "SCONJ": 7,
+      "INTJ": 0,
+      "PART": 18,
+      "DET": 7,
+      "NUM": 1
+    },
+    "posPercent": {
+      "NOUN": 0.261,
+      "VERB": 0.159,
+      "ADJ": 0.106,
+      "ADV": 0.049,
+      "PRON": 0.094,
+      "ADP": 0.114,
+      "CCONJ": 0.057,
+      "SCONJ": 0.029,
+      "INTJ": 0,
+      "PART": 0.073,
+      "DET": 0.029,
+      "NUM": 0.004
+    },
+    "nounConcreteAbstract": {
+      "concrete": 9,
+      "abstract": 3,
+      "ratio": 0.75
+    },
+    "verbTenses": {
+      "present": 14,
+      "infinitive": 6,
+      "past": 14,
+      "future": 7
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 4,
+      "destrukcja": 0,
+      "tworzenie": 1,
+      "komunikacja": 1,
+      "cialo": 1
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 1,
+      "oceniajace": 0,
+      "opisowe": 25
+    },
+    "adverbs": {
+      "temporalne": [
+        "teraz"
+      ],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "gdy",
+          "count": 1
+        },
+        {
+          "word": "razem",
+          "count": 1
+        },
+        {
+          "word": "fioletowo",
+          "count": 1
+        },
+        {
+          "word": "jak",
+          "count": 1
+        },
+        {
+          "word": "kiedy",
+          "count": 1
+        },
+        {
+          "word": "jakoś",
+          "count": 1
+        },
+        {
+          "word": "pewno",
+          "count": 1
+        },
+        {
+          "word": "niedługo",
+          "count": 1
+        },
+        {
+          "word": "tyle",
+          "count": 1
+        },
+        {
+          "word": "najpierw",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 5,
+      "ty": 1,
+      "on_ona": 1,
+      "my": 0,
+      "wy": 0,
+      "oni": 2
+    },
+    "negations": {
+      "nie": 8,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 2,
+      "total": 10,
+      "percentSentences": 1
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 24.5,
+      "median": 16,
+      "min": 1,
+      "max": 81,
+      "distribution": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        2,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 6,
+      "meanSyllables": 13.8,
+      "distribution": [
+        0,
+        1,
+        0,
+        0,
+        3,
+        13,
+        9,
+        9,
+        5,
+        0,
+        1
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 10,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 1,
+      "noSubject": 2,
+      "noPredicate": 0,
+      "percent": 0.3
+    },
+    "enjambement": {
+      "count": 9,
+      "percent": 0.23,
+      "positions": [
+        3,
+        6,
+        7,
+        9,
+        10,
+        13,
+        15,
+        18,
+        28
+      ]
+    },
+    "wordOrder": {
+      "svo": 3,
+      "inversions": 4,
+      "other": 2,
+      "deviationPercent": 0.67
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 556,
+      "consonants": 714,
+      "ratio": 0.78
+    },
+    "consonantClusters": {
+      "count": 32,
+      "top": [
+        {
+          "cluster": "prz",
+          "count": 3
+        },
+        {
+          "cluster": "szcz",
+          "count": 2
+        },
+        {
+          "cluster": "czn",
+          "count": 2
+        },
+        {
+          "cluster": "zbr",
+          "count": 1
+        },
+        {
+          "cluster": "rcz",
+          "count": 1
+        },
+        {
+          "cluster": "rtk",
+          "count": 1
+        },
+        {
+          "cluster": "sch",
+          "count": 1
+        },
+        {
+          "cluster": "zwr",
+          "count": 1
+        },
+        {
+          "cluster": "rsz",
+          "count": 1
+        },
+        {
+          "cluster": "szł",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 52,
+      "syczace": 126,
+      "nosowe": 161,
+      "plynne": 107
+    },
+    "rhymes": {
+      "exact": 1,
+      "approximate": 1,
+      "internal": 2,
+      "assonance": 0,
+      "alliteration": 0
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        41
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 567,
+      "estimatedSeconds": 189,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "regularny",
+      "regularityScore": 0.81
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Biblia",
+          "reference": "Narodzenie Chrystusa",
+          "evidence": "tytuł KOLĘDA, data 24 XII, motyw urodzin, opłatek, karpia na talerzu"
+        },
+        {
+          "source": "Biblia",
+          "reference": "Niepokalane Poczęcie",
+          "evidence": "Począłeś się w kobiecie z wielkiej melancholii / W łonie jak dom ogromny co nie zamieszkany"
+        },
+        {
+          "source": "Biblia",
+          "reference": "Wigilia",
+          "evidence": "opłatek, karp na talerzu, barszcz i bigos"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.3,
+        "baudelaire": 0.4,
+        "bursa": 0.7,
+        "stachura": 0.2,
+        "grochowiak": 0.3,
+        "bialoszewski": 0.6,
+        "rozewicz": 0.5
+      }
+    },
+    "space": {
+      "type": "zamknieta",
+      "evidence": "szuflada, stół, krzak drzewka, zasłona, pod stołem, okno, butelka - przestrzeń domowa, intymna",
+      "openClosedRatio": 0.2
+    },
+    "timeOfDay": {
+      "period": "wieczor",
+      "season": "zima",
+      "evidence": "data 24 XII 1968, śnieg za oknem, wigilia, kolęda"
+    },
+    "motion": {
+      "movement": 3,
+      "stillness": 7,
+      "dynamism": 0.3,
+      "evidence": "przewaga statyki: leży, schowałem, odłożyć, siedzenie przy stole, kontrastuje z dynamiką palenia mózgu"
+    },
+    "imageryDensity": {
+      "metaphors": 8,
+      "comparisons": 5,
+      "personifications": 4,
+      "hyperboles": 2,
+      "per100words": 19.4
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.9,
+      "creationLevel": 0.7,
+      "ironicDistance": 0.3,
+      "autobiographicSignals": [
+        "jestem sam bezbronny",
+        "data 24 XII 1968",
+        "nie mam żadnej ojczyzny",
+        "wyszczerbiona szklanka po musztardzie"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "rezygnacja",
+      "secondary": "melancholia",
+      "intensity": 0.8
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "Wiersz prowadzony w pierwszej osobie: 'jestem sam', 'nakazałem sobie', 'mam tylko'"
+    },
+    "addressee": {
+      "type": "bóg",
+      "evidence": "Tytuł 'Kolęda' i bezpośredni zwrot 'Na Twoje urodziny', 'Począłeś się w kobiecie' wskazują na Chrystusa"
+    },
+    "metaphors": [
+      {
+        "source": "broń i tarcza",
+        "target": "narzędzia poetyckie",
+        "example": "Broń nakazałem sobie odłożyć ołówek / I tarczę kartki schowałem w szufladę"
+      },
+      {
+        "source": "trup pamięci",
+        "target": "utrata tożsamości",
+        "example": "gdy trup / Pamięci leży w brudach jak zużyta chustka"
+      },
+      {
+        "source": "dom niezmieszkany",
+        "target": "łono matki",
+        "example": "W łonie jak dom ogromny co nie zamieszkany / Sam się zaludnia"
+      }
+    ],
+    "temperature": {
+      "value": 0.3,
+      "label": "chłodna rezygnacja z momentami gorzkiej ironii"
+    },
+    "senses": {
+      "wzrok": 4,
+      "sluch": 2,
+      "dotyk": 3,
+      "smak": 2,
+      "zapach": 1
+    },
+    "autodestruction": {
+      "level": 0.7,
+      "signals": [
+        "spirytus denaturowany",
+        "od którego mózg płonie fioletowo",
+        "samotność i pozbawienie wszystkiego",
+        "skórki od chleba suchego jak wargi"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 0.71,
+    "dfaAlpha": 0.883,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -0.9190927830513032
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -0.8118516335430415
+      },
+      {
+        "logWin": 1.6094379124341003,
+        "logFluc": -0.4628871887444833
+      },
+      {
+        "logWin": 1.791759469228055,
+        "logFluc": -0.19951423045088904
+      },
+      {
+        "logWin": 1.9459101490553132,
+        "logFluc": -0.05707666285169003
+      },
+      {
+        "logWin": 2.1972245773362196,
+        "logFluc": 0.04880845267507042
+      },
+      {
+        "logWin": 2.3978952727983707,
+        "logFluc": 0.252045496700343
+      },
+      {
+        "logWin": 2.4849066497880004,
+        "logFluc": 0.17209274335444308
+      }
+    ],
+    "seriesLength": 40,
+    "series": [
+      6,
+      5,
+      6,
+      4,
+      6,
+      7,
+      7,
+      5,
+      10,
+      7,
+      6,
+      5,
+      8,
+      7,
+      7,
+      6,
+      6,
+      5,
+      5,
+      4,
+      8,
+      5,
+      4,
+      5,
+      7,
+      8,
+      5,
+      8,
+      5,
+      7,
+      6,
+      5,
+      7,
+      8,
+      6,
+      5,
+      7,
+      5,
+      5,
+      6
+    ]
+  }
+}

@@ -1,0 +1,1002 @@
+{
+  "id": "ostatnia-modlitwa-bohaterow",
+  "title": "Ostatnia modlitwa bohaterów",
+  "wordCount": 165,
+  "lineCount": 30,
+  "uniqueWords": 125,
+  "vocabularyRichness": 0.758,
+  "avgWordsPerLine": 5.5,
+  "wordsPerLineDistribution": [
+    3,
+    8,
+    7,
+    3,
+    8,
+    10,
+    3,
+    6,
+    7,
+    3,
+    8,
+    7,
+    2,
+    8,
+    9,
+    2,
+    9,
+    6,
+    2,
+    6,
+    7,
+    2,
+    8,
+    9,
+    3,
+    0,
+    7,
+    8,
+    2,
+    2
+  ],
+  "wordFrequencies": [
+    [
+      "będziemy",
+      9
+    ],
+    [
+      "byśmy",
+      2
+    ],
+    [
+      "choćbyśmy",
+      2
+    ],
+    [
+      "choćby",
+      2
+    ],
+    [
+      "grażynie",
+      1
+    ],
+    [
+      "lisowskiej",
+      1
+    ],
+    [
+      "poszli",
+      1
+    ],
+    [
+      "gdziekolwiek",
+      1
+    ],
+    [
+      "udali",
+      1
+    ],
+    [
+      "jaką",
+      1
+    ],
+    [
+      "stronę",
+      1
+    ],
+    [
+      "zwrócili",
+      1
+    ],
+    [
+      "pobiegli",
+      1
+    ],
+    [
+      "pojechali",
+      1
+    ],
+    [
+      "któregokolwiek",
+      1
+    ],
+    [
+      "świata",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 8,
+    "period": 0,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 16,
+    "dash": 1,
+    "colon": 0,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 8,
+  "negationWords": [
+    "nie"
+  ],
+  "pronounDistribution": {
+    "ja": 0,
+    "ty": 3,
+    "on_ona": 0,
+    "my": 9,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 0,
+    "smierc": 1,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 1,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [
+    [
+      "będziemy",
+      8
+    ],
+    [
+      "choćbyśmy",
+      2
+    ]
+  ],
+  "firstWord": "pani",
+  "lastWord": "październik",
+  "avgWordLength": 5.73,
+  "wordLengthDistribution": {
+    "4-5": 32,
+    "8-9": 33,
+    "10+": 18,
+    "1-3": 49,
+    "6-7": 33
+  },
+  "bigrams": [
+    [
+      "grażynie lisowskiej",
+      1
+    ],
+    [
+      "lisowskiej dokąd",
+      1
+    ],
+    [
+      "dokąd byśmy",
+      1
+    ],
+    [
+      "poszli gdziekolwiek",
+      1
+    ],
+    [
+      "jaką stronę",
+      1
+    ],
+    [
+      "stronę zwrócili",
+      1
+    ]
+  ],
+  "poemWords": [
+    "pani",
+    "grażynie",
+    "lisowskiej",
+    "byśmy",
+    "poszli",
+    "gdziekolwiek",
+    "udali",
+    "jaką",
+    "stronę",
+    "zwrócili",
+    "pobiegli",
+    "pojechali",
+    "będziemy",
+    "siebie",
+    "któregokolwiek",
+    "świata",
+    "kraj",
+    "wynieśli",
+    "jaki",
+    "zachód",
+    "wschód",
+    "krwi",
+    "zanieśli",
+    "ciebie",
+    "choćbyśmy",
+    "najgłupszej",
+    "mieli",
+    "wisieć",
+    "szubienicy",
+    "chociażby",
+    "najciemniejszej",
+    "miano",
+    "trzymać",
+    "ciemnicy",
+    "godni",
+    "choćby",
+    "ostatnią",
+    "rozstrzelać",
+    "chciano",
+    "ścianą",
+    "kanałów",
+    "musieli",
+    "pełznąć",
+    "głąb",
+    "czarną",
+    "spokojni",
+    "jakikolwiek",
+    "nudny",
+    "ogarnął",
+    "obłęd",
+    "jakich",
+    "będą",
+    "wbijać",
+    "dogmatów",
+    "pałką",
+    "głowę",
+    "skupieni",
+    "kościół",
+    "miał",
+    "wściekłych",
+    "heretyków",
+    "jaka",
+    "władza",
+    "usilnie",
+    "tropiła",
+    "buntowników",
+    "uprzejmi",
+    "czyjąkolwiek",
+    "podstępnie",
+    "obciążono",
+    "winą",
+    "cierpieli",
+    "pojedynkach",
+    "złe",
+    "zimno",
+    "posłuszni",
+    "wyparły",
+    "kobiety",
+    "wpuszczono",
+    "żył",
+    "strach",
+    "najgęstszy",
+    "ufni",
+    "dziś",
+    "ścigani",
+    "obmawiani",
+    "pewnej",
+    "łaski",
+    "żeś",
+    "nami",
+    "doświadczamy",
+    "szczęśliwi",
+    "październik",
+    "1969"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 31,
+        "VERB": 27,
+        "ADJ": 16,
+        "ADV": 6,
+        "PRON": 18,
+        "ADP": 14,
+        "CCONJ": 5,
+        "SCONJ": 8,
+        "INTJ": 0,
+        "PART": 14,
+        "DET": 10,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.185,
+        "VERB": 0.161,
+        "ADJ": 0.095,
+        "ADV": 0.036,
+        "PRON": 0.107,
+        "ADP": 0.083,
+        "CCONJ": 0.03,
+        "SCONJ": 0.048,
+        "INTJ": 0,
+        "PART": 0.083,
+        "DET": 0.06,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 3,
+        "abstract": 2,
+        "ratio": 0.6
+      },
+      "verbTenses": {
+        "past": 20,
+        "future": 10,
+        "infinitive": 5,
+        "present": 3
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 12,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 1,
+        "oceniajace": 2,
+        "opisowe": 13
+      },
+      "adverbs": {
+        "temporalne": [],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "dokąd",
+            "count": 1
+          },
+          {
+            "word": "gdziekolwiek",
+            "count": 1
+          },
+          {
+            "word": "tam",
+            "count": 1
+          },
+          {
+            "word": "usilnie",
+            "count": 1
+          },
+          {
+            "word": "podstępnie",
+            "count": 1
+          },
+          {
+            "word": "dziś",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 0,
+        "ty": 4,
+        "on_ona": 0,
+        "my": 8,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 8,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 8,
+        "percentSentences": 0.67
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 413,
+        "consonants": 554,
+        "ratio": 0.75
+      },
+      "consonantClusters": {
+        "count": 28,
+        "top": [
+          {
+            "cluster": "str",
+            "count": 2
+          },
+          {
+            "cluster": "prz",
+            "count": 2
+          },
+          {
+            "cluster": "szcz",
+            "count": 2
+          },
+          {
+            "cluster": "wsk",
+            "count": 1
+          },
+          {
+            "cluster": "szl",
+            "count": 1
+          },
+          {
+            "cluster": "gdz",
+            "count": 1
+          },
+          {
+            "cluster": "zwr",
+            "count": 1
+          },
+          {
+            "cluster": "wsch",
+            "count": 1
+          },
+          {
+            "cluster": "krw",
+            "count": 1
+          },
+          {
+            "cluster": "jgł",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 30,
+        "syczace": 101,
+        "nosowe": 126,
+        "plynne": 59
+      },
+      "rhymes": {
+        "exact": 5,
+        "approximate": 9,
+        "internal": 2,
+        "assonance": 3,
+        "alliteration": 4
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 14,
+        "median": 16,
+        "min": 3,
+        "max": 22,
+        "distribution": [
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          2,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          2,
+          1,
+          0,
+          2,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 5.5,
+        "meanSyllables": 13.6,
+        "distribution": [
+          0,
+          1,
+          6,
+          6,
+          0,
+          0,
+          2,
+          6,
+          6,
+          3,
+          1
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 12,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 0,
+        "noSubject": 5,
+        "noPredicate": 0,
+        "percent": 0.42
+      },
+      "enjambement": {
+        "count": 5,
+        "percent": 0.17,
+        "positions": [
+          11,
+          14,
+          23,
+          24,
+          30
+        ]
+      },
+      "wordOrder": {
+        "svo": 4,
+        "inversions": 3,
+        "other": 5,
+        "deviationPercent": 0.67
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 1,
+        "śmierć": 0,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 2,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 421,
+      "estimatedSeconds": 140,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 31,
+      "VERB": 27,
+      "ADJ": 16,
+      "ADV": 6,
+      "PRON": 18,
+      "ADP": 14,
+      "CCONJ": 5,
+      "SCONJ": 8,
+      "INTJ": 0,
+      "PART": 14,
+      "DET": 10,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.185,
+      "VERB": 0.161,
+      "ADJ": 0.095,
+      "ADV": 0.036,
+      "PRON": 0.107,
+      "ADP": 0.083,
+      "CCONJ": 0.03,
+      "SCONJ": 0.048,
+      "INTJ": 0,
+      "PART": 0.083,
+      "DET": 0.06,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 3,
+      "abstract": 2,
+      "ratio": 0.6
+    },
+    "verbTenses": {
+      "past": 20,
+      "future": 10,
+      "infinitive": 5,
+      "present": 3
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 12,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 1,
+      "oceniajace": 2,
+      "opisowe": 13
+    },
+    "adverbs": {
+      "temporalne": [],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "dokąd",
+          "count": 1
+        },
+        {
+          "word": "gdziekolwiek",
+          "count": 1
+        },
+        {
+          "word": "tam",
+          "count": 1
+        },
+        {
+          "word": "usilnie",
+          "count": 1
+        },
+        {
+          "word": "podstępnie",
+          "count": 1
+        },
+        {
+          "word": "dziś",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 0,
+      "ty": 4,
+      "on_ona": 0,
+      "my": 8,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 8,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 8,
+      "percentSentences": 0.67
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 14,
+      "median": 16,
+      "min": 3,
+      "max": 22,
+      "distribution": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        1,
+        2,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        2,
+        1,
+        0,
+        2,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 5.5,
+      "meanSyllables": 13.6,
+      "distribution": [
+        0,
+        1,
+        6,
+        6,
+        0,
+        0,
+        2,
+        6,
+        6,
+        3,
+        1
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 12,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 0,
+      "noSubject": 5,
+      "noPredicate": 0,
+      "percent": 0.42
+    },
+    "enjambement": {
+      "count": 5,
+      "percent": 0.17,
+      "positions": [
+        11,
+        14,
+        23,
+        24,
+        30
+      ]
+    },
+    "wordOrder": {
+      "svo": 4,
+      "inversions": 3,
+      "other": 5,
+      "deviationPercent": 0.67
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 413,
+      "consonants": 554,
+      "ratio": 0.75
+    },
+    "consonantClusters": {
+      "count": 28,
+      "top": [
+        {
+          "cluster": "str",
+          "count": 2
+        },
+        {
+          "cluster": "prz",
+          "count": 2
+        },
+        {
+          "cluster": "szcz",
+          "count": 2
+        },
+        {
+          "cluster": "wsk",
+          "count": 1
+        },
+        {
+          "cluster": "szl",
+          "count": 1
+        },
+        {
+          "cluster": "gdz",
+          "count": 1
+        },
+        {
+          "cluster": "zwr",
+          "count": 1
+        },
+        {
+          "cluster": "wsch",
+          "count": 1
+        },
+        {
+          "cluster": "krw",
+          "count": 1
+        },
+        {
+          "cluster": "jgł",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 30,
+      "syczace": 101,
+      "nosowe": 126,
+      "plynne": 59
+    },
+    "rhymes": {
+      "exact": 5,
+      "approximate": 9,
+      "internal": 2,
+      "assonance": 3,
+      "alliteration": 4
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        31
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 421,
+      "estimatedSeconds": 140,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "polregularny",
+      "regularityScore": 0.58
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Biblia",
+          "reference": "Modlitwa, struktura litanii, motyw męczeństwa",
+          "evidence": "tytuł 'OSTATNIA MODLITWA', paralelne 'Będziemy', motyw cierpienia za wiarę"
+        },
+        {
+          "source": "inne",
+          "reference": "Poezja patriotyczna, romantyczna tradycja",
+          "evidence": "dedykacja 'Pani Grażynie Lisowskiej', motyw bohaterów, szubienica, rozstrzelanie"
+        },
+        {
+          "source": "Biblia",
+          "reference": "Psalmy",
+          "evidence": "struktura repetytywna, ton modlitewny, 'Będziemy Ci ufni'"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.2,
+        "baudelaire": 0.1,
+        "bursa": 0.8,
+        "stachura": 0.3,
+        "grochowiak": 0.1,
+        "bialoszewski": 0.1,
+        "rozewicz": 0.3
+      }
+    },
+    "space": {
+      "type": "otwarta",
+      "evidence": "Dokąd byśmy nie poszli, W któregokolwiek świata kraj, Na jaki zachód czy tam wschód - przestrzeń globalna, nieograniczona",
+      "openClosedRatio": 0.9
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "jesien",
+      "evidence": "data 'październik 1969' wskazuje na jesień, ale czas dnia nieokreślony",
+      "timeEvidence": "październik 1969"
+    },
+    "motion": {
+      "movement": 8,
+      "stillness": 2,
+      "dynamism": 0.8,
+      "evidence": "pobiegli, pojechali, wynieśli, zanieśli, pełznąć, wbijać - intensywny ruch fizyczny i duchowy"
+    },
+    "imageryDensity": {
+      "metaphors": 3,
+      "comparisons": 0,
+      "personifications": 2,
+      "hyperboles": 4,
+      "per100words": 4.2
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.9,
+      "creationLevel": 0.3,
+      "ironicDistance": 0.1,
+      "autobiographicSignals": [
+        "data 'październik 1969'",
+        "ton wyznaniowy",
+        "pierwsza osoba liczby mnogiej",
+        "dedykacja osobista"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "czułość",
+      "secondary": "melancholia",
+      "intensity": 0.8
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "konsekwentne użycie 'my' i 'nami' przez cały wiersz - 'Dokąd byśmy nie poszli', 'będziemy'"
+    },
+    "addressee": {
+      "type": "bóg",
+      "evidence": "zwrot do 'Ciebie' pisane wielką literą, kontekst modlitwy w tytule, wątek łaski i ufności"
+    },
+    "metaphors": [
+      {
+        "source": "droga/podróż",
+        "target": "życie",
+        "example": "Dokąd byśmy nie poszli, gdziekolwiek się nie udali"
+      },
+      {
+        "source": "ciemność/więzienie",
+        "target": "cierpienie",
+        "example": "w najciemniejszej miano nas trzymać ciemnicy"
+      },
+      {
+        "source": "kanały",
+        "target": "poniżenie",
+        "example": "przez kanałów musieli pełznąć głąb czarną"
+      }
+    ],
+    "temperature": {
+      "value": 0.3,
+      "label": "chłodne - spokój mimo cierpienia"
+    },
+    "senses": {
+      "wzrok": 4,
+      "sluch": 2,
+      "dotyk": 3,
+      "smak": 0,
+      "zapach": 0
+    },
+    "autodestruction": {
+      "level": 0.2,
+      "signals": [
+        "akceptacja cierpienia",
+        "gotowość na śmierć",
+        "rezygnacja z oporu"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 0.408,
+    "dfaAlpha": 0.973,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -0.8573992140459625
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": 0.4136079693337829
+      },
+      {
+        "logWin": 1.6094379124341003,
+        "logFluc": 0.4356092140762814
+      },
+      {
+        "logWin": 1.791759469228055,
+        "logFluc": 0.4149849568365883
+      },
+      {
+        "logWin": 1.9459101490553132,
+        "logFluc": 0.5184568468602192
+      },
+      {
+        "logWin": 2.0794415416798357,
+        "logFluc": 0.5096446167245168
+      },
+      {
+        "logWin": 2.302585092994046,
+        "logFluc": 0.6477257041133937
+      }
+    ],
+    "seriesLength": 30,
+    "series": [
+      3,
+      8,
+      7,
+      3,
+      8,
+      10,
+      3,
+      6,
+      7,
+      3,
+      8,
+      7,
+      2,
+      8,
+      9,
+      2,
+      9,
+      6,
+      2,
+      6,
+      7,
+      2,
+      8,
+      9,
+      3,
+      0,
+      7,
+      8,
+      2,
+      2
+    ]
+  }
+}

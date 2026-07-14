@@ -10,6 +10,7 @@ import { IntroView } from './modules/intro/IntroView';
 import { ListView } from './modules/explore/ListView';
 import { MapViewPage } from './modules/explore/MapViewPage';
 import { DetailView } from './modules/explore/DetailView';
+import { ArView } from './modules/explore/ArView';
 import { TrailView } from './modules/explore/TrailView';
 import { NavigationView } from './modules/explore/NavigationView';
 import { BiographyView } from './modules/biography/BiographyView';
@@ -20,6 +21,9 @@ import { GalleryView } from './modules/gallery/GalleryView';
 import { ReflectionsView } from './modules/gallery/ReflectionsView';
 import { MockupsView } from './modules/gallery/MockupsView';
 import { InfoView } from './modules/info/InfoView';
+import { GeneratePage } from './modules/generate/GeneratePage';
+import { InterpretationsPage } from './modules/interpretations/InterpretationsPage';
+import { DataMiningPage } from './modules/datamining/DataMiningPage';
 import { useData } from './services/data/dataService';
 
 export default function App() {
@@ -29,6 +33,7 @@ export default function App() {
   const { points } = useData();
   const [isMenuOpen, setIsMenuOpen] = useState(false);
   const [isOnTrail, setIsOnTrail] = useState(false);
+  const [initialPoemId, setInitialPoemId] = useState<string | undefined>();
 
   const handlePointSelect = (p: Parameters<typeof selectPoint>[0]) => {
     reset();
@@ -73,13 +78,11 @@ export default function App() {
   }, [reset, setPoint, navigateTo]);
 
   return (
-    <div className="relative h-screen max-w-md mx-auto bg-white overflow-hidden flex flex-col no-radius border-x border-ink/5 shadow-2xl">
+    <div className="relative w-full max-w-md mx-auto bg-white overflow-hidden flex flex-col no-radius sm:border-x sm:border-ink/5 sm:shadow-2xl" style={{ height: '100dvh' }}>
       <GridOverlay />
       <MenuOverlay isOpen={isMenuOpen} onClose={() => setIsMenuOpen(false)} onNavigate={navigateTo} />
 
-      <div className="vertical-label">
-        WOJACZEK / OBECNOŚĆ / 2025
-      </div>
+{/* vertical label removed for mobile */}
 
       <Header onLogoClick={() => navigateTo('list')} onMenuClick={() => setIsMenuOpen(true)} />
 
@@ -107,11 +110,18 @@ export default function App() {
               onGenerate={() => generate(selectedPoint)}
               onOpenKeyDialog={openKeyDialog}
               onSelectPoint={handlePointSelect}
+              onOpenAr={() => navigateTo('ar')}
+            />
+          )}
+          {view === 'ar' && selectedPoint && (
+            <ArView
+              point={selectedPoint}
+              onBack={() => navigateTo('detail')}
             />
           )}
           {view === 'biography' && <BiographyView />}
           {view === 'timeline' && <TimelineView />}
-          {view === 'poems' && <PoemsView />}
+          {view === 'poems' && <PoemsView initialPoemId={initialPoemId} />}
           {view === 'letters' && <LettersView />}
           {view === 'gallery' && <GalleryView />}
           {view === 'reflections' && <ReflectionsView />}
@@ -124,6 +134,9 @@ export default function App() {
             />
           )}
           {view === 'info' && <InfoView />}
+          {view === 'generate' && <GeneratePage />}
+          {view === 'interpretations' && <InterpretationsPage />}
+          {view === 'datamining' && <DataMiningPage onNavigateToPoem={(poemId) => { setInitialPoemId(poemId); navigateTo('poems'); }} />}
         </AnimatePresence>
       </main>
 

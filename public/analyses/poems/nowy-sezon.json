@@ -1,0 +1,898 @@
+{
+  "id": "nowy-sezon",
+  "title": "Nowy sezon",
+  "wordCount": 58,
+  "lineCount": 21,
+  "uniqueWords": 56,
+  "vocabularyRichness": 0.966,
+  "avgWordsPerLine": 2.76,
+  "wordsPerLineDistribution": [
+    2,
+    3,
+    2,
+    2,
+    3,
+    2,
+    2,
+    3,
+    2,
+    2,
+    3,
+    3,
+    3,
+    4,
+    3,
+    3,
+    3,
+    4,
+    3,
+    3,
+    3
+  ],
+  "wordFrequencies": [
+    [
+      "obudziłem",
+      1
+    ],
+    [
+      "kwaśnym",
+      1
+    ],
+    [
+      "smakiem",
+      1
+    ],
+    [
+      "słowa",
+      1
+    ],
+    [
+      "obcy",
+      1
+    ],
+    [
+      "ustach",
+      1
+    ],
+    [
+      "obojętną",
+      1
+    ],
+    [
+      "wiedzą",
+      1
+    ],
+    [
+      "ciemnych",
+      1
+    ],
+    [
+      "sezonów",
+      1
+    ],
+    [
+      "dobudzić",
+      1
+    ],
+    [
+      "żadnych",
+      1
+    ],
+    [
+      "wzruszeń",
+      1
+    ],
+    [
+      "żalu",
+      1
+    ],
+    [
+      "wyznacza",
+      1
+    ],
+    [
+      "ciało",
+      1
+    ],
+    [
+      "zakreśla",
+      1
+    ],
+    [
+      "skóra",
+      1
+    ],
+    [
+      "doświadczana",
+      1
+    ],
+    [
+      "ile",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 0,
+    "period": 0,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 0,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 1,
+  "negationWords": [
+    "nie"
+  ],
+  "pronounDistribution": {
+    "ja": 3,
+    "ty": 0,
+    "on_ona": 0,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 3,
+    "smierc": 0,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 1,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [],
+  "firstWord": "obudziłem",
+  "lastWord": "strzelca",
+  "avgWordLength": 5.21,
+  "wordLengthDistribution": {
+    "8-9": 11,
+    "1-3": 13,
+    "6-7": 10,
+    "4-5": 22,
+    "10+": 2
+  },
+  "bigrams": [
+    [
+      "kwaśnym smakiem",
+      1
+    ],
+    [
+      "smakiem słowa",
+      1
+    ],
+    [
+      "słowa obcy",
+      1
+    ],
+    [
+      "obojętną wiedzą",
+      1
+    ],
+    [
+      "wiedzą ciemnych",
+      1
+    ],
+    [
+      "ciemnych sezonów",
+      1
+    ]
+  ],
+  "poemWords": [
+    "obudziłem",
+    "kwaśnym",
+    "smakiem",
+    "słowa",
+    "obcy",
+    "ustach",
+    "obojętną",
+    "wiedzą",
+    "ciemnych",
+    "sezonów",
+    "dobudzić",
+    "żadnych",
+    "wzruszeń",
+    "żalu",
+    "wyznacza",
+    "ciało",
+    "zakreśla",
+    "skóra",
+    "doświadczana",
+    "ile",
+    "palcami",
+    "wyczuwam",
+    "zgrubienia",
+    "blizn",
+    "stygmatów",
+    "leży",
+    "strzelec",
+    "spaloną",
+    "twarzą",
+    "nade",
+    "świeci",
+    "druga",
+    "twarz",
+    "strzelca"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 17,
+        "VERB": 10,
+        "ADJ": 9,
+        "ADV": 2,
+        "PRON": 5,
+        "ADP": 6,
+        "CCONJ": 2,
+        "SCONJ": 1,
+        "INTJ": 0,
+        "PART": 2,
+        "DET": 4,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.283,
+        "VERB": 0.167,
+        "ADJ": 0.15,
+        "ADV": 0.033,
+        "PRON": 0.083,
+        "ADP": 0.1,
+        "CCONJ": 0.033,
+        "SCONJ": 0.017,
+        "INTJ": 0,
+        "PART": 0.033,
+        "DET": 0.067,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 3,
+        "abstract": 1,
+        "ratio": 0.75
+      },
+      "verbTenses": {
+        "past": 2,
+        "present": 8,
+        "infinitive": 1
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 2,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 2,
+        "oceniajace": 0,
+        "opisowe": 7
+      },
+      "adverbs": {
+        "temporalne": [
+          "wciąż"
+        ],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "wciąż",
+            "count": 1
+          },
+          {
+            "word": "tyle",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 3,
+        "ty": 0,
+        "on_ona": 0,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 1,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 1,
+        "total": 2,
+        "percentSentences": 0.67
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 128,
+        "consonants": 183,
+        "ratio": 0.7
+      },
+      "consonantClusters": {
+        "count": 6,
+        "top": [
+          {
+            "cluster": "strz",
+            "count": 2
+          },
+          {
+            "cluster": "wzr",
+            "count": 1
+          },
+          {
+            "cluster": "dcz",
+            "count": 1
+          },
+          {
+            "cluster": "zgr",
+            "count": 1
+          },
+          {
+            "cluster": "prz",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 14,
+        "syczace": 37,
+        "nosowe": 43,
+        "plynne": 26
+      },
+      "rhymes": {
+        "exact": 0,
+        "approximate": 1,
+        "internal": 0,
+        "assonance": 0,
+        "alliteration": 0
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 20,
+        "median": 14,
+        "min": 2,
+        "max": 44,
+        "distribution": [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 2.7,
+        "meanSyllables": 6,
+        "distribution": [
+          0,
+          0,
+          8,
+          12,
+          2
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 3,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 1,
+        "noSubject": 1,
+        "noPredicate": 0,
+        "percent": 0.67
+      },
+      "enjambement": {
+        "count": 14,
+        "percent": 0.67,
+        "positions": [
+          3,
+          4,
+          5,
+          6,
+          8,
+          9,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          19,
+          21
+        ]
+      },
+      "wordOrder": {
+        "svo": 0,
+        "inversions": 1,
+        "other": 2,
+        "deviationPercent": 1
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 4,
+        "śmierć": 0,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 1,
+        "sacrum": 0,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 131,
+      "estimatedSeconds": 44,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 17,
+      "VERB": 10,
+      "ADJ": 9,
+      "ADV": 2,
+      "PRON": 5,
+      "ADP": 6,
+      "CCONJ": 2,
+      "SCONJ": 1,
+      "INTJ": 0,
+      "PART": 2,
+      "DET": 4,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.283,
+      "VERB": 0.167,
+      "ADJ": 0.15,
+      "ADV": 0.033,
+      "PRON": 0.083,
+      "ADP": 0.1,
+      "CCONJ": 0.033,
+      "SCONJ": 0.017,
+      "INTJ": 0,
+      "PART": 0.033,
+      "DET": 0.067,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 3,
+      "abstract": 1,
+      "ratio": 0.75
+    },
+    "verbTenses": {
+      "past": 2,
+      "present": 8,
+      "infinitive": 1
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 2,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 2,
+      "oceniajace": 0,
+      "opisowe": 7
+    },
+    "adverbs": {
+      "temporalne": [
+        "wciąż"
+      ],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "wciąż",
+          "count": 1
+        },
+        {
+          "word": "tyle",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 3,
+      "ty": 0,
+      "on_ona": 0,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 1,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 1,
+      "total": 2,
+      "percentSentences": 0.67
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 20,
+      "median": 14,
+      "min": 2,
+      "max": 44,
+      "distribution": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 2.7,
+      "meanSyllables": 6,
+      "distribution": [
+        0,
+        0,
+        8,
+        12,
+        2
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 3,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 1,
+      "noSubject": 1,
+      "noPredicate": 0,
+      "percent": 0.67
+    },
+    "enjambement": {
+      "count": 14,
+      "percent": 0.67,
+      "positions": [
+        3,
+        4,
+        5,
+        6,
+        8,
+        9,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        19,
+        21
+      ]
+    },
+    "wordOrder": {
+      "svo": 0,
+      "inversions": 1,
+      "other": 2,
+      "deviationPercent": 1
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 128,
+      "consonants": 183,
+      "ratio": 0.7
+    },
+    "consonantClusters": {
+      "count": 6,
+      "top": [
+        {
+          "cluster": "strz",
+          "count": 2
+        },
+        {
+          "cluster": "wzr",
+          "count": 1
+        },
+        {
+          "cluster": "dcz",
+          "count": 1
+        },
+        {
+          "cluster": "zgr",
+          "count": 1
+        },
+        {
+          "cluster": "prz",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 14,
+      "syczace": 37,
+      "nosowe": 43,
+      "plynne": 26
+    },
+    "rhymes": {
+      "exact": 0,
+      "approximate": 1,
+      "internal": 0,
+      "assonance": 0,
+      "alliteration": 0
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        22
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 131,
+      "estimatedSeconds": 44,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "polregularny",
+      "regularityScore": 0.69
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Biblia",
+          "reference": "stygmaty",
+          "evidence": "zgrubienia blizn stygmatów - nawiązanie do ran Chrystusa"
+        },
+        {
+          "source": "mitologia",
+          "reference": "Strzelec",
+          "evidence": "Strzelec jako znak zodiaku lub postać mitologiczna"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.3,
+        "baudelaire": 0.2,
+        "bursa": 0.4,
+        "stachura": 0.3,
+        "grochowiak": 0.5,
+        "bialoszewski": 0.2,
+        "rozewicz": 0.6
+      }
+    },
+    "space": {
+      "type": "zamknieta",
+      "evidence": "przestrzeń intymna sypialni, ciało jako granica przestrzeni",
+      "openClosedRatio": 0.2
+    },
+    "timeOfDay": {
+      "period": "rano",
+      "season": "nieokreslona",
+      "evidence": "Obudziłem się - wyraźne wskazanie na porę pobudki"
+    },
+    "motion": {
+      "movement": 1,
+      "stillness": 9,
+      "dynamism": 0.1,
+      "evidence": "dominuje bezruch - leżenie, niemożność dobudzenia wzruszeń"
+    },
+    "imageryDensity": {
+      "metaphors": 4,
+      "comparisons": 0,
+      "personifications": 2,
+      "hyperboles": 0,
+      "per100words": 7.5
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.9,
+      "creationLevel": 0.3,
+      "ironicDistance": 0.1,
+      "autobiographicSignals": [
+        "Obudziłem się",
+        "Nie mogę dobudzić w sobie",
+        "ciało które wciąż mam",
+        "ile palcami wyczuwam"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "rezygnacja",
+      "secondary": "melancholia",
+      "intensity": 0.7
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "Obudziłem się"
+    },
+    "addressee": {
+      "type": "siebie",
+      "evidence": "Nie mogę dobudzić w sobie żadnych wzruszeń"
+    },
+    "metaphors": [
+      {
+        "source": "ciało",
+        "target": "granica tożsamości",
+        "example": "Wyznacza mnie ciało które wciąż mam"
+      },
+      {
+        "source": "blizny",
+        "target": "doświadczenie życiowe",
+        "example": "zgrubienia blizn stygmatów"
+      },
+      {
+        "source": "Strzelec",
+        "target": "konstelacja/przeznaczenie",
+        "example": "Przy mnie leży Strzelec ze spaloną twarzą"
+      }
+    ],
+    "temperature": {
+      "value": 0.2,
+      "label": "chłodne wyobcowanie"
+    },
+    "senses": {
+      "wzrok": 3,
+      "sluch": 0,
+      "dotyk": 5,
+      "smak": 4,
+      "zapach": 0
+    },
+    "autodestruction": {
+      "level": 0.6,
+      "signals": [
+        "kwaśny smak słowa obcy",
+        "obojętna wiedza",
+        "brak wzruszeń",
+        "spalona twarz"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 0.337,
+    "dfaAlpha": 0.847,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -1.7816581155692939
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -1.2951335827229133
+      },
+      {
+        "logWin": 1.6094379124341003,
+        "logFluc": -1.3687593663820894
+      },
+      {
+        "logWin": 1.791759469228055,
+        "logFluc": -1.186780846372582
+      },
+      {
+        "logWin": 1.9459101490553132,
+        "logFluc": -0.9510991368176844
+      }
+    ],
+    "seriesLength": 21,
+    "series": [
+      2,
+      3,
+      2,
+      2,
+      3,
+      2,
+      2,
+      3,
+      2,
+      2,
+      3,
+      3,
+      3,
+      4,
+      3,
+      3,
+      3,
+      4,
+      3,
+      3,
+      3
+    ]
+  }
+}

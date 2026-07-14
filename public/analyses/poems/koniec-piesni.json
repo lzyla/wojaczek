@@ -1,0 +1,1034 @@
+{
+  "id": "koniec-piesni",
+  "title": "Koniec pieśni",
+  "wordCount": 159,
+  "lineCount": 29,
+  "uniqueWords": 124,
+  "vocabularyRichness": 0.78,
+  "avgWordsPerLine": 5.48,
+  "wordsPerLineDistribution": [
+    3,
+    7,
+    7,
+    7,
+    7,
+    6,
+    7,
+    7,
+    7,
+    5,
+    7,
+    4,
+    6,
+    7,
+    6,
+    1,
+    3,
+    5,
+    4,
+    2,
+    4,
+    6,
+    5,
+    6,
+    10,
+    7,
+    6,
+    4,
+    3
+  ],
+  "wordFrequencies": [
+    [
+      "spać",
+      3
+    ],
+    [
+      "poemat",
+      2
+    ],
+    [
+      "skończony",
+      2
+    ],
+    [
+      "autor",
+      2
+    ],
+    [
+      "panu",
+      1
+    ],
+    [
+      "bogusławowi",
+      1
+    ],
+    [
+      "kiercowi",
+      1
+    ],
+    [
+      "północ",
+      1
+    ],
+    [
+      "kropka",
+      1
+    ],
+    [
+      "sprawdzi",
+      1
+    ],
+    [
+      "posłuży",
+      1
+    ],
+    [
+      "uwydatni",
+      1
+    ],
+    [
+      "cóż",
+      1
+    ],
+    [
+      "znowu",
+      1
+    ],
+    [
+      "cieniu",
+      1
+    ],
+    [
+      "pewnej",
+      1
+    ],
+    [
+      "róży",
+      1
+    ],
+    [
+      "śmierci",
+      1
+    ],
+    [
+      "różyczka",
+      1
+    ],
+    [
+      "szczęścia",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 0,
+    "period": 4,
+    "question": 2,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 3,
+    "colon": 0,
+    "semicolon": 0
+  },
+  "questionCount": 2,
+  "exclamationCount": 0,
+  "negationCount": 6,
+  "negationWords": [
+    "nie"
+  ],
+  "pronounDistribution": {
+    "ja": 0,
+    "ty": 0,
+    "on_ona": 1,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 5,
+    "smierc": 0,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 1,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [
+    [
+      "nie",
+      3
+    ]
+  ],
+  "firstWord": "panu",
+  "lastWord": "jawnogrzeszy”",
+  "avgWordLength": 4.99,
+  "wordLengthDistribution": {
+    "4-5": 35,
+    "10+": 5,
+    "8-9": 23,
+    "6-7": 42,
+    "1-3": 54
+  },
+  "bigrams": [
+    [
+      "poemat skończony",
+      2
+    ],
+    [
+      "panu bogusławowi",
+      1
+    ],
+    [
+      "bogusławowi kiercowi",
+      1
+    ],
+    [
+      "kiercowi znów",
+      1
+    ],
+    [
+      "znów północ",
+      1
+    ]
+  ],
+  "poemWords": [
+    "panu",
+    "bogusławowi",
+    "kiercowi",
+    "północ",
+    "poemat",
+    "skończony",
+    "kropka",
+    "sprawdzi",
+    "posłuży",
+    "uwydatni",
+    "cóż",
+    "znowu",
+    "cieniu",
+    "pewnej",
+    "róży",
+    "śmierci",
+    "różyczka",
+    "szczęścia",
+    "małe",
+    "własne",
+    "autor",
+    "powoli",
+    "dopija",
+    "herbaty",
+    "papierosa",
+    "dopala",
+    "mniej",
+    "chciwie",
+    "większym",
+    "smakiem",
+    "otwiera",
+    "okno",
+    "wietrzy",
+    "przebiera",
+    "piżamę",
+    "pora",
+    "poważna",
+    "wypada",
+    "spać",
+    "mądrze",
+    "brzuchu",
+    "najpobożniej",
+    "zdrowo",
+    "żołądek",
+    "zwłaszcza",
+    "męczą",
+    "wzdęcia",
+    "gasi",
+    "światło",
+    "rozluźnia",
+    "mięśnie",
+    "myśli",
+    "rzeczach",
+    "przykrych",
+    "wszak",
+    "ogłosi",
+    "rok",
+    "zasnąć",
+    "życząc",
+    "ziemskich",
+    "karier",
+    "stręczy",
+    "niebo",
+    "bohater”",
+    "śpi",
+    "mógł",
+    "kłamie",
+    "szekspir",
+    "porze",
+    "biedny",
+    "czyż",
+    "zazdrości",
+    "bohaterowi",
+    "serce",
+    "bije",
+    "dzwony",
+    "kościele",
+    "świtu",
+    "podniesienie",
+    "słońca",
+    "widnokrąg",
+    "oczy",
+    "darmo",
+    "pilnie",
+    "zaciska",
+    "powieki",
+    "trzymając",
+    "kobiecej",
+    "piersi",
+    "nieba",
+    "bohater",
+    "jawnogrzeszy”"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 41,
+        "VERB": 24,
+        "ADJ": 16,
+        "ADV": 12,
+        "PRON": 11,
+        "ADP": 14,
+        "CCONJ": 12,
+        "SCONJ": 6,
+        "INTJ": 0,
+        "PART": 16,
+        "DET": 2,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.253,
+        "VERB": 0.148,
+        "ADJ": 0.099,
+        "ADV": 0.074,
+        "PRON": 0.068,
+        "ADP": 0.086,
+        "CCONJ": 0.074,
+        "SCONJ": 0.037,
+        "INTJ": 0,
+        "PART": 0.099,
+        "DET": 0.012,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 4,
+        "abstract": 0,
+        "ratio": 1
+      },
+      "verbTenses": {
+        "future": 2,
+        "past": 3,
+        "present": 16,
+        "infinitive": 4
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 4,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 1,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 1,
+        "opisowe": 15
+      },
+      "adverbs": {
+        "temporalne": [],
+        "modalne": [],
+        "sposobu": [
+          "powoli"
+        ],
+        "top": [
+          {
+            "word": "tak",
+            "count": 2
+          },
+          {
+            "word": "powoli",
+            "count": 1
+          },
+          {
+            "word": "mniej",
+            "count": 1
+          },
+          {
+            "word": "chciwie",
+            "count": 1
+          },
+          {
+            "word": "bardzo",
+            "count": 1
+          },
+          {
+            "word": "mądrze",
+            "count": 1
+          },
+          {
+            "word": "zdrowo",
+            "count": 1
+          },
+          {
+            "word": "gdy",
+            "count": 1
+          },
+          {
+            "word": "widnokrąg",
+            "count": 1
+          },
+          {
+            "word": "darmo",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 0,
+        "ty": 0,
+        "on_ona": 1,
+        "my": 1,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 6,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 6,
+        "percentSentences": 0.3
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 347,
+        "consonants": 456,
+        "ratio": 0.76
+      },
+      "consonantClusters": {
+        "count": 26,
+        "top": [
+          {
+            "cluster": "ńcz",
+            "count": 2
+          },
+          {
+            "cluster": "szcz",
+            "count": 2
+          },
+          {
+            "cluster": "trz",
+            "count": 2
+          },
+          {
+            "cluster": "prz",
+            "count": 2
+          },
+          {
+            "cluster": "zdr",
+            "count": 2
+          },
+          {
+            "cluster": "spr",
+            "count": 1
+          },
+          {
+            "cluster": "wdz",
+            "count": 1
+          },
+          {
+            "cluster": "czk",
+            "count": 1
+          },
+          {
+            "cluster": "chc",
+            "count": 1
+          },
+          {
+            "cluster": "ksz",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 47,
+        "syczace": 81,
+        "nosowe": 83,
+        "plynne": 63
+      },
+      "rhymes": {
+        "exact": 0,
+        "approximate": 1,
+        "internal": 1,
+        "assonance": 2,
+        "alliteration": 0
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 8.1,
+        "median": 7,
+        "min": 1,
+        "max": 20,
+        "distribution": [
+          0,
+          1,
+          1,
+          0,
+          1,
+          3,
+          2,
+          4,
+          0,
+          1,
+          3,
+          0,
+          1,
+          0,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 5.3,
+        "meanSyllables": 11.5,
+        "distribution": [
+          0,
+          2,
+          2,
+          3,
+          4,
+          3,
+          6,
+          8,
+          2,
+          0,
+          0,
+          1
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 18,
+        "interrogative": 2,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 6,
+        "noSubject": 5,
+        "noPredicate": 1,
+        "percent": 0.6
+      },
+      "enjambement": {
+        "count": 5,
+        "percent": 0.17,
+        "positions": [
+          3,
+          4,
+          22,
+          23,
+          25
+        ]
+      },
+      "wordOrder": {
+        "svo": 4,
+        "inversions": 4,
+        "other": 11,
+        "deviationPercent": 0.79
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 3,
+        "śmierć": 1,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 1,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 356,
+      "estimatedSeconds": 119,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 41,
+      "VERB": 24,
+      "ADJ": 16,
+      "ADV": 12,
+      "PRON": 11,
+      "ADP": 14,
+      "CCONJ": 12,
+      "SCONJ": 6,
+      "INTJ": 0,
+      "PART": 16,
+      "DET": 2,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.253,
+      "VERB": 0.148,
+      "ADJ": 0.099,
+      "ADV": 0.074,
+      "PRON": 0.068,
+      "ADP": 0.086,
+      "CCONJ": 0.074,
+      "SCONJ": 0.037,
+      "INTJ": 0,
+      "PART": 0.099,
+      "DET": 0.012,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 4,
+      "abstract": 0,
+      "ratio": 1
+    },
+    "verbTenses": {
+      "future": 2,
+      "past": 3,
+      "present": 16,
+      "infinitive": 4
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 4,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 1,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 1,
+      "opisowe": 15
+    },
+    "adverbs": {
+      "temporalne": [],
+      "modalne": [],
+      "sposobu": [
+        "powoli"
+      ],
+      "top": [
+        {
+          "word": "tak",
+          "count": 2
+        },
+        {
+          "word": "powoli",
+          "count": 1
+        },
+        {
+          "word": "mniej",
+          "count": 1
+        },
+        {
+          "word": "chciwie",
+          "count": 1
+        },
+        {
+          "word": "bardzo",
+          "count": 1
+        },
+        {
+          "word": "mądrze",
+          "count": 1
+        },
+        {
+          "word": "zdrowo",
+          "count": 1
+        },
+        {
+          "word": "gdy",
+          "count": 1
+        },
+        {
+          "word": "widnokrąg",
+          "count": 1
+        },
+        {
+          "word": "darmo",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 0,
+      "ty": 0,
+      "on_ona": 1,
+      "my": 1,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 6,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 6,
+      "percentSentences": 0.3
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 8.1,
+      "median": 7,
+      "min": 1,
+      "max": 20,
+      "distribution": [
+        0,
+        1,
+        1,
+        0,
+        1,
+        3,
+        2,
+        4,
+        0,
+        1,
+        3,
+        0,
+        1,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 5.3,
+      "meanSyllables": 11.5,
+      "distribution": [
+        0,
+        2,
+        2,
+        3,
+        4,
+        3,
+        6,
+        8,
+        2,
+        0,
+        0,
+        1
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 18,
+      "interrogative": 2,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 6,
+      "noSubject": 5,
+      "noPredicate": 1,
+      "percent": 0.6
+    },
+    "enjambement": {
+      "count": 5,
+      "percent": 0.17,
+      "positions": [
+        3,
+        4,
+        22,
+        23,
+        25
+      ]
+    },
+    "wordOrder": {
+      "svo": 4,
+      "inversions": 4,
+      "other": 11,
+      "deviationPercent": 0.79
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 347,
+      "consonants": 456,
+      "ratio": 0.76
+    },
+    "consonantClusters": {
+      "count": 26,
+      "top": [
+        {
+          "cluster": "ńcz",
+          "count": 2
+        },
+        {
+          "cluster": "szcz",
+          "count": 2
+        },
+        {
+          "cluster": "trz",
+          "count": 2
+        },
+        {
+          "cluster": "prz",
+          "count": 2
+        },
+        {
+          "cluster": "zdr",
+          "count": 2
+        },
+        {
+          "cluster": "spr",
+          "count": 1
+        },
+        {
+          "cluster": "wdz",
+          "count": 1
+        },
+        {
+          "cluster": "czk",
+          "count": 1
+        },
+        {
+          "cluster": "chc",
+          "count": 1
+        },
+        {
+          "cluster": "ksz",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 47,
+      "syczace": 81,
+      "nosowe": 83,
+      "plynne": 63
+    },
+    "rhymes": {
+      "exact": 0,
+      "approximate": 1,
+      "internal": 1,
+      "assonance": 2,
+      "alliteration": 0
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        31
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 356,
+      "estimatedSeconds": 119,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "polregularny",
+      "regularityScore": 0.55
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Szekspir",
+          "reference": "Hamlet",
+          "evidence": "Lecz kłamie Szekspir o tej porze"
+        },
+        {
+          "source": "inne",
+          "reference": "konwencja poetycka o poecie i bohaterze",
+          "evidence": "cytaty w cudzysłowie o bohaterze"
+        },
+        {
+          "source": "Biblia",
+          "reference": "motyw grzechu",
+          "evidence": "jawnogrzeszy"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.2,
+        "baudelaire": 0.1,
+        "bursa": 0.7,
+        "stachura": 0.3,
+        "grochowiak": 0.4,
+        "bialoszewski": 0.6,
+        "rozewicz": 0.8
+      }
+    },
+    "space": {
+      "type": "zamknieta",
+      "evidence": "pokój autora - okno, łóżko, intymna przestrzeń twórcy",
+      "openClosedRatio": 0.3
+    },
+    "timeOfDay": {
+      "period": "noc",
+      "season": "nieokreslona",
+      "evidence": "Znów północ, świt, podniesienie słońca nad widnokrąg"
+    },
+    "motion": {
+      "movement": 4,
+      "stillness": 6,
+      "dynamism": 0.4,
+      "evidence": "dopija, dopala, otwiera, przebiera się, ale głównie leży i nie może zasnąć"
+    },
+    "imageryDensity": {
+      "metaphors": 3,
+      "comparisons": 1,
+      "personifications": 2,
+      "hyperboles": 1,
+      "per100words": 7
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.8,
+      "creationLevel": 0.9,
+      "ironicDistance": 0.4,
+      "autobiographicSignals": [
+        "metatekstowe odniesienia do pisania",
+        "intymne szczegóły życia autora",
+        "bezsenność twórcy"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "melancholia",
+      "secondary": "rezygnacja",
+      "intensity": 0.7
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "podmiot liryczny opisuje sytuację autora kończącego poemat, przechodzi od trzeciej do pierwszej osoby 'I autor już powoli dopija herbaty'"
+    },
+    "addressee": {
+      "type": "siebie",
+      "evidence": "wiersz to monolog wewnętrzny o procesie twórczym i bezsenności po zakończeniu poematu"
+    },
+    "metaphors": [
+      {
+        "source": "róża śmierci",
+        "target": "przemijanie",
+        "example": "w cieniu pewnej róży / Śmierci – różyczka szczęścia co małe ale własne"
+      },
+      {
+        "source": "dzwony w kościele świtu",
+        "example": "że tak mu serce bije – aż dzwony w kościele świtu"
+      },
+      {
+        "source": "podniesienie słońca",
+        "target": "świt",
+        "example": "Już podniesienie słońca nad widnokrąg w oczy"
+      }
+    ],
+    "temperature": {
+      "value": 0.3,
+      "label": "chłodna refleksyjność z nutą goryczy"
+    },
+    "senses": {
+      "wzrok": 4,
+      "sluch": 3,
+      "dotyk": 3,
+      "smak": 2,
+      "zapach": 1
+    },
+    "autodestruction": {
+      "level": 0.4,
+      "signals": [
+        "bezsenność",
+        "lęk o przyszłość utworu",
+        "poczucie samotności twórczej",
+        "zazdrość wobec bohatera literackiego"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 0.976,
+    "dfaAlpha": 1.336,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -1.2445151834859296
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -0.5128125522925925
+      },
+      {
+        "logWin": 1.6094379124341003,
+        "logFluc": -0.4255121483273642
+      },
+      {
+        "logWin": 1.791759469228055,
+        "logFluc": -0.04001009036444507
+      },
+      {
+        "logWin": 1.9459101490553132,
+        "logFluc": -0.2014971502113423
+      },
+      {
+        "logWin": 2.1972245773362196,
+        "logFluc": 0.41094835254408396
+      }
+    ],
+    "seriesLength": 29,
+    "series": [
+      3,
+      7,
+      7,
+      7,
+      7,
+      6,
+      7,
+      7,
+      7,
+      5,
+      7,
+      4,
+      6,
+      7,
+      6,
+      1,
+      3,
+      5,
+      4,
+      2,
+      4,
+      6,
+      5,
+      6,
+      10,
+      7,
+      6,
+      4,
+      3
+    ]
+  }
+}

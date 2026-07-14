@@ -1,0 +1,917 @@
+{
+  "id": "katalog",
+  "title": "Katalog",
+  "wordCount": 102,
+  "lineCount": 14,
+  "uniqueWords": 74,
+  "vocabularyRichness": 0.725,
+  "avgWordsPerLine": 7.29,
+  "wordsPerLineDistribution": [
+    8,
+    7,
+    5,
+    8,
+    9,
+    6,
+    6,
+    5,
+    6,
+    8,
+    9,
+    9,
+    8,
+    8
+  ],
+  "wordFrequencies": [
+    [
+      "owocu",
+      2
+    ],
+    [
+      "najpierw",
+      1
+    ],
+    [
+      "róża",
+      1
+    ],
+    [
+      "różą",
+      1
+    ],
+    [
+      "ogrodu",
+      1
+    ],
+    [
+      "którego",
+      1
+    ],
+    [
+      "wiedzie",
+      1
+    ],
+    [
+      "boczne",
+      1
+    ],
+    [
+      "wejście",
+      1
+    ],
+    [
+      "dalej",
+      1
+    ],
+    [
+      "bezkrwista",
+      1
+    ],
+    [
+      "leukemia",
+      1
+    ],
+    [
+      "krew",
+      1
+    ],
+    [
+      "życie",
+      1
+    ],
+    [
+      "spóźniło",
+      1
+    ],
+    [
+      "śmierć",
+      1
+    ],
+    [
+      "głos",
+      1
+    ],
+    [
+      "języka",
+      1
+    ],
+    [
+      "wspólnego",
+      1
+    ],
+    [
+      "mową",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 12,
+    "period": 6,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 5,
+    "colon": 0,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 9,
+  "negationWords": [
+    "nie",
+    "nigdy"
+  ],
+  "pronounDistribution": {
+    "ja": 0,
+    "ty": 0,
+    "on_ona": 0,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 2,
+    "smierc": 2,
+    "erotyka": 1,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [],
+  "firstWord": "najpierw",
+  "lastWord": "owocu",
+  "avgWordLength": 4.43,
+  "wordLengthDistribution": {
+    "8-9": 8,
+    "4-5": 30,
+    "1-3": 38,
+    "6-7": 25,
+    "10+": 1
+  },
+  "bigrams": [
+    [
+      "najpierw róża",
+      1
+    ],
+    [
+      "różą żadnego",
+      1
+    ],
+    [
+      "wiedzie nawet",
+      1
+    ],
+    [
+      "nawet boczne",
+      1
+    ],
+    [
+      "boczne wejście",
+      1
+    ]
+  ],
+  "poemWords": [
+    "najpierw",
+    "róża",
+    "różą",
+    "ogrodu",
+    "którego",
+    "wiedzie",
+    "boczne",
+    "wejście",
+    "dalej",
+    "bezkrwista",
+    "leukemia",
+    "krew",
+    "życie",
+    "spóźniło",
+    "śmierć",
+    "głos",
+    "języka",
+    "wspólnego",
+    "mową",
+    "usta",
+    "zawsze",
+    "niepewne",
+    "warg",
+    "których",
+    "usiądzie",
+    "płatek",
+    "cienia",
+    "kryjomy",
+    "pocałunek",
+    "dnia",
+    "czasem",
+    "rzęsę",
+    "zaczepi",
+    "ćma",
+    "matka",
+    "zmarła",
+    "zaraz",
+    "ognisko",
+    "oka",
+    "spadnie",
+    "ptak",
+    "nieba",
+    "doleci",
+    "ziemi",
+    "której",
+    "mógł",
+    "wzlecieć",
+    "głód",
+    "zazna",
+    "owocu",
+    "dłoni",
+    "ziarnko",
+    "mogiłą"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 33,
+        "VERB": 12,
+        "ADJ": 4,
+        "ADV": 5,
+        "PRON": 7,
+        "ADP": 10,
+        "CCONJ": 6,
+        "SCONJ": 2,
+        "INTJ": 0,
+        "PART": 12,
+        "DET": 7,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.324,
+        "VERB": 0.118,
+        "ADJ": 0.039,
+        "ADV": 0.049,
+        "PRON": 0.069,
+        "ADP": 0.098,
+        "CCONJ": 0.059,
+        "SCONJ": 0.02,
+        "INTJ": 0,
+        "PART": 0.118,
+        "DET": 0.069,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 5,
+        "abstract": 3,
+        "ratio": 0.62
+      },
+      "verbTenses": {
+        "present": 6,
+        "past": 3,
+        "future": 5,
+        "infinitive": 1
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 3,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 0,
+        "opisowe": 4
+      },
+      "adverbs": {
+        "temporalne": [
+          "nigdy",
+          "zawsze"
+        ],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "nigdy",
+            "count": 2
+          },
+          {
+            "word": "najpierw",
+            "count": 1
+          },
+          {
+            "word": "dalej",
+            "count": 1
+          },
+          {
+            "word": "zawsze",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 0,
+        "ty": 0,
+        "on_ona": 0,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 7,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 2,
+        "nigdzie": 0,
+        "zaden": 2,
+        "total": 11,
+        "percentSentences": 1.83
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 200,
+        "consonants": 252,
+        "ratio": 0.79
+      },
+      "consonantClusters": {
+        "count": 8,
+        "top": [
+          {
+            "cluster": "czn",
+            "count": 1
+          },
+          {
+            "cluster": "jśc",
+            "count": 1
+          },
+          {
+            "cluster": "zkrw",
+            "count": 1
+          },
+          {
+            "cluster": "wsp",
+            "count": 1
+          },
+          {
+            "cluster": "wsz",
+            "count": 1
+          },
+          {
+            "cluster": "szcz",
+            "count": 1
+          },
+          {
+            "cluster": "wzl",
+            "count": 1
+          },
+          {
+            "cluster": "rnk",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 13,
+        "syczace": 51,
+        "nosowe": 53,
+        "plynne": 31
+      },
+      "rhymes": {
+        "exact": 1,
+        "approximate": 0,
+        "internal": 1,
+        "assonance": 1,
+        "alliteration": 0
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 17,
+        "median": 14,
+        "min": 9,
+        "max": 34,
+        "distribution": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 7.6,
+        "meanSyllables": 14.9,
+        "distribution": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          2,
+          2,
+          1,
+          4,
+          4,
+          1
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 6,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 0,
+        "noSubject": 0,
+        "noPredicate": 0,
+        "percent": 0
+      },
+      "enjambement": {
+        "count": 5,
+        "percent": 0.38,
+        "positions": [
+          3,
+          7,
+          11,
+          12,
+          13
+        ]
+      },
+      "wordOrder": {
+        "svo": 5,
+        "inversions": 1,
+        "other": 0,
+        "deviationPercent": 0.17
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 4,
+        "śmierć": 2,
+        "erotyka": 1,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": [
+        "życie/śmierć"
+      ]
+    },
+    "tempo": {
+      "syllables": 209,
+      "estimatedSeconds": 70,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 33,
+      "VERB": 12,
+      "ADJ": 4,
+      "ADV": 5,
+      "PRON": 7,
+      "ADP": 10,
+      "CCONJ": 6,
+      "SCONJ": 2,
+      "INTJ": 0,
+      "PART": 12,
+      "DET": 7,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.324,
+      "VERB": 0.118,
+      "ADJ": 0.039,
+      "ADV": 0.049,
+      "PRON": 0.069,
+      "ADP": 0.098,
+      "CCONJ": 0.059,
+      "SCONJ": 0.02,
+      "INTJ": 0,
+      "PART": 0.118,
+      "DET": 0.069,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 5,
+      "abstract": 3,
+      "ratio": 0.62
+    },
+    "verbTenses": {
+      "present": 6,
+      "past": 3,
+      "future": 5,
+      "infinitive": 1
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 3,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 0,
+      "opisowe": 4
+    },
+    "adverbs": {
+      "temporalne": [
+        "nigdy",
+        "zawsze"
+      ],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "nigdy",
+          "count": 2
+        },
+        {
+          "word": "najpierw",
+          "count": 1
+        },
+        {
+          "word": "dalej",
+          "count": 1
+        },
+        {
+          "word": "zawsze",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 0,
+      "ty": 0,
+      "on_ona": 0,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 7,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 2,
+      "nigdzie": 0,
+      "zaden": 2,
+      "total": 11,
+      "percentSentences": 1.83
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 17,
+      "median": 14,
+      "min": 9,
+      "max": 34,
+      "distribution": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 7.6,
+      "meanSyllables": 14.9,
+      "distribution": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        2,
+        1,
+        4,
+        4,
+        1
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 6,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 0,
+      "noSubject": 0,
+      "noPredicate": 0,
+      "percent": 0
+    },
+    "enjambement": {
+      "count": 5,
+      "percent": 0.38,
+      "positions": [
+        3,
+        7,
+        11,
+        12,
+        13
+      ]
+    },
+    "wordOrder": {
+      "svo": 5,
+      "inversions": 1,
+      "other": 0,
+      "deviationPercent": 0.17
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 200,
+      "consonants": 252,
+      "ratio": 0.79
+    },
+    "consonantClusters": {
+      "count": 8,
+      "top": [
+        {
+          "cluster": "czn",
+          "count": 1
+        },
+        {
+          "cluster": "jśc",
+          "count": 1
+        },
+        {
+          "cluster": "zkrw",
+          "count": 1
+        },
+        {
+          "cluster": "wsp",
+          "count": 1
+        },
+        {
+          "cluster": "wsz",
+          "count": 1
+        },
+        {
+          "cluster": "szcz",
+          "count": 1
+        },
+        {
+          "cluster": "wzl",
+          "count": 1
+        },
+        {
+          "cluster": "rnk",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 13,
+      "syczace": 51,
+      "nosowe": 53,
+      "plynne": 31
+    },
+    "rhymes": {
+      "exact": 1,
+      "approximate": 0,
+      "internal": 1,
+      "assonance": 1,
+      "alliteration": 0
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        14
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 209,
+      "estimatedSeconds": 70,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "regularny",
+      "regularityScore": 0.86
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Biblia",
+          "reference": "motywy rajskie - owoc, ziarnko jako symbol śmierci i zmartwychwstania",
+          "evidence": "głód, co już nie zazna żadnego owocu / i w dłoni ziarnko, co jest mogiłą owocu"
+        },
+        {
+          "source": "Rimbaud",
+          "reference": "negacja rzeczywistości, niemożność",
+          "evidence": "róża, co różą żadnego nie jest ogrodu"
+        },
+        {
+          "source": "Baudelaire",
+          "reference": "estetyka brzydoty, choroba jako metafora",
+          "evidence": "bezkrwista jak leukemia, jest krew"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.8,
+        "baudelaire": 0.7,
+        "bursa": 0.3,
+        "stachura": 0.4,
+        "grochowiak": 0.5,
+        "bialoszewski": 0.2,
+        "rozewicz": 0.6
+      }
+    },
+    "space": {
+      "type": "nieokreslona",
+      "evidence": "brak konkretnych lokalizacji, przestrzeń metafizyczna negacji - 'ogród' bez wejścia, 'niebo' bez ziemi",
+      "openClosedRatio": 0.3
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "nieokreslona",
+      "evidence": "czas zawieszony w metafizycznej negacji, jedynie 'dzień' wspomniany w kontekście 'pocałunku dnia'"
+    },
+    "motion": {
+      "movement": 4,
+      "stillness": 6,
+      "dynamism": 0.4,
+      "evidence": "ruch ograniczony - 'spadnie', 'wzlecieć', ale dominuje statyczność negacji i niemożności"
+    },
+    "imageryDensity": {
+      "metaphors": 8,
+      "comparisons": 2,
+      "personifications": 4,
+      "hyperboles": 3,
+      "per100words": 12.1
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.8,
+      "creationLevel": 0.9,
+      "ironicDistance": 0.2,
+      "autobiographicSignals": [
+        "matka zmarła",
+        "głód egzystencjalny",
+        "niemożność spełnienia"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "melancholia",
+      "secondary": "rezygnacja",
+      "intensity": 0.8
+    },
+    "subjectPresence": {
+      "type": "ukryte",
+      "evidence": "podmiot obecny w obserwacji i opisie, ale nie wypowiada się bezpośrednio, ujawnia się przez metaforyczny opis egzystencjalnego stanu"
+    },
+    "addressee": {
+      "type": "nikt",
+      "evidence": "wiersz ma charakter filozoficznej kontemplacji, brak bezpośredniego zwrotu do konkretnego adresata"
+    },
+    "metaphors": [
+      {
+        "source": "róża",
+        "target": "piękno/życie",
+        "example": "róża, co różą żadnego nie jest ogrodu"
+      },
+      {
+        "source": "krew bezkrwista jak leukemia",
+        "target": "życie pozbawione siły",
+        "example": "bezkrwista jak leukemia, jest krew"
+      },
+      {
+        "source": "ćma matka zmarła",
+        "target": "śmierć/przemijanie",
+        "example": "Czasem o rzęsę zaczepi się ćma – matka zmarła"
+      },
+      {
+        "source": "ziarnko-mogiła",
+        "target": "potencjał zamieniony w śmierć",
+        "example": "w dłoni ziarnko, co jest mogiłą owocu"
+      }
+    ],
+    "temperature": {
+      "value": 0.2,
+      "label": "zimne - rezygnacja i bezruch egzystencjalny"
+    },
+    "senses": {
+      "wzrok": 4,
+      "sluch": 1,
+      "dotyk": 3,
+      "smak": 2,
+      "zapach": 0
+    },
+    "autodestruction": {
+      "level": 0.7,
+      "signals": [
+        "życie spóźnione na śmierć",
+        "niemożliwość spełnienia podstawowych funkcji życiowych",
+        "transformacja życia w śmierć",
+        "bezpłodność i jałowość egzystencji"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 1.08,
+    "dfaAlpha": 0.311,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -1.0397207708399165
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -0.9501103962122127
+      }
+    ],
+    "seriesLength": 14,
+    "series": [
+      8,
+      7,
+      5,
+      8,
+      9,
+      6,
+      6,
+      5,
+      6,
+      8,
+      9,
+      9,
+      8,
+      8
+    ]
+  }
+}

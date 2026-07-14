@@ -1,0 +1,931 @@
+{
+  "id": "damski-klub",
+  "title": "Damski klub",
+  "wordCount": 71,
+  "lineCount": 13,
+  "uniqueWords": 49,
+  "vocabularyRichness": 0.69,
+  "avgWordsPerLine": 5.46,
+  "wordsPerLineDistribution": [
+    4,
+    5,
+    7,
+    6,
+    6,
+    9,
+    6,
+    7,
+    4,
+    4,
+    5,
+    4,
+    4
+  ],
+  "wordFrequencies": [
+    [
+      "wokół",
+      3
+    ],
+    [
+      "świecę",
+      3
+    ],
+    [
+      "drapie",
+      3
+    ],
+    [
+      "chodzą",
+      2
+    ],
+    [
+      "zielonego",
+      2
+    ],
+    [
+      "drzewka",
+      2
+    ],
+    [
+      "choinki",
+      1
+    ],
+    [
+      "nago",
+      1
+    ],
+    [
+      "trzyma",
+      1
+    ],
+    [
+      "prawej",
+      1
+    ],
+    [
+      "ręce",
+      1
+    ],
+    [
+      "świeca",
+      1
+    ],
+    [
+      "nierówno",
+      1
+    ],
+    [
+      "spala",
+      1
+    ],
+    [
+      "lewą",
+      1
+    ],
+    [
+      "ręką",
+      1
+    ],
+    [
+      "każdą",
+      1
+    ],
+    [
+      "plecy",
+      1
+    ],
+    [
+      "krwi",
+      1
+    ],
+    [
+      "przykłada",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 0,
+    "period": 0,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 0,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 0,
+  "negationWords": [],
+  "pronounDistribution": {
+    "ja": 0,
+    "ty": 0,
+    "on_ona": 0,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 2,
+    "smierc": 1,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [
+    [
+      "a każda",
+      2
+    ],
+    [
+      "potem",
+      2
+    ]
+  ],
+  "firstWord": "chodzą",
+  "lastWord": "wychodzą",
+  "avgWordLength": 5.07,
+  "wordLengthDistribution": {
+    "6-7": 19,
+    "4-5": 23,
+    "8-9": 10,
+    "1-3": 17,
+    "10+": 2
+  },
+  "bigrams": [
+    [
+      "wokół zielonego",
+      2
+    ],
+    [
+      "zielonego drzewka",
+      2
+    ],
+    [
+      "chodzą wokół",
+      1
+    ],
+    [
+      "drzewka wokół",
+      1
+    ],
+    [
+      "wokół choinki",
+      1
+    ],
+    [
+      "choinki chodzą",
+      1
+    ],
+    [
+      "chodzą całkiem",
+      1
+    ],
+    [
+      "całkiem nago",
+      1
+    ],
+    [
+      "każda trzyma",
+      1
+    ],
+    [
+      "prawej ręce",
+      1
+    ],
+    [
+      "ręce świecę",
+      1
+    ]
+  ],
+  "poemWords": [
+    "chodzą",
+    "wokół",
+    "zielonego",
+    "drzewka",
+    "choinki",
+    "nago",
+    "trzyma",
+    "prawej",
+    "ręce",
+    "świecę",
+    "świeca",
+    "nierówno",
+    "spala",
+    "lewą",
+    "ręką",
+    "każdą",
+    "drapie",
+    "plecy",
+    "krwi",
+    "przykłada",
+    "krwawiącej",
+    "rany",
+    "porzuca",
+    "drzewkiem",
+    "kuca",
+    "kucają",
+    "rodzą",
+    "potworki",
+    "tureckim",
+    "sposobem",
+    "zapomniały",
+    "były",
+    "robiły",
+    "ubierają",
+    "wychodzą"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 17,
+        "VERB": 17,
+        "ADJ": 6,
+        "ADV": 8,
+        "PRON": 5,
+        "ADP": 8,
+        "CCONJ": 6,
+        "SCONJ": 0,
+        "INTJ": 0,
+        "PART": 2,
+        "DET": 4,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.233,
+        "VERB": 0.233,
+        "ADJ": 0.082,
+        "ADV": 0.11,
+        "PRON": 0.068,
+        "ADP": 0.11,
+        "CCONJ": 0.082,
+        "SCONJ": 0,
+        "INTJ": 0,
+        "PART": 0.027,
+        "DET": 0.055,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 5,
+        "abstract": 0,
+        "ratio": 1
+      },
+      "verbTenses": {
+        "present": 13,
+        "future": 1,
+        "past": 3
+      },
+      "verbSemantics": {
+        "ruch": 1,
+        "percepcja": 0,
+        "stan": 1,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 2
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 0,
+        "opisowe": 6
+      },
+      "adverbs": {
+        "temporalne": [
+          "potem"
+        ],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "potem",
+            "count": 3
+          },
+          {
+            "word": "całkiem",
+            "count": 2
+          },
+          {
+            "word": "nago",
+            "count": 1
+          },
+          {
+            "word": "nierówno",
+            "count": 1
+          },
+          {
+            "word": "gdzie",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 0,
+        "ty": 0,
+        "on_ona": 2,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 0,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 0,
+        "percentSentences": 0
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 162,
+        "consonants": 208,
+        "ratio": 0.78
+      },
+      "consonantClusters": {
+        "count": 9,
+        "top": [
+          {
+            "cluster": "drz",
+            "count": 3
+          },
+          {
+            "cluster": "krw",
+            "count": 2
+          },
+          {
+            "cluster": "msk",
+            "count": 1
+          },
+          {
+            "cluster": "trz",
+            "count": 1
+          },
+          {
+            "cluster": "prz",
+            "count": 1
+          },
+          {
+            "cluster": "gdz",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 11,
+        "syczace": 31,
+        "nosowe": 38,
+        "plynne": 36
+      },
+      "rhymes": {
+        "exact": 1,
+        "approximate": 1,
+        "internal": 1,
+        "assonance": 1,
+        "alliteration": 1
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 18.2,
+        "median": 8,
+        "min": 4,
+        "max": 52,
+        "distribution": [
+          0,
+          0,
+          0,
+          0,
+          2,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 5.2,
+        "meanSyllables": 11.7,
+        "distribution": [
+          0,
+          0,
+          1,
+          0,
+          5,
+          2,
+          3,
+          2,
+          0,
+          1
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 4,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 0,
+        "noSubject": 2,
+        "noPredicate": 0,
+        "percent": 0.5
+      },
+      "enjambement": {
+        "count": 4,
+        "percent": 0.31,
+        "positions": [
+          3,
+          4,
+          5,
+          11
+        ]
+      },
+      "wordOrder": {
+        "svo": 1,
+        "inversions": 1,
+        "other": 2,
+        "deviationPercent": 0.75
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 3,
+        "śmierć": 1,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 164,
+      "estimatedSeconds": 55,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 17,
+      "VERB": 17,
+      "ADJ": 6,
+      "ADV": 8,
+      "PRON": 5,
+      "ADP": 8,
+      "CCONJ": 6,
+      "SCONJ": 0,
+      "INTJ": 0,
+      "PART": 2,
+      "DET": 4,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.233,
+      "VERB": 0.233,
+      "ADJ": 0.082,
+      "ADV": 0.11,
+      "PRON": 0.068,
+      "ADP": 0.11,
+      "CCONJ": 0.082,
+      "SCONJ": 0,
+      "INTJ": 0,
+      "PART": 0.027,
+      "DET": 0.055,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 5,
+      "abstract": 0,
+      "ratio": 1
+    },
+    "verbTenses": {
+      "present": 13,
+      "future": 1,
+      "past": 3
+    },
+    "verbSemantics": {
+      "ruch": 1,
+      "percepcja": 0,
+      "stan": 1,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 2
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 0,
+      "opisowe": 6
+    },
+    "adverbs": {
+      "temporalne": [
+        "potem"
+      ],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "potem",
+          "count": 3
+        },
+        {
+          "word": "całkiem",
+          "count": 2
+        },
+        {
+          "word": "nago",
+          "count": 1
+        },
+        {
+          "word": "nierówno",
+          "count": 1
+        },
+        {
+          "word": "gdzie",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 0,
+      "ty": 0,
+      "on_ona": 2,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 0,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 0,
+      "percentSentences": 0
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 18.2,
+      "median": 8,
+      "min": 4,
+      "max": 52,
+      "distribution": [
+        0,
+        0,
+        0,
+        0,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 5.2,
+      "meanSyllables": 11.7,
+      "distribution": [
+        0,
+        0,
+        1,
+        0,
+        5,
+        2,
+        3,
+        2,
+        0,
+        1
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 4,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 0,
+      "noSubject": 2,
+      "noPredicate": 0,
+      "percent": 0.5
+    },
+    "enjambement": {
+      "count": 4,
+      "percent": 0.31,
+      "positions": [
+        3,
+        4,
+        5,
+        11
+      ]
+    },
+    "wordOrder": {
+      "svo": 1,
+      "inversions": 1,
+      "other": 2,
+      "deviationPercent": 0.75
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 162,
+      "consonants": 208,
+      "ratio": 0.78
+    },
+    "consonantClusters": {
+      "count": 9,
+      "top": [
+        {
+          "cluster": "drz",
+          "count": 3
+        },
+        {
+          "cluster": "krw",
+          "count": 2
+        },
+        {
+          "cluster": "msk",
+          "count": 1
+        },
+        {
+          "cluster": "trz",
+          "count": 1
+        },
+        {
+          "cluster": "prz",
+          "count": 1
+        },
+        {
+          "cluster": "gdz",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 11,
+      "syczace": 31,
+      "nosowe": 38,
+      "plynne": 36
+    },
+    "rhymes": {
+      "exact": 1,
+      "approximate": 1,
+      "internal": 1,
+      "assonance": 1,
+      "alliteration": 1
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        14
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 164,
+      "estimatedSeconds": 55,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "regularny",
+      "regularityScore": 0.73
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Biblia",
+          "reference": "symbolika świecy i światła",
+          "evidence": "A każda trzyma w prawej ręce świecę"
+        },
+        {
+          "source": "mitologia",
+          "reference": "rytuał pogański",
+          "evidence": "Chodzą wokół zielonego drzewka / Wokół choinki chodzą całkiem nago"
+        },
+        {
+          "source": "Baudelaire",
+          "reference": "estetyka zła i perversji",
+          "evidence": "Drapie ją w plecy aż do krwi ją drapie / Potem przykłada świecę do krwawiącej rany"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.3,
+        "baudelaire": 0.8,
+        "bursa": 0.2,
+        "stachura": 0.1,
+        "grochowiak": 0.4,
+        "bialoszewski": 0.2,
+        "rozewicz": 0.3
+      }
+    },
+    "space": {
+      "type": "zamknieta",
+      "evidence": "działanie koncentruje się wokół jednego punktu - zielonego drzewka/choinki",
+      "openClosedRatio": 0.2
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "zima",
+      "evidence": "choinka jako symbol świąt Bożego Narodzenia i zimy"
+    },
+    "motion": {
+      "movement": 8,
+      "stillness": 3,
+      "dynamism": 0.7,
+      "evidence": "Chodzą wokół / drapie / przykłada świecę / porzuca / kuca / Rodzą / Ubierają się i wychodzą"
+    },
+    "imageryDensity": {
+      "metaphors": 2,
+      "comparisons": 0,
+      "personifications": 1,
+      "hyperboles": 1,
+      "per100words": 5.7
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.3,
+      "creationLevel": 0.8,
+      "ironicDistance": 0.6,
+      "autobiographicSignals": [
+        "data dokładna 30 IX 1965"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "obrzydzenie",
+      "secondary": "gniew",
+      "intensity": 0.9
+    },
+    "subjectPresence": {
+      "type": "ukryte",
+      "evidence": "Podmiot liryczny obserwuje i relacjonuje scenę jako voyeur, nie ujawniając się bezpośrednio"
+    },
+    "addressee": {
+      "type": "czytelnik",
+      "evidence": "Wiersz ma charakter opowieści skierowanej do odbiorcy, bez bezpośrednich zwrotów"
+    },
+    "metaphors": [
+      {
+        "source": "rytuał religijny",
+        "target": "czynności kobiet",
+        "example": "Chodzą wokół zielonego drzewka / Wokół choinki chodzą całkiem nago"
+      },
+      {
+        "source": "poród zwierzęcy",
+        "target": "rodzenie",
+        "example": "Rodzą potworki tureckim sposobem"
+      }
+    ],
+    "temperature": {
+      "value": 0.8,
+      "label": "gorące - agresja i przemoc fizyczna"
+    },
+    "senses": {
+      "wzrok": 5,
+      "sluch": 0,
+      "dotyk": 4,
+      "smak": 0,
+      "zapach": 1
+    },
+    "autodestruction": {
+      "level": 0.3,
+      "signals": [
+        "wizja destrukcyjnej kobiecości",
+        "obsesyjne obrazy przemocy"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 1.114,
+    "dfaAlpha": -0.668,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -0.6342556627317537
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -0.8264826272273567
+      }
+    ],
+    "seriesLength": 13,
+    "series": [
+      4,
+      5,
+      7,
+      6,
+      6,
+      9,
+      6,
+      7,
+      4,
+      4,
+      5,
+      4,
+      4
+    ]
+  }
+}

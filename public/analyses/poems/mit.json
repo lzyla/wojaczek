@@ -1,0 +1,1108 @@
+{
+  "id": "mit",
+  "title": "Mit",
+  "wordCount": 105,
+  "lineCount": 20,
+  "uniqueWords": 95,
+  "vocabularyRichness": 0.905,
+  "avgWordsPerLine": 5.25,
+  "wordsPerLineDistribution": [
+    8,
+    6,
+    3,
+    6,
+    6,
+    6,
+    3,
+    3,
+    7,
+    7,
+    3,
+    4,
+    7,
+    9,
+    3,
+    4,
+    8,
+    7,
+    2,
+    3
+  ],
+  "wordFrequencies": [
+    [
+      "sen",
+      2
+    ],
+    [
+      "doliny",
+      2
+    ],
+    [
+      "nieba",
+      2
+    ],
+    [
+      "powszednią",
+      1
+    ],
+    [
+      "pisownię",
+      1
+    ],
+    [
+      "wniesie",
+      1
+    ],
+    [
+      "groźną",
+      1
+    ],
+    [
+      "odświętność",
+      1
+    ],
+    [
+      "oczy",
+      1
+    ],
+    [
+      "wewnętrzne",
+      1
+    ],
+    [
+      "bielmem",
+      1
+    ],
+    [
+      "krwi",
+      1
+    ],
+    [
+      "zwykle",
+      1
+    ],
+    [
+      "zapatrzone",
+      1
+    ],
+    [
+      "patrzą",
+      1
+    ],
+    [
+      "snu",
+      1
+    ],
+    [
+      "stronę",
+      1
+    ],
+    [
+      "widzą",
+      1
+    ],
+    [
+      "najdalej",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 11,
+    "period": 2,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 3,
+    "colon": 2,
+    "semicolon": 3
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 0,
+  "negationWords": [],
+  "pronounDistribution": {
+    "ja": 0,
+    "ty": 0,
+    "on_ona": 1,
+    "my": 3,
+    "wy": 0,
+    "oni": 1
+  },
+  "semanticFields": {
+    "cialo": 1,
+    "smierc": 0,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 2,
+    "bol": 0
+  },
+  "anaphors": [
+    [
+      "doliny",
+      2
+    ]
+  ],
+  "firstWord": "by",
+  "lastWord": "słowa",
+  "avgWordLength": 5.29,
+  "wordLengthDistribution": {
+    "1-3": 26,
+    "4-5": 30,
+    "10+": 8,
+    "8-9": 8,
+    "6-7": 33
+  },
+  "bigrams": [
+    [
+      "powszednią pisownię",
+      1
+    ],
+    [
+      "pisownię nam",
+      1
+    ],
+    [
+      "nam wniesie",
+      1
+    ],
+    [
+      "wniesie groźną",
+      1
+    ],
+    [
+      "groźną odświętność",
+      1
+    ],
+    [
+      "odświętność oczy",
+      1
+    ],
+    [
+      "oczy wewnętrzne",
+      1
+    ],
+    [
+      "bielmem krwi",
+      1
+    ],
+    [
+      "krwi zwykle",
+      1
+    ]
+  ],
+  "poemWords": [
+    "powszednią",
+    "pisownię",
+    "wniesie",
+    "groźną",
+    "odświętność",
+    "oczy",
+    "wewnętrzne",
+    "bielmem",
+    "krwi",
+    "zwykle",
+    "zapatrzone",
+    "siebie",
+    "patrzą",
+    "snu",
+    "stronę",
+    "widzą",
+    "sen",
+    "najdalej",
+    "wychylony",
+    "poza",
+    "niewidomą",
+    "domeną",
+    "śmierci",
+    "wpełza",
+    "zboża",
+    "płomiennych",
+    "kultur",
+    "jawnie",
+    "wschodzących",
+    "polanie",
+    "doliny",
+    "muszli",
+    "szumi",
+    "starych",
+    "mórz",
+    "wyparowały",
+    "łyk",
+    "tchu",
+    "płuc",
+    "ruchomą",
+    "wodę",
+    "oddech",
+    "środku",
+    "gór",
+    "nieba",
+    "wieczne",
+    "śniegi",
+    "chmur",
+    "ściekają",
+    "niosąc",
+    "piach",
+    "niemy",
+    "skarg",
+    "słanych",
+    "posłów",
+    "samych",
+    "wiernych",
+    "zazdrosny",
+    "naiwny",
+    "głód",
+    "dymi",
+    "kłosów",
+    "ognia",
+    "chcieć",
+    "każemy",
+    "stanie",
+    "nieznajomą",
+    "osobą",
+    "rodzącego",
+    "słowa"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 39,
+        "VERB": 12,
+        "ADJ": 18,
+        "ADV": 8,
+        "PRON": 8,
+        "ADP": 14,
+        "CCONJ": 0,
+        "SCONJ": 1,
+        "INTJ": 0,
+        "PART": 2,
+        "DET": 3,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.368,
+        "VERB": 0.113,
+        "ADJ": 0.17,
+        "ADV": 0.075,
+        "PRON": 0.075,
+        "ADP": 0.132,
+        "CCONJ": 0,
+        "SCONJ": 0.009,
+        "INTJ": 0,
+        "PART": 0.019,
+        "DET": 0.028,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 2,
+        "abstract": 4,
+        "ratio": 0.33
+      },
+      "verbTenses": {
+        "past": 2,
+        "future": 2,
+        "present": 7,
+        "infinitive": 1
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 1,
+        "stan": 2,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 0,
+        "opisowe": 18
+      },
+      "adverbs": {
+        "temporalne": [
+          "wciąż"
+        ],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "gdzie",
+            "count": 2
+          },
+          {
+            "word": "zwykle",
+            "count": 1
+          },
+          {
+            "word": "najdalej",
+            "count": 1
+          },
+          {
+            "word": "jawnie",
+            "count": 1
+          },
+          {
+            "word": "wciąż",
+            "count": 1
+          },
+          {
+            "word": "kiedy",
+            "count": 1
+          },
+          {
+            "word": "bardzo",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 0,
+        "ty": 0,
+        "on_ona": 0,
+        "my": 2,
+        "wy": 0,
+        "oni": 1
+      },
+      "negations": {
+        "nie": 0,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 0,
+        "percentSentences": 0
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 228,
+        "consonants": 330,
+        "ratio": 0.69
+      },
+      "consonantClusters": {
+        "count": 18,
+        "top": [
+          {
+            "cluster": "trz",
+            "count": 2
+          },
+          {
+            "cluster": "gdz",
+            "count": 2
+          },
+          {
+            "cluster": "wsz",
+            "count": 1
+          },
+          {
+            "cluster": "dśw",
+            "count": 1
+          },
+          {
+            "cluster": "trzn",
+            "count": 1
+          },
+          {
+            "cluster": "krw",
+            "count": 1
+          },
+          {
+            "cluster": "str",
+            "count": 1
+          },
+          {
+            "cluster": "wsch",
+            "count": 1
+          },
+          {
+            "cluster": "szl",
+            "count": 1
+          },
+          {
+            "cluster": "tch",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 16,
+        "syczace": 68,
+        "nosowe": 82,
+        "plynne": 43
+      },
+      "rhymes": {
+        "exact": 1,
+        "approximate": 0,
+        "internal": 0,
+        "assonance": 1,
+        "alliteration": 1
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 53,
+        "median": 53,
+        "min": 24,
+        "max": 82,
+        "distribution": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 5.2,
+        "meanSyllables": 11.3,
+        "distribution": [
+          0,
+          1,
+          1,
+          4,
+          4,
+          0,
+          4,
+          3,
+          3,
+          1
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 2,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 0,
+        "noSubject": 0,
+        "noPredicate": 0,
+        "percent": 0
+      },
+      "enjambement": {
+        "count": 14,
+        "percent": 0.7,
+        "positions": [
+          2,
+          3,
+          4,
+          6,
+          7,
+          8,
+          9,
+          11,
+          13,
+          14,
+          16,
+          18,
+          19,
+          20
+        ]
+      },
+      "wordOrder": {
+        "svo": 1,
+        "inversions": 1,
+        "other": 0,
+        "deviationPercent": 0.5
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 1,
+        "śmierć": 1,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 1,
+        "noc": 2,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 238,
+      "estimatedSeconds": 79,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 39,
+      "VERB": 12,
+      "ADJ": 18,
+      "ADV": 8,
+      "PRON": 8,
+      "ADP": 14,
+      "CCONJ": 0,
+      "SCONJ": 1,
+      "INTJ": 0,
+      "PART": 2,
+      "DET": 3,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.368,
+      "VERB": 0.113,
+      "ADJ": 0.17,
+      "ADV": 0.075,
+      "PRON": 0.075,
+      "ADP": 0.132,
+      "CCONJ": 0,
+      "SCONJ": 0.009,
+      "INTJ": 0,
+      "PART": 0.019,
+      "DET": 0.028,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 2,
+      "abstract": 4,
+      "ratio": 0.33
+    },
+    "verbTenses": {
+      "past": 2,
+      "future": 2,
+      "present": 7,
+      "infinitive": 1
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 1,
+      "stan": 2,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 0,
+      "opisowe": 18
+    },
+    "adverbs": {
+      "temporalne": [
+        "wciąż"
+      ],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "gdzie",
+          "count": 2
+        },
+        {
+          "word": "zwykle",
+          "count": 1
+        },
+        {
+          "word": "najdalej",
+          "count": 1
+        },
+        {
+          "word": "jawnie",
+          "count": 1
+        },
+        {
+          "word": "wciąż",
+          "count": 1
+        },
+        {
+          "word": "kiedy",
+          "count": 1
+        },
+        {
+          "word": "bardzo",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 0,
+      "ty": 0,
+      "on_ona": 0,
+      "my": 2,
+      "wy": 0,
+      "oni": 1
+    },
+    "negations": {
+      "nie": 0,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 0,
+      "percentSentences": 0
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 53,
+      "median": 53,
+      "min": 24,
+      "max": 82,
+      "distribution": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 5.2,
+      "meanSyllables": 11.3,
+      "distribution": [
+        0,
+        1,
+        1,
+        4,
+        4,
+        0,
+        4,
+        3,
+        3,
+        1
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 2,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 0,
+      "noSubject": 0,
+      "noPredicate": 0,
+      "percent": 0
+    },
+    "enjambement": {
+      "count": 14,
+      "percent": 0.7,
+      "positions": [
+        2,
+        3,
+        4,
+        6,
+        7,
+        8,
+        9,
+        11,
+        13,
+        14,
+        16,
+        18,
+        19,
+        20
+      ]
+    },
+    "wordOrder": {
+      "svo": 1,
+      "inversions": 1,
+      "other": 0,
+      "deviationPercent": 0.5
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 228,
+      "consonants": 330,
+      "ratio": 0.69
+    },
+    "consonantClusters": {
+      "count": 18,
+      "top": [
+        {
+          "cluster": "trz",
+          "count": 2
+        },
+        {
+          "cluster": "gdz",
+          "count": 2
+        },
+        {
+          "cluster": "wsz",
+          "count": 1
+        },
+        {
+          "cluster": "dśw",
+          "count": 1
+        },
+        {
+          "cluster": "trzn",
+          "count": 1
+        },
+        {
+          "cluster": "krw",
+          "count": 1
+        },
+        {
+          "cluster": "str",
+          "count": 1
+        },
+        {
+          "cluster": "wsch",
+          "count": 1
+        },
+        {
+          "cluster": "szl",
+          "count": 1
+        },
+        {
+          "cluster": "tch",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 16,
+      "syczace": 68,
+      "nosowe": 82,
+      "plynne": 43
+    },
+    "rhymes": {
+      "exact": 1,
+      "approximate": 0,
+      "internal": 0,
+      "assonance": 1,
+      "alliteration": 1
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        21
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 238,
+      "estimatedSeconds": 79,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "polregularny",
+      "regularityScore": 0.59
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Biblia",
+          "reference": "wizja pól pszenicznych, dolina w środku gór",
+          "evidence": "zboża płomiennych kultur, doliny w środku gór nieba"
+        },
+        {
+          "source": "mitologia",
+          "reference": "motyw snu jako wizji proroczej",
+          "evidence": "oczy wewnętrzne patrzą w snu stronę, widzą sen najdalej wychylony"
+        },
+        {
+          "source": "Leśmian",
+          "reference": "metamorfozy natury i słowa",
+          "evidence": "nieznajomą osobą rodzącego się słowa"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.8,
+        "baudelaire": 0.3,
+        "bursa": 0.1,
+        "stachura": 0.2,
+        "grochowiak": 0.1,
+        "bialoszewski": 0.1,
+        "rozewicz": 0.1
+      }
+    },
+    "space": {
+      "type": "otwarta",
+      "evidence": "doliny, polanie, góry nieba, nieskończone przestrzenie kosmiczne",
+      "openClosedRatio": 0.9
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "nieokreslona",
+      "evidence": "przestrzeń oniryczna, wieczne śniegi chmur, ponadczasowość wizji"
+    },
+    "motion": {
+      "movement": 8,
+      "stillness": 2,
+      "dynamism": 0.8,
+      "evidence": "wpełza, wschodzących, ściekają, niosąc, dymi, rodzącego się"
+    },
+    "imageryDensity": {
+      "metaphors": 12,
+      "comparisons": 3,
+      "personifications": 4,
+      "hyperboles": 2,
+      "per100words": 19.1
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.3,
+      "creationLevel": 0.9,
+      "ironicDistance": 0.1,
+      "autobiographicSignals": [
+        "naszych płuc ruchomą wodę",
+        "każemy sobie"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "melancholia",
+      "secondary": "tęsknota",
+      "intensity": 0.7
+    },
+    "subjectPresence": {
+      "type": "ukryte",
+      "evidence": "Podmiot ukryty za zbiorowym 'nam', 'naszych', wyrażający się przez metafizyczne wizje i refleksje"
+    },
+    "addressee": {
+      "type": "czytelnik",
+      "evidence": "Zwrot do odbiorcy przez formy zbiorowe 'nam', 'naszych', 'sobie', włączające w doświadczenie"
+    },
+    "metaphors": [
+      {
+        "source": "sen",
+        "target": "wizja transcendentna",
+        "example": "ten sen najdalej wychylony: poza niewidomą domeną śmierci"
+      },
+      {
+        "source": "dolina-muszla",
+        "target": "przestrzeń pamięci",
+        "example": "doliny (muszli, gdzie wciąż szumi starych mórz)"
+      },
+      {
+        "source": "kłosy ognia",
+        "target": "twórczość poetycka",
+        "example": "sen dymi z kłosów ognia"
+      }
+    ],
+    "temperature": {
+      "value": 0.4,
+      "label": "chłodna kontemplacja z momentami płomiennej wizyjności"
+    },
+    "senses": {
+      "wzrok": 5,
+      "sluch": 3,
+      "dotyk": 2,
+      "smak": 1,
+      "zapach": 1
+    },
+    "autodestruction": {
+      "level": 0.3,
+      "signals": [
+        "zagubienie w metafizycznych wizjach",
+        "rezygnacja z bezpośredniego wyrazu"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 0.372,
+    "dfaAlpha": 1.059,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -0.5288951470739273
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": 0.02112844496347955
+      },
+      {
+        "logWin": 1.6094379124341003,
+        "logFluc": 0.3093668587222387
+      },
+      {
+        "logWin": 1.791759469228055,
+        "logFluc": 0.1423654370975751
+      }
+    ],
+    "seriesLength": 20,
+    "series": [
+      8,
+      6,
+      3,
+      6,
+      6,
+      6,
+      3,
+      3,
+      7,
+      7,
+      3,
+      4,
+      7,
+      9,
+      3,
+      4,
+      8,
+      7,
+      2,
+      3
+    ]
+  }
+}

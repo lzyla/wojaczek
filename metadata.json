@@ -1,0 +1,5 @@
+{
+  "name": "Wojaczek – Mapa Obecności",
+  "description": "A premium literary audio-guide PWA for Mikołów, following the footsteps of poet Rafał Wojaczek. Features AI-generated poetic reflections and visions.",
+  "requestFramePermissions": ["geolocation"]
+}

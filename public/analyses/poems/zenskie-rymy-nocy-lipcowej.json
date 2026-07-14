@@ -1,0 +1,949 @@
+{
+  "id": "zenskie-rymy-nocy-lipcowej",
+  "title": "Żeńskie rymy nocy lipcowej",
+  "wordCount": 113,
+  "lineCount": 16,
+  "uniqueWords": 89,
+  "vocabularyRichness": 0.788,
+  "avgWordsPerLine": 7.06,
+  "wordsPerLineDistribution": [
+    11,
+    17,
+    6,
+    6,
+    7,
+    5,
+    7,
+    7,
+    5,
+    7,
+    4,
+    5,
+    6,
+    6,
+    7,
+    7
+  ],
+  "wordFrequencies": [
+    [
+      "nocy",
+      5
+    ],
+    [
+      "melancholiipoemat",
+      4
+    ],
+    [
+      "rżeńskie",
+      4
+    ],
+    [
+      "lipcowejymy",
+      4
+    ],
+    [
+      "usta",
+      2
+    ],
+    [
+      "poemat",
+      1
+    ],
+    [
+      "melancholii",
+      1
+    ],
+    [
+      "żeńskie",
+      1
+    ],
+    [
+      "ymy",
+      1
+    ],
+    [
+      "lipcowej",
+      1
+    ],
+    [
+      "gwiazda",
+      1
+    ],
+    [
+      "litości",
+      1
+    ],
+    [
+      "pełna",
+      1
+    ],
+    [
+      "wisi",
+      1
+    ],
+    [
+      "ponad",
+      1
+    ],
+    [
+      "światem",
+      1
+    ],
+    [
+      "nalewa",
+      1
+    ],
+    [
+      "zimne",
+      1
+    ],
+    [
+      "mleko",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 0,
+    "period": 0,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 1,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 2,
+  "negationWords": [
+    "nie"
+  ],
+  "pronounDistribution": {
+    "ja": 5,
+    "ty": 1,
+    "on_ona": 1,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 3,
+    "smierc": 0,
+    "erotyka": 1,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [],
+  "firstWord": "poemat",
+  "lastWord": "poeci",
+  "avgWordLength": 6.39,
+  "wordLengthDistribution": {
+    "6-7": 22,
+    "4-5": 35,
+    "10+": 20,
+    "8-9": 16,
+    "1-3": 20
+  },
+  "bigrams": [
+    [
+      "mojej melancholiipoemat",
+      4
+    ],
+    [
+      "melancholiipoemat mojej",
+      4
+    ],
+    [
+      "nocy lipcowejymy",
+      4
+    ],
+    [
+      "lipcowejymy nocy",
+      4
+    ],
+    [
+      "rżeńskie rżeńskie",
+      3
+    ],
+    [
+      "poemat mojej",
+      1
+    ],
+    [
+      "mojej melancholii",
+      1
+    ],
+    [
+      "melancholii żeńskie",
+      1
+    ],
+    [
+      "żeńskie rżeńskie",
+      1
+    ],
+    [
+      "rżeńskie r",
+      1
+    ],
+    [
+      "r ymy",
+      1
+    ],
+    [
+      "ymy nocy",
+      1
+    ],
+    [
+      "nocy lipcowej",
+      1
+    ],
+    [
+      "lipcowej gwiazda",
+      1
+    ],
+    [
+      "gwiazda litości",
+      1
+    ]
+  ],
+  "poemWords": [
+    "poemat",
+    "melancholiipoemat",
+    "melancholii",
+    "żeńskie",
+    "rżeńskie",
+    "ymy",
+    "nocy",
+    "lipcowejymy",
+    "lipcowej",
+    "gwiazda",
+    "litości",
+    "pełna",
+    "wisi",
+    "ponad",
+    "światem",
+    "nalewa",
+    "zimne",
+    "mleko",
+    "spalonych",
+    "gardeł",
+    "młoda",
+    "matka",
+    "bluzkę",
+    "ciężką",
+    "pierś",
+    "schowała",
+    "swojemu",
+    "niemowlęciu",
+    "gwiazdę",
+    "ssać",
+    "pozwala",
+    "pijak",
+    "chwilą",
+    "niebu",
+    "wygrażał",
+    "zapomniawszy",
+    "usta",
+    "rozdziawia",
+    "policjant",
+    "przestał",
+    "myśleć",
+    "regulaminie",
+    "czapkę",
+    "trzymając",
+    "spadła",
+    "pije",
+    "spragnieni",
+    "redaktorzy",
+    "dalekopisach",
+    "przegapiają",
+    "ostatnie",
+    "wydarzenia",
+    "chinach",
+    "kochankowie",
+    "upajają",
+    "gwieździe",
+    "odwracają",
+    "wstydząc",
+    "samych",
+    "siebie",
+    "piją",
+    "którzy",
+    "żyją",
+    "pragnienia",
+    "poeci"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 31,
+        "VERB": 23,
+        "ADJ": 8,
+        "ADV": 0,
+        "PRON": 7,
+        "ADP": 10,
+        "CCONJ": 0,
+        "SCONJ": 2,
+        "INTJ": 0,
+        "PART": 9,
+        "DET": 9,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.272,
+        "VERB": 0.202,
+        "ADJ": 0.07,
+        "ADV": 0,
+        "PRON": 0.061,
+        "ADP": 0.088,
+        "CCONJ": 0,
+        "SCONJ": 0.018,
+        "INTJ": 0,
+        "PART": 0.079,
+        "DET": 0.079,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 3,
+        "abstract": 0,
+        "ratio": 1
+      },
+      "verbTenses": {
+        "infinitive": 3,
+        "present": 15,
+        "past": 5
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 1,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 3
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 1,
+        "oceniajace": 0,
+        "opisowe": 7
+      },
+      "adverbs": {
+        "temporalne": [],
+        "modalne": [],
+        "sposobu": [],
+        "top": []
+      },
+      "pronouns": {
+        "ja": 0,
+        "ty": 0,
+        "on_ona": 1,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 2,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 2,
+        "percentSentences": 0.33
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 312,
+        "consonants": 410,
+        "ratio": 0.76
+      },
+      "consonantClusters": {
+        "count": 24,
+        "top": [
+          {
+            "cluster": "nch",
+            "count": 5
+          },
+          {
+            "cluster": "ńsk",
+            "count": 5
+          },
+          {
+            "cluster": "prz",
+            "count": 5
+          },
+          {
+            "cluster": "sch",
+            "count": 1
+          },
+          {
+            "cluster": "chw",
+            "count": 1
+          },
+          {
+            "cluster": "wsz",
+            "count": 1
+          },
+          {
+            "cluster": "zdz",
+            "count": 1
+          },
+          {
+            "cluster": "trz",
+            "count": 1
+          },
+          {
+            "cluster": "spr",
+            "count": 1
+          },
+          {
+            "cluster": "źdz",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 25,
+        "syczace": 75,
+        "nosowe": 89,
+        "plynne": 59
+      },
+      "rhymes": {
+        "exact": 2,
+        "approximate": 0,
+        "internal": 11,
+        "assonance": 2,
+        "alliteration": 1
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 19,
+        "median": 14,
+        "min": 9,
+        "max": 38,
+        "distribution": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          2,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 6.7,
+        "meanSyllables": 18.6,
+        "distribution": [
+          0,
+          1,
+          0,
+          0,
+          1,
+          3,
+          4,
+          6,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 6,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 0,
+        "noSubject": 1,
+        "noPredicate": 0,
+        "percent": 0.17
+      },
+      "enjambement": {
+        "count": 0,
+        "percent": 0,
+        "positions": []
+      },
+      "wordOrder": {
+        "svo": 4,
+        "inversions": 1,
+        "other": 1,
+        "deviationPercent": 0.33
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 3,
+        "śmierć": 0,
+        "erotyka": 0,
+        "alkohol": 1,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 316,
+      "estimatedSeconds": 105,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 31,
+      "VERB": 23,
+      "ADJ": 8,
+      "ADV": 0,
+      "PRON": 7,
+      "ADP": 10,
+      "CCONJ": 0,
+      "SCONJ": 2,
+      "INTJ": 0,
+      "PART": 9,
+      "DET": 9,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.272,
+      "VERB": 0.202,
+      "ADJ": 0.07,
+      "ADV": 0,
+      "PRON": 0.061,
+      "ADP": 0.088,
+      "CCONJ": 0,
+      "SCONJ": 0.018,
+      "INTJ": 0,
+      "PART": 0.079,
+      "DET": 0.079,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 3,
+      "abstract": 0,
+      "ratio": 1
+    },
+    "verbTenses": {
+      "infinitive": 3,
+      "present": 15,
+      "past": 5
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 1,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 3
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 1,
+      "oceniajace": 0,
+      "opisowe": 7
+    },
+    "adverbs": {
+      "temporalne": [],
+      "modalne": [],
+      "sposobu": [],
+      "top": []
+    },
+    "pronouns": {
+      "ja": 0,
+      "ty": 0,
+      "on_ona": 1,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 2,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 2,
+      "percentSentences": 0.33
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 19,
+      "median": 14,
+      "min": 9,
+      "max": 38,
+      "distribution": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        2,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 6.7,
+      "meanSyllables": 18.6,
+      "distribution": [
+        0,
+        1,
+        0,
+        0,
+        1,
+        3,
+        4,
+        6,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 6,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 0,
+      "noSubject": 1,
+      "noPredicate": 0,
+      "percent": 0.17
+    },
+    "enjambement": {
+      "count": 0,
+      "percent": 0,
+      "positions": []
+    },
+    "wordOrder": {
+      "svo": 4,
+      "inversions": 1,
+      "other": 1,
+      "deviationPercent": 0.33
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 312,
+      "consonants": 410,
+      "ratio": 0.76
+    },
+    "consonantClusters": {
+      "count": 24,
+      "top": [
+        {
+          "cluster": "nch",
+          "count": 5
+        },
+        {
+          "cluster": "ńsk",
+          "count": 5
+        },
+        {
+          "cluster": "prz",
+          "count": 5
+        },
+        {
+          "cluster": "sch",
+          "count": 1
+        },
+        {
+          "cluster": "chw",
+          "count": 1
+        },
+        {
+          "cluster": "wsz",
+          "count": 1
+        },
+        {
+          "cluster": "zdz",
+          "count": 1
+        },
+        {
+          "cluster": "trz",
+          "count": 1
+        },
+        {
+          "cluster": "spr",
+          "count": 1
+        },
+        {
+          "cluster": "źdz",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 25,
+      "syczace": 75,
+      "nosowe": 89,
+      "plynne": 59
+    },
+    "rhymes": {
+      "exact": 2,
+      "approximate": 0,
+      "internal": 11,
+      "assonance": 2,
+      "alliteration": 1
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        17
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 316,
+      "estimatedSeconds": 105,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "wolny",
+      "regularityScore": 0.32
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Biblia",
+          "reference": "gwiazda jako symbol boskiego miłosierdzia",
+          "evidence": "Gwiazda litości pełna wisi ponad światem"
+        },
+        {
+          "source": "mitologia",
+          "reference": "Via Lactea - droga mleczna",
+          "evidence": "Nalewa zimne mleko do spalonych gardeł"
+        },
+        {
+          "source": "Baudelaire",
+          "reference": "poetyka miejska, obserwacja społeczeństwa",
+          "evidence": "policjant, redaktorzy, kochankowie jako typy społeczne"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.3,
+        "baudelaire": 0.7,
+        "bursa": 0.2,
+        "stachura": 0.4,
+        "grochowiak": 0.5,
+        "bialoszewski": 0.3,
+        "rozewicz": 0.4
+      }
+    },
+    "space": {
+      "type": "otwarta",
+      "evidence": "przestrzeń kosmiczna (gwiazda nad światem) obejmująca różne miejsca ziemskie",
+      "openClosedRatio": 0.8
+    },
+    "timeOfDay": {
+      "period": "noc",
+      "season": "lato",
+      "evidence": "tytuł: 'ŻEŃSKIE RYMY NOCY LIPCOWEJ'"
+    },
+    "motion": {
+      "movement": 3,
+      "stillness": 7,
+      "dynamism": 0.3,
+      "evidence": "przewaga statycznych obrazów - wisi, schowała, trzymając, dominuje bezruch"
+    },
+    "imageryDensity": {
+      "metaphors": 4,
+      "comparisons": 1,
+      "personifications": 3,
+      "hyperboles": 2,
+      "per100words": 12.5
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.6,
+      "creationLevel": 0.7,
+      "ironicDistance": 0.3,
+      "autobiographicSignals": [
+        "tytuł sugerujący osobisty charakter poematu",
+        "określenie 'mojej melancholii'",
+        "podmiot obserwujący świat"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "melancholia",
+      "secondary": "tęsknota",
+      "intensity": 0.8
+    },
+    "subjectPresence": {
+      "type": "ukryte",
+      "evidence": "Podmiot obecny w tytule 'mojej melancholii' i jako obserwator scen, ale nie występuje bezpośrednio w wierszu"
+    },
+    "addressee": {
+      "type": "czytelnik",
+      "evidence": "Wiersz ma charakter opisowy, przedstawia uniwersalną scenę, zwraca się do odbiorcy poprzez uogólnione obrazy"
+    },
+    "metaphors": [
+      {
+        "source": "gwiazda",
+        "target": "litość/pocieszenie",
+        "example": "Gwiazda litości pełna wisi ponad światem"
+      },
+      {
+        "source": "zimne mleko",
+        "target": "łagodzenie bólu",
+        "example": "Nalewa zimne mleko do spalonych gardeł"
+      },
+      {
+        "source": "ssanie gwiazdy",
+        "target": "poszukiwanie pociechy",
+        "example": "Swojemu niemowlęciu gwiazdę ssać pozwala"
+      }
+    ],
+    "temperature": {
+      "value": 0.3,
+      "label": "chłodne"
+    },
+    "senses": {
+      "wzrok": 5,
+      "sluch": 1,
+      "dotyk": 3,
+      "smak": 4,
+      "zapach": 0
+    },
+    "autodestruction": {
+      "level": 0.6,
+      "signals": [
+        "spalone gardła",
+        "pijak wygrażający się niebu",
+        "wstyd kochanków",
+        "poeci żyjący z pragnienia"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 0.824,
+    "dfaAlpha": 0.987,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -0.2214104473259667
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": 0.11886651421169317
+      },
+      {
+        "logWin": 1.6094379124341003,
+        "logFluc": 0.2775632449253892
+      }
+    ],
+    "seriesLength": 16,
+    "series": [
+      11,
+      17,
+      6,
+      6,
+      7,
+      5,
+      7,
+      7,
+      5,
+      7,
+      4,
+      5,
+      6,
+      6,
+      7,
+      7
+    ]
+  }
+}

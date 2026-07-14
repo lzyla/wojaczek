@@ -1,0 +1,837 @@
+{
+  "id": "piosenka-o-poecie",
+  "title": "Piosenka o poecie",
+  "wordCount": 87,
+  "lineCount": 15,
+  "uniqueWords": 68,
+  "vocabularyRichness": 0.782,
+  "avgWordsPerLine": 5.8,
+  "wordsPerLineDistribution": [
+    6,
+    5,
+    5,
+    5,
+    5,
+    7,
+    7,
+    9,
+    4,
+    6,
+    5,
+    6,
+    6,
+    5,
+    6
+  ],
+  "wordFrequencies": [
+    [
+      "bije",
+      5
+    ],
+    [
+      "poeta",
+      2
+    ],
+    [
+      "bity",
+      1
+    ],
+    [
+      "ciągle",
+      1
+    ],
+    [
+      "dziecko",
+      1
+    ],
+    [
+      "sztuki",
+      1
+    ],
+    [
+      "znający",
+      1
+    ],
+    [
+      "wcale",
+      1
+    ],
+    [
+      "pięść",
+      1
+    ],
+    [
+      "poematu",
+      1
+    ],
+    [
+      "zaciska",
+      1
+    ],
+    [
+      "kobietę",
+      1
+    ],
+    [
+      "podmywa",
+      1
+    ],
+    [
+      "wyciska",
+      1
+    ],
+    [
+      "wągry",
+      1
+    ],
+    [
+      "maluje",
+      1
+    ],
+    [
+      "swą",
+      1
+    ],
+    [
+      "żonę",
+      1
+    ],
+    [
+      "kobieta",
+      1
+    ],
+    [
+      "matkę",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 10,
+    "period": 8,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 0,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 1,
+  "negationWords": [
+    "nie"
+  ],
+  "pronounDistribution": {
+    "ja": 0,
+    "ty": 0,
+    "on_ona": 1,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 0,
+    "smierc": 0,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 1,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [
+    [
+      "poeta",
+      2
+    ],
+    [
+      "bije",
+      2
+    ]
+  ],
+  "firstWord": "ponieważ",
+  "lastWord": "być",
+  "avgWordLength": 4.53,
+  "wordLengthDistribution": {
+    "8-9": 6,
+    "4-5": 28,
+    "6-7": 21,
+    "1-3": 30,
+    "10+": 2
+  },
+  "bigrams": [
+    [
+      "ponieważ bity",
+      1
+    ],
+    [
+      "dziecko poeta",
+      1
+    ],
+    [
+      "poeta sztuki",
+      1
+    ],
+    [
+      "znający wcale",
+      1
+    ],
+    [
+      "wcale pięść",
+      1
+    ],
+    [
+      "pięść poematu",
+      1
+    ],
+    [
+      "poematu zaciska",
+      1
+    ]
+  ],
+  "poemWords": [
+    "bity",
+    "ciągle",
+    "dziecko",
+    "poeta",
+    "sztuki",
+    "znający",
+    "wcale",
+    "pięść",
+    "poematu",
+    "zaciska",
+    "bije",
+    "kobietę",
+    "podmywa",
+    "wyciska",
+    "wągry",
+    "maluje",
+    "swą",
+    "żonę",
+    "kobieta",
+    "matkę",
+    "ojca",
+    "władzę",
+    "opluwa",
+    "prędkimi",
+    "stychami",
+    "tłucze",
+    "szyby",
+    "rymem",
+    "kopniakiem",
+    "akcentu",
+    "główkę",
+    "embriona",
+    "macicy",
+    "przetrąca",
+    "matka",
+    "syna",
+    "pozna",
+    "idiotyzmie",
+    "którym",
+    "urodzi",
+    "rzeczy",
+    "robi",
+    "przestaje"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 26,
+        "VERB": 15,
+        "ADJ": 7,
+        "ADV": 4,
+        "PRON": 8,
+        "ADP": 8,
+        "CCONJ": 7,
+        "SCONJ": 6,
+        "INTJ": 0,
+        "PART": 3,
+        "DET": 3,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.286,
+        "VERB": 0.165,
+        "ADJ": 0.077,
+        "ADV": 0.044,
+        "PRON": 0.088,
+        "ADP": 0.088,
+        "CCONJ": 0.077,
+        "SCONJ": 0.066,
+        "INTJ": 0,
+        "PART": 0.033,
+        "DET": 0.033,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 0,
+        "abstract": 0,
+        "ratio": 0
+      },
+      "verbTenses": {
+        "present": 13,
+        "future": 2,
+        "infinitive": 1
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 3,
+        "destrukcja": 0,
+        "tworzenie": 1,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 0,
+        "opisowe": 7
+      },
+      "adverbs": {
+        "temporalne": [
+          "ciągle"
+        ],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "ciągle",
+            "count": 1
+          },
+          {
+            "word": "wcale",
+            "count": 1
+          },
+          {
+            "word": "tak",
+            "count": 1
+          },
+          {
+            "word": "wtedy",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 0,
+        "ty": 0,
+        "on_ona": 2,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 1,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 1,
+        "percentSentences": 0.1
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 189,
+        "consonants": 220,
+        "ratio": 0.86
+      },
+      "consonantClusters": {
+        "count": 4,
+        "top": [
+          {
+            "cluster": "prz",
+            "count": 2
+          },
+          {
+            "cluster": "szt",
+            "count": 1
+          },
+          {
+            "cluster": "mbr",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 14,
+        "syczace": 40,
+        "nosowe": 48,
+        "plynne": 20
+      },
+      "rhymes": {
+        "exact": 0,
+        "approximate": 1,
+        "internal": 0,
+        "assonance": 0,
+        "alliteration": 5
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 9.1,
+        "median": 8,
+        "min": 1,
+        "max": 23,
+        "distribution": [
+          0,
+          1,
+          0,
+          1,
+          1,
+          0,
+          0,
+          2,
+          0,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 5.4,
+        "meanSyllables": 11.4,
+        "distribution": [
+          0,
+          1,
+          0,
+          1,
+          1,
+          6,
+          5,
+          2,
+          0,
+          1
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 10,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 2,
+        "noSubject": 4,
+        "noPredicate": 0,
+        "percent": 0.6
+      },
+      "enjambement": {
+        "count": 0,
+        "percent": 0,
+        "positions": []
+      },
+      "wordOrder": {
+        "svo": 3,
+        "inversions": 1,
+        "other": 5,
+        "deviationPercent": 0.67
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 0,
+        "śmierć": 0,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 193,
+      "estimatedSeconds": 64,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 26,
+      "VERB": 15,
+      "ADJ": 7,
+      "ADV": 4,
+      "PRON": 8,
+      "ADP": 8,
+      "CCONJ": 7,
+      "SCONJ": 6,
+      "INTJ": 0,
+      "PART": 3,
+      "DET": 3,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.286,
+      "VERB": 0.165,
+      "ADJ": 0.077,
+      "ADV": 0.044,
+      "PRON": 0.088,
+      "ADP": 0.088,
+      "CCONJ": 0.077,
+      "SCONJ": 0.066,
+      "INTJ": 0,
+      "PART": 0.033,
+      "DET": 0.033,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 0,
+      "abstract": 0,
+      "ratio": 0
+    },
+    "verbTenses": {
+      "present": 13,
+      "future": 2,
+      "infinitive": 1
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 3,
+      "destrukcja": 0,
+      "tworzenie": 1,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 0,
+      "opisowe": 7
+    },
+    "adverbs": {
+      "temporalne": [
+        "ciągle"
+      ],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "ciągle",
+          "count": 1
+        },
+        {
+          "word": "wcale",
+          "count": 1
+        },
+        {
+          "word": "tak",
+          "count": 1
+        },
+        {
+          "word": "wtedy",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 0,
+      "ty": 0,
+      "on_ona": 2,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 1,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 1,
+      "percentSentences": 0.1
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 9.1,
+      "median": 8,
+      "min": 1,
+      "max": 23,
+      "distribution": [
+        0,
+        1,
+        0,
+        1,
+        1,
+        0,
+        0,
+        2,
+        0,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 5.4,
+      "meanSyllables": 11.4,
+      "distribution": [
+        0,
+        1,
+        0,
+        1,
+        1,
+        6,
+        5,
+        2,
+        0,
+        1
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 10,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 2,
+      "noSubject": 4,
+      "noPredicate": 0,
+      "percent": 0.6
+    },
+    "enjambement": {
+      "count": 0,
+      "percent": 0,
+      "positions": []
+    },
+    "wordOrder": {
+      "svo": 3,
+      "inversions": 1,
+      "other": 5,
+      "deviationPercent": 0.67
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 189,
+      "consonants": 220,
+      "ratio": 0.86
+    },
+    "consonantClusters": {
+      "count": 4,
+      "top": [
+        {
+          "cluster": "prz",
+          "count": 2
+        },
+        {
+          "cluster": "szt",
+          "count": 1
+        },
+        {
+          "cluster": "mbr",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 14,
+      "syczace": 40,
+      "nosowe": 48,
+      "plynne": 20
+    },
+    "rhymes": {
+      "exact": 0,
+      "approximate": 1,
+      "internal": 0,
+      "assonance": 0,
+      "alliteration": 5
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        17
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 193,
+      "estimatedSeconds": 64,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "regularny",
+      "regularityScore": 0.73
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Baudelaire",
+          "reference": "poeta przeklęty",
+          "evidence": "Ponieważ bity jest ciągle jak dziecko, Poeta, sztuki nie znający wcale"
+        },
+        {
+          "source": "Rimbaud",
+          "reference": "widzący poeta",
+          "evidence": "koncepcja poety jako istoty naznaczonej cierpieniem i odrzuceniem"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.7,
+        "baudelaire": 0.8,
+        "bursa": 0.3,
+        "stachura": 0.2,
+        "grochowiak": 0.4,
+        "bialoszewski": 0.1,
+        "rozewicz": 0.3
+      }
+    },
+    "space": {
+      "type": "zamknieta",
+      "evidence": "przestrzeń domowa - żona, matka, ojciec, macica",
+      "openClosedRatio": 0.2
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "nieokreslona",
+      "evidence": "brak wskazówek temporalnych"
+    },
+    "motion": {
+      "movement": 8,
+      "stillness": 2,
+      "dynamism": 0.8,
+      "evidence": "Pięść poematu zaciska i bije, tłucze szyby rymem i kopniakiem"
+    },
+    "imageryDensity": {
+      "metaphors": 4,
+      "comparisons": 1,
+      "personifications": 2,
+      "hyperboles": 3,
+      "per100words": 8.3
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.8,
+      "creationLevel": 0.6,
+      "ironicDistance": 0.4,
+      "autobiographicSignals": [
+        "poeta jako podmiot liryczny",
+        "refleksja nad naturą poezji",
+        "data 1968"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "gniew",
+      "secondary": "bunt",
+      "intensity": 0.9
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "Podmiot mówi o poecie w trzeciej osobie, ale utożsamia się z nim - 'Poeta bije', 'Pięść poematu zaciska i bije'"
+    },
+    "addressee": {
+      "type": "czytelnik",
+      "evidence": "Wiersz ma charakter manifestu skierowanego do odbiorców, przedstawia poetę jako figurę publiczną"
+    },
+    "metaphors": [
+      {
+        "source": "dziecko bite",
+        "target": "poeta",
+        "example": "bity jest ciągle jak dziecko"
+      },
+      {
+        "source": "pięść",
+        "target": "poemat",
+        "example": "Pięść poematu zaciska i bije"
+      },
+      {
+        "source": "broń/narzędzie przemocy",
+        "target": "poezja",
+        "example": "tłucze szyby rymem i kopniakiem"
+      }
+    ],
+    "temperature": {
+      "value": 0.85,
+      "label": "gorące - agresywne, pełne gniewu i niszczycielskiej energii"
+    },
+    "senses": {
+      "wzrok": 4,
+      "sluch": 2,
+      "dotyk": 5,
+      "smak": 0,
+      "zapach": 0
+    },
+    "autodestruction": {
+      "level": 0.8,
+      "signals": [
+        "Poeta jako niszczyciel relacji rodzinnych",
+        "Przemoc wobec kobiet",
+        "Autodestrukcyjna rola poety niszczącego wszystko wokół",
+        "Poetycka tożsamość jako źródło destrukcji"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 1.271,
+    "dfaAlpha": 0.052,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -0.857399214045963
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -1.3582521059827721
+      },
+      {
+        "logWin": 1.6094379124341003,
+        "logFluc": -0.7856673830785745
+      }
+    ],
+    "seriesLength": 15,
+    "series": [
+      6,
+      5,
+      5,
+      5,
+      5,
+      7,
+      7,
+      9,
+      4,
+      6,
+      5,
+      6,
+      6,
+      5,
+      6
+    ]
+  }
+}

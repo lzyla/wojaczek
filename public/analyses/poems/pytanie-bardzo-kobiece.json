@@ -1,0 +1,615 @@
+{
+  "id": "pytanie-bardzo-kobiece",
+  "title": "Pytanie bardzo kobiece",
+  "wordCount": 14,
+  "lineCount": 2,
+  "uniqueWords": 14,
+  "vocabularyRichness": 1,
+  "avgWordsPerLine": 7,
+  "wordsPerLineDistribution": [
+    7,
+    7
+  ],
+  "wordFrequencies": [
+    [
+      "chętnie",
+      1
+    ],
+    [
+      "szyby",
+      1
+    ],
+    [
+      "wszedł",
+      1
+    ],
+    [
+      "pytam",
+      1
+    ],
+    [
+      "poranny",
+      1
+    ],
+    [
+      "deszcz",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 1,
+    "period": 0,
+    "question": 1,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 1,
+    "semicolon": 0
+  },
+  "questionCount": 1,
+  "exclamationCount": 0,
+  "negationCount": 0,
+  "negationWords": [],
+  "pronounDistribution": {
+    "ja": 0,
+    "ty": 0,
+    "on_ona": 0,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 0,
+    "smierc": 0,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [],
+  "firstWord": "który",
+  "lastWord": "deszcz",
+  "avgWordLength": 4.14,
+  "wordLengthDistribution": {
+    "4-5": 5,
+    "1-3": 5,
+    "6-7": 4
+  },
+  "bigrams": [
+    [
+      "wszedł pytam",
+      1
+    ],
+    [
+      "pytam k",
+      1
+    ],
+    [
+      "poranny deszcz",
+      1
+    ]
+  ],
+  "poemWords": [
+    "chętnie",
+    "szyby",
+    "wszedł",
+    "pytam",
+    "poranny",
+    "deszcz"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 3,
+        "VERB": 2,
+        "ADJ": 2,
+        "ADV": 2,
+        "PRON": 1,
+        "ADP": 1,
+        "CCONJ": 1,
+        "SCONJ": 0,
+        "INTJ": 0,
+        "PART": 0,
+        "DET": 0,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.176,
+        "VERB": 0.118,
+        "ADJ": 0.118,
+        "ADV": 0.118,
+        "PRON": 0.059,
+        "ADP": 0.059,
+        "CCONJ": 0.059,
+        "SCONJ": 0,
+        "INTJ": 0,
+        "PART": 0,
+        "DET": 0,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 0,
+        "abstract": 0,
+        "ratio": 0
+      },
+      "verbTenses": {
+        "past": 1,
+        "present": 2
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 1,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 1,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 0,
+        "opisowe": 2
+      },
+      "adverbs": {
+        "temporalne": [],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "tak",
+            "count": 1
+          },
+          {
+            "word": "chętnie",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 0,
+        "ty": 0,
+        "on_ona": 0,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 0,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 0,
+        "percentSentences": 0
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 29,
+        "consonants": 49,
+        "ratio": 0.59
+      },
+      "consonantClusters": {
+        "count": 4,
+        "top": [
+          {
+            "cluster": "rdz",
+            "count": 1
+          },
+          {
+            "cluster": "prz",
+            "count": 1
+          },
+          {
+            "cluster": "wsz",
+            "count": 1
+          },
+          {
+            "cluster": "szcz",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 5,
+        "syczace": 4,
+        "nosowe": 7,
+        "plynne": 5
+      },
+      "rhymes": {
+        "exact": 0,
+        "approximate": 0,
+        "internal": 0,
+        "assonance": 0,
+        "alliteration": 0
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 8.5,
+        "median": 8,
+        "min": 3,
+        "max": 14,
+        "distribution": [
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 5.7,
+        "meanSyllables": 10.3,
+        "distribution": [
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          2
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 1,
+        "interrogative": 1,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 1,
+        "noSubject": 0,
+        "noPredicate": 0,
+        "percent": 0.5
+      },
+      "enjambement": {
+        "count": 1,
+        "percent": 0.5,
+        "positions": [
+          1
+        ]
+      },
+      "wordOrder": {
+        "svo": 1,
+        "inversions": 0,
+        "other": 1,
+        "deviationPercent": 0.5
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 0,
+        "śmierć": 0,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 31,
+      "estimatedSeconds": 10,
+      "tempoCategory": "szybkie"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 3,
+      "VERB": 2,
+      "ADJ": 2,
+      "ADV": 2,
+      "PRON": 1,
+      "ADP": 1,
+      "CCONJ": 1,
+      "SCONJ": 0,
+      "INTJ": 0,
+      "PART": 0,
+      "DET": 0,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.176,
+      "VERB": 0.118,
+      "ADJ": 0.118,
+      "ADV": 0.118,
+      "PRON": 0.059,
+      "ADP": 0.059,
+      "CCONJ": 0.059,
+      "SCONJ": 0,
+      "INTJ": 0,
+      "PART": 0,
+      "DET": 0,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 0,
+      "abstract": 0,
+      "ratio": 0
+    },
+    "verbTenses": {
+      "past": 1,
+      "present": 2
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 1,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 1,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 0,
+      "opisowe": 2
+    },
+    "adverbs": {
+      "temporalne": [],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "tak",
+          "count": 1
+        },
+        {
+          "word": "chętnie",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 0,
+      "ty": 0,
+      "on_ona": 0,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 0,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 0,
+      "percentSentences": 0
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 8.5,
+      "median": 8,
+      "min": 3,
+      "max": 14,
+      "distribution": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 5.7,
+      "meanSyllables": 10.3,
+      "distribution": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        2
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 1,
+      "interrogative": 1,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 1,
+      "noSubject": 0,
+      "noPredicate": 0,
+      "percent": 0.5
+    },
+    "enjambement": {
+      "count": 1,
+      "percent": 0.5,
+      "positions": [
+        1
+      ]
+    },
+    "wordOrder": {
+      "svo": 1,
+      "inversions": 0,
+      "other": 1,
+      "deviationPercent": 0.5
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 29,
+      "consonants": 49,
+      "ratio": 0.59
+    },
+    "consonantClusters": {
+      "count": 4,
+      "top": [
+        {
+          "cluster": "rdz",
+          "count": 1
+        },
+        {
+          "cluster": "prz",
+          "count": 1
+        },
+        {
+          "cluster": "wsz",
+          "count": 1
+        },
+        {
+          "cluster": "szcz",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 5,
+      "syczace": 4,
+      "nosowe": 7,
+      "plynne": 5
+    },
+    "rhymes": {
+      "exact": 0,
+      "approximate": 0,
+      "internal": 0,
+      "assonance": 0,
+      "alliteration": 0
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        3
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 31,
+      "estimatedSeconds": 10,
+      "tempoCategory": "szybkie"
+    },
+    "regularity": {
+      "type": "regularny",
+      "regularityScore": 0.94
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.3,
+        "baudelaire": 0.2,
+        "bursa": 0.1,
+        "stachura": 0.4,
+        "grochowiak": 0.2,
+        "bialoszewski": 0.6,
+        "rozewicz": 0.3
+      }
+    },
+    "space": {
+      "type": "zamknieta",
+      "evidence": "szyby jako bariera między wnętrzem a zewnętrzem, deszcz chce 'wejść przez szyby'",
+      "openClosedRatio": 0.3
+    },
+    "timeOfDay": {
+      "period": "rano",
+      "season": "nieokreslona",
+      "evidence": "poranny deszcz"
+    },
+    "motion": {
+      "movement": 6,
+      "stillness": 4,
+      "dynamism": 0.6,
+      "evidence": "deszcz 'chętnie przez szyby by wszedł' - ruch zatrzymany przez przeszkodę"
+    },
+    "imageryDensity": {
+      "metaphors": 1,
+      "comparisons": 0,
+      "personifications": 1,
+      "hyperboles": 0,
+      "per100words": 18.2
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.7,
+      "creationLevel": 0.8,
+      "ironicDistance": 0.2,
+      "autobiographicSignals": [
+        "osobiste pytanie",
+        "intymny ton",
+        "bezpośredni zwrot"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "melancholia",
+      "secondary": "tęsknota",
+      "intensity": 0.6
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "Podmiot liryczny wprost się ujawnia przez 'Pytam'"
+    },
+    "addressee": {
+      "type": "siebie",
+      "evidence": "Pytanie retoryczne skierowane do samego siebie w kontemplacji"
+    },
+    "metaphors": [
+      {
+        "source": "deszcz",
+        "target": "istota ludzka",
+        "example": "deszcz personifikowany jako ktoś 'chętny' do wejścia"
+      },
+      {
+        "source": "wejście przez szyby",
+        "target": "przekraczanie granic intymności",
+        "example": "deszcz pragnie dostać się do wnętrza"
+      }
+    ],
+    "temperature": {
+      "value": 0.3,
+      "label": "chłodne i refleksyjne"
+    },
+    "senses": {
+      "wzrok": 3,
+      "sluch": 2,
+      "dotyk": 4,
+      "smak": 0,
+      "zapach": 1
+    },
+    "autodestruction": {
+      "level": 0.2,
+      "signals": [
+        "metafizyczne poszukiwanie tożsamości może wskazywać na wewnętrzny niepokój"
+      ]
+    }
+  }
+}

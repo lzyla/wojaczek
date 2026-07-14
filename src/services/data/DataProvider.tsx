@@ -1,5 +1,6 @@
 import { createContext, useContext, useEffect, useState, type ReactNode } from 'react';
 import type { Point, Poem, GalleryImage, TimelineEvent, Letter } from '../../types';
+import { POINTS, POEMS, GALLERY_IMAGES, TIMELINE_EVENTS, LETTERS } from '../../constants';
 
 const API_BASE = import.meta.env.VITE_API_URL || 'http://localhost:8000/api';
 
@@ -18,6 +19,14 @@ interface DataContextValue extends DataState {
 
 const DataContext = createContext<DataContextValue | null>(null);
 
+const FALLBACK_DATA: DataState = {
+  points: POINTS,
+  poems: POEMS,
+  gallery: GALLERY_IMAGES,
+  timeline: TIMELINE_EVENTS,
+  letters: LETTERS,
+};
+
 async function fetchJSON<T>(endpoint: string): Promise<T> {
   const res = await fetch(`${API_BASE}/${endpoint}/`);
   if (!res.ok) throw new Error(`API error: ${res.status}`);
@@ -30,6 +39,14 @@ export function DataProvider({ children }: { children: ReactNode }) {
   const [error, setError] = useState<string | null>(null);
 
   useEffect(() => {
+    const apiUrl = import.meta.env.VITE_API_URL;
+    // If no API URL configured, use local data immediately (PWA/offline mode)
+    if (!apiUrl) {
+      setData(FALLBACK_DATA);
+      setLoading(false);
+      return;
+    }
+
     Promise.all([
       fetchJSON<Point[]>('points'),
       fetchJSON<Poem[]>('poems'),
@@ -38,7 +55,6 @@ export function DataProvider({ children }: { children: ReactNode }) {
       fetchJSON<Letter[]>('letters'),
     ])
       .then(([points, poems, gallery, timeline, letters]) => {
-        // Ensure IDs are strings to match frontend expectations
         setData({
           points: points.map(p => ({ ...p, id: String(p.id) })),
           poems: poems.map(p => ({ ...p, id: String(p.id) })),
@@ -47,7 +63,9 @@ export function DataProvider({ children }: { children: ReactNode }) {
           letters: letters.map(l => ({ ...l, id: String(l.id) })),
         });
       })
-      .catch(err => setError(err.message))
+      .catch(() => {
+        setData(FALLBACK_DATA);
+      })
       .finally(() => setLoading(false));
   }, []);
 

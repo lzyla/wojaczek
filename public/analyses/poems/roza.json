@@ -1,0 +1,922 @@
+{
+  "id": "roza",
+  "title": "Róża",
+  "wordCount": 99,
+  "lineCount": 17,
+  "uniqueWords": 89,
+  "vocabularyRichness": 0.899,
+  "avgWordsPerLine": 5.82,
+  "wordsPerLineDistribution": [
+    3,
+    2,
+    1,
+    8,
+    5,
+    6,
+    7,
+    5,
+    8,
+    6,
+    6,
+    7,
+    7,
+    8,
+    8,
+    5,
+    7
+  ],
+  "wordFrequencies": [
+    [
+      "różą",
+      2
+    ],
+    [
+      "słyszałem",
+      2
+    ],
+    [
+      "zwano",
+      1
+    ],
+    [
+      "byłaż",
+      1
+    ],
+    [
+      "nazwana",
+      1
+    ],
+    [
+      "norwid",
+      1
+    ],
+    [
+      "ciebie",
+      1
+    ],
+    [
+      "wcale",
+      1
+    ],
+    [
+      "ścisłym",
+      1
+    ],
+    [
+      "czasie",
+      1
+    ],
+    [
+      "serca",
+      1
+    ],
+    [
+      "byłaś",
+      1
+    ],
+    [
+      "nielegalną",
+      1
+    ],
+    [
+      "nocą",
+      1
+    ],
+    [
+      "ciało",
+      1
+    ],
+    [
+      "śniegu",
+      1
+    ],
+    [
+      "biegunie",
+      1
+    ],
+    [
+      "północnym",
+      1
+    ],
+    [
+      "dowolne",
+      1
+    ],
+    [
+      "gniazdko",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 9,
+    "period": 4,
+    "question": 1,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 2,
+    "colon": 1,
+    "semicolon": 2
+  },
+  "questionCount": 1,
+  "exclamationCount": 0,
+  "negationCount": 2,
+  "negationWords": [
+    "nie"
+  ],
+  "pronounDistribution": {
+    "ja": 2,
+    "ty": 4,
+    "on_ona": 2,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 1,
+    "smierc": 0,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 1,
+    "sacrum": 0,
+    "noc": 1,
+    "bol": 0
+  },
+  "anaphors": [],
+  "firstWord": "zwano",
+  "lastWord": "prawdziwie",
+  "avgWordLength": 5.28,
+  "wordLengthDistribution": {
+    "4-5": 32,
+    "1-3": 22,
+    "6-7": 31,
+    "10+": 5,
+    "8-9": 9
+  },
+  "bigrams": [
+    [
+      "różą byłaż",
+      1
+    ],
+    [
+      "byłaż nazwana",
+      1
+    ],
+    [
+      "nazwana norwid",
+      1
+    ],
+    [
+      "norwid jakby",
+      1
+    ],
+    [
+      "jakby ciebie",
+      1
+    ],
+    [
+      "ścisłym czasie",
+      1
+    ],
+    [
+      "czasie mojego",
+      1
+    ],
+    [
+      "mojego serca",
+      1
+    ]
+  ],
+  "poemWords": [
+    "zwano",
+    "różą",
+    "byłaż",
+    "nazwana",
+    "norwid",
+    "ciebie",
+    "wcale",
+    "ścisłym",
+    "czasie",
+    "serca",
+    "byłaś",
+    "nielegalną",
+    "nocą",
+    "ciało",
+    "śniegu",
+    "biegunie",
+    "północnym",
+    "dowolne",
+    "gniazdko",
+    "plotłaś",
+    "sypkich",
+    "włosów",
+    "westchnienia",
+    "słyszałem",
+    "imienia",
+    "burzy",
+    "wschodu",
+    "zachodu",
+    "siebie",
+    "zaślinionym",
+    "trwogą",
+    "kaszlu",
+    "mowy",
+    "chcącego",
+    "wymówić",
+    "słowo",
+    "widać",
+    "nieznanej",
+    "gwieździe",
+    "imię",
+    "różowe",
+    "spało",
+    "poróżniony",
+    "ślepo",
+    "wierzę",
+    "pełnia",
+    "krwi",
+    "taka",
+    "blask",
+    "zgasłej",
+    "ziemi",
+    "kosmos",
+    "poleci",
+    "wytchnę",
+    "poemat",
+    "dorosły",
+    "milczenie",
+    "nazwie",
+    "prawdziwie"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 26,
+        "VERB": 12,
+        "ADJ": 14,
+        "ADV": 3,
+        "PRON": 10,
+        "ADP": 11,
+        "CCONJ": 3,
+        "SCONJ": 4,
+        "INTJ": 0,
+        "PART": 4,
+        "DET": 6,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.26,
+        "VERB": 0.12,
+        "ADJ": 0.14,
+        "ADV": 0.03,
+        "PRON": 0.1,
+        "ADP": 0.11,
+        "CCONJ": 0.03,
+        "SCONJ": 0.04,
+        "INTJ": 0,
+        "PART": 0.04,
+        "DET": 0.06,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 3,
+        "abstract": 1,
+        "ratio": 0.75
+      },
+      "verbTenses": {
+        "past": 8,
+        "infinitive": 1,
+        "present": 3,
+        "future": 2
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 2,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 1,
+        "oceniajace": 0,
+        "opisowe": 13
+      },
+      "adverbs": {
+        "temporalne": [],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "wcale",
+            "count": 1
+          },
+          {
+            "word": "wtedy",
+            "count": 1
+          },
+          {
+            "word": "prawdziwie",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 1,
+        "ty": 2,
+        "on_ona": 3,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 2,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 1,
+        "total": 3,
+        "percentSentences": 0.5
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 227,
+        "consonants": 300,
+        "ratio": 0.76
+      },
+      "consonantClusters": {
+        "count": 12,
+        "top": [
+          {
+            "cluster": "zdk",
+            "count": 1
+          },
+          {
+            "cluster": "stchn",
+            "count": 1
+          },
+          {
+            "cluster": "wsch",
+            "count": 1
+          },
+          {
+            "cluster": "trw",
+            "count": 1
+          },
+          {
+            "cluster": "szl",
+            "count": 1
+          },
+          {
+            "cluster": "chc",
+            "count": 1
+          },
+          {
+            "cluster": "źdz",
+            "count": 1
+          },
+          {
+            "cluster": "krw",
+            "count": 1
+          },
+          {
+            "cluster": "prz",
+            "count": 1
+          },
+          {
+            "cluster": "tchn",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 18,
+        "syczace": 60,
+        "nosowe": 62,
+        "plynne": 45
+      },
+      "rhymes": {
+        "exact": 0,
+        "approximate": 0,
+        "internal": 3,
+        "assonance": 0,
+        "alliteration": 1
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 16.7,
+        "median": 14,
+        "min": 6,
+        "max": 31,
+        "distribution": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          2,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 5.7,
+        "meanSyllables": 13.1,
+        "distribution": [
+          0,
+          2,
+          0,
+          2,
+          0,
+          3,
+          2,
+          5,
+          4
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 5,
+        "interrogative": 1,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 0,
+        "noSubject": 3,
+        "noPredicate": 0,
+        "percent": 0.5
+      },
+      "enjambement": {
+        "count": 0,
+        "percent": 0,
+        "positions": []
+      },
+      "wordOrder": {
+        "svo": 1,
+        "inversions": 2,
+        "other": 3,
+        "deviationPercent": 0.83
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 2,
+        "śmierć": 0,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 1,
+        "sacrum": 0,
+        "noc": 1,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 235,
+      "estimatedSeconds": 78,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 26,
+      "VERB": 12,
+      "ADJ": 14,
+      "ADV": 3,
+      "PRON": 10,
+      "ADP": 11,
+      "CCONJ": 3,
+      "SCONJ": 4,
+      "INTJ": 0,
+      "PART": 4,
+      "DET": 6,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.26,
+      "VERB": 0.12,
+      "ADJ": 0.14,
+      "ADV": 0.03,
+      "PRON": 0.1,
+      "ADP": 0.11,
+      "CCONJ": 0.03,
+      "SCONJ": 0.04,
+      "INTJ": 0,
+      "PART": 0.04,
+      "DET": 0.06,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 3,
+      "abstract": 1,
+      "ratio": 0.75
+    },
+    "verbTenses": {
+      "past": 8,
+      "infinitive": 1,
+      "present": 3,
+      "future": 2
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 2,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 1,
+      "oceniajace": 0,
+      "opisowe": 13
+    },
+    "adverbs": {
+      "temporalne": [],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "wcale",
+          "count": 1
+        },
+        {
+          "word": "wtedy",
+          "count": 1
+        },
+        {
+          "word": "prawdziwie",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 1,
+      "ty": 2,
+      "on_ona": 3,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 2,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 1,
+      "total": 3,
+      "percentSentences": 0.5
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 16.7,
+      "median": 14,
+      "min": 6,
+      "max": 31,
+      "distribution": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 5.7,
+      "meanSyllables": 13.1,
+      "distribution": [
+        0,
+        2,
+        0,
+        2,
+        0,
+        3,
+        2,
+        5,
+        4
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 5,
+      "interrogative": 1,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 0,
+      "noSubject": 3,
+      "noPredicate": 0,
+      "percent": 0.5
+    },
+    "enjambement": {
+      "count": 0,
+      "percent": 0,
+      "positions": []
+    },
+    "wordOrder": {
+      "svo": 1,
+      "inversions": 2,
+      "other": 3,
+      "deviationPercent": 0.83
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 227,
+      "consonants": 300,
+      "ratio": 0.76
+    },
+    "consonantClusters": {
+      "count": 12,
+      "top": [
+        {
+          "cluster": "zdk",
+          "count": 1
+        },
+        {
+          "cluster": "stchn",
+          "count": 1
+        },
+        {
+          "cluster": "wsch",
+          "count": 1
+        },
+        {
+          "cluster": "trw",
+          "count": 1
+        },
+        {
+          "cluster": "szl",
+          "count": 1
+        },
+        {
+          "cluster": "chc",
+          "count": 1
+        },
+        {
+          "cluster": "źdz",
+          "count": 1
+        },
+        {
+          "cluster": "krw",
+          "count": 1
+        },
+        {
+          "cluster": "prz",
+          "count": 1
+        },
+        {
+          "cluster": "tchn",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 18,
+      "syczace": 60,
+      "nosowe": 62,
+      "plynne": 45
+    },
+    "rhymes": {
+      "exact": 0,
+      "approximate": 0,
+      "internal": 3,
+      "assonance": 0,
+      "alliteration": 1
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        18
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 235,
+      "estimatedSeconds": 78,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "polregularny",
+      "regularityScore": 0.58
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Norwid",
+          "reference": "Cytowany motto z Norwidowego wiersza 'Do Zuzanny z Blędowa'",
+          "evidence": "Zwano ją Różą / – byłaż nazwana? / Norwid"
+        },
+        {
+          "source": "Biblia",
+          "reference": "Motyw stworzenia słowem, kosmiczna wizja",
+          "evidence": "blask zgasłej Ziemi, co przez Kosmos / Poleci"
+        },
+        {
+          "source": "mitologia",
+          "reference": "Motyw gwiazd jako nośników imion/losów",
+          "evidence": "w nieznanej gwieździe Twoje imię / Różowe spało"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.7,
+        "baudelaire": 0.6,
+        "bursa": 0.3,
+        "stachura": 0.4,
+        "grochowiak": 0.2,
+        "bialoszewski": 0.1,
+        "rozewicz": 0.3
+      }
+    },
+    "space": {
+      "type": "otwarta",
+      "evidence": "Przestrzeń kosmiczna: 'przez Kosmos', 'blask zgasłej Ziemi', 'biegun północny', 'burza od wschodu ani od zachodu'",
+      "openClosedRatio": 0.9
+    },
+    "timeOfDay": {
+      "period": "noc",
+      "season": "nieokreslona",
+      "evidence": "byłaś nielegalną nocą, ciało śniegu na biegunie północnym"
+    },
+    "motion": {
+      "movement": 8,
+      "stillness": 3,
+      "dynamism": 0.8,
+      "evidence": "Dynamika lotu przez kosmos, plotłaś gniazdko, poleci, wytchnę - kontrast z milczeniem i spaniem imienia"
+    },
+    "imageryDensity": {
+      "metaphors": 8,
+      "comparisons": 2,
+      "personifications": 4,
+      "hyperboles": 3,
+      "per100words": 12.1
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.8,
+      "creationLevel": 0.9,
+      "ironicDistance": 0.2,
+      "autobiographicSignals": [
+        "Mojego serca",
+        "siebie tylko słyszałem",
+        "we mnie pełnia krwi",
+        "wytchnę poemat"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "tęsknota",
+      "secondary": "melancholia",
+      "intensity": 0.8
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "Podmiot mówi w pierwszej osobie: 'Mojego serca', 'słyszałem', 'wierzę', 'wytchnę'"
+    },
+    "addressee": {
+      "type": "ty",
+      "evidence": "Bezpośrednie zwroty do adresatki w drugiej osobie: 'Ciebie', 'byłaś', 'Twojego imienia', 'Twoje imię'"
+    },
+    "metaphors": [
+      {
+        "source": "ciało śniegu",
+        "target": "obecność ukochanej",
+        "example": "Ciało śniegu na jego biegunie północnym"
+      },
+      {
+        "source": "nielegalna noc",
+        "target": "miłość",
+        "example": "byłaś nielegalną nocą"
+      },
+      {
+        "source": "gniazdko z włosów",
+        "target": "intymność",
+        "example": "Dowolne gniazdko plotłaś sobie z sypkich włosów"
+      },
+      {
+        "source": "blask zgasłej Ziemi",
+        "target": "przyszła pełnia uczuć",
+        "example": "jakby blask zgasłej Ziemi, co przez Kosmos Poleci"
+      }
+    ],
+    "temperature": {
+      "value": 0.4,
+      "label": "chłodne oczekiwanie z ciepłą nadzieją"
+    },
+    "senses": {
+      "wzrok": 4,
+      "sluch": 5,
+      "dotyk": 3,
+      "smak": 1,
+      "zapach": 0
+    },
+    "autodestruction": {
+      "level": 0.3,
+      "signals": [
+        "zaśliniony trwogą kaszel mowy",
+        "poróżniony z imieniem",
+        "niemożność wypowiedzenia imienia"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 0.739,
+    "dfaAlpha": 2.381,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -1.2628643221541256
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -0.20450580322685466
+      },
+      {
+        "logWin": 1.6094379124341003,
+        "logFluc": -0.0793273396671353
+      }
+    ],
+    "seriesLength": 17,
+    "series": [
+      3,
+      2,
+      1,
+      8,
+      5,
+      6,
+      7,
+      5,
+      8,
+      6,
+      6,
+      7,
+      7,
+      8,
+      8,
+      5,
+      7
+    ]
+  }
+}

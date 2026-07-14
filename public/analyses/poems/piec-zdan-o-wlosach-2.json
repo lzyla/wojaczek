@@ -1,0 +1,786 @@
+{
+  "id": "piec-zdan-o-wlosach-2",
+  "title": "Pięć zdań o włosach",
+  "wordCount": 57,
+  "lineCount": 15,
+  "uniqueWords": 45,
+  "vocabularyRichness": 0.789,
+  "avgWordsPerLine": 3.8,
+  "wordsPerLineDistribution": [
+    1,
+    5,
+    7,
+    1,
+    6,
+    5,
+    1,
+    4,
+    5,
+    1,
+    4,
+    6,
+    1,
+    3,
+    7
+  ],
+  "wordFrequencies": [
+    [
+      "włosy",
+      5
+    ],
+    [
+      "mózg",
+      4
+    ],
+    [
+      "smutne",
+      1
+    ],
+    [
+      "nawiedzony",
+      1
+    ],
+    [
+      "dumnym",
+      1
+    ],
+    [
+      "obłędem",
+      1
+    ],
+    [
+      "chce",
+      1
+    ],
+    [
+      "dbać",
+      1
+    ],
+    [
+      "ciche",
+      1
+    ],
+    [
+      "gra",
+      1
+    ],
+    [
+      "kosmicznie",
+      1
+    ],
+    [
+      "piłowany",
+      1
+    ],
+    [
+      "długim",
+      1
+    ],
+    [
+      "sfer",
+      1
+    ],
+    [
+      "smyczkiem",
+      1
+    ],
+    [
+      "wypadające",
+      1
+    ],
+    [
+      "dumny",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 0,
+    "period": 0,
+    "question": 0,
+    "exclamation": 1,
+    "ellipsis": 0,
+    "dash": 1,
+    "colon": 4,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 1,
+  "negationCount": 3,
+  "negationWords": [
+    "nie"
+  ],
+  "pronounDistribution": {
+    "ja": 0,
+    "ty": 0,
+    "on_ona": 0,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 5,
+    "smierc": 0,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [
+    [
+      "włosy",
+      3
+    ]
+  ],
+  "firstWord": "włosy",
+  "lastWord": "zjadły",
+  "avgWordLength": 4.75,
+  "wordLengthDistribution": {
+    "1-3": 19,
+    "4-5": 19,
+    "6-7": 11,
+    "10+": 4,
+    "8-9": 4
+  },
+  "bigrams": [
+    [
+      "1 włosy",
+      1
+    ],
+    [
+      "smutne mózg",
+      1
+    ],
+    [
+      "mózg nawiedzony",
+      1
+    ],
+    [
+      "nawiedzony dumnym",
+      1
+    ],
+    [
+      "dumnym obłędem",
+      1
+    ],
+    [
+      "chce dbać",
+      1
+    ],
+    [
+      "2 włosy",
+      1
+    ]
+  ],
+  "poemWords": [
+    "włosy",
+    "smutne",
+    "mózg",
+    "nawiedzony",
+    "dumnym",
+    "obłędem",
+    "chce",
+    "dbać",
+    "ciche",
+    "gra",
+    "kosmicznie",
+    "piłowany",
+    "długim",
+    "sfer",
+    "smyczkiem",
+    "wypadające",
+    "dumny",
+    "głodny",
+    "zjada",
+    "cebulki",
+    "samotne",
+    "nieobecny",
+    "niebie",
+    "ziemi",
+    "tryumfujące",
+    "odgadły",
+    "mózgu",
+    "szczury",
+    "zjadły"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 19,
+        "VERB": 7,
+        "ADJ": 12,
+        "ADV": 2,
+        "PRON": 1,
+        "ADP": 4,
+        "CCONJ": 2,
+        "SCONJ": 3,
+        "INTJ": 0,
+        "PART": 3,
+        "DET": 0,
+        "NUM": 3
+      },
+      "posPercent": {
+        "NOUN": 0.311,
+        "VERB": 0.115,
+        "ADJ": 0.197,
+        "ADV": 0.033,
+        "PRON": 0.016,
+        "ADP": 0.066,
+        "CCONJ": 0.033,
+        "SCONJ": 0.049,
+        "INTJ": 0,
+        "PART": 0.049,
+        "DET": 0,
+        "NUM": 0.049
+      },
+      "nounConcreteAbstract": {
+        "concrete": 1,
+        "abstract": 0,
+        "ratio": 1
+      },
+      "verbTenses": {
+        "present": 6,
+        "infinitive": 1,
+        "past": 2
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 2,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 1,
+        "oceniajace": 1,
+        "opisowe": 10
+      },
+      "adverbs": {
+        "temporalne": [],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "gdy",
+            "count": 1
+          },
+          {
+            "word": "kosmicznie",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 0,
+        "ty": 0,
+        "on_ona": 0,
+        "my": 0,
+        "wy": 0,
+        "oni": 1
+      },
+      "negations": {
+        "nie": 3,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 3,
+        "percentSentences": 1.5
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 117,
+        "consonants": 165,
+        "ratio": 0.71
+      },
+      "consonantClusters": {
+        "count": 5,
+        "top": [
+          {
+            "cluster": "chc",
+            "count": 1
+          },
+          {
+            "cluster": "czn",
+            "count": 1
+          },
+          {
+            "cluster": "czk",
+            "count": 1
+          },
+          {
+            "cluster": "prz",
+            "count": 1
+          },
+          {
+            "cluster": "szcz",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 8,
+        "syczace": 36,
+        "nosowe": 44,
+        "plynne": 18
+      },
+      "rhymes": {
+        "exact": 2,
+        "approximate": 1,
+        "internal": 0,
+        "assonance": 0,
+        "alliteration": 0
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 30.5,
+        "median": 30,
+        "min": 22,
+        "max": 39,
+        "distribution": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 3.9,
+        "meanSyllables": 7.7,
+        "distribution": [
+          0,
+          5,
+          0,
+          1,
+          3,
+          3,
+          2,
+          1,
+          1
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 1,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 1
+      },
+      "ellipsis": {
+        "incomplete": 0,
+        "noSubject": 0,
+        "noPredicate": 0,
+        "percent": 0
+      },
+      "enjambement": {
+        "count": 1,
+        "percent": 0.07,
+        "positions": [
+          15
+        ]
+      },
+      "wordOrder": {
+        "svo": 1,
+        "inversions": 1,
+        "other": 0,
+        "deviationPercent": 0.5
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 2,
+        "śmierć": 0,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 123,
+      "estimatedSeconds": 41,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 19,
+      "VERB": 7,
+      "ADJ": 12,
+      "ADV": 2,
+      "PRON": 1,
+      "ADP": 4,
+      "CCONJ": 2,
+      "SCONJ": 3,
+      "INTJ": 0,
+      "PART": 3,
+      "DET": 0,
+      "NUM": 3
+    },
+    "posPercent": {
+      "NOUN": 0.311,
+      "VERB": 0.115,
+      "ADJ": 0.197,
+      "ADV": 0.033,
+      "PRON": 0.016,
+      "ADP": 0.066,
+      "CCONJ": 0.033,
+      "SCONJ": 0.049,
+      "INTJ": 0,
+      "PART": 0.049,
+      "DET": 0,
+      "NUM": 0.049
+    },
+    "nounConcreteAbstract": {
+      "concrete": 1,
+      "abstract": 0,
+      "ratio": 1
+    },
+    "verbTenses": {
+      "present": 6,
+      "infinitive": 1,
+      "past": 2
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 2,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 1,
+      "oceniajace": 1,
+      "opisowe": 10
+    },
+    "adverbs": {
+      "temporalne": [],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "gdy",
+          "count": 1
+        },
+        {
+          "word": "kosmicznie",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 0,
+      "ty": 0,
+      "on_ona": 0,
+      "my": 0,
+      "wy": 0,
+      "oni": 1
+    },
+    "negations": {
+      "nie": 3,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 3,
+      "percentSentences": 1.5
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 30.5,
+      "median": 30,
+      "min": 22,
+      "max": 39,
+      "distribution": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 3.9,
+      "meanSyllables": 7.7,
+      "distribution": [
+        0,
+        5,
+        0,
+        1,
+        3,
+        3,
+        2,
+        1,
+        1
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 1,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 1
+    },
+    "ellipsis": {
+      "incomplete": 0,
+      "noSubject": 0,
+      "noPredicate": 0,
+      "percent": 0
+    },
+    "enjambement": {
+      "count": 1,
+      "percent": 0.07,
+      "positions": [
+        15
+      ]
+    },
+    "wordOrder": {
+      "svo": 1,
+      "inversions": 1,
+      "other": 0,
+      "deviationPercent": 0.5
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 117,
+      "consonants": 165,
+      "ratio": 0.71
+    },
+    "consonantClusters": {
+      "count": 5,
+      "top": [
+        {
+          "cluster": "chc",
+          "count": 1
+        },
+        {
+          "cluster": "czn",
+          "count": 1
+        },
+        {
+          "cluster": "czk",
+          "count": 1
+        },
+        {
+          "cluster": "prz",
+          "count": 1
+        },
+        {
+          "cluster": "szcz",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 8,
+      "syczace": 36,
+      "nosowe": 44,
+      "plynne": 18
+    },
+    "rhymes": {
+      "exact": 2,
+      "approximate": 1,
+      "internal": 0,
+      "assonance": 0,
+      "alliteration": 0
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        16
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 123,
+      "estimatedSeconds": 41,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "wolny",
+      "regularityScore": 0.37
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Baudelaire",
+          "reference": "estetyka dekadencka, motyw rozkładu",
+          "evidence": "Wypadające włosy, mózg zjedzony przez szczury"
+        },
+        {
+          "source": "Rimbaud",
+          "reference": "kosmiczne doznania, transcendencja",
+          "evidence": "gra kosmicznie / Mózg piłowany długim sfer smyczkiem"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.8,
+        "baudelaire": 0.7,
+        "bursa": 0.3,
+        "stachura": 0.4,
+        "grochowiak": 0.2,
+        "bialoszewski": 0.1,
+        "rozewicz": 0.3
+      }
+    },
+    "space": {
+      "type": "nieokreslona",
+      "evidence": "Ani na niebie ani na ziemi - przestrzeń zawieszenia między światami",
+      "openClosedRatio": 0.5
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "nieokreslona",
+      "evidence": "Brak wskazówek temporalnych, fokus na stanach wewnętrznych"
+    },
+    "motion": {
+      "movement": 3,
+      "stillness": 7,
+      "dynamism": 0.3,
+      "evidence": "Statyczne obrazy włosów, jedyny ruch to wypadanie i zjadanie"
+    },
+    "imageryDensity": {
+      "metaphors": 8,
+      "comparisons": 1,
+      "personifications": 6,
+      "hyperboles": 2,
+      "per100words": 23.9
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.9,
+      "creationLevel": 0.7,
+      "ironicDistance": 0.2,
+      "autobiographicSignals": [
+        "bezpośredniość wypowiedzi",
+        "intymność tematu włosów",
+        "data osobista",
+        "ton zwierzenia"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": -0.066,
+    "dfaAlpha": 1.885,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -0.7520386983881371
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": 0.13050609761049498
+      },
+      {
+        "logWin": 1.6094379124341003,
+        "logFluc": 0.18109612289291596
+      }
+    ],
+    "seriesLength": 15,
+    "series": [
+      1,
+      5,
+      7,
+      1,
+      6,
+      5,
+      1,
+      4,
+      5,
+      1,
+      4,
+      6,
+      1,
+      3,
+      7
+    ]
+  }
+}

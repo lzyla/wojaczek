@@ -1,0 +1,872 @@
+{
+  "id": "nasza-pani",
+  "title": "Nasza pani",
+  "wordCount": 57,
+  "lineCount": 10,
+  "uniqueWords": 47,
+  "vocabularyRichness": 0.825,
+  "avgWordsPerLine": 5.7,
+  "wordsPerLineDistribution": [
+    5,
+    8,
+    5,
+    6,
+    6,
+    6,
+    5,
+    5,
+    6,
+    5
+  ],
+  "wordFrequencies": [
+    [
+      "cmentarz",
+      2
+    ],
+    [
+      "malowniczo",
+      2
+    ],
+    [
+      "wszyscy",
+      1
+    ],
+    [
+      "pójdziemy",
+      1
+    ],
+    [
+      "pogrzeb",
+      1
+    ],
+    [
+      "pewne",
+      1
+    ],
+    [
+      "umrze",
+      1
+    ],
+    [
+      "wszystkimi",
+      1
+    ],
+    [
+      "nami",
+      1
+    ],
+    [
+      "położony",
+      1
+    ],
+    [
+      "ułożymy",
+      1
+    ],
+    [
+      "kolei",
+      1
+    ],
+    [
+      "brama",
+      1
+    ],
+    [
+      "wystylizowanym",
+      1
+    ],
+    [
+      "napisem",
+      1
+    ],
+    [
+      "przykryjemy",
+      1
+    ],
+    [
+      "szczelnie",
+      1
+    ],
+    [
+      "ziemią",
+      1
+    ],
+    [
+      "niepoznaki",
+      1
+    ],
+    [
+      "miejsce",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 0,
+    "period": 0,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 0,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 0,
+  "negationWords": [],
+  "pronounDistribution": {
+    "ja": 0,
+    "ty": 0,
+    "on_ona": 1,
+    "my": 2,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 0,
+    "smierc": 3,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [],
+  "firstWord": "wszyscy",
+  "lastWord": "obowiązków",
+  "avgWordLength": 5.37,
+  "wordLengthDistribution": {
+    "6-7": 11,
+    "8-9": 6,
+    "1-3": 18,
+    "4-5": 14,
+    "10+": 8
+  },
+  "bigrams": [
+    [
+      "bardzo malowniczo",
+      2
+    ],
+    [
+      "wszyscy pójdziemy",
+      1
+    ],
+    [
+      "wszystkimi nami",
+      1
+    ],
+    [
+      "nami cmentarz",
+      1
+    ]
+  ],
+  "poemWords": [
+    "wszyscy",
+    "pójdziemy",
+    "pogrzeb",
+    "pewne",
+    "umrze",
+    "wszystkimi",
+    "nami",
+    "cmentarz",
+    "położony",
+    "malowniczo",
+    "ułożymy",
+    "kolei",
+    "brama",
+    "wystylizowanym",
+    "napisem",
+    "przykryjemy",
+    "szczelnie",
+    "ziemią",
+    "niepoznaki",
+    "miejsce",
+    "założymy",
+    "darnią",
+    "powiemy",
+    "dobrze",
+    "odejdziemy",
+    "obowiązków"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 10,
+        "VERB": 8,
+        "ADJ": 4,
+        "ADV": 7,
+        "PRON": 7,
+        "ADP": 6,
+        "CCONJ": 3,
+        "SCONJ": 3,
+        "INTJ": 0,
+        "PART": 1,
+        "DET": 4,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.175,
+        "VERB": 0.14,
+        "ADJ": 0.07,
+        "ADV": 0.123,
+        "PRON": 0.123,
+        "ADP": 0.105,
+        "CCONJ": 0.053,
+        "SCONJ": 0.053,
+        "INTJ": 0,
+        "PART": 0.018,
+        "DET": 0.07,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 1,
+        "abstract": 0,
+        "ratio": 1
+      },
+      "verbTenses": {
+        "future": 5,
+        "present": 7
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 4,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 0,
+        "opisowe": 4
+      },
+      "adverbs": {
+        "temporalne": [],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "bardzo",
+            "count": 2
+          },
+          {
+            "word": "malowniczo",
+            "count": 2
+          },
+          {
+            "word": "szczelnie",
+            "count": 1
+          },
+          {
+            "word": "dobrze",
+            "count": 1
+          },
+          {
+            "word": "jak",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 0,
+        "ty": 0,
+        "on_ona": 3,
+        "my": 2,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 0,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 0,
+        "percentSentences": 0
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 126,
+        "consonants": 180,
+        "ratio": 0.7
+      },
+      "consonantClusters": {
+        "count": 14,
+        "top": [
+          {
+            "cluster": "wsz",
+            "count": 2
+          },
+          {
+            "cluster": "jdz",
+            "count": 2
+          },
+          {
+            "cluster": "prz",
+            "count": 2
+          },
+          {
+            "cluster": "rdz",
+            "count": 2
+          },
+          {
+            "cluster": "grz",
+            "count": 1
+          },
+          {
+            "cluster": "mrz",
+            "count": 1
+          },
+          {
+            "cluster": "stk",
+            "count": 1
+          },
+          {
+            "cluster": "szcz",
+            "count": 1
+          },
+          {
+            "cluster": "jsc",
+            "count": 1
+          },
+          {
+            "cluster": "brz",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 18,
+        "syczace": 24,
+        "nosowe": 39,
+        "plynne": 22
+      },
+      "rhymes": {
+        "exact": 1,
+        "approximate": 1,
+        "internal": 0,
+        "assonance": 1,
+        "alliteration": 0
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 19,
+        "median": 13,
+        "min": 11,
+        "max": 33,
+        "distribution": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 5.7,
+        "meanSyllables": 12.8,
+        "distribution": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          5,
+          4,
+          0,
+          1
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 3,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 0,
+        "noSubject": 1,
+        "noPredicate": 0,
+        "percent": 0.33
+      },
+      "enjambement": {
+        "count": 6,
+        "percent": 0.67,
+        "positions": [
+          1,
+          3,
+          4,
+          5,
+          7,
+          9
+        ]
+      },
+      "wordOrder": {
+        "svo": 2,
+        "inversions": 0,
+        "other": 1,
+        "deviationPercent": 0.33
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 0,
+        "śmierć": 3,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 128,
+      "estimatedSeconds": 43,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 10,
+      "VERB": 8,
+      "ADJ": 4,
+      "ADV": 7,
+      "PRON": 7,
+      "ADP": 6,
+      "CCONJ": 3,
+      "SCONJ": 3,
+      "INTJ": 0,
+      "PART": 1,
+      "DET": 4,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.175,
+      "VERB": 0.14,
+      "ADJ": 0.07,
+      "ADV": 0.123,
+      "PRON": 0.123,
+      "ADP": 0.105,
+      "CCONJ": 0.053,
+      "SCONJ": 0.053,
+      "INTJ": 0,
+      "PART": 0.018,
+      "DET": 0.07,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 1,
+      "abstract": 0,
+      "ratio": 1
+    },
+    "verbTenses": {
+      "future": 5,
+      "present": 7
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 4,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 0,
+      "opisowe": 4
+    },
+    "adverbs": {
+      "temporalne": [],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "bardzo",
+          "count": 2
+        },
+        {
+          "word": "malowniczo",
+          "count": 2
+        },
+        {
+          "word": "szczelnie",
+          "count": 1
+        },
+        {
+          "word": "dobrze",
+          "count": 1
+        },
+        {
+          "word": "jak",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 0,
+      "ty": 0,
+      "on_ona": 3,
+      "my": 2,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 0,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 0,
+      "percentSentences": 0
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 19,
+      "median": 13,
+      "min": 11,
+      "max": 33,
+      "distribution": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 5.7,
+      "meanSyllables": 12.8,
+      "distribution": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        5,
+        4,
+        0,
+        1
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 3,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 0,
+      "noSubject": 1,
+      "noPredicate": 0,
+      "percent": 0.33
+    },
+    "enjambement": {
+      "count": 6,
+      "percent": 0.67,
+      "positions": [
+        1,
+        3,
+        4,
+        5,
+        7,
+        9
+      ]
+    },
+    "wordOrder": {
+      "svo": 2,
+      "inversions": 0,
+      "other": 1,
+      "deviationPercent": 0.33
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 126,
+      "consonants": 180,
+      "ratio": 0.7
+    },
+    "consonantClusters": {
+      "count": 14,
+      "top": [
+        {
+          "cluster": "wsz",
+          "count": 2
+        },
+        {
+          "cluster": "jdz",
+          "count": 2
+        },
+        {
+          "cluster": "prz",
+          "count": 2
+        },
+        {
+          "cluster": "rdz",
+          "count": 2
+        },
+        {
+          "cluster": "grz",
+          "count": 1
+        },
+        {
+          "cluster": "mrz",
+          "count": 1
+        },
+        {
+          "cluster": "stk",
+          "count": 1
+        },
+        {
+          "cluster": "szcz",
+          "count": 1
+        },
+        {
+          "cluster": "jsc",
+          "count": 1
+        },
+        {
+          "cluster": "brz",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 18,
+      "syczace": 24,
+      "nosowe": 39,
+      "plynne": 22
+    },
+    "rhymes": {
+      "exact": 1,
+      "approximate": 1,
+      "internal": 0,
+      "assonance": 1,
+      "alliteration": 0
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 6,
+      "linesPerStanza": [
+        1,
+        2,
+        2,
+        2,
+        2,
+        1
+      ],
+      "isRegular": false,
+      "isContinuous": false
+    },
+    "readingTempo": {
+      "syllables": 128,
+      "estimatedSeconds": 43,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "regularny",
+      "regularityScore": 0.86
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Biblia",
+          "reference": "śmierć i pogrzeb",
+          "evidence": "motyw śmierci, pogrzebu i przykrycia ziemią nawiązuje do biblijnych formuł pogrzebowych"
+        },
+        {
+          "source": "inne",
+          "reference": "tradycja elegii",
+          "evidence": "struktura wiersza nawiązuje do poetyckiej tradycji elegijnej"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.3,
+        "baudelaire": 0.4,
+        "bursa": 0.1,
+        "stachura": 0.2,
+        "grochowiak": 0.3,
+        "bialoszewski": 0.7,
+        "rozewicz": 0.8
+      }
+    },
+    "space": {
+      "type": "otwarta",
+      "evidence": "cmentarz położony malowniczo, brama, przestrzeń pogrzebu jako miejsce otwarte",
+      "openClosedRatio": 0.7
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "nieokreslona",
+      "evidence": "brak określonych wskaźników temporalnych, wiersz ma charakter ponadczasowy"
+    },
+    "motion": {
+      "movement": 6,
+      "stillness": 4,
+      "dynamism": 0.6,
+      "evidence": "sekwencja czynności: pójdziemy, ułożymy, przykryjemy, założymy, powiemy, odejdziemy - dynamika rytuału"
+    },
+    "imageryDensity": {
+      "metaphors": 2,
+      "comparisons": 0,
+      "personifications": 0,
+      "hyperboles": 1,
+      "per100words": 4.3
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.7,
+      "creationLevel": 0.6,
+      "ironicDistance": 0.8,
+      "autobiographicSignals": [
+        "data pod wierszem 2 V 1965",
+        "ton osobisty mimo ironii",
+        "perspektywa uczestnika ceremonii"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "rezygnacja",
+      "secondary": "melancholia",
+      "intensity": 0.8
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "podmiot liryczny używa formy 'my' - 'Wszyscy pójdziemy', 'my ją ułożymy', 'odejdziemy'"
+    },
+    "addressee": {
+      "type": "czytelnik",
+      "evidence": "wiersz ma charakter konstatacji kierowanej do odbiorcy, brak bezpośrednich zwrotów"
+    },
+    "metaphors": [
+      {
+        "source": "pogrzeb jako malownicza sceneria",
+        "target": "śmierć jako estetyczny spektakl",
+        "example": "Cmentarz jest położony bardzo malowniczo / i my ją ułożymy bardzo malowniczo"
+      },
+      {
+        "source": "darń jako maskowanie",
+        "target": "ukrywanie prawdy o śmierci",
+        "example": "dla niepoznaki miejsce założymy darnią"
+      }
+    ],
+    "temperature": {
+      "value": 0.2,
+      "label": "zimne - ton rzeczowy, wyalienowany wobec śmierci"
+    },
+    "senses": {
+      "wzrok": 4,
+      "sluch": 0,
+      "dotyk": 2,
+      "smak": 0,
+      "zapach": 0
+    },
+    "autodestruction": {
+      "level": 0.6,
+      "signals": [
+        "fatalistyczna akceptacja śmierci",
+        "mechaniczne podejście do rytuału pogrzebowego",
+        "wyalienowanie wobec własnej kondycji"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": null,
+    "dfaAlpha": 1.416,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -1.1575038064963012
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -0.7500544438205259
+      }
+    ],
+    "seriesLength": 10,
+    "series": [
+      5,
+      8,
+      5,
+      6,
+      6,
+      6,
+      5,
+      5,
+      6,
+      5
+    ]
+  }
+}

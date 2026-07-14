@@ -1,0 +1,1086 @@
+{
+  "id": "okno",
+  "title": "Okno",
+  "wordCount": 208,
+  "lineCount": 35,
+  "uniqueWords": 169,
+  "vocabularyRichness": 0.813,
+  "avgWordsPerLine": 5.94,
+  "wordsPerLineDistribution": [
+    7,
+    9,
+    8,
+    8,
+    3,
+    7,
+    8,
+    7,
+    6,
+    3,
+    8,
+    6,
+    7,
+    6,
+    3,
+    6,
+    5,
+    8,
+    9,
+    3,
+    4,
+    6,
+    6,
+    7,
+    3,
+    5,
+    6,
+    4,
+    7,
+    3,
+    7,
+    6,
+    7,
+    7,
+    3
+  ],
+  "wordFrequencies": [
+    [
+      "śmierci",
+      3
+    ],
+    [
+      "dziś",
+      2
+    ],
+    [
+      "krwi",
+      2
+    ],
+    [
+      "okno",
+      2
+    ],
+    [
+      "oddechu",
+      2
+    ],
+    [
+      "środka",
+      2
+    ],
+    [
+      "czynię",
+      2
+    ],
+    [
+      "natchniony",
+      1
+    ],
+    [
+      "pamięć",
+      1
+    ],
+    [
+      "pierwszych",
+      1
+    ],
+    [
+      "wierszy",
+      1
+    ],
+    [
+      "skrzepłą",
+      1
+    ],
+    [
+      "kroplą",
+      1
+    ],
+    [
+      "gwiazdą",
+      1
+    ],
+    [
+      "niewidzialną",
+      1
+    ],
+    [
+      "niskim",
+      1
+    ],
+    [
+      "niebie",
+      1
+    ],
+    [
+      "pory",
+      1
+    ],
+    [
+      "małej",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 0,
+    "period": 0,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 2,
+    "colon": 0,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 4,
+  "negationWords": [
+    "nie"
+  ],
+  "pronounDistribution": {
+    "ja": 2,
+    "ty": 0,
+    "on_ona": 2,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 1,
+    "smierc": 0,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 1,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 1
+  },
+  "anaphors": [
+    [
+      "oddechu",
+      2
+    ]
+  ],
+  "firstWord": "natchniony",
+  "lastWord": "wiatr",
+  "avgWordLength": 5.37,
+  "wordLengthDistribution": {
+    "10+": 19,
+    "4-5": 61,
+    "6-7": 58,
+    "1-3": 54,
+    "8-9": 16
+  },
+  "bigrams": [
+    [
+      "natchniony dziś",
+      1
+    ],
+    [
+      "pamięć moich",
+      1
+    ],
+    [
+      "moich pierwszych",
+      1
+    ],
+    [
+      "pierwszych wierszy",
+      1
+    ],
+    [
+      "kroplą krwi",
+      1
+    ]
+  ],
+  "poemWords": [
+    "natchniony",
+    "dziś",
+    "pamięć",
+    "pierwszych",
+    "wierszy",
+    "których",
+    "skrzepłą",
+    "kroplą",
+    "krwi",
+    "gwiazdą",
+    "niewidzialną",
+    "niskim",
+    "niebie",
+    "pory",
+    "małej",
+    "dusznej",
+    "cela",
+    "księżycem",
+    "kibel",
+    "jedzonym",
+    "rdzę",
+    "niepewny",
+    "siebie",
+    "ciosem",
+    "sennej",
+    "pięści",
+    "śledczego",
+    "prosić",
+    "bił",
+    "skwapliwie",
+    "opowiedzieć",
+    "winę",
+    "drugim",
+    "odzyskując",
+    "spokój",
+    "nieczuły",
+    "ból",
+    "staję",
+    "oknie",
+    "głowę",
+    "wychylam",
+    "okno",
+    "słyszę",
+    "szum",
+    "zbliżających",
+    "wędrownych",
+    "planet",
+    "wpadną",
+    "ucha",
+    "zyskają",
+    "wagę",
+    "uwierzę",
+    "oczekiwane",
+    "słowa",
+    "nagle",
+    "rytm",
+    "poematu",
+    "koniuszkach",
+    "palców",
+    "czuję",
+    "echo",
+    "oddechu",
+    "odległego",
+    "poemat",
+    "morza",
+    "myśli",
+    "morzu",
+    "utopiony",
+    "sól",
+    "zlizuję",
+    "warg",
+    "milczę",
+    "milczeniem",
+    "pięść",
+    "sterroryzowany",
+    "zajadłą",
+    "czułością",
+    "śmierci",
+    "cicho",
+    "rosnącej",
+    "środka",
+    "planety",
+    "ciała",
+    "białymi",
+    "włosami",
+    "chłodu",
+    "przewiduję",
+    "serce",
+    "sprosta",
+    "wykorzystując",
+    "każdą",
+    "najmniejszą",
+    "słabość",
+    "pewną",
+    "nonszalancję",
+    "wynikłą",
+    "rutyny",
+    "zmęczenie",
+    "maskowane",
+    "mistrzowskim",
+    "rzemiosłem",
+    "wierzę",
+    "skoro",
+    "czynię",
+    "dobrze",
+    "przemagam",
+    "mdły",
+    "głód",
+    "niskiej",
+    "licząc",
+    "sylab",
+    "pulsu",
+    "tętna",
+    "pozwalam",
+    "żałować",
+    "smrodu",
+    "miłego",
+    "kibla",
+    "grania",
+    "łyżki",
+    "misce",
+    "niewidzialny",
+    "żagiel",
+    "lotnej",
+    "wycieka",
+    "wiatr"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 68,
+        "VERB": 26,
+        "ADJ": 29,
+        "ADV": 10,
+        "PRON": 10,
+        "ADP": 21,
+        "CCONJ": 6,
+        "SCONJ": 12,
+        "INTJ": 0,
+        "PART": 14,
+        "DET": 6,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.325,
+        "VERB": 0.124,
+        "ADJ": 0.139,
+        "ADV": 0.048,
+        "PRON": 0.048,
+        "ADP": 0.1,
+        "CCONJ": 0.029,
+        "SCONJ": 0.057,
+        "INTJ": 0,
+        "PART": 0.067,
+        "DET": 0.029,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 8,
+        "abstract": 5,
+        "ratio": 0.62
+      },
+      "verbTenses": {
+        "present": 19,
+        "infinitive": 3,
+        "past": 3,
+        "future": 4,
+        "imperative": 1
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 1,
+        "stan": 4,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 1,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 1,
+        "oceniajace": 0,
+        "opisowe": 28
+      },
+      "adverbs": {
+        "temporalne": [],
+        "modalne": [],
+        "sposobu": [
+          "cicho",
+          "nagle"
+        ],
+        "top": [
+          {
+            "word": "dziś",
+            "count": 2
+          },
+          {
+            "word": "gdy",
+            "count": 2
+          },
+          {
+            "word": "tu",
+            "count": 1
+          },
+          {
+            "word": "skwapliwie",
+            "count": 1
+          },
+          {
+            "word": "kiedy",
+            "count": 1
+          },
+          {
+            "word": "nagle",
+            "count": 1
+          },
+          {
+            "word": "cicho",
+            "count": 1
+          },
+          {
+            "word": "dobrze",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 1,
+        "ty": 0,
+        "on_ona": 2,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 4,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 4,
+        "percentSentences": 0.27
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 456,
+        "consonants": 665,
+        "ratio": 0.69
+      },
+      "consonantClusters": {
+        "count": 33,
+        "top": [
+          {
+            "cluster": "prz",
+            "count": 5
+          },
+          {
+            "cluster": "krw",
+            "count": 2
+          },
+          {
+            "cluster": "szcz",
+            "count": 2
+          },
+          {
+            "cluster": "lcz",
+            "count": 2
+          },
+          {
+            "cluster": "tchn",
+            "count": 1
+          },
+          {
+            "cluster": "rwsz",
+            "count": 1
+          },
+          {
+            "cluster": "rsz",
+            "count": 1
+          },
+          {
+            "cluster": "skrz",
+            "count": 1
+          },
+          {
+            "cluster": "szn",
+            "count": 1
+          },
+          {
+            "cluster": "rdz",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 51,
+        "syczace": 121,
+        "nosowe": 139,
+        "plynne": 95
+      },
+      "rhymes": {
+        "exact": 0,
+        "approximate": 0,
+        "internal": 1,
+        "assonance": 0,
+        "alliteration": 2
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 13.9,
+        "median": 11,
+        "min": 3,
+        "max": 25,
+        "distribution": [
+          0,
+          0,
+          0,
+          2,
+          0,
+          0,
+          1,
+          2,
+          0,
+          0,
+          1,
+          2,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          1,
+          0,
+          1,
+          0,
+          2,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 5.9,
+        "meanSyllables": 12.9,
+        "distribution": [
+          0,
+          1,
+          0,
+          7,
+          2,
+          2,
+          8,
+          9,
+          4,
+          2,
+          1
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 14,
+        "interrogative": 0,
+        "imperative": 1,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 3,
+        "noSubject": 9,
+        "noPredicate": 0,
+        "percent": 0.8
+      },
+      "enjambement": {
+        "count": 3,
+        "percent": 0.09,
+        "positions": [
+          13,
+          24,
+          34
+        ]
+      },
+      "wordOrder": {
+        "svo": 0,
+        "inversions": 2,
+        "other": 13,
+        "deviationPercent": 1
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 4,
+        "śmierć": 2,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 0,
+        "ból": 1
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 466,
+      "estimatedSeconds": 155,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 68,
+      "VERB": 26,
+      "ADJ": 29,
+      "ADV": 10,
+      "PRON": 10,
+      "ADP": 21,
+      "CCONJ": 6,
+      "SCONJ": 12,
+      "INTJ": 0,
+      "PART": 14,
+      "DET": 6,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.325,
+      "VERB": 0.124,
+      "ADJ": 0.139,
+      "ADV": 0.048,
+      "PRON": 0.048,
+      "ADP": 0.1,
+      "CCONJ": 0.029,
+      "SCONJ": 0.057,
+      "INTJ": 0,
+      "PART": 0.067,
+      "DET": 0.029,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 8,
+      "abstract": 5,
+      "ratio": 0.62
+    },
+    "verbTenses": {
+      "present": 19,
+      "infinitive": 3,
+      "past": 3,
+      "future": 4,
+      "imperative": 1
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 1,
+      "stan": 4,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 1,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 1,
+      "oceniajace": 0,
+      "opisowe": 28
+    },
+    "adverbs": {
+      "temporalne": [],
+      "modalne": [],
+      "sposobu": [
+        "cicho",
+        "nagle"
+      ],
+      "top": [
+        {
+          "word": "dziś",
+          "count": 2
+        },
+        {
+          "word": "gdy",
+          "count": 2
+        },
+        {
+          "word": "tu",
+          "count": 1
+        },
+        {
+          "word": "skwapliwie",
+          "count": 1
+        },
+        {
+          "word": "kiedy",
+          "count": 1
+        },
+        {
+          "word": "nagle",
+          "count": 1
+        },
+        {
+          "word": "cicho",
+          "count": 1
+        },
+        {
+          "word": "dobrze",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 1,
+      "ty": 0,
+      "on_ona": 2,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 4,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 4,
+      "percentSentences": 0.27
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 13.9,
+      "median": 11,
+      "min": 3,
+      "max": 25,
+      "distribution": [
+        0,
+        0,
+        0,
+        2,
+        0,
+        0,
+        1,
+        2,
+        0,
+        0,
+        1,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        1,
+        1,
+        0,
+        1,
+        0,
+        2,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 5.9,
+      "meanSyllables": 12.9,
+      "distribution": [
+        0,
+        1,
+        0,
+        7,
+        2,
+        2,
+        8,
+        9,
+        4,
+        2,
+        1
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 14,
+      "interrogative": 0,
+      "imperative": 1,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 3,
+      "noSubject": 9,
+      "noPredicate": 0,
+      "percent": 0.8
+    },
+    "enjambement": {
+      "count": 3,
+      "percent": 0.09,
+      "positions": [
+        13,
+        24,
+        34
+      ]
+    },
+    "wordOrder": {
+      "svo": 0,
+      "inversions": 2,
+      "other": 13,
+      "deviationPercent": 1
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 456,
+      "consonants": 665,
+      "ratio": 0.69
+    },
+    "consonantClusters": {
+      "count": 33,
+      "top": [
+        {
+          "cluster": "prz",
+          "count": 5
+        },
+        {
+          "cluster": "krw",
+          "count": 2
+        },
+        {
+          "cluster": "szcz",
+          "count": 2
+        },
+        {
+          "cluster": "lcz",
+          "count": 2
+        },
+        {
+          "cluster": "tchn",
+          "count": 1
+        },
+        {
+          "cluster": "rwsz",
+          "count": 1
+        },
+        {
+          "cluster": "rsz",
+          "count": 1
+        },
+        {
+          "cluster": "skrz",
+          "count": 1
+        },
+        {
+          "cluster": "szn",
+          "count": 1
+        },
+        {
+          "cluster": "rdz",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 51,
+      "syczace": 121,
+      "nosowe": 139,
+      "plynne": 95
+    },
+    "rhymes": {
+      "exact": 0,
+      "approximate": 0,
+      "internal": 1,
+      "assonance": 0,
+      "alliteration": 2
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        36
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 466,
+      "estimatedSeconds": 155,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "polregularny",
+      "regularityScore": 0.66
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Rimbaud",
+          "reference": "\"ktoś kto myśli o morzu już jest utopiony\"",
+          "evidence": "nawiązanie do rimbaudowskiej metaforyki morza jako przestrzeni poetyckiej transformacji"
+        },
+        {
+          "source": "Baudelaire",
+          "reference": "sól na wargach, morze jako przestrzeń poetycka",
+          "evidence": "baudelairowska symbolika morza i podróży jako metafory twórczości"
+        },
+        {
+          "source": "inne",
+          "reference": "cela, śledczy, pięść",
+          "evidence": "kontekst więzienny, możliwe nawiązanie do doświadczeń represji politycznych"
+        }
+      ],
+      "selfQuotes": [
+        "pamięć moich pierwszych wierszy",
+        "skrzepła kropla krwi"
+      ],
+      "influences": {
+        "rimbaud": 0.8,
+        "baudelaire": 0.7,
+        "bursa": 0.3,
+        "stachura": 0.4,
+        "grochowiak": 0.5,
+        "bialoszewski": 0.2,
+        "rozewicz": 0.3
+      }
+    },
+    "space": {
+      "type": "zamknieta",
+      "evidence": "cela, kibel, okno jako granica między zamknięciem a otwartością, wnętrze vs. zewnętrze",
+      "openClosedRatio": 0.3
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "nieokreslona",
+      "evidence": "brak wyraźnych wskaźników temporalnych, czas psychologiczny dominuje nad fizycznym"
+    },
+    "motion": {
+      "movement": 7,
+      "stillness": 4,
+      "dynamism": 0.7,
+      "evidence": "szum planet, wpadają do ucha, wycieka na wiatr, głowę wychylam - dominuje ruch mentalny i kosmiczny"
+    },
+    "imageryDensity": {
+      "metaphors": 8,
+      "comparisons": 6,
+      "personifications": 4,
+      "hyperboles": 3,
+      "per100words": 12.4
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.8,
+      "creationLevel": 0.9,
+      "ironicDistance": 0.2,
+      "autobiographicSignals": [
+        "pamięć moich pierwszych wierszy",
+        "data 17 VII 1968",
+        "staję w oknie"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "melancholia",
+      "secondary": "rezygnacja",
+      "intensity": 0.8
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "Staję w oknie i głowę wychylam za okno / przemagam mdły głód / pozwalam sobie nie żałować"
+    },
+    "addressee": {
+      "type": "siebie",
+      "evidence": "monolog wewnętrzny, podmiot zwraca się do siebie: 'Uwierzę że to wreszcie są oczekiwane Słowa'"
+    },
+    "metaphors": [
+      {
+        "source": "krew",
+        "target": "poezja",
+        "example": "każdy jest skrzepłą już kroplą krwi Gwiazdą"
+      },
+      {
+        "source": "cela więzienna",
+        "target": "rzeczywistość",
+        "example": "Małej Dusznej jak cela Z księżycem jak kibel"
+      },
+      {
+        "source": "pięść",
+        "target": "milczenie",
+        "example": "Milczeniem jak pięść"
+      },
+      {
+        "source": "żagiel",
+        "target": "krew",
+        "example": "niewidzialny żagiel lotnej krwi za okno"
+      }
+    ],
+    "temperature": {
+      "value": 0.3,
+      "label": "chłodna melancholia z nutą przemocy"
+    },
+    "senses": {
+      "wzrok": 4,
+      "sluch": 5,
+      "dotyk": 3,
+      "smak": 2,
+      "zapach": 1
+    },
+    "autodestruction": {
+      "level": 0.7,
+      "signals": [
+        "śmierć cicho rosnąca od środka planety",
+        "krople krwi",
+        "utopienie",
+        "przemaganie mdłego głodu",
+        "niskiej śmierci"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 0.647,
+    "dfaAlpha": 0.796,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -0.7520386983881371
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -0.40147500449332785
+      },
+      {
+        "logWin": 1.6094379124341003,
+        "logFluc": 0.13018584727809424
+      },
+      {
+        "logWin": 1.791759469228055,
+        "logFluc": 0.11782160107416509
+      },
+      {
+        "logWin": 1.9459101490553132,
+        "logFluc": 0.19547262645758404
+      },
+      {
+        "logWin": 2.0794415416798357,
+        "logFluc": 0.2063442520329686
+      },
+      {
+        "logWin": 2.1972245773362196,
+        "logFluc": 0.19729384608875297
+      },
+      {
+        "logWin": 2.3978952727983707,
+        "logFluc": 0.35678094716862574
+      }
+    ],
+    "seriesLength": 35,
+    "series": [
+      7,
+      9,
+      8,
+      8,
+      3,
+      7,
+      8,
+      7,
+      6,
+      3,
+      8,
+      6,
+      7,
+      6,
+      3,
+      6,
+      5,
+      8,
+      9,
+      3,
+      4,
+      6,
+      6,
+      7,
+      3,
+      5,
+      6,
+      4,
+      7,
+      3,
+      7,
+      6,
+      7,
+      7,
+      3
+    ]
+  }
+}

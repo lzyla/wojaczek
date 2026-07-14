@@ -1,0 +1,834 @@
+{
+  "id": "kochanka-powieszonego",
+  "title": "Kochanka powieszonego",
+  "wordCount": 48,
+  "lineCount": 18,
+  "uniqueWords": 30,
+  "vocabularyRichness": 0.625,
+  "avgWordsPerLine": 2.67,
+  "wordsPerLineDistribution": [
+    2,
+    4,
+    3,
+    3,
+    2,
+    5,
+    2,
+    3,
+    2,
+    3,
+    2,
+    3,
+    2,
+    3,
+    1,
+    2,
+    2,
+    4
+  ],
+  "wordFrequencies": [
+    [
+      "kochanka",
+      5
+    ],
+    [
+      "powieszonego",
+      5
+    ],
+    [
+      "śnie",
+      2
+    ],
+    [
+      "czarną",
+      2
+    ],
+    [
+      "twarzą",
+      2
+    ],
+    [
+      "patrzy",
+      1
+    ],
+    [
+      "oczu",
+      1
+    ],
+    [
+      "przygląda",
+      1
+    ],
+    [
+      "kucki",
+      1
+    ],
+    [
+      "głowie",
+      1
+    ],
+    [
+      "rodzi",
+      1
+    ],
+    [
+      "małe",
+      1
+    ],
+    [
+      "bólu",
+      1
+    ],
+    [
+      "dziecko",
+      1
+    ],
+    [
+      "wpół",
+      1
+    ],
+    [
+      "rozrywa",
+      1
+    ],
+    [
+      "własną",
+      1
+    ],
+    [
+      "pierś",
+      1
+    ],
+    [
+      "ssie",
+      1
+    ],
+    [
+      "paznokciami",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 0,
+    "period": 1,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 0,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 0,
+  "negationWords": [],
+  "pronounDistribution": {
+    "ja": 0,
+    "ty": 0,
+    "on_ona": 4,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 1,
+    "smierc": 0,
+    "erotyka": 1,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [
+    [
+      "kochanka",
+      5
+    ],
+    [
+      "z czarną",
+      2
+    ]
+  ],
+  "firstWord": "kochanka",
+  "lastWord": "śnie",
+  "avgWordLength": 5.54,
+  "wordLengthDistribution": {
+    "8-9": 6,
+    "10+": 6,
+    "6-7": 10,
+    "1-3": 10,
+    "4-5": 16
+  },
+  "bigrams": [
+    [
+      "kochanka powieszonego",
+      5
+    ],
+    [
+      "czarną twarzą",
+      2
+    ],
+    [
+      "powieszonego patrzy",
+      1
+    ],
+    [
+      "oczu przygląda",
+      1
+    ],
+    [
+      "śnie kochanka",
+      1
+    ]
+  ],
+  "poemWords": [
+    "kochanka",
+    "powieszonego",
+    "patrzy",
+    "oczu",
+    "przygląda",
+    "śnie",
+    "kucki",
+    "głowie",
+    "rodzi",
+    "małe",
+    "czarną",
+    "twarzą",
+    "bólu",
+    "dziecko",
+    "wpół",
+    "rozrywa",
+    "własną",
+    "pierś",
+    "ssie",
+    "paznokciami",
+    "umiera"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 16,
+        "VERB": 6,
+        "ADJ": 7,
+        "ADV": 1,
+        "PRON": 7,
+        "ADP": 9,
+        "CCONJ": 0,
+        "SCONJ": 0,
+        "INTJ": 0,
+        "PART": 0,
+        "DET": 0,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.32,
+        "VERB": 0.12,
+        "ADJ": 0.14,
+        "ADV": 0.02,
+        "PRON": 0.14,
+        "ADP": 0.18,
+        "CCONJ": 0,
+        "SCONJ": 0,
+        "INTJ": 0,
+        "PART": 0,
+        "DET": 0,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 2,
+        "abstract": 3,
+        "ratio": 0.4
+      },
+      "verbTenses": {
+        "present": 6
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 1,
+        "stan": 0,
+        "destrukcja": 0,
+        "tworzenie": 1,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 2,
+        "oceniajace": 0,
+        "opisowe": 5
+      },
+      "adverbs": {
+        "temporalne": [],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "wpół",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 0,
+        "ty": 0,
+        "on_ona": 4,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 0,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 0,
+        "percentSentences": 0
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 124,
+        "consonants": 162,
+        "ratio": 0.77
+      },
+      "consonantClusters": {
+        "count": 3,
+        "top": [
+          {
+            "cluster": "prz",
+            "count": 2
+          },
+          {
+            "cluster": "trz",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 14,
+        "syczace": 23,
+        "nosowe": 29,
+        "plynne": 18
+      },
+      "rhymes": {
+        "exact": 6,
+        "approximate": 6,
+        "internal": 0,
+        "assonance": 2,
+        "alliteration": 4
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 16.7,
+        "median": 6,
+        "min": 3,
+        "max": 41,
+        "distribution": [
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 2.6,
+        "meanSyllables": 6.8,
+        "distribution": [
+          0,
+          1,
+          9,
+          6,
+          2,
+          1
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 3,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 1,
+        "noSubject": 0,
+        "noPredicate": 0,
+        "percent": 0.33
+      },
+      "enjambement": {
+        "count": 12,
+        "percent": 0.67,
+        "positions": [
+          2,
+          3,
+          4,
+          6,
+          7,
+          8,
+          10,
+          11,
+          12,
+          14,
+          16,
+          18
+        ]
+      },
+      "wordOrder": {
+        "svo": 2,
+        "inversions": 0,
+        "other": 1,
+        "deviationPercent": 0.33
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 3,
+        "śmierć": 0,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 1,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 130,
+      "estimatedSeconds": 43,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 16,
+      "VERB": 6,
+      "ADJ": 7,
+      "ADV": 1,
+      "PRON": 7,
+      "ADP": 9,
+      "CCONJ": 0,
+      "SCONJ": 0,
+      "INTJ": 0,
+      "PART": 0,
+      "DET": 0,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.32,
+      "VERB": 0.12,
+      "ADJ": 0.14,
+      "ADV": 0.02,
+      "PRON": 0.14,
+      "ADP": 0.18,
+      "CCONJ": 0,
+      "SCONJ": 0,
+      "INTJ": 0,
+      "PART": 0,
+      "DET": 0,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 2,
+      "abstract": 3,
+      "ratio": 0.4
+    },
+    "verbTenses": {
+      "present": 6
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 1,
+      "stan": 0,
+      "destrukcja": 0,
+      "tworzenie": 1,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 2,
+      "oceniajace": 0,
+      "opisowe": 5
+    },
+    "adverbs": {
+      "temporalne": [],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "wpół",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 0,
+      "ty": 0,
+      "on_ona": 4,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 0,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 0,
+      "percentSentences": 0
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 16.7,
+      "median": 6,
+      "min": 3,
+      "max": 41,
+      "distribution": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 2.6,
+      "meanSyllables": 6.8,
+      "distribution": [
+        0,
+        1,
+        9,
+        6,
+        2,
+        1
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 3,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 1,
+      "noSubject": 0,
+      "noPredicate": 0,
+      "percent": 0.33
+    },
+    "enjambement": {
+      "count": 12,
+      "percent": 0.67,
+      "positions": [
+        2,
+        3,
+        4,
+        6,
+        7,
+        8,
+        10,
+        11,
+        12,
+        14,
+        16,
+        18
+      ]
+    },
+    "wordOrder": {
+      "svo": 2,
+      "inversions": 0,
+      "other": 1,
+      "deviationPercent": 0.33
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 124,
+      "consonants": 162,
+      "ratio": 0.77
+    },
+    "consonantClusters": {
+      "count": 3,
+      "top": [
+        {
+          "cluster": "prz",
+          "count": 2
+        },
+        {
+          "cluster": "trz",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 14,
+      "syczace": 23,
+      "nosowe": 29,
+      "plynne": 18
+    },
+    "rhymes": {
+      "exact": 6,
+      "approximate": 6,
+      "internal": 0,
+      "assonance": 2,
+      "alliteration": 4
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        19
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 130,
+      "estimatedSeconds": 43,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "polregularny",
+      "regularityScore": 0.68
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Biblia",
+          "reference": "Pietà - matka opłakująca syna",
+          "evidence": "obraz kobiety przy głowie zmarłego, motyw cierpienia i śmierci"
+        },
+        {
+          "source": "mitologia",
+          "reference": "archetyp Wielkiej Matki",
+          "evidence": "kobieta rodząca przy zmarłym, ssąca własną pierś"
+        },
+        {
+          "source": "Baudelaire",
+          "reference": "Une Charogne",
+          "evidence": "estetyzacja śmierci i rozkładu, czarna twarz"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.3,
+        "baudelaire": 0.7,
+        "bursa": 0.2,
+        "stachura": 0.1,
+        "grochowiak": 0.4,
+        "bialoszewski": 0.1,
+        "rozewicz": 0.2
+      }
+    },
+    "space": {
+      "type": "zamknieta",
+      "evidence": "intymna przestrzeń przy głowie powieszonego, w kucki - pozycja ograniczająca przestrzeń",
+      "openClosedRatio": 0.1
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "nieokreslona",
+      "evidence": "brak wskazówek temporalnych, dominuje czas psychiczny śmierci i snu"
+    },
+    "motion": {
+      "movement": 3,
+      "stillness": 7,
+      "dynamism": 0.3,
+      "evidence": "ograniczony ruch - patrzenie, przyglądanie się, ssanie; dominuje statyczność śmierci"
+    },
+    "imageryDensity": {
+      "metaphors": 4,
+      "comparisons": 0,
+      "personifications": 1,
+      "hyperboles": 2,
+      "per100words": 35
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.8,
+      "creationLevel": 0.7,
+      "ironicDistance": 0.1,
+      "autobiographicSignals": [
+        "intymność opisu",
+        "motyw śmierci przez powieszenie",
+        "obsesyjne powtórzenie tytułu"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "rozpacz",
+      "secondary": "obrzydzenie",
+      "intensity": 0.9
+    },
+    "subjectPresence": {
+      "type": "ukryte",
+      "evidence": "podmiot liryczny obserwuje scenę z zewnątrz, opisując kochankę w trzeciej osobie"
+    },
+    "addressee": {
+      "type": "czytelnik",
+      "evidence": "wiersz ma formę opowieści skierowanej do odbiorcy, bez bezpośrednich zwrotów"
+    },
+    "metaphors": [
+      {
+        "source": "sen powieszonego",
+        "target": "śmierć/nicość",
+        "example": "przygląda się sobie w jego śnie"
+      },
+      {
+        "source": "czarna twarz dziecka",
+        "target": "śmierć/przekleństwo",
+        "example": "rodzi małe z czarną twarzą"
+      },
+      {
+        "source": "ssanie własnej piersi",
+        "target": "autodestrukcja/samożywienie",
+        "example": "własną pierś ssie"
+      }
+    ],
+    "temperature": {
+      "value": 0.8,
+      "label": "gorące cierpienie"
+    },
+    "senses": {
+      "wzrok": 5,
+      "sluch": 0,
+      "dotyk": 4,
+      "smak": 2,
+      "zapach": 0
+    },
+    "autodestruction": {
+      "level": 0.9,
+      "signals": [
+        "paznokciami po sobie",
+        "własną pierś ssie",
+        "umiera w jego śnie",
+        "dziecko wpół rozrywa"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 0.677,
+    "dfaAlpha": 0.311,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -0.9343602551820916
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -0.9246893498506138
+      },
+      {
+        "logWin": 1.6094379124341003,
+        "logFluc": -0.9130555550256884
+      },
+      {
+        "logWin": 1.791759469228055,
+        "logFluc": -0.6809152519370615
+      }
+    ],
+    "seriesLength": 18,
+    "series": [
+      2,
+      4,
+      3,
+      3,
+      2,
+      5,
+      2,
+      3,
+      2,
+      3,
+      2,
+      3,
+      2,
+      3,
+      1,
+      2,
+      2,
+      4
+    ]
+  }
+}

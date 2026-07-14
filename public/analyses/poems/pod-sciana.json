@@ -1,0 +1,778 @@
+{
+  "id": "pod-sciana",
+  "title": "Pod ścianą",
+  "wordCount": 57,
+  "lineCount": 8,
+  "uniqueWords": 45,
+  "vocabularyRichness": 0.789,
+  "avgWordsPerLine": 7.13,
+  "wordsPerLineDistribution": [
+    8,
+    7,
+    7,
+    6,
+    8,
+    8,
+    6,
+    7
+  ],
+  "wordFrequencies": [
+    [
+      "śliny",
+      3
+    ],
+    [
+      "naszej",
+      2
+    ],
+    [
+      "spada",
+      2
+    ],
+    [
+      "widzieliśmy",
+      1
+    ],
+    [
+      "czasem",
+      1
+    ],
+    [
+      "zwęszymy",
+      1
+    ],
+    [
+      "smak",
+      1
+    ],
+    [
+      "smakiem",
+      1
+    ],
+    [
+      "kiedyś",
+      1
+    ],
+    [
+      "musieliśmy",
+      1
+    ],
+    [
+      "pić",
+      1
+    ],
+    [
+      "kropelki",
+      1
+    ],
+    [
+      "mówią",
+      1
+    ],
+    [
+      "sklejone",
+      1
+    ],
+    [
+      "plastrem",
+      1
+    ],
+    [
+      "wargi",
+      1
+    ],
+    [
+      "kim",
+      1
+    ],
+    [
+      "nami",
+      1
+    ],
+    [
+      "gwiazda",
+      1
+    ],
+    [
+      "głąb",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 1,
+    "period": 4,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 1,
+    "colon": 1,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 3,
+  "negationWords": [
+    "nie",
+    "nigdy"
+  ],
+  "pronounDistribution": {
+    "ja": 0,
+    "ty": 0,
+    "on_ona": 4,
+    "my": 3,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 2,
+    "smierc": 0,
+    "erotyka": 0,
+    "alkohol": 1,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [],
+  "firstWord": "nie",
+  "lastWord": "pachami",
+  "avgWordLength": 4.91,
+  "wordLengthDistribution": {
+    "1-3": 16,
+    "10+": 3,
+    "4-5": 24,
+    "6-7": 10,
+    "8-9": 4
+  },
+  "bigrams": [
+    [
+      "czasem zwęszymy",
+      1
+    ],
+    [
+      "zwęszymy smak",
+      1
+    ],
+    [
+      "smak naszej",
+      1
+    ],
+    [
+      "naszej śliny",
+      1
+    ],
+    [
+      "śliny kiedyś",
+      1
+    ]
+  ],
+  "poemWords": [
+    "widzieliśmy",
+    "czasem",
+    "zwęszymy",
+    "smak",
+    "naszej",
+    "śliny",
+    "smakiem",
+    "kiedyś",
+    "musieliśmy",
+    "pić",
+    "kropelki",
+    "mówią",
+    "sklejone",
+    "plastrem",
+    "wargi",
+    "kim",
+    "nami",
+    "gwiazda",
+    "spada",
+    "głąb",
+    "nieba",
+    "mieszkaniem",
+    "śmierci",
+    "odrasta",
+    "ciągle",
+    "nowa",
+    "włosy",
+    "pachami"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 16,
+        "VERB": 9,
+        "ADJ": 2,
+        "ADV": 4,
+        "PRON": 8,
+        "ADP": 4,
+        "CCONJ": 2,
+        "SCONJ": 2,
+        "INTJ": 0,
+        "PART": 3,
+        "DET": 3,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.281,
+        "VERB": 0.158,
+        "ADJ": 0.035,
+        "ADV": 0.07,
+        "PRON": 0.14,
+        "ADP": 0.07,
+        "CCONJ": 0.035,
+        "SCONJ": 0.035,
+        "INTJ": 0,
+        "PART": 0.053,
+        "DET": 0.053,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 0,
+        "abstract": 2,
+        "ratio": 0
+      },
+      "verbTenses": {
+        "past": 2,
+        "future": 1,
+        "present": 9,
+        "infinitive": 1
+      },
+      "verbSemantics": {
+        "ruch": 2,
+        "percepcja": 0,
+        "stan": 4,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 1,
+        "cialo": 1
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 0,
+        "opisowe": 2
+      },
+      "adverbs": {
+        "temporalne": [
+          "ciągle",
+          "kiedyś",
+          "nigdy"
+        ],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "nigdy",
+            "count": 1
+          },
+          {
+            "word": "gdy",
+            "count": 1
+          },
+          {
+            "word": "kiedyś",
+            "count": 1
+          },
+          {
+            "word": "ciągle",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 0,
+        "ty": 0,
+        "on_ona": 4,
+        "my": 2,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 2,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 1,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 3,
+        "percentSentences": 0.6
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 112,
+        "consonants": 168,
+        "ratio": 0.67
+      },
+      "consonantClusters": {
+        "count": 3,
+        "top": [
+          {
+            "cluster": "skl",
+            "count": 1
+          },
+          {
+            "cluster": "str",
+            "count": 1
+          },
+          {
+            "cluster": "szk",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 9,
+        "syczace": 30,
+        "nosowe": 38,
+        "plynne": 19
+      },
+      "rhymes": {
+        "exact": 2,
+        "approximate": 0,
+        "internal": 1,
+        "assonance": 2,
+        "alliteration": 1
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 11.4,
+        "median": 13,
+        "min": 0,
+        "max": 16,
+        "distribution": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          2,
+          0,
+          1,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 7.2,
+        "meanSyllables": 14.4,
+        "distribution": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          2,
+          3,
+          2,
+          1
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 5,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 0,
+        "noSubject": 2,
+        "noPredicate": 0,
+        "percent": 0.4
+      },
+      "enjambement": {
+        "count": 3,
+        "percent": 0.43,
+        "positions": [
+          1,
+          3,
+          7
+        ]
+      },
+      "wordOrder": {
+        "svo": 1,
+        "inversions": 1,
+        "other": 2,
+        "deviationPercent": 0.75
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 3,
+        "śmierć": 0,
+        "erotyka": 0,
+        "alkohol": 1,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 115,
+      "estimatedSeconds": 38,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 16,
+      "VERB": 9,
+      "ADJ": 2,
+      "ADV": 4,
+      "PRON": 8,
+      "ADP": 4,
+      "CCONJ": 2,
+      "SCONJ": 2,
+      "INTJ": 0,
+      "PART": 3,
+      "DET": 3,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.281,
+      "VERB": 0.158,
+      "ADJ": 0.035,
+      "ADV": 0.07,
+      "PRON": 0.14,
+      "ADP": 0.07,
+      "CCONJ": 0.035,
+      "SCONJ": 0.035,
+      "INTJ": 0,
+      "PART": 0.053,
+      "DET": 0.053,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 0,
+      "abstract": 2,
+      "ratio": 0
+    },
+    "verbTenses": {
+      "past": 2,
+      "future": 1,
+      "present": 9,
+      "infinitive": 1
+    },
+    "verbSemantics": {
+      "ruch": 2,
+      "percepcja": 0,
+      "stan": 4,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 1,
+      "cialo": 1
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 0,
+      "opisowe": 2
+    },
+    "adverbs": {
+      "temporalne": [
+        "ciągle",
+        "kiedyś",
+        "nigdy"
+      ],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "nigdy",
+          "count": 1
+        },
+        {
+          "word": "gdy",
+          "count": 1
+        },
+        {
+          "word": "kiedyś",
+          "count": 1
+        },
+        {
+          "word": "ciągle",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 0,
+      "ty": 0,
+      "on_ona": 4,
+      "my": 2,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 2,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 1,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 3,
+      "percentSentences": 0.6
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 11.4,
+      "median": 13,
+      "min": 0,
+      "max": 16,
+      "distribution": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        0,
+        1,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 7.2,
+      "meanSyllables": 14.4,
+      "distribution": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        3,
+        2,
+        1
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 5,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 0,
+      "noSubject": 2,
+      "noPredicate": 0,
+      "percent": 0.4
+    },
+    "enjambement": {
+      "count": 3,
+      "percent": 0.43,
+      "positions": [
+        1,
+        3,
+        7
+      ]
+    },
+    "wordOrder": {
+      "svo": 1,
+      "inversions": 1,
+      "other": 2,
+      "deviationPercent": 0.75
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 112,
+      "consonants": 168,
+      "ratio": 0.67
+    },
+    "consonantClusters": {
+      "count": 3,
+      "top": [
+        {
+          "cluster": "skl",
+          "count": 1
+        },
+        {
+          "cluster": "str",
+          "count": 1
+        },
+        {
+          "cluster": "szk",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 9,
+      "syczace": 30,
+      "nosowe": 38,
+      "plynne": 19
+    },
+    "rhymes": {
+      "exact": 2,
+      "approximate": 0,
+      "internal": 1,
+      "assonance": 2,
+      "alliteration": 1
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        8
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 115,
+      "estimatedSeconds": 38,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "regularny",
+      "regularityScore": 0.88
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Biblia",
+          "reference": "motyw pierwotnej jedności, rajskiego stanu",
+          "evidence": "Kiedyś musieliśmy pić z kropelki jej śliny - echo biblijnego motywu utraconych początków"
+        },
+        {
+          "source": "mitologia",
+          "reference": "gwiazda spadająca jako omen",
+          "evidence": "jej gwiazda jeśli spada w głąb nieba spada"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.7,
+        "baudelaire": 0.4,
+        "bursa": 0.3,
+        "stachura": 0.2,
+        "grochowiak": 0.6,
+        "bialoszewski": 0.1,
+        "rozewicz": 0.3
+      }
+    },
+    "space": {
+      "type": "nieokreslona",
+      "evidence": "przestrzeń mentalna, wewnętrzna - 'głąb nieba', brak konkretnych lokalizacji",
+      "openClosedRatio": 0.3
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "nieokreslona",
+      "evidence": "czas mityczny, pierwotny - 'Kiedyś musieliśmy', brak wskazówek temporalnych"
+    },
+    "motion": {
+      "movement": 3,
+      "stillness": 7,
+      "dynamism": 0.3,
+      "evidence": "dominuje stasis - 'Nie widzieliśmy', 'jest mieszkaniem', jedyny ruch to spadająca gwiazda i odrastające włosy"
+    },
+    "imageryDensity": {
+      "metaphors": 4,
+      "comparisons": 1,
+      "personifications": 2,
+      "hyperboles": 1,
+      "per100words": 12.5
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.8,
+      "creationLevel": 0.6,
+      "ironicDistance": 0.2,
+      "autobiographicSignals": [
+        "nasze sklejone plastrem wargi",
+        "smak naszej śliny",
+        "mieszkaniem naszej śmierci"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "melancholia",
+      "secondary": "tęsknota",
+      "intensity": 0.8
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "wielokrotne użycie form pierwszej osoby liczby mnogiej: 'nie widzieliśmy', 'zwęszymy', 'nasze', 'nam'"
+    },
+    "addressee": {
+      "type": "nikt",
+      "evidence": "wiersz ma charakter refleksyjny, brak bezpośredniego zwrotu do konkretnego adresata"
+    },
+    "metaphors": [
+      {
+        "source": "ślina",
+        "target": "więź egzystencjalna",
+        "example": "smak naszej śliny jest smakiem jej śliny"
+      },
+      {
+        "source": "gwiazda spadająca",
+        "target": "nieuchwytność istoty",
+        "example": "jej gwiazda jeśli spada w głąb nieba spada"
+      },
+      {
+        "source": "mieszkanie śmierci",
+        "target": "kondycja ludzka",
+        "example": "Jest mieszkaniem naszej śmierci, co odrasta"
+      }
+    ],
+    "temperature": {
+      "value": 0.3,
+      "label": "chłodna kontemplacja"
+    },
+    "senses": {
+      "wzrok": 2,
+      "sluch": 1,
+      "dotyk": 3,
+      "smak": 5,
+      "zapach": 4
+    },
+    "autodestruction": {
+      "level": 0.6,
+      "signals": [
+        "obsesja na punkcie śmierci",
+        "poczucie niepoznawalności siebie",
+        "metafora śmierci odrastającej jak włosy"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": null,
+    "dfaAlpha": null,
+    "dfaScaling": [],
+    "seriesLength": 8,
+    "series": [
+      8,
+      7,
+      7,
+      6,
+      8,
+      8,
+      6,
+      7
+    ]
+  }
+}

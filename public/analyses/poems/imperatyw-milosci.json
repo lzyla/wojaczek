@@ -1,0 +1,923 @@
+{
+  "id": "imperatyw-milosci",
+  "title": "Imperatyw miłości",
+  "wordCount": 91,
+  "lineCount": 16,
+  "uniqueWords": 76,
+  "vocabularyRichness": 0.835,
+  "avgWordsPerLine": 5.69,
+  "wordsPerLineDistribution": [
+    5,
+    5,
+    5,
+    4,
+    6,
+    8,
+    6,
+    6,
+    7,
+    6,
+    5,
+    5,
+    6,
+    6,
+    5,
+    6
+  ],
+  "wordFrequencies": [
+    [
+      "zmieniasz",
+      2
+    ],
+    [
+      "prześcieradło",
+      2
+    ],
+    [
+      "miłości",
+      2
+    ],
+    [
+      "naszej",
+      2
+    ],
+    [
+      "przyjście",
+      1
+    ],
+    [
+      "wyjściu",
+      1
+    ],
+    [
+      "sprawozdania",
+      1
+    ],
+    [
+      "czyta",
+      1
+    ],
+    [
+      "patronka",
+      1
+    ],
+    [
+      "skrupulatna",
+      1
+    ],
+    [
+      "praczka",
+      1
+    ],
+    [
+      "nami",
+      1
+    ],
+    [
+      "zawsze",
+      1
+    ],
+    [
+      "szczerze",
+      1
+    ],
+    [
+      "płacze",
+      1
+    ],
+    [
+      "bólu",
+      1
+    ],
+    [
+      "złości",
+      1
+    ],
+    [
+      "krzyż",
+      1
+    ],
+    [
+      "łamie",
+      1
+    ],
+    [
+      "zgiętą",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 4,
+    "period": 7,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 4,
+    "colon": 3,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 2,
+  "negationWords": [
+    "nie"
+  ],
+  "pronounDistribution": {
+    "ja": 2,
+    "ty": 0,
+    "on_ona": 3,
+    "my": 2,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 0,
+    "smierc": 0,
+    "erotyka": 1,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 1,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [
+    [
+      "bo",
+      2
+    ]
+  ],
+  "firstWord": "na",
+  "lastWord": "skończyć",
+  "avgWordLength": 5.44,
+  "wordLengthDistribution": {
+    "1-3": 25,
+    "4-5": 25,
+    "8-9": 12,
+    "10+": 7,
+    "6-7": 22
+  },
+  "bigrams": [
+    [
+      "zmieniasz prześcieradło",
+      2
+    ],
+    [
+      "przyjście zmieniasz",
+      1
+    ],
+    [
+      "moim wyjściu",
+      1
+    ],
+    [
+      "wyjściu zmieniasz",
+      1
+    ],
+    [
+      "prześcieradło potem",
+      1
+    ],
+    [
+      "miłości naszej",
+      1
+    ],
+    [
+      "naszej sprawozdania",
+      1
+    ],
+    [
+      "sprawozdania czyta",
+      1
+    ],
+    [
+      "czyta patronka",
+      1
+    ]
+  ],
+  "poemWords": [
+    "przyjście",
+    "zmieniasz",
+    "prześcieradło",
+    "wyjściu",
+    "miłości",
+    "naszej",
+    "sprawozdania",
+    "czyta",
+    "patronka",
+    "skrupulatna",
+    "praczka",
+    "nami",
+    "zawsze",
+    "szczerze",
+    "płacze",
+    "bólu",
+    "złości",
+    "krzyż",
+    "łamie",
+    "zgiętą",
+    "balią",
+    "pisania",
+    "widać",
+    "końca",
+    "ciekawa",
+    "powieść",
+    "tworzy",
+    "ustną",
+    "swym",
+    "kantorze",
+    "przekazuje",
+    "pilnym",
+    "słuchaczom",
+    "stałej",
+    "klienteli",
+    "gościom",
+    "sąsiadkom",
+    "wierzę",
+    "imperatyw",
+    "skoro",
+    "służymy",
+    "sprawie",
+    "miłość",
+    "gwoli",
+    "pożytkowi",
+    "publicznemu",
+    "skończyć"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 24,
+        "VERB": 13,
+        "ADJ": 7,
+        "ADV": 7,
+        "PRON": 7,
+        "ADP": 8,
+        "CCONJ": 4,
+        "SCONJ": 3,
+        "INTJ": 0,
+        "PART": 5,
+        "DET": 9,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.258,
+        "VERB": 0.14,
+        "ADJ": 0.075,
+        "ADV": 0.075,
+        "PRON": 0.075,
+        "ADP": 0.086,
+        "CCONJ": 0.043,
+        "SCONJ": 0.032,
+        "INTJ": 0,
+        "PART": 0.054,
+        "DET": 0.097,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 0,
+        "abstract": 4,
+        "ratio": 0
+      },
+      "verbTenses": {
+        "present": 15,
+        "infinitive": 1
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 3,
+        "destrukcja": 0,
+        "tworzenie": 1,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 1,
+        "opisowe": 6
+      },
+      "adverbs": {
+        "temporalne": [
+          "potem",
+          "teraz",
+          "zawsze"
+        ],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "gdy",
+            "count": 2
+          },
+          {
+            "word": "potem",
+            "count": 1
+          },
+          {
+            "word": "zawsze",
+            "count": 1
+          },
+          {
+            "word": "szczerze",
+            "count": 1
+          },
+          {
+            "word": "kiedy",
+            "count": 1
+          },
+          {
+            "word": "teraz",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 0,
+        "ty": 0,
+        "on_ona": 5,
+        "my": 1,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 2,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 2,
+        "percentSentences": 0.22
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 209,
+        "consonants": 302,
+        "ratio": 0.69
+      },
+      "consonantClusters": {
+        "count": 17,
+        "top": [
+          {
+            "cluster": "prz",
+            "count": 5
+          },
+          {
+            "cluster": "jśc",
+            "count": 2
+          },
+          {
+            "cluster": "spr",
+            "count": 2
+          },
+          {
+            "cluster": "skr",
+            "count": 1
+          },
+          {
+            "cluster": "czk",
+            "count": 1
+          },
+          {
+            "cluster": "wsz",
+            "count": 1
+          },
+          {
+            "cluster": "szcz",
+            "count": 1
+          },
+          {
+            "cluster": "krz",
+            "count": 1
+          },
+          {
+            "cluster": "stn",
+            "count": 1
+          },
+          {
+            "cluster": "czn",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 31,
+        "syczace": 56,
+        "nosowe": 57,
+        "plynne": 44
+      },
+      "rhymes": {
+        "exact": 2,
+        "approximate": 1,
+        "internal": 0,
+        "assonance": 1,
+        "alliteration": 2
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 10.3,
+        "median": 7,
+        "min": 1,
+        "max": 23,
+        "distribution": [
+          0,
+          1,
+          0,
+          1,
+          0,
+          1,
+          1,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          2
+        ]
+      },
+      "lineLength": {
+        "meanWords": 5.7,
+        "meanSyllables": 12.7,
+        "distribution": [
+          0,
+          0,
+          1,
+          0,
+          0,
+          7,
+          4,
+          4,
+          1
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 9,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 2,
+        "noSubject": 3,
+        "noPredicate": 0,
+        "percent": 0.56
+      },
+      "enjambement": {
+        "count": 0,
+        "percent": 0,
+        "positions": []
+      },
+      "wordOrder": {
+        "svo": 2,
+        "inversions": 2,
+        "other": 4,
+        "deviationPercent": 0.75
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 0,
+        "śmierć": 0,
+        "erotyka": 2,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 1,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 216,
+      "estimatedSeconds": 72,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 24,
+      "VERB": 13,
+      "ADJ": 7,
+      "ADV": 7,
+      "PRON": 7,
+      "ADP": 8,
+      "CCONJ": 4,
+      "SCONJ": 3,
+      "INTJ": 0,
+      "PART": 5,
+      "DET": 9,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.258,
+      "VERB": 0.14,
+      "ADJ": 0.075,
+      "ADV": 0.075,
+      "PRON": 0.075,
+      "ADP": 0.086,
+      "CCONJ": 0.043,
+      "SCONJ": 0.032,
+      "INTJ": 0,
+      "PART": 0.054,
+      "DET": 0.097,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 0,
+      "abstract": 4,
+      "ratio": 0
+    },
+    "verbTenses": {
+      "present": 15,
+      "infinitive": 1
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 3,
+      "destrukcja": 0,
+      "tworzenie": 1,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 1,
+      "opisowe": 6
+    },
+    "adverbs": {
+      "temporalne": [
+        "potem",
+        "teraz",
+        "zawsze"
+      ],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "gdy",
+          "count": 2
+        },
+        {
+          "word": "potem",
+          "count": 1
+        },
+        {
+          "word": "zawsze",
+          "count": 1
+        },
+        {
+          "word": "szczerze",
+          "count": 1
+        },
+        {
+          "word": "kiedy",
+          "count": 1
+        },
+        {
+          "word": "teraz",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 0,
+      "ty": 0,
+      "on_ona": 5,
+      "my": 1,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 2,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 2,
+      "percentSentences": 0.22
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 10.3,
+      "median": 7,
+      "min": 1,
+      "max": 23,
+      "distribution": [
+        0,
+        1,
+        0,
+        1,
+        0,
+        1,
+        1,
+        1,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2
+      ]
+    },
+    "lineLength": {
+      "meanWords": 5.7,
+      "meanSyllables": 12.7,
+      "distribution": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        7,
+        4,
+        4,
+        1
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 9,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 2,
+      "noSubject": 3,
+      "noPredicate": 0,
+      "percent": 0.56
+    },
+    "enjambement": {
+      "count": 0,
+      "percent": 0,
+      "positions": []
+    },
+    "wordOrder": {
+      "svo": 2,
+      "inversions": 2,
+      "other": 4,
+      "deviationPercent": 0.75
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 209,
+      "consonants": 302,
+      "ratio": 0.69
+    },
+    "consonantClusters": {
+      "count": 17,
+      "top": [
+        {
+          "cluster": "prz",
+          "count": 5
+        },
+        {
+          "cluster": "jśc",
+          "count": 2
+        },
+        {
+          "cluster": "spr",
+          "count": 2
+        },
+        {
+          "cluster": "skr",
+          "count": 1
+        },
+        {
+          "cluster": "czk",
+          "count": 1
+        },
+        {
+          "cluster": "wsz",
+          "count": 1
+        },
+        {
+          "cluster": "szcz",
+          "count": 1
+        },
+        {
+          "cluster": "krz",
+          "count": 1
+        },
+        {
+          "cluster": "stn",
+          "count": 1
+        },
+        {
+          "cluster": "czn",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 31,
+      "syczace": 56,
+      "nosowe": 57,
+      "plynne": 44
+    },
+    "rhymes": {
+      "exact": 2,
+      "approximate": 1,
+      "internal": 0,
+      "assonance": 1,
+      "alliteration": 2
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        17
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 216,
+      "estimatedSeconds": 72,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "regularny",
+      "regularityScore": 0.85
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Kant",
+          "reference": "imperatyw kategoryczny",
+          "evidence": "tytuł 'IMPERATYW MIŁOŚCI' i fraza 'to jest właśnie imperatyw'"
+        },
+        {
+          "source": "Biblia",
+          "reference": "krzyż jako symbol cierpienia",
+          "evidence": "kiedy ją krzyż łamie / Zgiętą nad balią"
+        },
+        {
+          "source": "inne",
+          "reference": "literatura epistolarna/pamiętnikarska",
+          "evidence": "sprawozdania / tego pisania / powieść tworzy"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.2,
+        "baudelaire": 0.1,
+        "bursa": 0.1,
+        "stachura": 0.1,
+        "grochowiak": 0.3,
+        "bialoszewski": 0.7,
+        "rozewicz": 0.6
+      }
+    },
+    "space": {
+      "type": "zamknieta",
+      "evidence": "prywatna sypialnia kontra publiczny 'kantor' praczki, przestrzeń intymna vs społeczna",
+      "openClosedRatio": 0.3
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "nieokreslona",
+      "evidence": "brak wskazówek temporalnych, akcent na cykliczność czynności"
+    },
+    "motion": {
+      "movement": 6,
+      "stillness": 4,
+      "dynamism": 0.6,
+      "evidence": "dynamika 'przyjście-wyjście', 'zmienianie prześcieradła', praczka 'zgięta nad balią'"
+    },
+    "imageryDensity": {
+      "metaphors": 3,
+      "comparisons": 0,
+      "personifications": 2,
+      "hyperboles": 1,
+      "per100words": 37.5
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.8,
+      "creationLevel": 0.6,
+      "ironicDistance": 0.4,
+      "autobiographicSignals": [
+        "intymne szczegóły relacji",
+        "konkretne sytuacje z prześcieradłem",
+        "osobiste doświadczenie miłosne"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "ironia",
+      "secondary": "obrzydzenie",
+      "intensity": 0.8
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "podmiot liryczny używa form pierwszej osoby: 'moje przyjście', 'wierzę'"
+    },
+    "addressee": {
+      "type": "ty",
+      "evidence": "bezpośrednie zwracanie się do partnera: 'zmieniasz prześcieradło'"
+    },
+    "metaphors": [
+      {
+        "source": "praczka",
+        "target": "świadek intymności",
+        "example": "patronka skrupulatna – praczka"
+      },
+      {
+        "source": "sprawozdania",
+        "target": "ślady miłości",
+        "example": "z miłości naszej sprawozdania czyta"
+      },
+      {
+        "source": "powieść ustna",
+        "target": "plotki o związku",
+        "example": "ona tą jest, która powieść tworzy naszej miłości ustną"
+      }
+    ],
+    "temperature": {
+      "value": 0.3,
+      "label": "chłodna ironia wobec publiczności intymności"
+    },
+    "senses": {
+      "wzrok": 3,
+      "sluch": 2,
+      "dotyk": 4,
+      "smak": 0,
+      "zapach": 1
+    },
+    "autodestruction": {
+      "level": 0.6,
+      "signals": [
+        "publiczne wystawienie intymności na pokaz",
+        "sarkastyczne przyjęcie roli w 'SPRAWIE'",
+        "rezygnacja z prywatności miłości"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 0.948,
+    "dfaAlpha": 0.962,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -1.6683294302622909
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -1.1093811304940722
+      },
+      {
+        "logWin": 1.6094379124341003,
+        "logFluc": -1.2018002488896902
+      }
+    ],
+    "seriesLength": 16,
+    "series": [
+      5,
+      5,
+      5,
+      4,
+      6,
+      8,
+      6,
+      6,
+      7,
+      6,
+      5,
+      5,
+      6,
+      6,
+      5,
+      6
+    ]
+  }
+}

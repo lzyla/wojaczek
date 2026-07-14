@@ -1,0 +1,895 @@
+{
+  "id": "prosba-3",
+  "title": "Prośba",
+  "wordCount": 84,
+  "lineCount": 10,
+  "uniqueWords": 56,
+  "vocabularyRichness": 0.667,
+  "avgWordsPerLine": 8.4,
+  "wordsPerLineDistribution": [
+    8,
+    6,
+    6,
+    8,
+    9,
+    8,
+    9,
+    10,
+    10,
+    10
+  ],
+  "wordFrequencies": [
+    [
+      "zrób",
+      4
+    ],
+    [
+      "bardziej",
+      4
+    ],
+    [
+      "abym",
+      2
+    ],
+    [
+      "mogła",
+      2
+    ],
+    [
+      "ostatni",
+      2
+    ],
+    [
+      "dawno",
+      2
+    ],
+    [
+      "mogłeś",
+      2
+    ],
+    [
+      "wierzę",
+      2
+    ],
+    [
+      "rozebrać",
+      1
+    ],
+    [
+      "listek",
+      1
+    ],
+    [
+      "wstydu",
+      1
+    ],
+    [
+      "odrzuciłam",
+      1
+    ],
+    [
+      "najcieńsze",
+      1
+    ],
+    [
+      "wspomnienie",
+      1
+    ],
+    [
+      "sukienki",
+      1
+    ],
+    [
+      "zmyłam",
+      1
+    ],
+    [
+      "nagiego",
+      1
+    ],
+    [
+      "ode",
+      1
+    ],
+    [
+      "nagiej",
+      1
+    ],
+    [
+      "pewno",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 8,
+    "period": 0,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 0,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 5,
+  "negationWords": [
+    "nie"
+  ],
+  "pronounDistribution": {
+    "ja": 3,
+    "ty": 1,
+    "on_ona": 0,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 0,
+    "smierc": 0,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [
+    [
+      "zrób",
+      2
+    ],
+    [
+      "i choć",
+      2
+    ]
+  ],
+  "firstWord": "zrób",
+  "lastWord": "rozbierz",
+  "avgWordLength": 4.83,
+  "wordLengthDistribution": {
+    "4-5": 21,
+    "1-3": 31,
+    "8-9": 10,
+    "6-7": 19,
+    "10+": 3
+  },
+  "bigrams": [
+    [
+      "abym rozebrać",
+      1
+    ],
+    [
+      "bardziej ostatni",
+      1
+    ],
+    [
+      "ostatni listek",
+      1
+    ],
+    [
+      "listek wstydu",
+      1
+    ],
+    [
+      "dawno odrzuciłam",
+      1
+    ]
+  ],
+  "poemWords": [
+    "zrób",
+    "abym",
+    "rozebrać",
+    "mogła",
+    "bardziej",
+    "ostatni",
+    "listek",
+    "wstydu",
+    "dawno",
+    "odrzuciłam",
+    "najcieńsze",
+    "wspomnienie",
+    "sukienki",
+    "zmyłam",
+    "nagiego",
+    "ode",
+    "nagiej",
+    "pewno",
+    "mieć",
+    "mogłeś",
+    "bym",
+    "uwierzyła",
+    "otworzyć",
+    "por",
+    "skóry",
+    "wniknąłeś",
+    "wierzę",
+    "kiedyś",
+    "mógł",
+    "otwarty",
+    "ciebie",
+    "niż",
+    "otwórz",
+    "rozbierz"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 5,
+        "VERB": 21,
+        "ADJ": 6,
+        "ADV": 10,
+        "PRON": 12,
+        "ADP": 4,
+        "CCONJ": 3,
+        "SCONJ": 8,
+        "INTJ": 0,
+        "PART": 11,
+        "DET": 0,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.059,
+        "VERB": 0.247,
+        "ADJ": 0.071,
+        "ADV": 0.118,
+        "PRON": 0.141,
+        "ADP": 0.047,
+        "CCONJ": 0.035,
+        "SCONJ": 0.094,
+        "INTJ": 0,
+        "PART": 0.129,
+        "DET": 0,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 1,
+        "abstract": 1,
+        "ratio": 0.5
+      },
+      "verbTenses": {
+        "imperative": 6,
+        "infinitive": 5,
+        "past": 9,
+        "present": 3
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 3,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 0,
+        "opisowe": 6
+      },
+      "adverbs": {
+        "temporalne": [
+          "dawno",
+          "kiedyś"
+        ],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "bardziej",
+            "count": 4
+          },
+          {
+            "word": "dawno",
+            "count": 2
+          },
+          {
+            "word": "pewno",
+            "count": 1
+          },
+          {
+            "word": "tak",
+            "count": 1
+          },
+          {
+            "word": "kiedyś",
+            "count": 1
+          },
+          {
+            "word": "tam",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 3,
+        "ty": 1,
+        "on_ona": 0,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 5,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 5,
+        "percentSentences": 1
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 169,
+        "consonants": 243,
+        "ratio": 0.7
+      },
+      "consonantClusters": {
+        "count": 11,
+        "top": [
+          {
+            "cluster": "rdz",
+            "count": 4
+          },
+          {
+            "cluster": "szcz",
+            "count": 3
+          },
+          {
+            "cluster": "wst",
+            "count": 1
+          },
+          {
+            "cluster": "drz",
+            "count": 1
+          },
+          {
+            "cluster": "ńsz",
+            "count": 1
+          },
+          {
+            "cluster": "wsp",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 20,
+        "syczace": 44,
+        "nosowe": 45,
+        "plynne": 33
+      },
+      "rhymes": {
+        "exact": 4,
+        "approximate": 0,
+        "internal": 1,
+        "assonance": 0,
+        "alliteration": 0
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 17,
+        "median": 17,
+        "min": 1,
+        "max": 37,
+        "distribution": [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 7.7,
+        "meanSyllables": 15.5,
+        "distribution": [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          2,
+          0,
+          3,
+          2,
+          3
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 1,
+        "interrogative": 0,
+        "imperative": 4,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 1,
+        "noSubject": 3,
+        "noPredicate": 0,
+        "percent": 0.8
+      },
+      "enjambement": {
+        "count": 4,
+        "percent": 0.4,
+        "positions": [
+          3,
+          4,
+          8,
+          9
+        ]
+      },
+      "wordOrder": {
+        "svo": 0,
+        "inversions": 1,
+        "other": 3,
+        "deviationPercent": 1
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 0,
+        "śmierć": 0,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 170,
+      "estimatedSeconds": 57,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 5,
+      "VERB": 21,
+      "ADJ": 6,
+      "ADV": 10,
+      "PRON": 12,
+      "ADP": 4,
+      "CCONJ": 3,
+      "SCONJ": 8,
+      "INTJ": 0,
+      "PART": 11,
+      "DET": 0,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.059,
+      "VERB": 0.247,
+      "ADJ": 0.071,
+      "ADV": 0.118,
+      "PRON": 0.141,
+      "ADP": 0.047,
+      "CCONJ": 0.035,
+      "SCONJ": 0.094,
+      "INTJ": 0,
+      "PART": 0.129,
+      "DET": 0,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 1,
+      "abstract": 1,
+      "ratio": 0.5
+    },
+    "verbTenses": {
+      "imperative": 6,
+      "infinitive": 5,
+      "past": 9,
+      "present": 3
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 3,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 0,
+      "opisowe": 6
+    },
+    "adverbs": {
+      "temporalne": [
+        "dawno",
+        "kiedyś"
+      ],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "bardziej",
+          "count": 4
+        },
+        {
+          "word": "dawno",
+          "count": 2
+        },
+        {
+          "word": "pewno",
+          "count": 1
+        },
+        {
+          "word": "tak",
+          "count": 1
+        },
+        {
+          "word": "kiedyś",
+          "count": 1
+        },
+        {
+          "word": "tam",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 3,
+      "ty": 1,
+      "on_ona": 0,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 5,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 5,
+      "percentSentences": 1
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 17,
+      "median": 17,
+      "min": 1,
+      "max": 37,
+      "distribution": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 7.7,
+      "meanSyllables": 15.5,
+      "distribution": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        2,
+        0,
+        3,
+        2,
+        3
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 1,
+      "interrogative": 0,
+      "imperative": 4,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 1,
+      "noSubject": 3,
+      "noPredicate": 0,
+      "percent": 0.8
+    },
+    "enjambement": {
+      "count": 4,
+      "percent": 0.4,
+      "positions": [
+        3,
+        4,
+        8,
+        9
+      ]
+    },
+    "wordOrder": {
+      "svo": 0,
+      "inversions": 1,
+      "other": 3,
+      "deviationPercent": 1
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 169,
+      "consonants": 243,
+      "ratio": 0.7
+    },
+    "consonantClusters": {
+      "count": 11,
+      "top": [
+        {
+          "cluster": "rdz",
+          "count": 4
+        },
+        {
+          "cluster": "szcz",
+          "count": 3
+        },
+        {
+          "cluster": "wst",
+          "count": 1
+        },
+        {
+          "cluster": "drz",
+          "count": 1
+        },
+        {
+          "cluster": "ńsz",
+          "count": 1
+        },
+        {
+          "cluster": "wsp",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 20,
+      "syczace": 44,
+      "nosowe": 45,
+      "plynne": 33
+    },
+    "rhymes": {
+      "exact": 4,
+      "approximate": 0,
+      "internal": 1,
+      "assonance": 0,
+      "alliteration": 0
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        11
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 170,
+      "estimatedSeconds": 57,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "polregularny",
+      "regularityScore": 0.7
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Biblia",
+          "reference": "Adam i Ewa - nagość i wstyd",
+          "evidence": "listek wstydu - nawiązanie do biblijnej historii o pierwszych ludziach zakrywających nagość liśćmi"
+        },
+        {
+          "source": "mitologia",
+          "reference": "Mit o Psyche i Erosie",
+          "evidence": "absolutne odsłonięcie się przed ukochanym, przekroczenie granic cielesności"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.2,
+        "baudelaire": 0.1,
+        "bursa": 0.3,
+        "stachura": 0.7,
+        "grochowiak": 0.8,
+        "bialoszewski": 0.1,
+        "rozewicz": 0.3
+      }
+    },
+    "space": {
+      "type": "zamknieta",
+      "evidence": "przestrzeń intymna dwojga ludzi, skupienie na ciele i wnętrzu relacji",
+      "openClosedRatio": 0.2
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "nieokreslona",
+      "evidence": "brak wyraźnych wskazówek temporalnych, czas psychologiczny dominuje nad fizycznym"
+    },
+    "motion": {
+      "movement": 7,
+      "stillness": 3,
+      "dynamism": 0.7,
+      "evidence": "imperatywy ruchu: rozebrać, otworzyć, rozbierz; dynamika prośby i wezwania"
+    },
+    "imageryDensity": {
+      "metaphors": 4,
+      "comparisons": 2,
+      "personifications": 1,
+      "hyperboles": 3,
+      "per100words": 12.5
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.9,
+      "creationLevel": 0.3,
+      "ironicDistance": 0.1,
+      "autobiographicSignals": [
+        "forma osobistego zwierzenia",
+        "intymność wypowiedzi",
+        "bezpośredniość emocjonalna",
+        "erotyczna szczerość"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "tęsknota",
+      "secondary": "rozpacz",
+      "intensity": 0.9
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "podmiot liryczny mówi o sobie wprost: 'rozebrać się mogła', 'odrzuciłam', 'zmyłam'"
+    },
+    "addressee": {
+      "type": "ty",
+      "evidence": "bezpośrednie zwroty do adresata: 'zrób coś', 'mieć nie mogłeś', 'dla Ciebie'"
+    },
+    "metaphors": [
+      {
+        "source": "rozbieranie się",
+        "target": "otwieranie się emocjonalne",
+        "example": "abym rozebrać się mogła jeszcze bardziej"
+      },
+      {
+        "source": "ostatni listek wstydu",
+        "target": "resztki powściągliwości",
+        "example": "Ostatni listek wstydu już dawno odrzuciłam"
+      },
+      {
+        "source": "najcieńsze wspomnienie sukienki",
+        "target": "ostatnie bariery intymności",
+        "example": "najcieńsze wspomnienie sukienki także zmyłam"
+      },
+      {
+        "source": "ostatni por skóry",
+        "target": "najgłębsza intymność",
+        "example": "w ostatni por skóry tak dawno nie wniknąłeś"
+      }
+    ],
+    "temperature": {
+      "value": 0.8,
+      "label": "gorące pragnienie bliskości"
+    },
+    "senses": {
+      "wzrok": 2,
+      "sluch": 1,
+      "dotyk": 5,
+      "smak": 0,
+      "zapach": 0
+    },
+    "autodestruction": {
+      "level": 0.7,
+      "signals": [
+        "całkowite obnażenie się",
+        "desperacka prośba o jeszcze większą intymność",
+        "utrata granic własnego 'ja'"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": null,
+    "dfaAlpha": 6.595,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -2.5437981676161754
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -0.6465283649146395
+      }
+    ],
+    "seriesLength": 10,
+    "series": [
+      8,
+      6,
+      6,
+      8,
+      9,
+      8,
+      9,
+      10,
+      10,
+      10
+    ]
+  }
+}

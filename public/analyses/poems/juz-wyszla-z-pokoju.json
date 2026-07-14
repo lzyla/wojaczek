@@ -1,0 +1,912 @@
+{
+  "id": "juz-wyszla-z-pokoju",
+  "title": "Już wyszła z pokoju",
+  "wordCount": 70,
+  "lineCount": 17,
+  "uniqueWords": 60,
+  "vocabularyRichness": 0.857,
+  "avgWordsPerLine": 4.12,
+  "wordsPerLineDistribution": [
+    4,
+    7,
+    4,
+    1,
+    3,
+    4,
+    5,
+    5,
+    3,
+    5,
+    4,
+    4,
+    6,
+    4,
+    4,
+    2,
+    5
+  ],
+  "wordFrequencies": [
+    [
+      "ojciec",
+      2
+    ],
+    [
+      "wyszła",
+      1
+    ],
+    [
+      "pokoju",
+      1
+    ],
+    [
+      "tył",
+      1
+    ],
+    [
+      "wcisnęła",
+      1
+    ],
+    [
+      "niedomknięte",
+      1
+    ],
+    [
+      "drzwi",
+      1
+    ],
+    [
+      "zasmrodziła",
+      1
+    ],
+    [
+      "ostatek",
+      1
+    ],
+    [
+      "dupa",
+      1
+    ],
+    [
+      "słowo",
+      1
+    ],
+    [
+      "smaczne",
+      1
+    ],
+    [
+      "bliższe",
+      1
+    ],
+    [
+      "ciału",
+      1
+    ],
+    [
+      "niż",
+      1
+    ],
+    [
+      "róża",
+      1
+    ],
+    [
+      "powiedziałem",
+      1
+    ],
+    [
+      "kuku",
+      1
+    ],
+    [
+      "leżał",
+      1
+    ],
+    [
+      "drugim",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 0,
+    "period": 0,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 0,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 3,
+  "negationWords": [
+    "nie"
+  ],
+  "pronounDistribution": {
+    "ja": 1,
+    "ty": 0,
+    "on_ona": 1,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 1,
+    "smierc": 0,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 1,
+    "bol": 0
+  },
+  "anaphors": [
+    [
+      "ojciec",
+      2
+    ]
+  ],
+  "firstWord": "już",
+  "lastWord": "ciężkie",
+  "avgWordLength": 4.84,
+  "wordLengthDistribution": {
+    "1-3": 26,
+    "6-7": 17,
+    "8-9": 3,
+    "10+": 6,
+    "4-5": 18
+  },
+  "bigrams": [
+    [
+      "tył wcisnęła",
+      1
+    ],
+    [
+      "niedomknięte drzwi",
+      1
+    ],
+    [
+      "ostatek dupa",
+      1
+    ]
+  ],
+  "poemWords": [
+    "wyszła",
+    "pokoju",
+    "tył",
+    "wcisnęła",
+    "niedomknięte",
+    "drzwi",
+    "zasmrodziła",
+    "ostatek",
+    "dupa",
+    "słowo",
+    "smaczne",
+    "bliższe",
+    "ciału",
+    "niż",
+    "róża",
+    "powiedziałem",
+    "kuku",
+    "ojciec",
+    "leżał",
+    "drugim",
+    "łóżku",
+    "żył",
+    "kołdrę",
+    "miał",
+    "podciągniętą",
+    "brodę",
+    "ręce",
+    "kołdrą",
+    "moczył",
+    "sen",
+    "sny",
+    "dawały",
+    "spać",
+    "wstałem",
+    "otworzyłem",
+    "okno",
+    "wyglądając",
+    "znaku",
+    "niebie",
+    "wyfrunął",
+    "powietrze",
+    "takie",
+    "ciężkie"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 20,
+        "VERB": 14,
+        "ADJ": 6,
+        "ADV": 2,
+        "PRON": 3,
+        "ADP": 9,
+        "CCONJ": 6,
+        "SCONJ": 1,
+        "INTJ": 1,
+        "PART": 7,
+        "DET": 1,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.27,
+        "VERB": 0.189,
+        "ADJ": 0.081,
+        "ADV": 0.027,
+        "PRON": 0.041,
+        "ADP": 0.122,
+        "CCONJ": 0.081,
+        "SCONJ": 0.014,
+        "INTJ": 0.014,
+        "PART": 0.095,
+        "DET": 0.014,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 4,
+        "abstract": 1,
+        "ratio": 0.8
+      },
+      "verbTenses": {
+        "past": 12,
+        "infinitive": 1,
+        "present": 1
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 3,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 0,
+        "opisowe": 6
+      },
+      "adverbs": {
+        "temporalne": [],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "całkiem",
+            "count": 1
+          },
+          {
+            "word": "kiedy",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 1,
+        "ty": 0,
+        "on_ona": 1,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 3,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 3,
+        "percentSentences": 1
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 154,
+        "consonants": 201,
+        "ratio": 0.77
+      },
+      "consonantClusters": {
+        "count": 13,
+        "top": [
+          {
+            "cluster": "szł",
+            "count": 2
+          },
+          {
+            "cluster": "łdr",
+            "count": 2
+          },
+          {
+            "cluster": "szcz",
+            "count": 1
+          },
+          {
+            "cluster": "mkn",
+            "count": 1
+          },
+          {
+            "cluster": "drzw",
+            "count": 1
+          },
+          {
+            "cluster": "smr",
+            "count": 1
+          },
+          {
+            "cluster": "czn",
+            "count": 1
+          },
+          {
+            "cluster": "ższ",
+            "count": 1
+          },
+          {
+            "cluster": "prz",
+            "count": 1
+          },
+          {
+            "cluster": "wst",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 20,
+        "syczace": 27,
+        "nosowe": 43,
+        "plynne": 36
+      },
+      "rhymes": {
+        "exact": 1,
+        "approximate": 2,
+        "internal": 0,
+        "assonance": 1,
+        "alliteration": 1
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 24.7,
+        "median": 32,
+        "min": 1,
+        "max": 41,
+        "distribution": [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 4.1,
+        "meanSyllables": 8.7,
+        "distribution": [
+          0,
+          1,
+          1,
+          2,
+          8,
+          4,
+          1,
+          1
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 3,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 1,
+        "noSubject": 0,
+        "noPredicate": 0,
+        "percent": 0.33
+      },
+      "enjambement": {
+        "count": 11,
+        "percent": 0.65,
+        "positions": [
+          2,
+          3,
+          5,
+          6,
+          9,
+          11,
+          13,
+          14,
+          15,
+          16,
+          17
+        ]
+      },
+      "wordOrder": {
+        "svo": 2,
+        "inversions": 0,
+        "other": 0,
+        "deviationPercent": 0
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 1,
+        "śmierć": 0,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 1,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 157,
+      "estimatedSeconds": 52,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 20,
+      "VERB": 14,
+      "ADJ": 6,
+      "ADV": 2,
+      "PRON": 3,
+      "ADP": 9,
+      "CCONJ": 6,
+      "SCONJ": 1,
+      "INTJ": 1,
+      "PART": 7,
+      "DET": 1,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.27,
+      "VERB": 0.189,
+      "ADJ": 0.081,
+      "ADV": 0.027,
+      "PRON": 0.041,
+      "ADP": 0.122,
+      "CCONJ": 0.081,
+      "SCONJ": 0.014,
+      "INTJ": 0.014,
+      "PART": 0.095,
+      "DET": 0.014,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 4,
+      "abstract": 1,
+      "ratio": 0.8
+    },
+    "verbTenses": {
+      "past": 12,
+      "infinitive": 1,
+      "present": 1
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 3,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 0,
+      "opisowe": 6
+    },
+    "adverbs": {
+      "temporalne": [],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "całkiem",
+          "count": 1
+        },
+        {
+          "word": "kiedy",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 1,
+      "ty": 0,
+      "on_ona": 1,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 3,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 3,
+      "percentSentences": 1
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 24.7,
+      "median": 32,
+      "min": 1,
+      "max": 41,
+      "distribution": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 4.1,
+      "meanSyllables": 8.7,
+      "distribution": [
+        0,
+        1,
+        1,
+        2,
+        8,
+        4,
+        1,
+        1
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 3,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 1,
+      "noSubject": 0,
+      "noPredicate": 0,
+      "percent": 0.33
+    },
+    "enjambement": {
+      "count": 11,
+      "percent": 0.65,
+      "positions": [
+        2,
+        3,
+        5,
+        6,
+        9,
+        11,
+        13,
+        14,
+        15,
+        16,
+        17
+      ]
+    },
+    "wordOrder": {
+      "svo": 2,
+      "inversions": 0,
+      "other": 0,
+      "deviationPercent": 0
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 154,
+      "consonants": 201,
+      "ratio": 0.77
+    },
+    "consonantClusters": {
+      "count": 13,
+      "top": [
+        {
+          "cluster": "szł",
+          "count": 2
+        },
+        {
+          "cluster": "łdr",
+          "count": 2
+        },
+        {
+          "cluster": "szcz",
+          "count": 1
+        },
+        {
+          "cluster": "mkn",
+          "count": 1
+        },
+        {
+          "cluster": "drzw",
+          "count": 1
+        },
+        {
+          "cluster": "smr",
+          "count": 1
+        },
+        {
+          "cluster": "czn",
+          "count": 1
+        },
+        {
+          "cluster": "ższ",
+          "count": 1
+        },
+        {
+          "cluster": "prz",
+          "count": 1
+        },
+        {
+          "cluster": "wst",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 20,
+      "syczace": 27,
+      "nosowe": 43,
+      "plynne": 36
+    },
+    "rhymes": {
+      "exact": 1,
+      "approximate": 2,
+      "internal": 0,
+      "assonance": 1,
+      "alliteration": 1
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        18
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 157,
+      "estimatedSeconds": 52,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "polregularny",
+      "regularityScore": 0.6
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Biblia",
+          "reference": "znak na niebie",
+          "evidence": "wyglądając znaku na niebie - nawiązanie do biblijnych znaków"
+        },
+        {
+          "source": "Różewicz",
+          "reference": "antypoetyckość",
+          "evidence": "słowo 'Dupa' jako kontrast z poetyckim 'róża' - typowa dla Różewicza demistyfikacja"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.3,
+        "baudelaire": 0.2,
+        "bursa": 0.7,
+        "stachura": 0.4,
+        "grochowiak": 0.6,
+        "bialoszewski": 0.8,
+        "rozewicz": 0.9
+      }
+    },
+    "space": {
+      "type": "zamknieta",
+      "evidence": "pokój, łóżko, okno - przestrzeń domowa, intymna",
+      "openClosedRatio": 0.3
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "nieokreslona",
+      "evidence": "brak wyraźnych wskaźników temporalnych"
+    },
+    "motion": {
+      "movement": 6,
+      "stillness": 4,
+      "dynamism": 0.6,
+      "evidence": "wyszła, wcisnęła, wstałem, otworzyłem, wyfrunął - dynamika przeciw statyczności śmierci"
+    },
+    "imageryDensity": {
+      "metaphors": 2,
+      "comparisons": 1,
+      "personifications": 1,
+      "hyperboles": 0,
+      "per100words": 5.7
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.9,
+      "creationLevel": 0.1,
+      "ironicDistance": 0.2,
+      "autobiographicSignals": [
+        "ojciec nie żył",
+        "intymna scena domowa",
+        "bezpośredni ton wyznania"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "rezygnacja",
+      "secondary": "melancholia",
+      "intensity": 0.7
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "To ja powiedziałem a kuku"
+    },
+    "addressee": {
+      "type": "siebie",
+      "evidence": "monolog wewnętrzny, refleksja nad sytuacją"
+    },
+    "metaphors": [
+      {
+        "source": "ojciec",
+        "target": "ptak",
+        "example": "ojciec wyfrunął"
+      },
+      {
+        "source": "słowo",
+        "target": "pokarm",
+        "example": "słowo całkiem smaczne"
+      },
+      {
+        "source": "powietrze",
+        "target": "ciężar",
+        "example": "powietrze nie takie ciężkie"
+      }
+    ],
+    "temperature": {
+      "value": 0.3,
+      "label": "chłodna obserwacja z nutą ulgi"
+    },
+    "senses": {
+      "wzrok": 4,
+      "sluch": 1,
+      "dotyk": 2,
+      "smak": 3,
+      "zapach": 4
+    },
+    "autodestruction": {
+      "level": 0.4,
+      "signals": [
+        "wulgarność jako obrona",
+        "emocjonalne otępienie",
+        "ironiczny dystans do śmierci"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 0.697,
+    "dfaAlpha": 2.149,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -1.2628643221541278
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -0.43253633126894964
+      },
+      {
+        "logWin": 1.6094379124341003,
+        "logFluc": -0.18377421702467478
+      }
+    ],
+    "seriesLength": 17,
+    "series": [
+      4,
+      7,
+      4,
+      1,
+      3,
+      4,
+      5,
+      5,
+      3,
+      5,
+      4,
+      4,
+      6,
+      4,
+      4,
+      2,
+      5
+    ]
+  }
+}

@@ -1,0 +1,924 @@
+{
+  "id": "moja-piosenka",
+  "title": "MOJA PIOSENKA(A. D. 1969)",
+  "wordCount": 82,
+  "lineCount": 16,
+  "uniqueWords": 72,
+  "vocabularyRichness": 0.878,
+  "avgWordsPerLine": 5.13,
+  "wordsPerLineDistribution": [
+    5,
+    4,
+    5,
+    5,
+    5,
+    5,
+    5,
+    6,
+    5,
+    5,
+    6,
+    6,
+    5,
+    6,
+    5,
+    4
+  ],
+  "wordFrequencies": [
+    [
+      "słowo",
+      1
+    ],
+    [
+      "twego",
+      1
+    ],
+    [
+      "słowa",
+      1
+    ],
+    [
+      "pogłos",
+      1
+    ],
+    [
+      "jakże",
+      1
+    ],
+    [
+      "wątły",
+      1
+    ],
+    [
+      "sprzymierzony",
+      1
+    ],
+    [
+      "wiernym",
+      1
+    ],
+    [
+      "rymem",
+      1
+    ],
+    [
+      "rytmem",
+      1
+    ],
+    [
+      "wspomożony",
+      1
+    ],
+    [
+      "bywa",
+      1
+    ],
+    [
+      "czasem",
+      1
+    ],
+    [
+      "ulotką",
+      1
+    ],
+    [
+      "nędza",
+      1
+    ],
+    [
+      "nędzy",
+      1
+    ],
+    [
+      "siostra",
+      1
+    ],
+    [
+      "młodsza",
+      1
+    ],
+    [
+      "sukienki",
+      1
+    ],
+    [
+      "nosi",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 15,
+    "period": 3,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 1,
+    "dash": 3,
+    "colon": 1,
+    "semicolon": 1
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 3,
+  "negationWords": [
+    "nie"
+  ],
+  "pronounDistribution": {
+    "ja": 4,
+    "ty": 3,
+    "on_ona": 1,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 0,
+    "smierc": 0,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 1,
+    "sacrum": 1,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [
+    [
+      "moja",
+      3
+    ],
+    [
+      "nie",
+      2
+    ]
+  ],
+  "firstWord": "moje",
+  "lastWord": "włócznia",
+  "avgWordLength": 5.35,
+  "wordLengthDistribution": {
+    "4-5": 32,
+    "6-7": 26,
+    "8-9": 8,
+    "10+": 2,
+    "1-3": 14
+  },
+  "bigrams": [
+    [
+      "słowo twego",
+      1
+    ],
+    [
+      "twego słowa",
+      1
+    ],
+    [
+      "słowa pogłos",
+      1
+    ],
+    [
+      "pogłos jakże",
+      1
+    ],
+    [
+      "jakże wątły",
+      1
+    ],
+    [
+      "wątły przecież",
+      1
+    ],
+    [
+      "przecież sprzymierzony",
+      1
+    ],
+    [
+      "wiernym rymem",
+      1
+    ],
+    [
+      "rymem rytmem",
+      1
+    ],
+    [
+      "rytmem wspomożony",
+      1
+    ],
+    [
+      "wspomożony bywa",
+      1
+    ],
+    [
+      "bywa czasem",
+      1
+    ]
+  ],
+  "poemWords": [
+    "słowo",
+    "twego",
+    "słowa",
+    "pogłos",
+    "jakże",
+    "wątły",
+    "sprzymierzony",
+    "wiernym",
+    "rymem",
+    "rytmem",
+    "wspomożony",
+    "bywa",
+    "czasem",
+    "ulotką",
+    "nędza",
+    "nędzy",
+    "siostra",
+    "młodsza",
+    "sukienki",
+    "nosi",
+    "doprasza",
+    "pilnie",
+    "podnosi",
+    "ręki",
+    "szczętu",
+    "zwlokła",
+    "wina",
+    "winy",
+    "krewna",
+    "biedna",
+    "okruch",
+    "splendoru",
+    "połknie",
+    "biorą",
+    "sposób",
+    "krzyż",
+    "składa",
+    "drewna",
+    "wiara",
+    "wiary",
+    "córka",
+    "mądra",
+    "głupia",
+    "imienia",
+    "przyzywa",
+    "milcząc",
+    "uśmiecha",
+    "łaskotała",
+    "włócznia"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 27,
+        "VERB": 11,
+        "ADJ": 9,
+        "ADV": 5,
+        "PRON": 5,
+        "ADP": 4,
+        "CCONJ": 5,
+        "SCONJ": 0,
+        "INTJ": 0,
+        "PART": 5,
+        "DET": 9,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.329,
+        "VERB": 0.134,
+        "ADJ": 0.11,
+        "ADV": 0.061,
+        "PRON": 0.061,
+        "ADP": 0.049,
+        "CCONJ": 0.061,
+        "SCONJ": 0,
+        "INTJ": 0,
+        "PART": 0.061,
+        "DET": 0.11,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 1,
+        "abstract": 2,
+        "ratio": 0.33
+      },
+      "verbTenses": {
+        "present": 10,
+        "past": 2
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 0,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 0,
+        "opisowe": 9
+      },
+      "adverbs": {
+        "temporalne": [],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "jakże",
+            "count": 1
+          },
+          {
+            "word": "pilnie",
+            "count": 1
+          },
+          {
+            "word": "gdy",
+            "count": 1
+          },
+          {
+            "word": "wtedy",
+            "count": 1
+          },
+          {
+            "word": "-nie",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 0,
+        "ty": 0,
+        "on_ona": 1,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 2,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 2,
+        "percentSentences": 0.33
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 184,
+        "consonants": 255,
+        "ratio": 0.72
+      },
+      "consonantClusters": {
+        "count": 15,
+        "top": [
+          {
+            "cluster": "prz",
+            "count": 2
+          },
+          {
+            "cluster": "szcz",
+            "count": 2
+          },
+          {
+            "cluster": "sprz",
+            "count": 1
+          },
+          {
+            "cluster": "wsp",
+            "count": 1
+          },
+          {
+            "cluster": "str",
+            "count": 1
+          },
+          {
+            "cluster": "dsz",
+            "count": 1
+          },
+          {
+            "cluster": "zwl",
+            "count": 1
+          },
+          {
+            "cluster": "spl",
+            "count": 1
+          },
+          {
+            "cluster": "łkn",
+            "count": 1
+          },
+          {
+            "cluster": "krz",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 20,
+        "syczace": 30,
+        "nosowe": 55,
+        "plynne": 41
+      },
+      "rhymes": {
+        "exact": 4,
+        "approximate": 0,
+        "internal": 0,
+        "assonance": 0,
+        "alliteration": 1
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 13.7,
+        "median": 16,
+        "min": 6,
+        "max": 20,
+        "distribution": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          2,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0,
+          0,
+          1,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 5.1,
+        "meanSyllables": 11.6,
+        "distribution": [
+          0,
+          0,
+          0,
+          0,
+          2,
+          10,
+          4
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 6,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 0,
+        "noSubject": 1,
+        "noPredicate": 0,
+        "percent": 0.17
+      },
+      "enjambement": {
+        "count": 1,
+        "percent": 0.07,
+        "positions": [
+          6
+        ]
+      },
+      "wordOrder": {
+        "svo": 5,
+        "inversions": 0,
+        "other": 1,
+        "deviationPercent": 0.17
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 0,
+        "śmierć": 0,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 1,
+        "sacrum": 1,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 185,
+      "estimatedSeconds": 62,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 27,
+      "VERB": 11,
+      "ADJ": 9,
+      "ADV": 5,
+      "PRON": 5,
+      "ADP": 4,
+      "CCONJ": 5,
+      "SCONJ": 0,
+      "INTJ": 0,
+      "PART": 5,
+      "DET": 9,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.329,
+      "VERB": 0.134,
+      "ADJ": 0.11,
+      "ADV": 0.061,
+      "PRON": 0.061,
+      "ADP": 0.049,
+      "CCONJ": 0.061,
+      "SCONJ": 0,
+      "INTJ": 0,
+      "PART": 0.061,
+      "DET": 0.11,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 1,
+      "abstract": 2,
+      "ratio": 0.33
+    },
+    "verbTenses": {
+      "present": 10,
+      "past": 2
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 0,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 0,
+      "opisowe": 9
+    },
+    "adverbs": {
+      "temporalne": [],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "jakże",
+          "count": 1
+        },
+        {
+          "word": "pilnie",
+          "count": 1
+        },
+        {
+          "word": "gdy",
+          "count": 1
+        },
+        {
+          "word": "wtedy",
+          "count": 1
+        },
+        {
+          "word": "-nie",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 0,
+      "ty": 0,
+      "on_ona": 1,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 2,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 2,
+      "percentSentences": 0.33
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 13.7,
+      "median": 16,
+      "min": 6,
+      "max": 20,
+      "distribution": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        1,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 5.1,
+      "meanSyllables": 11.6,
+      "distribution": [
+        0,
+        0,
+        0,
+        0,
+        2,
+        10,
+        4
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 6,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 0,
+      "noSubject": 1,
+      "noPredicate": 0,
+      "percent": 0.17
+    },
+    "enjambement": {
+      "count": 1,
+      "percent": 0.07,
+      "positions": [
+        6
+      ]
+    },
+    "wordOrder": {
+      "svo": 5,
+      "inversions": 0,
+      "other": 1,
+      "deviationPercent": 0.17
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 184,
+      "consonants": 255,
+      "ratio": 0.72
+    },
+    "consonantClusters": {
+      "count": 15,
+      "top": [
+        {
+          "cluster": "prz",
+          "count": 2
+        },
+        {
+          "cluster": "szcz",
+          "count": 2
+        },
+        {
+          "cluster": "sprz",
+          "count": 1
+        },
+        {
+          "cluster": "wsp",
+          "count": 1
+        },
+        {
+          "cluster": "str",
+          "count": 1
+        },
+        {
+          "cluster": "dsz",
+          "count": 1
+        },
+        {
+          "cluster": "zwl",
+          "count": 1
+        },
+        {
+          "cluster": "spl",
+          "count": 1
+        },
+        {
+          "cluster": "łkn",
+          "count": 1
+        },
+        {
+          "cluster": "krz",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 20,
+      "syczace": 30,
+      "nosowe": 55,
+      "plynne": 41
+    },
+    "rhymes": {
+      "exact": 4,
+      "approximate": 0,
+      "internal": 0,
+      "assonance": 0,
+      "alliteration": 1
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 4,
+      "linesPerStanza": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "isRegular": true,
+      "isContinuous": false
+    },
+    "readingTempo": {
+      "syllables": 185,
+      "estimatedSeconds": 62,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "regularny",
+      "regularityScore": 0.89
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Biblia",
+          "reference": "krzyż, łaska, wiara",
+          "evidence": "Sama sobie na krzyż składa drewna, wiara córka, łaskotała włócznia"
+        },
+        {
+          "source": "Biblia",
+          "reference": "święta włócznia",
+          "evidence": "Jakby tylko łaskotała włócznia"
+        },
+        {
+          "source": "inne",
+          "reference": "poetyka romantyczna",
+          "evidence": "apostrofa do adresata na Ty, paralele moje/Twoje"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.1,
+        "baudelaire": 0.1,
+        "bursa": 0.1,
+        "stachura": 0.2,
+        "grochowiak": 0.1,
+        "bialoszewski": 0.1,
+        "rozewicz": 0.1
+      }
+    },
+    "space": {
+      "type": "nieokreslona",
+      "evidence": "brak konkretnych wskazań przestrzennych, dominuje przestrzeń duchowa/metafizyczna",
+      "openClosedRatio": 0.5
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "nieokreslona",
+      "evidence": "brak wyraźnych wskaźników temporalnych"
+    },
+    "motion": {
+      "movement": 3,
+      "stillness": 7,
+      "dynamism": 0.3,
+      "evidence": "milcząc się uśmiecha, pilnie podnosi ręki - ruchy powolne, kontemplacyjne"
+    },
+    "imageryDensity": {
+      "metaphors": 8,
+      "comparisons": 2,
+      "personifications": 4,
+      "hyperboles": 1,
+      "per100words": 21.4
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.8,
+      "creationLevel": 0.6,
+      "ironicDistance": 0.2,
+      "autobiographicSignals": [
+        "moje słowo",
+        "moja nędza",
+        "moja wina",
+        "moja wiara",
+        "paralelizm ja-Ty"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "melancholia",
+      "secondary": "czułość",
+      "intensity": 0.7
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "Podmiot obecny przez zaimki 'moje', 'moja' w każdej strofie"
+    },
+    "addressee": {
+      "type": "bóg",
+      "evidence": "Zwroty 'Twego słowa', 'Twojej nędzy', 'Twojej winy', 'twojej wiary' sugerują dialog z Bogiem"
+    },
+    "metaphors": [
+      {
+        "source": "pokrewieństwo rodzinne",
+        "target": "relacja między ludzkim a boskim",
+        "example": "Moja nędza, Twojej nędzy siostra"
+      },
+      {
+        "source": "składanie drewna na krzyż",
+        "target": "samoofiarowanie",
+        "example": "Sama sobie na krzyż składa drewna"
+      },
+      {
+        "source": "łaskotanie włócznią",
+        "target": "delikatne cierpienie wiary",
+        "example": "Jakby tylko łaskotała włócznia"
+      }
+    ],
+    "temperature": {
+      "value": 0.3,
+      "label": "chłodna kontemplacja z nutą rezygnacji"
+    },
+    "senses": {
+      "wzrok": 2,
+      "sluch": 3,
+      "dotyk": 4,
+      "smak": 1,
+      "zapach": 0
+    },
+    "autodestruction": {
+      "level": 0.6,
+      "signals": [
+        "Sama sobie na krzyż składa drewna",
+        "akceptacja łaskotania włócznią",
+        "poddanie się cierpieniu"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 0.701,
+    "dfaAlpha": 1.258,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -1.9560115027140705
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -1.1074634678446182
+      },
+      {
+        "logWin": 1.6094379124341003,
+        "logFluc": -1.3564240720798564
+      }
+    ],
+    "seriesLength": 16,
+    "series": [
+      5,
+      4,
+      5,
+      5,
+      5,
+      5,
+      5,
+      6,
+      5,
+      5,
+      6,
+      6,
+      5,
+      6,
+      5,
+      4
+    ]
+  }
+}

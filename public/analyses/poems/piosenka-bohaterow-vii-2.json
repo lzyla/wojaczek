@@ -1,0 +1,896 @@
+{
+  "id": "piosenka-bohaterow-vii-2",
+  "title": "Piosenka bohaterów VII",
+  "wordCount": 80,
+  "lineCount": 14,
+  "uniqueWords": 69,
+  "vocabularyRichness": 0.863,
+  "avgWordsPerLine": 5.71,
+  "wordsPerLineDistribution": [
+    5,
+    3,
+    8,
+    6,
+    6,
+    6,
+    6,
+    8,
+    4,
+    7,
+    4,
+    8,
+    5,
+    4
+  ],
+  "wordFrequencies": [
+    [
+      "żywiąc",
+      1
+    ],
+    [
+      "nadziei",
+      1
+    ],
+    [
+      "zapłaty",
+      1
+    ],
+    [
+      "melancholijne",
+      1
+    ],
+    [
+      "szczęście",
+      1
+    ],
+    [
+      "odnalazłszy",
+      1
+    ],
+    [
+      "zaplutym",
+      1
+    ],
+    [
+      "barze",
+      1
+    ],
+    [
+      "kufel",
+      1
+    ],
+    [
+      "patrzy",
+      1
+    ],
+    [
+      "śmierć",
+      1
+    ],
+    [
+      "wartę",
+      1
+    ],
+    [
+      "odprawiając",
+      1
+    ],
+    [
+      "czujną",
+      1
+    ],
+    [
+      "której",
+      1
+    ],
+    [
+      "kufla",
+      1
+    ],
+    [
+      "naszego",
+      1
+    ],
+    [
+      "zarówno",
+      1
+    ],
+    [
+      "pić",
+      1
+    ],
+    [
+      "pozwalamy",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 13,
+    "period": 1,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 0,
+    "semicolon": 1
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 3,
+  "negationWords": [
+    "nie"
+  ],
+  "pronounDistribution": {
+    "ja": 0,
+    "ty": 0,
+    "on_ona": 0,
+    "my": 5,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 0,
+    "smierc": 1,
+    "erotyka": 0,
+    "alkohol": 1,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [],
+  "firstWord": "żadnej",
+  "lastWord": "pożyczonym",
+  "avgWordLength": 5.3,
+  "wordLengthDistribution": {
+    "6-7": 23,
+    "1-3": 25,
+    "10+": 6,
+    "8-9": 10,
+    "4-5": 16
+  },
+  "bigrams": [
+    [
+      "żywiąc nadziei",
+      1
+    ],
+    [
+      "nadziei zapłaty",
+      1
+    ],
+    [
+      "zapłaty melancholijne",
+      1
+    ],
+    [
+      "melancholijne szczęście",
+      1
+    ],
+    [
+      "szczęście odnalazłszy",
+      1
+    ],
+    [
+      "zaplutym barze",
+      1
+    ],
+    [
+      "kufel patrzy",
+      1
+    ]
+  ],
+  "poemWords": [
+    "żywiąc",
+    "nadziei",
+    "zapłaty",
+    "melancholijne",
+    "szczęście",
+    "odnalazłszy",
+    "zaplutym",
+    "barze",
+    "kufel",
+    "patrzy",
+    "śmierć",
+    "wartę",
+    "odprawiając",
+    "czujną",
+    "której",
+    "kufla",
+    "naszego",
+    "zarówno",
+    "pić",
+    "pozwalamy",
+    "dbając",
+    "koszty",
+    "brakuje",
+    "dziesięciu",
+    "groszy",
+    "śmieje",
+    "naród",
+    "pobożny",
+    "dobrze",
+    "ubrany",
+    "odżywiony",
+    "kościoła",
+    "wyszedł",
+    "obiad",
+    "zdążając",
+    "piwem",
+    "apetyt",
+    "podostrza",
+    "wierząc",
+    "kupić",
+    "zechce",
+    "zapisujemy",
+    "wiersz",
+    "serwetce",
+    "ołówkiem",
+    "kelnerki",
+    "pożyczonym"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 22,
+        "VERB": 14,
+        "ADJ": 8,
+        "ADV": 2,
+        "PRON": 7,
+        "ADP": 10,
+        "CCONJ": 3,
+        "SCONJ": 5,
+        "INTJ": 0,
+        "PART": 4,
+        "DET": 6,
+        "NUM": 1
+      },
+      "posPercent": {
+        "NOUN": 0.265,
+        "VERB": 0.169,
+        "ADJ": 0.096,
+        "ADV": 0.024,
+        "PRON": 0.084,
+        "ADP": 0.12,
+        "CCONJ": 0.036,
+        "SCONJ": 0.06,
+        "INTJ": 0,
+        "PART": 0.048,
+        "DET": 0.072,
+        "NUM": 0.012
+      },
+      "nounConcreteAbstract": {
+        "concrete": 1,
+        "abstract": 2,
+        "ratio": 0.33
+      },
+      "verbTenses": {
+        "present": 10,
+        "past": 2,
+        "infinitive": 1,
+        "future": 1
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 1,
+        "stan": 0,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 0,
+        "opisowe": 8
+      },
+      "adverbs": {
+        "temporalne": [],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "gdzie",
+            "count": 1
+          },
+          {
+            "word": "dobrze",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 0,
+        "ty": 0,
+        "on_ona": 0,
+        "my": 5,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 3,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 1,
+        "total": 4,
+        "percentSentences": 0.8
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 185,
+        "consonants": 259,
+        "ratio": 0.71
+      },
+      "consonantClusters": {
+        "count": 12,
+        "top": [
+          {
+            "cluster": "nch",
+            "count": 1
+          },
+          {
+            "cluster": "szcz",
+            "count": 1
+          },
+          {
+            "cluster": "złsz",
+            "count": 1
+          },
+          {
+            "cluster": "gdz",
+            "count": 1
+          },
+          {
+            "cluster": "trz",
+            "count": 1
+          },
+          {
+            "cluster": "prz",
+            "count": 1
+          },
+          {
+            "cluster": "dpr",
+            "count": 1
+          },
+          {
+            "cluster": "szt",
+            "count": 1
+          },
+          {
+            "cluster": "brz",
+            "count": 1
+          },
+          {
+            "cluster": "strz",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 26,
+        "syczace": 45,
+        "nosowe": 50,
+        "plynne": 34
+      },
+      "rhymes": {
+        "exact": 0,
+        "approximate": 4,
+        "internal": 0,
+        "assonance": 1,
+        "alliteration": 0
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 16.6,
+        "median": 11,
+        "min": 2,
+        "max": 40,
+        "distribution": [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 5.5,
+        "meanSyllables": 12.7,
+        "distribution": [
+          0,
+          0,
+          0,
+          2,
+          3,
+          2,
+          4,
+          1,
+          3
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 5,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 1,
+        "noSubject": 1,
+        "noPredicate": 0,
+        "percent": 0.4
+      },
+      "enjambement": {
+        "count": 0,
+        "percent": 0,
+        "positions": []
+      },
+      "wordOrder": {
+        "svo": 1,
+        "inversions": 2,
+        "other": 2,
+        "deviationPercent": 0.8
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 0,
+        "śmierć": 1,
+        "erotyka": 0,
+        "alkohol": 2,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 190,
+      "estimatedSeconds": 63,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 22,
+      "VERB": 14,
+      "ADJ": 8,
+      "ADV": 2,
+      "PRON": 7,
+      "ADP": 10,
+      "CCONJ": 3,
+      "SCONJ": 5,
+      "INTJ": 0,
+      "PART": 4,
+      "DET": 6,
+      "NUM": 1
+    },
+    "posPercent": {
+      "NOUN": 0.265,
+      "VERB": 0.169,
+      "ADJ": 0.096,
+      "ADV": 0.024,
+      "PRON": 0.084,
+      "ADP": 0.12,
+      "CCONJ": 0.036,
+      "SCONJ": 0.06,
+      "INTJ": 0,
+      "PART": 0.048,
+      "DET": 0.072,
+      "NUM": 0.012
+    },
+    "nounConcreteAbstract": {
+      "concrete": 1,
+      "abstract": 2,
+      "ratio": 0.33
+    },
+    "verbTenses": {
+      "present": 10,
+      "past": 2,
+      "infinitive": 1,
+      "future": 1
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 1,
+      "stan": 0,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 0,
+      "opisowe": 8
+    },
+    "adverbs": {
+      "temporalne": [],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "gdzie",
+          "count": 1
+        },
+        {
+          "word": "dobrze",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 0,
+      "ty": 0,
+      "on_ona": 0,
+      "my": 5,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 3,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 1,
+      "total": 4,
+      "percentSentences": 0.8
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 16.6,
+      "median": 11,
+      "min": 2,
+      "max": 40,
+      "distribution": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 5.5,
+      "meanSyllables": 12.7,
+      "distribution": [
+        0,
+        0,
+        0,
+        2,
+        3,
+        2,
+        4,
+        1,
+        3
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 5,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 1,
+      "noSubject": 1,
+      "noPredicate": 0,
+      "percent": 0.4
+    },
+    "enjambement": {
+      "count": 0,
+      "percent": 0,
+      "positions": []
+    },
+    "wordOrder": {
+      "svo": 1,
+      "inversions": 2,
+      "other": 2,
+      "deviationPercent": 0.8
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 185,
+      "consonants": 259,
+      "ratio": 0.71
+    },
+    "consonantClusters": {
+      "count": 12,
+      "top": [
+        {
+          "cluster": "nch",
+          "count": 1
+        },
+        {
+          "cluster": "szcz",
+          "count": 1
+        },
+        {
+          "cluster": "złsz",
+          "count": 1
+        },
+        {
+          "cluster": "gdz",
+          "count": 1
+        },
+        {
+          "cluster": "trz",
+          "count": 1
+        },
+        {
+          "cluster": "prz",
+          "count": 1
+        },
+        {
+          "cluster": "dpr",
+          "count": 1
+        },
+        {
+          "cluster": "szt",
+          "count": 1
+        },
+        {
+          "cluster": "brz",
+          "count": 1
+        },
+        {
+          "cluster": "strz",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 26,
+      "syczace": 45,
+      "nosowe": 50,
+      "plynne": 34
+    },
+    "rhymes": {
+      "exact": 0,
+      "approximate": 4,
+      "internal": 0,
+      "assonance": 1,
+      "alliteration": 0
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        15
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 190,
+      "estimatedSeconds": 63,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "regularny",
+      "regularityScore": 0.9
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Rimbaud",
+          "reference": "Pijani w barze jako poetycka wizja bohemy",
+          "evidence": "zaplutym barze, gdzie nam w kufel patrzy / Śmierć"
+        },
+        {
+          "source": "Baudelaire",
+          "reference": "Melancholia i spleen jako poetyckie nastroje",
+          "evidence": "Melancholijne szczęście odnalazłszy"
+        },
+        {
+          "source": "Biblia",
+          "reference": "Kontrast z pobożnym narodem",
+          "evidence": "naród pobożny / Który z kościoła wyszedł"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.8,
+        "baudelaire": 0.7,
+        "bursa": 0.3,
+        "stachura": 0.4,
+        "grochowiak": 0.6,
+        "bialoszewski": 0.2,
+        "rozewicz": 0.3
+      }
+    },
+    "space": {
+      "type": "zamknieta",
+      "evidence": "zaplutym barze - przestrzeń ograniczona do wnętrza lokalu",
+      "openClosedRatio": 0.2
+    },
+    "timeOfDay": {
+      "period": "dzien",
+      "season": "nieokreslona",
+      "evidence": "Który z kościoła wyszedł i na obiad / Zdążając - wskazuje na porę obiadową"
+    },
+    "motion": {
+      "movement": 3,
+      "stillness": 7,
+      "dynamism": 0.3,
+      "evidence": "Statyczna sytuacja siedzenia w barze, jedyny ruch to ludzie idący na obiad"
+    },
+    "imageryDensity": {
+      "metaphors": 3,
+      "comparisons": 0,
+      "personifications": 2,
+      "hyperboles": 1,
+      "per100words": 6.8
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.9,
+      "creationLevel": 0.3,
+      "ironicDistance": 0.6,
+      "autobiographicSignals": [
+        "zapisujemy ten wiersz na serwetce",
+        "brakuje nam dziesięciu groszy",
+        "my z kufla naszego"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "melancholia",
+      "secondary": "ironia",
+      "intensity": 0.8
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "podmiot zbiorowy 'my' - 'nam w kufel patrzy', 'wartę przy nas', 'z kufla naszego', 'zapisujemy'"
+    },
+    "addressee": {
+      "type": "czytelnik",
+      "evidence": "wiersz jest zapisywany 'na serwetce' jako komunikat do odbiorcy, podmiot zwraca się do szerszego grona"
+    },
+    "metaphors": [
+      {
+        "source": "śmierć",
+        "target": "alkohol/kompan picia",
+        "example": "Śmierć, wartę przy nas odprawiając czujną, Której my z kufla naszego zarówno Pić pozwalamy"
+      },
+      {
+        "source": "serwetka",
+        "target": "nośnik literatury/poezji",
+        "example": "zapisujemy ten wiersz na serwetce"
+      }
+    ],
+    "temperature": {
+      "value": 0.4,
+      "label": "chłodna rezygnacja z nutą ironii"
+    },
+    "senses": {
+      "wzrok": 4,
+      "sluch": 1,
+      "dotyk": 2,
+      "smak": 3,
+      "zapach": 1
+    },
+    "autodestruction": {
+      "level": 0.7,
+      "signals": [
+        "picie alkoholu ze śmiercią",
+        "nie dbając o koszty",
+        "brak nadziei zapłaty",
+        "świadomość własnej degradacji społecznej"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 0.944,
+    "dfaAlpha": 0.227,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -0.2665308826064362
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -0.20118615439326776
+      }
+    ],
+    "seriesLength": 14,
+    "series": [
+      5,
+      3,
+      8,
+      6,
+      6,
+      6,
+      6,
+      8,
+      4,
+      7,
+      4,
+      8,
+      5,
+      4
+    ]
+  }
+}

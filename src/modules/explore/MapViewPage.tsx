@@ -1,14 +1,28 @@
 /// <reference types="vite/client" />
 import { useRef, useEffect, useState } from 'react';
 import { motion, AnimatePresence } from 'motion/react';
-import mapboxgl from 'mapbox-gl';
-import 'mapbox-gl/dist/mapbox-gl.css';
+import L from 'leaflet';
+import 'leaflet/dist/leaflet.css';
 import { Clock, Layers, ChevronRight } from 'lucide-react';
 import { MAP_CENTER } from '../../constants';
 import { useData } from '../../services/data/dataService';
 import type { Point } from '../../types';
 
-const MAPBOX_TOKEN = import.meta.env.VITE_MAPBOX_TOKEN || '';
+const getTileLayer = () => {
+  return L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
+    attribution: '',
+    subdomains: 'abcd',
+    maxZoom: 19,
+  });
+};
+
+const createNumberedIcon = (index: number) =>
+  L.divIcon({
+    className: '',
+    iconSize: [32, 32],
+    iconAnchor: [16, 16],
+    html: `<div style="width:32px;height:32px;background:#c23030;border-radius:50%;border:2px solid white;box-shadow:0 2px 10px rgba(0,0,0,0.5);display:flex;align-items:center;justify-content:center;color:white;font-size:12px;font-weight:700;cursor:pointer;transition:transform 0.2s,box-shadow 0.2s;">${index}</div>`,
+  });
 
 interface MapViewPageProps {
   onSelectPoint: (point: Point) => void;
@@ -16,145 +30,53 @@ interface MapViewPageProps {
 
 export const MapViewPage = ({ onSelectPoint }: MapViewPageProps) => {
   const mapContainer = useRef<HTMLDivElement>(null);
-  const map = useRef<mapboxgl.Map | null>(null);
+  const mapRef = useRef<L.Map | null>(null);
   const { points } = useData();
   const [activePoint, setActivePoint] = useState<Point | null>(null);
 
   useEffect(() => {
-    if (!mapContainer.current || !MAPBOX_TOKEN) return;
+    if (!mapContainer.current) return;
 
-    mapboxgl.accessToken = MAPBOX_TOKEN;
+    const map = L.map(mapContainer.current, {
+      attributionControl: false,
+      zoomControl: true,
+    });
+    mapRef.current = map;
+
+    getTileLayer().addTo(map);
 
     // Fit all points in view
-    const bounds = new mapboxgl.LngLatBounds();
-    points.forEach(p => bounds.extend([p.lng, p.lat]));
+    const bounds = L.latLngBounds(points.map(p => [p.lat, p.lng] as [number, number]));
+    map.fitBounds(bounds, { padding: [60, 60] });
 
-    map.current = new mapboxgl.Map({
-      container: mapContainer.current,
-      style: 'mapbox://styles/mapbox/light-v11',
-      bounds,
-      fitBoundsOptions: { padding: 60 },
-      pitch: 50,
-      bearing: -15,
-      attributionControl: false,
-      logoPosition: 'top-left',
-    });
-
-    map.current.addControl(new mapboxgl.NavigationControl({ showCompass: true, showZoom: false }), 'top-right');
-
-    map.current.on('load', () => {
-      const m = map.current!;
-
-      m.addSource('mapbox-dem', {
-        type: 'raster-dem',
-        url: 'mapbox://mapbox.mapbox-terrain-dem-v1',
-        tileSize: 512,
-      });
-      m.setTerrain({ source: 'mapbox-dem', exaggeration: 1.5 });
-
-      // Atmospheric fog with blue-gray tint
-      m.setFog({
-        color: 'rgb(186, 195, 210)',
-        'high-color': 'rgb(36, 50, 75)',
-        'horizon-blend': 0.08,
-        'space-color': 'rgb(15, 20, 35)',
-        'star-intensity': 0.4,
-      });
-
-      // 3D buildings
-      const layers = m.getStyle().layers;
-      const labelLayerId = layers?.find(
-        (layer: any) => layer.type === 'symbol' && layer.layout?.['text-field']
-      )?.id;
-      m.addLayer(
-        {
-          id: '3d-buildings',
-          source: 'composite',
-          'source-layer': 'building',
-          filter: ['==', 'extrude', 'true'],
-          type: 'fill-extrusion',
-          minzoom: 14,
-          paint: {
-            'fill-extrusion-color': '#c8cdd6',
-            'fill-extrusion-height': ['get', 'height'],
-            'fill-extrusion-base': ['get', 'min_height'],
-            'fill-extrusion-opacity': 0.5,
-          },
-        },
-        labelLayerId
-      );
-
-      // Trail line
-      const coords = points.map(p => [p.lng, p.lat]);
-      m.addSource('trail', {
-        type: 'geojson',
-        data: {
-          type: 'Feature',
-          properties: {},
-          geometry: { type: 'LineString', coordinates: coords },
-        },
-      });
-      m.addLayer({
-        id: 'trail-line',
-        type: 'line',
-        source: 'trail',
-        paint: {
-          'line-color': '#ffffff',
-          'line-width': 2,
-          'line-dasharray': [2, 2],
-          'line-opacity': 0.6,
-        },
-      });
-    });
+    // Trail polyline
+    const coords = points.map(p => [p.lat, p.lng] as [number, number]);
+    L.polyline(coords, {
+      color: '#ffffff',
+      weight: 2,
+      dashArray: '6, 6',
+      opacity: 0.6,
+    }).addTo(map);
 
     // Add markers
     points.forEach((p, i) => {
-      const el = document.createElement('div');
-      el.style.width = '32px';
-      el.style.height = '32px';
-      el.style.backgroundColor = '#c23030';
-      el.style.borderRadius = '50%';
-      el.style.border = '2px solid white';
-      el.style.boxShadow = '0 2px 10px rgba(0,0,0,0.5)';
-      el.style.display = 'flex';
-      el.style.alignItems = 'center';
-      el.style.justifyContent = 'center';
-      el.style.color = 'white';
-      el.style.fontSize = '12px';
-      el.style.fontWeight = '700';
-      el.style.cursor = 'pointer';
-      el.style.transition = 'transform 0.2s, box-shadow 0.2s';
-      el.textContent = String(i + 1);
+      const marker = L.marker([p.lat, p.lng], {
+        icon: createNumberedIcon(i + 1),
+      }).addTo(map);
 
-      el.addEventListener('mouseenter', () => {
-        el.style.transform = 'scale(1.15)';
-        el.style.boxShadow = '0 4px 20px rgba(194,48,48,0.5)';
-      });
-      el.addEventListener('mouseleave', () => {
-        el.style.transform = 'scale(1)';
-        el.style.boxShadow = '0 2px 10px rgba(0,0,0,0.5)';
-      });
-
-      el.addEventListener('click', (e) => {
-        e.stopPropagation();
+      marker.on('click', (e) => {
+        L.DomEvent.stopPropagation(e);
         setActivePoint(p);
-        map.current?.flyTo({
-          center: [p.lng, p.lat],
-          zoom: 16.5,
-          pitch: 55,
-          duration: 800,
-        });
+        map.flyTo([p.lat, p.lng], 16, { duration: 0.8 });
       });
-
-      new mapboxgl.Marker(el).setLngLat([p.lng, p.lat]).addTo(map.current!);
     });
 
     // Click on map background dismisses card
-    map.current.on('click', () => {
+    map.on('click', () => {
       setActivePoint(null);
     });
 
-    return () => { map.current?.remove(); };
+    return () => { map.remove(); };
   }, []);
 
   return (

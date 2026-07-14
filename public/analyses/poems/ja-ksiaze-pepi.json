@@ -1,0 +1,836 @@
+{
+  "id": "ja-ksiaze-pepi",
+  "title": "Ja: książę Pepi",
+  "wordCount": 36,
+  "lineCount": 8,
+  "uniqueWords": 35,
+  "vocabularyRichness": 0.972,
+  "avgWordsPerLine": 4.5,
+  "wordsPerLineDistribution": [
+    5,
+    5,
+    5,
+    3,
+    4,
+    6,
+    6,
+    2
+  ],
+  "wordFrequencies": [
+    [
+      "gdziekolwiek",
+      1
+    ],
+    [
+      "pójdę",
+      1
+    ],
+    [
+      "wszędzie",
+      1
+    ],
+    [
+      "straszy",
+      1
+    ],
+    [
+      "śmiercią",
+      1
+    ],
+    [
+      "daremną",
+      1
+    ],
+    [
+      "refren",
+      1
+    ],
+    [
+      "piosenki",
+      1
+    ],
+    [
+      "brak",
+      1
+    ],
+    [
+      "długo",
+      1
+    ],
+    [
+      "taką",
+      1
+    ],
+    [
+      "nieśmiertelność",
+      1
+    ],
+    [
+      "nosić",
+      1
+    ],
+    [
+      "berło",
+      1
+    ],
+    [
+      "kiedyż",
+      1
+    ],
+    [
+      "nareszcie",
+      1
+    ],
+    [
+      "usłyszę",
+      1
+    ],
+    [
+      "melodię",
+      1
+    ],
+    [
+      "flecie",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 4,
+    "period": 1,
+    "question": 2,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 2,
+    "semicolon": 0
+  },
+  "questionCount": 2,
+  "exclamationCount": 0,
+  "negationCount": 1,
+  "negationWords": [
+    "brak"
+  ],
+  "pronounDistribution": {
+    "ja": 0,
+    "ty": 0,
+    "on_ona": 0,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 0,
+    "smierc": 1,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 1,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [],
+  "firstWord": "gdziekolwiek",
+  "lastWord": "poloniae",
+  "avgWordLength": 6,
+  "wordLengthDistribution": {
+    "10+": 2,
+    "4-5": 12,
+    "8-9": 7,
+    "6-7": 9,
+    "1-3": 6
+  },
+  "bigrams": [
+    [
+      "gdziekolwiek pójdę",
+      1
+    ],
+    [
+      "pójdę wszędzie",
+      1
+    ],
+    [
+      "wszędzie straszy",
+      1
+    ],
+    [
+      "straszy śmiercią",
+      1
+    ],
+    [
+      "śmiercią daremną",
+      1
+    ],
+    [
+      "daremną refren",
+      1
+    ],
+    [
+      "piosenki brak",
+      1
+    ],
+    [
+      "długo można",
+      1
+    ],
+    [
+      "można taką",
+      1
+    ],
+    [
+      "taką nieśmiertelność",
+      1
+    ],
+    [
+      "nieśmiertelność nosić",
+      1
+    ]
+  ],
+  "poemWords": [
+    "gdziekolwiek",
+    "pójdę",
+    "wszędzie",
+    "straszy",
+    "śmiercią",
+    "daremną",
+    "refren",
+    "piosenki",
+    "brak",
+    "długo",
+    "taką",
+    "nieśmiertelność",
+    "nosić",
+    "berło",
+    "kiedyż",
+    "nareszcie",
+    "usłyszę",
+    "melodię",
+    "którą",
+    "flecie",
+    "mego",
+    "berła",
+    "wygra",
+    "prawdziwa",
+    "śmierć",
+    "słusznie",
+    "powiem",
+    "finis",
+    "poloniae"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 11,
+        "VERB": 8,
+        "ADJ": 1,
+        "ADV": 8,
+        "PRON": 0,
+        "ADP": 1,
+        "CCONJ": 0,
+        "SCONJ": 2,
+        "INTJ": 0,
+        "PART": 1,
+        "DET": 3,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.282,
+        "VERB": 0.205,
+        "ADJ": 0.026,
+        "ADV": 0.205,
+        "PRON": 0,
+        "ADP": 0.026,
+        "CCONJ": 0,
+        "SCONJ": 0.051,
+        "INTJ": 0,
+        "PART": 0.026,
+        "DET": 0.077,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 0,
+        "abstract": 2,
+        "ratio": 0
+      },
+      "verbTenses": {
+        "future": 4,
+        "present": 3,
+        "infinitive": 1
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 0,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 0,
+        "opisowe": 1
+      },
+      "adverbs": {
+        "temporalne": [],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "gdziekolwiek",
+            "count": 1
+          },
+          {
+            "word": "wszędzie",
+            "count": 1
+          },
+          {
+            "word": "gdy",
+            "count": 1
+          },
+          {
+            "word": "jak",
+            "count": 1
+          },
+          {
+            "word": "długo",
+            "count": 1
+          },
+          {
+            "word": "kiedyż",
+            "count": 1
+          },
+          {
+            "word": "tak",
+            "count": 1
+          },
+          {
+            "word": "słusznie",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 0,
+        "ty": 0,
+        "on_ona": 0,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 0,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 0,
+        "percentSentences": 0
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 97,
+        "consonants": 131,
+        "ratio": 0.74
+      },
+      "consonantClusters": {
+        "count": 6,
+        "top": [
+          {
+            "cluster": "gdz",
+            "count": 1
+          },
+          {
+            "cluster": "wsz",
+            "count": 1
+          },
+          {
+            "cluster": "str",
+            "count": 1
+          },
+          {
+            "cluster": "szc",
+            "count": 1
+          },
+          {
+            "cluster": "wdz",
+            "count": 1
+          },
+          {
+            "cluster": "szn",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 9,
+        "syczace": 17,
+        "nosowe": 30,
+        "plynne": 24
+      },
+      "rhymes": {
+        "exact": 0,
+        "approximate": 1,
+        "internal": 0,
+        "assonance": 0,
+        "alliteration": 1
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 9.8,
+        "median": 10,
+        "min": 2,
+        "max": 16,
+        "distribution": [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 4.3,
+        "meanSyllables": 10.8,
+        "distribution": [
+          0,
+          0,
+          1,
+          2,
+          1,
+          3,
+          2
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 2,
+        "interrogative": 2,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 1,
+        "noSubject": 1,
+        "noPredicate": 0,
+        "percent": 0.5
+      },
+      "enjambement": {
+        "count": 0,
+        "percent": 0,
+        "positions": []
+      },
+      "wordOrder": {
+        "svo": 0,
+        "inversions": 2,
+        "other": 2,
+        "deviationPercent": 1
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 0,
+        "śmierć": 1,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 1,
+        "sacrum": 0,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 97,
+      "estimatedSeconds": 32,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 11,
+      "VERB": 8,
+      "ADJ": 1,
+      "ADV": 8,
+      "PRON": 0,
+      "ADP": 1,
+      "CCONJ": 0,
+      "SCONJ": 2,
+      "INTJ": 0,
+      "PART": 1,
+      "DET": 3,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.282,
+      "VERB": 0.205,
+      "ADJ": 0.026,
+      "ADV": 0.205,
+      "PRON": 0,
+      "ADP": 0.026,
+      "CCONJ": 0,
+      "SCONJ": 0.051,
+      "INTJ": 0,
+      "PART": 0.026,
+      "DET": 0.077,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 0,
+      "abstract": 2,
+      "ratio": 0
+    },
+    "verbTenses": {
+      "future": 4,
+      "present": 3,
+      "infinitive": 1
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 0,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 0,
+      "opisowe": 1
+    },
+    "adverbs": {
+      "temporalne": [],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "gdziekolwiek",
+          "count": 1
+        },
+        {
+          "word": "wszędzie",
+          "count": 1
+        },
+        {
+          "word": "gdy",
+          "count": 1
+        },
+        {
+          "word": "jak",
+          "count": 1
+        },
+        {
+          "word": "długo",
+          "count": 1
+        },
+        {
+          "word": "kiedyż",
+          "count": 1
+        },
+        {
+          "word": "tak",
+          "count": 1
+        },
+        {
+          "word": "słusznie",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 0,
+      "ty": 0,
+      "on_ona": 0,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 0,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 0,
+      "percentSentences": 0
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 9.8,
+      "median": 10,
+      "min": 2,
+      "max": 16,
+      "distribution": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 4.3,
+      "meanSyllables": 10.8,
+      "distribution": [
+        0,
+        0,
+        1,
+        2,
+        1,
+        3,
+        2
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 2,
+      "interrogative": 2,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 1,
+      "noSubject": 1,
+      "noPredicate": 0,
+      "percent": 0.5
+    },
+    "enjambement": {
+      "count": 0,
+      "percent": 0,
+      "positions": []
+    },
+    "wordOrder": {
+      "svo": 0,
+      "inversions": 2,
+      "other": 2,
+      "deviationPercent": 1
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 97,
+      "consonants": 131,
+      "ratio": 0.74
+    },
+    "consonantClusters": {
+      "count": 6,
+      "top": [
+        {
+          "cluster": "gdz",
+          "count": 1
+        },
+        {
+          "cluster": "wsz",
+          "count": 1
+        },
+        {
+          "cluster": "str",
+          "count": 1
+        },
+        {
+          "cluster": "szc",
+          "count": 1
+        },
+        {
+          "cluster": "wdz",
+          "count": 1
+        },
+        {
+          "cluster": "szn",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 9,
+      "syczace": 17,
+      "nosowe": 30,
+      "plynne": 24
+    },
+    "rhymes": {
+      "exact": 0,
+      "approximate": 1,
+      "internal": 0,
+      "assonance": 0,
+      "alliteration": 1
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        9
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 97,
+      "estimatedSeconds": 32,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "polregularny",
+      "regularityScore": 0.64
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "inne",
+          "reference": "Finis Poloniae",
+          "evidence": "bezpośredni cytat z legendy o Tadeuszu Kościuszce"
+        },
+        {
+          "source": "mitologia",
+          "reference": "berło jako symbol władzy",
+          "evidence": "metafora 'Nosić jak berło' nawiązuje do mitologii władzy"
+        },
+        {
+          "source": "inne",
+          "reference": "Księże jako tytuł szlachecki",
+          "evidence": "tytuł wiersza 'KSIĄŻĘ PEPI' - szlacheckie konotacje"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.4,
+        "baudelaire": 0.3,
+        "bursa": 0.1,
+        "stachura": 0.2,
+        "grochowiak": 0.3,
+        "bialoszewski": 0.1,
+        "rozewicz": 0.2
+      }
+    },
+    "space": {
+      "type": "nieokreslona",
+      "evidence": "przestrzeń uniwersalna 'Gdziekolwiek pójdę, wszędzie'",
+      "openClosedRatio": 0.8
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "nieokreslona",
+      "evidence": "brak konkretnych wskaźników temporalnych"
+    },
+    "motion": {
+      "movement": 3,
+      "stillness": 7,
+      "dynamism": 0.3,
+      "evidence": "'pójdę' sugeruje ruch, ale dominuje statyczność egzystencjalnego stanu"
+    },
+    "imageryDensity": {
+      "metaphors": 4,
+      "comparisons": 2,
+      "personifications": 1,
+      "hyperboles": 1,
+      "per100words": 14.8
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.9,
+      "creationLevel": 0.7,
+      "ironicDistance": 0.3,
+      "autobiographicSignals": [
+        "ja jako podmiot liryczny",
+        "egzystencjalne rozterki",
+        "pytania retoryczne o sens istnienia"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "rezygnacja",
+      "secondary": "melancholia",
+      "intensity": 0.8
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "Wiersz napisany w pierwszej osobie - 'JA: KSIĄŻĘ PEPI', 'Gdziekolwiek pójdę', 'usłyszę', 'powiem'"
+    },
+    "addressee": {
+      "type": "siebie",
+      "evidence": "Podmiot prowadzi wewnętrzny monolog, zadając sobie pytania retoryczne 'Jak długo można', 'Kiedyż nareszcie'"
+    },
+    "metaphors": [
+      {
+        "source": "berło",
+        "target": "nieśmiertelność",
+        "example": "Jak długo można taką nieśmiertelność / Nosić jak berło?"
+      },
+      {
+        "source": "flet",
+        "target": "berło/władza",
+        "example": "na flecie mego berła"
+      },
+      {
+        "source": "melodia śmierci",
+        "target": "upragnione zakończenie",
+        "example": "usłyszę melodię, / Którą na flecie mego berła tak / Wygra prawdziwa śmierć"
+      }
+    ],
+    "temperature": {
+      "value": 0.3,
+      "label": "chłodna rezygnacja"
+    },
+    "senses": {
+      "wzrok": 1,
+      "sluch": 5,
+      "dotyk": 2,
+      "smak": 0,
+      "zapach": 0
+    },
+    "autodestruction": {
+      "level": 0.9,
+      "signals": [
+        "pragnienie prawdziwej śmierci",
+        "zmęczenie nieśmiertelnością",
+        "oczekiwanie na 'Finis Poloniae'",
+        "postrzeganie własnego istnienia jako ciężaru"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": null,
+    "dfaAlpha": null,
+    "dfaScaling": [],
+    "seriesLength": 8,
+    "series": [
+      5,
+      5,
+      5,
+      3,
+      4,
+      6,
+      6,
+      2
+    ]
+  }
+}

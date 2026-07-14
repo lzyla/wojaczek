@@ -1,0 +1,1761 @@
+{
+  "id": "prawdziwy-bohater-bawi-sie-sam",
+  "title": "Prawdziwy bohater bawi się sam",
+  "wordCount": 791,
+  "lineCount": 152,
+  "uniqueWords": 558,
+  "vocabularyRichness": 0.705,
+  "avgWordsPerLine": 5.2,
+  "wordsPerLineDistribution": [
+    2,
+    21,
+    8,
+    10,
+    9,
+    7,
+    8,
+    7,
+    8,
+    2,
+    9,
+    2,
+    10,
+    7,
+    6,
+    7,
+    7,
+    13,
+    9,
+    8,
+    4,
+    8,
+    11,
+    11,
+    8,
+    11,
+    9,
+    8,
+    5,
+    5,
+    4,
+    8,
+    7,
+    4,
+    6,
+    8,
+    9,
+    11,
+    9,
+    7,
+    9,
+    2,
+    10,
+    8,
+    9,
+    7,
+    1,
+    10,
+    10,
+    8,
+    6,
+    12,
+    11,
+    9,
+    1,
+    11,
+    1,
+    4,
+    2,
+    2,
+    3,
+    3,
+    3,
+    8,
+    3,
+    2,
+    3,
+    2,
+    3,
+    5,
+    2,
+    8,
+    8,
+    3,
+    2,
+    4,
+    4,
+    5,
+    7,
+    3,
+    2,
+    11,
+    10,
+    2,
+    9,
+    4,
+    1,
+    1,
+    2,
+    2,
+    2,
+    5,
+    4,
+    5,
+    4,
+    5,
+    2,
+    2,
+    3,
+    3,
+    5,
+    2,
+    2,
+    3,
+    6,
+    3,
+    3,
+    2,
+    4,
+    2,
+    2,
+    5,
+    2,
+    3,
+    1,
+    2,
+    2,
+    7,
+    2,
+    4,
+    4,
+    10,
+    2,
+    10,
+    3,
+    3,
+    4,
+    3,
+    5,
+    2,
+    5,
+    3,
+    3,
+    1,
+    5,
+    3,
+    3,
+    4,
+    3,
+    2,
+    4,
+    2,
+    4,
+    5,
+    4,
+    2,
+    2,
+    3,
+    4,
+    5,
+    6,
+    4
+  ],
+  "wordFrequencies": [
+    [
+      "bohater",
+      7
+    ],
+    [
+      "bawi",
+      6
+    ],
+    [
+      "miłość",
+      5
+    ],
+    [
+      "list",
+      5
+    ],
+    [
+      "samprawdziwy",
+      4
+    ],
+    [
+      "roku",
+      4
+    ],
+    [
+      "sezon",
+      4
+    ],
+    [
+      "ciebie",
+      4
+    ],
+    [
+      "gwiazda",
+      4
+    ],
+    [
+      "bohaterów",
+      4
+    ],
+    [
+      "polski",
+      3
+    ],
+    [
+      "świat",
+      3
+    ],
+    [
+      "sssss",
+      3
+    ],
+    [
+      "martwy",
+      3
+    ],
+    [
+      "piszę",
+      3
+    ],
+    [
+      "wiersz",
+      3
+    ],
+    [
+      "piosenka",
+      3
+    ],
+    [
+      "prawdziwy",
+      2
+    ],
+    [
+      "cudzych",
+      2
+    ]
+  ],
+  "punctuation": {
+    "comma": 50,
+    "period": 27,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 2,
+    "dash": 8,
+    "colon": 5,
+    "semicolon": 1
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 13,
+  "negationWords": [
+    "bez",
+    "nie",
+    "nigdy"
+  ],
+  "pronounDistribution": {
+    "ja": 4,
+    "ty": 5,
+    "on_ona": 12,
+    "my": 2,
+    "wy": 0,
+    "oni": 1
+  },
+  "semanticFields": {
+    "cialo": 3,
+    "smierc": 4,
+    "erotyka": 5,
+    "alkohol": 0,
+    "samotnosc": 4,
+    "sacrum": 0,
+    "noc": 1,
+    "bol": 0
+  },
+  "anaphors": [
+    [
+      "*",
+      6
+    ],
+    [
+      "list",
+      5
+    ],
+    [
+      "martwy",
+      3
+    ],
+    [
+      "gwiazda",
+      3
+    ],
+    [
+      "piosenka",
+      3
+    ],
+    [
+      "nie",
+      2
+    ],
+    [
+      "sezon",
+      2
+    ],
+    [
+      "piszę",
+      2
+    ],
+    [
+      "pewna",
+      2
+    ],
+    [
+      "nasza",
+      2
+    ]
+  ],
+  "firstWord": "bogusław",
+  "lastWord": "podziemia",
+  "avgWordLength": 5.23,
+  "wordLengthDistribution": {
+    "8-9": 96,
+    "4-5": 171,
+    "6-7": 153,
+    "1-3": 283,
+    "10+": 88
+  },
+  "bigrams": [
+    [
+      "bohater bawi",
+      6
+    ],
+    [
+      "samprawdziwy bohater",
+      4
+    ],
+    [
+      "piosenka bohaterów",
+      3
+    ],
+    [
+      "prawdziwy bohater",
+      2
+    ],
+    [
+      "martwy sezon",
+      2
+    ],
+    [
+      "piszę miłość",
+      2
+    ]
+  ],
+  "poemWords": [
+    "bogusław",
+    "kierc",
+    "prawdziwy",
+    "bohater",
+    "bawi",
+    "samprawdziwy",
+    "chodziłem",
+    "szkół",
+    "dorastałem",
+    "bibliotekach",
+    "dworcach",
+    "kolejowych",
+    "domach",
+    "cudzych",
+    "mniej",
+    "barach",
+    "lepszej",
+    "gorszej",
+    "kategorii",
+    "miejscach",
+    "pływałem",
+    "rzekach",
+    "jeziorach",
+    "wielkiej",
+    "wodzie",
+    "ujął",
+    "zwiedzanie",
+    "polski",
+    "dobrze",
+    "wychowany",
+    "oczytany",
+    "wrażliwy",
+    "młodzieniec",
+    "okazawszy",
+    "sobowtórem",
+    "skurwysyna",
+    "wojaczka",
+    "poety",
+    "pijaka",
+    "darmozjada",
+    "którego",
+    "dawno",
+    "powinni",
+    "zamknąć",
+    "były",
+    "podstawy",
+    "prześlicznie",
+    "sformułował",
+    "pewien",
+    "recenzent",
+    "partyjnego",
+    "dziennika",
+    "ulega",
+    "wątpliwości",
+    "krytyka",
+    "literacka",
+    "powinna",
+    "wyraźnie",
+    "dwuznacznie",
+    "dezawuować",
+    "rodzaju",
+    "identyfikacje",
+    "nasuwają",
+    "poważne",
+    "niebezpieczeństwo",
+    "sięgają",
+    "bezzasadnych",
+    "prób",
+    "przeciwstawiania",
+    "dobrej”",
+    "moralności",
+    "panującej",
+    "wśród",
+    "ludzi",
+    "oddalo",
+    "nych",
+    "społeczeństwa",
+    "rzekomo",
+    "złej”",
+    "ogólnospołecznej",
+    "zamykali",
+    "czasu",
+    "rozbijał",
+    "szyby",
+    "szczęki",
+    "lubili",
+    "zamykać",
+    "rówieśników",
+    "przekonania",
+    "działania",
+    "politycznie",
+    "naganne",
+    "celą",
+    "kompromitował",
+    "doświadczenie",
+    "pokoleniowe”",
+    "obniżał",
+    "ton",
+    "odsiadywał",
+    "pokuty",
+    "obrzydzanie",
+    "urody",
+    "realnego",
+    "socjalizmu",
+    "brzydził",
+    "świat",
+    "dlatego",
+    "niebem",
+    "splamionym",
+    "pot",
+    "komunizmu",
+    "opisał",
+    "allen",
+    "ginsberg",
+    "koszmarny",
+    "pozbawiony",
+    "sensu",
+    "boleśnie",
+    "nudny",
+    "dzieląc",
+    "los",
+    "pokolenia",
+    "1968",
+    "solidaryzował",
+    "poetami",
+    "nowej",
+    "fali",
+    "patosu",
+    "inteligenckiej",
+    "ironii",
+    "codziennym",
+    "doświadczeniu",
+    "byciu",
+    "ciałem",
+    "uprawiał",
+    "nieskruszoną",
+    "miłość",
+    "ojczyzny",
+    "klniemy",
+    "niewczesną",
+    "pilniejszą",
+    "strażnika",
+    "regulaminu",
+    "jeden",
+    "siada",
+    "kiblu",
+    "drugi",
+    "wtulił",
+    "siennik",
+    "trzeci",
+    "drwiną",
+    "radzi",
+    "starannie",
+    "wyłuskując",
+    "krocza",
+    "wszy",
+    "nucę",
+    "polska”",
+    "banalnemu",
+    "skojarzeniu",
+    "ojczyznamatka",
+    "przywrócił",
+    "niemal",
+    "bluźnierczą",
+    "konkretność",
+    "wierszu",
+    "ojczyzna”",
+    "roku",
+    "dwudziestolecie",
+    "rafał",
+    "mikołaj",
+    "syn",
+    "edwarda",
+    "elżbiety",
+    "domu",
+    "sobeckiej",
+    "urodzony",
+    "mikołowie",
+    "grudnia",
+    "1945",
+    "mógł",
+    "identyfikować",
+    "autorem",
+    "debiutującym",
+    "pierwszym",
+    "numerze",
+    "nowego",
+    "miesięcznika",
+    "poezja”",
+    "którym",
+    "rekomendacja",
+    "tymoteusza",
+    "karpowicza",
+    "gwarantowała",
+    "odrębność",
+    "wyraźną",
+    "okazało",
+    "wyjątkowo",
+    "trwałą",
+    "połowie",
+    "nieźle",
+    "kończącego",
+    "zagrożony",
+    "silnymi",
+    "stanami",
+    "lękowymi",
+    "leczył",
+    "wrocławskiej",
+    "klinice",
+    "psychiatrycznej",
+    "przyjechał",
+    "wrocławia",
+    "rok",
+    "wcześniej",
+    "zaliczonym",
+    "łaciny",
+    "semestrze",
+    "wydziale",
+    "filologicznym",
+    "uniwersytetu",
+    "jagiellońskiego",
+    "wrocławiu",
+    "uczył",
+    "śmierci",
+    "niebie",
+    "pisanej",
+    "gwiazdami",
+    "ujrzał",
+    "kąpiącą",
+    "maja",
+    "1971",
+    "spadkobiercą",
+    "utracjuszem",
+    "tradycji",
+    "romantycznej",
+    "wierny",
+    "zdaniu",
+    "baudelaire’a",
+    "samotność",
+    "reguły",
+    "zabawy",
+    "okazały",
+    "zabójcze",
+    "bohaterstwo",
+    "wyprawy",
+    "alpy",
+    "światła",
+    "jakiej",
+    "czuł",
+    "wezwany",
+    "wymusiło",
+    "wydusiło",
+    "taką",
+    "cenę",
+    "życia",
+    "372",
+    "sssss",
+    "ppppp",
+    "iiiii",
+    "wwwww",
+    "eeeee",
+    "rrrrr",
+    "zzzzz",
+    "yyyyy",
+    "sezon",
+    "wydawnictwo",
+    "literackie",
+    "kraków",
+    "1969",
+    "martwy",
+    "piszę",
+    "wiersz",
+    "pewna",
+    "sytuacja",
+    "ludzie",
+    "kładą",
+    "spać",
+    "pani",
+    "mit",
+    "rodzinny",
+    "erotyk",
+    "język",
+    "otwierać",
+    "okna",
+    "ciebie",
+    "widzę",
+    "żywą",
+    "kafka",
+    "żydówka",
+    "zmęczona",
+    "śpi",
+    "imię",
+    "ciało",
+    "mówię",
+    "cicho",
+    "mówi",
+    "boli",
+    "bolesnej",
+    "śmiertelny",
+    "uspokój",
+    "śnie",
+    "boję",
+    "ślepy",
+    "okno",
+    "umiem",
+    "ciszą",
+    "gwiazda",
+    "rozstanie",
+    "ekloga",
+    "prolegomena",
+    "bajki",
+    "list",
+    "królowej",
+    "spod",
+    "celi",
+    "ścianą",
+    "antyczne",
+    "piosenka",
+    "bohaterów",
+    "ptak",
+    "wspomnienie",
+    "urywek",
+    "damski",
+    "klub",
+    "kochanka",
+    "powieszonego",
+    "pierwsza",
+    "dobranoc",
+    "rozstrzelać",
+    "poetę",
+    "katalog",
+    "wybrzeże",
+    "bajka",
+    "ossolineum",
+    "wrocław",
+    "1970",
+    "genetyczne",
+    "geneza",
+    "inicjacja",
+    "kobietą",
+    "muzyczne",
+    "nucie",
+    "najwyższej",
+    "dziwię",
+    "rzeka",
+    "nieśmiało",
+    "przypomina",
+    "odrę",
+    "wieża",
+    "wstęp",
+    "nauki",
+    "barwach",
+    "czyli",
+    "malarz",
+    "malujący",
+    "nocą",
+    "polonia",
+    "restituta",
+    "fraszka",
+    "ballada",
+    "bezbożna",
+    "prawdziwej",
+    "krwi",
+    "poeta",
+    "wzgórze",
+    "narodowy",
+    "syberia",
+    "nowy",
+    "dydaktyczne",
+    "kwiat",
+    "zrywając",
+    "biorąc",
+    "genealogia",
+    "finis",
+    "poloniae",
+    "nieznane",
+    "plemię",
+    "jednym",
+    "rymie",
+    "dotknąć",
+    "brzegu",
+    "wody",
+    "komoda",
+    "światełko",
+    "zawsze",
+    "dojrzali",
+    "zdumiewa",
+    "mądrością",
+    "wiosna",
+    "lato",
+    "wiadomo",
+    "kogo",
+    "zapis",
+    "podziemia"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 211,
+        "VERB": 84,
+        "ADJ": 113,
+        "ADV": 23,
+        "PRON": 50,
+        "ADP": 66,
+        "CCONJ": 25,
+        "SCONJ": 10,
+        "INTJ": 0,
+        "PART": 22,
+        "DET": 20,
+        "NUM": 20
+      },
+      "posPercent": {
+        "NOUN": 0.272,
+        "VERB": 0.108,
+        "ADJ": 0.146,
+        "ADV": 0.03,
+        "PRON": 0.065,
+        "ADP": 0.085,
+        "CCONJ": 0.032,
+        "SCONJ": 0.013,
+        "INTJ": 0,
+        "PART": 0.028,
+        "DET": 0.026,
+        "NUM": 0.026
+      },
+      "nounConcreteAbstract": {
+        "concrete": 11,
+        "abstract": 13,
+        "ratio": 0.46
+      },
+      "verbTenses": {
+        "present": 43,
+        "past": 39,
+        "infinitive": 10,
+        "imperative": 1,
+        "future": 1
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 2,
+        "stan": 12,
+        "destrukcja": 1,
+        "tworzenie": 0,
+        "komunikacja": 2,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 4,
+        "opisowe": 109
+      },
+      "adverbs": {
+        "temporalne": [
+          "dawno",
+          "nigdy",
+          "zawsze"
+        ],
+        "modalne": [],
+        "sposobu": [
+          "cicho"
+        ],
+        "top": [
+          {
+            "word": "dlatego",
+            "count": 2
+          },
+          {
+            "word": "mniej",
+            "count": 1
+          },
+          {
+            "word": "tak",
+            "count": 1
+          },
+          {
+            "word": "dobrze",
+            "count": 1
+          },
+          {
+            "word": "dawno",
+            "count": 1
+          },
+          {
+            "word": "prześlicznie",
+            "count": 1
+          },
+          {
+            "word": "wyraźnie",
+            "count": 1
+          },
+          {
+            "word": "dwuznacznie",
+            "count": 1
+          },
+          {
+            "word": "rzekomo",
+            "count": 1
+          },
+          {
+            "word": "politycznie",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 2,
+        "ty": 5,
+        "on_ona": 13,
+        "my": 0,
+        "wy": 0,
+        "oni": 2
+      },
+      "negations": {
+        "nie": 11,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 1,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 12,
+        "percentSentences": 0.22
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 1696,
+        "consonants": 2229,
+        "ratio": 0.76
+      },
+      "consonantClusters": {
+        "count": 121,
+        "top": [
+          {
+            "cluster": "czn",
+            "count": 13
+          },
+          {
+            "cluster": "wdz",
+            "count": 7
+          },
+          {
+            "cluster": "prz",
+            "count": 7
+          },
+          {
+            "cluster": "rsz",
+            "count": 6
+          },
+          {
+            "cluster": "mpr",
+            "count": 5
+          },
+          {
+            "cluster": "brz",
+            "count": 5
+          },
+          {
+            "cluster": "lsk",
+            "count": 4
+          },
+          {
+            "cluster": "jcz",
+            "count": 4
+          },
+          {
+            "cluster": "szcz",
+            "count": 3
+          },
+          {
+            "cluster": "wsz",
+            "count": 3
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 124,
+        "syczace": 360,
+        "nosowe": 428,
+        "plynne": 344
+      },
+      "rhymes": {
+        "exact": 1,
+        "approximate": 1,
+        "internal": 16,
+        "assonance": 3,
+        "alliteration": 19
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 14.4,
+        "median": 9,
+        "min": 0,
+        "max": 73,
+        "distribution": [
+          1,
+          2,
+          1,
+          0,
+          8,
+          4,
+          4,
+          2,
+          2,
+          4,
+          2,
+          1,
+          0,
+          1,
+          1,
+          1,
+          2,
+          1,
+          1,
+          1,
+          1,
+          2,
+          2,
+          0,
+          2,
+          1,
+          0,
+          0,
+          2,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 5.3,
+        "meanSyllables": 12.2,
+        "distribution": [
+          0,
+          7,
+          32,
+          23,
+          19,
+          13,
+          5,
+          8,
+          14,
+          11,
+          7,
+          10,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 53,
+        "interrogative": 0,
+        "imperative": 1,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 14,
+        "noSubject": 15,
+        "noPredicate": 0,
+        "percent": 0.54
+      },
+      "enjambement": {
+        "count": 19,
+        "percent": 0.13,
+        "positions": [
+          3,
+          4,
+          5,
+          9,
+          11,
+          14,
+          15,
+          19,
+          20,
+          23,
+          24,
+          35,
+          37,
+          38,
+          39,
+          43,
+          52,
+          53,
+          75
+        ]
+      },
+      "wordOrder": {
+        "svo": 12,
+        "inversions": 11,
+        "other": 28,
+        "deviationPercent": 0.76
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 4,
+        "śmierć": 4,
+        "erotyka": 5,
+        "alkohol": 0,
+        "samotność": 3,
+        "sacrum": 1,
+        "noc": 1,
+        "ból": 0
+      },
+      "oppositionsFound": [
+        "życie/śmierć"
+      ]
+    },
+    "tempo": {
+      "syllables": 1855,
+      "estimatedSeconds": 618,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 211,
+      "VERB": 84,
+      "ADJ": 113,
+      "ADV": 23,
+      "PRON": 50,
+      "ADP": 66,
+      "CCONJ": 25,
+      "SCONJ": 10,
+      "INTJ": 0,
+      "PART": 22,
+      "DET": 20,
+      "NUM": 20
+    },
+    "posPercent": {
+      "NOUN": 0.272,
+      "VERB": 0.108,
+      "ADJ": 0.146,
+      "ADV": 0.03,
+      "PRON": 0.065,
+      "ADP": 0.085,
+      "CCONJ": 0.032,
+      "SCONJ": 0.013,
+      "INTJ": 0,
+      "PART": 0.028,
+      "DET": 0.026,
+      "NUM": 0.026
+    },
+    "nounConcreteAbstract": {
+      "concrete": 11,
+      "abstract": 13,
+      "ratio": 0.46
+    },
+    "verbTenses": {
+      "present": 43,
+      "past": 39,
+      "infinitive": 10,
+      "imperative": 1,
+      "future": 1
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 2,
+      "stan": 12,
+      "destrukcja": 1,
+      "tworzenie": 0,
+      "komunikacja": 2,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 4,
+      "opisowe": 109
+    },
+    "adverbs": {
+      "temporalne": [
+        "dawno",
+        "nigdy",
+        "zawsze"
+      ],
+      "modalne": [],
+      "sposobu": [
+        "cicho"
+      ],
+      "top": [
+        {
+          "word": "dlatego",
+          "count": 2
+        },
+        {
+          "word": "mniej",
+          "count": 1
+        },
+        {
+          "word": "tak",
+          "count": 1
+        },
+        {
+          "word": "dobrze",
+          "count": 1
+        },
+        {
+          "word": "dawno",
+          "count": 1
+        },
+        {
+          "word": "prześlicznie",
+          "count": 1
+        },
+        {
+          "word": "wyraźnie",
+          "count": 1
+        },
+        {
+          "word": "dwuznacznie",
+          "count": 1
+        },
+        {
+          "word": "rzekomo",
+          "count": 1
+        },
+        {
+          "word": "politycznie",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 2,
+      "ty": 5,
+      "on_ona": 13,
+      "my": 0,
+      "wy": 0,
+      "oni": 2
+    },
+    "negations": {
+      "nie": 11,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 1,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 12,
+      "percentSentences": 0.22
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 14.4,
+      "median": 9,
+      "min": 0,
+      "max": 73,
+      "distribution": [
+        1,
+        2,
+        1,
+        0,
+        8,
+        4,
+        4,
+        2,
+        2,
+        4,
+        2,
+        1,
+        0,
+        1,
+        1,
+        1,
+        2,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        0,
+        2,
+        1,
+        0,
+        0,
+        2,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 5.3,
+      "meanSyllables": 12.2,
+      "distribution": [
+        0,
+        7,
+        32,
+        23,
+        19,
+        13,
+        5,
+        8,
+        14,
+        11,
+        7,
+        10,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 53,
+      "interrogative": 0,
+      "imperative": 1,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 14,
+      "noSubject": 15,
+      "noPredicate": 0,
+      "percent": 0.54
+    },
+    "enjambement": {
+      "count": 19,
+      "percent": 0.13,
+      "positions": [
+        3,
+        4,
+        5,
+        9,
+        11,
+        14,
+        15,
+        19,
+        20,
+        23,
+        24,
+        35,
+        37,
+        38,
+        39,
+        43,
+        52,
+        53,
+        75
+      ]
+    },
+    "wordOrder": {
+      "svo": 12,
+      "inversions": 11,
+      "other": 28,
+      "deviationPercent": 0.76
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 1696,
+      "consonants": 2229,
+      "ratio": 0.76
+    },
+    "consonantClusters": {
+      "count": 121,
+      "top": [
+        {
+          "cluster": "czn",
+          "count": 13
+        },
+        {
+          "cluster": "wdz",
+          "count": 7
+        },
+        {
+          "cluster": "prz",
+          "count": 7
+        },
+        {
+          "cluster": "rsz",
+          "count": 6
+        },
+        {
+          "cluster": "mpr",
+          "count": 5
+        },
+        {
+          "cluster": "brz",
+          "count": 5
+        },
+        {
+          "cluster": "lsk",
+          "count": 4
+        },
+        {
+          "cluster": "jcz",
+          "count": 4
+        },
+        {
+          "cluster": "szcz",
+          "count": 3
+        },
+        {
+          "cluster": "wsz",
+          "count": 3
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 124,
+      "syczace": 360,
+      "nosowe": 428,
+      "plynne": 344
+    },
+    "rhymes": {
+      "exact": 1,
+      "approximate": 1,
+      "internal": 16,
+      "assonance": 3,
+      "alliteration": 19
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        152
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 1855,
+      "estimatedSeconds": 618,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "wolny",
+      "regularityScore": 0.28
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Baudelaire",
+          "reference": "Prawdziwy bohater bawi się sam",
+          "evidence": "Bezpośredni cytat z Baudelaire'a użyty jako motto i tytuł"
+        },
+        {
+          "source": "Biblia",
+          "reference": "uczył się śmierci w niebie mu pisanej/ Gwiazdami",
+          "evidence": "Nawiązanie biblijne do przeznaczenia zapisanego w gwiazdach"
+        },
+        {
+          "source": "inne",
+          "reference": "Allen Ginsberg",
+          "evidence": "Cytat o niebie splamionym przez pot komunizmu"
+        },
+        {
+          "source": "inne",
+          "reference": "Jeszcze Polska...",
+          "evidence": "Fragment hymnu narodowego w kontekście więzienia"
+        }
+      ],
+      "selfQuotes": [
+        "Ten skurwysyn Wojaczka",
+        "Pijak i darmozjad"
+      ],
+      "influences": {
+        "rimbaud": 0.3,
+        "baudelaire": 0.9,
+        "bursa": 0.1,
+        "stachura": 0.2,
+        "grochowiak": 0.1,
+        "bialoszewski": 0.1,
+        "rozewicz": 0.3
+      }
+    },
+    "space": {
+      "type": "otwarta",
+      "evidence": "Wędrowanie po Polsce - szkoły, biblioteki, dworce, rzeki, jeziora, wielka woda",
+      "openClosedRatio": 0.8
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "nieokreslona",
+      "evidence": "Brak konkretnych wskazówek temporalnych, tekst ma charakter biograficzny retrospektywny"
+    },
+    "motion": {
+      "movement": 8,
+      "stillness": 2,
+      "dynamism": 0.8,
+      "evidence": "Intensywny ruch - chodziłem, dorastałem, pływałem, wędrowanie po Polsce, wyprava w Alpy Światła"
+    },
+    "imageryDensity": {
+      "metaphors": 5,
+      "comparisons": 2,
+      "personifications": 3,
+      "hyperboles": 2,
+      "per100words": 3.2
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.9,
+      "creationLevel": 0.7,
+      "ironicDistance": 0.3,
+      "autobiographicSignals": [
+        "syn Edwarda i Elżbiety z domu Sobeckiej",
+        "urodzony w Mikołowie 6 grudnia 1945 roku",
+        "Uniwersytet Jagielloński",
+        "wrocławska Klinika Psychiatryczna",
+        "11 maja 1971 roku"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "melancholia",
+      "secondary": "rezygnacja",
+      "intensity": 0.7
+    },
+    "subjectPresence": {
+      "type": "ukryte",
+      "evidence": "autor/narrator opisuje postać Wojaczka w trzeciej osobie, ale przejawia się w intymnym tonie i znajomości szczegółów biograficznych"
+    },
+    "addressee": {
+      "type": "czytelnik",
+      "evidence": "tekst ma charakter eseistyczny, skierowany do odbiorcy zainteresowanego postacią poety"
+    },
+    "metaphors": [
+      {
+        "source": "życie",
+        "target": "zabawa",
+        "example": "Prawdziwy bohater bawi się sam"
+      },
+      {
+        "source": "śmierć",
+        "target": "podróż/wyprawa",
+        "example": "wyprawy w Alpy Światła"
+      },
+      {
+        "source": "tradycja romantyczna",
+        "target": "dziedzictwo materialne",
+        "example": "spadkobiercą i utracjuszem tradycji romantycznej"
+      }
+    ],
+    "temperature": {
+      "value": 0.3,
+      "label": "chłodna analiza z nutą melancholii"
+    },
+    "senses": {
+      "wzrok": 2,
+      "sluch": 1,
+      "dotyk": 1,
+      "smak": 0,
+      "zapach": 0
+    },
+    "autodestruction": {
+      "level": 0.8,
+      "signals": [
+        "leczył się we wrocławskiej Klinice Psychiatrycznej",
+        "uczył się śmierci",
+        "reguły tej zabawy okazały się zabójcze",
+        "Cenę życia. Całego"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 0.738,
+    "dfaAlpha": 0.749,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -0.505178620456606
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -0.0645867776262478
+      },
+      {
+        "logWin": 1.6094379124341003,
+        "logFluc": 0.18983980755404256
+      },
+      {
+        "logWin": 1.9459101490553132,
+        "logFluc": 0.39768978881152856
+      },
+      {
+        "logWin": 2.302585092994046,
+        "logFluc": 0.8483614229162552
+      },
+      {
+        "logWin": 2.6390573296152584,
+        "logFluc": 0.8954252747269745
+      },
+      {
+        "logWin": 2.9444389791664403,
+        "logFluc": 1.097412535432014
+      },
+      {
+        "logWin": 3.258096538021482,
+        "logFluc": 1.3350133552117638
+      },
+      {
+        "logWin": 3.58351893845611,
+        "logFluc": 1.8328790435029891
+      },
+      {
+        "logWin": 3.8918202981106265,
+        "logFluc": 1.4905135857648297
+      }
+    ],
+    "seriesLength": 152,
+    "series": [
+      2,
+      21,
+      8,
+      10,
+      9,
+      7,
+      8,
+      7,
+      8,
+      2,
+      9,
+      2,
+      10,
+      7,
+      6,
+      7,
+      7,
+      13,
+      9,
+      8,
+      4,
+      8,
+      11,
+      11,
+      8,
+      11,
+      9,
+      8,
+      5,
+      5,
+      4,
+      8,
+      7,
+      4,
+      6,
+      8,
+      9,
+      11,
+      9,
+      7,
+      9,
+      2,
+      10,
+      8,
+      9,
+      7,
+      1,
+      10,
+      10,
+      8,
+      6,
+      12,
+      11,
+      9,
+      1,
+      11,
+      1,
+      4,
+      2,
+      2,
+      3,
+      3,
+      3,
+      8,
+      3,
+      2,
+      3,
+      2,
+      3,
+      5,
+      2,
+      8,
+      8,
+      3,
+      2,
+      4,
+      4,
+      5,
+      7,
+      3,
+      2,
+      11,
+      10,
+      2,
+      9,
+      4,
+      1,
+      1,
+      2,
+      2,
+      2,
+      5,
+      4,
+      5,
+      4,
+      5,
+      2,
+      2,
+      3,
+      3
+    ]
+  }
+}

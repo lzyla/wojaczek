@@ -1,0 +1,718 @@
+{
+  "id": "niebo-na-piersi-kladzie-mi",
+  "title": "Niebo na piersi kładzie mi",
+  "wordCount": 30,
+  "lineCount": 5,
+  "uniqueWords": 27,
+  "vocabularyRichness": 0.9,
+  "avgWordsPerLine": 6,
+  "wordsPerLineDistribution": [
+    3,
+    8,
+    5,
+    8,
+    6
+  ],
+  "wordFrequencies": [
+    [
+      "niebo",
+      1
+    ],
+    [
+      "piersi",
+      1
+    ],
+    [
+      "kładzie",
+      1
+    ],
+    [
+      "swą",
+      1
+    ],
+    [
+      "ciężką",
+      1
+    ],
+    [
+      "stopę",
+      1
+    ],
+    [
+      "gipsowy",
+      1
+    ],
+    [
+      "knebel",
+      1
+    ],
+    [
+      "obłoku",
+      1
+    ],
+    [
+      "ust",
+      1
+    ],
+    [
+      "spraw",
+      1
+    ],
+    [
+      "krwi",
+      1
+    ],
+    [
+      "głos",
+      1
+    ],
+    [
+      "wyjdzie",
+      1
+    ],
+    [
+      "uszami",
+      1
+    ],
+    [
+      "żebym",
+      1
+    ],
+    [
+      "zdążyła",
+      1
+    ],
+    [
+      "wyrzec",
+      1
+    ],
+    [
+      "czterowiersz",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 1,
+    "period": 0,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 0,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 0,
+  "negationWords": [],
+  "pronounDistribution": {
+    "ja": 2,
+    "ty": 0,
+    "on_ona": 1,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 1,
+    "smierc": 0,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 1,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [],
+  "firstWord": "niebo",
+  "lastWord": "czterowiersz",
+  "avgWordLength": 4.57,
+  "wordLengthDistribution": {
+    "1-3": 12,
+    "4-5": 6,
+    "6-7": 11,
+    "10+": 1
+  },
+  "bigrams": [
+    [
+      "piersi kładzie",
+      1
+    ],
+    [
+      "swą ciężką",
+      1
+    ],
+    [
+      "ciężką stopę",
+      1
+    ],
+    [
+      "stopę gipsowy",
+      1
+    ],
+    [
+      "gipsowy knebel",
+      1
+    ],
+    [
+      "knebel obłoku",
+      1
+    ],
+    [
+      "ust spraw",
+      1
+    ]
+  ],
+  "poemWords": [
+    "niebo",
+    "piersi",
+    "kładzie",
+    "swą",
+    "ciężką",
+    "stopę",
+    "gipsowy",
+    "knebel",
+    "obłoku",
+    "ust",
+    "spraw",
+    "krwi",
+    "głos",
+    "wyjdzie",
+    "uszami",
+    "żebym",
+    "zdążyła",
+    "wyrzec",
+    "czterowiersz"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 11,
+        "VERB": 4,
+        "ADJ": 2,
+        "ADV": 0,
+        "PRON": 2,
+        "ADP": 2,
+        "CCONJ": 0,
+        "SCONJ": 3,
+        "INTJ": 0,
+        "PART": 1,
+        "DET": 2,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.407,
+        "VERB": 0.148,
+        "ADJ": 0.074,
+        "ADV": 0,
+        "PRON": 0.074,
+        "ADP": 0.074,
+        "CCONJ": 0,
+        "SCONJ": 0.111,
+        "INTJ": 0,
+        "PART": 0.037,
+        "DET": 0.074,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 3,
+        "abstract": 0,
+        "ratio": 1
+      },
+      "verbTenses": {
+        "present": 1,
+        "future": 1,
+        "past": 1,
+        "infinitive": 1
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 0,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 0,
+        "opisowe": 2
+      },
+      "adverbs": {
+        "temporalne": [],
+        "modalne": [],
+        "sposobu": [],
+        "top": []
+      },
+      "pronouns": {
+        "ja": 2,
+        "ty": 0,
+        "on_ona": 0,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 0,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 0,
+        "percentSentences": 0
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 54,
+        "consonants": 80,
+        "ratio": 0.68
+      },
+      "consonantClusters": {
+        "count": 5,
+        "top": [
+          {
+            "cluster": "spr",
+            "count": 1
+          },
+          {
+            "cluster": "krw",
+            "count": 1
+          },
+          {
+            "cluster": "jdz",
+            "count": 1
+          },
+          {
+            "cluster": "czt",
+            "count": 1
+          },
+          {
+            "cluster": "rsz",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 9,
+        "syczace": 12,
+        "nosowe": 15,
+        "plynne": 11
+      },
+      "rhymes": {
+        "exact": 0,
+        "approximate": 0,
+        "internal": 0,
+        "assonance": 0,
+        "alliteration": 0
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 9,
+        "median": 8,
+        "min": 1,
+        "max": 18,
+        "distribution": [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 6,
+        "meanSyllables": 11.4,
+        "distribution": [
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          1,
+          0,
+          2
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 3,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 1,
+        "noSubject": 0,
+        "noPredicate": 0,
+        "percent": 0.33
+      },
+      "enjambement": {
+        "count": 0,
+        "percent": 0,
+        "positions": []
+      },
+      "wordOrder": {
+        "svo": 2,
+        "inversions": 0,
+        "other": 0,
+        "deviationPercent": 0
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 2,
+        "śmierć": 0,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 1,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 57,
+      "estimatedSeconds": 19,
+      "tempoCategory": "umiarkowane"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 11,
+      "VERB": 4,
+      "ADJ": 2,
+      "ADV": 0,
+      "PRON": 2,
+      "ADP": 2,
+      "CCONJ": 0,
+      "SCONJ": 3,
+      "INTJ": 0,
+      "PART": 1,
+      "DET": 2,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.407,
+      "VERB": 0.148,
+      "ADJ": 0.074,
+      "ADV": 0,
+      "PRON": 0.074,
+      "ADP": 0.074,
+      "CCONJ": 0,
+      "SCONJ": 0.111,
+      "INTJ": 0,
+      "PART": 0.037,
+      "DET": 0.074,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 3,
+      "abstract": 0,
+      "ratio": 1
+    },
+    "verbTenses": {
+      "present": 1,
+      "future": 1,
+      "past": 1,
+      "infinitive": 1
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 0,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 0,
+      "opisowe": 2
+    },
+    "adverbs": {
+      "temporalne": [],
+      "modalne": [],
+      "sposobu": [],
+      "top": []
+    },
+    "pronouns": {
+      "ja": 2,
+      "ty": 0,
+      "on_ona": 0,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 0,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 0,
+      "percentSentences": 0
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 9,
+      "median": 8,
+      "min": 1,
+      "max": 18,
+      "distribution": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 6,
+      "meanSyllables": 11.4,
+      "distribution": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        1,
+        1,
+        0,
+        2
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 3,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 1,
+      "noSubject": 0,
+      "noPredicate": 0,
+      "percent": 0.33
+    },
+    "enjambement": {
+      "count": 0,
+      "percent": 0,
+      "positions": []
+    },
+    "wordOrder": {
+      "svo": 2,
+      "inversions": 0,
+      "other": 0,
+      "deviationPercent": 0
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 54,
+      "consonants": 80,
+      "ratio": 0.68
+    },
+    "consonantClusters": {
+      "count": 5,
+      "top": [
+        {
+          "cluster": "spr",
+          "count": 1
+        },
+        {
+          "cluster": "krw",
+          "count": 1
+        },
+        {
+          "cluster": "jdz",
+          "count": 1
+        },
+        {
+          "cluster": "czt",
+          "count": 1
+        },
+        {
+          "cluster": "rsz",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 9,
+      "syczace": 12,
+      "nosowe": 15,
+      "plynne": 11
+    },
+    "rhymes": {
+      "exact": 0,
+      "approximate": 0,
+      "internal": 0,
+      "assonance": 0,
+      "alliteration": 0
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        5
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 57,
+      "estimatedSeconds": 19,
+      "tempoCategory": "umiarkowane"
+    },
+    "regularity": {
+      "type": "polregularny",
+      "regularityScore": 0.53
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Baudelaire",
+          "reference": "Spleen - motyw przygniatającego nieba",
+          "evidence": "Niebo na piersi kładzie mi swą ciężką stopę"
+        },
+        {
+          "source": "Biblia",
+          "reference": "Motyw knebla/niemoty prorockiej",
+          "evidence": "Gipsowy knebel obłoku do ust"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.3,
+        "baudelaire": 0.8,
+        "bursa": 0.2,
+        "stachura": 0.4,
+        "grochowiak": 0.3,
+        "bialoszewski": 0.1,
+        "rozewicz": 0.2
+      }
+    },
+    "space": {
+      "type": "zamknieta",
+      "evidence": "Niebo przygniata jak sufit, knebel w ustach - kompresja przestrzeni",
+      "openClosedRatio": 0.1
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "nieokreslona",
+      "evidence": "Brak wyraźnych wskaźników temporalnych"
+    },
+    "motion": {
+      "movement": 2,
+      "stillness": 8,
+      "dynamism": 0.2,
+      "evidence": "Statyczny obraz przygniecenia, minimalne ruchy - 'głos wyjdzie uszami'"
+    },
+    "imageryDensity": {
+      "metaphors": 4,
+      "comparisons": 0,
+      "personifications": 1,
+      "hyperboles": 2,
+      "per100words": 25
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.9,
+      "creationLevel": 0.7,
+      "ironicDistance": 0.1,
+      "autobiographicSignals": [
+        "forma pierwszoosobowa",
+        "desperacka potrzeba wypowiedzenia",
+        "motyw uduszenia twórczego"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "rozpacz",
+      "secondary": "rezygnacja",
+      "intensity": 0.8
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "podmiot liryczny mówi w pierwszej osobie: 'mi swą ciężką stopę', 'do ust', 'głos mi wyjdzie', 'żebym zdążyła'"
+    },
+    "addressee": {
+      "type": "bóg",
+      "evidence": "zwrot 'Spraw krwi' ma charakter prośby/modlitwy skierowanej do wyższej siły"
+    },
+    "metaphors": [
+      {
+        "source": "niebo",
+        "target": "opresja/cierpienie",
+        "example": "Niebo na piersi kładzie mi swą ciężką stopę"
+      },
+      {
+        "source": "obłok",
+        "target": "knebel",
+        "example": "Gipsowy knebel obłoku do ust"
+      },
+      {
+        "source": "krew",
+        "target": "czas/życie",
+        "example": "Spraw krwi, nim głos mi wyjdzie już uszami"
+      }
+    ],
+    "temperature": {
+      "value": 0.2,
+      "label": "zimne - obrazy gipsu, knebla, duszenia wyrażają bezradność i rezygnację"
+    },
+    "senses": {
+      "wzrok": 3,
+      "sluch": 2,
+      "dotyk": 5,
+      "smak": 1,
+      "zapach": 0
+    },
+    "autodestruction": {
+      "level": 0.7,
+      "signals": [
+        "obraz duszenia się",
+        "głos wychodzący uszami jako znak umierania",
+        "prośba o przyspieszenie śmierci przez wykrwawienie"
+      ]
+    }
+  }
+}

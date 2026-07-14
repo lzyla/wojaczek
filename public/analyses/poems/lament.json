@@ -1,0 +1,858 @@
+{
+  "id": "lament",
+  "title": "Lament",
+  "wordCount": 74,
+  "lineCount": 12,
+  "uniqueWords": 63,
+  "vocabularyRichness": 0.851,
+  "avgWordsPerLine": 6.17,
+  "wordsPerLineDistribution": [
+    7,
+    5,
+    6,
+    7,
+    7,
+    6,
+    6,
+    6,
+    6,
+    7,
+    5,
+    6
+  ],
+  "wordFrequencies": [
+    [
+      "matka",
+      2
+    ],
+    [
+      "płacze",
+      2
+    ],
+    [
+      "winna",
+      2
+    ],
+    [
+      "piorun",
+      2
+    ],
+    [
+      "krwi",
+      2
+    ],
+    [
+      "czyja",
+      1
+    ],
+    [
+      "wina",
+      1
+    ],
+    [
+      "klnąc",
+      1
+    ],
+    [
+      "imię",
+      1
+    ],
+    [
+      "wyrodnego",
+      1
+    ],
+    [
+      "syna",
+      1
+    ],
+    [
+      "pytam",
+      1
+    ],
+    [
+      "nikt",
+      1
+    ],
+    [
+      "odpowiedzieć",
+      1
+    ],
+    [
+      "syn",
+      1
+    ],
+    [
+      "czyż",
+      1
+    ],
+    [
+      "iż",
+      1
+    ],
+    [
+      "miłość",
+      1
+    ],
+    [
+      "sparła",
+      1
+    ],
+    [
+      "żaden",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 8,
+    "period": 3,
+    "question": 2,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 0,
+    "semicolon": 0
+  },
+  "questionCount": 2,
+  "exclamationCount": 0,
+  "negationCount": 7,
+  "negationWords": [
+    "nie",
+    "nikt",
+    "żaden"
+  ],
+  "pronounDistribution": {
+    "ja": 1,
+    "ty": 2,
+    "on_ona": 1,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 0,
+    "smierc": 0,
+    "erotyka": 1,
+    "alkohol": 0,
+    "samotnosc": 1,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [],
+  "firstWord": "gdy",
+  "lastWord": "nieskończona",
+  "avgWordLength": 4.7,
+  "wordLengthDistribution": {
+    "1-3": 21,
+    "4-5": 31,
+    "6-7": 16,
+    "8-9": 2,
+    "10+": 4
+  },
+  "bigrams": [
+    [
+      "matka płacze",
+      1
+    ],
+    [
+      "płacze czyja",
+      1
+    ],
+    [
+      "wina klnąc",
+      1
+    ],
+    [
+      "imię wyrodnego",
+      1
+    ],
+    [
+      "wyrodnego syna",
+      1
+    ],
+    [
+      "syna pytam",
+      1
+    ]
+  ],
+  "poemWords": [
+    "matka",
+    "płacze",
+    "czyja",
+    "wina",
+    "klnąc",
+    "imię",
+    "wyrodnego",
+    "syna",
+    "pytam",
+    "nikt",
+    "odpowiedzieć",
+    "syn",
+    "czyż",
+    "winna",
+    "miłość",
+    "sparła",
+    "żaden",
+    "sędzia",
+    "dowiedzie",
+    "piorun",
+    "krwi",
+    "omalże",
+    "boskiej",
+    "ślepy",
+    "prawej",
+    "ojcowskiej",
+    "sięgnął",
+    "pewnej",
+    "nocy",
+    "twego",
+    "łona",
+    "gdybym",
+    "jaju",
+    "zalęgał",
+    "nudnym",
+    "robaczkiem",
+    "byłaby",
+    "nędza",
+    "nieskończona"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 18,
+        "VERB": 13,
+        "ADJ": 9,
+        "ADV": 4,
+        "PRON": 6,
+        "ADP": 1,
+        "CCONJ": 4,
+        "SCONJ": 4,
+        "INTJ": 1,
+        "PART": 5,
+        "DET": 8,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.24,
+        "VERB": 0.173,
+        "ADJ": 0.12,
+        "ADV": 0.053,
+        "PRON": 0.08,
+        "ADP": 0.013,
+        "CCONJ": 0.053,
+        "SCONJ": 0.053,
+        "INTJ": 0.013,
+        "PART": 0.067,
+        "DET": 0.107,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 2,
+        "abstract": 2,
+        "ratio": 0.5
+      },
+      "verbTenses": {
+        "present": 8,
+        "infinitive": 1,
+        "past": 5,
+        "future": 1
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 1,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 1,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 1,
+        "opisowe": 8
+      },
+      "adverbs": {
+        "temporalne": [],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "gdy",
+            "count": 1
+          },
+          {
+            "word": "kiedy",
+            "count": 1
+          },
+          {
+            "word": "czyż",
+            "count": 1
+          },
+          {
+            "word": "jak",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 0,
+        "ty": 0,
+        "on_ona": 2,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 5,
+        "nic": 0,
+        "nikt": 1,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 1,
+        "total": 7,
+        "percentSentences": 1.4
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 154,
+        "consonants": 200,
+        "ratio": 0.77
+      },
+      "consonantClusters": {
+        "count": 6,
+        "top": [
+          {
+            "cluster": "krw",
+            "count": 2
+          },
+          {
+            "cluster": "kln",
+            "count": 1
+          },
+          {
+            "cluster": "wsk",
+            "count": 1
+          },
+          {
+            "cluster": "czk",
+            "count": 1
+          },
+          {
+            "cluster": "ńcz",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 12,
+        "syczace": 19,
+        "nosowe": 53,
+        "plynne": 21
+      },
+      "rhymes": {
+        "exact": 2,
+        "approximate": 1,
+        "internal": 1,
+        "assonance": 1,
+        "alliteration": 0
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 15,
+        "median": 11,
+        "min": 7,
+        "max": 36,
+        "distribution": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0,
+          0,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 5.8,
+        "meanSyllables": 11.9,
+        "distribution": [
+          0,
+          1,
+          0,
+          0,
+          0,
+          2,
+          6,
+          4
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 3,
+        "interrogative": 2,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 0,
+        "noSubject": 0,
+        "noPredicate": 0,
+        "percent": 0
+      },
+      "enjambement": {
+        "count": 1,
+        "percent": 0.08,
+        "positions": [
+          1
+        ]
+      },
+      "wordOrder": {
+        "svo": 2,
+        "inversions": 3,
+        "other": 0,
+        "deviationPercent": 0.6
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 1,
+        "śmierć": 1,
+        "erotyka": 1,
+        "alkohol": 0,
+        "samotność": 1,
+        "sacrum": 0,
+        "noc": 0,
+        "ból": 1
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 155,
+      "estimatedSeconds": 52,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 18,
+      "VERB": 13,
+      "ADJ": 9,
+      "ADV": 4,
+      "PRON": 6,
+      "ADP": 1,
+      "CCONJ": 4,
+      "SCONJ": 4,
+      "INTJ": 1,
+      "PART": 5,
+      "DET": 8,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.24,
+      "VERB": 0.173,
+      "ADJ": 0.12,
+      "ADV": 0.053,
+      "PRON": 0.08,
+      "ADP": 0.013,
+      "CCONJ": 0.053,
+      "SCONJ": 0.053,
+      "INTJ": 0.013,
+      "PART": 0.067,
+      "DET": 0.107,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 2,
+      "abstract": 2,
+      "ratio": 0.5
+    },
+    "verbTenses": {
+      "present": 8,
+      "infinitive": 1,
+      "past": 5,
+      "future": 1
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 1,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 1,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 1,
+      "opisowe": 8
+    },
+    "adverbs": {
+      "temporalne": [],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "gdy",
+          "count": 1
+        },
+        {
+          "word": "kiedy",
+          "count": 1
+        },
+        {
+          "word": "czyż",
+          "count": 1
+        },
+        {
+          "word": "jak",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 0,
+      "ty": 0,
+      "on_ona": 2,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 5,
+      "nic": 0,
+      "nikt": 1,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 1,
+      "total": 7,
+      "percentSentences": 1.4
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 15,
+      "median": 11,
+      "min": 7,
+      "max": 36,
+      "distribution": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 5.8,
+      "meanSyllables": 11.9,
+      "distribution": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        2,
+        6,
+        4
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 3,
+      "interrogative": 2,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 0,
+      "noSubject": 0,
+      "noPredicate": 0,
+      "percent": 0
+    },
+    "enjambement": {
+      "count": 1,
+      "percent": 0.08,
+      "positions": [
+        1
+      ]
+    },
+    "wordOrder": {
+      "svo": 2,
+      "inversions": 3,
+      "other": 0,
+      "deviationPercent": 0.6
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 154,
+      "consonants": 200,
+      "ratio": 0.77
+    },
+    "consonantClusters": {
+      "count": 6,
+      "top": [
+        {
+          "cluster": "krw",
+          "count": 2
+        },
+        {
+          "cluster": "kln",
+          "count": 1
+        },
+        {
+          "cluster": "wsk",
+          "count": 1
+        },
+        {
+          "cluster": "czk",
+          "count": 1
+        },
+        {
+          "cluster": "ńcz",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 12,
+      "syczace": 19,
+      "nosowe": 53,
+      "plynne": 21
+    },
+    "rhymes": {
+      "exact": 2,
+      "approximate": 1,
+      "internal": 1,
+      "assonance": 1,
+      "alliteration": 0
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        13
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 155,
+      "estimatedSeconds": 52,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "regularny",
+      "regularityScore": 0.73
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Biblia",
+          "reference": "motyw grzechu pierworodnego i winy",
+          "evidence": "klnąc swoje imię wyrodnego syna, wina, krwi omalże boskiej"
+        },
+        {
+          "source": "mitologia",
+          "reference": "motyw fatum i przekleństwa rodowego",
+          "evidence": "piorun krwi ojcowskiej, nędza nieskończona"
+        },
+        {
+          "source": "Różewicz",
+          "reference": "poetyka pytań retorycznych i negacji",
+          "evidence": "struktura pytań bez odpowiedzi, negowanie istnienia"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.3,
+        "baudelaire": 0.7,
+        "bursa": 0.2,
+        "stachura": 0.4,
+        "grochowiak": 0.6,
+        "bialoszewski": 0.1,
+        "rozewicz": 0.5
+      }
+    },
+    "space": {
+      "type": "zamknieta",
+      "evidence": "łono matki, jajo jako przestrzeń zamknięta, intymna przestrzeń rodzinna",
+      "openClosedRatio": 0.2
+    },
+    "timeOfDay": {
+      "period": "noc",
+      "season": "nieokreslona",
+      "evidence": "pewnej nocy Twego łona - moment poczęcia"
+    },
+    "motion": {
+      "movement": 3,
+      "stillness": 7,
+      "dynamism": 0.3,
+      "evidence": "statyczne obrazy cierpienia, ruch tylko w 'piorunie krwi' i 'zalęganiu'"
+    },
+    "imageryDensity": {
+      "metaphors": 4,
+      "comparisons": 1,
+      "personifications": 2,
+      "hyperboles": 2,
+      "per100words": 12.5
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.9,
+      "creationLevel": 0.3,
+      "ironicDistance": 0.2,
+      "autobiographicSignals": [
+        "wyrodny syn",
+        "moja i Twoja nędza",
+        "klnąc swoje imię",
+        "gdybym się nie zalęgał"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "rozpacz",
+      "secondary": "rezygnacja",
+      "intensity": 0.9
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "Klnąc swoje imię wyrodnego syna / Pytam"
+    },
+    "addressee": {
+      "type": "bóg",
+      "evidence": "Twego łona / w jaju Twoim - zwrot do matki w kontekście religijnym/metafizycznym"
+    },
+    "metaphors": [
+      {
+        "source": "piorun krwi",
+        "target": "akt poczęcia",
+        "example": "piorun krwi omalże boskiej"
+      },
+      {
+        "source": "nudny robaczek",
+        "target": "embrion/płód",
+        "example": "Gdybym się w jaju Twoim nie zalęgał / Nudnym robaczkiem"
+      },
+      {
+        "source": "jajo",
+        "target": "łono matki",
+        "example": "w jaju Twoim nie zalęgał"
+      }
+    ],
+    "temperature": {
+      "value": 0.2,
+      "label": "zimne - rezygnacja i żal nad istnieniem"
+    },
+    "senses": {
+      "wzrok": 2,
+      "sluch": 3,
+      "dotyk": 1,
+      "smak": 0,
+      "zapach": 0
+    },
+    "autodestruction": {
+      "level": 0.8,
+      "signals": [
+        "nazywanie siebie wyrodnym synem",
+        "życzenie nieistnienia",
+        "identyfikacja z robaczkiem",
+        "przeklinanie własnego imienia"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 1.274,
+    "dfaAlpha": 1.909,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -1.732867951399863
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -1.183810750055077
+      }
+    ],
+    "seriesLength": 12,
+    "series": [
+      7,
+      5,
+      6,
+      7,
+      7,
+      6,
+      6,
+      6,
+      6,
+      7,
+      5,
+      6
+    ]
+  }
+}

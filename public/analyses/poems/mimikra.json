@@ -1,0 +1,1088 @@
+{
+  "id": "mimikra",
+  "title": "Mimikra",
+  "wordCount": 90,
+  "lineCount": 16,
+  "uniqueWords": 80,
+  "vocabularyRichness": 0.889,
+  "avgWordsPerLine": 5.63,
+  "wordsPerLineDistribution": [
+    3,
+    6,
+    6,
+    6,
+    5,
+    4,
+    7,
+    7,
+    8,
+    5,
+    5,
+    5,
+    7,
+    6,
+    6,
+    4
+  ],
+  "wordFrequencies": [
+    [
+      "zmienia",
+      4
+    ],
+    [
+      "twarz",
+      2
+    ],
+    [
+      "barbarze",
+      1
+    ],
+    [
+      "bittnerównie",
+      1
+    ],
+    [
+      "prawdziwe",
+      1
+    ],
+    [
+      "mistrzostwo",
+      1
+    ],
+    [
+      "śmierci",
+      1
+    ],
+    [
+      "wymyśla",
+      1
+    ],
+    [
+      "coraz",
+      1
+    ],
+    [
+      "formy",
+      1
+    ],
+    [
+      "istnienia",
+      1
+    ],
+    [
+      "zostają",
+      1
+    ],
+    [
+      "nieśmiertelne",
+      1
+    ],
+    [
+      "naturalnie",
+      1
+    ],
+    [
+      "metrum",
+      1
+    ],
+    [
+      "nieumyślna",
+      1
+    ],
+    [
+      "decyzja",
+      1
+    ],
+    [
+      "precyzyjnie",
+      1
+    ],
+    [
+      "liczącej",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 9,
+    "period": 1,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 1,
+    "colon": 1,
+    "semicolon": 2
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 1,
+  "negationWords": [
+    "nie"
+  ],
+  "pronounDistribution": {
+    "ja": 0,
+    "ty": 0,
+    "on_ona": 2,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 3,
+    "smierc": 1,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [],
+  "firstWord": "pani",
+  "lastWord": "zdrój",
+  "avgWordLength": 6.02,
+  "wordLengthDistribution": {
+    "4-5": 17,
+    "8-9": 16,
+    "10+": 9,
+    "6-7": 27,
+    "1-3": 21
+  },
+  "bigrams": [
+    [
+      "barbarze bittnerównie",
+      1
+    ],
+    [
+      "bittnerównie prawdziwe",
+      1
+    ],
+    [
+      "mistrzostwo śmierci",
+      1
+    ],
+    [
+      "wymyśla coraz",
+      1
+    ],
+    [
+      "inne formy",
+      1
+    ],
+    [
+      "formy swojego",
+      1
+    ],
+    [
+      "swojego istnienia",
+      1
+    ],
+    [
+      "istnienia zostają",
+      1
+    ]
+  ],
+  "poemWords": [
+    "pani",
+    "barbarze",
+    "bittnerównie",
+    "prawdziwe",
+    "mistrzostwo",
+    "śmierci",
+    "wymyśla",
+    "coraz",
+    "formy",
+    "istnienia",
+    "zostają",
+    "nieśmiertelne",
+    "zmienia",
+    "naturalnie",
+    "metrum",
+    "nieumyślna",
+    "decyzja",
+    "precyzyjnie",
+    "liczącej",
+    "akcenty",
+    "oddechu",
+    "krwi",
+    "pisząca",
+    "dłoń",
+    "kostium",
+    "tancerka",
+    "interwale",
+    "gry",
+    "zezując",
+    "boku",
+    "lustra",
+    "sprawdzić",
+    "zapięcie",
+    "stanika",
+    "nagości",
+    "zawodowej",
+    "twarz",
+    "kontemplować",
+    "ciekły",
+    "niepokój",
+    "poety",
+    "znajduje",
+    "odwołanie",
+    "kuchennym",
+    "zlewie",
+    "krawędzi",
+    "jawnie",
+    "siedzi",
+    "rozkraczona",
+    "pamięć",
+    "mózgu",
+    "wyrzeźbiona",
+    "sekunda",
+    "pożądania",
+    "śmierć",
+    "marzec",
+    "1968",
+    "kudowa",
+    "zdrój"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 35,
+        "VERB": 10,
+        "ADJ": 12,
+        "ADV": 10,
+        "PRON": 4,
+        "ADP": 8,
+        "CCONJ": 0,
+        "SCONJ": 1,
+        "INTJ": 0,
+        "PART": 5,
+        "DET": 1,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.385,
+        "VERB": 0.11,
+        "ADJ": 0.132,
+        "ADV": 0.11,
+        "PRON": 0.044,
+        "ADP": 0.088,
+        "CCONJ": 0,
+        "SCONJ": 0.011,
+        "INTJ": 0,
+        "PART": 0.055,
+        "DET": 0.011,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 2,
+        "abstract": 3,
+        "ratio": 0.4
+      },
+      "verbTenses": {
+        "present": 10,
+        "infinitive": 2
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 3,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 0,
+        "opisowe": 12
+      },
+      "adverbs": {
+        "temporalne": [],
+        "modalne": [
+          "naturalnie"
+        ],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "jak",
+            "count": 3
+          },
+          {
+            "word": "coraz",
+            "count": 1
+          },
+          {
+            "word": "gdy",
+            "count": 1
+          },
+          {
+            "word": "naturalnie",
+            "count": 1
+          },
+          {
+            "word": "precyzyjnie",
+            "count": 1
+          },
+          {
+            "word": "gdzie",
+            "count": 1
+          },
+          {
+            "word": "jawnie",
+            "count": 1
+          },
+          {
+            "word": "tak",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 0,
+        "ty": 0,
+        "on_ona": 2,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 1,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 1,
+        "percentSentences": 1
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 231,
+        "consonants": 314,
+        "ratio": 0.74
+      },
+      "consonantClusters": {
+        "count": 16,
+        "top": [
+          {
+            "cluster": "wdz",
+            "count": 2
+          },
+          {
+            "cluster": "ttn",
+            "count": 1
+          },
+          {
+            "cluster": "strz",
+            "count": 1
+          },
+          {
+            "cluster": "stw",
+            "count": 1
+          },
+          {
+            "cluster": "stn",
+            "count": 1
+          },
+          {
+            "cluster": "śln",
+            "count": 1
+          },
+          {
+            "cluster": "krw",
+            "count": 1
+          },
+          {
+            "cluster": "str",
+            "count": 1
+          },
+          {
+            "cluster": "spr",
+            "count": 1
+          },
+          {
+            "cluster": "mpl",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 13,
+        "syczace": 58,
+        "nosowe": 69,
+        "plynne": 43
+      },
+      "rhymes": {
+        "exact": 2,
+        "approximate": 0,
+        "internal": 3,
+        "assonance": 2,
+        "alliteration": 2
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 91,
+        "median": 91,
+        "min": 91,
+        "max": 91,
+        "distribution": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 5.4,
+        "meanSyllables": 13.9,
+        "distribution": [
+          0,
+          1,
+          0,
+          1,
+          2,
+          3,
+          6,
+          3,
+          1
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 1,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 0,
+        "noSubject": 0,
+        "noPredicate": 0,
+        "percent": 0
+      },
+      "enjambement": {
+        "count": 10,
+        "percent": 0.62,
+        "positions": [
+          3,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          15
+        ]
+      },
+      "wordOrder": {
+        "svo": 1,
+        "inversions": 0,
+        "other": 0,
+        "deviationPercent": 0
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 3,
+        "śmierć": 2,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 236,
+      "estimatedSeconds": 79,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 35,
+      "VERB": 10,
+      "ADJ": 12,
+      "ADV": 10,
+      "PRON": 4,
+      "ADP": 8,
+      "CCONJ": 0,
+      "SCONJ": 1,
+      "INTJ": 0,
+      "PART": 5,
+      "DET": 1,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.385,
+      "VERB": 0.11,
+      "ADJ": 0.132,
+      "ADV": 0.11,
+      "PRON": 0.044,
+      "ADP": 0.088,
+      "CCONJ": 0,
+      "SCONJ": 0.011,
+      "INTJ": 0,
+      "PART": 0.055,
+      "DET": 0.011,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 2,
+      "abstract": 3,
+      "ratio": 0.4
+    },
+    "verbTenses": {
+      "present": 10,
+      "infinitive": 2
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 3,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 0,
+      "opisowe": 12
+    },
+    "adverbs": {
+      "temporalne": [],
+      "modalne": [
+        "naturalnie"
+      ],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "jak",
+          "count": 3
+        },
+        {
+          "word": "coraz",
+          "count": 1
+        },
+        {
+          "word": "gdy",
+          "count": 1
+        },
+        {
+          "word": "naturalnie",
+          "count": 1
+        },
+        {
+          "word": "precyzyjnie",
+          "count": 1
+        },
+        {
+          "word": "gdzie",
+          "count": 1
+        },
+        {
+          "word": "jawnie",
+          "count": 1
+        },
+        {
+          "word": "tak",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 0,
+      "ty": 0,
+      "on_ona": 2,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 1,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 1,
+      "percentSentences": 1
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 91,
+      "median": 91,
+      "min": 91,
+      "max": 91,
+      "distribution": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 5.4,
+      "meanSyllables": 13.9,
+      "distribution": [
+        0,
+        1,
+        0,
+        1,
+        2,
+        3,
+        6,
+        3,
+        1
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 1,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 0,
+      "noSubject": 0,
+      "noPredicate": 0,
+      "percent": 0
+    },
+    "enjambement": {
+      "count": 10,
+      "percent": 0.62,
+      "positions": [
+        3,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        15
+      ]
+    },
+    "wordOrder": {
+      "svo": 1,
+      "inversions": 0,
+      "other": 0,
+      "deviationPercent": 0
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 231,
+      "consonants": 314,
+      "ratio": 0.74
+    },
+    "consonantClusters": {
+      "count": 16,
+      "top": [
+        {
+          "cluster": "wdz",
+          "count": 2
+        },
+        {
+          "cluster": "ttn",
+          "count": 1
+        },
+        {
+          "cluster": "strz",
+          "count": 1
+        },
+        {
+          "cluster": "stw",
+          "count": 1
+        },
+        {
+          "cluster": "stn",
+          "count": 1
+        },
+        {
+          "cluster": "śln",
+          "count": 1
+        },
+        {
+          "cluster": "krw",
+          "count": 1
+        },
+        {
+          "cluster": "str",
+          "count": 1
+        },
+        {
+          "cluster": "spr",
+          "count": 1
+        },
+        {
+          "cluster": "mpl",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 13,
+      "syczace": 58,
+      "nosowe": 69,
+      "plynne": 43
+    },
+    "rhymes": {
+      "exact": 2,
+      "approximate": 0,
+      "internal": 3,
+      "assonance": 2,
+      "alliteration": 2
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        17
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 236,
+      "estimatedSeconds": 79,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "regularny",
+      "regularityScore": 0.73
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "inne",
+          "reference": "tradycja poetycka rozważań o śmierci",
+          "evidence": "Prawdziwe jest mistrzostwo śmierci"
+        },
+        {
+          "source": "inne",
+          "reference": "topos ars moriendi",
+          "evidence": "mistrzostwo śmierci, co wymyśla / coraz to inne formy swojego istnienia"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.2,
+        "baudelaire": 0.3,
+        "bursa": 0.1,
+        "stachura": 0.2,
+        "grochowiak": 0.4,
+        "bialoszewski": 0.3,
+        "rozewicz": 0.6
+      }
+    },
+    "space": {
+      "type": "zamknieta",
+      "evidence": "kuchenny zlew, lustro, intymne przestrzenie domowe",
+      "openClosedRatio": 0.2
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "wiosna",
+      "evidence": "marzec 1968",
+      "openClosedRatio": 0.5
+    },
+    "motion": {
+      "movement": 7,
+      "stillness": 3,
+      "dynamism": 0.7,
+      "evidence": "zmienia, tancerka w interwale gry, ciekły niepokój, rozkraczona"
+    },
+    "imageryDensity": {
+      "metaphors": 8,
+      "comparisons": 4,
+      "personifications": 3,
+      "hyperboles": 1,
+      "per100words": 9.5
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.7,
+      "creationLevel": 0.8,
+      "ironicDistance": 0.3,
+      "autobiographicSignals": [
+        "dedykacja dla Pani Barbary Bittnerówny",
+        "data i miejsce: marzec 1968, Kudowa Zdrój",
+        "intymny ton zwierzeń"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "melancholia",
+      "secondary": "tęsknota",
+      "intensity": 0.7
+    },
+    "subjectPresence": {
+      "type": "ukryte",
+      "evidence": "poeta mówi o sobie w trzeciej osobie 'niepokój poety', ale to wyraźnie autobiograficzne"
+    },
+    "addressee": {
+      "type": "czytelnik",
+      "evidence": "wiersz dedykowany 'Pani Barbarze Bittnerównie', ale zwraca się do szerszego odbiorcy"
+    },
+    "metaphors": [
+      {
+        "source": "taniec",
+        "target": "życie",
+        "example": "jak zmienia kostium tancerka w interwale gry"
+      },
+      {
+        "source": "rytm oddechu",
+        "target": "pisanie",
+        "example": "oddechu krwi pisząca dłoń"
+      },
+      {
+        "source": "rzeźba",
+        "target": "pamięć",
+        "example": "na pamięć w mózgu wyrzeźbiona sekunda pożądania"
+      }
+    ],
+    "temperature": {
+      "value": 0.6,
+      "label": "ciepłe - między refleksją a pożądaniem"
+    },
+    "senses": {
+      "wzrok": 5,
+      "sluch": 2,
+      "dotyk": 4,
+      "smak": 0,
+      "zapach": 0
+    },
+    "autodestruction": {
+      "level": 0.5,
+      "signals": [
+        "fascynacja śmiercią jako 'mistrzostwem'",
+        "erotyczne obrazy przy kuchennym zlewie",
+        "niepokój poety jako stan permanentny"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 0.796,
+    "dfaAlpha": 3.018,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -2.361476610822233
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -1.0719900314087027
+      },
+      {
+        "logWin": 1.6094379124341003,
+        "logFluc": -0.8568826525306984
+      }
+    ],
+    "seriesLength": 16,
+    "series": [
+      3,
+      6,
+      6,
+      6,
+      5,
+      4,
+      7,
+      7,
+      8,
+      5,
+      5,
+      5,
+      7,
+      6,
+      6,
+      4
+    ]
+  }
+}

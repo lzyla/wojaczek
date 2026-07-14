@@ -1,0 +1,656 @@
+{
+  "id": "kwiat-zrywajac-ciebie-biorac",
+  "title": "Kwiat zrywając, ciebie biorąc",
+  "wordCount": 30,
+  "lineCount": 4,
+  "uniqueWords": 27,
+  "vocabularyRichness": 0.9,
+  "avgWordsPerLine": 7.5,
+  "wordsPerLineDistribution": [
+    6,
+    8,
+    8,
+    8
+  ],
+  "wordFrequencies": [
+    [
+      "kwiat",
+      2
+    ],
+    [
+      "ciebie",
+      2
+    ],
+    [
+      "zrywając",
+      1
+    ],
+    [
+      "wąchając",
+      1
+    ],
+    [
+      "zarazem",
+      1
+    ],
+    [
+      "świat",
+      1
+    ],
+    [
+      "mijałem",
+      1
+    ],
+    [
+      "będąc",
+      1
+    ],
+    [
+      "biorąc",
+      1
+    ],
+    [
+      "pijąc",
+      1
+    ],
+    [
+      "niebo",
+      1
+    ],
+    [
+      "dbałem",
+      1
+    ],
+    [
+      "wiedząc",
+      1
+    ],
+    [
+      "jedno",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 4,
+    "period": 0,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 0,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 1,
+  "negationWords": [
+    "nie"
+  ],
+  "pronounDistribution": {
+    "ja": 2,
+    "ty": 2,
+    "on_ona": 0,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 0,
+    "smierc": 0,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 1,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [],
+  "firstWord": "kwiat",
+  "lastWord": "jedno",
+  "avgWordLength": 4.63,
+  "wordLengthDistribution": {
+    "4-5": 9,
+    "8-9": 3,
+    "1-3": 10,
+    "6-7": 8
+  },
+  "bigrams": [
+    [
+      "kwiat zrywając",
+      1
+    ],
+    [
+      "zrywając kwiat",
+      1
+    ],
+    [
+      "kwiat wąchając",
+      1
+    ],
+    [
+      "zarazem świat",
+      1
+    ],
+    [
+      "świat mijałem",
+      1
+    ],
+    [
+      "mijałem będąc",
+      1
+    ],
+    [
+      "swoim prawie",
+      1
+    ],
+    [
+      "prawie ciebie",
+      1
+    ],
+    [
+      "ciebie biorąc",
+      1
+    ]
+  ],
+  "poemWords": [
+    "kwiat",
+    "zrywając",
+    "wąchając",
+    "zarazem",
+    "świat",
+    "mijałem",
+    "będąc",
+    "ciebie",
+    "biorąc",
+    "pijąc",
+    "niebo",
+    "dbałem",
+    "wiedząc",
+    "jedno"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 4,
+        "VERB": 8,
+        "ADJ": 1,
+        "ADV": 0,
+        "PRON": 5,
+        "ADP": 4,
+        "CCONJ": 0,
+        "SCONJ": 1,
+        "INTJ": 0,
+        "PART": 5,
+        "DET": 1,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.133,
+        "VERB": 0.267,
+        "ADJ": 0.033,
+        "ADV": 0,
+        "PRON": 0.167,
+        "ADP": 0.133,
+        "CCONJ": 0,
+        "SCONJ": 0.033,
+        "INTJ": 0,
+        "PART": 0.167,
+        "DET": 0.033,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 0,
+        "abstract": 0,
+        "ratio": 0
+      },
+      "verbTenses": {
+        "present": 7,
+        "past": 2
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 1,
+        "stan": 1,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 1
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 0,
+        "opisowe": 1
+      },
+      "adverbs": {
+        "temporalne": [],
+        "modalne": [],
+        "sposobu": [],
+        "top": []
+      },
+      "pronouns": {
+        "ja": 2,
+        "ty": 2,
+        "on_ona": 0,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 1,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 1,
+        "percentSentences": 0.33
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 61,
+        "consonants": 78,
+        "ratio": 0.78
+      },
+      "consonantClusters": {
+        "count": 2,
+        "top": [
+          {
+            "cluster": "prz",
+            "count": 2
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 5,
+        "syczace": 16,
+        "nosowe": 17,
+        "plynne": 8
+      },
+      "rhymes": {
+        "exact": 0,
+        "approximate": 0,
+        "internal": 1,
+        "assonance": 0,
+        "alliteration": 0
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 10,
+        "median": 8,
+        "min": 6,
+        "max": 16,
+        "distribution": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 7.5,
+        "meanSyllables": 15.8,
+        "distribution": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          3
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 3,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 0,
+        "noSubject": 1,
+        "noPredicate": 0,
+        "percent": 0.33
+      },
+      "enjambement": {
+        "count": 0,
+        "percent": 0,
+        "positions": []
+      },
+      "wordOrder": {
+        "svo": 2,
+        "inversions": 0,
+        "other": 1,
+        "deviationPercent": 0.33
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 0,
+        "śmierć": 0,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 1,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 63,
+      "estimatedSeconds": 21,
+      "tempoCategory": "umiarkowane"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 4,
+      "VERB": 8,
+      "ADJ": 1,
+      "ADV": 0,
+      "PRON": 5,
+      "ADP": 4,
+      "CCONJ": 0,
+      "SCONJ": 1,
+      "INTJ": 0,
+      "PART": 5,
+      "DET": 1,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.133,
+      "VERB": 0.267,
+      "ADJ": 0.033,
+      "ADV": 0,
+      "PRON": 0.167,
+      "ADP": 0.133,
+      "CCONJ": 0,
+      "SCONJ": 0.033,
+      "INTJ": 0,
+      "PART": 0.167,
+      "DET": 0.033,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 0,
+      "abstract": 0,
+      "ratio": 0
+    },
+    "verbTenses": {
+      "present": 7,
+      "past": 2
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 1,
+      "stan": 1,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 1
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 0,
+      "opisowe": 1
+    },
+    "adverbs": {
+      "temporalne": [],
+      "modalne": [],
+      "sposobu": [],
+      "top": []
+    },
+    "pronouns": {
+      "ja": 2,
+      "ty": 2,
+      "on_ona": 0,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 1,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 1,
+      "percentSentences": 0.33
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 10,
+      "median": 8,
+      "min": 6,
+      "max": 16,
+      "distribution": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 7.5,
+      "meanSyllables": 15.8,
+      "distribution": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        3
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 3,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 0,
+      "noSubject": 1,
+      "noPredicate": 0,
+      "percent": 0.33
+    },
+    "enjambement": {
+      "count": 0,
+      "percent": 0,
+      "positions": []
+    },
+    "wordOrder": {
+      "svo": 2,
+      "inversions": 0,
+      "other": 1,
+      "deviationPercent": 0.33
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 61,
+      "consonants": 78,
+      "ratio": 0.78
+    },
+    "consonantClusters": {
+      "count": 2,
+      "top": [
+        {
+          "cluster": "prz",
+          "count": 2
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 5,
+      "syczace": 16,
+      "nosowe": 17,
+      "plynne": 8
+    },
+    "rhymes": {
+      "exact": 0,
+      "approximate": 0,
+      "internal": 1,
+      "assonance": 0,
+      "alliteration": 0
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        4
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 63,
+      "estimatedSeconds": 21,
+      "tempoCategory": "umiarkowane"
+    },
+    "regularity": {
+      "type": "regularny",
+      "regularityScore": 0.86
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Rimbaud",
+          "reference": "Intensywność doznań zmysłowych i transcendencja przez doświadczenie",
+          "evidence": "Kwiat zrywając, kwiat wąchając ja zarazem / Świat mijałem będąc przy tym w swoim prawie"
+        },
+        {
+          "source": "Baudelaire",
+          "reference": "Motywy kwiatów i ekstraktowania piękna ze świata",
+          "evidence": "Kwiat zrywając, kwiat wąchając"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.8,
+        "baudelaire": 0.6,
+        "bursa": 0.2,
+        "stachura": 0.3,
+        "grochowiak": 0.4,
+        "bialoszewski": 0.1,
+        "rozewicz": 0.2
+      }
+    },
+    "space": {
+      "type": "otwarta",
+      "evidence": "Świat mijałem - przestrzeń nieograniczona, kosmiczna perspektywa z motywem nieba",
+      "openClosedRatio": 0.9
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "nieokreslona",
+      "evidence": "Brak konkretnych wskaźników temporalnych, akcent na ponadczasowość doświadczenia"
+    },
+    "motion": {
+      "movement": 8,
+      "stillness": 2,
+      "dynamism": 0.8,
+      "evidence": "Zrywając, wąchając, mijałem, biorąc, pijąc - intensywna aktywność i dynamika działań"
+    },
+    "imageryDensity": {
+      "metaphors": 2,
+      "comparisons": 0,
+      "personifications": 0,
+      "hyperboles": 1,
+      "per100words": 12
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.9,
+      "creationLevel": 0.3,
+      "ironicDistance": 0.1,
+      "autobiographicSignals": [
+        "użycie pierwszej osoby 'ja'",
+        "intymny ton zwierzenia",
+        "bezpośrednie zwracanie się do 'Ciebie'"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "euforia",
+      "secondary": "rezygnacja",
+      "intensity": 0.7
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "Wielokrotne użycie zaimka 'ja' - 'ja zarazem', 'ja o niebo'"
+    },
+    "addressee": {
+      "type": "ty",
+      "evidence": "Bezpośrednie zwrócenie się 'Ciebie biorąc, z Ciebie pijąc'"
+    },
+    "metaphors": [
+      {
+        "source": "kwiat",
+        "target": "miłość/kobieta",
+        "example": "Kwiat zrywając, kwiat wąchając"
+      },
+      {
+        "source": "picie",
+        "target": "czerpanie z miłości",
+        "example": "z Ciebie pijąc"
+      }
+    ],
+    "temperature": {
+      "value": 0.8,
+      "label": "gorące - erotyczna ekstaza i pożądanie"
+    },
+    "senses": {
+      "wzrok": 2,
+      "sluch": 0,
+      "dotyk": 4,
+      "smak": 3,
+      "zapach": 4
+    },
+    "autodestruction": {
+      "level": 0.3,
+      "signals": [
+        "'o niebo już nie dbałem' - rezygnacja z transcendencji",
+        "świadomość przemijania"
+      ]
+    }
+  }
+}

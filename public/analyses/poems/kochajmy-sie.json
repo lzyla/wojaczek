@@ -1,0 +1,635 @@
+{
+  "id": "kochajmy-sie",
+  "title": "Kochajmy się",
+  "wordCount": 16,
+  "lineCount": 2,
+  "uniqueWords": 16,
+  "vocabularyRichness": 1,
+  "avgWordsPerLine": 8,
+  "wordsPerLineDistribution": [
+    9,
+    7
+  ],
+  "wordFrequencies": [
+    [
+      "kochajmy",
+      1
+    ],
+    [
+      "ciągle",
+      1
+    ],
+    [
+      "nowo",
+      1
+    ],
+    [
+      "śmierć",
+      1
+    ],
+    [
+      "śnij",
+      1
+    ],
+    [
+      "oddycha",
+      1
+    ],
+    [
+      "ustami",
+      1
+    ],
+    [
+      "płci",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 0,
+    "period": 0,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 0,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 0,
+  "negationWords": [],
+  "pronounDistribution": {
+    "ja": 2,
+    "ty": 2,
+    "on_ona": 0,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 0,
+    "smierc": 1,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [],
+  "firstWord": "kochajmy",
+  "lastWord": "płci",
+  "avgWordLength": 4.63,
+  "wordLengthDistribution": {
+    "8-9": 1,
+    "1-3": 4,
+    "6-7": 4,
+    "4-5": 7
+  },
+  "bigrams": [
+    [
+      "nowo śmierć",
+      1
+    ],
+    [
+      "niech wciąż",
+      1
+    ],
+    [
+      "wciąż oddycha",
+      1
+    ],
+    [
+      "oddycha ustami",
+      1
+    ],
+    [
+      "ustami mojej",
+      1
+    ],
+    [
+      "mojej płci",
+      1
+    ]
+  ],
+  "poemWords": [
+    "kochajmy",
+    "ciągle",
+    "nowo",
+    "śmierć",
+    "śnij",
+    "oddycha",
+    "ustami",
+    "płci"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 4,
+        "VERB": 2,
+        "ADJ": 1,
+        "ADV": 3,
+        "PRON": 4,
+        "ADP": 1,
+        "CCONJ": 0,
+        "SCONJ": 0,
+        "INTJ": 0,
+        "PART": 0,
+        "DET": 2,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.222,
+        "VERB": 0.111,
+        "ADJ": 0.056,
+        "ADV": 0.167,
+        "PRON": 0.222,
+        "ADP": 0.056,
+        "CCONJ": 0,
+        "SCONJ": 0,
+        "INTJ": 0,
+        "PART": 0,
+        "DET": 0.111,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 1,
+        "abstract": 1,
+        "ratio": 0.5
+      },
+      "verbTenses": {
+        "imperative": 1,
+        "present": 1
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 0,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 1
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 0,
+        "opisowe": 1
+      },
+      "adverbs": {
+        "temporalne": [
+          "ciągle",
+          "wciąż"
+        ],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "ciągle",
+            "count": 1
+          },
+          {
+            "word": "nowo",
+            "count": 1
+          },
+          {
+            "word": "wciąż",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 1,
+        "ty": 1,
+        "on_ona": 0,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 0,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 0,
+        "percentSentences": 0
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 36,
+        "consonants": 49,
+        "ratio": 0.73
+      },
+      "consonantClusters": {
+        "count": 1,
+        "top": [
+          {
+            "cluster": "płc",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 1,
+        "syczace": 13,
+        "nosowe": 14,
+        "plynne": 3
+      },
+      "rhymes": {
+        "exact": 0,
+        "approximate": 0,
+        "internal": 0,
+        "assonance": 0,
+        "alliteration": 1
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 9,
+        "median": 9,
+        "min": 7,
+        "max": 11,
+        "distribution": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 6,
+        "meanSyllables": 12,
+        "distribution": [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 1,
+        "interrogative": 0,
+        "imperative": 1,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 0,
+        "noSubject": 1,
+        "noPredicate": 0,
+        "percent": 0.5
+      },
+      "enjambement": {
+        "count": 0,
+        "percent": 0,
+        "positions": []
+      },
+      "wordOrder": {
+        "svo": 1,
+        "inversions": 0,
+        "other": 1,
+        "deviationPercent": 0.5
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 0,
+        "śmierć": 1,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 36,
+      "estimatedSeconds": 12,
+      "tempoCategory": "szybkie"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 4,
+      "VERB": 2,
+      "ADJ": 1,
+      "ADV": 3,
+      "PRON": 4,
+      "ADP": 1,
+      "CCONJ": 0,
+      "SCONJ": 0,
+      "INTJ": 0,
+      "PART": 0,
+      "DET": 2,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.222,
+      "VERB": 0.111,
+      "ADJ": 0.056,
+      "ADV": 0.167,
+      "PRON": 0.222,
+      "ADP": 0.056,
+      "CCONJ": 0,
+      "SCONJ": 0,
+      "INTJ": 0,
+      "PART": 0,
+      "DET": 0.111,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 1,
+      "abstract": 1,
+      "ratio": 0.5
+    },
+    "verbTenses": {
+      "imperative": 1,
+      "present": 1
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 0,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 1
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 0,
+      "opisowe": 1
+    },
+    "adverbs": {
+      "temporalne": [
+        "ciągle",
+        "wciąż"
+      ],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "ciągle",
+          "count": 1
+        },
+        {
+          "word": "nowo",
+          "count": 1
+        },
+        {
+          "word": "wciąż",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 1,
+      "ty": 1,
+      "on_ona": 0,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 0,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 0,
+      "percentSentences": 0
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 9,
+      "median": 9,
+      "min": 7,
+      "max": 11,
+      "distribution": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 6,
+      "meanSyllables": 12,
+      "distribution": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        1
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 1,
+      "interrogative": 0,
+      "imperative": 1,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 0,
+      "noSubject": 1,
+      "noPredicate": 0,
+      "percent": 0.5
+    },
+    "enjambement": {
+      "count": 0,
+      "percent": 0,
+      "positions": []
+    },
+    "wordOrder": {
+      "svo": 1,
+      "inversions": 0,
+      "other": 1,
+      "deviationPercent": 0.5
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 36,
+      "consonants": 49,
+      "ratio": 0.73
+    },
+    "consonantClusters": {
+      "count": 1,
+      "top": [
+        {
+          "cluster": "płc",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 1,
+      "syczace": 13,
+      "nosowe": 14,
+      "plynne": 3
+    },
+    "rhymes": {
+      "exact": 0,
+      "approximate": 0,
+      "internal": 0,
+      "assonance": 0,
+      "alliteration": 1
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        3
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 36,
+      "estimatedSeconds": 12,
+      "tempoCategory": "szybkie"
+    },
+    "regularity": {
+      "type": "polregularny",
+      "regularityScore": 0.49
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Biblia",
+          "reference": "Pieśń nad Pieśniami - miłość jako śmierć i życie",
+          "evidence": "śmierć mi śnij / Twoja niech wciąż oddycha ustami mojej płci"
+        },
+        {
+          "source": "Rimbaud",
+          "reference": "Une saison en enfer - miłość jako cierpienie i ekstaza",
+          "evidence": "całościowa struktura wiersza łącząca miłość ze śmiercią"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.8,
+        "baudelaire": 0.6,
+        "bursa": 0.3,
+        "stachura": 0.5,
+        "grochowiak": 0.7,
+        "bialoszewski": 0.2,
+        "rozewicz": 0.4
+      }
+    },
+    "space": {
+      "type": "nieokreslona",
+      "evidence": "brak konkretnych określeń przestrzennych, skupienie na cielesności i intymności",
+      "openClosedRatio": 0.3
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "nieokreslona",
+      "evidence": "brak wskazówek temporalnych, wieczność miłosnego aktu"
+    },
+    "motion": {
+      "movement": 8,
+      "stillness": 3,
+      "dynamism": 0.8,
+      "evidence": "Kochajmy się - imperatyw ruchu, ciągle na nowo - powtarzalność, oddycha - rytmiczny ruch"
+    },
+    "imageryDensity": {
+      "metaphors": 2,
+      "comparisons": 0,
+      "personifications": 1,
+      "hyperboles": 1,
+      "per100words": 22.2
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.9,
+      "creationLevel": 0.7,
+      "ironicDistance": 0.1,
+      "autobiographicSignals": [
+        "bezpośredni zwrot do Ty",
+        "intymność wypowiedzi",
+        "erotyczny charakter",
+        "imperatyw miłosny"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "euforia",
+      "secondary": "tęsknota",
+      "intensity": 0.9
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "podmiot liryczny bezpośrednio zwraca się do adresata używając form 'mojej płci', 'mi'"
+    },
+    "addressee": {
+      "type": "ty",
+      "evidence": "bezpośrednie zwrócenie się 'Kochajmy się Ty'"
+    },
+    "metaphors": [
+      {
+        "source": "śmierć",
+        "target": "miłość/pożądanie",
+        "example": "śmierć mi śnij"
+      },
+      {
+        "source": "oddychanie ustami",
+        "target": "intymność erotyczna",
+        "example": "niech wciąż oddycha ustami mojej płci"
+      }
+    ],
+    "temperature": {
+      "value": 0.95,
+      "label": "rozpalenie erotyczne"
+    },
+    "senses": {
+      "wzrok": 1,
+      "sluch": 2,
+      "dotyk": 5,
+      "smak": 4,
+      "zapach": 3
+    },
+    "autodestruction": {
+      "level": 0.7,
+      "signals": [
+        "utożsamienie miłości ze śmiercią",
+        "pragnienie zagłady przez ekstazę erotyczną"
+      ]
+    }
+  }
+}

@@ -1,0 +1,969 @@
+{
+  "id": "modlitwa-bohaterow",
+  "title": "Modlitwa bohaterów",
+  "wordCount": 111,
+  "lineCount": 20,
+  "uniqueWords": 78,
+  "vocabularyRichness": 0.703,
+  "avgWordsPerLine": 5.55,
+  "wordsPerLineDistribution": [
+    7,
+    5,
+    6,
+    6,
+    5,
+    4,
+    6,
+    7,
+    6,
+    5,
+    4,
+    6,
+    5,
+    5,
+    4,
+    6,
+    7,
+    6,
+    6,
+    5
+  ],
+  "wordFrequencies": [
+    [
+      "naszą",
+      2
+    ],
+    [
+      "brednię",
+      1
+    ],
+    [
+      "nędzę",
+      1
+    ],
+    [
+      "zatwardziałość",
+      1
+    ],
+    [
+      "szaleństwie",
+      1
+    ],
+    [
+      "naszego",
+      1
+    ],
+    [
+      "głodu",
+      1
+    ],
+    [
+      "głośny",
+      1
+    ],
+    [
+      "krzyk",
+      1
+    ],
+    [
+      "dom",
+      1
+    ],
+    [
+      "opuściły",
+      1
+    ],
+    [
+      "sny",
+      1
+    ],
+    [
+      "mowę",
+      1
+    ],
+    [
+      "wielce",
+      1
+    ],
+    [
+      "bełkotliwą",
+      1
+    ],
+    [
+      "rozpaczliwie",
+      1
+    ],
+    [
+      "niedorzeczną",
+      1
+    ],
+    [
+      "miłość",
+      1
+    ],
+    [
+      "zikomość",
+      1
+    ],
+    [
+      "wszelkich",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 0,
+    "period": 0,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 0,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 1,
+  "negationWords": [
+    "bez"
+  ],
+  "pronounDistribution": {
+    "ja": 0,
+    "ty": 0,
+    "on_ona": 0,
+    "my": 9,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 2,
+    "smierc": 0,
+    "erotyka": 1,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 1,
+    "bol": 1
+  },
+  "anaphors": [
+    [
+      "i na",
+      3
+    ],
+    [
+      "oraz",
+      2
+    ],
+    [
+      "na nasze",
+      2
+    ]
+  ],
+  "firstWord": "na",
+  "lastWord": "pani",
+  "avgWordLength": 5.13,
+  "wordLengthDistribution": {
+    "1-3": 36,
+    "6-7": 19,
+    "4-5": 30,
+    "10+": 8,
+    "8-9": 18
+  },
+  "bigrams": [
+    [
+      "brednię naszą",
+      1
+    ],
+    [
+      "naszą nędzę",
+      1
+    ],
+    [
+      "naszym szaleństwie",
+      1
+    ]
+  ],
+  "poemWords": [
+    "brednię",
+    "naszą",
+    "nędzę",
+    "zatwardziałość",
+    "szaleństwie",
+    "naszego",
+    "głodu",
+    "głośny",
+    "krzyk",
+    "dom",
+    "opuściły",
+    "sny",
+    "mowę",
+    "wielce",
+    "bełkotliwą",
+    "rozpaczliwie",
+    "niedorzeczną",
+    "miłość",
+    "zikomość",
+    "wszelkich",
+    "prac",
+    "koszmar",
+    "nocy",
+    "bezsen",
+    "dnia",
+    "mistrzów",
+    "bezradnych",
+    "smutnych",
+    "sędziów",
+    "ponuro",
+    "okrutnych",
+    "biedne",
+    "matki",
+    "dogorywające",
+    "winy",
+    "chcące",
+    "niechcące",
+    "serca",
+    "obrzękłe",
+    "wątroby",
+    "wargi",
+    "popękane",
+    "szorstkie",
+    "roztrzęsione",
+    "fatalnie",
+    "ręce",
+    "mózgi",
+    "daremnej",
+    "męce",
+    "płuca",
+    "powietrza",
+    "strach",
+    "bezsenny",
+    "koszmarny",
+    "zegar",
+    "udziałem",
+    "błagamy",
+    "wzgląd",
+    "miej",
+    "ironiczna",
+    "pani"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 31,
+        "VERB": 3,
+        "ADJ": 19,
+        "ADV": 5,
+        "PRON": 2,
+        "ADP": 26,
+        "CCONJ": 9,
+        "SCONJ": 0,
+        "INTJ": 0,
+        "PART": 0,
+        "DET": 15,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.279,
+        "VERB": 0.027,
+        "ADJ": 0.171,
+        "ADV": 0.045,
+        "PRON": 0.018,
+        "ADP": 0.234,
+        "CCONJ": 0.081,
+        "SCONJ": 0,
+        "INTJ": 0,
+        "PART": 0,
+        "DET": 0.135,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 2,
+        "abstract": 3,
+        "ratio": 0.4
+      },
+      "verbTenses": {
+        "present": 3,
+        "past": 1
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 1,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 2,
+        "oceniajace": 1,
+        "opisowe": 16
+      },
+      "adverbs": {
+        "temporalne": [],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "wielce",
+            "count": 1
+          },
+          {
+            "word": "rozpaczliwie",
+            "count": 1
+          },
+          {
+            "word": "ponuro",
+            "count": 1
+          },
+          {
+            "word": "fatalnie",
+            "count": 1
+          },
+          {
+            "word": "miej",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 0,
+        "ty": 0,
+        "on_ona": 0,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 0,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 0,
+        "percentSentences": 0
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 227,
+        "consonants": 342,
+        "ratio": 0.66
+      },
+      "consonantClusters": {
+        "count": 21,
+        "top": [
+          {
+            "cluster": "czn",
+            "count": 2
+          },
+          {
+            "cluster": "wsz",
+            "count": 2
+          },
+          {
+            "cluster": "szm",
+            "count": 2
+          },
+          {
+            "cluster": "chc",
+            "count": 2
+          },
+          {
+            "cluster": "rdz",
+            "count": 1
+          },
+          {
+            "cluster": "ństw",
+            "count": 1
+          },
+          {
+            "cluster": "krz",
+            "count": 1
+          },
+          {
+            "cluster": "czl",
+            "count": 1
+          },
+          {
+            "cluster": "strz",
+            "count": 1
+          },
+          {
+            "cluster": "prz",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 28,
+        "syczace": 60,
+        "nosowe": 96,
+        "plynne": 47
+      },
+      "rhymes": {
+        "exact": 3,
+        "approximate": 3,
+        "internal": 4,
+        "assonance": 1,
+        "alliteration": 7
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 18.5,
+        "median": 16,
+        "min": 5,
+        "max": 39,
+        "distribution": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 5.5,
+        "meanSyllables": 11.4,
+        "distribution": [
+          0,
+          0,
+          0,
+          0,
+          3,
+          6,
+          8,
+          3
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 6,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 3,
+        "noSubject": 1,
+        "noPredicate": 0,
+        "percent": 0.67
+      },
+      "enjambement": {
+        "count": 3,
+        "percent": 0.16,
+        "positions": [
+          2,
+          6,
+          16
+        ]
+      },
+      "wordOrder": {
+        "svo": 2,
+        "inversions": 0,
+        "other": 4,
+        "deviationPercent": 0.67
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 2,
+        "śmierć": 0,
+        "erotyka": 1,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 1,
+        "ból": 1
+      },
+      "oppositionsFound": [
+        "dzień/noc"
+      ]
+    },
+    "tempo": {
+      "syllables": 229,
+      "estimatedSeconds": 76,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 31,
+      "VERB": 3,
+      "ADJ": 19,
+      "ADV": 5,
+      "PRON": 2,
+      "ADP": 26,
+      "CCONJ": 9,
+      "SCONJ": 0,
+      "INTJ": 0,
+      "PART": 0,
+      "DET": 15,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.279,
+      "VERB": 0.027,
+      "ADJ": 0.171,
+      "ADV": 0.045,
+      "PRON": 0.018,
+      "ADP": 0.234,
+      "CCONJ": 0.081,
+      "SCONJ": 0,
+      "INTJ": 0,
+      "PART": 0,
+      "DET": 0.135,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 2,
+      "abstract": 3,
+      "ratio": 0.4
+    },
+    "verbTenses": {
+      "present": 3,
+      "past": 1
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 1,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 2,
+      "oceniajace": 1,
+      "opisowe": 16
+    },
+    "adverbs": {
+      "temporalne": [],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "wielce",
+          "count": 1
+        },
+        {
+          "word": "rozpaczliwie",
+          "count": 1
+        },
+        {
+          "word": "ponuro",
+          "count": 1
+        },
+        {
+          "word": "fatalnie",
+          "count": 1
+        },
+        {
+          "word": "miej",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 0,
+      "ty": 0,
+      "on_ona": 0,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 0,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 0,
+      "percentSentences": 0
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 18.5,
+      "median": 16,
+      "min": 5,
+      "max": 39,
+      "distribution": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 5.5,
+      "meanSyllables": 11.4,
+      "distribution": [
+        0,
+        0,
+        0,
+        0,
+        3,
+        6,
+        8,
+        3
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 6,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 3,
+      "noSubject": 1,
+      "noPredicate": 0,
+      "percent": 0.67
+    },
+    "enjambement": {
+      "count": 3,
+      "percent": 0.16,
+      "positions": [
+        2,
+        6,
+        16
+      ]
+    },
+    "wordOrder": {
+      "svo": 2,
+      "inversions": 0,
+      "other": 4,
+      "deviationPercent": 0.67
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 227,
+      "consonants": 342,
+      "ratio": 0.66
+    },
+    "consonantClusters": {
+      "count": 21,
+      "top": [
+        {
+          "cluster": "czn",
+          "count": 2
+        },
+        {
+          "cluster": "wsz",
+          "count": 2
+        },
+        {
+          "cluster": "szm",
+          "count": 2
+        },
+        {
+          "cluster": "chc",
+          "count": 2
+        },
+        {
+          "cluster": "rdz",
+          "count": 1
+        },
+        {
+          "cluster": "ństw",
+          "count": 1
+        },
+        {
+          "cluster": "krz",
+          "count": 1
+        },
+        {
+          "cluster": "czl",
+          "count": 1
+        },
+        {
+          "cluster": "strz",
+          "count": 1
+        },
+        {
+          "cluster": "prz",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 28,
+      "syczace": 60,
+      "nosowe": 96,
+      "plynne": 47
+    },
+    "rhymes": {
+      "exact": 3,
+      "approximate": 3,
+      "internal": 4,
+      "assonance": 1,
+      "alliteration": 7
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 11,
+      "linesPerStanza": [
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        1
+      ],
+      "isRegular": false,
+      "isContinuous": false
+    },
+    "readingTempo": {
+      "syllables": 229,
+      "estimatedSeconds": 76,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "regularny",
+      "regularityScore": 0.92
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Biblia",
+          "reference": "Litania do Najświętszej Maryi Panny",
+          "evidence": "struktura litanijna z powtarzanym 'Na...' oraz zakończenie 'Błagamy wzgląd miej'"
+        },
+        {
+          "source": "Biblia",
+          "reference": "modlitwa pokutna",
+          "evidence": "wyliczanie grzechów i win, prośba o miłosierdzie"
+        },
+        {
+          "source": "Różewicz",
+          "reference": "poetyka nowoczesna",
+          "evidence": "prozaizacja języka, rezygnacja z tradycyjnej metaforyki"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.2,
+        "baudelaire": 0.4,
+        "bursa": 0.1,
+        "stachura": 0.3,
+        "grochowiak": 0.6,
+        "bialoszewski": 0.1,
+        "rozewicz": 0.7
+      }
+    },
+    "space": {
+      "type": "zamknieta",
+      "evidence": "dom opuszczony przez sny, brak powietrza w płucach, atmosfera klaustrofobii",
+      "openClosedRatio": 0.2
+    },
+    "timeOfDay": {
+      "period": "noc",
+      "season": "nieokreslona",
+      "evidence": "koszmar nocy, bezsen dnia, strach bezsenny, koszmarny zegar"
+    },
+    "motion": {
+      "movement": 2,
+      "stillness": 8,
+      "dynamism": 0.2,
+      "evidence": "dominuje statyczność cierpienia, roztrzęsione ręce jako jedyny ruch"
+    },
+    "imageryDensity": {
+      "metaphors": 3,
+      "comparisons": 0,
+      "personifications": 2,
+      "hyperboles": 4,
+      "per100words": 7.5
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.9,
+      "creationLevel": 0.2,
+      "ironicDistance": 0.8,
+      "autobiographicSignals": [
+        "nasze winy",
+        "nasze serca",
+        "zbiorowe wyznanie win",
+        "ironiczna Pani jako dystans"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "rezygnacja",
+      "secondary": "rozpacz",
+      "intensity": 0.9
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "konsekwentne użycie zaimka 'naszą', 'nasza', 'naszych' - podmiot liryczny mówi w imieniu zbiorowości"
+    },
+    "addressee": {
+      "type": "bóg",
+      "evidence": "zwrot 'Błagamy wzgląd miej ironiczna Pani' - apostrofa do bóstwa/losu w formie kobiecej"
+    },
+    "metaphors": [
+      {
+        "source": "dom",
+        "target": "psychika",
+        "example": "dom nasz który opuściły sny"
+      },
+      {
+        "source": "organy ciała",
+        "target": "stan duszy",
+        "example": "nasze serca obrzękłe wątroby"
+      },
+      {
+        "source": "zegar",
+        "target": "czas/los",
+        "example": "koszmarny zegar"
+      }
+    ],
+    "temperature": {
+      "value": 0.1,
+      "label": "bardzo zimne - litania rezygnacji i bezradności"
+    },
+    "senses": {
+      "wzrok": 3,
+      "sluch": 4,
+      "dotyk": 5,
+      "smak": 1,
+      "zapach": 0
+    },
+    "autodestruction": {
+      "level": 0.8,
+      "signals": [
+        "wyliczanie własnych słabości",
+        "obwinianie się",
+        "poczucie winy zbiorowej",
+        "fizyczny rozpad opisywany przez części ciała"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 0.892,
+    "dfaAlpha": 1.267,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -1.291035199120824
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -0.8473851375883626
+      },
+      {
+        "logWin": 1.6094379124341003,
+        "logFluc": -0.8372022183932312
+      },
+      {
+        "logWin": 1.791759469228055,
+        "logFluc": -0.3083900288839938
+      }
+    ],
+    "seriesLength": 20,
+    "series": [
+      7,
+      5,
+      6,
+      6,
+      5,
+      4,
+      6,
+      7,
+      6,
+      5,
+      4,
+      6,
+      5,
+      5,
+      4,
+      6,
+      7,
+      6,
+      6,
+      5
+    ]
+  }
+}

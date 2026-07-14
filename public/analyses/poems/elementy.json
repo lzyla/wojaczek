@@ -1,0 +1,841 @@
+{
+  "id": "elementy",
+  "title": "Elementy",
+  "wordCount": 52,
+  "lineCount": 14,
+  "uniqueWords": 44,
+  "vocabularyRichness": 0.846,
+  "avgWordsPerLine": 3.71,
+  "wordsPerLineDistribution": [
+    4,
+    1,
+    3,
+    5,
+    4,
+    5,
+    4,
+    3,
+    5,
+    3,
+    4,
+    2,
+    5,
+    4
+  ],
+  "wordFrequencies": [
+    [
+      "łazience",
+      1
+    ],
+    [
+      "piętrze",
+      1
+    ],
+    [
+      "murzyn",
+      1
+    ],
+    [
+      "pochylony",
+      1
+    ],
+    [
+      "sedesem",
+      1
+    ],
+    [
+      "wpatrywał",
+      1
+    ],
+    [
+      "odchody",
+      1
+    ],
+    [
+      "drugi",
+      1
+    ],
+    [
+      "siedział",
+      1
+    ],
+    [
+      "parapecie",
+      1
+    ],
+    [
+      "wydłubywał",
+      1
+    ],
+    [
+      "glisty",
+      1
+    ],
+    [
+      "nosa",
+      1
+    ],
+    [
+      "domem",
+      1
+    ],
+    [
+      "krążył",
+      1
+    ],
+    [
+      "ptaszek",
+      1
+    ],
+    [
+      "chmurka",
+      1
+    ],
+    [
+      "której",
+      1
+    ],
+    [
+      "sypało",
+      1
+    ],
+    [
+      "confetti",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 0,
+    "period": 0,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 0,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 0,
+  "negationWords": [],
+  "pronounDistribution": {
+    "ja": 0,
+    "ty": 0,
+    "on_ona": 1,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 0,
+    "smierc": 0,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [],
+  "firstWord": "łazience",
+  "lastWord": "męskości",
+  "avgWordLength": 5.52,
+  "wordLengthDistribution": {
+    "1-3": 16,
+    "8-9": 13,
+    "6-7": 13,
+    "4-5": 7,
+    "10+": 3
+  },
+  "bigrams": [
+    [
+      "piętrze murzyn",
+      1
+    ],
+    [
+      "murzyn pochylony",
+      1
+    ],
+    [
+      "sedesem wpatrywał",
+      1
+    ],
+    [
+      "odchody drugi",
+      1
+    ],
+    [
+      "drugi siedział",
+      1
+    ]
+  ],
+  "poemWords": [
+    "łazience",
+    "piętrze",
+    "murzyn",
+    "pochylony",
+    "sedesem",
+    "wpatrywał",
+    "odchody",
+    "drugi",
+    "siedział",
+    "parapecie",
+    "wydłubywał",
+    "glisty",
+    "nosa",
+    "domem",
+    "krążył",
+    "ptaszek",
+    "chmurka",
+    "której",
+    "sypało",
+    "confetti",
+    "kwiaty",
+    "ogrodzie",
+    "okazały",
+    "zwarzone",
+    "sprzeciw",
+    "narastał",
+    "scenę",
+    "wszedł",
+    "komendant",
+    "kopniakiem",
+    "pozbawiono",
+    "męskości"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 19,
+        "VERB": 9,
+        "ADJ": 3,
+        "ADV": 1,
+        "PRON": 4,
+        "ADP": 10,
+        "CCONJ": 1,
+        "SCONJ": 0,
+        "INTJ": 0,
+        "PART": 0,
+        "DET": 3,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.358,
+        "VERB": 0.17,
+        "ADJ": 0.057,
+        "ADV": 0.019,
+        "PRON": 0.075,
+        "ADP": 0.189,
+        "CCONJ": 0.019,
+        "SCONJ": 0,
+        "INTJ": 0,
+        "PART": 0,
+        "DET": 0.057,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 1,
+        "abstract": 0,
+        "ratio": 1
+      },
+      "verbTenses": {
+        "past": 10,
+        "present": 1
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 2,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 0,
+        "opisowe": 3
+      },
+      "adverbs": {
+        "temporalne": [],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "kiedy",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 0,
+        "ty": 0,
+        "on_ona": 1,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 0,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 0,
+        "percentSentences": 0
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 123,
+        "consonants": 172,
+        "ratio": 0.72
+      },
+      "consonantClusters": {
+        "count": 7,
+        "top": [
+          {
+            "cluster": "wsz",
+            "count": 2
+          },
+          {
+            "cluster": "trz",
+            "count": 1
+          },
+          {
+            "cluster": "dch",
+            "count": 1
+          },
+          {
+            "cluster": "chm",
+            "count": 1
+          },
+          {
+            "cluster": "stk",
+            "count": 1
+          },
+          {
+            "cluster": "sprz",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 8,
+        "syczace": 31,
+        "nosowe": 34,
+        "plynne": 26
+      },
+      "rhymes": {
+        "exact": 0,
+        "approximate": 0,
+        "internal": 0,
+        "assonance": 0,
+        "alliteration": 1
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 17.7,
+        "median": 9,
+        "min": 2,
+        "max": 42,
+        "distribution": [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 3.5,
+        "meanSyllables": 8.5,
+        "distribution": [
+          0,
+          2,
+          1,
+          3,
+          5,
+          4
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 3,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 0,
+        "noSubject": 0,
+        "noPredicate": 0,
+        "percent": 0
+      },
+      "enjambement": {
+        "count": 8,
+        "percent": 0.57,
+        "positions": [
+          3,
+          4,
+          6,
+          8,
+          9,
+          11,
+          13,
+          14
+        ]
+      },
+      "wordOrder": {
+        "svo": 2,
+        "inversions": 1,
+        "other": 0,
+        "deviationPercent": 0.33
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 0,
+        "śmierć": 0,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 128,
+      "estimatedSeconds": 43,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 19,
+      "VERB": 9,
+      "ADJ": 3,
+      "ADV": 1,
+      "PRON": 4,
+      "ADP": 10,
+      "CCONJ": 1,
+      "SCONJ": 0,
+      "INTJ": 0,
+      "PART": 0,
+      "DET": 3,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.358,
+      "VERB": 0.17,
+      "ADJ": 0.057,
+      "ADV": 0.019,
+      "PRON": 0.075,
+      "ADP": 0.189,
+      "CCONJ": 0.019,
+      "SCONJ": 0,
+      "INTJ": 0,
+      "PART": 0,
+      "DET": 0.057,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 1,
+      "abstract": 0,
+      "ratio": 1
+    },
+    "verbTenses": {
+      "past": 10,
+      "present": 1
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 2,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 0,
+      "opisowe": 3
+    },
+    "adverbs": {
+      "temporalne": [],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "kiedy",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 0,
+      "ty": 0,
+      "on_ona": 1,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 0,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 0,
+      "percentSentences": 0
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 17.7,
+      "median": 9,
+      "min": 2,
+      "max": 42,
+      "distribution": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 3.5,
+      "meanSyllables": 8.5,
+      "distribution": [
+        0,
+        2,
+        1,
+        3,
+        5,
+        4
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 3,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 0,
+      "noSubject": 0,
+      "noPredicate": 0,
+      "percent": 0
+    },
+    "enjambement": {
+      "count": 8,
+      "percent": 0.57,
+      "positions": [
+        3,
+        4,
+        6,
+        8,
+        9,
+        11,
+        13,
+        14
+      ]
+    },
+    "wordOrder": {
+      "svo": 2,
+      "inversions": 1,
+      "other": 0,
+      "deviationPercent": 0.33
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 123,
+      "consonants": 172,
+      "ratio": 0.72
+    },
+    "consonantClusters": {
+      "count": 7,
+      "top": [
+        {
+          "cluster": "wsz",
+          "count": 2
+        },
+        {
+          "cluster": "trz",
+          "count": 1
+        },
+        {
+          "cluster": "dch",
+          "count": 1
+        },
+        {
+          "cluster": "chm",
+          "count": 1
+        },
+        {
+          "cluster": "stk",
+          "count": 1
+        },
+        {
+          "cluster": "sprz",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 8,
+      "syczace": 31,
+      "nosowe": 34,
+      "plynne": 26
+    },
+    "rhymes": {
+      "exact": 0,
+      "approximate": 0,
+      "internal": 0,
+      "assonance": 0,
+      "alliteration": 1
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        15
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 128,
+      "estimatedSeconds": 43,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "polregularny",
+      "regularityScore": 0.6
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "inne",
+          "reference": "teatr absurdu",
+          "evidence": "Kiedy na scenę wszedł Komendant - odwołanie do konwencji teatralnej"
+        },
+        {
+          "source": "inne",
+          "reference": "surrealizm",
+          "evidence": "ptaszek był chmurką z confetti - oniryczna logika"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.3,
+        "baudelaire": 0.1,
+        "bursa": 0.8,
+        "stachura": 0.2,
+        "grochowiak": 0.7,
+        "bialoszewski": 0.4,
+        "rozewicz": 0.6
+      }
+    },
+    "space": {
+      "type": "zamknieta",
+      "evidence": "łazience na piętrze, dom, ogród - przestrzeń domowa, ograniczona",
+      "openClosedRatio": 0.3
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "nieokreslona",
+      "evidence": "brak wyraźnych wskaźników temporalnych"
+    },
+    "motion": {
+      "movement": 4,
+      "stillness": 6,
+      "dynamism": 0.4,
+      "evidence": "pochylony, siedział, krążył ptaszek vs statyczne pozy postaci"
+    },
+    "imageryDensity": {
+      "metaphors": 3,
+      "comparisons": 1,
+      "personifications": 1,
+      "hyperboles": 0,
+      "per100words": 6.8
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.2,
+      "creationLevel": 0.9,
+      "ironicDistance": 0.8,
+      "autobiographicSignals": [
+        "łazience na piętrze",
+        "nad domem"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "obrzydzenie",
+      "secondary": "bunt",
+      "intensity": 0.8
+    },
+    "subjectPresence": {
+      "type": "ukryte",
+      "evidence": "Brak wyraźnego 'ja' lirycznego, ale obecność obserwatora rejestrującego groteskowe sceny"
+    },
+    "addressee": {
+      "type": "czytelnik",
+      "evidence": "Wiersz kierowany do odbiorcy przez prezentację obrazów bez bezpośredniego zwrotu"
+    },
+    "metaphors": [
+      {
+        "source": "ptaszek",
+        "target": "chmurka",
+        "example": "Nad domem krążył ptaszek / była to chmurka"
+      },
+      {
+        "source": "confetti",
+        "target": "opady atmosferyczne",
+        "example": "z której sypało się confetti"
+      },
+      {
+        "source": "kwiaty",
+        "target": "zwarzone elementy",
+        "example": "Kwiaty w ogrodzie / wszystkie okazały się zwarzone"
+      }
+    ],
+    "temperature": {
+      "value": 0.7,
+      "label": "gorące-agresywne"
+    },
+    "senses": {
+      "wzrok": 5,
+      "sluch": 1,
+      "dotyk": 3,
+      "smak": 2,
+      "zapach": 1
+    },
+    "autodestruction": {
+      "level": 0.6,
+      "signals": [
+        "Obsesja na punkcie cielesności i nieczystości",
+        "Finalna scena kastracji jako symbol autodestrukcji",
+        "Groteskowe obrazy degradacji ciała"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 0.849,
+    "dfaAlpha": 1.524,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -0.8855700910126597
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -0.44715726586741344
+      }
+    ],
+    "seriesLength": 14,
+    "series": [
+      4,
+      1,
+      3,
+      5,
+      4,
+      5,
+      4,
+      3,
+      5,
+      3,
+      4,
+      2,
+      5,
+      4
+    ]
+  }
+}

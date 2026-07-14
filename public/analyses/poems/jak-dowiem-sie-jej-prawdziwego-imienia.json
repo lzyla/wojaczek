@@ -1,0 +1,983 @@
+{
+  "id": "jak-dowiem-sie-jej-prawdziwego-imienia",
+  "title": "Jak dowiem się jej prawdziwego imienia",
+  "wordCount": 79,
+  "lineCount": 12,
+  "uniqueWords": 71,
+  "vocabularyRichness": 0.899,
+  "avgWordsPerLine": 6.58,
+  "wordsPerLineDistribution": [
+    7,
+    8,
+    7,
+    7,
+    8,
+    6,
+    6,
+    5,
+    6,
+    4,
+    7,
+    8
+  ],
+  "wordFrequencies": [
+    [
+      "będą",
+      2
+    ],
+    [
+      "leży",
+      1
+    ],
+    [
+      "brzuchu",
+      1
+    ],
+    [
+      "plaży",
+      1
+    ],
+    [
+      "prześcieradła",
+      1
+    ],
+    [
+      "woda",
+      1
+    ],
+    [
+      "snu",
+      1
+    ],
+    [
+      "przybiera",
+      1
+    ],
+    [
+      "wierzę",
+      1
+    ],
+    [
+      "opowie",
+      1
+    ],
+    [
+      "polskę",
+      1
+    ],
+    [
+      "odpłynie",
+      1
+    ],
+    [
+      "zaraz",
+      1
+    ],
+    [
+      "senne",
+      1
+    ],
+    [
+      "morze",
+      1
+    ],
+    [
+      "polakom",
+      1
+    ],
+    [
+      "jawnie",
+      1
+    ],
+    [
+      "zwidywać",
+      1
+    ],
+    [
+      "naga",
+      1
+    ],
+    [
+      "powie",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 0,
+    "period": 0,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 0,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 0,
+  "negationWords": [],
+  "pronounDistribution": {
+    "ja": 2,
+    "ty": 0,
+    "on_ona": 0,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 0,
+    "smierc": 0,
+    "erotyka": 1,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 1
+  },
+  "anaphors": [],
+  "firstWord": "kiedy",
+  "lastWord": "kliszy",
+  "avgWordLength": 5.61,
+  "wordLengthDistribution": {
+    "4-5": 25,
+    "1-3": 18,
+    "6-7": 18,
+    "10+": 9,
+    "8-9": 9
+  },
+  "bigrams": [
+    [
+      "plaży prześcieradła",
+      1
+    ],
+    [
+      "woda snu",
+      1
+    ],
+    [
+      "snu przybiera",
+      1
+    ],
+    [
+      "przybiera wierzę",
+      1
+    ],
+    [
+      "opowie polskę",
+      1
+    ]
+  ],
+  "poemWords": [
+    "leży",
+    "brzuchu",
+    "plaży",
+    "prześcieradła",
+    "woda",
+    "snu",
+    "przybiera",
+    "wierzę",
+    "opowie",
+    "polskę",
+    "odpłynie",
+    "zaraz",
+    "senne",
+    "morze",
+    "polakom",
+    "jawnie",
+    "zwidywać",
+    "naga",
+    "powie",
+    "będą",
+    "krzyczeć",
+    "ołtarzu",
+    "lady",
+    "zalanej",
+    "piwem",
+    "wykadzonej",
+    "kaplicy",
+    "publicznego",
+    "szaletu",
+    "ambonie",
+    "wiecu",
+    "zobaczą",
+    "wychodzącą",
+    "niebieskiego",
+    "oparu",
+    "mgły",
+    "tytoniowej",
+    "gestem",
+    "najszybszej",
+    "dłoni",
+    "naraz",
+    "zakrywającą",
+    "obiektywy",
+    "agentów",
+    "pobożnej",
+    "informacji",
+    "którzy",
+    "ciemniach",
+    "daremnie",
+    "chcieli",
+    "wywołać",
+    "kliszy"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 24,
+        "VERB": 11,
+        "ADJ": 12,
+        "ADV": 8,
+        "PRON": 6,
+        "ADP": 9,
+        "CCONJ": 2,
+        "SCONJ": 3,
+        "INTJ": 0,
+        "PART": 1,
+        "DET": 4,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.282,
+        "VERB": 0.129,
+        "ADJ": 0.141,
+        "ADV": 0.094,
+        "PRON": 0.071,
+        "ADP": 0.106,
+        "CCONJ": 0.024,
+        "SCONJ": 0.035,
+        "INTJ": 0,
+        "PART": 0.012,
+        "DET": 0.047,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 3,
+        "abstract": 1,
+        "ratio": 0.75
+      },
+      "verbTenses": {
+        "present": 3,
+        "future": 6,
+        "infinitive": 3,
+        "past": 1
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 3,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 1,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 0,
+        "opisowe": 12
+      },
+      "adverbs": {
+        "temporalne": [
+          "potem",
+          "zaraz"
+        ],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "kiedy",
+            "count": 2
+          },
+          {
+            "word": "dokąd",
+            "count": 1
+          },
+          {
+            "word": "zaraz",
+            "count": 1
+          },
+          {
+            "word": "jawnie",
+            "count": 1
+          },
+          {
+            "word": "naraz",
+            "count": 1
+          },
+          {
+            "word": "potem",
+            "count": 1
+          },
+          {
+            "word": "daremnie",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 1,
+        "ty": 0,
+        "on_ona": 2,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 0,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 0,
+        "percentSentences": 0
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 206,
+        "consonants": 270,
+        "ratio": 0.76
+      },
+      "consonantClusters": {
+        "count": 15,
+        "top": [
+          {
+            "cluster": "prz",
+            "count": 3
+          },
+          {
+            "cluster": "wdz",
+            "count": 1
+          },
+          {
+            "cluster": "brz",
+            "count": 1
+          },
+          {
+            "cluster": "lsk",
+            "count": 1
+          },
+          {
+            "cluster": "dpł",
+            "count": 1
+          },
+          {
+            "cluster": "krz",
+            "count": 1
+          },
+          {
+            "cluster": "czn",
+            "count": 1
+          },
+          {
+            "cluster": "mgł",
+            "count": 1
+          },
+          {
+            "cluster": "jsz",
+            "count": 1
+          },
+          {
+            "cluster": "bsz",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 22,
+        "syczace": 38,
+        "nosowe": 56,
+        "plynne": 35
+      },
+      "rhymes": {
+        "exact": 0,
+        "approximate": 0,
+        "internal": 1,
+        "assonance": 0,
+        "alliteration": 0
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 42.5,
+        "median": 42,
+        "min": 35,
+        "max": 50,
+        "distribution": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 6.5,
+        "meanSyllables": 16.2,
+        "distribution": [
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          4,
+          4,
+          3
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 2,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 0,
+        "noSubject": 0,
+        "noPredicate": 0,
+        "percent": 0
+      },
+      "enjambement": {
+        "count": 10,
+        "percent": 0.83,
+        "positions": [
+          1,
+          2,
+          4,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      "wordOrder": {
+        "svo": 1,
+        "inversions": 1,
+        "other": 0,
+        "deviationPercent": 0.5
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 1,
+        "śmierć": 0,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 0,
+        "ból": 1
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 210,
+      "estimatedSeconds": 70,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 24,
+      "VERB": 11,
+      "ADJ": 12,
+      "ADV": 8,
+      "PRON": 6,
+      "ADP": 9,
+      "CCONJ": 2,
+      "SCONJ": 3,
+      "INTJ": 0,
+      "PART": 1,
+      "DET": 4,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.282,
+      "VERB": 0.129,
+      "ADJ": 0.141,
+      "ADV": 0.094,
+      "PRON": 0.071,
+      "ADP": 0.106,
+      "CCONJ": 0.024,
+      "SCONJ": 0.035,
+      "INTJ": 0,
+      "PART": 0.012,
+      "DET": 0.047,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 3,
+      "abstract": 1,
+      "ratio": 0.75
+    },
+    "verbTenses": {
+      "present": 3,
+      "future": 6,
+      "infinitive": 3,
+      "past": 1
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 3,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 1,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 0,
+      "opisowe": 12
+    },
+    "adverbs": {
+      "temporalne": [
+        "potem",
+        "zaraz"
+      ],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "kiedy",
+          "count": 2
+        },
+        {
+          "word": "dokąd",
+          "count": 1
+        },
+        {
+          "word": "zaraz",
+          "count": 1
+        },
+        {
+          "word": "jawnie",
+          "count": 1
+        },
+        {
+          "word": "naraz",
+          "count": 1
+        },
+        {
+          "word": "potem",
+          "count": 1
+        },
+        {
+          "word": "daremnie",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 1,
+      "ty": 0,
+      "on_ona": 2,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 0,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 0,
+      "percentSentences": 0
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 42.5,
+      "median": 42,
+      "min": 35,
+      "max": 50,
+      "distribution": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 6.5,
+      "meanSyllables": 16.2,
+      "distribution": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        4,
+        4,
+        3
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 2,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 0,
+      "noSubject": 0,
+      "noPredicate": 0,
+      "percent": 0
+    },
+    "enjambement": {
+      "count": 10,
+      "percent": 0.83,
+      "positions": [
+        1,
+        2,
+        4,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    "wordOrder": {
+      "svo": 1,
+      "inversions": 1,
+      "other": 0,
+      "deviationPercent": 0.5
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 206,
+      "consonants": 270,
+      "ratio": 0.76
+    },
+    "consonantClusters": {
+      "count": 15,
+      "top": [
+        {
+          "cluster": "prz",
+          "count": 3
+        },
+        {
+          "cluster": "wdz",
+          "count": 1
+        },
+        {
+          "cluster": "brz",
+          "count": 1
+        },
+        {
+          "cluster": "lsk",
+          "count": 1
+        },
+        {
+          "cluster": "dpł",
+          "count": 1
+        },
+        {
+          "cluster": "krz",
+          "count": 1
+        },
+        {
+          "cluster": "czn",
+          "count": 1
+        },
+        {
+          "cluster": "mgł",
+          "count": 1
+        },
+        {
+          "cluster": "jsz",
+          "count": 1
+        },
+        {
+          "cluster": "bsz",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 22,
+      "syczace": 38,
+      "nosowe": 56,
+      "plynne": 35
+    },
+    "rhymes": {
+      "exact": 0,
+      "approximate": 0,
+      "internal": 1,
+      "assonance": 0,
+      "alliteration": 0
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        13
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 210,
+      "estimatedSeconds": 70,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "regularny",
+      "regularityScore": 0.94
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Biblia",
+          "reference": "ołtarz, kaplica, ambona",
+          "evidence": "zobaczą wychodzącą z niebieskiego oparu mgły tytoniowej gestem najszybszej dłoni wszystkie naraz zakrywającą obiektywy agentów pobożnej informacji"
+        },
+        {
+          "source": "mitologia",
+          "reference": "bogini miłości wyłaniająca się z morza",
+          "evidence": "i woda snu przybiera wierzę że mi opowie Polskę dokąd odpłynie zaraz przez senne morze"
+        },
+        {
+          "source": "Rimbaud",
+          "reference": "wizjonerska poetyka, bateau ivre",
+          "evidence": "odpłynie zaraz przez senne morze by się Polakom jawnie zwidywać"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.8,
+        "baudelaire": 0.6,
+        "bursa": 0.3,
+        "stachura": 0.4,
+        "grochowiak": 0.5,
+        "bialoszewski": 0.2,
+        "rozewicz": 0.3
+      }
+    },
+    "space": {
+      "type": "otwarta",
+      "evidence": "plaża, morze, Polska - przestrzenie rozległe i nieograniczone",
+      "openClosedRatio": 0.8
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "nieokreslona",
+      "evidence": "sen i wizja przekraczają konkretny czas"
+    },
+    "motion": {
+      "movement": 8,
+      "stillness": 3,
+      "dynamism": 0.7,
+      "evidence": "odpłynie, wychodzącą, najszybszej dłoni, zakrywającą - dynamika ruchu i transformacji"
+    },
+    "imageryDensity": {
+      "metaphors": 6,
+      "comparisons": 2,
+      "personifications": 3,
+      "hyperboles": 2,
+      "per100words": 15.7
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.7,
+      "creationLevel": 0.8,
+      "ironicDistance": 0.4,
+      "autobiographicSignals": [
+        "moja naga",
+        "wierzę że mi opowie",
+        "JAK DOWIEM SIĘ JEJ PRAWDZIWEGO IMIENIA"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "tęsknota",
+      "secondary": "melancholia",
+      "intensity": 0.8
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "podmiot liryczny używa formy pierwszej osoby: 'dowiem się', 'wierzę że mi opowie', 'moja naga'"
+    },
+    "addressee": {
+      "type": "siebie",
+      "evidence": "tytuł w formie pytania retorycznego skierowanego do siebie, refleksja wewnętrzna o nieznanej kobiecie"
+    },
+    "metaphors": [
+      {
+        "source": "woda snu",
+        "target": "stan między snem a jawą",
+        "example": "woda snu przybiera"
+      },
+      {
+        "source": "senne morze",
+        "target": "przestrzeń oniryczna",
+        "example": "odpłynie zaraz przez senne morze"
+      },
+      {
+        "source": "niebieski opar",
+        "target": "tajemniczość/eteryczność",
+        "example": "wychodzącą z niebieskiego oparu"
+      },
+      {
+        "source": "ciemnie",
+        "target": "pokoje do wywoływania zdjęć/ukryte miejsca",
+        "example": "w swych ciemniach daremnie będą chcieli wywołać"
+      }
+    ],
+    "temperature": {
+      "value": 0.3,
+      "label": "chłodne marzenie"
+    },
+    "senses": {
+      "wzrok": 5,
+      "sluch": 2,
+      "dotyk": 3,
+      "smak": 1,
+      "zapach": 2
+    },
+    "autodestruction": {
+      "level": 0.2,
+      "signals": [
+        "fantazje o utracie kontroli",
+        "obsesyjne myślenie o niedostępnej osobie"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 0.186,
+    "dfaAlpha": 2.002,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -1.2220423276338725
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -0.6459979593974756
+      }
+    ],
+    "seriesLength": 12,
+    "series": [
+      7,
+      8,
+      7,
+      7,
+      8,
+      6,
+      6,
+      5,
+      6,
+      4,
+      7,
+      8
+    ]
+  }
+}

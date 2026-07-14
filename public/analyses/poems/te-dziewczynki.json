@@ -1,0 +1,749 @@
+{
+  "id": "te-dziewczynki",
+  "title": "Te dziewczynki",
+  "wordCount": 57,
+  "lineCount": 8,
+  "uniqueWords": 46,
+  "vocabularyRichness": 0.807,
+  "avgWordsPerLine": 7.13,
+  "wordsPerLineDistribution": [
+    7,
+    8,
+    10,
+    4,
+    7,
+    11,
+    5,
+    5
+  ],
+  "wordFrequencies": [
+    [
+      "dziewczynki",
+      2
+    ],
+    [
+      "sukienkach",
+      1
+    ],
+    [
+      "pierwszej",
+      1
+    ],
+    [
+      "komunii",
+      1
+    ],
+    [
+      "żyją",
+      1
+    ],
+    [
+      "lękają",
+      1
+    ],
+    [
+      "boga",
+      1
+    ],
+    [
+      "deszczu",
+      1
+    ],
+    [
+      "pada",
+      1
+    ],
+    [
+      "deszcz",
+      1
+    ],
+    [
+      "uganiają",
+      1
+    ],
+    [
+      "gubiąc",
+      1
+    ],
+    [
+      "świec",
+      1
+    ],
+    [
+      "pilnując",
+      1
+    ],
+    [
+      "torebeczek",
+      1
+    ],
+    [
+      "chusteczek",
+      1
+    ],
+    [
+      "podkolanówki",
+      1
+    ],
+    [
+      "takie",
+      1
+    ],
+    [
+      "białe",
+      1
+    ],
+    [
+      "kolana",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 0,
+    "period": 0,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 0,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 4,
+  "negationWords": [
+    "nie"
+  ],
+  "pronounDistribution": {
+    "ja": 0,
+    "ty": 0,
+    "on_ona": 1,
+    "my": 0,
+    "wy": 0,
+    "oni": 1
+  },
+  "semanticFields": {
+    "cialo": 1,
+    "smierc": 0,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [],
+  "firstWord": "te",
+  "lastWord": "opłatek",
+  "avgWordLength": 4.91,
+  "wordLengthDistribution": {
+    "1-3": 22,
+    "10+": 6,
+    "8-9": 5,
+    "6-7": 10,
+    "4-5": 14
+  },
+  "bigrams": [
+    [
+      "pierwszej komunii",
+      1
+    ],
+    [
+      "komunii żyją",
+      1
+    ]
+  ],
+  "poemWords": [
+    "dziewczynki",
+    "sukienkach",
+    "pierwszej",
+    "komunii",
+    "żyją",
+    "lękają",
+    "boga",
+    "deszczu",
+    "pada",
+    "deszcz",
+    "uganiają",
+    "gubiąc",
+    "świec",
+    "pilnując",
+    "torebeczek",
+    "chusteczek",
+    "podkolanówki",
+    "takie",
+    "białe",
+    "kolana",
+    "czyste",
+    "żywe",
+    "boją",
+    "ksiądz",
+    "robił",
+    "ranek",
+    "trucizną",
+    "robactwo",
+    "sycąc",
+    "opłatek"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 16,
+        "VERB": 10,
+        "ADJ": 5,
+        "ADV": 1,
+        "PRON": 5,
+        "ADP": 3,
+        "CCONJ": 6,
+        "SCONJ": 1,
+        "INTJ": 0,
+        "PART": 5,
+        "DET": 2,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.271,
+        "VERB": 0.169,
+        "ADJ": 0.085,
+        "ADV": 0.017,
+        "PRON": 0.085,
+        "ADP": 0.051,
+        "CCONJ": 0.102,
+        "SCONJ": 0.017,
+        "INTJ": 0,
+        "PART": 0.085,
+        "DET": 0.034,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 0,
+        "abstract": 0,
+        "ratio": 0
+      },
+      "verbTenses": {
+        "present": 11,
+        "past": 1
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 2,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 1,
+        "oceniajace": 0,
+        "opisowe": 4
+      },
+      "adverbs": {
+        "temporalne": [
+          "wciąż"
+        ],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "wciąż",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 0,
+        "ty": 0,
+        "on_ona": 0,
+        "my": 0,
+        "wy": 0,
+        "oni": 1
+      },
+      "negations": {
+        "nie": 4,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 4,
+        "percentSentences": 0.8
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 130,
+        "consonants": 163,
+        "ratio": 0.8
+      },
+      "consonantClusters": {
+        "count": 8,
+        "top": [
+          {
+            "cluster": "wcz",
+            "count": 3
+          },
+          {
+            "cluster": "szcz",
+            "count": 3
+          },
+          {
+            "cluster": "rwsz",
+            "count": 1
+          },
+          {
+            "cluster": "ctw",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 16,
+        "syczace": 27,
+        "nosowe": 34,
+        "plynne": 14
+      },
+      "rhymes": {
+        "exact": 0,
+        "approximate": 3,
+        "internal": 1,
+        "assonance": 0,
+        "alliteration": 2
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 11.8,
+        "median": 10,
+        "min": 2,
+        "max": 22,
+        "distribution": [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          2,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 6.6,
+        "meanSyllables": 14.6,
+        "distribution": [
+          0,
+          0,
+          1,
+          0,
+          1,
+          2,
+          0,
+          2,
+          1,
+          0,
+          1,
+          1
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 5,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 1,
+        "noSubject": 1,
+        "noPredicate": 0,
+        "percent": 0.4
+      },
+      "enjambement": {
+        "count": 1,
+        "percent": 0.12,
+        "positions": [
+          6
+        ]
+      },
+      "wordOrder": {
+        "svo": 1,
+        "inversions": 2,
+        "other": 2,
+        "deviationPercent": 0.8
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 0,
+        "śmierć": 0,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 131,
+      "estimatedSeconds": 44,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 16,
+      "VERB": 10,
+      "ADJ": 5,
+      "ADV": 1,
+      "PRON": 5,
+      "ADP": 3,
+      "CCONJ": 6,
+      "SCONJ": 1,
+      "INTJ": 0,
+      "PART": 5,
+      "DET": 2,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.271,
+      "VERB": 0.169,
+      "ADJ": 0.085,
+      "ADV": 0.017,
+      "PRON": 0.085,
+      "ADP": 0.051,
+      "CCONJ": 0.102,
+      "SCONJ": 0.017,
+      "INTJ": 0,
+      "PART": 0.085,
+      "DET": 0.034,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 0,
+      "abstract": 0,
+      "ratio": 0
+    },
+    "verbTenses": {
+      "present": 11,
+      "past": 1
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 2,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 1,
+      "oceniajace": 0,
+      "opisowe": 4
+    },
+    "adverbs": {
+      "temporalne": [
+        "wciąż"
+      ],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "wciąż",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 0,
+      "ty": 0,
+      "on_ona": 0,
+      "my": 0,
+      "wy": 0,
+      "oni": 1
+    },
+    "negations": {
+      "nie": 4,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 4,
+      "percentSentences": 0.8
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 11.8,
+      "median": 10,
+      "min": 2,
+      "max": 22,
+      "distribution": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 6.6,
+      "meanSyllables": 14.6,
+      "distribution": [
+        0,
+        0,
+        1,
+        0,
+        1,
+        2,
+        0,
+        2,
+        1,
+        0,
+        1,
+        1
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 5,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 1,
+      "noSubject": 1,
+      "noPredicate": 0,
+      "percent": 0.4
+    },
+    "enjambement": {
+      "count": 1,
+      "percent": 0.12,
+      "positions": [
+        6
+      ]
+    },
+    "wordOrder": {
+      "svo": 1,
+      "inversions": 2,
+      "other": 2,
+      "deviationPercent": 0.8
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 130,
+      "consonants": 163,
+      "ratio": 0.8
+    },
+    "consonantClusters": {
+      "count": 8,
+      "top": [
+        {
+          "cluster": "wcz",
+          "count": 3
+        },
+        {
+          "cluster": "szcz",
+          "count": 3
+        },
+        {
+          "cluster": "rwsz",
+          "count": 1
+        },
+        {
+          "cluster": "ctw",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 16,
+      "syczace": 27,
+      "nosowe": 34,
+      "plynne": 14
+    },
+    "rhymes": {
+      "exact": 0,
+      "approximate": 3,
+      "internal": 1,
+      "assonance": 0,
+      "alliteration": 2
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        9
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 131,
+      "estimatedSeconds": 44,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "polregularny",
+      "regularityScore": 0.61
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Biblia",
+          "reference": "pierwsza komunia, opłatek",
+          "evidence": "Te dziewczynki w sukienkach do pierwszej komunii / Trucizną na robactwo sycąc opłatek"
+        },
+        {
+          "source": "Biblia",
+          "reference": "lęk przed Bogiem",
+          "evidence": "Żyją i nie lękają się Boga"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.3,
+        "baudelaire": 0.4,
+        "bursa": 0.1,
+        "stachura": 0.2,
+        "grochowiak": 0.5,
+        "bialoszewski": 0.3,
+        "rozewicz": 0.6
+      }
+    },
+    "space": {
+      "type": "otwarta",
+      "evidence": "uganiają się nie gubiąc świec - przestrzeń pozwalająca na swobodny ruch",
+      "openClosedRatio": 0.7
+    },
+    "timeOfDay": {
+      "period": "rano",
+      "season": "wiosna",
+      "evidence": "5 V 1969 - data majowa, ksiądz robił coś cały ranek"
+    },
+    "motion": {
+      "movement": 7,
+      "stillness": 3,
+      "dynamism": 0.7,
+      "evidence": "uganiają się, pilnując, wciąż są żywe - dynamiczne czasowniki ruchu"
+    },
+    "imageryDensity": {
+      "metaphors": 2,
+      "comparisons": 0,
+      "personifications": 1,
+      "hyperboles": 0,
+      "per100words": 6.8
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.8,
+      "creationLevel": 0.2,
+      "ironicDistance": 0.7,
+      "autobiographicSignals": [
+        "data dzienną 5 V 1969",
+        "konkretna obserwacja ceremonii religijnej",
+        "krytyczny ton wobec księdza"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "ironia",
+      "secondary": "obrzydzenie",
+      "intensity": 0.8
+    },
+    "subjectPresence": {
+      "type": "ukryte",
+      "evidence": "podmiot obserwuje i komentuje ironicznie sytuację dzieci i księdza"
+    },
+    "addressee": {
+      "type": "czytelnik",
+      "evidence": "wiersz ma charakter opowieści skierowanej do odbiorcy, bez bezpośrednich zwrotów"
+    },
+    "metaphors": [
+      {
+        "source": "trucizna na robactwo",
+        "target": "hostia",
+        "example": "Trucizną na robactwo sycąc opłatek"
+      },
+      {
+        "source": "białość",
+        "target": "niewinność",
+        "example": "Podkolanówki ich są takie białe Kolana czyste"
+      }
+    ],
+    "temperature": {
+      "value": 0.7,
+      "label": "ciepłe"
+    },
+    "senses": {
+      "wzrok": 5,
+      "sluch": 1,
+      "dotyk": 2,
+      "smak": 1,
+      "zapach": 0
+    },
+    "autodestruction": {
+      "level": 0.3,
+      "signals": [
+        "krytyka instytucji kościelnej",
+        "podważanie świętości rytuału"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": null,
+    "dfaAlpha": null,
+    "dfaScaling": [],
+    "seriesLength": 8,
+    "series": [
+      7,
+      8,
+      10,
+      4,
+      7,
+      11,
+      5,
+      5
+    ]
+  }
+}

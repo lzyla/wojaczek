@@ -1,0 +1,820 @@
+{
+  "id": "list-spod-celi",
+  "title": "List spod celi",
+  "wordCount": 62,
+  "lineCount": 12,
+  "uniqueWords": 56,
+  "vocabularyRichness": 0.903,
+  "avgWordsPerLine": 5.17,
+  "wordsPerLineDistribution": [
+    5,
+    4,
+    6,
+    7,
+    3,
+    4,
+    4,
+    5,
+    7,
+    6,
+    6,
+    5
+  ],
+  "wordFrequencies": [
+    [
+      "kiedyś",
+      2
+    ],
+    [
+      "figurka",
+      1
+    ],
+    [
+      "ulepiona",
+      1
+    ],
+    [
+      "chleba",
+      1
+    ],
+    [
+      "razowego",
+      1
+    ],
+    [
+      "podbrzusze",
+      1
+    ],
+    [
+      "nazwałem",
+      1
+    ],
+    [
+      "ciebie",
+      1
+    ],
+    [
+      "twe",
+      1
+    ],
+    [
+      "imię",
+      1
+    ],
+    [
+      "puste",
+      1
+    ],
+    [
+      "ulepiłem",
+      1
+    ],
+    [
+      "swoimi",
+      1
+    ],
+    [
+      "palcami",
+      1
+    ],
+    [
+      "ostrzem",
+      1
+    ],
+    [
+      "drzazgi",
+      1
+    ],
+    [
+      "zaznaczyłem",
+      1
+    ],
+    [
+      "pępek",
+      1
+    ],
+    [
+      "postawiłem",
+      1
+    ],
+    [
+      "parapecie",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 7,
+    "period": 6,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 0,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 1,
+  "negationWords": [
+    "nie"
+  ],
+  "pronounDistribution": {
+    "ja": 2,
+    "ty": 3,
+    "on_ona": 0,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 2,
+    "smierc": 0,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [
+    [
+      "jest",
+      2
+    ]
+  ],
+  "firstWord": "jest",
+  "lastWord": "gliną",
+  "avgWordLength": 5.02,
+  "wordLengthDistribution": {
+    "4-5": 19,
+    "6-7": 17,
+    "8-9": 5,
+    "1-3": 18,
+    "10+": 3
+  },
+  "bigrams": [
+    [
+      "figurka ulepiona",
+      1
+    ],
+    [
+      "chleba razowego",
+      1
+    ],
+    [
+      "twoje podbrzusze",
+      1
+    ],
+    [
+      "kiedyś ciebie",
+      1
+    ]
+  ],
+  "poemWords": [
+    "figurka",
+    "ulepiona",
+    "chleba",
+    "razowego",
+    "podbrzusze",
+    "nazwałem",
+    "kiedyś",
+    "ciebie",
+    "twe",
+    "imię",
+    "puste",
+    "ulepiłem",
+    "swoimi",
+    "palcami",
+    "ostrzem",
+    "drzazgi",
+    "zaznaczyłem",
+    "pępek",
+    "postawiłem",
+    "parapecie",
+    "świata",
+    "świeci",
+    "kratami",
+    "patrzę",
+    "sucha",
+    "widzę",
+    "grudzie",
+    "szpary",
+    "leczę",
+    "śliną",
+    "język",
+    "suche",
+    "usta",
+    "były",
+    "równie",
+    "chłonną",
+    "gliną"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 19,
+        "VERB": 8,
+        "ADJ": 7,
+        "ADV": 4,
+        "PRON": 5,
+        "ADP": 5,
+        "CCONJ": 1,
+        "SCONJ": 3,
+        "INTJ": 0,
+        "PART": 3,
+        "DET": 6,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.288,
+        "VERB": 0.121,
+        "ADJ": 0.106,
+        "ADV": 0.061,
+        "PRON": 0.076,
+        "ADP": 0.076,
+        "CCONJ": 0.015,
+        "SCONJ": 0.045,
+        "INTJ": 0,
+        "PART": 0.045,
+        "DET": 0.091,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 3,
+        "abstract": 0,
+        "ratio": 1
+      },
+      "verbTenses": {
+        "present": 6,
+        "past": 6
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 1,
+        "stan": 4,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 2,
+        "oceniajace": 0,
+        "opisowe": 5
+      },
+      "adverbs": {
+        "temporalne": [
+          "kiedyś",
+          "teraz"
+        ],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "kiedyś",
+            "count": 2
+          },
+          {
+            "word": "teraz",
+            "count": 1
+          },
+          {
+            "word": "równie",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 1,
+        "ty": 1,
+        "on_ona": 3,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 1,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 1,
+        "percentSentences": 0.14
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 137,
+        "consonants": 186,
+        "ratio": 0.74
+      },
+      "consonantClusters": {
+        "count": 7,
+        "top": [
+          {
+            "cluster": "chl",
+            "count": 1
+          },
+          {
+            "cluster": "dbrz",
+            "count": 1
+          },
+          {
+            "cluster": "strz",
+            "count": 1
+          },
+          {
+            "cluster": "drz",
+            "count": 1
+          },
+          {
+            "cluster": "trz",
+            "count": 1
+          },
+          {
+            "cluster": "szp",
+            "count": 1
+          },
+          {
+            "cluster": "chł",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 10,
+        "syczace": 34,
+        "nosowe": 35,
+        "plynne": 29
+      },
+      "rhymes": {
+        "exact": 2,
+        "approximate": 1,
+        "internal": 0,
+        "assonance": 0,
+        "alliteration": 0
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 9.4,
+        "median": 11,
+        "min": 1,
+        "max": 16,
+        "distribution": [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 4.7,
+        "meanSyllables": 10,
+        "distribution": [
+          0,
+          1,
+          0,
+          2,
+          3,
+          3,
+          3,
+          2
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 7,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 1,
+        "noSubject": 2,
+        "noPredicate": 0,
+        "percent": 0.43
+      },
+      "enjambement": {
+        "count": 3,
+        "percent": 0.23,
+        "positions": [
+          2,
+          8,
+          12
+        ]
+      },
+      "wordOrder": {
+        "svo": 0,
+        "inversions": 2,
+        "other": 4,
+        "deviationPercent": 1
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 3,
+        "śmierć": 0,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 140,
+      "estimatedSeconds": 47,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 19,
+      "VERB": 8,
+      "ADJ": 7,
+      "ADV": 4,
+      "PRON": 5,
+      "ADP": 5,
+      "CCONJ": 1,
+      "SCONJ": 3,
+      "INTJ": 0,
+      "PART": 3,
+      "DET": 6,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.288,
+      "VERB": 0.121,
+      "ADJ": 0.106,
+      "ADV": 0.061,
+      "PRON": 0.076,
+      "ADP": 0.076,
+      "CCONJ": 0.015,
+      "SCONJ": 0.045,
+      "INTJ": 0,
+      "PART": 0.045,
+      "DET": 0.091,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 3,
+      "abstract": 0,
+      "ratio": 1
+    },
+    "verbTenses": {
+      "present": 6,
+      "past": 6
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 1,
+      "stan": 4,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 2,
+      "oceniajace": 0,
+      "opisowe": 5
+    },
+    "adverbs": {
+      "temporalne": [
+        "kiedyś",
+        "teraz"
+      ],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "kiedyś",
+          "count": 2
+        },
+        {
+          "word": "teraz",
+          "count": 1
+        },
+        {
+          "word": "równie",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 1,
+      "ty": 1,
+      "on_ona": 3,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 1,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 1,
+      "percentSentences": 0.14
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 9.4,
+      "median": 11,
+      "min": 1,
+      "max": 16,
+      "distribution": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 4.7,
+      "meanSyllables": 10,
+      "distribution": [
+        0,
+        1,
+        0,
+        2,
+        3,
+        3,
+        3,
+        2
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 7,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 1,
+      "noSubject": 2,
+      "noPredicate": 0,
+      "percent": 0.43
+    },
+    "enjambement": {
+      "count": 3,
+      "percent": 0.23,
+      "positions": [
+        2,
+        8,
+        12
+      ]
+    },
+    "wordOrder": {
+      "svo": 0,
+      "inversions": 2,
+      "other": 4,
+      "deviationPercent": 1
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 137,
+      "consonants": 186,
+      "ratio": 0.74
+    },
+    "consonantClusters": {
+      "count": 7,
+      "top": [
+        {
+          "cluster": "chl",
+          "count": 1
+        },
+        {
+          "cluster": "dbrz",
+          "count": 1
+        },
+        {
+          "cluster": "strz",
+          "count": 1
+        },
+        {
+          "cluster": "drz",
+          "count": 1
+        },
+        {
+          "cluster": "trz",
+          "count": 1
+        },
+        {
+          "cluster": "szp",
+          "count": 1
+        },
+        {
+          "cluster": "chł",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 10,
+      "syczace": 34,
+      "nosowe": 35,
+      "plynne": 29
+    },
+    "rhymes": {
+      "exact": 2,
+      "approximate": 1,
+      "internal": 0,
+      "assonance": 0,
+      "alliteration": 0
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        14
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 140,
+      "estimatedSeconds": 47,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "polregularny",
+      "regularityScore": 0.66
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Biblia",
+          "reference": "stworzenie człowieka z gliny",
+          "evidence": "Ulepiłem swoimi palcami / Jest mój język, Twoje suche usta / kiedyś były równie chłonną gliną"
+        },
+        {
+          "source": "Biblia",
+          "reference": "Pismo Święte jako pokarm duchowy",
+          "evidence": "figurka ulepiona z chleba / razowego"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.2,
+        "baudelaire": 0.3,
+        "bursa": 0.1,
+        "stachura": 0.2,
+        "grochowiak": 0.4,
+        "bialoszewski": 0.1,
+        "rozewicz": 0.3
+      }
+    },
+    "space": {
+      "type": "zamknieta",
+      "evidence": "świata, który świeci za kratami / LIST SPOD CELI",
+      "openClosedRatio": 0.1
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "nieokreslona",
+      "evidence": "brak konkretnych wskazówek temporalnych"
+    },
+    "motion": {
+      "movement": 2,
+      "stillness": 8,
+      "dynamism": 0.2,
+      "evidence": "postawiłem ją na parapecie / Teraz patrzę na nią / statyczna scena kontemplacji figurki"
+    },
+    "imageryDensity": {
+      "metaphors": 4,
+      "comparisons": 2,
+      "personifications": 2,
+      "hyperboles": 0,
+      "per100words": 12.3
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.9,
+      "creationLevel": 0.8,
+      "ironicDistance": 0.1,
+      "autobiographicSignals": [
+        "LIST SPOD CELI",
+        "nazwałem ją jak kiedyś Ciebie",
+        "Ulepiłem swoimi palcami",
+        "mój język"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "tęsknota",
+      "secondary": "melancholia",
+      "intensity": 0.8
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "Ulepiłem swoimi palcami, nazwałem ją, Teraz patrzę na nią"
+    },
+    "addressee": {
+      "type": "ty",
+      "evidence": "jak Twoje podbrzusze, nazwałem ją jak kiedyś Ciebie, Twe imię, Twoje suche usta"
+    },
+    "metaphors": [
+      {
+        "source": "figurka z chleba",
+        "target": "ukochana osoba",
+        "example": "figurka ulepiona z chleba razowego jak Twoje podbrzusze"
+      },
+      {
+        "source": "glina",
+        "target": "ciało/usta",
+        "example": "Twoje suche usta kiedyś były równie chłonną gliną"
+      },
+      {
+        "source": "świat za kratami",
+        "target": "więzienie/izolacja",
+        "example": "świata, który świeci za kratami"
+      }
+    ],
+    "temperature": {
+      "value": 0.3,
+      "label": "chłodne z nutą ciepła w dotyku"
+    },
+    "senses": {
+      "wzrok": 4,
+      "sluch": 0,
+      "dotyk": 5,
+      "smak": 2,
+      "zapach": 1
+    },
+    "autodestruction": {
+      "level": 0.6,
+      "signals": [
+        "świat za kratami",
+        "suche usta",
+        "leczę śliną",
+        "szpary w grudzie"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 1.695,
+    "dfaAlpha": 0.723,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -1.039720770839918
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -0.8316355228435395
+      }
+    ],
+    "seriesLength": 12,
+    "series": [
+      5,
+      4,
+      6,
+      7,
+      3,
+      4,
+      4,
+      5,
+      7,
+      6,
+      6,
+      5
+    ]
+  }
+}

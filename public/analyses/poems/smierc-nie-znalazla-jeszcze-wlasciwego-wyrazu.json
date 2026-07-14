@@ -1,0 +1,620 @@
+{
+  "id": "smierc-nie-znalazla-jeszcze-wlasciwego-wyrazu",
+  "title": "Śmierć nie znalazła jeszcze właściwego wyrazu",
+  "wordCount": 15,
+  "lineCount": 4,
+  "uniqueWords": 15,
+  "vocabularyRichness": 1,
+  "avgWordsPerLine": 3.75,
+  "wordsPerLineDistribution": [
+    4,
+    2,
+    5,
+    4
+  ],
+  "wordFrequencies": [
+    [
+      "śmierć",
+      1
+    ],
+    [
+      "znalazła",
+      1
+    ],
+    [
+      "właściwego",
+      1
+    ],
+    [
+      "wyrazu",
+      1
+    ],
+    [
+      "pierwszy",
+      1
+    ],
+    [
+      "śnieg",
+      1
+    ],
+    [
+      "pada",
+      1
+    ],
+    [
+      "włosy",
+      1
+    ],
+    [
+      "rosną",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 0,
+    "period": 0,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 0,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 1,
+  "negationWords": [
+    "nie"
+  ],
+  "pronounDistribution": {
+    "ja": 1,
+    "ty": 0,
+    "on_ona": 0,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 1,
+    "smierc": 1,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [],
+  "firstWord": "śmierć",
+  "lastWord": "rosną",
+  "avgWordLength": 5.4,
+  "wordLengthDistribution": {
+    "6-7": 3,
+    "1-3": 3,
+    "8-9": 2,
+    "10+": 1,
+    "4-5": 6
+  },
+  "bigrams": [
+    [
+      "właściwego wyrazu",
+      1
+    ],
+    [
+      "wyrazu choć",
+      1
+    ],
+    [
+      "choć pierwszy",
+      1
+    ],
+    [
+      "pierwszy śnieg",
+      1
+    ],
+    [
+      "pada włosy",
+      1
+    ],
+    [
+      "włosy wciąż",
+      1
+    ]
+  ],
+  "poemWords": [
+    "śmierć",
+    "znalazła",
+    "właściwego",
+    "wyrazu",
+    "pierwszy",
+    "śnieg",
+    "pada",
+    "włosy",
+    "rosną"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 3,
+        "VERB": 4,
+        "ADJ": 2,
+        "ADV": 1,
+        "PRON": 1,
+        "ADP": 0,
+        "CCONJ": 0,
+        "SCONJ": 1,
+        "INTJ": 0,
+        "PART": 3,
+        "DET": 0,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.2,
+        "VERB": 0.267,
+        "ADJ": 0.133,
+        "ADV": 0.067,
+        "PRON": 0.067,
+        "ADP": 0,
+        "CCONJ": 0,
+        "SCONJ": 0.067,
+        "INTJ": 0,
+        "PART": 0.2,
+        "DET": 0,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 0,
+        "abstract": 1,
+        "ratio": 0
+      },
+      "verbTenses": {
+        "present": 4
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 0,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 0,
+        "opisowe": 2
+      },
+      "adverbs": {
+        "temporalne": [
+          "wciąż"
+        ],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "wciąż",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 1,
+        "ty": 0,
+        "on_ona": 0,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 1,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 1,
+        "percentSentences": 0.5
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 32,
+        "consonants": 49,
+        "ratio": 0.65
+      },
+      "consonantClusters": {
+        "count": 2,
+        "top": [
+          {
+            "cluster": "szcz",
+            "count": 1
+          },
+          {
+            "cluster": "rwsz",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 5,
+        "syczace": 13,
+        "nosowe": 8,
+        "plynne": 8
+      },
+      "rhymes": {
+        "exact": 0,
+        "approximate": 0,
+        "internal": 0,
+        "assonance": 0,
+        "alliteration": 0
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 7.5,
+        "median": 8,
+        "min": 6,
+        "max": 9,
+        "distribution": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 3.8,
+        "meanSyllables": 8,
+        "distribution": [
+          0,
+          0,
+          1,
+          0,
+          2,
+          1
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 2,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 0,
+        "noSubject": 0,
+        "noPredicate": 0,
+        "percent": 0
+      },
+      "enjambement": {
+        "count": 0,
+        "percent": 0,
+        "positions": []
+      },
+      "wordOrder": {
+        "svo": 2,
+        "inversions": 0,
+        "other": 0,
+        "deviationPercent": 0
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 0,
+        "śmierć": 1,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 32,
+      "estimatedSeconds": 11,
+      "tempoCategory": "szybkie"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 3,
+      "VERB": 4,
+      "ADJ": 2,
+      "ADV": 1,
+      "PRON": 1,
+      "ADP": 0,
+      "CCONJ": 0,
+      "SCONJ": 1,
+      "INTJ": 0,
+      "PART": 3,
+      "DET": 0,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.2,
+      "VERB": 0.267,
+      "ADJ": 0.133,
+      "ADV": 0.067,
+      "PRON": 0.067,
+      "ADP": 0,
+      "CCONJ": 0,
+      "SCONJ": 0.067,
+      "INTJ": 0,
+      "PART": 0.2,
+      "DET": 0,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 0,
+      "abstract": 1,
+      "ratio": 0
+    },
+    "verbTenses": {
+      "present": 4
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 0,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 0,
+      "opisowe": 2
+    },
+    "adverbs": {
+      "temporalne": [
+        "wciąż"
+      ],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "wciąż",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 1,
+      "ty": 0,
+      "on_ona": 0,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 1,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 1,
+      "percentSentences": 0.5
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 7.5,
+      "median": 8,
+      "min": 6,
+      "max": 9,
+      "distribution": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 3.8,
+      "meanSyllables": 8,
+      "distribution": [
+        0,
+        0,
+        1,
+        0,
+        2,
+        1
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 2,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 0,
+      "noSubject": 0,
+      "noPredicate": 0,
+      "percent": 0
+    },
+    "enjambement": {
+      "count": 0,
+      "percent": 0,
+      "positions": []
+    },
+    "wordOrder": {
+      "svo": 2,
+      "inversions": 0,
+      "other": 0,
+      "deviationPercent": 0
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 32,
+      "consonants": 49,
+      "ratio": 0.65
+    },
+    "consonantClusters": {
+      "count": 2,
+      "top": [
+        {
+          "cluster": "szcz",
+          "count": 1
+        },
+        {
+          "cluster": "rwsz",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 5,
+      "syczace": 13,
+      "nosowe": 8,
+      "plynne": 8
+    },
+    "rhymes": {
+      "exact": 0,
+      "approximate": 0,
+      "internal": 0,
+      "assonance": 0,
+      "alliteration": 0
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        4
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 32,
+      "estimatedSeconds": 11,
+      "tempoCategory": "szybkie"
+    },
+    "regularity": {
+      "type": "regularny",
+      "regularityScore": 0.86
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "inne",
+          "reference": "tradycja poetycka śmierci",
+          "evidence": "Śmierć jako podmiot poetycki - nawiązanie do klasycznej personifikacji śmierci w poezji"
+        },
+        {
+          "source": "inne",
+          "reference": "topos memento mori",
+          "evidence": "Zestawienie śmierci z oznakami życia (rosnące włosy)"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.3,
+        "baudelaire": 0.4,
+        "bursa": 0.7,
+        "stachura": 0.8,
+        "grochowiak": 0.6,
+        "bialoszewski": 0.5,
+        "rozewicz": 0.9
+      }
+    },
+    "space": {
+      "type": "nieokreslona",
+      "evidence": "Brak konkretnych wskazań przestrzennych, przestrzeń abstrakcyjna między życiem a śmiercią",
+      "openClosedRatio": 0.5
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "zima",
+      "evidence": "pierwszy śnieg już pada - wyraźne wskazanie na początek zimy"
+    },
+    "motion": {
+      "movement": 3,
+      "stillness": 7,
+      "dynamism": 0.3,
+      "evidence": "Ruch ograniczony do padającego śniegu i rosnących włosów, dominuje statyczność egzystencjalna"
+    },
+    "imageryDensity": {
+      "metaphors": 2,
+      "comparisons": 0,
+      "personifications": 1,
+      "hyperboles": 0,
+      "per100words": 18.75
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.9,
+      "creationLevel": 0.6,
+      "ironicDistance": 0.1,
+      "autobiographicSignals": [
+        "zaimek 'mi' wskazujący na osobiste doświadczenie",
+        "bezpośrednie odniesienie do własnego ciała",
+        "intymny ton wypowiedzi"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "melancholia",
+      "secondary": "rezygnacja",
+      "intensity": 0.7
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "użycie zaimka 'mi' w 'Włosy wciąż mi rosną'"
+    },
+    "addressee": {
+      "type": "nikt",
+      "evidence": "brak bezpośredniego zwrotu do kogokolwiek, wiersz ma charakter konstatacji"
+    },
+    "metaphors": [
+      {
+        "source": "pierwszy śnieg",
+        "target": "nadchodzący kres",
+        "example": "Choć pierwszy śnieg już pada"
+      },
+      {
+        "source": "rosnące włosy",
+        "target": "trwanie życia",
+        "example": "Włosy wciąż mi rosną"
+      }
+    ],
+    "temperature": {
+      "value": 0.3,
+      "label": "chłodne"
+    },
+    "senses": {
+      "wzrok": 4,
+      "sluch": 0,
+      "dotyk": 2,
+      "smak": 0,
+      "zapach": 0
+    },
+    "autodestruction": {
+      "level": 0.4,
+      "signals": [
+        "obsesyjne myślenie o śmierci",
+        "poszukiwanie właściwego wyrazu dla śmierci"
+      ]
+    }
+  }
+}

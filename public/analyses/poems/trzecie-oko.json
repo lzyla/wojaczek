@@ -1,0 +1,729 @@
+{
+  "id": "trzecie-oko",
+  "title": "Trzecie oko",
+  "wordCount": 29,
+  "lineCount": 4,
+  "uniqueWords": 29,
+  "vocabularyRichness": 1,
+  "avgWordsPerLine": 7.25,
+  "wordsPerLineDistribution": [
+    7,
+    8,
+    7,
+    7
+  ],
+  "wordFrequencies": [
+    [
+      "pokoju",
+      1
+    ],
+    [
+      "okno",
+      1
+    ],
+    [
+      "noc",
+      1
+    ],
+    [
+      "zamalowała",
+      1
+    ],
+    [
+      "najmniejszej",
+      1
+    ],
+    [
+      "szpary",
+      1
+    ],
+    [
+      "gwiazdki",
+      1
+    ],
+    [
+      "troje",
+      1
+    ],
+    [
+      "masz",
+      1
+    ],
+    [
+      "oczu",
+      1
+    ],
+    [
+      "jedno",
+      1
+    ],
+    [
+      "widzi",
+      1
+    ],
+    [
+      "nagą",
+      1
+    ],
+    [
+      "przekrwione",
+      1
+    ],
+    [
+      "oko",
+      1
+    ],
+    [
+      "płci",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 0,
+    "period": 0,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 0,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 1,
+  "negationWords": [
+    "nie"
+  ],
+  "pronounDistribution": {
+    "ja": 1,
+    "ty": 1,
+    "on_ona": 0,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 1,
+    "smierc": 0,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 1,
+    "bol": 0
+  },
+  "anaphors": [],
+  "firstWord": "tym",
+  "lastWord": "płci",
+  "avgWordLength": 4.76,
+  "wordLengthDistribution": {
+    "1-3": 10,
+    "6-7": 3,
+    "4-5": 12,
+    "10+": 3,
+    "8-9": 1
+  },
+  "bigrams": [
+    [
+      "okno noc",
+      1
+    ],
+    [
+      "noc zamalowała",
+      1
+    ],
+    [
+      "najmniejszej nawet",
+      1
+    ],
+    [
+      "ma szpary",
+      1
+    ],
+    [
+      "szpary gwiazdki",
+      1
+    ],
+    [
+      "gwiazdki troje",
+      1
+    ]
+  ],
+  "poemWords": [
+    "pokoju",
+    "okno",
+    "noc",
+    "zamalowała",
+    "najmniejszej",
+    "szpary",
+    "gwiazdki",
+    "troje",
+    "masz",
+    "oczu",
+    "jedno",
+    "widzi",
+    "nagą",
+    "przekrwione",
+    "oko",
+    "płci"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 8,
+        "VERB": 4,
+        "ADJ": 4,
+        "ADV": 2,
+        "PRON": 2,
+        "ADP": 2,
+        "CCONJ": 1,
+        "SCONJ": 1,
+        "INTJ": 0,
+        "PART": 3,
+        "DET": 2,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.258,
+        "VERB": 0.129,
+        "ADJ": 0.129,
+        "ADV": 0.065,
+        "PRON": 0.065,
+        "ADP": 0.065,
+        "CCONJ": 0.032,
+        "SCONJ": 0.032,
+        "INTJ": 0,
+        "PART": 0.097,
+        "DET": 0.065,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 2,
+        "abstract": 0,
+        "ratio": 1
+      },
+      "verbTenses": {
+        "past": 1,
+        "present": 3
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 1,
+        "stan": 0,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 0,
+        "opisowe": 4
+      },
+      "adverbs": {
+        "temporalne": [],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "gdzie",
+            "count": 1
+          },
+          {
+            "word": "tak",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 1,
+        "ty": 0,
+        "on_ona": 0,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 1,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 1,
+        "percentSentences": 0.33
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 62,
+        "consonants": 86,
+        "ratio": 0.72
+      },
+      "consonantClusters": {
+        "count": 9,
+        "top": [
+          {
+            "cluster": "trz",
+            "count": 1
+          },
+          {
+            "cluster": "gdz",
+            "count": 1
+          },
+          {
+            "cluster": "jmn",
+            "count": 1
+          },
+          {
+            "cluster": "jsz",
+            "count": 1
+          },
+          {
+            "cluster": "szp",
+            "count": 1
+          },
+          {
+            "cluster": "zdk",
+            "count": 1
+          },
+          {
+            "cluster": "prz",
+            "count": 1
+          },
+          {
+            "cluster": "krw",
+            "count": 1
+          },
+          {
+            "cluster": "płc",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 7,
+        "syczace": 5,
+        "nosowe": 17,
+        "plynne": 10
+      },
+      "rhymes": {
+        "exact": 0,
+        "approximate": 0,
+        "internal": 0,
+        "assonance": 0,
+        "alliteration": 1
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 10.3,
+        "median": 11,
+        "min": 9,
+        "max": 11,
+        "distribution": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          2
+        ]
+      },
+      "lineLength": {
+        "meanWords": 6.2,
+        "meanSyllables": 12.6,
+        "distribution": [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          3,
+          1
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 3,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 0,
+        "noSubject": 0,
+        "noPredicate": 0,
+        "percent": 0
+      },
+      "enjambement": {
+        "count": 0,
+        "percent": 0,
+        "positions": []
+      },
+      "wordOrder": {
+        "svo": 2,
+        "inversions": 1,
+        "other": 0,
+        "deviationPercent": 0.33
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 2,
+        "śmierć": 0,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 1,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 63,
+      "estimatedSeconds": 21,
+      "tempoCategory": "umiarkowane"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 8,
+      "VERB": 4,
+      "ADJ": 4,
+      "ADV": 2,
+      "PRON": 2,
+      "ADP": 2,
+      "CCONJ": 1,
+      "SCONJ": 1,
+      "INTJ": 0,
+      "PART": 3,
+      "DET": 2,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.258,
+      "VERB": 0.129,
+      "ADJ": 0.129,
+      "ADV": 0.065,
+      "PRON": 0.065,
+      "ADP": 0.065,
+      "CCONJ": 0.032,
+      "SCONJ": 0.032,
+      "INTJ": 0,
+      "PART": 0.097,
+      "DET": 0.065,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 2,
+      "abstract": 0,
+      "ratio": 1
+    },
+    "verbTenses": {
+      "past": 1,
+      "present": 3
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 1,
+      "stan": 0,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 0,
+      "opisowe": 4
+    },
+    "adverbs": {
+      "temporalne": [],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "gdzie",
+          "count": 1
+        },
+        {
+          "word": "tak",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 1,
+      "ty": 0,
+      "on_ona": 0,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 1,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 1,
+      "percentSentences": 0.33
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 10.3,
+      "median": 11,
+      "min": 9,
+      "max": 11,
+      "distribution": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        2
+      ]
+    },
+    "lineLength": {
+      "meanWords": 6.2,
+      "meanSyllables": 12.6,
+      "distribution": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        3,
+        1
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 3,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 0,
+      "noSubject": 0,
+      "noPredicate": 0,
+      "percent": 0
+    },
+    "enjambement": {
+      "count": 0,
+      "percent": 0,
+      "positions": []
+    },
+    "wordOrder": {
+      "svo": 2,
+      "inversions": 1,
+      "other": 0,
+      "deviationPercent": 0.33
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 62,
+      "consonants": 86,
+      "ratio": 0.72
+    },
+    "consonantClusters": {
+      "count": 9,
+      "top": [
+        {
+          "cluster": "trz",
+          "count": 1
+        },
+        {
+          "cluster": "gdz",
+          "count": 1
+        },
+        {
+          "cluster": "jmn",
+          "count": 1
+        },
+        {
+          "cluster": "jsz",
+          "count": 1
+        },
+        {
+          "cluster": "szp",
+          "count": 1
+        },
+        {
+          "cluster": "zdk",
+          "count": 1
+        },
+        {
+          "cluster": "prz",
+          "count": 1
+        },
+        {
+          "cluster": "krw",
+          "count": 1
+        },
+        {
+          "cluster": "płc",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 7,
+      "syczace": 5,
+      "nosowe": 17,
+      "plynne": 10
+    },
+    "rhymes": {
+      "exact": 0,
+      "approximate": 0,
+      "internal": 0,
+      "assonance": 0,
+      "alliteration": 1
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        5
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 63,
+      "estimatedSeconds": 21,
+      "tempoCategory": "umiarkowane"
+    },
+    "regularity": {
+      "type": "polregularny",
+      "regularityScore": 0.65
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "mitologia",
+          "reference": "trzecie oko - motyw mistyczny/ezoteryczny",
+          "evidence": "Trzecie oko w tytule - nawiązanie do duchowej percepcji"
+        },
+        {
+          "source": "Baudelaire",
+          "reference": "erotyka i transgresja",
+          "evidence": "nagość i 'oko płci' - baudelairowska łączenie cielesności z percepcją"
+        }
+      ],
+      "selfQuotes": [
+        "motyw nagości",
+        "obrazowanie ciała i zmysłów"
+      ],
+      "influences": {
+        "rimbaud": 0.3,
+        "baudelaire": 0.7,
+        "bursa": 0.2,
+        "stachura": 0.4,
+        "grochowiak": 0.6,
+        "bialoszewski": 0.1,
+        "rozewicz": 0.2
+      }
+    },
+    "space": {
+      "type": "zamknieta",
+      "evidence": "pokój z zamalowanym oknem, brak szpary gwiazdki - całkowite zamknięcie",
+      "openClosedRatio": 0.1
+    },
+    "timeOfDay": {
+      "period": "noc",
+      "season": "nieokreslona",
+      "evidence": "okno noc zamalowała - wyraźne wskazanie na porę nocną"
+    },
+    "motion": {
+      "movement": 2,
+      "stillness": 8,
+      "dynamism": 0.2,
+      "evidence": "statyczna scena w pokoju, brak czasowników ruchu"
+    },
+    "imageryDensity": {
+      "metaphors": 3,
+      "comparisons": 0,
+      "personifications": 1,
+      "hyperboles": 1,
+      "per100words": 125
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.8,
+      "creationLevel": 0.7,
+      "ironicDistance": 0.2,
+      "autobiographicSignals": [
+        "bezpośrednie zwracanie się do 'Ty'",
+        "intymna scena nagości",
+        "osobiste doświadczenie erotyczne"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "pożądanie",
+      "secondary": "czułość",
+      "intensity": 0.8
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "użycie zaimka 'mnie nagą' wskazuje na wyraźną obecność podmiotu lirycznego"
+    },
+    "addressee": {
+      "type": "ty",
+      "evidence": "bezpośrednie zwroty 'Troje masz oczu', 'Twojej płci'"
+    },
+    "metaphors": [
+      {
+        "source": "oko",
+        "target": "organ płciowy",
+        "example": "To przekrwione oko Twojej płci"
+      },
+      {
+        "source": "noc",
+        "target": "farba",
+        "example": "okno noc zamalowała"
+      }
+    ],
+    "temperature": {
+      "value": 0.9,
+      "label": "gorące - erotyczna namiętność"
+    },
+    "senses": {
+      "wzrok": 5,
+      "sluch": 0,
+      "dotyk": 3,
+      "smak": 0,
+      "zapach": 0
+    },
+    "autodestruction": {
+      "level": 0.2,
+      "signals": [
+        "nagość jako forma obnażenia/bezbronności"
+      ]
+    }
+  }
+}

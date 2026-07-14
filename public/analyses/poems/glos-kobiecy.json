@@ -1,0 +1,877 @@
+{
+  "id": "glos-kobiecy",
+  "title": "Głos kobiecy",
+  "wordCount": 71,
+  "lineCount": 12,
+  "uniqueWords": 63,
+  "vocabularyRichness": 0.887,
+  "avgWordsPerLine": 5.92,
+  "wordsPerLineDistribution": [
+    6,
+    6,
+    5,
+    8,
+    8,
+    5,
+    5,
+    5,
+    7,
+    6,
+    5,
+    5
+  ],
+  "wordFrequencies": [
+    [
+      "światło",
+      2
+    ],
+    [
+      "różdżkarzu",
+      1
+    ],
+    [
+      "ślepy",
+      1
+    ],
+    [
+      "niż",
+      1
+    ],
+    [
+      "mieszkające",
+      1
+    ],
+    [
+      "długich",
+      1
+    ],
+    [
+      "włosach",
+      1
+    ],
+    [
+      "żył",
+      1
+    ],
+    [
+      "osobliwe",
+      1
+    ],
+    [
+      "krwi",
+      1
+    ],
+    [
+      "muszę",
+      1
+    ],
+    [
+      "wołać",
+      1
+    ],
+    [
+      "przyjdziesz",
+      1
+    ],
+    [
+      "uda",
+      1
+    ],
+    [
+      "zaskoczyć",
+      1
+    ],
+    [
+      "wcześniej",
+      1
+    ],
+    [
+      "zdąży",
+      1
+    ],
+    [
+      "zapowiedzieć",
+      1
+    ],
+    [
+      "słuch",
+      1
+    ],
+    [
+      "gościniec",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 7,
+    "period": 0,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 4,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 1,
+  "negationWords": [
+    "nie"
+  ],
+  "pronounDistribution": {
+    "ja": 3,
+    "ty": 3,
+    "on_ona": 1,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 0,
+    "smierc": 0,
+    "erotyka": 1,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [],
+  "firstWord": "różdżkarzu",
+  "lastWord": "głosem",
+  "avgWordLength": 5.27,
+  "wordLengthDistribution": {
+    "10+": 7,
+    "4-5": 23,
+    "1-3": 21,
+    "6-7": 14,
+    "8-9": 6
+  },
+  "bigrams": [
+    [
+      "różdżkarzu ślepy",
+      1
+    ],
+    [
+      "światło inne",
+      1
+    ],
+    [
+      "inne niż",
+      1
+    ],
+    [
+      "niż mieszkające",
+      1
+    ],
+    [
+      "długich włosach",
+      1
+    ],
+    [
+      "włosach żył",
+      1
+    ],
+    [
+      "osobliwe światło",
+      1
+    ],
+    [
+      "światło mojej",
+      1
+    ]
+  ],
+  "poemWords": [
+    "różdżkarzu",
+    "ślepy",
+    "światło",
+    "niż",
+    "mieszkające",
+    "długich",
+    "włosach",
+    "żył",
+    "osobliwe",
+    "krwi",
+    "muszę",
+    "wołać",
+    "przyjdziesz",
+    "uda",
+    "zaskoczyć",
+    "wcześniej",
+    "zdąży",
+    "zapowiedzieć",
+    "słuch",
+    "gościniec",
+    "przyniesiesz",
+    "topór",
+    "długo",
+    "ostrzonej",
+    "nagości",
+    "czując",
+    "nagłe",
+    "ostrze",
+    "największym",
+    "strachu",
+    "krzyknę",
+    "kocham",
+    "rzeźniku",
+    "przekonasz",
+    "kobiety",
+    "mówią",
+    "czasem",
+    "ludzkim",
+    "głosem"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 14,
+        "VERB": 15,
+        "ADJ": 10,
+        "ADV": 4,
+        "PRON": 8,
+        "ADP": 4,
+        "CCONJ": 2,
+        "SCONJ": 5,
+        "INTJ": 0,
+        "PART": 5,
+        "DET": 3,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.197,
+        "VERB": 0.211,
+        "ADJ": 0.141,
+        "ADV": 0.056,
+        "PRON": 0.113,
+        "ADP": 0.056,
+        "CCONJ": 0.028,
+        "SCONJ": 0.07,
+        "INTJ": 0,
+        "PART": 0.07,
+        "DET": 0.042,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 1,
+        "abstract": 2,
+        "ratio": 0.33
+      },
+      "verbTenses": {
+        "past": 1,
+        "present": 6,
+        "infinitive": 3,
+        "future": 5
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 1,
+        "stan": 1,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 2,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 0,
+        "opisowe": 10
+      },
+      "adverbs": {
+        "temporalne": [],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "wcześniej",
+            "count": 1
+          },
+          {
+            "word": "długo",
+            "count": 1
+          },
+          {
+            "word": "kiedy",
+            "count": 1
+          },
+          {
+            "word": "wtedy",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 2,
+        "ty": 3,
+        "on_ona": 0,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 1,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 1,
+        "percentSentences": 0.17
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 149,
+        "consonants": 225,
+        "ratio": 0.66
+      },
+      "consonantClusters": {
+        "count": 14,
+        "top": [
+          {
+            "cluster": "prz",
+            "count": 3
+          },
+          {
+            "cluster": "strz",
+            "count": 2
+          },
+          {
+            "cluster": "żdżk",
+            "count": 1
+          },
+          {
+            "cluster": "szk",
+            "count": 1
+          },
+          {
+            "cluster": "krw",
+            "count": 1
+          },
+          {
+            "cluster": "jdz",
+            "count": 1
+          },
+          {
+            "cluster": "wcz",
+            "count": 1
+          },
+          {
+            "cluster": "ksz",
+            "count": 1
+          },
+          {
+            "cluster": "str",
+            "count": 1
+          },
+          {
+            "cluster": "krz",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 26,
+        "syczace": 43,
+        "nosowe": 45,
+        "plynne": 25
+      },
+      "rhymes": {
+        "exact": 0,
+        "approximate": 1,
+        "internal": 1,
+        "assonance": 1,
+        "alliteration": 1
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 11.8,
+        "median": 12,
+        "min": 4,
+        "max": 21,
+        "distribution": [
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 5.9,
+        "meanSyllables": 12.7,
+        "distribution": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          6,
+          3,
+          1,
+          2
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 6,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 2,
+        "noSubject": 2,
+        "noPredicate": 0,
+        "percent": 0.67
+      },
+      "enjambement": {
+        "count": 2,
+        "percent": 0.18,
+        "positions": [
+          4,
+          8
+        ]
+      },
+      "wordOrder": {
+        "svo": 0,
+        "inversions": 2,
+        "other": 4,
+        "deviationPercent": 1
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 0,
+        "śmierć": 0,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 152,
+      "estimatedSeconds": 51,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 14,
+      "VERB": 15,
+      "ADJ": 10,
+      "ADV": 4,
+      "PRON": 8,
+      "ADP": 4,
+      "CCONJ": 2,
+      "SCONJ": 5,
+      "INTJ": 0,
+      "PART": 5,
+      "DET": 3,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.197,
+      "VERB": 0.211,
+      "ADJ": 0.141,
+      "ADV": 0.056,
+      "PRON": 0.113,
+      "ADP": 0.056,
+      "CCONJ": 0.028,
+      "SCONJ": 0.07,
+      "INTJ": 0,
+      "PART": 0.07,
+      "DET": 0.042,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 1,
+      "abstract": 2,
+      "ratio": 0.33
+    },
+    "verbTenses": {
+      "past": 1,
+      "present": 6,
+      "infinitive": 3,
+      "future": 5
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 1,
+      "stan": 1,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 2,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 0,
+      "opisowe": 10
+    },
+    "adverbs": {
+      "temporalne": [],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "wcześniej",
+          "count": 1
+        },
+        {
+          "word": "długo",
+          "count": 1
+        },
+        {
+          "word": "kiedy",
+          "count": 1
+        },
+        {
+          "word": "wtedy",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 2,
+      "ty": 3,
+      "on_ona": 0,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 1,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 1,
+      "percentSentences": 0.17
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 11.8,
+      "median": 12,
+      "min": 4,
+      "max": 21,
+      "distribution": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 5.9,
+      "meanSyllables": 12.7,
+      "distribution": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        6,
+        3,
+        1,
+        2
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 6,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 2,
+      "noSubject": 2,
+      "noPredicate": 0,
+      "percent": 0.67
+    },
+    "enjambement": {
+      "count": 2,
+      "percent": 0.18,
+      "positions": [
+        4,
+        8
+      ]
+    },
+    "wordOrder": {
+      "svo": 0,
+      "inversions": 2,
+      "other": 4,
+      "deviationPercent": 1
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 149,
+      "consonants": 225,
+      "ratio": 0.66
+    },
+    "consonantClusters": {
+      "count": 14,
+      "top": [
+        {
+          "cluster": "prz",
+          "count": 3
+        },
+        {
+          "cluster": "strz",
+          "count": 2
+        },
+        {
+          "cluster": "żdżk",
+          "count": 1
+        },
+        {
+          "cluster": "szk",
+          "count": 1
+        },
+        {
+          "cluster": "krw",
+          "count": 1
+        },
+        {
+          "cluster": "jdz",
+          "count": 1
+        },
+        {
+          "cluster": "wcz",
+          "count": 1
+        },
+        {
+          "cluster": "ksz",
+          "count": 1
+        },
+        {
+          "cluster": "str",
+          "count": 1
+        },
+        {
+          "cluster": "krz",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 26,
+      "syczace": 43,
+      "nosowe": 45,
+      "plynne": 25
+    },
+    "rhymes": {
+      "exact": 0,
+      "approximate": 1,
+      "internal": 1,
+      "assonance": 1,
+      "alliteration": 1
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        12
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 152,
+      "estimatedSeconds": 51,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "regularny",
+      "regularityScore": 0.9
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Biblia",
+          "reference": "Anioł śmierci, wizytacja nadprzyrodzona",
+          "evidence": "Różdżkarzu, ślepy już na światło inne / Nie muszę wołać Cię, bo wiem, że przyjdziesz"
+        },
+        {
+          "source": "Rimbaud",
+          "reference": "Wizjonerstwo, transcendencja przez ból",
+          "evidence": "To osobliwe światło mojej krwi"
+        },
+        {
+          "source": "Baudelaire",
+          "reference": "Eros i Tanatos, miłość i śmierć",
+          "evidence": "W największym strachu krzyknę: Kocham Cię"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.8,
+        "baudelaire": 0.7,
+        "bursa": 0.3,
+        "stachura": 0.4,
+        "grochowiak": 0.6,
+        "bialoszewski": 0.1,
+        "rozewicz": 0.2
+      }
+    },
+    "space": {
+      "type": "nieokreslona",
+      "evidence": "Przestrzeń wewnętrzna, metafizyczna - 'światło mieszkające w długich włosach żył'",
+      "openClosedRatio": 0.3
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "nieokreslona",
+      "evidence": "Czas pozaczasowy, eschatologiczny - 'znów uda Ci się mnie zaskoczyć'"
+    },
+    "motion": {
+      "movement": 6,
+      "stillness": 4,
+      "dynamism": 0.6,
+      "evidence": "Dynamika oczekiwania i nadejścia - 'przyjdziesz', 'zaskoczyć', 'krzyknę'"
+    },
+    "imageryDensity": {
+      "metaphors": 5,
+      "comparisons": 1,
+      "personifications": 3,
+      "hyperboles": 2,
+      "per100words": 15.7
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.9,
+      "creationLevel": 0.8,
+      "ironicDistance": 0.2,
+      "autobiographicSignals": [
+        "intymne zwracanie się do śmierci",
+        "wyznanie miłosne w obliczu zagłady",
+        "erotyzacja śmierci"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "tęsknota",
+      "secondary": "rozpacz",
+      "intensity": 0.9
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "Podmiot liryczny przemawia w pierwszej osobie: 'mojej krwi', 'mnie zaskoczyć', 'czując w sobie'"
+    },
+    "addressee": {
+      "type": "ty",
+      "evidence": "Bezpośredni zwrot do adresata: 'Różdżkarzu', 'Nie muszę wołać Cię', 'rzeźniku'"
+    },
+    "metaphors": [
+      {
+        "source": "różdżkarz",
+        "target": "kochanek/partner",
+        "example": "Różdżkarzu, ślepy już na światło inne"
+      },
+      {
+        "source": "topór nagości",
+        "target": "męskość/pożądanie",
+        "example": "Topór swej długo ostrzonej nagości"
+      },
+      {
+        "source": "rzeźnik",
+        "target": "kochanek niszczący",
+        "example": "Wtedy, rzeźniku, znów przekonasz się"
+      }
+    ],
+    "temperature": {
+      "value": 0.8,
+      "label": "gorące - namiętność i ból"
+    },
+    "senses": {
+      "wzrok": 5,
+      "sluch": 3,
+      "dotyk": 5,
+      "smak": 1,
+      "zapach": 0
+    },
+    "autodestruction": {
+      "level": 0.8,
+      "signals": [
+        "akceptacja bólu",
+        "oddanie się niszczącemu kochankowi",
+        "strach połączony z miłością",
+        "świadomość krzywdy"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 1.442,
+    "dfaAlpha": -0.403,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -1.0397207708399174
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -1.1555195519286896
+      }
+    ],
+    "seriesLength": 12,
+    "series": [
+      6,
+      6,
+      5,
+      8,
+      8,
+      5,
+      5,
+      5,
+      7,
+      6,
+      5,
+      5
+    ]
+  }
+}

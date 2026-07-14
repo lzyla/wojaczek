@@ -1,0 +1,831 @@
+{
+  "id": "moj-slownik",
+  "title": "Mój słownik",
+  "wordCount": 61,
+  "lineCount": 8,
+  "uniqueWords": 53,
+  "vocabularyRichness": 0.869,
+  "avgWordsPerLine": 7.63,
+  "wordsPerLineDistribution": [
+    7,
+    6,
+    7,
+    10,
+    9,
+    7,
+    7,
+    8
+  ],
+  "wordFrequencies": [
+    [
+      "słowo",
+      2
+    ],
+    [
+      "słownik",
+      1
+    ],
+    [
+      "ubogi",
+      1
+    ],
+    [
+      "nadziei",
+      1
+    ],
+    [
+      "jutro”",
+      1
+    ],
+    [
+      "odmienia",
+      1
+    ],
+    [
+      "jedynie",
+      1
+    ],
+    [
+      "osobę",
+      1
+    ],
+    [
+      "miłości",
+      1
+    ],
+    [
+      "omija",
+      1
+    ],
+    [
+      "język",
+      1
+    ],
+    [
+      "złożyć",
+      1
+    ],
+    [
+      "głosek",
+      1
+    ],
+    [
+      "głodu",
+      1
+    ],
+    [
+      "chce",
+      1
+    ],
+    [
+      "składa",
+      1
+    ],
+    [
+      "późno",
+      1
+    ],
+    [
+      "rozpaczą",
+      1
+    ],
+    [
+      "harda",
+      1
+    ],
+    [
+      "sen",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 5,
+    "period": 2,
+    "question": 1,
+    "exclamation": 1,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 4,
+    "semicolon": 0
+  },
+  "questionCount": 1,
+  "exclamationCount": 1,
+  "negationCount": 2,
+  "negationWords": [
+    "nie"
+  ],
+  "pronounDistribution": {
+    "ja": 3,
+    "ty": 1,
+    "on_ona": 0,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 1,
+    "smierc": 1,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 1,
+    "bol": 0
+  },
+  "anaphors": [
+    [
+      "gdy",
+      2
+    ]
+  ],
+  "firstWord": "mój",
+  "lastWord": "wysłowić",
+  "avgWordLength": 4.79,
+  "wordLengthDistribution": {
+    "1-3": 23,
+    "6-7": 15,
+    "4-5": 16,
+    "8-9": 6,
+    "10+": 1
+  },
+  "bigrams": [
+    [
+      "ubogi słowo",
+      1
+    ],
+    [
+      "słowo nadziei",
+      1
+    ],
+    [
+      "nadziei jutro”",
+      1
+    ],
+    [
+      "jutro” odmienia",
+      1
+    ],
+    [
+      "twoją osobę",
+      1
+    ]
+  ],
+  "poemWords": [
+    "słownik",
+    "ubogi",
+    "słowo",
+    "nadziei",
+    "jutro”",
+    "odmienia",
+    "jedynie",
+    "osobę",
+    "miłości",
+    "omija",
+    "język",
+    "złożyć",
+    "głosek",
+    "głodu",
+    "chce",
+    "składa",
+    "późno",
+    "rozpaczą",
+    "harda",
+    "sen",
+    "opuszczam",
+    "snem",
+    "zębach",
+    "nadzieja",
+    "rozpaczliwa",
+    "każe",
+    "powiedz",
+    "czynić",
+    "pozostaje",
+    "śmierć",
+    "potrafi",
+    "wysłowić"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 16,
+        "VERB": 11,
+        "ADJ": 4,
+        "ADV": 5,
+        "PRON": 5,
+        "ADP": 4,
+        "CCONJ": 2,
+        "SCONJ": 1,
+        "INTJ": 0,
+        "PART": 9,
+        "DET": 4,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.262,
+        "VERB": 0.18,
+        "ADJ": 0.066,
+        "ADV": 0.082,
+        "PRON": 0.082,
+        "ADP": 0.066,
+        "CCONJ": 0.033,
+        "SCONJ": 0.016,
+        "INTJ": 0,
+        "PART": 0.148,
+        "DET": 0.066,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 1,
+        "abstract": 6,
+        "ratio": 0.14
+      },
+      "verbTenses": {
+        "present": 7,
+        "infinitive": 3,
+        "imperative": 1
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 1,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 0,
+        "opisowe": 4
+      },
+      "adverbs": {
+        "temporalne": [],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "gdy",
+            "count": 2
+          },
+          {
+            "word": "jutro",
+            "count": 1
+          },
+          {
+            "word": "późno",
+            "count": 1
+          },
+          {
+            "word": "jak",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 1,
+        "ty": 0,
+        "on_ona": 0,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 2,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 2,
+        "percentSentences": 0.5
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 120,
+        "consonants": 171,
+        "ratio": 0.7
+      },
+      "consonantClusters": {
+        "count": 6,
+        "top": [
+          {
+            "cluster": "szcz",
+            "count": 2
+          },
+          {
+            "cluster": "prz",
+            "count": 1
+          },
+          {
+            "cluster": "chc",
+            "count": 1
+          },
+          {
+            "cluster": "skł",
+            "count": 1
+          },
+          {
+            "cluster": "czl",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 14,
+        "syczace": 36,
+        "nosowe": 31,
+        "plynne": 18
+      },
+      "rhymes": {
+        "exact": 0,
+        "approximate": 0,
+        "internal": 0,
+        "assonance": 0,
+        "alliteration": 0
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 15.2,
+        "median": 12,
+        "min": 4,
+        "max": 33,
+        "distribution": [
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 7.6,
+        "meanSyllables": 15.4,
+        "distribution": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          4,
+          1,
+          1,
+          1
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 2,
+        "interrogative": 1,
+        "imperative": 0,
+        "exclamatory": 1
+      },
+      "ellipsis": {
+        "incomplete": 2,
+        "noSubject": 0,
+        "noPredicate": 0,
+        "percent": 0.5
+      },
+      "enjambement": {
+        "count": 0,
+        "percent": 0,
+        "positions": []
+      },
+      "wordOrder": {
+        "svo": 1,
+        "inversions": 1,
+        "other": 2,
+        "deviationPercent": 0.75
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 1,
+        "śmierć": 1,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 1,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 123,
+      "estimatedSeconds": 41,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 16,
+      "VERB": 11,
+      "ADJ": 4,
+      "ADV": 5,
+      "PRON": 5,
+      "ADP": 4,
+      "CCONJ": 2,
+      "SCONJ": 1,
+      "INTJ": 0,
+      "PART": 9,
+      "DET": 4,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.262,
+      "VERB": 0.18,
+      "ADJ": 0.066,
+      "ADV": 0.082,
+      "PRON": 0.082,
+      "ADP": 0.066,
+      "CCONJ": 0.033,
+      "SCONJ": 0.016,
+      "INTJ": 0,
+      "PART": 0.148,
+      "DET": 0.066,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 1,
+      "abstract": 6,
+      "ratio": 0.14
+    },
+    "verbTenses": {
+      "present": 7,
+      "infinitive": 3,
+      "imperative": 1
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 1,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 0,
+      "opisowe": 4
+    },
+    "adverbs": {
+      "temporalne": [],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "gdy",
+          "count": 2
+        },
+        {
+          "word": "jutro",
+          "count": 1
+        },
+        {
+          "word": "późno",
+          "count": 1
+        },
+        {
+          "word": "jak",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 1,
+      "ty": 0,
+      "on_ona": 0,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 2,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 2,
+      "percentSentences": 0.5
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 15.2,
+      "median": 12,
+      "min": 4,
+      "max": 33,
+      "distribution": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 7.6,
+      "meanSyllables": 15.4,
+      "distribution": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        4,
+        1,
+        1,
+        1
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 2,
+      "interrogative": 1,
+      "imperative": 0,
+      "exclamatory": 1
+    },
+    "ellipsis": {
+      "incomplete": 2,
+      "noSubject": 0,
+      "noPredicate": 0,
+      "percent": 0.5
+    },
+    "enjambement": {
+      "count": 0,
+      "percent": 0,
+      "positions": []
+    },
+    "wordOrder": {
+      "svo": 1,
+      "inversions": 1,
+      "other": 2,
+      "deviationPercent": 0.75
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 120,
+      "consonants": 171,
+      "ratio": 0.7
+    },
+    "consonantClusters": {
+      "count": 6,
+      "top": [
+        {
+          "cluster": "szcz",
+          "count": 2
+        },
+        {
+          "cluster": "prz",
+          "count": 1
+        },
+        {
+          "cluster": "chc",
+          "count": 1
+        },
+        {
+          "cluster": "skł",
+          "count": 1
+        },
+        {
+          "cluster": "czl",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 14,
+      "syczace": 36,
+      "nosowe": 31,
+      "plynne": 18
+    },
+    "rhymes": {
+      "exact": 0,
+      "approximate": 0,
+      "internal": 0,
+      "assonance": 0,
+      "alliteration": 0
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 2,
+      "linesPerStanza": [
+        4,
+        4
+      ],
+      "isRegular": true,
+      "isContinuous": false
+    },
+    "readingTempo": {
+      "syllables": 123,
+      "estimatedSeconds": 41,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "regularny",
+      "regularityScore": 0.94
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Rimbaud",
+          "reference": "Une Saison en Enfer",
+          "evidence": "motyw języka jako narzędzia niemożności ekspresji, rozpacz wobec słowa"
+        },
+        {
+          "source": "Baudelaire",
+          "reference": "Les Fleurs du mal",
+          "evidence": "połączenie miłości i śmierci, melancholia egzystencjalna"
+        },
+        {
+          "source": "Biblia",
+          "reference": "Księga Koheleta",
+          "evidence": "retoryczne pytanie o sens działania wobec marności"
+        }
+      ],
+      "selfQuotes": [
+        "motyw snu jako ucieczki",
+        "problematyka niewyrażalności uczuć"
+      ],
+      "influences": {
+        "rimbaud": 0.8,
+        "baudelaire": 0.7,
+        "bursa": 0.3,
+        "stachura": 0.4,
+        "grochowiak": 0.2,
+        "bialoszewski": 0.1,
+        "rozewicz": 0.3
+      }
+    },
+    "space": {
+      "type": "nieokreslona",
+      "evidence": "brak konkretnych odniesień przestrzennych, przestrzeń wewnętrzna podmiotu",
+      "openClosedRatio": 0.2
+    },
+    "timeOfDay": {
+      "period": "noc",
+      "season": "nieokreslona",
+      "evidence": "motyw snu, opuszczanie snu, atmosfera ciemności egzystencjalnej"
+    },
+    "motion": {
+      "movement": 3,
+      "stillness": 7,
+      "dynamism": 0.3,
+      "evidence": "statyczne rozważania, jedynie 'opuszczam sen' wskazuje na ruch"
+    },
+    "imageryDensity": {
+      "metaphors": 4,
+      "comparisons": 2,
+      "personifications": 3,
+      "hyperboles": 1,
+      "per100words": 16.7
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.9,
+      "creationLevel": 0.7,
+      "ironicDistance": 0.1,
+      "autobiographicSignals": [
+        "bezpośredni zwrot do 'Ty'",
+        "wyznanie ubóstwa słownika",
+        "osobiste rozterki egzystencjalne",
+        "intymny ton wypowiedzi"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "rozpacz",
+      "secondary": "tęsknota",
+      "intensity": 0.9
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "pierwsza osoba liryczna - 'Mój słownik', 'mi pozostaje', 'opuszczam'"
+    },
+    "addressee": {
+      "type": "ty",
+      "evidence": "bezpośrednie zwroty 'Twoją osobę', 'Twój sen', 'Powiedz'"
+    },
+    "metaphors": [
+      {
+        "source": "język/słownik",
+        "target": "możliwości wyrazu uczuć",
+        "example": "Mój słownik jak ubogy! Słowo nadziei: 'jutro'"
+      },
+      {
+        "source": "sen w zębach",
+        "target": "niemożność porzucenia wspólnej rzeczywistości",
+        "example": "z moim Snem w zębach, jak nadzieja rozpaczliwa każe"
+      },
+      {
+        "source": "głoska głodu",
+        "target": "niespełnione pragnienie miłości",
+        "example": "Z głosek głodu się nie chce lub składa za późno"
+      }
+    ],
+    "temperature": {
+      "value": 0.7,
+      "label": "gorące przez rozpacz i niemoc"
+    },
+    "senses": {
+      "wzrok": 2,
+      "sluch": 4,
+      "dotyk": 3,
+      "smak": 2,
+      "zapach": 1
+    },
+    "autodestruction": {
+      "level": 0.8,
+      "signals": [
+        "bezradność wobec śmierci",
+        "rozpacz harda",
+        "niemożność wyrażenia miłości",
+        "opuszczanie snu ukochanej osoby"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": null,
+    "dfaAlpha": null,
+    "dfaScaling": [],
+    "seriesLength": 8,
+    "series": [
+      7,
+      6,
+      7,
+      10,
+      9,
+      7,
+      7,
+      8
+    ]
+  }
+}

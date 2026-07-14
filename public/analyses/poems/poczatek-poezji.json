@@ -1,0 +1,997 @@
+{
+  "id": "poczatek-poezji",
+  "title": "Początek poezji",
+  "wordCount": 151,
+  "lineCount": 21,
+  "uniqueWords": 118,
+  "vocabularyRichness": 0.781,
+  "avgWordsPerLine": 7.19,
+  "wordsPerLineDistribution": [
+    11,
+    6,
+    3,
+    5,
+    9,
+    6,
+    8,
+    6,
+    8,
+    6,
+    8,
+    7,
+    10,
+    7,
+    9,
+    6,
+    5,
+    10,
+    9,
+    8,
+    4
+  ],
+  "wordFrequencies": [
+    [
+      "poeciepiosenka",
+      4
+    ],
+    [
+      "poezjitek",
+      4
+    ],
+    [
+      "snu",
+      3
+    ],
+    [
+      "poezji",
+      2
+    ],
+    [
+      "iż",
+      2
+    ],
+    [
+      "poza",
+      2
+    ],
+    [
+      "piosenka",
+      1
+    ],
+    [
+      "poecie",
+      1
+    ],
+    [
+      "począpocząpocząpocząpoczątek",
+      1
+    ],
+    [
+      "panu",
+      1
+    ],
+    [
+      "julianowi",
+      1
+    ],
+    [
+      "rogozińskiemu",
+      1
+    ],
+    [
+      "błędna",
+      1
+    ],
+    [
+      "przełęcz",
+      1
+    ],
+    [
+      "pomiędzy",
+      1
+    ],
+    [
+      "piersiami",
+      1
+    ],
+    [
+      "atlantydy",
+      1
+    ],
+    [
+      "trakt",
+      1
+    ],
+    [
+      "zawsze",
+      1
+    ],
+    [
+      "początek",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 12,
+    "period": 4,
+    "question": 1,
+    "exclamation": 1,
+    "ellipsis": 0,
+    "dash": 4,
+    "colon": 2,
+    "semicolon": 1
+  },
+  "questionCount": 1,
+  "exclamationCount": 1,
+  "negationCount": 5,
+  "negationWords": [
+    "nie"
+  ],
+  "pronounDistribution": {
+    "ja": 3,
+    "ty": 0,
+    "on_ona": 1,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 1,
+    "smierc": 0,
+    "erotyka": 1,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 1,
+    "bol": 0
+  },
+  "anaphors": [
+    [
+      "nie",
+      2
+    ],
+    [
+      "tak",
+      2
+    ]
+  ],
+  "firstWord": "piosenka",
+  "lastWord": "astoria”",
+  "avgWordLength": 5.46,
+  "wordLengthDistribution": {
+    "8-9": 21,
+    "1-3": 49,
+    "10+": 12,
+    "6-7": 35,
+    "4-5": 34
+  },
+  "bigrams": [
+    [
+      "poezjitek poezjitek",
+      3
+    ],
+    [
+      "poecie począpocząpocząpocząpoczątek",
+      1
+    ],
+    [
+      "począpocząpocząpocząpoczątek poezjitek",
+      1
+    ],
+    [
+      "poezjitek poezji",
+      1
+    ],
+    [
+      "poezji panu",
+      1
+    ],
+    [
+      "panu julianowi",
+      1
+    ],
+    [
+      "julianowi rogozińskiemu",
+      1
+    ],
+    [
+      "rogozińskiemu błędna",
+      1
+    ],
+    [
+      "błędna przełęcz",
+      1
+    ],
+    [
+      "przełęcz pomiędzy",
+      1
+    ],
+    [
+      "pomiędzy piersiami",
+      1
+    ]
+  ],
+  "poemWords": [
+    "piosenka",
+    "poeciepiosenka",
+    "poecie",
+    "począpocząpocząpocząpoczątek",
+    "poezjitek",
+    "poezji",
+    "panu",
+    "julianowi",
+    "rogozińskiemu",
+    "błędna",
+    "przełęcz",
+    "pomiędzy",
+    "piersiami",
+    "atlantydy",
+    "trakt",
+    "zawsze",
+    "snu",
+    "początek",
+    "swoimi",
+    "chodzi",
+    "drogami",
+    "więcej",
+    "móc",
+    "bawić",
+    "iskrzenia",
+    "elektrycznych",
+    "stóp",
+    "słyszę",
+    "kierpce",
+    "nosi",
+    "splecione",
+    "włókien",
+    "ciszy",
+    "dłonie",
+    "umyślnie",
+    "wcisnął",
+    "rękawiczki",
+    "odcisków",
+    "palców",
+    "węszył",
+    "głód",
+    "zewnętrznej",
+    "stronie",
+    "mogłyby",
+    "czyż",
+    "mógł",
+    "dotknąć",
+    "potknąć",
+    "kłącze",
+    "żądzy",
+    "niekiedy",
+    "poza",
+    "sen",
+    "wyrasta",
+    "mniemam",
+    "chłodny",
+    "hełm",
+    "głowie",
+    "podpala",
+    "włosów",
+    "rozpędzony",
+    "promień",
+    "jasnowidzenia",
+    "dziewczęca",
+    "wdzięczna",
+    "maska",
+    "drogi",
+    "chłopiec",
+    "drwi",
+    "nagi",
+    "szczera",
+    "róża",
+    "gdybym",
+    "kobietą",
+    "dawno",
+    "miałbym",
+    "ustach",
+    "1969",
+    "czerwiec",
+    "zakopane",
+    "astoria”"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 43,
+        "VERB": 20,
+        "ADJ": 13,
+        "ADV": 7,
+        "PRON": 5,
+        "ADP": 17,
+        "CCONJ": 6,
+        "SCONJ": 9,
+        "INTJ": 1,
+        "PART": 13,
+        "DET": 5,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.285,
+        "VERB": 0.132,
+        "ADJ": 0.086,
+        "ADV": 0.046,
+        "PRON": 0.033,
+        "ADP": 0.113,
+        "CCONJ": 0.04,
+        "SCONJ": 0.06,
+        "INTJ": 0.007,
+        "PART": 0.086,
+        "DET": 0.033,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 2,
+        "abstract": 5,
+        "ratio": 0.29
+      },
+      "verbTenses": {
+        "present": 12,
+        "infinitive": 5,
+        "past": 6
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 1,
+        "stan": 3,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 1,
+        "oceniajace": 0,
+        "opisowe": 12
+      },
+      "adverbs": {
+        "temporalne": [
+          "dawno",
+          "zawsze"
+        ],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "tak",
+            "count": 2
+          },
+          {
+            "word": "zawsze",
+            "count": 1
+          },
+          {
+            "word": "więcej",
+            "count": 1
+          },
+          {
+            "word": "umyślnie",
+            "count": 1
+          },
+          {
+            "word": "niekiedy",
+            "count": 1
+          },
+          {
+            "word": "dawno",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 1,
+        "ty": 0,
+        "on_ona": 1,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 5,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 5,
+        "percentSentences": 0.5
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 354,
+        "consonants": 466,
+        "ratio": 0.76
+      },
+      "consonantClusters": {
+        "count": 22,
+        "top": [
+          {
+            "cluster": "szcz",
+            "count": 2
+          },
+          {
+            "cluster": "czn",
+            "count": 2
+          },
+          {
+            "cluster": "tkn",
+            "count": 2
+          },
+          {
+            "cluster": "chł",
+            "count": 2
+          },
+          {
+            "cluster": "ńsk",
+            "count": 1
+          },
+          {
+            "cluster": "prz",
+            "count": 1
+          },
+          {
+            "cluster": "wsz",
+            "count": 1
+          },
+          {
+            "cluster": "skrz",
+            "count": 1
+          },
+          {
+            "cluster": "ktr",
+            "count": 1
+          },
+          {
+            "cluster": "rpc",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 35,
+        "syczace": 75,
+        "nosowe": 103,
+        "plynne": 50
+      },
+      "rhymes": {
+        "exact": 0,
+        "approximate": 0,
+        "internal": 8,
+        "assonance": 0,
+        "alliteration": 2
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 15.1,
+        "median": 17,
+        "min": 3,
+        "max": 22,
+        "distribution": [
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          0,
+          3,
+          0,
+          0,
+          1,
+          1,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 7.4,
+        "meanSyllables": 17.3,
+        "distribution": [
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          5,
+          2,
+          5,
+          2,
+          3,
+          1
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 8,
+        "interrogative": 1,
+        "imperative": 0,
+        "exclamatory": 1
+      },
+      "ellipsis": {
+        "incomplete": 2,
+        "noSubject": 3,
+        "noPredicate": 0,
+        "percent": 0.5
+      },
+      "enjambement": {
+        "count": 2,
+        "percent": 0.1,
+        "positions": [
+          4,
+          19
+        ]
+      },
+      "wordOrder": {
+        "svo": 1,
+        "inversions": 4,
+        "other": 5,
+        "deviationPercent": 0.9
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 2,
+        "śmierć": 0,
+        "erotyka": 1,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 2,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 363,
+      "estimatedSeconds": 121,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 43,
+      "VERB": 20,
+      "ADJ": 13,
+      "ADV": 7,
+      "PRON": 5,
+      "ADP": 17,
+      "CCONJ": 6,
+      "SCONJ": 9,
+      "INTJ": 1,
+      "PART": 13,
+      "DET": 5,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.285,
+      "VERB": 0.132,
+      "ADJ": 0.086,
+      "ADV": 0.046,
+      "PRON": 0.033,
+      "ADP": 0.113,
+      "CCONJ": 0.04,
+      "SCONJ": 0.06,
+      "INTJ": 0.007,
+      "PART": 0.086,
+      "DET": 0.033,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 2,
+      "abstract": 5,
+      "ratio": 0.29
+    },
+    "verbTenses": {
+      "present": 12,
+      "infinitive": 5,
+      "past": 6
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 1,
+      "stan": 3,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 1,
+      "oceniajace": 0,
+      "opisowe": 12
+    },
+    "adverbs": {
+      "temporalne": [
+        "dawno",
+        "zawsze"
+      ],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "tak",
+          "count": 2
+        },
+        {
+          "word": "zawsze",
+          "count": 1
+        },
+        {
+          "word": "więcej",
+          "count": 1
+        },
+        {
+          "word": "umyślnie",
+          "count": 1
+        },
+        {
+          "word": "niekiedy",
+          "count": 1
+        },
+        {
+          "word": "dawno",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 1,
+      "ty": 0,
+      "on_ona": 1,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 5,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 5,
+      "percentSentences": 0.5
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 15.1,
+      "median": 17,
+      "min": 3,
+      "max": 22,
+      "distribution": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        3,
+        0,
+        0,
+        1,
+        1,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 7.4,
+      "meanSyllables": 17.3,
+      "distribution": [
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        5,
+        2,
+        5,
+        2,
+        3,
+        1
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 8,
+      "interrogative": 1,
+      "imperative": 0,
+      "exclamatory": 1
+    },
+    "ellipsis": {
+      "incomplete": 2,
+      "noSubject": 3,
+      "noPredicate": 0,
+      "percent": 0.5
+    },
+    "enjambement": {
+      "count": 2,
+      "percent": 0.1,
+      "positions": [
+        4,
+        19
+      ]
+    },
+    "wordOrder": {
+      "svo": 1,
+      "inversions": 4,
+      "other": 5,
+      "deviationPercent": 0.9
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 354,
+      "consonants": 466,
+      "ratio": 0.76
+    },
+    "consonantClusters": {
+      "count": 22,
+      "top": [
+        {
+          "cluster": "szcz",
+          "count": 2
+        },
+        {
+          "cluster": "czn",
+          "count": 2
+        },
+        {
+          "cluster": "tkn",
+          "count": 2
+        },
+        {
+          "cluster": "chł",
+          "count": 2
+        },
+        {
+          "cluster": "ńsk",
+          "count": 1
+        },
+        {
+          "cluster": "prz",
+          "count": 1
+        },
+        {
+          "cluster": "wsz",
+          "count": 1
+        },
+        {
+          "cluster": "skrz",
+          "count": 1
+        },
+        {
+          "cluster": "ktr",
+          "count": 1
+        },
+        {
+          "cluster": "rpc",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 35,
+      "syczace": 75,
+      "nosowe": 103,
+      "plynne": 50
+    },
+    "rhymes": {
+      "exact": 0,
+      "approximate": 0,
+      "internal": 8,
+      "assonance": 0,
+      "alliteration": 2
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        21
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 363,
+      "estimatedSeconds": 121,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "polregularny",
+      "regularityScore": 0.58
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "mitologia",
+          "reference": "Atlantyda",
+          "evidence": "piersiami Atlantydy"
+        },
+        {
+          "source": "Biblia",
+          "reference": "raj/nagość",
+          "evidence": "nagi jest jak szczera róża"
+        },
+        {
+          "source": "Rimbaud",
+          "reference": "jasnowidzenie poetyckie",
+          "evidence": "Promień jasnowidzenia"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.7,
+        "baudelaire": 0.3,
+        "bursa": 0.1,
+        "stachura": 0.2,
+        "grochowiak": 0.1,
+        "bialoszewski": 0.1,
+        "rozewicz": 0.1
+      }
+    },
+    "space": {
+      "type": "nieokreslona",
+      "evidence": "przestrzeń snu i jawy, przełęcz, trakt nie z mojego snu",
+      "openClosedRatio": 0.3
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "lato",
+      "evidence": "czerwiec, Zakopane jako miejsce i czas powstania"
+    },
+    "motion": {
+      "movement": 8,
+      "stillness": 3,
+      "dynamism": 0.7,
+      "evidence": "chodzi drogami, iskrzenia elektrycznych stóp, rozpędzony promień, potknąć się"
+    },
+    "imageryDensity": {
+      "metaphors": 8,
+      "comparisons": 3,
+      "personifications": 4,
+      "hyperboles": 2,
+      "per100words": 12.1
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.8,
+      "creationLevel": 0.7,
+      "ironicDistance": 0.3,
+      "autobiographicSignals": [
+        "dedykacja Panu Julianowi Rogozińskiemu",
+        "data i miejsce: 1969, czerwiec, Zakopane, Astoria",
+        "gdybym był kobietą"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "tęsknota",
+      "secondary": "melancholia",
+      "intensity": 0.7
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "Wiem jeszcze więcej, mój głód, ze mnie drwi, gdybym był kobietą"
+    },
+    "addressee": {
+      "type": "siebie",
+      "evidence": "podmiot liryczny zwraca się do siebie, analizując własne doświadczenie poezji"
+    },
+    "metaphors": [
+      {
+        "source": "błędna przełęcz pomiędzy piersiami Atlantydy",
+        "target": "początek poezji",
+        "example": "Błędna przełęcz pomiędzy piersiami Atlantydy / Lub inny lecz trakt zawsze nie z mojego snu"
+      },
+      {
+        "source": "kierpce splecione z włókien ciszy",
+        "target": "niewysłyszalność poezji",
+        "example": "kierpce nosi splecione z włókien ciszy"
+      },
+      {
+        "source": "szczera róża",
+        "target": "nagość/prawda poezji",
+        "example": "poza tym nagi jest jak szczera róża"
+      }
+    ],
+    "temperature": {
+      "value": 0.4,
+      "label": "chłodne z nutą pożądania"
+    },
+    "senses": {
+      "wzrok": 4,
+      "sluch": 2,
+      "dotyk": 5,
+      "smak": 3,
+      "zapach": 1
+    },
+    "autodestruction": {
+      "level": 0.3,
+      "signals": [
+        "głód",
+        "drwiny ze snu i ze mnie",
+        "niemożność dotknięcia"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 0.828,
+    "dfaAlpha": 0.905,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -0.39536375444940464
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -0.6576686606245901
+      },
+      {
+        "logWin": 1.6094379124341003,
+        "logFluc": -0.1114182590059499
+      },
+      {
+        "logWin": 1.791759469228055,
+        "logFluc": -0.012903569108796819
+      },
+      {
+        "logWin": 1.9459101490553132,
+        "logFluc": 0.2895206660704356
+      }
+    ],
+    "seriesLength": 21,
+    "series": [
+      11,
+      6,
+      3,
+      5,
+      9,
+      6,
+      8,
+      6,
+      8,
+      6,
+      8,
+      7,
+      10,
+      7,
+      9,
+      6,
+      5,
+      10,
+      9,
+      8,
+      4
+    ]
+  }
+}

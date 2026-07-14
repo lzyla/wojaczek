@@ -1,0 +1,997 @@
+{
+  "id": "notatki-z-celi-smierci",
+  "title": "Notatki z celi śmierci",
+  "wordCount": 116,
+  "lineCount": 32,
+  "uniqueWords": 96,
+  "vocabularyRichness": 0.828,
+  "avgWordsPerLine": 3.63,
+  "wordsPerLineDistribution": [
+    5,
+    3,
+    1,
+    1,
+    2,
+    4,
+    4,
+    4,
+    5,
+    4,
+    4,
+    1,
+    4,
+    4,
+    1,
+    2,
+    5,
+    4,
+    4,
+    4,
+    4,
+    3,
+    5,
+    2,
+    5,
+    5,
+    4,
+    4,
+    7,
+    4,
+    5,
+    2
+  ],
+  "wordFrequencies": [
+    [
+      "winny",
+      2
+    ],
+    [
+      "jakbym",
+      2
+    ],
+    [
+      "dziecka",
+      2
+    ],
+    [
+      "liczę",
+      2
+    ],
+    [
+      "krew",
+      2
+    ],
+    [
+      "człowiek",
+      1
+    ],
+    [
+      "nieskończenie",
+      1
+    ],
+    [
+      "kierkegaard",
+      1
+    ],
+    [
+      "ekloga",
+      1
+    ],
+    [
+      "noc",
+      1
+    ],
+    [
+      "gorączka",
+      1
+    ],
+    [
+      "własnym",
+      1
+    ],
+    [
+      "oddechem",
+      1
+    ],
+    [
+      "bezradnie",
+      1
+    ],
+    [
+      "leżę",
+      1
+    ],
+    [
+      "wznak",
+      1
+    ],
+    [
+      "osłaniam",
+      1
+    ],
+    [
+      "podbrzusze",
+      1
+    ],
+    [
+      "białą",
+      1
+    ],
+    [
+      "twarzą",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 3,
+    "period": 1,
+    "question": 1,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 1,
+    "colon": 2,
+    "semicolon": 0
+  },
+  "questionCount": 1,
+  "exclamationCount": 0,
+  "negationCount": 2,
+  "negationWords": [
+    "nie"
+  ],
+  "pronounDistribution": {
+    "ja": 3,
+    "ty": 1,
+    "on_ona": 0,
+    "my": 1,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 3,
+    "smierc": 2,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 1,
+    "bol": 0
+  },
+  "anaphors": [
+    [
+      "ja",
+      3
+    ],
+    [
+      "nie",
+      2
+    ]
+  ],
+  "firstWord": "jeśli",
+  "lastWord": "napisane",
+  "avgWordLength": 5.34,
+  "wordLengthDistribution": {
+    "4-5": 30,
+    "6-7": 28,
+    "8-9": 21,
+    "10+": 5,
+    "1-3": 32
+  },
+  "bigrams": [
+    [
+      "jeśli bowiem",
+      1
+    ],
+    [
+      "bowiem człowiek",
+      1
+    ],
+    [
+      "nieskończenie winny",
+      1
+    ],
+    [
+      "winny kierkegaard",
+      1
+    ],
+    [
+      "kierkegaard ekloga",
+      1
+    ],
+    [
+      "ekloga noc",
+      1
+    ],
+    [
+      "noc gorączka",
+      1
+    ],
+    [
+      "gorączka jakbym",
+      1
+    ]
+  ],
+  "poemWords": [
+    "człowiek",
+    "winny",
+    "nieskończenie",
+    "kierkegaard",
+    "ekloga",
+    "noc",
+    "gorączka",
+    "jakbym",
+    "własnym",
+    "oddechem",
+    "bezradnie",
+    "leżę",
+    "wznak",
+    "osłaniam",
+    "podbrzusze",
+    "białą",
+    "twarzą",
+    "przynosi",
+    "wiadomość",
+    "dziecka",
+    "powtarzam",
+    "żywego",
+    "liczę",
+    "spadające",
+    "kroki",
+    "jasełka",
+    "słyszę",
+    "hejnał",
+    "ironia",
+    "opada",
+    "dno",
+    "krwi",
+    "odwrócona",
+    "krew",
+    "okna",
+    "czas",
+    "cofnięty",
+    "zegara",
+    "niewinny",
+    "niosą",
+    "dary",
+    "tłoczą",
+    "parapecie",
+    "pierwszy",
+    "krzyczą",
+    "lulajże",
+    "jezuniu",
+    "pogodzimy",
+    "marche",
+    "funebre",
+    "przemoc",
+    "gniję",
+    "serce",
+    "plamką",
+    "mózgu",
+    "powietrze",
+    "gnije",
+    "niewyraźny",
+    "napluty",
+    "wykonuję",
+    "takie",
+    "gesty",
+    "grał",
+    "skrzypcach",
+    "zawsze",
+    "chciałem",
+    "żydem",
+    "znalazłem",
+    "śmieciach",
+    "napisane",
+    "1966"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 35,
+        "VERB": 21,
+        "ADJ": 10,
+        "ADV": 4,
+        "PRON": 8,
+        "ADP": 10,
+        "CCONJ": 4,
+        "SCONJ": 6,
+        "INTJ": 0,
+        "PART": 2,
+        "DET": 1,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.292,
+        "VERB": 0.175,
+        "ADJ": 0.083,
+        "ADV": 0.033,
+        "PRON": 0.067,
+        "ADP": 0.083,
+        "CCONJ": 0.033,
+        "SCONJ": 0.05,
+        "INTJ": 0,
+        "PART": 0.017,
+        "DET": 0.008,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 5,
+        "abstract": 1,
+        "ratio": 0.83
+      },
+      "verbTenses": {
+        "present": 23,
+        "past": 4,
+        "future": 2,
+        "infinitive": 1
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 10,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 1,
+        "oceniajace": 0,
+        "opisowe": 9
+      },
+      "adverbs": {
+        "temporalne": [
+          "zawsze"
+        ],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "nieskończenie",
+            "count": 1
+          },
+          {
+            "word": "bezradnie",
+            "count": 1
+          },
+          {
+            "word": "niewyraźny",
+            "count": 1
+          },
+          {
+            "word": "zawsze",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 3,
+        "ty": 1,
+        "on_ona": 0,
+        "my": 1,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 2,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 2,
+        "percentSentences": 0.15
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 262,
+        "consonants": 370,
+        "ratio": 0.71
+      },
+      "consonantClusters": {
+        "count": 16,
+        "top": [
+          {
+            "cluster": "prz",
+            "count": 2
+          },
+          {
+            "cluster": "czł",
+            "count": 1
+          },
+          {
+            "cluster": "ńcz",
+            "count": 1
+          },
+          {
+            "cluster": "czk",
+            "count": 1
+          },
+          {
+            "cluster": "wzn",
+            "count": 1
+          },
+          {
+            "cluster": "dbrz",
+            "count": 1
+          },
+          {
+            "cluster": "krw",
+            "count": 1
+          },
+          {
+            "cluster": "dwr",
+            "count": 1
+          },
+          {
+            "cluster": "rwsz",
+            "count": 1
+          },
+          {
+            "cluster": "krz",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 24,
+        "syczace": 59,
+        "nosowe": 83,
+        "plynne": 53
+      },
+      "rhymes": {
+        "exact": 1,
+        "approximate": 1,
+        "internal": 0,
+        "assonance": 1,
+        "alliteration": 3
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 9.2,
+        "median": 10,
+        "min": 4,
+        "max": 16,
+        "distribution": [
+          0,
+          0,
+          0,
+          0,
+          3,
+          1,
+          0,
+          1,
+          1,
+          0,
+          1,
+          3,
+          0,
+          0,
+          1,
+          1,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 3.7,
+        "meanSyllables": 8.2,
+        "distribution": [
+          0,
+          4,
+          4,
+          2,
+          14,
+          8,
+          0,
+          1
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 12,
+        "interrogative": 1,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 3,
+        "noSubject": 2,
+        "noPredicate": 0,
+        "percent": 0.38
+      },
+      "enjambement": {
+        "count": 8,
+        "percent": 0.25,
+        "positions": [
+          6,
+          8,
+          10,
+          11,
+          13,
+          14,
+          22,
+          32
+        ]
+      },
+      "wordOrder": {
+        "svo": 5,
+        "inversions": 2,
+        "other": 6,
+        "deviationPercent": 0.62
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 4,
+        "śmierć": 2,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 1,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 269,
+      "estimatedSeconds": 90,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 35,
+      "VERB": 21,
+      "ADJ": 10,
+      "ADV": 4,
+      "PRON": 8,
+      "ADP": 10,
+      "CCONJ": 4,
+      "SCONJ": 6,
+      "INTJ": 0,
+      "PART": 2,
+      "DET": 1,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.292,
+      "VERB": 0.175,
+      "ADJ": 0.083,
+      "ADV": 0.033,
+      "PRON": 0.067,
+      "ADP": 0.083,
+      "CCONJ": 0.033,
+      "SCONJ": 0.05,
+      "INTJ": 0,
+      "PART": 0.017,
+      "DET": 0.008,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 5,
+      "abstract": 1,
+      "ratio": 0.83
+    },
+    "verbTenses": {
+      "present": 23,
+      "past": 4,
+      "future": 2,
+      "infinitive": 1
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 10,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 1,
+      "oceniajace": 0,
+      "opisowe": 9
+    },
+    "adverbs": {
+      "temporalne": [
+        "zawsze"
+      ],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "nieskończenie",
+          "count": 1
+        },
+        {
+          "word": "bezradnie",
+          "count": 1
+        },
+        {
+          "word": "niewyraźny",
+          "count": 1
+        },
+        {
+          "word": "zawsze",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 3,
+      "ty": 1,
+      "on_ona": 0,
+      "my": 1,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 2,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 2,
+      "percentSentences": 0.15
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 9.2,
+      "median": 10,
+      "min": 4,
+      "max": 16,
+      "distribution": [
+        0,
+        0,
+        0,
+        0,
+        3,
+        1,
+        0,
+        1,
+        1,
+        0,
+        1,
+        3,
+        0,
+        0,
+        1,
+        1,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 3.7,
+      "meanSyllables": 8.2,
+      "distribution": [
+        0,
+        4,
+        4,
+        2,
+        14,
+        8,
+        0,
+        1
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 12,
+      "interrogative": 1,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 3,
+      "noSubject": 2,
+      "noPredicate": 0,
+      "percent": 0.38
+    },
+    "enjambement": {
+      "count": 8,
+      "percent": 0.25,
+      "positions": [
+        6,
+        8,
+        10,
+        11,
+        13,
+        14,
+        22,
+        32
+      ]
+    },
+    "wordOrder": {
+      "svo": 5,
+      "inversions": 2,
+      "other": 6,
+      "deviationPercent": 0.62
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 262,
+      "consonants": 370,
+      "ratio": 0.71
+    },
+    "consonantClusters": {
+      "count": 16,
+      "top": [
+        {
+          "cluster": "prz",
+          "count": 2
+        },
+        {
+          "cluster": "czł",
+          "count": 1
+        },
+        {
+          "cluster": "ńcz",
+          "count": 1
+        },
+        {
+          "cluster": "czk",
+          "count": 1
+        },
+        {
+          "cluster": "wzn",
+          "count": 1
+        },
+        {
+          "cluster": "dbrz",
+          "count": 1
+        },
+        {
+          "cluster": "krw",
+          "count": 1
+        },
+        {
+          "cluster": "dwr",
+          "count": 1
+        },
+        {
+          "cluster": "rwsz",
+          "count": 1
+        },
+        {
+          "cluster": "krz",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 24,
+      "syczace": 59,
+      "nosowe": 83,
+      "plynne": 53
+    },
+    "rhymes": {
+      "exact": 1,
+      "approximate": 1,
+      "internal": 0,
+      "assonance": 1,
+      "alliteration": 3
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        33
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 269,
+      "estimatedSeconds": 90,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "polregularny",
+      "regularityScore": 0.62
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Biblia",
+          "reference": "Jasełka, Lulajże Jezuniu",
+          "evidence": "Tytuł JASEŁKA oraz fragment kolędy 'Lulajże Jezuniu'"
+        },
+        {
+          "source": "inne",
+          "reference": "Kierkegaard - motto",
+          "evidence": "Cytat z Kierkegaarda o nieskończonej winie człowieka"
+        },
+        {
+          "source": "inne",
+          "reference": "Marche funebre - muzyka żałobna",
+          "evidence": "Tytuł nawiązujący do żałobnej formy muzycznej"
+        },
+        {
+          "source": "inne",
+          "reference": "tradycja eklogi",
+          "evidence": "Tytuł EKLOGA nawiązuje do klasycznej formy poetyckiej"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.3,
+        "baudelaire": 0.4,
+        "bursa": 0.7,
+        "stachura": 0.2,
+        "grochowiak": 0.5,
+        "bialoszewski": 0.1,
+        "rozewicz": 0.6
+      }
+    },
+    "space": {
+      "type": "zamknieta",
+      "evidence": "Cela śmierci, leżenie na wznak, parapety okna - przestrzeń ograniczona",
+      "openClosedRatio": 0.2
+    },
+    "timeOfDay": {
+      "period": "noc",
+      "season": "zima",
+      "evidence": "Pierwszy wers 'Noc. Gorączka' oraz kontekst bożonarodzeniowy jasełek"
+    },
+    "motion": {
+      "movement": 3,
+      "stillness": 7,
+      "dynamism": 0.3,
+      "evidence": "Bezradne leżenie, spadające kroki, ale głównie statyczność choroby i więzienia"
+    },
+    "imageryDensity": {
+      "metaphors": 8,
+      "comparisons": 4,
+      "personifications": 3,
+      "hyperboles": 2,
+      "per100words": 17
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.9,
+      "creationLevel": 0.7,
+      "ironicDistance": 0.4,
+      "autobiographicSignals": [
+        "gorączka",
+        "bezradność",
+        "białą twarzą",
+        "ja niewinny",
+        "zawsze chciałem być Żydem"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "rozpacz",
+      "secondary": "obrzydzenie",
+      "intensity": 0.9
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "Wielokrotne 'ja jestem', 'leżę', 'liczę', 'słyszę' - podmiot silnie obecny w każdym fragmencie"
+    },
+    "addressee": {
+      "type": "siebie",
+      "evidence": "Autoanaliza w 'ja jestem ty jesteś', monolog wewnętrzny, rozmowa z własnym sumieniem"
+    },
+    "metaphors": [
+      {
+        "source": "oddech",
+        "target": "tożsamość",
+        "example": "jakbym był własnym oddechem"
+      },
+      {
+        "source": "plamka",
+        "target": "serce",
+        "example": "Serce jest plamką na mózgu"
+      },
+      {
+        "source": "gnicie",
+        "target": "egzystencja",
+        "example": "Powietrze gnije jak krew"
+      },
+      {
+        "source": "gra na skrzypcach",
+        "target": "bezradne gesty",
+        "example": "Wykonuję takie gesty jakbym grał na skrzypcach"
+      }
+    ],
+    "temperature": {
+      "value": 0.2,
+      "label": "zimne - dominuje rezygnacja, bezradność, śmiertelna choroba"
+    },
+    "senses": {
+      "wzrok": 3,
+      "sluch": 4,
+      "dotyk": 2,
+      "smak": 0,
+      "zapach": 1
+    },
+    "autodestruction": {
+      "level": 0.95,
+      "signals": [
+        "Ja jestem przemoc, ale gniję",
+        "niewyraźny jak napluty",
+        "cela śmierci",
+        "nie ma żywego Dziecka",
+        "gorączka",
+        "bezradnie leżę",
+        "ironia opada na dno krwi"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 0.81,
+    "dfaAlpha": 0.995,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -0.8033319927756867
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -0.7992910877912905
+      },
+      {
+        "logWin": 1.6094379124341003,
+        "logFluc": -0.6231529141448815
+      },
+      {
+        "logWin": 1.791759469228055,
+        "logFluc": -0.19441697533421196
+      },
+      {
+        "logWin": 1.9459101490553132,
+        "logFluc": -0.21509588850503944
+      },
+      {
+        "logWin": 2.0794415416798357,
+        "logFluc": -0.041560294837899595
+      },
+      {
+        "logWin": 2.302585092994046,
+        "logFluc": 0.35990260980467864
+      }
+    ],
+    "seriesLength": 32,
+    "series": [
+      5,
+      3,
+      1,
+      1,
+      2,
+      4,
+      4,
+      4,
+      5,
+      4,
+      4,
+      1,
+      4,
+      4,
+      1,
+      2,
+      5,
+      4,
+      4,
+      4,
+      4,
+      3,
+      5,
+      2,
+      5,
+      5,
+      4,
+      4,
+      7,
+      4,
+      5,
+      2
+    ]
+  }
+}

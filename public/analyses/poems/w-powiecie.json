@@ -1,0 +1,972 @@
+{
+  "id": "w-powiecie",
+  "title": "W powiecie",
+  "wordCount": 65,
+  "lineCount": 19,
+  "uniqueWords": 54,
+  "vocabularyRichness": 0.831,
+  "avgWordsPerLine": 3.42,
+  "wordsPerLineDistribution": [
+    7,
+    4,
+    4,
+    2,
+    3,
+    2,
+    5,
+    5,
+    5,
+    4,
+    2,
+    3,
+    3,
+    4,
+    2,
+    1,
+    2,
+    3,
+    4
+  ],
+  "wordFrequencies": [
+    [
+      "mówią",
+      2
+    ],
+    [
+      "powiecie",
+      1
+    ],
+    [
+      "znalazłem",
+      1
+    ],
+    [
+      "owoc",
+      1
+    ],
+    [
+      "kazirodztwa",
+      1
+    ],
+    [
+      "rozbierz",
+      1
+    ],
+    [
+      "stoję",
+      1
+    ],
+    [
+      "nago",
+      1
+    ],
+    [
+      "najpierw",
+      1
+    ],
+    [
+      "pies",
+      1
+    ],
+    [
+      "obwąchał",
+      1
+    ],
+    [
+      "odrośla",
+      1
+    ],
+    [
+      "kopnęła",
+      1
+    ],
+    [
+      "ludka",
+      1
+    ],
+    [
+      "obwąchuje",
+      1
+    ],
+    [
+      "czworakach",
+      1
+    ],
+    [
+      "bierze",
+      1
+    ],
+    [
+      "delikatnie",
+      1
+    ],
+    [
+      "usta",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 0,
+    "period": 0,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 2,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 3,
+  "negationWords": [
+    "nic",
+    "nie"
+  ],
+  "pronounDistribution": {
+    "ja": 2,
+    "ty": 0,
+    "on_ona": 1,
+    "my": 0,
+    "wy": 0,
+    "oni": 3
+  },
+  "semanticFields": {
+    "cialo": 1,
+    "smierc": 0,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 1,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [
+    [
+      "oni",
+      2
+    ],
+    [
+      "ale",
+      2
+    ]
+  ],
+  "firstWord": "tym",
+  "lastWord": "obudzę",
+  "avgWordLength": 5.03,
+  "wordLengthDistribution": {
+    "1-3": 24,
+    "8-9": 9,
+    "4-5": 18,
+    "10+": 6,
+    "6-7": 8
+  },
+  "bigrams": [
+    [
+      "przecież znalazłem",
+      1
+    ],
+    [
+      "mówią owoc",
+      1
+    ],
+    [
+      "owoc kazirodztwa",
+      1
+    ],
+    [
+      "mówią rozbierz",
+      1
+    ],
+    [
+      "stoję nago",
+      1
+    ]
+  ],
+  "poemWords": [
+    "powiecie",
+    "znalazłem",
+    "mówią",
+    "owoc",
+    "kazirodztwa",
+    "rozbierz",
+    "stoję",
+    "nago",
+    "najpierw",
+    "pies",
+    "obwąchał",
+    "odrośla",
+    "kopnęła",
+    "pani",
+    "ludka",
+    "obwąchuje",
+    "czworakach",
+    "bierze",
+    "delikatnie",
+    "usta",
+    "wstaje",
+    "mówi",
+    "zwyciężyłeś",
+    "galilejczyku",
+    "nic",
+    "rozumiem",
+    "dookoła",
+    "kiwa",
+    "kłaniają",
+    "padają",
+    "taki",
+    "szczęśliwy",
+    "obudzę"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 8,
+        "VERB": 17,
+        "ADJ": 2,
+        "ADV": 7,
+        "PRON": 11,
+        "ADP": 5,
+        "CCONJ": 4,
+        "SCONJ": 3,
+        "INTJ": 0,
+        "PART": 3,
+        "DET": 3,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.119,
+        "VERB": 0.254,
+        "ADJ": 0.03,
+        "ADV": 0.104,
+        "PRON": 0.164,
+        "ADP": 0.075,
+        "CCONJ": 0.06,
+        "SCONJ": 0.045,
+        "INTJ": 0,
+        "PART": 0.045,
+        "DET": 0.045,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 2,
+        "abstract": 0,
+        "ratio": 1
+      },
+      "verbTenses": {
+        "past": 4,
+        "present": 12,
+        "imperative": 1,
+        "future": 1
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 1,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 3,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 0,
+        "opisowe": 2
+      },
+      "adverbs": {
+        "temporalne": [
+          "potem"
+        ],
+        "modalne": [],
+        "sposobu": [
+          "delikatnie"
+        ],
+        "top": [
+          {
+            "word": "gdzie",
+            "count": 1
+          },
+          {
+            "word": "nago",
+            "count": 1
+          },
+          {
+            "word": "najpierw",
+            "count": 1
+          },
+          {
+            "word": "potem",
+            "count": 1
+          },
+          {
+            "word": "delikatnie",
+            "count": 1
+          },
+          {
+            "word": "kiedy",
+            "count": 1
+          },
+          {
+            "word": "tak",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 2,
+        "ty": 0,
+        "on_ona": 1,
+        "my": 0,
+        "wy": 0,
+        "oni": 3
+      },
+      "negations": {
+        "nie": 2,
+        "nic": 1,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 3,
+        "percentSentences": 1
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 157,
+        "consonants": 179,
+        "ratio": 0.88
+      },
+      "consonantClusters": {
+        "count": 7,
+        "top": [
+          {
+            "cluster": "gdz",
+            "count": 1
+          },
+          {
+            "cluster": "prz",
+            "count": 1
+          },
+          {
+            "cluster": "dztw",
+            "count": 1
+          },
+          {
+            "cluster": "czw",
+            "count": 1
+          },
+          {
+            "cluster": "wst",
+            "count": 1
+          },
+          {
+            "cluster": "jcz",
+            "count": 1
+          },
+          {
+            "cluster": "szcz",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 12,
+        "syczace": 29,
+        "nosowe": 41,
+        "plynne": 24
+      },
+      "rhymes": {
+        "exact": 0,
+        "approximate": 0,
+        "internal": 0,
+        "assonance": 0,
+        "alliteration": 2
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 22.3,
+        "median": 10,
+        "min": 9,
+        "max": 48,
+        "distribution": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 3.4,
+        "meanSyllables": 8,
+        "distribution": [
+          0,
+          1,
+          6,
+          4,
+          5,
+          3,
+          0,
+          1
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 2,
+        "interrogative": 0,
+        "imperative": 1,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 0,
+        "noSubject": 0,
+        "noPredicate": 0,
+        "percent": 0
+      },
+      "enjambement": {
+        "count": 15,
+        "percent": 0.79,
+        "positions": [
+          2,
+          3,
+          4,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          14,
+          15,
+          16,
+          18,
+          19
+        ]
+      },
+      "wordOrder": {
+        "svo": 2,
+        "inversions": 1,
+        "other": 0,
+        "deviationPercent": 0.33
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 1,
+        "śmierć": 0,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 1,
+        "sacrum": 0,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 160,
+      "estimatedSeconds": 53,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 8,
+      "VERB": 17,
+      "ADJ": 2,
+      "ADV": 7,
+      "PRON": 11,
+      "ADP": 5,
+      "CCONJ": 4,
+      "SCONJ": 3,
+      "INTJ": 0,
+      "PART": 3,
+      "DET": 3,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.119,
+      "VERB": 0.254,
+      "ADJ": 0.03,
+      "ADV": 0.104,
+      "PRON": 0.164,
+      "ADP": 0.075,
+      "CCONJ": 0.06,
+      "SCONJ": 0.045,
+      "INTJ": 0,
+      "PART": 0.045,
+      "DET": 0.045,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 2,
+      "abstract": 0,
+      "ratio": 1
+    },
+    "verbTenses": {
+      "past": 4,
+      "present": 12,
+      "imperative": 1,
+      "future": 1
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 1,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 3,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 0,
+      "opisowe": 2
+    },
+    "adverbs": {
+      "temporalne": [
+        "potem"
+      ],
+      "modalne": [],
+      "sposobu": [
+        "delikatnie"
+      ],
+      "top": [
+        {
+          "word": "gdzie",
+          "count": 1
+        },
+        {
+          "word": "nago",
+          "count": 1
+        },
+        {
+          "word": "najpierw",
+          "count": 1
+        },
+        {
+          "word": "potem",
+          "count": 1
+        },
+        {
+          "word": "delikatnie",
+          "count": 1
+        },
+        {
+          "word": "kiedy",
+          "count": 1
+        },
+        {
+          "word": "tak",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 2,
+      "ty": 0,
+      "on_ona": 1,
+      "my": 0,
+      "wy": 0,
+      "oni": 3
+    },
+    "negations": {
+      "nie": 2,
+      "nic": 1,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 3,
+      "percentSentences": 1
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 22.3,
+      "median": 10,
+      "min": 9,
+      "max": 48,
+      "distribution": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 3.4,
+      "meanSyllables": 8,
+      "distribution": [
+        0,
+        1,
+        6,
+        4,
+        5,
+        3,
+        0,
+        1
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 2,
+      "interrogative": 0,
+      "imperative": 1,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 0,
+      "noSubject": 0,
+      "noPredicate": 0,
+      "percent": 0
+    },
+    "enjambement": {
+      "count": 15,
+      "percent": 0.79,
+      "positions": [
+        2,
+        3,
+        4,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        14,
+        15,
+        16,
+        18,
+        19
+      ]
+    },
+    "wordOrder": {
+      "svo": 2,
+      "inversions": 1,
+      "other": 0,
+      "deviationPercent": 0.33
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 157,
+      "consonants": 179,
+      "ratio": 0.88
+    },
+    "consonantClusters": {
+      "count": 7,
+      "top": [
+        {
+          "cluster": "gdz",
+          "count": 1
+        },
+        {
+          "cluster": "prz",
+          "count": 1
+        },
+        {
+          "cluster": "dztw",
+          "count": 1
+        },
+        {
+          "cluster": "czw",
+          "count": 1
+        },
+        {
+          "cluster": "wst",
+          "count": 1
+        },
+        {
+          "cluster": "jcz",
+          "count": 1
+        },
+        {
+          "cluster": "szcz",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 12,
+      "syczace": 29,
+      "nosowe": 41,
+      "plynne": 24
+    },
+    "rhymes": {
+      "exact": 0,
+      "approximate": 0,
+      "internal": 0,
+      "assonance": 0,
+      "alliteration": 2
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        20
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 160,
+      "estimatedSeconds": 53,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "polregularny",
+      "regularityScore": 0.57
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Biblia",
+          "reference": "Galilejczyk - określenie Jezusa Chrystusa",
+          "evidence": "zwyciężyłeś Galilejczyku"
+        },
+        {
+          "source": "mitologia",
+          "reference": "motyw nagości jako prawdy/bezbronności",
+          "evidence": "rozbierz się / stoję nago"
+        },
+        {
+          "source": "Biblia",
+          "reference": "pokłony i upadanie przed mesjaszem",
+          "evidence": "kłaniają się / padają"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.3,
+        "baudelaire": 0.2,
+        "bursa": 0.7,
+        "stachura": 0.4,
+        "grochowiak": 0.6,
+        "bialoszewski": 0.5,
+        "rozewicz": 0.4
+      }
+    },
+    "space": {
+      "type": "zamknieta",
+      "evidence": "w powiecie - ograniczone terytorium, społeczność lokalna",
+      "openClosedRatio": 0.2
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "nieokreslona",
+      "evidence": "brak wskazówek temporalnych"
+    },
+    "motion": {
+      "movement": 4,
+      "stillness": 6,
+      "dynamism": 0.4,
+      "evidence": "kopnęła, obwąchuje na czworakach, wstaje - ograniczone ruchy w statycznej scenie"
+    },
+    "imageryDensity": {
+      "metaphors": 2,
+      "comparisons": 1,
+      "personifications": 1,
+      "hyperboles": 1,
+      "per100words": 6.25
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.8,
+      "creationLevel": 0.7,
+      "ironicDistance": 0.3,
+      "autobiographicSignals": [
+        "gdzie się przecież znalazłem",
+        "taki jestem szczęśliwy"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "obrzydzenie",
+      "secondary": "euforia",
+      "intensity": 0.8
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "podmiot liryczny mówi w pierwszej osobie: 'znalazłem', 'stoję nago', 'jestem szczęśliwy'"
+    },
+    "addressee": {
+      "type": "nikt",
+      "evidence": "wiersz ma charakter narracyjny, opisuje sytuację bez bezpośredniego zwracania się do kogokolwiek"
+    },
+    "metaphors": [
+      {
+        "source": "Galileusz",
+        "target": "podmiot liryczny",
+        "example": "zwyciężyłeś Galilejczyku"
+      },
+      {
+        "source": "owoc kazirodztwa",
+        "target": "podmiot liryczny",
+        "example": "oni mówią: owoc kazirodztwa"
+      },
+      {
+        "source": "odrośla",
+        "target": "narząd płciowy",
+        "example": "mi pies obwąchał odrośla"
+      }
+    ],
+    "temperature": {
+      "value": 0.7,
+      "label": "gorące z elementami obrzydzenia"
+    },
+    "senses": {
+      "wzrok": 4,
+      "sluch": 3,
+      "dotyk": 5,
+      "smak": 2,
+      "zapach": 4
+    },
+    "autodestruction": {
+      "level": 0.6,
+      "signals": [
+        "nagość",
+        "upokorzenie",
+        "ucieczka w sen jako forma autodestrukcji",
+        "akceptacja degradacji"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 0.883,
+    "dfaAlpha": 1.683,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -1.6275074357420354
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -0.4518007312520336
+      },
+      {
+        "logWin": 1.6094379124341003,
+        "logFluc": -0.8975557690173875
+      },
+      {
+        "logWin": 1.791759469228055,
+        "logFluc": -0.22096647116102963
+      }
+    ],
+    "seriesLength": 19,
+    "series": [
+      7,
+      4,
+      4,
+      2,
+      3,
+      2,
+      5,
+      5,
+      5,
+      4,
+      2,
+      3,
+      3,
+      4,
+      2,
+      1,
+      2,
+      3,
+      4
+    ]
+  }
+}

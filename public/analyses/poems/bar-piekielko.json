@@ -1,0 +1,748 @@
+{
+  "id": "bar-piekielko",
+  "title": "Bar „Piekiełko”",
+  "wordCount": 42,
+  "lineCount": 12,
+  "uniqueWords": 37,
+  "vocabularyRichness": 0.881,
+  "avgWordsPerLine": 3.5,
+  "wordsPerLineDistribution": [
+    4,
+    3,
+    5,
+    3,
+    3,
+    2,
+    3,
+    3,
+    4,
+    3,
+    4,
+    5
+  ],
+  "wordFrequencies": [
+    [
+      "mężczyźni",
+      3
+    ],
+    [
+      "kobieta",
+      3
+    ],
+    [
+      "uroda",
+      2
+    ],
+    [
+      "dwaj",
+      1
+    ],
+    [
+      "barem",
+      1
+    ],
+    [
+      "bar",
+      1
+    ],
+    [
+      "piekiełko”",
+      1
+    ],
+    [
+      "neon",
+      1
+    ],
+    [
+      "przechodzi",
+      1
+    ],
+    [
+      "czerwonymi",
+      1
+    ],
+    [
+      "dodatkami",
+      1
+    ],
+    [
+      "buciki",
+      1
+    ],
+    [
+      "torebka",
+      1
+    ],
+    [
+      "rękawiczki",
+      1
+    ],
+    [
+      "pachnie",
+      1
+    ],
+    [
+      "niebem",
+      1
+    ],
+    [
+      "wieczór",
+      1
+    ],
+    [
+      "paryski”",
+      1
+    ],
+    [
+      "zapalają",
+      1
+    ],
+    [
+      "papierosy",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 0,
+    "period": 0,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 0,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 0,
+  "negationWords": [],
+  "pronounDistribution": {
+    "ja": 0,
+    "ty": 0,
+    "on_ona": 0,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 0,
+    "smierc": 0,
+    "erotyka": 0,
+    "alkohol": 1,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 1,
+    "bol": 0
+  },
+  "anaphors": [
+    [
+      "kobieta",
+      2
+    ],
+    [
+      "mężczyźni",
+      2
+    ]
+  ],
+  "firstWord": "dwaj",
+  "lastWord": "porusza",
+  "avgWordLength": 6.19,
+  "wordLengthDistribution": {
+    "4-5": 10,
+    "8-9": 7,
+    "1-3": 7,
+    "10+": 5,
+    "6-7": 13
+  },
+  "bigrams": [
+    [
+      "dwaj mężczyźni",
+      1
+    ],
+    [
+      "barem bar",
+      1
+    ],
+    [
+      "bar piekiełko”",
+      1
+    ],
+    [
+      "piekiełko” neon",
+      1
+    ],
+    [
+      "neon przechodzi",
+      1
+    ],
+    [
+      "przechodzi kobieta",
+      1
+    ],
+    [
+      "czerwonymi dodatkami",
+      1
+    ],
+    [
+      "dodatkami buciki",
+      1
+    ],
+    [
+      "buciki torebka",
+      1
+    ],
+    [
+      "torebka rękawiczki",
+      1
+    ],
+    [
+      "rękawiczki kobieta",
+      1
+    ]
+  ],
+  "poemWords": [
+    "dwaj",
+    "mężczyźni",
+    "barem",
+    "bar",
+    "piekiełko”",
+    "neon",
+    "przechodzi",
+    "kobieta",
+    "czerwonymi",
+    "dodatkami",
+    "buciki",
+    "torebka",
+    "rękawiczki",
+    "pachnie",
+    "niebem",
+    "wieczór",
+    "paryski”",
+    "zapalają",
+    "papierosy",
+    "wracają",
+    "piekła",
+    "uroda",
+    "barów",
+    "nieskończona",
+    "kobiet",
+    "patrzą",
+    "nich",
+    "porusza"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 22,
+        "VERB": 6,
+        "ADJ": 3,
+        "ADV": 1,
+        "PRON": 3,
+        "ADP": 5,
+        "CCONJ": 0,
+        "SCONJ": 0,
+        "INTJ": 0,
+        "PART": 0,
+        "DET": 0,
+        "NUM": 1
+      },
+      "posPercent": {
+        "NOUN": 0.5,
+        "VERB": 0.136,
+        "ADJ": 0.068,
+        "ADV": 0.023,
+        "PRON": 0.068,
+        "ADP": 0.114,
+        "CCONJ": 0,
+        "SCONJ": 0,
+        "INTJ": 0,
+        "PART": 0,
+        "DET": 0,
+        "NUM": 0.023
+      },
+      "nounConcreteAbstract": {
+        "concrete": 1,
+        "abstract": 0,
+        "ratio": 1
+      },
+      "verbTenses": {
+        "present": 7
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 1,
+        "stan": 1,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 1,
+        "oceniajace": 0,
+        "opisowe": 2
+      },
+      "adverbs": {
+        "temporalne": [],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "jak",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 0,
+        "ty": 0,
+        "on_ona": 0,
+        "my": 0,
+        "wy": 0,
+        "oni": 1
+      },
+      "negations": {
+        "nie": 0,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 0,
+        "percentSentences": 0
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 118,
+        "consonants": 152,
+        "ratio": 0.78
+      },
+      "consonantClusters": {
+        "count": 9,
+        "top": [
+          {
+            "cluster": "żcz",
+            "count": 3
+          },
+          {
+            "cluster": "prz",
+            "count": 2
+          },
+          {
+            "cluster": "czk",
+            "count": 1
+          },
+          {
+            "cluster": "chn",
+            "count": 1
+          },
+          {
+            "cluster": "ńcz",
+            "count": 1
+          },
+          {
+            "cluster": "trz",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 14,
+        "syczace": 16,
+        "nosowe": 27,
+        "plynne": 21
+      },
+      "rhymes": {
+        "exact": 0,
+        "approximate": 1,
+        "internal": 0,
+        "assonance": 1,
+        "alliteration": 0
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 14.7,
+        "median": 17,
+        "min": 5,
+        "max": 22,
+        "distribution": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 3.4,
+        "meanSyllables": 9.2,
+        "distribution": [
+          0,
+          0,
+          2,
+          6,
+          3,
+          2
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 3,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 0,
+        "noSubject": 0,
+        "noPredicate": 0,
+        "percent": 0
+      },
+      "enjambement": {
+        "count": 0,
+        "percent": 0,
+        "positions": []
+      },
+      "wordOrder": {
+        "svo": 3,
+        "inversions": 0,
+        "other": 0,
+        "deviationPercent": 0
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 0,
+        "śmierć": 0,
+        "erotyka": 0,
+        "alkohol": 2,
+        "samotność": 0,
+        "sacrum": 1,
+        "noc": 1,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 120,
+      "estimatedSeconds": 40,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 22,
+      "VERB": 6,
+      "ADJ": 3,
+      "ADV": 1,
+      "PRON": 3,
+      "ADP": 5,
+      "CCONJ": 0,
+      "SCONJ": 0,
+      "INTJ": 0,
+      "PART": 0,
+      "DET": 0,
+      "NUM": 1
+    },
+    "posPercent": {
+      "NOUN": 0.5,
+      "VERB": 0.136,
+      "ADJ": 0.068,
+      "ADV": 0.023,
+      "PRON": 0.068,
+      "ADP": 0.114,
+      "CCONJ": 0,
+      "SCONJ": 0,
+      "INTJ": 0,
+      "PART": 0,
+      "DET": 0,
+      "NUM": 0.023
+    },
+    "nounConcreteAbstract": {
+      "concrete": 1,
+      "abstract": 0,
+      "ratio": 1
+    },
+    "verbTenses": {
+      "present": 7
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 1,
+      "stan": 1,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 1,
+      "oceniajace": 0,
+      "opisowe": 2
+    },
+    "adverbs": {
+      "temporalne": [],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "jak",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 0,
+      "ty": 0,
+      "on_ona": 0,
+      "my": 0,
+      "wy": 0,
+      "oni": 1
+    },
+    "negations": {
+      "nie": 0,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 0,
+      "percentSentences": 0
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 14.7,
+      "median": 17,
+      "min": 5,
+      "max": 22,
+      "distribution": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 3.4,
+      "meanSyllables": 9.2,
+      "distribution": [
+        0,
+        0,
+        2,
+        6,
+        3,
+        2
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 3,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 0,
+      "noSubject": 0,
+      "noPredicate": 0,
+      "percent": 0
+    },
+    "enjambement": {
+      "count": 0,
+      "percent": 0,
+      "positions": []
+    },
+    "wordOrder": {
+      "svo": 3,
+      "inversions": 0,
+      "other": 0,
+      "deviationPercent": 0
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 118,
+      "consonants": 152,
+      "ratio": 0.78
+    },
+    "consonantClusters": {
+      "count": 9,
+      "top": [
+        {
+          "cluster": "żcz",
+          "count": 3
+        },
+        {
+          "cluster": "prz",
+          "count": 2
+        },
+        {
+          "cluster": "czk",
+          "count": 1
+        },
+        {
+          "cluster": "chn",
+          "count": 1
+        },
+        {
+          "cluster": "ńcz",
+          "count": 1
+        },
+        {
+          "cluster": "trz",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 14,
+      "syczace": 16,
+      "nosowe": 27,
+      "plynne": 21
+    },
+    "rhymes": {
+      "exact": 0,
+      "approximate": 1,
+      "internal": 0,
+      "assonance": 1,
+      "alliteration": 0
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        13
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 120,
+      "estimatedSeconds": 40,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "polregularny",
+      "regularityScore": 0.69
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "melancholia",
+      "secondary": "tęsknota",
+      "intensity": 0.7
+    },
+    "subjectPresence": {
+      "type": "ukryte",
+      "evidence": "brak bezpośredniego 'ja' - podmiot ukryty za obserwacją sceny z baru"
+    },
+    "addressee": {
+      "type": "czytelnik",
+      "evidence": "wiersz ma charakter opowiadania skierowanego do odbiorcy, brak bezpośredniego zwrotu"
+    },
+    "metaphors": [
+      {
+        "source": "bar",
+        "target": "piekło",
+        "example": "Bar „Piekiełko\" / Wracają do piekła"
+      },
+      {
+        "source": "kobieta",
+        "target": "niebo",
+        "example": "Kobieta pachnie niebem"
+      },
+      {
+        "source": "uroda barów",
+        "target": "uroda kobiet",
+        "example": "Uroda barów jest nieskończona / Jak uroda kobiet"
+      }
+    ],
+    "temperature": {
+      "value": 0.3,
+      "label": "chłodna obserwacja z nutą rezygnacji"
+    },
+    "senses": {
+      "wzrok": 5,
+      "sluch": 0,
+      "dotyk": 2,
+      "smak": 0,
+      "zapach": 3
+    },
+    "autodestruction": {
+      "level": 0.4,
+      "signals": [
+        "powrót do piekła",
+        "palenie papierosów",
+        "atmosfera rozpaczy w barze"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 0.463,
+    "dfaAlpha": 1.123,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -1.2220423276338725
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -0.8988807733455104
+      }
+    ],
+    "seriesLength": 12,
+    "series": [
+      4,
+      3,
+      5,
+      3,
+      3,
+      2,
+      3,
+      3,
+      4,
+      3,
+      4,
+      5
+    ]
+  }
+}

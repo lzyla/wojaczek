@@ -1,0 +1,751 @@
+{
+  "id": "reszta-krwi",
+  "title": "Reszta krwi",
+  "wordCount": 30,
+  "lineCount": 12,
+  "uniqueWords": 28,
+  "vocabularyRichness": 0.933,
+  "avgWordsPerLine": 2.5,
+  "wordsPerLineDistribution": [
+    1,
+    3,
+    3,
+    2,
+    1,
+    4,
+    5,
+    2,
+    3,
+    4,
+    1,
+    1
+  ],
+  "wordFrequencies": [
+    [
+      "widzisz",
+      1
+    ],
+    [
+      "ziemia",
+      1
+    ],
+    [
+      "wygląda",
+      1
+    ],
+    [
+      "gwiazda",
+      1
+    ],
+    [
+      "dnie",
+      1
+    ],
+    [
+      "łzy",
+      1
+    ],
+    [
+      "kochana",
+      1
+    ],
+    [
+      "świeci",
+      1
+    ],
+    [
+      "boża",
+      1
+    ],
+    [
+      "krówka",
+      1
+    ],
+    [
+      "kochany",
+      1
+    ],
+    [
+      "powiem",
+      1
+    ],
+    [
+      "reszta",
+      1
+    ],
+    [
+      "naszej",
+      1
+    ],
+    [
+      "krwi",
+      1
+    ],
+    [
+      "glob",
+      1
+    ],
+    [
+      "prześwieca",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 1,
+    "period": 0,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 1,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 1,
+  "negationWords": [
+    "nie"
+  ],
+  "pronounDistribution": {
+    "ja": 2,
+    "ty": 0,
+    "on_ona": 0,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 1,
+    "smierc": 0,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 1
+  },
+  "anaphors": [],
+  "firstWord": "widzisz",
+  "lastWord": "prześwieca",
+  "avgWordLength": 4.67,
+  "wordLengthDistribution": {
+    "6-7": 12,
+    "1-3": 10,
+    "4-5": 7,
+    "10+": 1
+  },
+  "bigrams": [
+    [
+      "ziemia wygląda",
+      1
+    ],
+    [
+      "dnie łzy",
+      1
+    ]
+  ],
+  "poemWords": [
+    "widzisz",
+    "ziemia",
+    "wygląda",
+    "gwiazda",
+    "dnie",
+    "łzy",
+    "kochana",
+    "świeci",
+    "boża",
+    "krówka",
+    "kochany",
+    "powiem",
+    "reszta",
+    "naszej",
+    "krwi",
+    "glob",
+    "prześwieca"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 8,
+        "VERB": 6,
+        "ADJ": 4,
+        "ADV": 1,
+        "PRON": 1,
+        "ADP": 1,
+        "CCONJ": 0,
+        "SCONJ": 1,
+        "INTJ": 0,
+        "PART": 2,
+        "DET": 3,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.25,
+        "VERB": 0.188,
+        "ADJ": 0.125,
+        "ADV": 0.031,
+        "PRON": 0.031,
+        "ADP": 0.031,
+        "CCONJ": 0,
+        "SCONJ": 0.031,
+        "INTJ": 0,
+        "PART": 0.062,
+        "DET": 0.094,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 1,
+        "abstract": 0,
+        "ratio": 1
+      },
+      "verbTenses": {
+        "present": 9,
+        "future": 1
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 1,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 0,
+        "opisowe": 4
+      },
+      "adverbs": {
+        "temporalne": [],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "tam",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 0,
+        "ty": 0,
+        "on_ona": 0,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 1,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 1,
+        "percentSentences": 0.5
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 62,
+        "consonants": 88,
+        "ratio": 0.7
+      },
+      "consonantClusters": {
+        "count": 5,
+        "top": [
+          {
+            "cluster": "szt",
+            "count": 2
+          },
+          {
+            "cluster": "krw",
+            "count": 2
+          },
+          {
+            "cluster": "prz",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 6,
+        "syczace": 11,
+        "nosowe": 14,
+        "plynne": 9
+      },
+      "rhymes": {
+        "exact": 2,
+        "approximate": 0,
+        "internal": 0,
+        "assonance": 1,
+        "alliteration": 0
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 16,
+        "median": 16,
+        "min": 2,
+        "max": 30,
+        "distribution": [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 2.5,
+        "meanSyllables": 4.8,
+        "distribution": [
+          0,
+          4,
+          3,
+          3,
+          2,
+          1
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 2,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 1,
+        "noSubject": 0,
+        "noPredicate": 0,
+        "percent": 0.5
+      },
+      "enjambement": {
+        "count": 7,
+        "percent": 0.58,
+        "positions": [
+          2,
+          4,
+          5,
+          7,
+          8,
+          11,
+          12
+        ]
+      },
+      "wordOrder": {
+        "svo": 0,
+        "inversions": 1,
+        "other": 1,
+        "deviationPercent": 1
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 1,
+        "śmierć": 0,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 62,
+      "estimatedSeconds": 21,
+      "tempoCategory": "umiarkowane"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 8,
+      "VERB": 6,
+      "ADJ": 4,
+      "ADV": 1,
+      "PRON": 1,
+      "ADP": 1,
+      "CCONJ": 0,
+      "SCONJ": 1,
+      "INTJ": 0,
+      "PART": 2,
+      "DET": 3,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.25,
+      "VERB": 0.188,
+      "ADJ": 0.125,
+      "ADV": 0.031,
+      "PRON": 0.031,
+      "ADP": 0.031,
+      "CCONJ": 0,
+      "SCONJ": 0.031,
+      "INTJ": 0,
+      "PART": 0.062,
+      "DET": 0.094,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 1,
+      "abstract": 0,
+      "ratio": 1
+    },
+    "verbTenses": {
+      "present": 9,
+      "future": 1
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 1,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 0,
+      "opisowe": 4
+    },
+    "adverbs": {
+      "temporalne": [],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "tam",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 0,
+      "ty": 0,
+      "on_ona": 0,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 1,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 1,
+      "percentSentences": 0.5
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 16,
+      "median": 16,
+      "min": 2,
+      "max": 30,
+      "distribution": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 2.5,
+      "meanSyllables": 4.8,
+      "distribution": [
+        0,
+        4,
+        3,
+        3,
+        2,
+        1
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 2,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 1,
+      "noSubject": 0,
+      "noPredicate": 0,
+      "percent": 0.5
+    },
+    "enjambement": {
+      "count": 7,
+      "percent": 0.58,
+      "positions": [
+        2,
+        4,
+        5,
+        7,
+        8,
+        11,
+        12
+      ]
+    },
+    "wordOrder": {
+      "svo": 0,
+      "inversions": 1,
+      "other": 1,
+      "deviationPercent": 1
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 62,
+      "consonants": 88,
+      "ratio": 0.7
+    },
+    "consonantClusters": {
+      "count": 5,
+      "top": [
+        {
+          "cluster": "szt",
+          "count": 2
+        },
+        {
+          "cluster": "krw",
+          "count": 2
+        },
+        {
+          "cluster": "prz",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 6,
+      "syczace": 11,
+      "nosowe": 14,
+      "plynne": 9
+    },
+    "rhymes": {
+      "exact": 2,
+      "approximate": 0,
+      "internal": 0,
+      "assonance": 1,
+      "alliteration": 0
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        13
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 62,
+      "estimatedSeconds": 21,
+      "tempoCategory": "umiarkowane"
+    },
+    "regularity": {
+      "type": "polregularny",
+      "regularityScore": 0.42
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Biblia",
+          "reference": "łza - dolina łez, ziemskie cierpienie",
+          "evidence": "Widzisz / to jest Ziemia / Wygląda jak gwiazda / na dnie / łzy"
+        },
+        {
+          "source": "inne",
+          "reference": "kosmiczna perspektywa - Gagarin",
+          "evidence": "Widzisz / to jest Ziemia / Wygląda jak gwiazda"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.7,
+        "baudelaire": 0.3,
+        "bursa": 0.2,
+        "stachura": 0.4,
+        "grochowiak": 0.6,
+        "bialoszewski": 0.3,
+        "rozewicz": 0.8
+      }
+    },
+    "space": {
+      "type": "otwarta",
+      "evidence": "kosmiczna perspektywa - Ziemia widziana z odległości jako gwiazda, glob",
+      "openClosedRatio": 0.9
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "nieokreslona",
+      "evidence": "brak wyraźnych wskaźników temporalnych, perspektywa ponadczasowa"
+    },
+    "motion": {
+      "movement": 3,
+      "stillness": 7,
+      "dynamism": 0.3,
+      "evidence": "statyczny obraz Ziemi jako gwiazdy, kontemplacyjna obserwacja"
+    },
+    "imageryDensity": {
+      "metaphors": 4,
+      "comparisons": 1,
+      "personifications": 1,
+      "hyperboles": 0,
+      "per100words": 12
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.8,
+      "creationLevel": 0.6,
+      "ironicDistance": 0.2,
+      "autobiographicSignals": [
+        "Moja kochana",
+        "Mój kochany",
+        "naszej krwi",
+        "data osobista"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "melancholia",
+      "secondary": "czułość",
+      "intensity": 0.8
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "Użycie zaimków pierwszej osoby 'Moja kochana', 'Mój kochany', 'naszej krwi' oraz czasownika 'powiem'"
+    },
+    "addressee": {
+      "type": "ty",
+      "evidence": "Bezpośrednie zwroty 'Moja kochana', 'Mój kochany' oraz użycie 'Widzisz' na początku"
+    },
+    "metaphors": [
+      {
+        "source": "Ziemia",
+        "target": "gwiazda na dnie łzy",
+        "example": "to jest Ziemia / Wygląda jak gwiazda / na dnie / łzy"
+      },
+      {
+        "source": "światło",
+        "target": "boża krówka",
+        "example": "co tam świeci, to pewnie / boża krówka"
+      },
+      {
+        "source": "światło ziemskie",
+        "target": "reszta krwi",
+        "example": "to reszta naszej krwi / glob / prześwieca"
+      }
+    ],
+    "temperature": {
+      "value": 0.3,
+      "label": "chłodna kontemplacja z nutą smutku"
+    },
+    "senses": {
+      "wzrok": 5,
+      "sluch": 0,
+      "dotyk": 1,
+      "smak": 1,
+      "zapach": 0
+    },
+    "autodestrukcja": {
+      "level": 0.4,
+      "signals": [
+        "obraz Ziemi jako resztki krwi",
+        "metafora łzy jako przestrzeni kosmicznej",
+        "poczucie końca/wyczerpania"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 0.849,
+    "dfaAlpha": 3.182,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -1.4451858789480798
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -0.5297448533586938
+      }
+    ],
+    "seriesLength": 12,
+    "series": [
+      1,
+      3,
+      3,
+      2,
+      1,
+      4,
+      5,
+      2,
+      3,
+      4,
+      1,
+      1
+    ]
+  }
+}

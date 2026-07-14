@@ -1,0 +1,952 @@
+{
+  "id": "ballada-obsceniczna",
+  "title": "Ballada obsceniczna",
+  "wordCount": 102,
+  "lineCount": 18,
+  "uniqueWords": 88,
+  "vocabularyRichness": 0.863,
+  "avgWordsPerLine": 5.67,
+  "wordsPerLineDistribution": [
+    3,
+    7,
+    8,
+    7,
+    3,
+    5,
+    7,
+    9,
+    4,
+    5,
+    8,
+    5,
+    3,
+    7,
+    6,
+    8,
+    4,
+    3
+  ],
+  "wordFrequencies": [
+    [
+      "gwiazda",
+      2
+    ],
+    [
+      "pożądania",
+      2
+    ],
+    [
+      "nagle",
+      2
+    ],
+    [
+      "konia",
+      2
+    ],
+    [
+      "bohater",
+      2
+    ],
+    [
+      "koniem",
+      2
+    ],
+    [
+      "panu",
+      1
+    ],
+    [
+      "witoldowi",
+      1
+    ],
+    [
+      "niedźwieckiemu",
+      1
+    ],
+    [
+      "czarna",
+      1
+    ],
+    [
+      "czerni",
+      1
+    ],
+    [
+      "wierna",
+      1
+    ],
+    [
+      "włochata",
+      1
+    ],
+    [
+      "piżmowym",
+      1
+    ],
+    [
+      "światłem",
+      1
+    ],
+    [
+      "solą",
+      1
+    ],
+    [
+      "oku",
+      1
+    ],
+    [
+      "węchu",
+      1
+    ],
+    [
+      "słony",
+      1
+    ],
+    [
+      "kręgosłup",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 1,
+    "period": 0,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 1,
+    "colon": 0,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 0,
+  "negationWords": [],
+  "pronounDistribution": {
+    "ja": 0,
+    "ty": 0,
+    "on_ona": 1,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 0,
+    "smierc": 0,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [],
+  "firstWord": "panu",
+  "lastWord": "xi",
+  "avgWordLength": 5.27,
+  "wordLengthDistribution": {
+    "4-5": 29,
+    "8-9": 21,
+    "10+": 1,
+    "6-7": 25,
+    "1-3": 26
+  },
+  "bigrams": [
+    [
+      "panu witoldowi",
+      1
+    ],
+    [
+      "witoldowi niedźwieckiemu",
+      1
+    ],
+    [
+      "niedźwieckiemu czarna",
+      1
+    ],
+    [
+      "czerni wierna",
+      1
+    ],
+    [
+      "gwiazda włochata",
+      1
+    ],
+    [
+      "włochata piżmowym",
+      1
+    ],
+    [
+      "piżmowym światłem",
+      1
+    ],
+    [
+      "światłem solą",
+      1
+    ]
+  ],
+  "poemWords": [
+    "panu",
+    "witoldowi",
+    "niedźwieckiemu",
+    "czarna",
+    "czerni",
+    "wierna",
+    "gwiazda",
+    "włochata",
+    "piżmowym",
+    "światłem",
+    "solą",
+    "oku",
+    "węchu",
+    "słony",
+    "kręgosłup",
+    "bólu",
+    "zwinięty",
+    "embrion",
+    "językiem",
+    "wejścia",
+    "maca",
+    "perszeron",
+    "pożądania",
+    "rozdęty",
+    "głodne",
+    "mleko",
+    "kopytem",
+    "bije",
+    "nagle",
+    "waha",
+    "zdjęty",
+    "siodle",
+    "mądrością",
+    "konia",
+    "zsiada",
+    "bohater",
+    "koniem",
+    "ślepa",
+    "różdżka",
+    "instynktu",
+    "powoduje",
+    "ogon",
+    "kurz",
+    "rynku",
+    "brukseli",
+    "zmiata",
+    "tknięta",
+    "bezmyślną",
+    "wargą",
+    "zaczyna",
+    "różowieć",
+    "grząska",
+    "róża",
+    "pół",
+    "pochłania",
+    "zażywa",
+    "szczęścia",
+    "spokojny",
+    "wnoszenia",
+    "próśb",
+    "męstwa",
+    "wolny",
+    "siąść",
+    "belgii",
+    "kolanach",
+    "1968"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 40,
+        "VERB": 9,
+        "ADJ": 17,
+        "ADV": 4,
+        "PRON": 3,
+        "ADP": 9,
+        "CCONJ": 5,
+        "SCONJ": 1,
+        "INTJ": 0,
+        "PART": 5,
+        "DET": 1,
+        "NUM": 1
+      },
+      "posPercent": {
+        "NOUN": 0.385,
+        "VERB": 0.087,
+        "ADJ": 0.163,
+        "ADV": 0.038,
+        "PRON": 0.029,
+        "ADP": 0.087,
+        "CCONJ": 0.048,
+        "SCONJ": 0.01,
+        "INTJ": 0,
+        "PART": 0.048,
+        "DET": 0.01,
+        "NUM": 0.01
+      },
+      "nounConcreteAbstract": {
+        "concrete": 0,
+        "abstract": 1,
+        "ratio": 0
+      },
+      "verbTenses": {
+        "present": 8,
+        "past": 1,
+        "infinitive": 2
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 2,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 1,
+        "oceniajace": 0,
+        "opisowe": 16
+      },
+      "adverbs": {
+        "temporalne": [],
+        "modalne": [],
+        "sposobu": [
+          "nagle"
+        ],
+        "top": [
+          {
+            "word": "nagle",
+            "count": 2
+          },
+          {
+            "word": "gdy",
+            "count": 1
+          },
+          {
+            "word": "kiedy",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 0,
+        "ty": 0,
+        "on_ona": 1,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 0,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 0,
+        "percentSentences": 0
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 232,
+        "consonants": 318,
+        "ratio": 0.73
+      },
+      "consonantClusters": {
+        "count": 17,
+        "top": [
+          {
+            "cluster": "bsc",
+            "count": 1
+          },
+          {
+            "cluster": "czn",
+            "count": 1
+          },
+          {
+            "cluster": "dźw",
+            "count": 1
+          },
+          {
+            "cluster": "mbr",
+            "count": 1
+          },
+          {
+            "cluster": "jśc",
+            "count": 1
+          },
+          {
+            "cluster": "rsz",
+            "count": 1
+          },
+          {
+            "cluster": "prz",
+            "count": 1
+          },
+          {
+            "cluster": "zdj",
+            "count": 1
+          },
+          {
+            "cluster": "żdżk",
+            "count": 1
+          },
+          {
+            "cluster": "nst",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 25,
+        "syczace": 51,
+        "nosowe": 71,
+        "plynne": 45
+      },
+      "rhymes": {
+        "exact": 1,
+        "approximate": 2,
+        "internal": 1,
+        "assonance": 2,
+        "alliteration": 0
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 17.3,
+        "median": 14,
+        "min": 1,
+        "max": 38,
+        "distribution": [
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 5.5,
+        "meanSyllables": 12.6,
+        "distribution": [
+          0,
+          0,
+          1,
+          4,
+          2,
+          3,
+          1,
+          4,
+          2,
+          2
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 6,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 2,
+        "noSubject": 2,
+        "noPredicate": 0,
+        "percent": 0.67
+      },
+      "enjambement": {
+        "count": 3,
+        "percent": 0.17,
+        "positions": [
+          11,
+          14,
+          15
+        ]
+      },
+      "wordOrder": {
+        "svo": 2,
+        "inversions": 0,
+        "other": 3,
+        "deviationPercent": 0.6
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 0,
+        "śmierć": 0,
+        "erotyka": 1,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 240,
+      "estimatedSeconds": 80,
+      "tempoCategory": "wolne"
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "mitologia",
+          "reference": "Pegaz/centaur",
+          "evidence": "Bohater co był koniem, perszeron pożądania"
+        },
+        {
+          "source": "inne",
+          "reference": "ballada jako gatunek",
+          "evidence": "tytuł BALLADA OBSCENICZNA"
+        },
+        {
+          "source": "inne",
+          "reference": "symbolizm francuski",
+          "evidence": "piżmowe światło, gwiazda włochata"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.8,
+        "baudelaire": 0.7,
+        "bursa": 0.3,
+        "stachura": 0.4,
+        "grochowiak": 0.6,
+        "bialoszewski": 0.2,
+        "rozewicz": 0.1
+      }
+    },
+    "space": {
+      "type": "otwarta",
+      "evidence": "rynek Brukseli, Belgia na kolanach - przestrzeń europejska",
+      "openClosedRatio": 0.8
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "nieokreslona",
+      "evidence": "brak wyraźnych wskaźników temporalnych"
+    },
+    "motion": {
+      "movement": 8,
+      "stillness": 3,
+      "dynamism": 0.8,
+      "evidence": "kopytem bije, z konia zsiada, ogon kurz zmiata, róża pochłania"
+    },
+    "imageryDensity": {
+      "metaphors": 8,
+      "comparisons": 2,
+      "personifications": 4,
+      "hyperboles": 3,
+      "per100words": 25.4
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.6,
+      "creationLevel": 0.9,
+      "ironicDistance": 0.4,
+      "autobiographicSignals": [
+        "dedykacja Panu Witoldowi Niedźwieckiemu",
+        "data 1968, 12 XI"
+      ]
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 40,
+      "VERB": 9,
+      "ADJ": 17,
+      "ADV": 4,
+      "PRON": 3,
+      "ADP": 9,
+      "CCONJ": 5,
+      "SCONJ": 1,
+      "INTJ": 0,
+      "PART": 5,
+      "DET": 1,
+      "NUM": 1
+    },
+    "posPercent": {
+      "NOUN": 0.385,
+      "VERB": 0.087,
+      "ADJ": 0.163,
+      "ADV": 0.038,
+      "PRON": 0.029,
+      "ADP": 0.087,
+      "CCONJ": 0.048,
+      "SCONJ": 0.01,
+      "INTJ": 0,
+      "PART": 0.048,
+      "DET": 0.01,
+      "NUM": 0.01
+    },
+    "nounConcreteAbstract": {
+      "concrete": 0,
+      "abstract": 1,
+      "ratio": 0
+    },
+    "verbTenses": {
+      "present": 8,
+      "past": 1,
+      "infinitive": 2
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 2,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 1,
+      "oceniajace": 0,
+      "opisowe": 16
+    },
+    "adverbs": {
+      "temporalne": [],
+      "modalne": [],
+      "sposobu": [
+        "nagle"
+      ],
+      "top": [
+        {
+          "word": "nagle",
+          "count": 2
+        },
+        {
+          "word": "gdy",
+          "count": 1
+        },
+        {
+          "word": "kiedy",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 0,
+      "ty": 0,
+      "on_ona": 1,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 0,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 0,
+      "percentSentences": 0
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 17.3,
+      "median": 14,
+      "min": 1,
+      "max": 38,
+      "distribution": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 5.5,
+      "meanSyllables": 12.6,
+      "distribution": [
+        0,
+        0,
+        1,
+        4,
+        2,
+        3,
+        1,
+        4,
+        2,
+        2
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 6,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 2,
+      "noSubject": 2,
+      "noPredicate": 0,
+      "percent": 0.67
+    },
+    "enjambement": {
+      "count": 3,
+      "percent": 0.17,
+      "positions": [
+        11,
+        14,
+        15
+      ]
+    },
+    "wordOrder": {
+      "svo": 2,
+      "inversions": 0,
+      "other": 3,
+      "deviationPercent": 0.6
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 232,
+      "consonants": 318,
+      "ratio": 0.73
+    },
+    "consonantClusters": {
+      "count": 17,
+      "top": [
+        {
+          "cluster": "bsc",
+          "count": 1
+        },
+        {
+          "cluster": "czn",
+          "count": 1
+        },
+        {
+          "cluster": "dźw",
+          "count": 1
+        },
+        {
+          "cluster": "mbr",
+          "count": 1
+        },
+        {
+          "cluster": "jśc",
+          "count": 1
+        },
+        {
+          "cluster": "rsz",
+          "count": 1
+        },
+        {
+          "cluster": "prz",
+          "count": 1
+        },
+        {
+          "cluster": "zdj",
+          "count": 1
+        },
+        {
+          "cluster": "żdżk",
+          "count": 1
+        },
+        {
+          "cluster": "nst",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 25,
+      "syczace": 51,
+      "nosowe": 71,
+      "plynne": 45
+    },
+    "rhymes": {
+      "exact": 1,
+      "approximate": 2,
+      "internal": 1,
+      "assonance": 2,
+      "alliteration": 0
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        19
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 240,
+      "estimatedSeconds": 80,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "polregularny",
+      "regularityScore": 0.68
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "euforia",
+      "secondary": "pożądanie",
+      "intensity": 0.8
+    },
+    "subjectPresence": {
+      "type": "ukryte",
+      "evidence": "Brak bezpośrednich form pierwszej osoby, podmiot ukryty za figurą bohatera-konia"
+    },
+    "addressee": {
+      "type": "nikt",
+      "evidence": "Dedykacja dla Niedźwieckiego, ale wiersz nie zwraca się bezpośrednio do kogokolwiek"
+    },
+    "metaphors": [
+      {
+        "source": "gwiazda",
+        "target": "pożądanie/seksualność",
+        "example": "Czarna i czerni wierna ta gwiazda włochata"
+      },
+      {
+        "source": "koń/jeździec",
+        "target": "podmiot liryczny/instynkt",
+        "example": "Perszeron pożądania"
+      },
+      {
+        "source": "róża",
+        "target": "organ płciowy/pochwa",
+        "example": "grząska róża pół konia pochłania"
+      }
+    ],
+    "temperature": {
+      "value": 0.9,
+      "label": "rozpalone pożądanie i erotyczna ekstaza"
+    },
+    "senses": {
+      "wzrok": 4,
+      "sluch": 1,
+      "dotyk": 5,
+      "smak": 3,
+      "zapach": 4
+    },
+    "autodestruction": {
+      "level": 0.3,
+      "signals": [
+        "Słony kręgosłup bólu",
+        "zwinięty w embrion",
+        "ślepa różdżka instynktu"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 0.438,
+    "dfaAlpha": 1.536,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -0.6719959907146007
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -0.5478539534335277
+      },
+      {
+        "logWin": 1.6094379124341003,
+        "logFluc": 0.15839961098098923
+      },
+      {
+        "logWin": 1.791759469228055,
+        "logFluc": 0.28867450356012136
+      }
+    ],
+    "seriesLength": 18,
+    "series": [
+      3,
+      7,
+      8,
+      7,
+      3,
+      5,
+      7,
+      9,
+      4,
+      5,
+      8,
+      5,
+      3,
+      7,
+      6,
+      8,
+      4,
+      3
+    ]
+  }
+}

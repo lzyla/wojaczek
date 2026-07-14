@@ -1,0 +1,667 @@
+{
+  "id": "kropla",
+  "title": "Kropla",
+  "wordCount": 19,
+  "lineCount": 9,
+  "uniqueWords": 17,
+  "vocabularyRichness": 0.895,
+  "avgWordsPerLine": 2.11,
+  "wordsPerLineDistribution": [
+    1,
+    2,
+    1,
+    3,
+    1,
+    4,
+    2,
+    2,
+    3
+  ],
+  "wordFrequencies": [
+    [
+      "kropla",
+      2
+    ],
+    [
+      "głowy",
+      1
+    ],
+    [
+      "wytrawione",
+      1
+    ],
+    [
+      "życie",
+      1
+    ],
+    [
+      "nieobecne",
+      1
+    ],
+    [
+      "zawarte",
+      1
+    ],
+    [
+      "kropli",
+      1
+    ],
+    [
+      "ciała",
+      1
+    ],
+    [
+      "nareszcie",
+      1
+    ],
+    [
+      "dobra",
+      1
+    ],
+    [
+      "łza",
+      1
+    ],
+    [
+      "2530",
+      1
+    ],
+    [
+      "iv",
+      1
+    ],
+    [
+      "66",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 1,
+    "period": 0,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 1,
+    "colon": 0,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 0,
+  "negationWords": [],
+  "pronounDistribution": {
+    "ja": 1,
+    "ty": 0,
+    "on_ona": 2,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 0,
+    "smierc": 0,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [
+    [
+      "kropla",
+      2
+    ]
+  ],
+  "firstWord": "kropla",
+  "lastWord": "iv",
+  "avgWordLength": 5,
+  "wordLengthDistribution": {
+    "6-7": 4,
+    "1-3": 6,
+    "4-5": 6,
+    "10+": 1,
+    "8-9": 2
+  },
+  "bigrams": [
+    [
+      "głowy wytrawione",
+      1
+    ],
+    [
+      "życie nieobecne",
+      1
+    ],
+    [
+      "nieobecne zawarte",
+      1
+    ],
+    [
+      "ciała kropla",
+      1
+    ],
+    [
+      "kropla nareszcie",
+      1
+    ],
+    [
+      "nareszcie dobra",
+      1
+    ],
+    [
+      "dobra łza",
+      1
+    ]
+  ],
+  "poemWords": [
+    "kropla",
+    "głowy",
+    "wytrawione",
+    "życie",
+    "nieobecne",
+    "zawarte",
+    "kropli",
+    "ciała",
+    "nareszcie",
+    "dobra",
+    "łza",
+    "2530"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 8,
+        "VERB": 0,
+        "ADJ": 6,
+        "ADV": 0,
+        "PRON": 2,
+        "ADP": 1,
+        "CCONJ": 0,
+        "SCONJ": 0,
+        "INTJ": 0,
+        "PART": 1,
+        "DET": 1,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.381,
+        "VERB": 0,
+        "ADJ": 0.286,
+        "ADV": 0,
+        "PRON": 0.095,
+        "ADP": 0.048,
+        "CCONJ": 0,
+        "SCONJ": 0,
+        "INTJ": 0,
+        "PART": 0.048,
+        "DET": 0.048,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 2,
+        "abstract": 1,
+        "ratio": 0.67
+      },
+      "verbTenses": {},
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 0,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 1,
+        "opisowe": 5
+      },
+      "adverbs": {
+        "temporalne": [],
+        "modalne": [],
+        "sposobu": [],
+        "top": []
+      },
+      "pronouns": {
+        "ja": 0,
+        "ty": 0,
+        "on_ona": 2,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 0,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 0,
+        "percentSentences": 0
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 41,
+        "consonants": 54,
+        "ratio": 0.76
+      },
+      "consonantClusters": {
+        "count": 1,
+        "top": [
+          {
+            "cluster": "szc",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 2,
+        "syczace": 6,
+        "nosowe": 5,
+        "plynne": 15
+      },
+      "rhymes": {
+        "exact": 1,
+        "approximate": 1,
+        "internal": 0,
+        "assonance": 0,
+        "alliteration": 1
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 10.5,
+        "median": 10,
+        "min": 8,
+        "max": 13,
+        "distribution": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 2,
+        "meanSyllables": 4.4,
+        "distribution": [
+          0,
+          4,
+          3,
+          2,
+          1
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 2,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 2,
+        "noSubject": 0,
+        "noPredicate": 0,
+        "percent": 1
+      },
+      "enjambement": {
+        "count": 4,
+        "percent": 0.44,
+        "positions": [
+          4,
+          5,
+          6,
+          8
+        ]
+      },
+      "wordOrder": {
+        "svo": 0,
+        "inversions": 0,
+        "other": 2,
+        "deviationPercent": 1
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 1,
+        "śmierć": 0,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 44,
+      "estimatedSeconds": 15,
+      "tempoCategory": "umiarkowane"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 8,
+      "VERB": 0,
+      "ADJ": 6,
+      "ADV": 0,
+      "PRON": 2,
+      "ADP": 1,
+      "CCONJ": 0,
+      "SCONJ": 0,
+      "INTJ": 0,
+      "PART": 1,
+      "DET": 1,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.381,
+      "VERB": 0,
+      "ADJ": 0.286,
+      "ADV": 0,
+      "PRON": 0.095,
+      "ADP": 0.048,
+      "CCONJ": 0,
+      "SCONJ": 0,
+      "INTJ": 0,
+      "PART": 0.048,
+      "DET": 0.048,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 2,
+      "abstract": 1,
+      "ratio": 0.67
+    },
+    "verbTenses": {},
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 0,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 1,
+      "opisowe": 5
+    },
+    "adverbs": {
+      "temporalne": [],
+      "modalne": [],
+      "sposobu": [],
+      "top": []
+    },
+    "pronouns": {
+      "ja": 0,
+      "ty": 0,
+      "on_ona": 2,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 0,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 0,
+      "percentSentences": 0
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 10.5,
+      "median": 10,
+      "min": 8,
+      "max": 13,
+      "distribution": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 2,
+      "meanSyllables": 4.4,
+      "distribution": [
+        0,
+        4,
+        3,
+        2,
+        1
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 2,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 2,
+      "noSubject": 0,
+      "noPredicate": 0,
+      "percent": 1
+    },
+    "enjambement": {
+      "count": 4,
+      "percent": 0.44,
+      "positions": [
+        4,
+        5,
+        6,
+        8
+      ]
+    },
+    "wordOrder": {
+      "svo": 0,
+      "inversions": 0,
+      "other": 2,
+      "deviationPercent": 1
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 41,
+      "consonants": 54,
+      "ratio": 0.76
+    },
+    "consonantClusters": {
+      "count": 1,
+      "top": [
+        {
+          "cluster": "szc",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 2,
+      "syczace": 6,
+      "nosowe": 5,
+      "plynne": 15
+    },
+    "rhymes": {
+      "exact": 1,
+      "approximate": 1,
+      "internal": 0,
+      "assonance": 0,
+      "alliteration": 1
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        10
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 44,
+      "estimatedSeconds": 15,
+      "tempoCategory": "umiarkowane"
+    },
+    "regularity": {
+      "type": "polregularny",
+      "regularityScore": 0.41
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Biblia",
+          "reference": "łza jako symbol cierpienia i oczyszczenia",
+          "evidence": "dobra łza"
+        },
+        {
+          "source": "Rimbaud",
+          "reference": "kondensacja egzystencji w małym obiekcie",
+          "evidence": "moje życie nieobecne / zawarte / w kropli"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.7,
+        "baudelaire": 0.3,
+        "bursa": 0.1,
+        "stachura": 0.2,
+        "grochowiak": 0.4,
+        "bialoszewski": 0.1,
+        "rozewicz": 0.3
+      }
+    },
+    "space": {
+      "type": "zamknieta",
+      "evidence": "całe życie zawarte w kropli - mikrokosmos, intymna przestrzeń ciała",
+      "openClosedRatio": 0.2
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "nieokreslona",
+      "evidence": "brak wskazówek temporalnych, fokus na momencie epifanicznym"
+    },
+    "motion": {
+      "movement": 2,
+      "stillness": 8,
+      "dynamism": 0.2,
+      "evidence": "statyczność kropli, kontemplacyjna nieruchomość"
+    },
+    "imageryDensity": {
+      "metaphors": 3,
+      "comparisons": 0,
+      "personifications": 1,
+      "hyperboles": 1,
+      "per100words": 125
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.9,
+      "creationLevel": 0.7,
+      "ironicDistance": 0.1,
+      "autobiographicSignals": [
+        "moje życie",
+        "data osobista",
+        "intymność relacji z 'Nią'"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "czułość",
+      "secondary": "tęsknota",
+      "intensity": 0.8
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "moje życie nieobecne"
+    },
+    "addressee": {
+      "type": "nikt",
+      "evidence": "brak bezpośredniego zwrotu, medytacyjny charakter wiersza"
+    },
+    "metaphors": [
+      {
+        "source": "kropla",
+        "target": "esencja życia/miłości",
+        "example": "moje życie nieobecne zawarte w kropli Jej ciała"
+      },
+      {
+        "source": "łza",
+        "target": "oczyszczenie/ulga",
+        "example": "nareszcie dobra łza"
+      },
+      {
+        "source": "wytrawione",
+        "target": "wypalenie/zniszczenie",
+        "example": "Jej głowy Wytrawione"
+      }
+    ],
+    "temperature": {
+      "value": 0.3,
+      "label": "chłodna kontemplacja z nutą ciepła"
+    },
+    "senses": {
+      "wzrok": 4,
+      "sluch": 0,
+      "dotyk": 5,
+      "smak": 1,
+      "zapach": 0
+    },
+    "autodestruction": {
+      "level": 0.4,
+      "signals": [
+        "moje życie nieobecne",
+        "wytrawione"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": null,
+    "dfaAlpha": null,
+    "dfaScaling": [],
+    "seriesLength": 9,
+    "series": [
+      1,
+      2,
+      1,
+      3,
+      1,
+      4,
+      2,
+      2,
+      3
+    ]
+  }
+}

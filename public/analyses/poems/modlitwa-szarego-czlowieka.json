@@ -1,0 +1,1090 @@
+{
+  "id": "modlitwa-szarego-czlowieka",
+  "title": "Modlitwa szarego człowieka",
+  "wordCount": 157,
+  "lineCount": 24,
+  "uniqueWords": 111,
+  "vocabularyRichness": 0.707,
+  "avgWordsPerLine": 6.54,
+  "wordsPerLineDistribution": [
+    7,
+    6,
+    7,
+    7,
+    6,
+    4,
+    7,
+    5,
+    6,
+    6,
+    7,
+    6,
+    8,
+    6,
+    7,
+    6,
+    7,
+    6,
+    7,
+    10,
+    7,
+    6,
+    7,
+    6
+  ],
+  "wordFrequencies": [
+    [
+      "głowy",
+      2
+    ],
+    [
+      "dano",
+      1
+    ],
+    [
+      "spokój",
+      1
+    ],
+    [
+      "wytchnienie",
+      1
+    ],
+    [
+      "wieców",
+      1
+    ],
+    [
+      "rewolucyj",
+      1
+    ],
+    [
+      "bomb",
+      1
+    ],
+    [
+      "atomowych",
+      1
+    ],
+    [
+      "mówiono",
+      1
+    ],
+    [
+      "jasnej",
+      1
+    ],
+    [
+      "przyszłości",
+      1
+    ],
+    [
+      "sztuczny",
+      1
+    ],
+    [
+      "księżyc",
+      1
+    ],
+    [
+      "zawracał",
+      1
+    ],
+    [
+      "straszono",
+      1
+    ],
+    [
+      "perspektywą",
+      1
+    ],
+    [
+      "nowych",
+      1
+    ],
+    [
+      "horyzontów",
+      1
+    ],
+    [
+      "znaczonych",
+      1
+    ],
+    [
+      "nowymi",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 0,
+    "period": 0,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 0,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 15,
+  "negationWords": [
+    "nic",
+    "nie"
+  ],
+  "pronounDistribution": {
+    "ja": 10,
+    "ty": 1,
+    "on_ona": 0,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 0,
+    "smierc": 0,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 1,
+    "sacrum": 0,
+    "noc": 1,
+    "bol": 0
+  },
+  "anaphors": [
+    [
+      "żeby",
+      13
+    ]
+  ],
+  "firstWord": "żeby",
+  "lastWord": "życiu",
+  "avgWordLength": 5.2,
+  "wordLengthDistribution": {
+    "4-5": 41,
+    "1-3": 49,
+    "8-9": 24,
+    "6-7": 29,
+    "10+": 14
+  },
+  "bigrams": [
+    [
+      "wreszcie dano",
+      1
+    ],
+    [
+      "dano spokój",
+      1
+    ],
+    [
+      "wieców rewolucyj",
+      1
+    ]
+  ],
+  "poemWords": [
+    "dano",
+    "spokój",
+    "wytchnienie",
+    "wieców",
+    "rewolucyj",
+    "bomb",
+    "atomowych",
+    "mówiono",
+    "jasnej",
+    "przyszłości",
+    "sztuczny",
+    "księżyc",
+    "zawracał",
+    "głowy",
+    "straszono",
+    "perspektywą",
+    "nowych",
+    "horyzontów",
+    "znaczonych",
+    "nowymi",
+    "łunami",
+    "słońc",
+    "wschodzących",
+    "oczu",
+    "drapieżnie",
+    "afisze",
+    "groźne",
+    "nawoływały",
+    "pilnej",
+    "służby",
+    "gwoli",
+    "potędze",
+    "ojczyzny",
+    "kazano",
+    "siebie",
+    "doskonalić",
+    "sprostania",
+    "zadaniom",
+    "których",
+    "mało",
+    "nauczano",
+    "szeregów",
+    "partii",
+    "wciągano",
+    "żebym",
+    "kolumnie",
+    "jakiejkolwiek",
+    "kroczył",
+    "najwyżej",
+    "procesji",
+    "ołtarza",
+    "szynkwasu",
+    "bito",
+    "podwyżkami",
+    "cen",
+    "mięsa",
+    "opłat",
+    "celnych",
+    "dbano",
+    "rozwój",
+    "umysłowy",
+    "prowadzono",
+    "rocznice",
+    "biednej",
+    "sterty",
+    "wielkich",
+    "słów",
+    "wsypywano",
+    "bym",
+    "nich",
+    "miał",
+    "nic",
+    "pozwolono",
+    "mieć",
+    "ciebie",
+    "chwilę",
+    "sekundę",
+    "zachwytu",
+    "śmiercią",
+    "zza",
+    "twych",
+    "pleców",
+    "wyglądała",
+    "zabraniano",
+    "zapomnieć",
+    "życiu"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 40,
+        "VERB": 21,
+        "ADJ": 16,
+        "ADV": 4,
+        "PRON": 13,
+        "ADP": 19,
+        "CCONJ": 5,
+        "SCONJ": 18,
+        "INTJ": 0,
+        "PART": 17,
+        "DET": 3,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.25,
+        "VERB": 0.131,
+        "ADJ": 0.1,
+        "ADV": 0.025,
+        "PRON": 0.081,
+        "ADP": 0.119,
+        "CCONJ": 0.031,
+        "SCONJ": 0.113,
+        "INTJ": 0,
+        "PART": 0.106,
+        "DET": 0.019,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 2,
+        "abstract": 2,
+        "ratio": 0.5
+      },
+      "verbTenses": {
+        "past": 17,
+        "infinitive": 3,
+        "present": 1,
+        "future": 1
+      },
+      "verbSemantics": {
+        "ruch": 1,
+        "percepcja": 0,
+        "stan": 1,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 1,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 1,
+        "oceniajace": 0,
+        "opisowe": 15
+      },
+      "adverbs": {
+        "temporalne": [],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "tak",
+            "count": 1
+          },
+          {
+            "word": "samo",
+            "count": 1
+          },
+          {
+            "word": "drapieżnie",
+            "count": 1
+          },
+          {
+            "word": "mało",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 8,
+        "ty": 0,
+        "on_ona": 0,
+        "my": 0,
+        "wy": 0,
+        "oni": 1
+      },
+      "negations": {
+        "nie": 14,
+        "nic": 1,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 15,
+        "percentSentences": 3.75
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 368,
+        "consonants": 472,
+        "ratio": 0.78
+      },
+      "consonantClusters": {
+        "count": 16,
+        "top": [
+          {
+            "cluster": "czn",
+            "count": 2
+          },
+          {
+            "cluster": "chw",
+            "count": 2
+          },
+          {
+            "cluster": "czł",
+            "count": 1
+          },
+          {
+            "cluster": "szc",
+            "count": 1
+          },
+          {
+            "cluster": "tchn",
+            "count": 1
+          },
+          {
+            "cluster": "prz",
+            "count": 1
+          },
+          {
+            "cluster": "szł",
+            "count": 1
+          },
+          {
+            "cluster": "szt",
+            "count": 1
+          },
+          {
+            "cluster": "str",
+            "count": 1
+          },
+          {
+            "cluster": "rsp",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 41,
+        "syczace": 77,
+        "nosowe": 103,
+        "plynne": 56
+      },
+      "rhymes": {
+        "exact": 1,
+        "approximate": 0,
+        "internal": 2,
+        "assonance": 0,
+        "alliteration": 5
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 40,
+        "median": 28,
+        "min": 10,
+        "max": 94,
+        "distribution": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 6.4,
+        "meanSyllables": 14.8,
+        "distribution": [
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          10,
+          10,
+          1,
+          0,
+          1
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 4,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 0,
+        "noSubject": 2,
+        "noPredicate": 0,
+        "percent": 0.5
+      },
+      "enjambement": {
+        "count": 0,
+        "percent": 0,
+        "positions": []
+      },
+      "wordOrder": {
+        "svo": 1,
+        "inversions": 1,
+        "other": 2,
+        "deviationPercent": 0.75
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 2,
+        "śmierć": 0,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 1,
+        "noc": 1,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 371,
+      "estimatedSeconds": 124,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 40,
+      "VERB": 21,
+      "ADJ": 16,
+      "ADV": 4,
+      "PRON": 13,
+      "ADP": 19,
+      "CCONJ": 5,
+      "SCONJ": 18,
+      "INTJ": 0,
+      "PART": 17,
+      "DET": 3,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.25,
+      "VERB": 0.131,
+      "ADJ": 0.1,
+      "ADV": 0.025,
+      "PRON": 0.081,
+      "ADP": 0.119,
+      "CCONJ": 0.031,
+      "SCONJ": 0.113,
+      "INTJ": 0,
+      "PART": 0.106,
+      "DET": 0.019,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 2,
+      "abstract": 2,
+      "ratio": 0.5
+    },
+    "verbTenses": {
+      "past": 17,
+      "infinitive": 3,
+      "present": 1,
+      "future": 1
+    },
+    "verbSemantics": {
+      "ruch": 1,
+      "percepcja": 0,
+      "stan": 1,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 1,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 1,
+      "oceniajace": 0,
+      "opisowe": 15
+    },
+    "adverbs": {
+      "temporalne": [],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "tak",
+          "count": 1
+        },
+        {
+          "word": "samo",
+          "count": 1
+        },
+        {
+          "word": "drapieżnie",
+          "count": 1
+        },
+        {
+          "word": "mało",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 8,
+      "ty": 0,
+      "on_ona": 0,
+      "my": 0,
+      "wy": 0,
+      "oni": 1
+    },
+    "negations": {
+      "nie": 14,
+      "nic": 1,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 15,
+      "percentSentences": 3.75
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 40,
+      "median": 28,
+      "min": 10,
+      "max": 94,
+      "distribution": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 6.4,
+      "meanSyllables": 14.8,
+      "distribution": [
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        10,
+        10,
+        1,
+        0,
+        1
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 4,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 0,
+      "noSubject": 2,
+      "noPredicate": 0,
+      "percent": 0.5
+    },
+    "enjambement": {
+      "count": 0,
+      "percent": 0,
+      "positions": []
+    },
+    "wordOrder": {
+      "svo": 1,
+      "inversions": 1,
+      "other": 2,
+      "deviationPercent": 0.75
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 368,
+      "consonants": 472,
+      "ratio": 0.78
+    },
+    "consonantClusters": {
+      "count": 16,
+      "top": [
+        {
+          "cluster": "czn",
+          "count": 2
+        },
+        {
+          "cluster": "chw",
+          "count": 2
+        },
+        {
+          "cluster": "czł",
+          "count": 1
+        },
+        {
+          "cluster": "szc",
+          "count": 1
+        },
+        {
+          "cluster": "tchn",
+          "count": 1
+        },
+        {
+          "cluster": "prz",
+          "count": 1
+        },
+        {
+          "cluster": "szł",
+          "count": 1
+        },
+        {
+          "cluster": "szt",
+          "count": 1
+        },
+        {
+          "cluster": "str",
+          "count": 1
+        },
+        {
+          "cluster": "rsp",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 41,
+      "syczace": 77,
+      "nosowe": 103,
+      "plynne": 56
+    },
+    "rhymes": {
+      "exact": 1,
+      "approximate": 0,
+      "internal": 2,
+      "assonance": 0,
+      "alliteration": 5
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        25
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 371,
+      "estimatedSeconds": 124,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "regularny",
+      "regularityScore": 0.89
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Biblia",
+          "reference": "modlitwa, ołtarz",
+          "evidence": "tytuł 'MODLITWA', 'Do ołtarza szynkwasu', forma litanijnej prośby"
+        },
+        {
+          "source": "mitologia",
+          "reference": "procesja religijna",
+          "evidence": "struktura rytualnej prośby, powtarzające się 'Żeby'"
+        },
+        {
+          "source": "Różewicz",
+          "reference": "prosta składnia, antypatos",
+          "evidence": "składnia parataktyczna, ironiczny dystans do wielkich słów"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.1,
+        "baudelaire": 0.1,
+        "bursa": 0.2,
+        "stachura": 0.3,
+        "grochowiak": 0.3,
+        "bialoszewski": 0.4,
+        "rozewicz": 0.7
+      }
+    },
+    "space": {
+      "type": "zamknieta",
+      "evidence": "przestrzeń ograniczona przez zewnętrzne przymusy, 'bieda głowa', kolumny, szeregi",
+      "openClosedRatio": 0.2
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "nieokreslona",
+      "evidence": "brak wyraźnych wskazówek temporalnych, data pod wierszem: 28 X 1968"
+    },
+    "motion": {
+      "movement": 4,
+      "stillness": 6,
+      "dynamism": 0.3,
+      "evidence": "ruch wymuszony 'kroczył', 'w kolumnie', ale dominuje pragnienie bezruchu 'spokój i wytchnienie'"
+    },
+    "imageryDensity": {
+      "metaphors": 3,
+      "comparisons": 1,
+      "personifications": 2,
+      "hyperboles": 1,
+      "per100words": 4.2
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.8,
+      "creationLevel": 0.3,
+      "ironicDistance": 0.6,
+      "autobiographicSignals": [
+        "data pod wierszem",
+        "forma osobistej modlitwy",
+        "konkretne realia PRL"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "rezygnacja",
+      "secondary": "melancholia",
+      "intensity": 0.8
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "Konsekwentne użycie zaimka 'mi' i form pierwszej osoby - 'żeby mi dano spokój', 'żeby mi nie mówiono'"
+    },
+    "addressee": {
+      "type": "bóg",
+      "evidence": "Tytuł 'Modlitwa' i zwrot 'Żeby Ciebie' sugerują modlitwę do Boga, mimo że jest to modlitwa paradoksalna"
+    },
+    "metaphors": [
+      {
+        "source": "słońca",
+        "target": "ideologie",
+        "example": "Słońc wschodzących do oczu tak samo drapieżnie"
+      },
+      {
+        "source": "ołtarz szynkwasu",
+        "target": "fałszywe wartości",
+        "example": "Do ołtarza szynkwasu"
+      },
+      {
+        "source": "kolumna/procesja",
+        "target": "przymusowe uczestnictwo",
+        "example": "żebym w kolumnie / Jakiejkolwiek nie kroczył"
+      }
+    ],
+    "temperature": {
+      "value": 0.3,
+      "label": "chłodna rezygnacja"
+    },
+    "senses": {
+      "wzrok": 4,
+      "sluch": 3,
+      "dotyk": 2,
+      "smak": 1,
+      "zapach": 0
+    },
+    "autodestrukcja": {
+      "level": 0.6,
+      "signals": [
+        "pragnienie zapomnienia o życiu",
+        "rezygnacja z działania",
+        "chęć ucieczki od rzeczywistości",
+        "pasywna postawa wobec śmierci"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 0.736,
+    "dfaAlpha": 1.04,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -1.1267321478295478
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -0.8432923216094308
+      },
+      {
+        "logWin": 1.6094379124341003,
+        "logFluc": -0.6602159427422256
+      },
+      {
+        "logWin": 1.791759469228055,
+        "logFluc": -0.42571817337863255
+      },
+      {
+        "logWin": 1.9459101490553132,
+        "logFluc": -0.23376686646107556
+      }
+    ],
+    "seriesLength": 24,
+    "series": [
+      7,
+      6,
+      7,
+      7,
+      6,
+      4,
+      7,
+      5,
+      6,
+      6,
+      7,
+      6,
+      8,
+      6,
+      7,
+      6,
+      7,
+      6,
+      7,
+      10,
+      7,
+      6,
+      7,
+      6
+    ]
+  }
+}

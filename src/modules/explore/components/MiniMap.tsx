@@ -1,9 +1,22 @@
 /// <reference types="vite/client" />
 import { useRef, useEffect } from 'react';
-import mapboxgl from 'mapbox-gl';
-import 'mapbox-gl/dist/mapbox-gl.css';
+import L from 'leaflet';
+import 'leaflet/dist/leaflet.css';
 
-const MAPBOX_TOKEN = import.meta.env.VITE_MAPBOX_TOKEN || '';
+const getTileLayer = () => {
+  return L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
+    attribution: '',
+    subdomains: 'abcd',
+    maxZoom: 19,
+  });
+};
+
+const markerIcon = L.divIcon({
+  className: '',
+  iconSize: [14, 14],
+  iconAnchor: [7, 7],
+  html: '<div style="width:14px;height:14px;background:#c23030;border-radius:50%;border:2px solid white;box-shadow:0 2px 6px rgba(0,0,0,0.4);"></div>',
+});
 
 interface MiniMapProps {
   lat: number;
@@ -14,56 +27,29 @@ interface MiniMapProps {
 
 export const MiniMap = ({ lat, lng, zoom = 16, interactive = false }: MiniMapProps) => {
   const mapContainer = useRef<HTMLDivElement>(null);
-  const map = useRef<mapboxgl.Map | null>(null);
+  const mapRef = useRef<L.Map | null>(null);
 
   useEffect(() => {
-    if (!mapContainer.current || !MAPBOX_TOKEN) return;
+    if (!mapContainer.current) return;
 
-    mapboxgl.accessToken = MAPBOX_TOKEN;
-
-    map.current = new mapboxgl.Map({
-      container: mapContainer.current,
-      style: 'mapbox://styles/mapbox/light-v11',
-      logoPosition: 'top-left' as const,
-      center: [lng, lat],
-      zoom,
-      pitch: 45,
-      bearing: -10,
-      interactive,
+    const map = L.map(mapContainer.current, {
       attributionControl: false,
+      zoomControl: false,
+      dragging: interactive,
+      scrollWheelZoom: interactive,
+      doubleClickZoom: interactive,
+      touchZoom: interactive,
+      boxZoom: interactive,
+      keyboard: interactive,
     });
+    mapRef.current = map;
 
-    map.current.on('load', () => {
-      const m = map.current!;
-      m.addSource('mapbox-dem', {
-        type: 'raster-dem',
-        url: 'mapbox://mapbox.mapbox-terrain-dem-v1',
-        tileSize: 512,
-      });
-      m.setTerrain({ source: 'mapbox-dem', exaggeration: 1.5 });
+    map.setView([lat, lng], zoom);
+    getTileLayer().addTo(map);
 
-      // Atmospheric fog
-      m.setFog({
-        color: 'rgb(186, 195, 210)',
-        'high-color': 'rgb(36, 50, 75)',
-        'horizon-blend': 0.06,
-        'space-color': 'rgb(15, 20, 35)',
-        'star-intensity': 0.3,
-      });
-    });
+    L.marker([lat, lng], { icon: markerIcon }).addTo(map);
 
-    // Marker
-    const el = document.createElement('div');
-    el.style.width = '14px';
-    el.style.height = '14px';
-    el.style.backgroundColor = '#c23030';
-    el.style.borderRadius = '50%';
-    el.style.border = '2px solid white';
-    el.style.boxShadow = '0 2px 6px rgba(0,0,0,0.4)';
-
-    new mapboxgl.Marker(el).setLngLat([lng, lat]).addTo(map.current);
-
-    return () => { map.current?.remove(); };
+    return () => { map.remove(); };
   }, [lat, lng, zoom, interactive]);
 
   return <div ref={mapContainer} className="h-48 w-full overflow-hidden" />;

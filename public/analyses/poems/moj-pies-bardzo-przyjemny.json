@@ -1,0 +1,1070 @@
+{
+  "id": "moj-pies-bardzo-przyjemny",
+  "title": "Mój pies bardzo przyjemny",
+  "wordCount": 97,
+  "lineCount": 19,
+  "uniqueWords": 62,
+  "vocabularyRichness": 0.639,
+  "avgWordsPerLine": 5.11,
+  "wordsPerLineDistribution": [
+    4,
+    4,
+    5,
+    5,
+    5,
+    5,
+    6,
+    6,
+    5,
+    4,
+    6,
+    6,
+    7,
+    6,
+    5,
+    4,
+    5,
+    6,
+    3
+  ],
+  "wordFrequencies": [
+    [
+      "pies",
+      3
+    ],
+    [
+      "matka",
+      3
+    ],
+    [
+      "przyjemny",
+      2
+    ],
+    [
+      "sypia",
+      2
+    ],
+    [
+      "zna",
+      2
+    ],
+    [
+      "coraz",
+      2
+    ],
+    [
+      "kocham",
+      2
+    ],
+    [
+      "brzydki",
+      1
+    ],
+    [
+      "śmierdzący",
+      1
+    ],
+    [
+      "łóżku",
+      1
+    ],
+    [
+      "matką",
+      1
+    ],
+    [
+      "kocha",
+      1
+    ],
+    [
+      "boleśnie",
+      1
+    ],
+    [
+      "skowyczy",
+      1
+    ],
+    [
+      "próbuje",
+      1
+    ],
+    [
+      "uciekać",
+      1
+    ],
+    [
+      "matki",
+      1
+    ],
+    [
+      "dawna",
+      1
+    ],
+    [
+      "starszą",
+      1
+    ],
+    [
+      "kobietą",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 0,
+    "period": 0,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 0,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 1,
+  "negationWords": [
+    "nie"
+  ],
+  "pronounDistribution": {
+    "ja": 9,
+    "ty": 0,
+    "on_ona": 6,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 0,
+    "smierc": 0,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [
+    [
+      "ale",
+      3
+    ],
+    [
+      "on",
+      2
+    ],
+    [
+      "więc",
+      2
+    ],
+    [
+      "moja",
+      2
+    ]
+  ],
+  "firstWord": "mój",
+  "lastWord": "wybrać",
+  "avgWordLength": 4.3,
+  "wordLengthDistribution": {
+    "1-3": 38,
+    "4-5": 33,
+    "6-7": 19,
+    "8-9": 6,
+    "10+": 1
+  },
+  "bigrams": [
+    [
+      "pies bardzo",
+      2
+    ],
+    [
+      "bardzo przyjemny",
+      2
+    ],
+    [
+      "matka ma",
+      2
+    ],
+    [
+      "brzydki śmierdzący",
+      1
+    ]
+  ],
+  "poemWords": [
+    "pies",
+    "przyjemny",
+    "brzydki",
+    "śmierdzący",
+    "sypia",
+    "łóżku",
+    "matką",
+    "kocha",
+    "boleśnie",
+    "skowyczy",
+    "próbuje",
+    "uciekać",
+    "zna",
+    "matki",
+    "dawna",
+    "matka",
+    "starszą",
+    "kobietą",
+    "robi",
+    "mizerny",
+    "źle",
+    "patrzy",
+    "oczu",
+    "dobrze",
+    "coraz",
+    "lepiej",
+    "mniej",
+    "kocham",
+    "matkę",
+    "psa",
+    "musiałem",
+    "wybrać"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 15,
+        "VERB": 17,
+        "ADJ": 8,
+        "ADV": 14,
+        "PRON": 12,
+        "ADP": 6,
+        "CCONJ": 7,
+        "SCONJ": 4,
+        "INTJ": 0,
+        "PART": 4,
+        "DET": 10,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.149,
+        "VERB": 0.168,
+        "ADJ": 0.079,
+        "ADV": 0.139,
+        "PRON": 0.119,
+        "ADP": 0.059,
+        "CCONJ": 0.069,
+        "SCONJ": 0.04,
+        "INTJ": 0,
+        "PART": 0.04,
+        "DET": 0.099,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 6,
+        "abstract": 0,
+        "ratio": 1
+      },
+      "verbTenses": {
+        "present": 17,
+        "past": 2,
+        "infinitive": 2
+      },
+      "verbSemantics": {
+        "ruch": 1,
+        "percepcja": 1,
+        "stan": 4,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 1,
+        "opisowe": 7
+      },
+      "adverbs": {
+        "temporalne": [],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "bardzo",
+            "count": 6
+          },
+          {
+            "word": "coraz",
+            "count": 2
+          },
+          {
+            "word": "boleśnie",
+            "count": 1
+          },
+          {
+            "word": "tak",
+            "count": 1
+          },
+          {
+            "word": "źle",
+            "count": 1
+          },
+          {
+            "word": "dobrze",
+            "count": 1
+          },
+          {
+            "word": "lepiej",
+            "count": 1
+          },
+          {
+            "word": "mniej",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 1,
+        "ty": 0,
+        "on_ona": 7,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 1,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 1,
+        "percentSentences": 1
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 185,
+        "consonants": 254,
+        "ratio": 0.73
+      },
+      "consonantClusters": {
+        "count": 15,
+        "top": [
+          {
+            "cluster": "rdz",
+            "count": 7
+          },
+          {
+            "cluster": "prz",
+            "count": 4
+          },
+          {
+            "cluster": "brz",
+            "count": 2
+          },
+          {
+            "cluster": "rsz",
+            "count": 1
+          },
+          {
+            "cluster": "trz",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 15,
+        "syczace": 44,
+        "nosowe": 56,
+        "plynne": 31
+      },
+      "rhymes": {
+        "exact": 1,
+        "approximate": 1,
+        "internal": 0,
+        "assonance": 1,
+        "alliteration": 1
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 101,
+        "median": 101,
+        "min": 101,
+        "max": 101,
+        "distribution": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 5,
+        "meanSyllables": 9.4,
+        "distribution": [
+          0,
+          0,
+          0,
+          1,
+          5,
+          7,
+          6,
+          1
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 1,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 0,
+        "noSubject": 0,
+        "noPredicate": 0,
+        "percent": 0
+      },
+      "enjambement": {
+        "count": 19,
+        "percent": 1,
+        "positions": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19
+        ]
+      },
+      "wordOrder": {
+        "svo": 1,
+        "inversions": 0,
+        "other": 0,
+        "deviationPercent": 0
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 0,
+        "śmierć": 0,
+        "erotyka": 2,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 188,
+      "estimatedSeconds": 63,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 15,
+      "VERB": 17,
+      "ADJ": 8,
+      "ADV": 14,
+      "PRON": 12,
+      "ADP": 6,
+      "CCONJ": 7,
+      "SCONJ": 4,
+      "INTJ": 0,
+      "PART": 4,
+      "DET": 10,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.149,
+      "VERB": 0.168,
+      "ADJ": 0.079,
+      "ADV": 0.139,
+      "PRON": 0.119,
+      "ADP": 0.059,
+      "CCONJ": 0.069,
+      "SCONJ": 0.04,
+      "INTJ": 0,
+      "PART": 0.04,
+      "DET": 0.099,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 6,
+      "abstract": 0,
+      "ratio": 1
+    },
+    "verbTenses": {
+      "present": 17,
+      "past": 2,
+      "infinitive": 2
+    },
+    "verbSemantics": {
+      "ruch": 1,
+      "percepcja": 1,
+      "stan": 4,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 1,
+      "opisowe": 7
+    },
+    "adverbs": {
+      "temporalne": [],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "bardzo",
+          "count": 6
+        },
+        {
+          "word": "coraz",
+          "count": 2
+        },
+        {
+          "word": "boleśnie",
+          "count": 1
+        },
+        {
+          "word": "tak",
+          "count": 1
+        },
+        {
+          "word": "źle",
+          "count": 1
+        },
+        {
+          "word": "dobrze",
+          "count": 1
+        },
+        {
+          "word": "lepiej",
+          "count": 1
+        },
+        {
+          "word": "mniej",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 1,
+      "ty": 0,
+      "on_ona": 7,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 1,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 1,
+      "percentSentences": 1
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 101,
+      "median": 101,
+      "min": 101,
+      "max": 101,
+      "distribution": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 5,
+      "meanSyllables": 9.4,
+      "distribution": [
+        0,
+        0,
+        0,
+        1,
+        5,
+        7,
+        6,
+        1
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 1,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 0,
+      "noSubject": 0,
+      "noPredicate": 0,
+      "percent": 0
+    },
+    "enjambement": {
+      "count": 19,
+      "percent": 1,
+      "positions": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ]
+    },
+    "wordOrder": {
+      "svo": 1,
+      "inversions": 0,
+      "other": 0,
+      "deviationPercent": 0
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 185,
+      "consonants": 254,
+      "ratio": 0.73
+    },
+    "consonantClusters": {
+      "count": 15,
+      "top": [
+        {
+          "cluster": "rdz",
+          "count": 7
+        },
+        {
+          "cluster": "prz",
+          "count": 4
+        },
+        {
+          "cluster": "brz",
+          "count": 2
+        },
+        {
+          "cluster": "rsz",
+          "count": 1
+        },
+        {
+          "cluster": "trz",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 15,
+      "syczace": 44,
+      "nosowe": 56,
+      "plynne": 31
+    },
+    "rhymes": {
+      "exact": 1,
+      "approximate": 1,
+      "internal": 0,
+      "assonance": 1,
+      "alliteration": 1
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        20
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 188,
+      "estimatedSeconds": 63,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "regularny",
+      "regularityScore": 0.81
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Biblia",
+          "reference": "motyw wyboru między miłościami",
+          "evidence": "przecież musiałem wybrać"
+        },
+        {
+          "source": "mitologia",
+          "reference": "kompleks edypalny",
+          "evidence": "moja matka jest starszą kobietą / i wie co robi"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.2,
+        "baudelaire": 0.1,
+        "bursa": 0.7,
+        "stachura": 0.3,
+        "grochowiak": 0.8,
+        "bialoszewski": 0.9,
+        "rozewicz": 0.6
+      }
+    },
+    "space": {
+      "type": "zamknieta",
+      "evidence": "on sypia w łóżku / on sypia z moją matką",
+      "openClosedRatio": 0.1
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "nieokreslona",
+      "evidence": "brak wyraźnych wskaźników temporalnych"
+    },
+    "motion": {
+      "movement": 3,
+      "stillness": 7,
+      "dynamism": 0.3,
+      "evidence": "skowyczy i próbuje uciekać vs sypia w łóżku"
+    },
+    "imageryDensity": {
+      "metaphors": 2,
+      "comparisons": 0,
+      "personifications": 1,
+      "hyperboles": 1,
+      "per100words": 4.2
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.9,
+      "creationLevel": 0.3,
+      "ironicDistance": 0.2,
+      "autobiographicSignals": [
+        "mój pies",
+        "moją matką",
+        "ja kocham",
+        "musiałem wybrać"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "melancholia",
+      "secondary": "rezygnacja",
+      "intensity": 0.8
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "ja kocham moją matkę, psa też kocham bardzo, przecież musiałem wybrać"
+    },
+    "addressee": {
+      "type": "czytelnik",
+      "evidence": "brak bezpośredniego zwrotu, monolog kierowany do odbiorcy"
+    },
+    "metaphors": [
+      {
+        "source": "pies",
+        "target": "relacja intymna/seksualna",
+        "example": "on sypia w łóżku, on sypia z moją matką"
+      },
+      {
+        "source": "posiadanie psa",
+        "target": "utrata kontroli nad bliską osobą",
+        "example": "jest coraz mniej mój"
+      },
+      {
+        "source": "wybór między psem a matką",
+        "target": "wybór między własnymi potrzebami a lojalnością rodzinną",
+        "example": "przecież musiałem wybrać"
+      }
+    ],
+    "temperature": {
+      "value": 0.3,
+      "label": "chłodna rezygnacja z nutą goryczy"
+    },
+    "senses": {
+      "wzrok": 3,
+      "sluch": 2,
+      "dotyk": 4,
+      "smak": 0,
+      "zapach": 2
+    },
+    "autodestruction": {
+      "level": 0.6,
+      "signals": [
+        "rezygnacja z własnych uczuć",
+        "podporządkowanie się sytuacji",
+        "wybór prowadzący do straty"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 0.868,
+    "dfaAlpha": 1.472,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -1.8506509870562453
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -0.9191415948435898
+      },
+      {
+        "logWin": 1.6094379124341003,
+        "logFluc": -0.7850244212290224
+      },
+      {
+        "logWin": 1.791759469228055,
+        "logFluc": -0.8302037014003418
+      }
+    ],
+    "seriesLength": 19,
+    "series": [
+      4,
+      4,
+      5,
+      5,
+      5,
+      5,
+      6,
+      6,
+      5,
+      4,
+      6,
+      6,
+      7,
+      6,
+      5,
+      4,
+      5,
+      6,
+      3
+    ]
+  }
+}

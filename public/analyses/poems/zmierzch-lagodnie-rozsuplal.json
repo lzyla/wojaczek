@@ -1,0 +1,1002 @@
+{
+  "id": "zmierzch-lagodnie-rozsuplal",
+  "title": "Zmierzch łagodnie rozsupłał",
+  "wordCount": 132,
+  "lineCount": 20,
+  "uniqueWords": 115,
+  "vocabularyRichness": 0.871,
+  "avgWordsPerLine": 6.6,
+  "wordsPerLineDistribution": [
+    6,
+    6,
+    7,
+    7,
+    9,
+    8,
+    6,
+    6,
+    7,
+    9,
+    6,
+    8,
+    6,
+    6,
+    6,
+    5,
+    5,
+    7,
+    6,
+    6
+  ],
+  "wordFrequencies": [
+    [
+      "mogłam",
+      2
+    ],
+    [
+      "zmierzch",
+      1
+    ],
+    [
+      "łagodnie",
+      1
+    ],
+    [
+      "rozsupłał",
+      1
+    ],
+    [
+      "mózgu",
+      1
+    ],
+    [
+      "ciasny",
+      1
+    ],
+    [
+      "węzeł",
+      1
+    ],
+    [
+      "blask",
+      1
+    ],
+    [
+      "zapalanej",
+      1
+    ],
+    [
+      "lampy",
+      1
+    ],
+    [
+      "uciął",
+      1
+    ],
+    [
+      "ręce",
+      1
+    ],
+    [
+      "mrozu",
+      1
+    ],
+    [
+      "szybę",
+      1
+    ],
+    [
+      "rosły",
+      1
+    ],
+    [
+      "serce",
+      1
+    ],
+    [
+      "macać",
+      1
+    ],
+    [
+      "kryształ",
+      1
+    ],
+    [
+      "krwi",
+      1
+    ],
+    [
+      "roztopił",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 14,
+    "period": 4,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 1,
+    "dash": 4,
+    "colon": 0,
+    "semicolon": 3
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 3,
+  "negationWords": [
+    "nie"
+  ],
+  "pronounDistribution": {
+    "ja": 1,
+    "ty": 1,
+    "on_ona": 0,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 2,
+    "smierc": 1,
+    "erotyka": 0,
+    "alkohol": 1,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 1,
+    "bol": 0
+  },
+  "anaphors": [],
+  "firstWord": "zmierzch",
+  "lastWord": "imienia",
+  "avgWordLength": 5.55,
+  "wordLengthDistribution": {
+    "8-9": 23,
+    "4-5": 41,
+    "6-7": 24,
+    "1-3": 33,
+    "10+": 11
+  },
+  "bigrams": [
+    [
+      "zmierzch łagodnie",
+      1
+    ],
+    [
+      "łagodnie rozsupłał",
+      1
+    ],
+    [
+      "rozsupłał mózgu",
+      1
+    ],
+    [
+      "mózgu ciasny",
+      1
+    ],
+    [
+      "ciasny węzeł",
+      1
+    ],
+    [
+      "węzeł blask",
+      1
+    ],
+    [
+      "blask zapalanej",
+      1
+    ],
+    [
+      "zapalanej lampy",
+      1
+    ],
+    [
+      "lampy jakby",
+      1
+    ],
+    [
+      "jakby uciął",
+      1
+    ],
+    [
+      "uciął ręce",
+      1
+    ],
+    [
+      "ręce mrozu",
+      1
+    ]
+  ],
+  "poemWords": [
+    "zmierzch",
+    "łagodnie",
+    "rozsupłał",
+    "mózgu",
+    "ciasny",
+    "węzeł",
+    "blask",
+    "zapalanej",
+    "lampy",
+    "uciął",
+    "ręce",
+    "mrozu",
+    "szybę",
+    "rosły",
+    "serce",
+    "macać",
+    "kryształ",
+    "krwi",
+    "roztopił",
+    "pękła",
+    "limfy",
+    "szklanka",
+    "rdza",
+    "szronu",
+    "spłynęła",
+    "rzęs",
+    "ściekła",
+    "łza",
+    "nareszcie",
+    "łaskawa",
+    "końcu",
+    "śmierć",
+    "wściekła",
+    "suka",
+    "przywarowała",
+    "nogach",
+    "łóżka",
+    "chłodnym",
+    "nosem",
+    "póty",
+    "tykając",
+    "sterczących",
+    "spod",
+    "kołdry",
+    "stóp",
+    "póki",
+    "schowałam",
+    "mogłam",
+    "zacząć",
+    "bać",
+    "tamtej",
+    "śmierci",
+    "bezimiennej",
+    "kundli",
+    "śmietnikach",
+    "chodniku",
+    "wznak",
+    "rozwaliła",
+    "iskając",
+    "gołe",
+    "podbrzusze",
+    "lęk",
+    "szczególny",
+    "imiennie",
+    "wywołać",
+    "rejestru",
+    "snów",
+    "dziennika",
+    "jawy",
+    "katalogu",
+    "czytelni",
+    "almanachu",
+    "gotajskiego",
+    "szkolnych",
+    "wypisów",
+    "zarysu",
+    "psychoanalizy",
+    "historii",
+    "świętej",
+    "kingi",
+    "pism",
+    "pornograficznych",
+    "inwentarza",
+    "pamięci",
+    "strzegłam",
+    "przypadkiem",
+    "wyrzec",
+    "imienia"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 44,
+        "VERB": 21,
+        "ADJ": 15,
+        "ADV": 3,
+        "PRON": 7,
+        "ADP": 13,
+        "CCONJ": 5,
+        "SCONJ": 4,
+        "INTJ": 0,
+        "PART": 11,
+        "DET": 6,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.326,
+        "VERB": 0.156,
+        "ADJ": 0.111,
+        "ADV": 0.022,
+        "PRON": 0.052,
+        "ADP": 0.096,
+        "CCONJ": 0.037,
+        "SCONJ": 0.03,
+        "INTJ": 0,
+        "PART": 0.081,
+        "DET": 0.044,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 5,
+        "abstract": 4,
+        "ratio": 0.56
+      },
+      "verbTenses": {
+        "past": 13,
+        "infinitive": 5,
+        "future": 1,
+        "present": 2
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 0,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 1,
+        "oceniajace": 0,
+        "opisowe": 14
+      },
+      "adverbs": {
+        "temporalne": [],
+        "modalne": [],
+        "sposobu": [
+          "łagodnie"
+        ],
+        "top": [
+          {
+            "word": "łagodnie",
+            "count": 1
+          },
+          {
+            "word": "wtedy",
+            "count": 1
+          },
+          {
+            "word": "imiennie",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 1,
+        "ty": 0,
+        "on_ona": 0,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 3,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 3,
+        "percentSentences": 0.43
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 299,
+        "consonants": 458,
+        "ratio": 0.65
+      },
+      "consonantClusters": {
+        "count": 27,
+        "top": [
+          {
+            "cluster": "prz",
+            "count": 4
+          },
+          {
+            "cluster": "rzch",
+            "count": 2
+          },
+          {
+            "cluster": "szt",
+            "count": 1
+          },
+          {
+            "cluster": "krw",
+            "count": 1
+          },
+          {
+            "cluster": "szkl",
+            "count": 1
+          },
+          {
+            "cluster": "rdz",
+            "count": 1
+          },
+          {
+            "cluster": "szr",
+            "count": 1
+          },
+          {
+            "cluster": "spł",
+            "count": 1
+          },
+          {
+            "cluster": "szc",
+            "count": 1
+          },
+          {
+            "cluster": "wśc",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 30,
+        "syczace": 93,
+        "nosowe": 84,
+        "plynne": 83
+      },
+      "rhymes": {
+        "exact": 2,
+        "approximate": 0,
+        "internal": 0,
+        "assonance": 2,
+        "alliteration": 1
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 19.3,
+        "median": 14,
+        "min": 3,
+        "max": 38,
+        "distribution": [
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 6.6,
+        "meanSyllables": 14.8,
+        "distribution": [
+          0,
+          0,
+          0,
+          1,
+          0,
+          2,
+          8,
+          4,
+          4,
+          2
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 7,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 1,
+        "noSubject": 2,
+        "noPredicate": 0,
+        "percent": 0.43
+      },
+      "enjambement": {
+        "count": 1,
+        "percent": 0.05,
+        "positions": [
+          5
+        ]
+      },
+      "wordOrder": {
+        "svo": 3,
+        "inversions": 1,
+        "other": 3,
+        "deviationPercent": 0.57
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 3,
+        "śmierć": 2,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 2,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 311,
+      "estimatedSeconds": 104,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 44,
+      "VERB": 21,
+      "ADJ": 15,
+      "ADV": 3,
+      "PRON": 7,
+      "ADP": 13,
+      "CCONJ": 5,
+      "SCONJ": 4,
+      "INTJ": 0,
+      "PART": 11,
+      "DET": 6,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.326,
+      "VERB": 0.156,
+      "ADJ": 0.111,
+      "ADV": 0.022,
+      "PRON": 0.052,
+      "ADP": 0.096,
+      "CCONJ": 0.037,
+      "SCONJ": 0.03,
+      "INTJ": 0,
+      "PART": 0.081,
+      "DET": 0.044,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 5,
+      "abstract": 4,
+      "ratio": 0.56
+    },
+    "verbTenses": {
+      "past": 13,
+      "infinitive": 5,
+      "future": 1,
+      "present": 2
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 0,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 1,
+      "oceniajace": 0,
+      "opisowe": 14
+    },
+    "adverbs": {
+      "temporalne": [],
+      "modalne": [],
+      "sposobu": [
+        "łagodnie"
+      ],
+      "top": [
+        {
+          "word": "łagodnie",
+          "count": 1
+        },
+        {
+          "word": "wtedy",
+          "count": 1
+        },
+        {
+          "word": "imiennie",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 1,
+      "ty": 0,
+      "on_ona": 0,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 3,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 3,
+      "percentSentences": 0.43
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 19.3,
+      "median": 14,
+      "min": 3,
+      "max": 38,
+      "distribution": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 6.6,
+      "meanSyllables": 14.8,
+      "distribution": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        2,
+        8,
+        4,
+        4,
+        2
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 7,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 1,
+      "noSubject": 2,
+      "noPredicate": 0,
+      "percent": 0.43
+    },
+    "enjambement": {
+      "count": 1,
+      "percent": 0.05,
+      "positions": [
+        5
+      ]
+    },
+    "wordOrder": {
+      "svo": 3,
+      "inversions": 1,
+      "other": 3,
+      "deviationPercent": 0.57
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 299,
+      "consonants": 458,
+      "ratio": 0.65
+    },
+    "consonantClusters": {
+      "count": 27,
+      "top": [
+        {
+          "cluster": "prz",
+          "count": 4
+        },
+        {
+          "cluster": "rzch",
+          "count": 2
+        },
+        {
+          "cluster": "szt",
+          "count": 1
+        },
+        {
+          "cluster": "krw",
+          "count": 1
+        },
+        {
+          "cluster": "szkl",
+          "count": 1
+        },
+        {
+          "cluster": "rdz",
+          "count": 1
+        },
+        {
+          "cluster": "szr",
+          "count": 1
+        },
+        {
+          "cluster": "spł",
+          "count": 1
+        },
+        {
+          "cluster": "szc",
+          "count": 1
+        },
+        {
+          "cluster": "wśc",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 30,
+      "syczace": 93,
+      "nosowe": 84,
+      "plynne": 83
+    },
+    "rhymes": {
+      "exact": 2,
+      "approximate": 0,
+      "internal": 0,
+      "assonance": 2,
+      "alliteration": 1
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        21
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 311,
+      "estimatedSeconds": 104,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "regularny",
+      "regularityScore": 0.88
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Biblia",
+          "reference": "święta Kinga",
+          "evidence": "z historii świętej Kingi"
+        },
+        {
+          "source": "inne",
+          "reference": "Almanach Gotajski",
+          "evidence": "z Almanachu Gotajskiego"
+        },
+        {
+          "source": "inne",
+          "reference": "psychoanaliza",
+          "evidence": "z zarysu psychoanalizy"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.7,
+        "baudelaire": 0.6,
+        "bursa": 0.3,
+        "stachura": 0.4,
+        "grochowiak": 0.5,
+        "bialoszewski": 0.2,
+        "rozewicz": 0.3
+      }
+    },
+    "space": {
+      "type": "zamknieta",
+      "evidence": "łóżko, kołdra, zapalana lampa, szyba - wnętrze pokoju",
+      "openClosedRatio": 0.2
+    },
+    "timeOfDay": {
+      "period": "wieczor",
+      "season": "zima",
+      "evidence": "zmierzch łagodnie rozsupłał, zapalanej lampy, mróz, szron z rzęs"
+    },
+    "motion": {
+      "movement": 8,
+      "stillness": 3,
+      "dynamism": 0.8,
+      "evidence": "rozsupłał, uciął, rosły macać, roztopił, pękła, spłynęła, ściekła, przywarowała, tykając, schowałam"
+    },
+    "imageryDensity": {
+      "metaphors": 12,
+      "comparisons": 3,
+      "personifications": 8,
+      "hyperboles": 2,
+      "per100words": 15.7
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.9,
+      "creationLevel": 0.8,
+      "ironicDistance": 0.1,
+      "autobiographicSignals": [
+        "data 8 III 1971",
+        "forma pierwszoosobowa",
+        "intymne wyznanie o lękach",
+        "Twojego imienia - bezpośredni zwrot"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "melancholia",
+      "secondary": "tęsknota",
+      "intensity": 0.8
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "podmiot liryczny mówi w pierwszej osobie: 'schowałam', 'mogłam', 'się strzegłam'"
+    },
+    "addressee": {
+      "type": "ty",
+      "evidence": "bezpośrednie zwrócenie się w ostatnim wersie: 'By przypadkiem nie wyrzec Twojego imienia'"
+    },
+    "metaphors": [
+      {
+        "source": "węzeł",
+        "target": "napięcie umysłowe",
+        "example": "mózgu ciasny węzeł"
+      },
+      {
+        "source": "ręce mrozu",
+        "target": "zimno dotykające serca",
+        "example": "uciął ręce Mrozu, które przez szybę rosły serce macać"
+      },
+      {
+        "source": "śmierć jako suka",
+        "target": "śmierć bliska i oswojona",
+        "example": "śmierć, wściekła Suka przywarowała w nogach łóżka"
+      },
+      {
+        "source": "kryształ krwi",
+        "target": "zamarznięte życie",
+        "example": "Kryształ krwi się roztopił"
+      }
+    ],
+    "temperature": {
+      "value": 0.3,
+      "label": "chłodne kontemplowanie śmierci i melancholijne oczekiwanie"
+    },
+    "senses": {
+      "wzrok": 4,
+      "sluch": 1,
+      "dotyk": 5,
+      "smak": 0,
+      "zapach": 0
+    },
+    "autodestruction": {
+      "level": 0.7,
+      "signals": [
+        "obsesyjne myślenie o śmierci",
+        "katalogowanie lęków",
+        "unikanie wypowiedzenia imienia ukochanej osoby",
+        "pasywne oczekiwanie na śmierć"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 0.967,
+    "dfaAlpha": 1.359,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -1.2910351991208227
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -0.9254935333204146
+      },
+      {
+        "logWin": 1.6094379124341003,
+        "logFluc": -0.44185991413128356
+      },
+      {
+        "logWin": 1.791759469228055,
+        "logFluc": -0.42229798359858434
+      }
+    ],
+    "seriesLength": 20,
+    "series": [
+      6,
+      6,
+      7,
+      7,
+      9,
+      8,
+      6,
+      6,
+      7,
+      9,
+      6,
+      8,
+      6,
+      6,
+      6,
+      5,
+      5,
+      7,
+      6,
+      6
+    ]
+  }
+}

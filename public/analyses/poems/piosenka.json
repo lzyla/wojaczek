@@ -1,0 +1,867 @@
+{
+  "id": "piosenka",
+  "title": "Piosenka",
+  "wordCount": 62,
+  "lineCount": 20,
+  "uniqueWords": 54,
+  "vocabularyRichness": 0.871,
+  "avgWordsPerLine": 3.1,
+  "wordsPerLineDistribution": [
+    4,
+    5,
+    2,
+    2,
+    3,
+    2,
+    4,
+    3,
+    3,
+    2,
+    3,
+    2,
+    3,
+    2,
+    4,
+    2,
+    4,
+    4,
+    4,
+    4
+  ],
+  "wordFrequencies": [
+    [
+      "śpiewam",
+      5
+    ],
+    [
+      "przychodzę",
+      1
+    ],
+    [
+      "ciebie",
+      1
+    ],
+    [
+      "wejścia",
+      1
+    ],
+    [
+      "ulubione",
+      1
+    ],
+    [
+      "preludium",
+      1
+    ],
+    [
+      "zdejmowanej",
+      1
+    ],
+    [
+      "sukienki",
+      1
+    ],
+    [
+      "staccato",
+      1
+    ],
+    [
+      "prędkich",
+      1
+    ],
+    [
+      "gestów",
+      1
+    ],
+    [
+      "stopniowanie",
+      1
+    ],
+    [
+      "zatrzasków",
+      1
+    ],
+    [
+      "pełnym",
+      1
+    ],
+    [
+      "głosem",
+      1
+    ],
+    [
+      "zaśpiewał",
+      1
+    ],
+    [
+      "goły",
+      1
+    ],
+    [
+      "brzuch",
+      1
+    ],
+    [
+      "tobie",
+      1
+    ],
+    [
+      "duetem",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 0,
+    "period": 0,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 0,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 0,
+  "negationWords": [],
+  "pronounDistribution": {
+    "ja": 2,
+    "ty": 3,
+    "on_ona": 0,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 3,
+    "smierc": 1,
+    "erotyka": 1,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [
+    [
+      "śpiewam",
+      3
+    ]
+  ],
+  "firstWord": "gdy",
+  "lastWord": "słuchać",
+  "avgWordLength": 6.37,
+  "wordLengthDistribution": {
+    "1-3": 10,
+    "10+": 7,
+    "6-7": 18,
+    "8-9": 14,
+    "4-5": 13
+  },
+  "bigrams": [
+    [
+      "śpiewam ulubione",
+      1
+    ],
+    [
+      "ulubione preludium",
+      1
+    ],
+    [
+      "preludium zdejmowanej",
+      1
+    ],
+    [
+      "zdejmowanej sukienki",
+      1
+    ],
+    [
+      "sukienki staccato",
+      1
+    ],
+    [
+      "staccato prędkich",
+      1
+    ],
+    [
+      "prędkich gestów",
+      1
+    ]
+  ],
+  "poemWords": [
+    "przychodzę",
+    "ciebie",
+    "wejścia",
+    "śpiewam",
+    "ulubione",
+    "preludium",
+    "zdejmowanej",
+    "sukienki",
+    "staccato",
+    "prędkich",
+    "gestów",
+    "stopniowanie",
+    "zatrzasków",
+    "pełnym",
+    "głosem",
+    "zaśpiewał",
+    "goły",
+    "brzuch",
+    "tobie",
+    "duetem",
+    "nabrzmiewających",
+    "piersi",
+    "długą",
+    "sekwencję",
+    "obnażonych",
+    "ciałem",
+    "pobudkę",
+    "twojemu",
+    "rdzeniowi",
+    "krew",
+    "zapraszam",
+    "wtórowała",
+    "szczęściem",
+    "nagość",
+    "szczęście",
+    "spazm",
+    "najwyższą",
+    "nutą",
+    "śmiercią",
+    "słuchać"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 23,
+        "VERB": 11,
+        "ADJ": 10,
+        "ADV": 1,
+        "PRON": 4,
+        "ADP": 2,
+        "CCONJ": 1,
+        "SCONJ": 2,
+        "INTJ": 0,
+        "PART": 2,
+        "DET": 4,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.365,
+        "VERB": 0.175,
+        "ADJ": 0.159,
+        "ADV": 0.016,
+        "PRON": 0.063,
+        "ADP": 0.032,
+        "CCONJ": 0.016,
+        "SCONJ": 0.032,
+        "INTJ": 0,
+        "PART": 0.032,
+        "DET": 0.063,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 3,
+        "abstract": 1,
+        "ratio": 0.75
+      },
+      "verbTenses": {
+        "imperative": 1,
+        "present": 10,
+        "past": 2,
+        "infinitive": 1
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 1,
+        "stan": 3,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 2,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 0,
+        "opisowe": 10
+      },
+      "adverbs": {
+        "temporalne": [],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "gdy",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 0,
+        "ty": 4,
+        "on_ona": 0,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 0,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 0,
+        "percentSentences": 0
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 163,
+        "consonants": 240,
+        "ratio": 0.68
+      },
+      "consonantClusters": {
+        "count": 11,
+        "top": [
+          {
+            "cluster": "szcz",
+            "count": 2
+          },
+          {
+            "cluster": "prz",
+            "count": 1
+          },
+          {
+            "cluster": "jśc",
+            "count": 1
+          },
+          {
+            "cluster": "trz",
+            "count": 1
+          },
+          {
+            "cluster": "szc",
+            "count": 1
+          },
+          {
+            "cluster": "brz",
+            "count": 1
+          },
+          {
+            "cluster": "brzm",
+            "count": 1
+          },
+          {
+            "cluster": "ncj",
+            "count": 1
+          },
+          {
+            "cluster": "rdz",
+            "count": 1
+          },
+          {
+            "cluster": "ższ",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 14,
+        "syczace": 51,
+        "nosowe": 48,
+        "plynne": 23
+      },
+      "rhymes": {
+        "exact": 0,
+        "approximate": 2,
+        "internal": 0,
+        "assonance": 0,
+        "alliteration": 1
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 10.5,
+        "median": 8,
+        "min": 1,
+        "max": 25,
+        "distribution": [
+          0,
+          1,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 3,
+        "meanSyllables": 7.8,
+        "distribution": [
+          0,
+          1,
+          7,
+          5,
+          7,
+          1
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 5,
+        "interrogative": 0,
+        "imperative": 1,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 0,
+        "noSubject": 4,
+        "noPredicate": 0,
+        "percent": 0.67
+      },
+      "enjambement": {
+        "count": 2,
+        "percent": 0.1,
+        "positions": [
+          1,
+          15
+        ]
+      },
+      "wordOrder": {
+        "svo": 1,
+        "inversions": 1,
+        "other": 3,
+        "deviationPercent": 0.8
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 3,
+        "śmierć": 1,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 163,
+      "estimatedSeconds": 54,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 23,
+      "VERB": 11,
+      "ADJ": 10,
+      "ADV": 1,
+      "PRON": 4,
+      "ADP": 2,
+      "CCONJ": 1,
+      "SCONJ": 2,
+      "INTJ": 0,
+      "PART": 2,
+      "DET": 4,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.365,
+      "VERB": 0.175,
+      "ADJ": 0.159,
+      "ADV": 0.016,
+      "PRON": 0.063,
+      "ADP": 0.032,
+      "CCONJ": 0.016,
+      "SCONJ": 0.032,
+      "INTJ": 0,
+      "PART": 0.032,
+      "DET": 0.063,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 3,
+      "abstract": 1,
+      "ratio": 0.75
+    },
+    "verbTenses": {
+      "imperative": 1,
+      "present": 10,
+      "past": 2,
+      "infinitive": 1
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 1,
+      "stan": 3,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 2,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 0,
+      "opisowe": 10
+    },
+    "adverbs": {
+      "temporalne": [],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "gdy",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 0,
+      "ty": 4,
+      "on_ona": 0,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 0,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 0,
+      "percentSentences": 0
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 10.5,
+      "median": 8,
+      "min": 1,
+      "max": 25,
+      "distribution": [
+        0,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 3,
+      "meanSyllables": 7.8,
+      "distribution": [
+        0,
+        1,
+        7,
+        5,
+        7,
+        1
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 5,
+      "interrogative": 0,
+      "imperative": 1,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 0,
+      "noSubject": 4,
+      "noPredicate": 0,
+      "percent": 0.67
+    },
+    "enjambement": {
+      "count": 2,
+      "percent": 0.1,
+      "positions": [
+        1,
+        15
+      ]
+    },
+    "wordOrder": {
+      "svo": 1,
+      "inversions": 1,
+      "other": 3,
+      "deviationPercent": 0.8
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 163,
+      "consonants": 240,
+      "ratio": 0.68
+    },
+    "consonantClusters": {
+      "count": 11,
+      "top": [
+        {
+          "cluster": "szcz",
+          "count": 2
+        },
+        {
+          "cluster": "prz",
+          "count": 1
+        },
+        {
+          "cluster": "jśc",
+          "count": 1
+        },
+        {
+          "cluster": "trz",
+          "count": 1
+        },
+        {
+          "cluster": "szc",
+          "count": 1
+        },
+        {
+          "cluster": "brz",
+          "count": 1
+        },
+        {
+          "cluster": "brzm",
+          "count": 1
+        },
+        {
+          "cluster": "ncj",
+          "count": 1
+        },
+        {
+          "cluster": "rdz",
+          "count": 1
+        },
+        {
+          "cluster": "ższ",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 14,
+      "syczace": 51,
+      "nosowe": 48,
+      "plynne": 23
+    },
+    "rhymes": {
+      "exact": 0,
+      "approximate": 2,
+      "internal": 0,
+      "assonance": 0,
+      "alliteration": 1
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        21
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 163,
+      "estimatedSeconds": 54,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "regularny",
+      "regularityScore": 0.81
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "inne",
+          "reference": "terminologia muzyczna",
+          "evidence": "preludium, staccato, duet, sekwencja, nuta - wiersz zbudowany na metaforyce muzycznej"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.3,
+        "baudelaire": 0.4,
+        "bursa": 0.7,
+        "stachura": 0.2,
+        "grochowiak": 0.8,
+        "bialoszewski": 0.1,
+        "rozewicz": 0.2
+      }
+    },
+    "space": {
+      "type": "zamknieta",
+      "evidence": "scena intymna w pomieszczeniu, 'od wejścia', atmosfera prywatna",
+      "openClosedRatio": 0.2
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "nieokreslona",
+      "evidence": "brak wskazówek temporalnych, fokus na intymności"
+    },
+    "motion": {
+      "movement": 8,
+      "stillness": 2,
+      "dynamism": 0.8,
+      "evidence": "prędkie gesty, zdejmowanie sukienki, stopniowanie, nabrzmiewanie - dynamika erotyczna"
+    },
+    "imageryDensity": {
+      "metaphors": 12,
+      "comparisons": 0,
+      "personifications": 3,
+      "hyperboles": 2,
+      "per100words": 21.25
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.9,
+      "creationLevel": 0.8,
+      "ironicDistance": 0.1,
+      "autobiographicSignals": [
+        "bezpośredni zwrot do Ciebie",
+        "intymność opisu",
+        "szczegółowość erotyczna",
+        "wyznanie szczęścia"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "euforia",
+      "secondary": "pożądanie",
+      "intensity": 0.9
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "Gdy przychodzę do Ciebie / Już od wejścia Ci śpiewam"
+    },
+    "addressee": {
+      "type": "ty",
+      "evidence": "do Ciebie / Ci śpiewam / Tobie duetem / Śpiewam Ci"
+    },
+    "metaphors": [
+      {
+        "source": "muzyka",
+        "target": "akt miłosny",
+        "example": "Ulubione preludium / Zdejmowanej sukienki"
+      },
+      {
+        "source": "śpiew",
+        "target": "erotyzm",
+        "example": "zaśpiewał goły brzuch"
+      },
+      {
+        "source": "śmierć",
+        "target": "ekstaza",
+        "example": "Twoją śmiercią jest słuchać"
+      }
+    ],
+    "temperature": {
+      "value": 0.95,
+      "label": "bardzo gorące - erotyczna ekstaza"
+    },
+    "senses": {
+      "wzrok": 5,
+      "sluch": 5,
+      "dotyk": 4,
+      "smak": 1,
+      "zapach": 0
+    },
+    "autodestruction": {
+      "level": 0.3,
+      "signals": [
+        "Twoją śmiercią jest słuchać"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 0.942,
+    "dfaAlpha": 0.938,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -1.2910351991208233
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -0.9619503239452117
+      },
+      {
+        "logWin": 1.6094379124341003,
+        "logFluc": -0.8513981707440085
+      },
+      {
+        "logWin": 1.791759469228055,
+        "logFluc": -0.6079688825165833
+      }
+    ],
+    "seriesLength": 20,
+    "series": [
+      4,
+      5,
+      2,
+      2,
+      3,
+      2,
+      4,
+      3,
+      3,
+      2,
+      3,
+      2,
+      3,
+      2,
+      4,
+      2,
+      4,
+      4,
+      4,
+      4
+    ]
+  }
+}

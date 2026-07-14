@@ -1,0 +1,936 @@
+{
+  "id": "mapa",
+  "title": "Mapa",
+  "wordCount": 72,
+  "lineCount": 12,
+  "uniqueWords": 67,
+  "vocabularyRichness": 0.931,
+  "avgWordsPerLine": 6,
+  "wordsPerLineDistribution": [
+    8,
+    8,
+    7,
+    4,
+    8,
+    6,
+    4,
+    6,
+    6,
+    5,
+    5,
+    5
+  ],
+  "wordFrequencies": [
+    [
+      "świecą",
+      2
+    ],
+    [
+      "wszędzie",
+      1
+    ],
+    [
+      "dotykam",
+      1
+    ],
+    [
+      "skórze",
+      1
+    ],
+    [
+      "odciski",
+      1
+    ],
+    [
+      "palców",
+      1
+    ],
+    [
+      "niebo",
+      1
+    ],
+    [
+      "szybę",
+      1
+    ],
+    [
+      "powietrza",
+      1
+    ],
+    [
+      "wzrokiem",
+      1
+    ],
+    [
+      "wyciskasz",
+      1
+    ],
+    [
+      "gwiazdy",
+      1
+    ],
+    [
+      "coraz",
+      1
+    ],
+    [
+      "młodsze",
+      1
+    ],
+    [
+      "gwiazdozbiór",
+      1
+    ],
+    [
+      "lewej",
+      1
+    ],
+    [
+      "piersi",
+      1
+    ],
+    [
+      "wielka",
+      1
+    ],
+    [
+      "sutka",
+      1
+    ],
+    [
+      "wśród",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 7,
+    "period": 2,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 2,
+    "semicolon": 1
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 0,
+  "negationWords": [],
+  "pronounDistribution": {
+    "ja": 2,
+    "ty": 3,
+    "on_ona": 0,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 1,
+    "smierc": 0,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 2,
+    "noc": 1,
+    "bol": 0
+  },
+  "anaphors": [],
+  "firstWord": "wszędzie",
+  "lastWord": "południa",
+  "avgWordLength": 5.96,
+  "wordLengthDistribution": {
+    "8-9": 16,
+    "4-5": 23,
+    "1-3": 11,
+    "6-7": 18,
+    "10+": 4
+  },
+  "bigrams": [
+    [
+      "cię dotykam",
+      1
+    ],
+    [
+      "twojej skórze",
+      1
+    ],
+    [
+      "skórze odciski",
+      1
+    ],
+    [
+      "odciski palców",
+      1
+    ],
+    [
+      "palców świecą",
+      1
+    ],
+    [
+      "gdyby niebo",
+      1
+    ]
+  ],
+  "poemWords": [
+    "wszędzie",
+    "dotykam",
+    "skórze",
+    "odciski",
+    "palców",
+    "świecą",
+    "niebo",
+    "szybę",
+    "powietrza",
+    "wzrokiem",
+    "wyciskasz",
+    "gwiazdy",
+    "coraz",
+    "młodsze",
+    "gwiazdozbiór",
+    "lewej",
+    "piersi",
+    "wielka",
+    "sutka",
+    "wśród",
+    "liści",
+    "mlecznej",
+    "drogi",
+    "wyróżnia",
+    "jasnością",
+    "pierwszą",
+    "oznaczającą",
+    "samemu",
+    "jeden",
+    "biegunów",
+    "chceń",
+    "siedem",
+    "eksplozją",
+    "twego",
+    "śmiechu",
+    "supernowej",
+    "odpryski",
+    "rozproszonych",
+    "łaskotek",
+    "gęsto",
+    "gwiazdki",
+    "różańca",
+    "duża",
+    "róża",
+    "niebie",
+    "północnym",
+    "krzyż",
+    "południa"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 25,
+        "VERB": 5,
+        "ADJ": 12,
+        "ADV": 7,
+        "PRON": 4,
+        "ADP": 5,
+        "CCONJ": 2,
+        "SCONJ": 3,
+        "INTJ": 0,
+        "PART": 3,
+        "DET": 3,
+        "NUM": 1
+      },
+      "posPercent": {
+        "NOUN": 0.342,
+        "VERB": 0.068,
+        "ADJ": 0.164,
+        "ADV": 0.096,
+        "PRON": 0.055,
+        "ADP": 0.068,
+        "CCONJ": 0.027,
+        "SCONJ": 0.041,
+        "INTJ": 0,
+        "PART": 0.041,
+        "DET": 0.041,
+        "NUM": 0.014
+      },
+      "nounConcreteAbstract": {
+        "concrete": 2,
+        "abstract": 0,
+        "ratio": 1
+      },
+      "verbTenses": {
+        "present": 6
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 1,
+        "stan": 1,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 0,
+        "opisowe": 12
+      },
+      "adverbs": {
+        "temporalne": [
+          "wciąż"
+        ],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "gdzie",
+            "count": 3
+          },
+          {
+            "word": "wszędzie",
+            "count": 1
+          },
+          {
+            "word": "wciąż",
+            "count": 1
+          },
+          {
+            "word": "coraz",
+            "count": 1
+          },
+          {
+            "word": "gęsto",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 1,
+        "ty": 2,
+        "on_ona": 0,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 0,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 0,
+        "percentSentences": 0
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 175,
+        "consonants": 258,
+        "ratio": 0.68
+      },
+      "consonantClusters": {
+        "count": 19,
+        "top": [
+          {
+            "cluster": "gdz",
+            "count": 3
+          },
+          {
+            "cluster": "wsz",
+            "count": 1
+          },
+          {
+            "cluster": "prz",
+            "count": 1
+          },
+          {
+            "cluster": "trz",
+            "count": 1
+          },
+          {
+            "cluster": "wzr",
+            "count": 1
+          },
+          {
+            "cluster": "dsz",
+            "count": 1
+          },
+          {
+            "cluster": "wśr",
+            "count": 1
+          },
+          {
+            "cluster": "czn",
+            "count": 1
+          },
+          {
+            "cluster": "rwsz",
+            "count": 1
+          },
+          {
+            "cluster": "chc",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 22,
+        "syczace": 52,
+        "nosowe": 42,
+        "plynne": 29
+      },
+      "rhymes": {
+        "exact": 0,
+        "approximate": 0,
+        "internal": 0,
+        "assonance": 0,
+        "alliteration": 0
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 36.5,
+        "median": 36,
+        "min": 28,
+        "max": 45,
+        "distribution": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 5.6,
+        "meanSyllables": 13.6,
+        "distribution": [
+          0,
+          1,
+          0,
+          0,
+          2,
+          3,
+          3,
+          1,
+          3
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 2,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 0,
+        "noSubject": 0,
+        "noPredicate": 0,
+        "percent": 0
+      },
+      "enjambement": {
+        "count": 5,
+        "percent": 0.42,
+        "positions": [
+          2,
+          4,
+          8,
+          9,
+          11
+        ]
+      },
+      "wordOrder": {
+        "svo": 2,
+        "inversions": 0,
+        "other": 0,
+        "deviationPercent": 0
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 2,
+        "śmierć": 0,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 2,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 177,
+      "estimatedSeconds": 59,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 25,
+      "VERB": 5,
+      "ADJ": 12,
+      "ADV": 7,
+      "PRON": 4,
+      "ADP": 5,
+      "CCONJ": 2,
+      "SCONJ": 3,
+      "INTJ": 0,
+      "PART": 3,
+      "DET": 3,
+      "NUM": 1
+    },
+    "posPercent": {
+      "NOUN": 0.342,
+      "VERB": 0.068,
+      "ADJ": 0.164,
+      "ADV": 0.096,
+      "PRON": 0.055,
+      "ADP": 0.068,
+      "CCONJ": 0.027,
+      "SCONJ": 0.041,
+      "INTJ": 0,
+      "PART": 0.041,
+      "DET": 0.041,
+      "NUM": 0.014
+    },
+    "nounConcreteAbstract": {
+      "concrete": 2,
+      "abstract": 0,
+      "ratio": 1
+    },
+    "verbTenses": {
+      "present": 6
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 1,
+      "stan": 1,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 0,
+      "opisowe": 12
+    },
+    "adverbs": {
+      "temporalne": [
+        "wciąż"
+      ],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "gdzie",
+          "count": 3
+        },
+        {
+          "word": "wszędzie",
+          "count": 1
+        },
+        {
+          "word": "wciąż",
+          "count": 1
+        },
+        {
+          "word": "coraz",
+          "count": 1
+        },
+        {
+          "word": "gęsto",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 1,
+      "ty": 2,
+      "on_ona": 0,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 0,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 0,
+      "percentSentences": 0
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 36.5,
+      "median": 36,
+      "min": 28,
+      "max": 45,
+      "distribution": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 5.6,
+      "meanSyllables": 13.6,
+      "distribution": [
+        0,
+        1,
+        0,
+        0,
+        2,
+        3,
+        3,
+        1,
+        3
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 2,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 0,
+      "noSubject": 0,
+      "noPredicate": 0,
+      "percent": 0
+    },
+    "enjambement": {
+      "count": 5,
+      "percent": 0.42,
+      "positions": [
+        2,
+        4,
+        8,
+        9,
+        11
+      ]
+    },
+    "wordOrder": {
+      "svo": 2,
+      "inversions": 0,
+      "other": 0,
+      "deviationPercent": 0
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 175,
+      "consonants": 258,
+      "ratio": 0.68
+    },
+    "consonantClusters": {
+      "count": 19,
+      "top": [
+        {
+          "cluster": "gdz",
+          "count": 3
+        },
+        {
+          "cluster": "wsz",
+          "count": 1
+        },
+        {
+          "cluster": "prz",
+          "count": 1
+        },
+        {
+          "cluster": "trz",
+          "count": 1
+        },
+        {
+          "cluster": "wzr",
+          "count": 1
+        },
+        {
+          "cluster": "dsz",
+          "count": 1
+        },
+        {
+          "cluster": "wśr",
+          "count": 1
+        },
+        {
+          "cluster": "czn",
+          "count": 1
+        },
+        {
+          "cluster": "rwsz",
+          "count": 1
+        },
+        {
+          "cluster": "chc",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 22,
+      "syczace": 52,
+      "nosowe": 42,
+      "plynne": 29
+    },
+    "rhymes": {
+      "exact": 0,
+      "approximate": 0,
+      "internal": 0,
+      "assonance": 0,
+      "alliteration": 0
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        13
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 177,
+      "estimatedSeconds": 59,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "polregularny",
+      "regularityScore": 0.67
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "mitologia",
+          "reference": "gwiazdozbiory astronomiczne",
+          "evidence": "Wielka Sutka, Mleczna Droga, Siedem, Krzyż Południa"
+        },
+        {
+          "source": "Biblia",
+          "reference": "różaniec",
+          "evidence": "gwiazdki Różańca"
+        },
+        {
+          "source": "inne",
+          "reference": "astronomia współczesna",
+          "evidence": "Supernowej odpryski, eksplozja"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.7,
+        "baudelaire": 0.4,
+        "bursa": 0.2,
+        "stachura": 0.3,
+        "grochowiak": 0.6,
+        "bialoszewski": 0.1,
+        "rozewicz": 0.2
+      }
+    },
+    "space": {
+      "type": "otwarta",
+      "evidence": "niebo, gwiazdozbiory, Mleczna Droga, przestrzeń kosmiczna",
+      "openClosedRatio": 0.9
+    },
+    "timeOfDay": {
+      "period": "noc",
+      "season": "nieokreslona",
+      "evidence": "gwiazdy, gwiazdozbiory, niebo nocne"
+    },
+    "motion": {
+      "movement": 7,
+      "stillness": 3,
+      "dynamism": 0.7,
+      "evidence": "wzrokiem wyciskasz, eksplozja, odpryski, rozproszonych"
+    },
+    "imageryDensity": {
+      "metaphors": 8,
+      "comparisons": 3,
+      "personifications": 2,
+      "hyperboles": 2,
+      "per100words": 21.4
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.8,
+      "creationLevel": 0.9,
+      "ironicDistance": 0.2,
+      "autobiographicSignals": [
+        "dotykam",
+        "moje chcenia",
+        "oznaczającą mie samemu"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "czułość",
+      "secondary": "euforia",
+      "intensity": 0.9
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "mnie samemu, moich chceń - bezpośrednie odniesienia do podmiotu mówiącego"
+    },
+    "addressee": {
+      "type": "ty",
+      "evidence": "Wszędzie, gdzie cię dotykam, na twojej skórze - bezpośrednie zwroty do kochanki"
+    },
+    "metaphors": [
+      {
+        "source": "ciało kochanki",
+        "target": "mapa nieba",
+        "example": "jesteś już jak gdyby niebo"
+      },
+      {
+        "source": "pierś",
+        "target": "gwiazdozbiór",
+        "example": "Gwiazdozbiór Lewej Piersi gdzie Wielka Sutka"
+      },
+      {
+        "source": "śmiech",
+        "target": "eksplozja supernowej",
+        "example": "eksplozją twego śmiechu, jak Supernowej odpryski"
+      },
+      {
+        "source": "dotyk",
+        "target": "świecące odciski",
+        "example": "odciski palców świecą"
+      }
+    ],
+    "temperature": {
+      "value": 0.8,
+      "label": "gorące - miłosne uniesienie"
+    },
+    "senses": {
+      "wzrok": 5,
+      "sluch": 2,
+      "dotyk": 5,
+      "smak": 0,
+      "zapach": 0
+    },
+    "autodestruction": {
+      "level": 0,
+      "signals": []
+    }
+  },
+  "fractal": {
+    "hurstExponent": 0.757,
+    "dfaAlpha": 3.548,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -1.732867951399859
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -0.7120523136992966
+      }
+    ],
+    "seriesLength": 12,
+    "series": [
+      8,
+      8,
+      7,
+      4,
+      8,
+      6,
+      4,
+      6,
+      6,
+      5,
+      5,
+      5
+    ]
+  }
+}

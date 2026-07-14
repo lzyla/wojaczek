@@ -1,0 +1,980 @@
+{
+  "id": "podwojna-elegia",
+  "title": "Podwójna elegia",
+  "wordCount": 115,
+  "lineCount": 18,
+  "uniqueWords": 98,
+  "vocabularyRichness": 0.852,
+  "avgWordsPerLine": 6.39,
+  "wordsPerLineDistribution": [
+    7,
+    7,
+    8,
+    7,
+    9,
+    6,
+    6,
+    7,
+    8,
+    7,
+    9,
+    10,
+    8,
+    7,
+    6,
+    1,
+    1,
+    1
+  ],
+  "wordFrequencies": [
+    [
+      "zmarłaś",
+      2
+    ],
+    [
+      "ciała",
+      2
+    ],
+    [
+      "śmierć",
+      2
+    ],
+    [
+      "ust",
+      2
+    ],
+    [
+      "twego",
+      2
+    ],
+    [
+      "ciebie",
+      1
+    ],
+    [
+      "urodzona",
+      1
+    ],
+    [
+      "pomyśle",
+      1
+    ],
+    [
+      "zanim",
+      1
+    ],
+    [
+      "wiodłem",
+      1
+    ],
+    [
+      "spór",
+      1
+    ],
+    [
+      "nieustannie",
+      1
+    ],
+    [
+      "ucho",
+      1
+    ],
+    [
+      "szepczącą",
+      1
+    ],
+    [
+      "wiersz",
+      1
+    ],
+    [
+      "krwią",
+      1
+    ],
+    [
+      "wymyśliłem",
+      1
+    ],
+    [
+      "imię",
+      1
+    ],
+    [
+      "imienia",
+      1
+    ],
+    [
+      "móc",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 11,
+    "period": 6,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 3,
+    "semicolon": 1
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 2,
+  "negationWords": [
+    "nie"
+  ],
+  "pronounDistribution": {
+    "ja": 4,
+    "ty": 6,
+    "on_ona": 2,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 3,
+    "smierc": 3,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 1,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [
+    [
+      "lecz",
+      2
+    ]
+  ],
+  "firstWord": "ciebie",
+  "lastWord": "zaciśniętych",
+  "avgWordLength": 5.23,
+  "wordLengthDistribution": {
+    "1-3": 33,
+    "6-7": 27,
+    "4-5": 36,
+    "8-9": 9,
+    "10+": 10
+  },
+  "bigrams": [
+    [
+      "zmarłaś urodzona",
+      1
+    ],
+    [
+      "moim pomyśle",
+      1
+    ],
+    [
+      "pomyśle zanim",
+      1
+    ],
+    [
+      "zanim zmarłaś",
+      1
+    ],
+    [
+      "zmarłaś wiodłem",
+      1
+    ],
+    [
+      "wiodłem spór",
+      1
+    ],
+    [
+      "swoją nieustannie",
+      1
+    ]
+  ],
+  "poemWords": [
+    "ciebie",
+    "zmarłaś",
+    "urodzona",
+    "pomyśle",
+    "zanim",
+    "wiodłem",
+    "spór",
+    "nieustannie",
+    "ucho",
+    "szepczącą",
+    "wiersz",
+    "krwią",
+    "wymyśliłem",
+    "imię",
+    "imienia",
+    "móc",
+    "wzywać",
+    "krew",
+    "wrzała",
+    "niemych",
+    "zatokach",
+    "ciała",
+    "musiałem",
+    "krwi",
+    "obiecać",
+    "bolesną",
+    "śmierć",
+    "wyprzedziłaś",
+    "antyszambrując",
+    "wiecznie",
+    "przedpokojach",
+    "złych",
+    "wierszy",
+    "umarłaś",
+    "zyskać",
+    "celów",
+    "dwuznacznych",
+    "zawsze",
+    "świecić",
+    "istniejącą",
+    "twarzą",
+    "wiadra",
+    "twych",
+    "ust",
+    "obszernych",
+    "wylewa",
+    "ług",
+    "śliny",
+    "pełne",
+    "usta",
+    "ścieka",
+    "gardło",
+    "smak",
+    "krajobrazem",
+    "twego",
+    "ciszy",
+    "rozlega",
+    "dzwonnica",
+    "serca",
+    "wyplułbym",
+    "ojczyzno",
+    "bariera",
+    "warg",
+    "ściśle",
+    "zaciśniętych"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 32,
+        "VERB": 20,
+        "ADJ": 12,
+        "ADV": 6,
+        "PRON": 13,
+        "ADP": 11,
+        "CCONJ": 2,
+        "SCONJ": 5,
+        "INTJ": 0,
+        "PART": 4,
+        "DET": 9,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.274,
+        "VERB": 0.171,
+        "ADJ": 0.103,
+        "ADV": 0.051,
+        "PRON": 0.111,
+        "ADP": 0.094,
+        "CCONJ": 0.017,
+        "SCONJ": 0.043,
+        "INTJ": 0,
+        "PART": 0.034,
+        "DET": 0.077,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 9,
+        "abstract": 3,
+        "ratio": 0.75
+      },
+      "verbTenses": {
+        "infinitive": 6,
+        "past": 9,
+        "present": 6,
+        "future": 1
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 2,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 1,
+        "opisowe": 11
+      },
+      "adverbs": {
+        "temporalne": [
+          "zawsze"
+        ],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "nieustannie",
+            "count": 1
+          },
+          {
+            "word": "kiedy",
+            "count": 1
+          },
+          {
+            "word": "wiecznie",
+            "count": 1
+          },
+          {
+            "word": "zawsze",
+            "count": 1
+          },
+          {
+            "word": "ojczyzno",
+            "count": 1
+          },
+          {
+            "word": "ściśle",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 2,
+        "ty": 6,
+        "on_ona": 2,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 2,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 2,
+        "percentSentences": 0.33
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 251,
+        "consonants": 365,
+        "ratio": 0.69
+      },
+      "consonantClusters": {
+        "count": 17,
+        "top": [
+          {
+            "cluster": "rsz",
+            "count": 2
+          },
+          {
+            "cluster": "krw",
+            "count": 2
+          },
+          {
+            "cluster": "prz",
+            "count": 2
+          },
+          {
+            "cluster": "czn",
+            "count": 2
+          },
+          {
+            "cluster": "pcz",
+            "count": 1
+          },
+          {
+            "cluster": "wrz",
+            "count": 1
+          },
+          {
+            "cluster": "mbr",
+            "count": 1
+          },
+          {
+            "cluster": "wsz",
+            "count": 1
+          },
+          {
+            "cluster": "stn",
+            "count": 1
+          },
+          {
+            "cluster": "bsz",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 19,
+        "syczace": 85,
+        "nosowe": 69,
+        "plynne": 56
+      },
+      "rhymes": {
+        "exact": 1,
+        "approximate": 1,
+        "internal": 3,
+        "assonance": 0,
+        "alliteration": 2
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 19.5,
+        "median": 22,
+        "min": 6,
+        "max": 26,
+        "distribution": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          2,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 6.2,
+        "meanSyllables": 13.6,
+        "distribution": [
+          0,
+          3,
+          1,
+          0,
+          0,
+          0,
+          3,
+          6,
+          3,
+          2,
+          1
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 6,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 0,
+        "noSubject": 1,
+        "noPredicate": 0,
+        "percent": 0.17
+      },
+      "enjambement": {
+        "count": 10,
+        "percent": 0.56,
+        "positions": [
+          2,
+          3,
+          5,
+          8,
+          9,
+          12,
+          14,
+          16,
+          17,
+          18
+        ]
+      },
+      "wordOrder": {
+        "svo": 2,
+        "inversions": 3,
+        "other": 1,
+        "deviationPercent": 0.67
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 8,
+        "śmierć": 4,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 1,
+        "sacrum": 0,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 259,
+      "estimatedSeconds": 86,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 32,
+      "VERB": 20,
+      "ADJ": 12,
+      "ADV": 6,
+      "PRON": 13,
+      "ADP": 11,
+      "CCONJ": 2,
+      "SCONJ": 5,
+      "INTJ": 0,
+      "PART": 4,
+      "DET": 9,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.274,
+      "VERB": 0.171,
+      "ADJ": 0.103,
+      "ADV": 0.051,
+      "PRON": 0.111,
+      "ADP": 0.094,
+      "CCONJ": 0.017,
+      "SCONJ": 0.043,
+      "INTJ": 0,
+      "PART": 0.034,
+      "DET": 0.077,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 9,
+      "abstract": 3,
+      "ratio": 0.75
+    },
+    "verbTenses": {
+      "infinitive": 6,
+      "past": 9,
+      "present": 6,
+      "future": 1
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 2,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 1,
+      "opisowe": 11
+    },
+    "adverbs": {
+      "temporalne": [
+        "zawsze"
+      ],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "nieustannie",
+          "count": 1
+        },
+        {
+          "word": "kiedy",
+          "count": 1
+        },
+        {
+          "word": "wiecznie",
+          "count": 1
+        },
+        {
+          "word": "zawsze",
+          "count": 1
+        },
+        {
+          "word": "ojczyzno",
+          "count": 1
+        },
+        {
+          "word": "ściśle",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 2,
+      "ty": 6,
+      "on_ona": 2,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 2,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 2,
+      "percentSentences": 0.33
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 19.5,
+      "median": 22,
+      "min": 6,
+      "max": 26,
+      "distribution": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        2,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 6.2,
+      "meanSyllables": 13.6,
+      "distribution": [
+        0,
+        3,
+        1,
+        0,
+        0,
+        0,
+        3,
+        6,
+        3,
+        2,
+        1
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 6,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 0,
+      "noSubject": 1,
+      "noPredicate": 0,
+      "percent": 0.17
+    },
+    "enjambement": {
+      "count": 10,
+      "percent": 0.56,
+      "positions": [
+        2,
+        3,
+        5,
+        8,
+        9,
+        12,
+        14,
+        16,
+        17,
+        18
+      ]
+    },
+    "wordOrder": {
+      "svo": 2,
+      "inversions": 3,
+      "other": 1,
+      "deviationPercent": 0.67
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 251,
+      "consonants": 365,
+      "ratio": 0.69
+    },
+    "consonantClusters": {
+      "count": 17,
+      "top": [
+        {
+          "cluster": "rsz",
+          "count": 2
+        },
+        {
+          "cluster": "krw",
+          "count": 2
+        },
+        {
+          "cluster": "prz",
+          "count": 2
+        },
+        {
+          "cluster": "czn",
+          "count": 2
+        },
+        {
+          "cluster": "pcz",
+          "count": 1
+        },
+        {
+          "cluster": "wrz",
+          "count": 1
+        },
+        {
+          "cluster": "mbr",
+          "count": 1
+        },
+        {
+          "cluster": "wsz",
+          "count": 1
+        },
+        {
+          "cluster": "stn",
+          "count": 1
+        },
+        {
+          "cluster": "bsz",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 19,
+      "syczace": 85,
+      "nosowe": 69,
+      "plynne": 56
+    },
+    "rhymes": {
+      "exact": 1,
+      "approximate": 1,
+      "internal": 3,
+      "assonance": 0,
+      "alliteration": 2
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        19
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 259,
+      "estimatedSeconds": 86,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "polregularny",
+      "regularityScore": 0.6
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Różewicz",
+          "reference": "poetyka anti-poetycka, rozbijanie tradycyjnych form",
+          "evidence": "forma wolna, łamanie składni, neologizm 'antyszambrując'"
+        },
+        {
+          "source": "Baudelaire",
+          "reference": "dwuznaczność miłości i śmierci",
+          "evidence": "bolesna śmierć, dwuznaczne cele, erotyka i thanatos"
+        },
+        {
+          "source": "inne",
+          "reference": "tradycja elegii",
+          "evidence": "tytuł 'PODWÓJNA ELEGIA', żałobny charakter"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.3,
+        "baudelaire": 0.7,
+        "bursa": 0.2,
+        "stachura": 0.1,
+        "grochowiak": 0.4,
+        "bialoszewski": 0.2,
+        "rozewicz": 0.8
+      }
+    },
+    "space": {
+      "type": "zamknieta",
+      "evidence": "przedpokoje, warga ściśle zaciśnięte, zatoki ciała, gardło - dominują przestrzenie wewnętrzne, cielesne",
+      "openClosedRatio": 0.2
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "nieokreslona",
+      "evidence": "brak wyraźnych wskaźników temporalnych, czas psychiczny"
+    },
+    "motion": {
+      "movement": 3,
+      "stillness": 7,
+      "dynamism": 0.3,
+      "evidence": "statyczne obrazy: świecić, rozlegać się, przeważają stany nad działaniami"
+    },
+    "imageryDensity": {
+      "metaphors": 8,
+      "comparisons": 2,
+      "personifications": 3,
+      "hyperboles": 2,
+      "per100words": 95
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.9,
+      "creationLevel": 0.8,
+      "ironicDistance": 0.1,
+      "autobiographicSignals": [
+        "moja krew",
+        "moje usta",
+        "ojczyzno",
+        "musiałem",
+        "wymyśliłem"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "rozpacz",
+      "secondary": "gniew",
+      "intensity": 0.8
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "Podmiot mówiący w pierwszej osobie: 'wiodłem spór', 'wymyśliłem', 'musiałem', 'wyplułbym cię'"
+    },
+    "addressee": {
+      "type": "ty",
+      "evidence": "Bezpośredni zwrot do zmarłej ukochanej: 'O ciebie, która zmarłaś', 'ci wymyśliłem imię', 'wyplułbym cię, ojczyzno'"
+    },
+    "metaphors": [
+      {
+        "source": "krew",
+        "target": "poezja/twórczość",
+        "example": "nieustannie mi w ucho szepczącą swój wiersz krwią"
+      },
+      {
+        "source": "wiadro ust",
+        "target": "obfitość słów/śliny",
+        "example": "z wiadra twych ust obszernych wylewa się ług śliny"
+      },
+      {
+        "source": "dzwonnica serca",
+        "target": "pulsowanie/rytm życia",
+        "example": "w ciszy moich ust się rozlega dzwonnica twego serca"
+      },
+      {
+        "source": "ojczyzna",
+        "target": "ukochana",
+        "example": "wyplułbym cię, ojczyzno"
+      }
+    ],
+    "temperature": {
+      "value": 0.7,
+      "label": "gorące - namiętność przeplatana bólem"
+    },
+    "senses": {
+      "wzrok": 3,
+      "sluch": 4,
+      "dotyk": 2,
+      "smak": 5,
+      "zapach": 1
+    },
+    "autodestruction": {
+      "level": 0.6,
+      "signals": [
+        "obietnica bolesnej śmierci ukochanej",
+        "niemożność wyplunięcia/uwolnienia się",
+        "zaciśnięte wargi jako bariera"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 0.867,
+    "dfaAlpha": 1.991,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -1.2910351991208195
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -0.3492017929228781
+      },
+      {
+        "logWin": 1.6094379124341003,
+        "logFluc": -0.3933580941308631
+      },
+      {
+        "logWin": 1.791759469228055,
+        "logFluc": 0.2384806267671104
+      }
+    ],
+    "seriesLength": 18,
+    "series": [
+      7,
+      7,
+      8,
+      7,
+      9,
+      6,
+      6,
+      7,
+      8,
+      7,
+      9,
+      10,
+      8,
+      7,
+      6,
+      1,
+      1,
+      1
+    ]
+  }
+}

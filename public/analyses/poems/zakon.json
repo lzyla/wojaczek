@@ -1,0 +1,943 @@
+{
+  "id": "zakon",
+  "title": "Zakon",
+  "wordCount": 101,
+  "lineCount": 15,
+  "uniqueWords": 80,
+  "vocabularyRichness": 0.792,
+  "avgWordsPerLine": 6.73,
+  "wordsPerLineDistribution": [
+    8,
+    6,
+    5,
+    8,
+    7,
+    6,
+    7,
+    8,
+    6,
+    9,
+    4,
+    8,
+    7,
+    7,
+    5
+  ],
+  "wordFrequencies": [
+    [
+      "piszę",
+      3
+    ],
+    [
+      "noc",
+      2
+    ],
+    [
+      "krwi",
+      2
+    ],
+    [
+      "wierząc",
+      2
+    ],
+    [
+      "dobra",
+      1
+    ],
+    [
+      "pozwala",
+      1
+    ],
+    [
+      "rana",
+      1
+    ],
+    [
+      "pisać",
+      1
+    ],
+    [
+      "niezmordowanym",
+      1
+    ],
+    [
+      "piórem",
+      1
+    ],
+    [
+      "tablicach",
+      1
+    ],
+    [
+      "odwracanych",
+      1
+    ],
+    [
+      "wilgotnym",
+      1
+    ],
+    [
+      "palcem",
+      1
+    ],
+    [
+      "mdłego",
+      1
+    ],
+    [
+      "wiatru",
+      1
+    ],
+    [
+      "starczy",
+      1
+    ],
+    [
+      "znaków",
+      1
+    ],
+    [
+      "współczucia",
+      1
+    ],
+    [
+      "bratem",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 0,
+    "period": 4,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 0,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 0,
+  "negationWords": [],
+  "pronounDistribution": {
+    "ja": 6,
+    "ty": 0,
+    "on_ona": 1,
+    "my": 0,
+    "wy": 0,
+    "oni": 1
+  },
+  "semanticFields": {
+    "cialo": 0,
+    "smierc": 1,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 3,
+    "bol": 0
+  },
+  "anaphors": [
+    [
+      "i piszę",
+      2
+    ]
+  ],
+  "firstWord": "dobra",
+  "lastWord": "krwi",
+  "avgWordLength": 5.26,
+  "wordLengthDistribution": {
+    "4-5": 24,
+    "1-3": 35,
+    "6-7": 22,
+    "10+": 9,
+    "8-9": 11
+  },
+  "bigrams": [
+    [
+      "piszę wierząc",
+      2
+    ],
+    [
+      "dobra noc",
+      1
+    ],
+    [
+      "pozwala aż",
+      1
+    ],
+    [
+      "rana pisać",
+      1
+    ],
+    [
+      "pisać niezmordowanym",
+      1
+    ],
+    [
+      "niezmordowanym piórem",
+      1
+    ],
+    [
+      "piórem krwi",
+      1
+    ]
+  ],
+  "poemWords": [
+    "dobra",
+    "noc",
+    "pozwala",
+    "rana",
+    "pisać",
+    "niezmordowanym",
+    "piórem",
+    "krwi",
+    "tablicach",
+    "odwracanych",
+    "wilgotnym",
+    "palcem",
+    "mdłego",
+    "wiatru",
+    "piszę",
+    "wierząc",
+    "starczy",
+    "znaków",
+    "współczucia",
+    "bratem",
+    "wysokości",
+    "osamotnienia",
+    "wolna",
+    "wyświeca",
+    "wystarczy",
+    "pokory",
+    "świt",
+    "szary",
+    "worek",
+    "głowę",
+    "zarzuci",
+    "wielkodusznej",
+    "cierpliwości",
+    "zmusić",
+    "wiedząc",
+    "wypełznie",
+    "nędzy",
+    "pozalewanych",
+    "wodą",
+    "lokatorskich",
+    "piwnic",
+    "gwiazdach",
+    "płaszcze",
+    "rozwiesi",
+    "wyschły",
+    "znowu",
+    "pisał",
+    "będą",
+    "czytać",
+    "pisząc",
+    "zarazem",
+    "serdeczny",
+    "list",
+    "wielkim",
+    "promieniowaniem",
+    "wysokiej"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 27,
+        "VERB": 19,
+        "ADJ": 13,
+        "ADV": 2,
+        "PRON": 9,
+        "ADP": 11,
+        "CCONJ": 3,
+        "SCONJ": 6,
+        "INTJ": 0,
+        "PART": 5,
+        "DET": 5,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.262,
+        "VERB": 0.184,
+        "ADJ": 0.126,
+        "ADV": 0.019,
+        "PRON": 0.087,
+        "ADP": 0.107,
+        "CCONJ": 0.029,
+        "SCONJ": 0.058,
+        "INTJ": 0,
+        "PART": 0.049,
+        "DET": 0.049,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 4,
+        "abstract": 0,
+        "ratio": 1
+      },
+      "verbTenses": {
+        "past": 3,
+        "present": 8,
+        "infinitive": 3,
+        "future": 6,
+        "imperative": 1
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 2,
+        "destrukcja": 0,
+        "tworzenie": 3,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 2,
+        "oceniajace": 0,
+        "opisowe": 11
+      },
+      "adverbs": {
+        "temporalne": [],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "gdy",
+            "count": 2
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 6,
+        "ty": 0,
+        "on_ona": 1,
+        "my": 0,
+        "wy": 0,
+        "oni": 1
+      },
+      "negations": {
+        "nie": 0,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 0,
+        "percentSentences": 0
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 217,
+        "consonants": 319,
+        "ratio": 0.68
+      },
+      "consonantClusters": {
+        "count": 16,
+        "top": [
+          {
+            "cluster": "krw",
+            "count": 2
+          },
+          {
+            "cluster": "rcz",
+            "count": 2
+          },
+          {
+            "cluster": "szcz",
+            "count": 2
+          },
+          {
+            "cluster": "dwr",
+            "count": 1
+          },
+          {
+            "cluster": "mdł",
+            "count": 1
+          },
+          {
+            "cluster": "wsp",
+            "count": 1
+          },
+          {
+            "cluster": "łcz",
+            "count": 1
+          },
+          {
+            "cluster": "szn",
+            "count": 1
+          },
+          {
+            "cluster": "rpl",
+            "count": 1
+          },
+          {
+            "cluster": "łzn",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 24,
+        "syczace": 65,
+        "nosowe": 61,
+        "plynne": 41
+      },
+      "rhymes": {
+        "exact": 0,
+        "approximate": 1,
+        "internal": 0,
+        "assonance": 1,
+        "alliteration": 1
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 17.2,
+        "median": 20,
+        "min": 1,
+        "max": 40,
+        "distribution": [
+          0,
+          2,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          2,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 6.1,
+        "meanSyllables": 13,
+        "distribution": [
+          0,
+          2,
+          0,
+          0,
+          1,
+          2,
+          3,
+          4,
+          4,
+          1
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 5,
+        "interrogative": 0,
+        "imperative": 1,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 1,
+        "noSubject": 2,
+        "noPredicate": 0,
+        "percent": 0.5
+      },
+      "enjambement": {
+        "count": 11,
+        "percent": 0.69,
+        "positions": [
+          2,
+          3,
+          5,
+          6,
+          8,
+          9,
+          11,
+          12,
+          13,
+          14,
+          15
+        ]
+      },
+      "wordOrder": {
+        "svo": 1,
+        "inversions": 2,
+        "other": 1,
+        "deviationPercent": 0.75
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 2,
+        "śmierć": 1,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 2,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 221,
+      "estimatedSeconds": 74,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 27,
+      "VERB": 19,
+      "ADJ": 13,
+      "ADV": 2,
+      "PRON": 9,
+      "ADP": 11,
+      "CCONJ": 3,
+      "SCONJ": 6,
+      "INTJ": 0,
+      "PART": 5,
+      "DET": 5,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.262,
+      "VERB": 0.184,
+      "ADJ": 0.126,
+      "ADV": 0.019,
+      "PRON": 0.087,
+      "ADP": 0.107,
+      "CCONJ": 0.029,
+      "SCONJ": 0.058,
+      "INTJ": 0,
+      "PART": 0.049,
+      "DET": 0.049,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 4,
+      "abstract": 0,
+      "ratio": 1
+    },
+    "verbTenses": {
+      "past": 3,
+      "present": 8,
+      "infinitive": 3,
+      "future": 6,
+      "imperative": 1
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 2,
+      "destrukcja": 0,
+      "tworzenie": 3,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 2,
+      "oceniajace": 0,
+      "opisowe": 11
+    },
+    "adverbs": {
+      "temporalne": [],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "gdy",
+          "count": 2
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 6,
+      "ty": 0,
+      "on_ona": 1,
+      "my": 0,
+      "wy": 0,
+      "oni": 1
+    },
+    "negations": {
+      "nie": 0,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 0,
+      "percentSentences": 0
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 17.2,
+      "median": 20,
+      "min": 1,
+      "max": 40,
+      "distribution": [
+        0,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 6.1,
+      "meanSyllables": 13,
+      "distribution": [
+        0,
+        2,
+        0,
+        0,
+        1,
+        2,
+        3,
+        4,
+        4,
+        1
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 5,
+      "interrogative": 0,
+      "imperative": 1,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 1,
+      "noSubject": 2,
+      "noPredicate": 0,
+      "percent": 0.5
+    },
+    "enjambement": {
+      "count": 11,
+      "percent": 0.69,
+      "positions": [
+        2,
+        3,
+        5,
+        6,
+        8,
+        9,
+        11,
+        12,
+        13,
+        14,
+        15
+      ]
+    },
+    "wordOrder": {
+      "svo": 1,
+      "inversions": 2,
+      "other": 1,
+      "deviationPercent": 0.75
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 217,
+      "consonants": 319,
+      "ratio": 0.68
+    },
+    "consonantClusters": {
+      "count": 16,
+      "top": [
+        {
+          "cluster": "krw",
+          "count": 2
+        },
+        {
+          "cluster": "rcz",
+          "count": 2
+        },
+        {
+          "cluster": "szcz",
+          "count": 2
+        },
+        {
+          "cluster": "dwr",
+          "count": 1
+        },
+        {
+          "cluster": "mdł",
+          "count": 1
+        },
+        {
+          "cluster": "wsp",
+          "count": 1
+        },
+        {
+          "cluster": "łcz",
+          "count": 1
+        },
+        {
+          "cluster": "szn",
+          "count": 1
+        },
+        {
+          "cluster": "rpl",
+          "count": 1
+        },
+        {
+          "cluster": "łzn",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 24,
+      "syczace": 65,
+      "nosowe": 61,
+      "plynne": 41
+    },
+    "rhymes": {
+      "exact": 0,
+      "approximate": 1,
+      "internal": 0,
+      "assonance": 1,
+      "alliteration": 1
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        17
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 221,
+      "estimatedSeconds": 74,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "polregularny",
+      "regularityScore": 0.65
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Biblia",
+          "reference": "wspólnota wierzących, braterstwo duchowe",
+          "evidence": "każdym bratem co na wysokości swego osamotnienia"
+        },
+        {
+          "source": "Biblia",
+          "reference": "pokora chrześcijańska",
+          "evidence": "mi wystarczy pokory"
+        },
+        {
+          "source": "Biblia",
+          "reference": "worek pokutny",
+          "evidence": "świt mi szary worek na głowę zarzuci"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.3,
+        "baudelaire": 0.2,
+        "bursa": 0.1,
+        "stachura": 0.4,
+        "grochowiak": 0.3,
+        "bialoszewski": 0.1,
+        "rozewicz": 0.2
+      }
+    },
+    "space": {
+      "type": "otwarta",
+      "evidence": "noc wypełznie z nędzy pozalewanych wodą lokatorskich piwnic i na gwiazdach swe płaszcze rozwiesi",
+      "openClosedRatio": 0.8
+    },
+    "timeOfDay": {
+      "period": "noc",
+      "season": "nieokreslona",
+      "evidence": "Dobra noc mi pozwala aż do rana pisać... gdy świt mi szary worek na głowę zarzuci"
+    },
+    "motion": {
+      "movement": 7,
+      "stillness": 3,
+      "dynamism": 0.7,
+      "evidence": "noc wypełznie, odwracanych wilgotnym palcem, rozwiesi płaszcze"
+    },
+    "imageryDensity": {
+      "metaphors": 8,
+      "comparisons": 2,
+      "personifications": 4,
+      "hyperboles": 2,
+      "per100words": 23.5
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.9,
+      "creationLevel": 0.8,
+      "ironicDistance": 0.1,
+      "autobiographicSignals": [
+        "piszę wierząc",
+        "ja znowu będę pisał",
+        "niezmordowanym piórem"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "melancholia",
+      "secondary": "czułość",
+      "intensity": 0.7
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "Liczne formy pierwszej osoby: 'mi pozwala', 'piszę', 'wierząc', 'ja znowu będę pisał'"
+    },
+    "addressee": {
+      "type": "czytelnik",
+      "evidence": "Odniesienia do 'każdego brata', 'oni będą czytać', sugerujące wspólnotę poetów i czytelników"
+    },
+    "metaphors": [
+      {
+        "source": "pisanie",
+        "target": "krwawienie",
+        "example": "niezmordowanym piórem krwi na jej tablicach"
+      },
+      {
+        "source": "świt",
+        "target": "kaptur",
+        "example": "świt mi szary worek na głowę zarzuci"
+      },
+      {
+        "source": "noc",
+        "target": "żywa istota",
+        "example": "gdy noc wypełznie z nędzy"
+      },
+      {
+        "source": "pisanie",
+        "target": "korespondencja krwią",
+        "example": "wielkim promieniowaniem swej wysokiej krwi"
+      }
+    ],
+    "temperature": {
+      "value": 0.4,
+      "label": "chłodna melancholia z nutą ciepła braterstwa"
+    },
+    "senses": {
+      "wzrok": 4,
+      "sluch": 1,
+      "dotyk": 3,
+      "smak": 0,
+      "zapach": 0
+    },
+    "autodestruction": {
+      "level": 0.5,
+      "signals": [
+        "pisanie piórem krwi",
+        "motyw nędzy i cierpienia",
+        "obraz zakładania worka na głowę"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 0.684,
+    "dfaAlpha": 0.765,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -0.7520386983881371
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -0.30668710229799084
+      },
+      {
+        "logWin": 1.6094379124341003,
+        "logFluc": -0.38132688080044225
+      }
+    ],
+    "seriesLength": 15,
+    "series": [
+      8,
+      6,
+      5,
+      8,
+      7,
+      6,
+      7,
+      8,
+      6,
+      9,
+      4,
+      8,
+      7,
+      7,
+      5
+    ]
+  }
+}

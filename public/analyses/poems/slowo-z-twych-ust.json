@@ -1,0 +1,817 @@
+{
+  "id": "slowo-z-twych-ust",
+  "title": "Słowo z Twych ust",
+  "wordCount": 60,
+  "lineCount": 8,
+  "uniqueWords": 51,
+  "vocabularyRichness": 0.85,
+  "avgWordsPerLine": 7.5,
+  "wordsPerLineDistribution": [
+    8,
+    9,
+    7,
+    9,
+    6,
+    8,
+    5,
+    8
+  ],
+  "wordFrequencies": [
+    [
+      "słowo",
+      1
+    ],
+    [
+      "twych",
+      1
+    ],
+    [
+      "ust",
+      1
+    ],
+    [
+      "wysuwa",
+      1
+    ],
+    [
+      "srebrną",
+      1
+    ],
+    [
+      "jaszczurką",
+      1
+    ],
+    [
+      "widzę",
+      1
+    ],
+    [
+      "boję",
+      1
+    ],
+    [
+      "życzę",
+      1
+    ],
+    [
+      "śmierci",
+      1
+    ],
+    [
+      "okazało",
+      1
+    ],
+    [
+      "iż",
+      1
+    ],
+    [
+      "indziej",
+      1
+    ],
+    [
+      "skręci",
+      1
+    ],
+    [
+      "czekam",
+      1
+    ],
+    [
+      "srebrny",
+      1
+    ],
+    [
+      "dzwonek",
+      1
+    ],
+    [
+      "zmieni",
+      1
+    ],
+    [
+      "ucho",
+      1
+    ],
+    [
+      "śmierć",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 2,
+    "period": 5,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 1,
+    "colon": 0,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 0,
+  "negationWords": [],
+  "pronounDistribution": {
+    "ja": 2,
+    "ty": 3,
+    "on_ona": 0,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 0,
+    "smierc": 1,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [],
+  "firstWord": "słowo",
+  "lastWord": "rodziła",
+  "avgWordLength": 4.68,
+  "wordLengthDistribution": {
+    "4-5": 12,
+    "1-3": 24,
+    "6-7": 19,
+    "10+": 3,
+    "8-9": 2
+  },
+  "bigrams": [
+    [
+      "twych ust",
+      1
+    ],
+    [
+      "ust wysuwa",
+      1
+    ],
+    [
+      "srebrną jaszczurką",
+      1
+    ],
+    [
+      "jaszczurką widzę",
+      1
+    ]
+  ],
+  "poemWords": [
+    "słowo",
+    "twych",
+    "ust",
+    "wysuwa",
+    "srebrną",
+    "jaszczurką",
+    "widzę",
+    "boję",
+    "życzę",
+    "śmierci",
+    "okazało",
+    "indziej",
+    "skręci",
+    "czekam",
+    "srebrny",
+    "dzwonek",
+    "zmieni",
+    "ucho",
+    "śmierć",
+    "bezwiednie",
+    "staje",
+    "ironiczna",
+    "tkliwą",
+    "drwiną",
+    "liczy",
+    "metale",
+    "wybaczysz",
+    "sekundę",
+    "godziny",
+    "wybaczę",
+    "jaszczurka",
+    "sercem",
+    "rodziła"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 14,
+        "VERB": 13,
+        "ADJ": 6,
+        "ADV": 5,
+        "PRON": 10,
+        "ADP": 5,
+        "CCONJ": 2,
+        "SCONJ": 3,
+        "INTJ": 0,
+        "PART": 1,
+        "DET": 3,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.219,
+        "VERB": 0.203,
+        "ADJ": 0.094,
+        "ADV": 0.078,
+        "PRON": 0.156,
+        "ADP": 0.078,
+        "CCONJ": 0.031,
+        "SCONJ": 0.047,
+        "INTJ": 0,
+        "PART": 0.016,
+        "DET": 0.047,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 2,
+        "abstract": 2,
+        "ratio": 0.5
+      },
+      "verbTenses": {
+        "present": 8,
+        "past": 2,
+        "future": 3
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 1,
+        "stan": 1,
+        "destrukcja": 0,
+        "tworzenie": 1,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 0,
+        "opisowe": 6
+      },
+      "adverbs": {
+        "temporalne": [],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "tak",
+            "count": 1
+          },
+          {
+            "word": "gdzie",
+            "count": 1
+          },
+          {
+            "word": "indziej",
+            "count": 1
+          },
+          {
+            "word": "bezwiednie",
+            "count": 1
+          },
+          {
+            "word": "gdy",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 1,
+        "ty": 3,
+        "on_ona": 0,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 0,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 0,
+        "percentSentences": 0
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 121,
+        "consonants": 174,
+        "ratio": 0.7
+      },
+      "consonantClusters": {
+        "count": 11,
+        "top": [
+          {
+            "cluster": "brn",
+            "count": 2
+          },
+          {
+            "cluster": "szcz",
+            "count": 2
+          },
+          {
+            "cluster": "gdz",
+            "count": 1
+          },
+          {
+            "cluster": "ndz",
+            "count": 1
+          },
+          {
+            "cluster": "skr",
+            "count": 1
+          },
+          {
+            "cluster": "dzw",
+            "count": 1
+          },
+          {
+            "cluster": "czn",
+            "count": 1
+          },
+          {
+            "cluster": "tkl",
+            "count": 1
+          },
+          {
+            "cluster": "drw",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 15,
+        "syczace": 35,
+        "nosowe": 38,
+        "plynne": 20
+      },
+      "rhymes": {
+        "exact": 0,
+        "approximate": 1,
+        "internal": 0,
+        "assonance": 0,
+        "alliteration": 1
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 9.1,
+        "median": 9,
+        "min": 5,
+        "max": 14,
+        "distribution": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          1,
+          2,
+          0,
+          0,
+          1,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 7.2,
+        "meanSyllables": 14,
+        "distribution": [
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          2,
+          1,
+          3,
+          2
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 7,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 0,
+        "noSubject": 3,
+        "noPredicate": 0,
+        "percent": 0.43
+      },
+      "enjambement": {
+        "count": 2,
+        "percent": 0.25,
+        "positions": [
+          6,
+          8
+        ]
+      },
+      "wordOrder": {
+        "svo": 3,
+        "inversions": 1,
+        "other": 3,
+        "deviationPercent": 0.57
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 1,
+        "śmierć": 1,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 126,
+      "estimatedSeconds": 42,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 14,
+      "VERB": 13,
+      "ADJ": 6,
+      "ADV": 5,
+      "PRON": 10,
+      "ADP": 5,
+      "CCONJ": 2,
+      "SCONJ": 3,
+      "INTJ": 0,
+      "PART": 1,
+      "DET": 3,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.219,
+      "VERB": 0.203,
+      "ADJ": 0.094,
+      "ADV": 0.078,
+      "PRON": 0.156,
+      "ADP": 0.078,
+      "CCONJ": 0.031,
+      "SCONJ": 0.047,
+      "INTJ": 0,
+      "PART": 0.016,
+      "DET": 0.047,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 2,
+      "abstract": 2,
+      "ratio": 0.5
+    },
+    "verbTenses": {
+      "present": 8,
+      "past": 2,
+      "future": 3
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 1,
+      "stan": 1,
+      "destrukcja": 0,
+      "tworzenie": 1,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 0,
+      "opisowe": 6
+    },
+    "adverbs": {
+      "temporalne": [],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "tak",
+          "count": 1
+        },
+        {
+          "word": "gdzie",
+          "count": 1
+        },
+        {
+          "word": "indziej",
+          "count": 1
+        },
+        {
+          "word": "bezwiednie",
+          "count": 1
+        },
+        {
+          "word": "gdy",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 1,
+      "ty": 3,
+      "on_ona": 0,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 0,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 0,
+      "percentSentences": 0
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 9.1,
+      "median": 9,
+      "min": 5,
+      "max": 14,
+      "distribution": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        1,
+        1,
+        2,
+        0,
+        0,
+        1,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 7.2,
+      "meanSyllables": 14,
+      "distribution": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        2,
+        1,
+        3,
+        2
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 7,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 0,
+      "noSubject": 3,
+      "noPredicate": 0,
+      "percent": 0.43
+    },
+    "enjambement": {
+      "count": 2,
+      "percent": 0.25,
+      "positions": [
+        6,
+        8
+      ]
+    },
+    "wordOrder": {
+      "svo": 3,
+      "inversions": 1,
+      "other": 3,
+      "deviationPercent": 0.57
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 121,
+      "consonants": 174,
+      "ratio": 0.7
+    },
+    "consonantClusters": {
+      "count": 11,
+      "top": [
+        {
+          "cluster": "brn",
+          "count": 2
+        },
+        {
+          "cluster": "szcz",
+          "count": 2
+        },
+        {
+          "cluster": "gdz",
+          "count": 1
+        },
+        {
+          "cluster": "ndz",
+          "count": 1
+        },
+        {
+          "cluster": "skr",
+          "count": 1
+        },
+        {
+          "cluster": "dzw",
+          "count": 1
+        },
+        {
+          "cluster": "czn",
+          "count": 1
+        },
+        {
+          "cluster": "tkl",
+          "count": 1
+        },
+        {
+          "cluster": "drw",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 15,
+      "syczace": 35,
+      "nosowe": 38,
+      "plynne": 20
+    },
+    "rhymes": {
+      "exact": 0,
+      "approximate": 1,
+      "internal": 0,
+      "assonance": 0,
+      "alliteration": 1
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        9
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 126,
+      "estimatedSeconds": 42,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "regularny",
+      "regularityScore": 0.75
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Biblia",
+          "reference": "Słowo z ust - nawiązanie do Logosu, Słowa Bożego",
+          "evidence": "Słowo z Twych ust"
+        },
+        {
+          "source": "mitologia",
+          "reference": "jaszczurka jako symbol transformacji",
+          "evidence": "srebrną jaszczurką"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.7,
+        "baudelaire": 0.6,
+        "bursa": 0.3,
+        "stachura": 0.4,
+        "grochowiak": 0.5,
+        "bialoszewski": 0.2,
+        "rozewicz": 0.4
+      }
+    },
+    "space": {
+      "type": "nieokreslona",
+      "evidence": "przestrzeń psychiczna, intymna, bez konkretnych wskazówek topograficznych",
+      "openClosedRatio": 0.3
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "nieokreslona",
+      "evidence": "brak wyraźnych wskaźników temporalnych"
+    },
+    "motion": {
+      "movement": 7,
+      "stillness": 3,
+      "dynamism": 0.7,
+      "evidence": "wysuwa się, skręci, rodziła - dynamiczne czasowniki ruchu i transformacji"
+    },
+    "imageryDensity": {
+      "metaphors": 4,
+      "comparisons": 2,
+      "personifications": 3,
+      "hyperboles": 1,
+      "per100words": 16.7
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.9,
+      "creationLevel": 0.8,
+      "ironicDistance": 0.6,
+      "autobiographicSignals": [
+        "życzę Ci śmierci",
+        "Moja śmierć",
+        "tkliwą drwiną",
+        "Wybaczysz"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "tęsknota",
+      "secondary": "ironia",
+      "intensity": 0.8
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "Widzę i tak się boję, Moja śmierć, Czekam, wybaczę"
+    },
+    "addressee": {
+      "type": "ty",
+      "evidence": "Słowo z Twych ust, życzę Ci śmierci, liczy Ci inne metale, Wybaczysz"
+    },
+    "metaphors": [
+      {
+        "source": "słowo",
+        "target": "srebrna jaszczurka",
+        "example": "Słowo z Twych ust wysuwa się srebrną jaszczurką"
+      },
+      {
+        "source": "ucho",
+        "target": "srebrny dzwonek",
+        "example": "Czekam aż w srebrny dzwonek mi się zmieni ucho"
+      },
+      {
+        "source": "śmierć",
+        "target": "istota licząca metale",
+        "example": "Moja śmierć bezwiednie staje się ironiczna / I z tkliwą drwiną liczy Ci inne metale"
+      }
+    ],
+    "temperature": {
+      "value": 0.6,
+      "label": "ciepło-chłodne napięcie między pragnieniem a lękiem"
+    },
+    "senses": {
+      "wzrok": 4,
+      "sluch": 3,
+      "dotyk": 2,
+      "smak": 0,
+      "zapach": 0
+    },
+    "autodestruction": {
+      "level": 0.7,
+      "signals": [
+        "życzę Ci śmierci",
+        "Moja śmierć",
+        "tkliwą drwiną"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": null,
+    "dfaAlpha": null,
+    "dfaScaling": [],
+    "seriesLength": 8,
+    "series": [
+      8,
+      9,
+      7,
+      9,
+      6,
+      8,
+      5,
+      8
+    ]
+  }
+}

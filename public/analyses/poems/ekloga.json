@@ -1,0 +1,880 @@
+{
+  "id": "ekloga",
+  "title": "Ekloga",
+  "wordCount": 88,
+  "lineCount": 12,
+  "uniqueWords": 70,
+  "vocabularyRichness": 0.795,
+  "avgWordsPerLine": 7.33,
+  "wordsPerLineDistribution": [
+    5,
+    2,
+    10,
+    6,
+    8,
+    9,
+    11,
+    6,
+    6,
+    9,
+    8,
+    8
+  ],
+  "wordFrequencies": [
+    [
+      "oknem",
+      3
+    ],
+    [
+      "krzyk",
+      2
+    ],
+    [
+      "spać",
+      1
+    ],
+    [
+      "patrz",
+      1
+    ],
+    [
+      "okno",
+      1
+    ],
+    [
+      "zima",
+      1
+    ],
+    [
+      "zaczyna",
+      1
+    ],
+    [
+      "gwiazda",
+      1
+    ],
+    [
+      "mrozu",
+      1
+    ],
+    [
+      "bezsenna",
+      1
+    ],
+    [
+      "pusta",
+      1
+    ],
+    [
+      "kołyska",
+      1
+    ],
+    [
+      "ciebie",
+      1
+    ],
+    [
+      "sen",
+      1
+    ],
+    [
+      "przyszedł",
+      1
+    ],
+    [
+      "miękkich",
+      1
+    ],
+    [
+      "podeszwach",
+      1
+    ],
+    [
+      "zasypiaj",
+      1
+    ],
+    [
+      "rozpuści",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 1,
+    "period": 8,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 2,
+    "dash": 4,
+    "colon": 0,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 4,
+  "negationWords": [
+    "nie"
+  ],
+  "pronounDistribution": {
+    "ja": 0,
+    "ty": 5,
+    "on_ona": 0,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 2,
+    "smierc": 1,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 1,
+    "bol": 2
+  },
+  "anaphors": [
+    [
+      "nie",
+      2
+    ]
+  ],
+  "firstWord": "znów",
+  "lastWord": "śnie",
+  "avgWordLength": 4.65,
+  "wordLengthDistribution": {
+    "4-5": 25,
+    "1-3": 35,
+    "6-7": 13,
+    "8-9": 12,
+    "10+": 3
+  },
+  "bigrams": [
+    [
+      "znów będę",
+      1
+    ],
+    [
+      "będę spać",
+      1
+    ],
+    [
+      "oknem t",
+      1
+    ],
+    [
+      "patrz wciąż",
+      1
+    ],
+    [
+      "okno tam",
+      1
+    ]
+  ],
+  "poemWords": [
+    "spać",
+    "oknem",
+    "patrz",
+    "okno",
+    "zima",
+    "zaczyna",
+    "gwiazda",
+    "mrozu",
+    "bezsenna",
+    "pusta",
+    "kołyska",
+    "ciebie",
+    "sen",
+    "przyszedł",
+    "miękkich",
+    "podeszwach",
+    "zasypiaj",
+    "rozpuści",
+    "krwi",
+    "krzyk",
+    "dziecka",
+    "krzyknęłaś",
+    "znienacka",
+    "ujrzawszy",
+    "twarz",
+    "snu",
+    "wymówiłaś",
+    "imię",
+    "królewna",
+    "śnieżka",
+    "dłoni",
+    "grzeje",
+    "stopy",
+    "zaśniesz",
+    "śnieg",
+    "zdepcze",
+    "czerwoną",
+    "stopą",
+    "śmierć",
+    "zamieszka",
+    "wargach",
+    "takich",
+    "bezbronnych",
+    "śnie"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 24,
+        "VERB": 13,
+        "ADJ": 7,
+        "ADV": 4,
+        "PRON": 6,
+        "ADP": 10,
+        "CCONJ": 4,
+        "SCONJ": 2,
+        "INTJ": 0,
+        "PART": 7,
+        "DET": 4,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.27,
+        "VERB": 0.146,
+        "ADJ": 0.079,
+        "ADV": 0.045,
+        "PRON": 0.067,
+        "ADP": 0.112,
+        "CCONJ": 0.045,
+        "SCONJ": 0.022,
+        "INTJ": 0,
+        "PART": 0.079,
+        "DET": 0.045,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 5,
+        "abstract": 4,
+        "ratio": 0.56
+      },
+      "verbTenses": {
+        "future": 5,
+        "infinitive": 1,
+        "imperative": 1,
+        "present": 3,
+        "past": 6
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 1,
+        "stan": 4,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 2,
+        "oceniajace": 0,
+        "opisowe": 5
+      },
+      "adverbs": {
+        "temporalne": [
+          "wciąż"
+        ],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "znów",
+            "count": 1
+          },
+          {
+            "word": "wciąż",
+            "count": 1
+          },
+          {
+            "word": "tam",
+            "count": 1
+          },
+          {
+            "word": "znienacka",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 0,
+        "ty": 4,
+        "on_ona": 0,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 4,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 4,
+        "percentSentences": 0.36
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 163,
+        "consonants": 252,
+        "ratio": 0.65
+      },
+      "consonantClusters": {
+        "count": 13,
+        "top": [
+          {
+            "cluster": "krz",
+            "count": 3
+          },
+          {
+            "cluster": "trz",
+            "count": 1
+          },
+          {
+            "cluster": "prz",
+            "count": 1
+          },
+          {
+            "cluster": "szw",
+            "count": 1
+          },
+          {
+            "cluster": "krw",
+            "count": 1
+          },
+          {
+            "cluster": "jrz",
+            "count": 1
+          },
+          {
+            "cluster": "wsz",
+            "count": 1
+          },
+          {
+            "cluster": "grz",
+            "count": 1
+          },
+          {
+            "cluster": "pcz",
+            "count": 1
+          },
+          {
+            "cluster": "szk",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 21,
+        "syczace": 54,
+        "nosowe": 53,
+        "plynne": 26
+      },
+      "rhymes": {
+        "exact": 0,
+        "approximate": 2,
+        "internal": 0,
+        "assonance": 0,
+        "alliteration": 0
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 8.1,
+        "median": 6,
+        "min": 0,
+        "max": 17,
+        "distribution": [
+          1,
+          1,
+          0,
+          1,
+          0,
+          2,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          0,
+          2
+        ]
+      },
+      "lineLength": {
+        "meanWords": 7.2,
+        "meanSyllables": 13.3,
+        "distribution": [
+          0,
+          1,
+          1,
+          0,
+          0,
+          1,
+          2,
+          1,
+          2,
+          1,
+          3,
+          1
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 10,
+        "interrogative": 0,
+        "imperative": 1,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 1,
+        "noSubject": 4,
+        "noPredicate": 1,
+        "percent": 0.55
+      },
+      "enjambement": {
+        "count": 2,
+        "percent": 0.17,
+        "positions": [
+          6,
+          10
+        ]
+      },
+      "wordOrder": {
+        "svo": 4,
+        "inversions": 0,
+        "other": 5,
+        "deviationPercent": 0.56
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 2,
+        "śmierć": 1,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 2,
+        "ból": 2
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 173,
+      "estimatedSeconds": 58,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 24,
+      "VERB": 13,
+      "ADJ": 7,
+      "ADV": 4,
+      "PRON": 6,
+      "ADP": 10,
+      "CCONJ": 4,
+      "SCONJ": 2,
+      "INTJ": 0,
+      "PART": 7,
+      "DET": 4,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.27,
+      "VERB": 0.146,
+      "ADJ": 0.079,
+      "ADV": 0.045,
+      "PRON": 0.067,
+      "ADP": 0.112,
+      "CCONJ": 0.045,
+      "SCONJ": 0.022,
+      "INTJ": 0,
+      "PART": 0.079,
+      "DET": 0.045,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 5,
+      "abstract": 4,
+      "ratio": 0.56
+    },
+    "verbTenses": {
+      "future": 5,
+      "infinitive": 1,
+      "imperative": 1,
+      "present": 3,
+      "past": 6
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 1,
+      "stan": 4,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 2,
+      "oceniajace": 0,
+      "opisowe": 5
+    },
+    "adverbs": {
+      "temporalne": [
+        "wciąż"
+      ],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "znów",
+          "count": 1
+        },
+        {
+          "word": "wciąż",
+          "count": 1
+        },
+        {
+          "word": "tam",
+          "count": 1
+        },
+        {
+          "word": "znienacka",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 0,
+      "ty": 4,
+      "on_ona": 0,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 4,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 4,
+      "percentSentences": 0.36
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 8.1,
+      "median": 6,
+      "min": 0,
+      "max": 17,
+      "distribution": [
+        1,
+        1,
+        0,
+        1,
+        0,
+        2,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        2
+      ]
+    },
+    "lineLength": {
+      "meanWords": 7.2,
+      "meanSyllables": 13.3,
+      "distribution": [
+        0,
+        1,
+        1,
+        0,
+        0,
+        1,
+        2,
+        1,
+        2,
+        1,
+        3,
+        1
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 10,
+      "interrogative": 0,
+      "imperative": 1,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 1,
+      "noSubject": 4,
+      "noPredicate": 1,
+      "percent": 0.55
+    },
+    "enjambement": {
+      "count": 2,
+      "percent": 0.17,
+      "positions": [
+        6,
+        10
+      ]
+    },
+    "wordOrder": {
+      "svo": 4,
+      "inversions": 0,
+      "other": 5,
+      "deviationPercent": 0.56
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 163,
+      "consonants": 252,
+      "ratio": 0.65
+    },
+    "consonantClusters": {
+      "count": 13,
+      "top": [
+        {
+          "cluster": "krz",
+          "count": 3
+        },
+        {
+          "cluster": "trz",
+          "count": 1
+        },
+        {
+          "cluster": "prz",
+          "count": 1
+        },
+        {
+          "cluster": "szw",
+          "count": 1
+        },
+        {
+          "cluster": "krw",
+          "count": 1
+        },
+        {
+          "cluster": "jrz",
+          "count": 1
+        },
+        {
+          "cluster": "wsz",
+          "count": 1
+        },
+        {
+          "cluster": "grz",
+          "count": 1
+        },
+        {
+          "cluster": "pcz",
+          "count": 1
+        },
+        {
+          "cluster": "szk",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 21,
+      "syczace": 54,
+      "nosowe": 53,
+      "plynne": 26
+    },
+    "rhymes": {
+      "exact": 0,
+      "approximate": 2,
+      "internal": 0,
+      "assonance": 0,
+      "alliteration": 0
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        13
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 173,
+      "estimatedSeconds": 58,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "polregularny",
+      "regularityScore": 0.58
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "inne",
+          "reference": "Królewna Śnieżka",
+          "evidence": "I wymówiłaś imię i Królewna Śnieżka / w Twojej dłoni za oknem już – grzeje swe stopy"
+        },
+        {
+          "source": "inne",
+          "reference": "tradycja eklogi pastoralnej",
+          "evidence": "tytuł EKLOGA sugeruje nawiązanie do klasycznej tradycji bukolicznej"
+        },
+        {
+          "source": "inne",
+          "reference": "motto T.Z.",
+          "evidence": "Znów będę spać za oknem T. Z. - dedykacja/motto"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.3,
+        "baudelaire": 0.4,
+        "bursa": 0.2,
+        "stachura": 0.1,
+        "grochowiak": 0.3,
+        "bialoszewski": 0.1,
+        "rozewicz": 0.2
+      }
+    },
+    "space": {
+      "type": "zamknieta",
+      "evidence": "dominacja motywu okna jako granicy między wnętrzem a zewnętrzem, sen jako przestrzeń zamknięta",
+      "openClosedRatio": 0.3
+    },
+    "timeOfDay": {
+      "period": "noc",
+      "season": "zima",
+      "evidence": "Tam już zima się zaczyna / Gwiazda mrozu bezsenna / nie zasypiaj / zaśniesz / Śnieg"
+    },
+    "motion": {
+      "movement": 3,
+      "stillness": 7,
+      "dynamism": 0.3,
+      "evidence": "dominacja statyczności: spanie, sen, bezsenna gwiazda, kontrastuje z nielicznymi ruchami: sen przyszedł, rozpuści się, krzyk"
+    },
+    "imageryDensity": {
+      "metaphors": 6,
+      "comparisons": 2,
+      "personifications": 4,
+      "hyperboles": 1,
+      "per100words": 18.6
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.8,
+      "creationLevel": 0.6,
+      "ironicDistance": 0.2,
+      "autobiographicSignals": [
+        "intymne zwroty do Ciebie",
+        "dedykacja T.Z.",
+        "liryczne wyznanie",
+        "obserwacja snu ukochanej osoby"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "czułość",
+      "secondary": "tęsknota",
+      "intensity": 0.8
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "podmiot liryczny zwraca się bezpośrednio do ukochanej osoby używając form 'nie patrz', 'nie zasypiaj', 'i wiem, zaśniesz'"
+    },
+    "addressee": {
+      "type": "ty",
+      "evidence": "cały wiersz to bezpośrednie zwracanie się do konkretnej osoby na 'Ty' - 'Nie patrz', 'do Ciebie sen przyszedł', 'Ty krzyknęłaś'"
+    },
+    "metaphors": [
+      {
+        "source": "sen",
+        "target": "substancja",
+        "example": "niech raczej rozpuści Ci się w krwi"
+      },
+      {
+        "source": "gwiazda",
+        "target": "kołyska",
+        "example": "Gwiazda mrozu bezsenna jak pusta kołyska"
+      },
+      {
+        "source": "śnieg",
+        "target": "istota agresywna",
+        "example": "Śnieg zdepcze cię czerwoną stopą"
+      },
+      {
+        "source": "śmierć",
+        "target": "lokator",
+        "example": "śmierć zamieszka na wargach"
+      }
+    ],
+    "temperature": {
+      "value": 0.3,
+      "label": "chłodne"
+    },
+    "senses": {
+      "wzrok": 5,
+      "sluch": 3,
+      "dotyk": 4,
+      "smak": 0,
+      "zapach": 0
+    },
+    "autodestruction": {
+      "level": 0.6,
+      "signals": [
+        "wizja śmierci ukochanej osoby",
+        "fatalistyczne przewidywanie tragedii",
+        "obsesyjne skupienie na destrukcyjnych obrazach"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 1.387,
+    "dfaAlpha": 2.241,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -0.634255662731753
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": 0.010331611705782165
+      }
+    ],
+    "seriesLength": 12,
+    "series": [
+      5,
+      2,
+      10,
+      6,
+      8,
+      9,
+      11,
+      6,
+      6,
+      9,
+      8,
+      8
+    ]
+  }
+}

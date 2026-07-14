@@ -1,8 +1,8 @@
 /// <reference types="vite/client" />
 import { useRef, useEffect, useState } from 'react';
 import { motion, AnimatePresence, useScroll, useTransform } from 'motion/react';
-import mapboxgl from 'mapbox-gl';
-import 'mapbox-gl/dist/mapbox-gl.css';
+import L from 'leaflet';
+import 'leaflet/dist/leaflet.css';
 import { MAP_CENTER } from '../../constants';
 import { useData } from '../../services/data/dataService';
 import { PlacePreview } from './components/PlacePreview';
@@ -10,14 +10,31 @@ import type { Point } from '../../types';
 
 const MAPBOX_TOKEN = import.meta.env.VITE_MAPBOX_TOKEN || '';
 
+const getTileLayer = () => {
+  // Use CartoDB Positron — clean, light, grayscale-ish, no API key needed
+  return L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
+    attribution: '',
+    subdomains: 'abcd',
+    maxZoom: 19,
+  });
+};
+
+const createNumberedIcon = (index: number) =>
+  L.divIcon({
+    className: '',
+    iconSize: [24, 24],
+    iconAnchor: [12, 12],
+    html: `<div style="width:24px;height:24px;background:#c23030;border-radius:50%;border:2px solid white;box-shadow:0 2px 8px rgba(0,0,0,0.5);display:flex;align-items:center;justify-content:center;color:white;font-size:10px;font-weight:700;">${index}</div>`,
+  });
+
 interface TrailViewProps {
   onStart: (point: Point) => void;
 }
 
 export const TrailView = ({ onStart }: TrailViewProps) => {
   const mapContainer = useRef<HTMLDivElement>(null);
+  const mapRef = useRef<L.Map | null>(null);
   const heroRef = useRef<HTMLDivElement>(null);
-  const map = useRef<mapboxgl.Map | null>(null);
   const { points } = useData();
   const [previewPoint, setPreviewPoint] = useState<Point | null>(null);
 
@@ -28,87 +45,45 @@ export const TrailView = ({ onStart }: TrailViewProps) => {
   const heroY = useTransform(scrollYProgress, [0, 1], ['-10%', '10%']);
 
   useEffect(() => {
-    if (!mapContainer.current || !MAPBOX_TOKEN) return;
+    if (!mapContainer.current) return;
 
-    mapboxgl.accessToken = MAPBOX_TOKEN;
-
-    // Compute bounds to fit all points
-    const bounds = new mapboxgl.LngLatBounds();
-    points.forEach(p => bounds.extend([p.lng, p.lat]));
-
-    map.current = new mapboxgl.Map({
-      container: mapContainer.current,
-      style: 'mapbox://styles/mapbox/light-v11',
-      bounds,
-      fitBoundsOptions: { padding: 50 },
-      pitch: 35,
-      bearing: -15,
-      interactive: true,
+    const map = L.map(mapContainer.current, {
       attributionControl: false,
-      logoPosition: 'top-left',
+      zoomControl: true,
     });
+    mapRef.current = map;
 
-    map.current.on('load', () => {
-      const m = map.current!;
+    getTileLayer().addTo(map);
 
-      m.addSource('mapbox-dem', {
-        type: 'raster-dem',
-        url: 'mapbox://mapbox.mapbox-terrain-dem-v1',
-        tileSize: 512,
-      });
-      m.setTerrain({ source: 'mapbox-dem', exaggeration: 1.5 });
+    // Fit bounds to all points
+    const bounds = L.latLngBounds(points.map(p => [p.lat, p.lng] as [number, number]));
+    map.fitBounds(bounds, { padding: [50, 50] });
 
-      // Atmospheric fog
-      m.setFog({
-        color: 'rgb(186, 195, 210)',
-        'high-color': 'rgb(36, 50, 75)',
-        'horizon-blend': 0.08,
-        'space-color': 'rgb(15, 20, 35)',
-        'star-intensity': 0.4,
-      });
+    // Trail polyline
+    const coords = points.map(p => [p.lat, p.lng] as [number, number]);
+    L.polyline(coords, {
+      color: '#c23030',
+      weight: 3,
+      dashArray: '8, 4',
+      opacity: 0.8,
+    }).addTo(map);
 
-      const coords = points.map(p => [p.lng, p.lat]);
-      m.addSource('trail', {
-        type: 'geojson',
-        data: {
-          type: 'Feature',
-          properties: {},
-          geometry: { type: 'LineString', coordinates: coords },
-        },
-      });
-      m.addLayer({
-        id: 'trail-line',
-        type: 'line',
-        source: 'trail',
-        paint: {
-          'line-color': '#c23030',
-          'line-width': 3,
-          'line-dasharray': [2, 1],
-          'line-opacity': 0.8,
-        },
-      });
-    });
-
+    // Markers
     points.forEach((p, i) => {
-      const el = document.createElement('div');
-      el.style.width = '24px';
-      el.style.height = '24px';
-      el.style.backgroundColor = '#c23030';
-      el.style.borderRadius = '50%';
-      el.style.border = '2px solid white';
-      el.style.boxShadow = '0 2px 8px rgba(0,0,0,0.5)';
-      el.style.display = 'flex';
-      el.style.alignItems = 'center';
-      el.style.justifyContent = 'center';
-      el.style.color = 'white';
-      el.style.fontSize = '10px';
-      el.style.fontWeight = '700';
-      el.textContent = String(i + 1);
+      const marker = L.marker([p.lat, p.lng], {
+        icon: createNumberedIcon(i + 1),
+      }).addTo(map);
 
-      new mapboxgl.Marker(el).setLngLat([p.lng, p.lat]).addTo(map.current!);
+      marker.on('click', () => {
+        setPreviewPoint(p);
+      });
     });
 
-    return () => { map.current?.remove(); };
+    // Fix tile rendering on mobile
+    setTimeout(() => map.invalidateSize(), 100);
+    setTimeout(() => map.invalidateSize(), 500);
+
+    return () => { map.remove(); };
   }, []);
 
   return (
@@ -134,7 +109,7 @@ export const TrailView = ({ onStart }: TrailViewProps) => {
           className="relative -mt-4 mx-6 rounded-xl overflow-hidden shadow-[0_8px_30px_rgba(0,0,0,0.18)] z-20"
         >
           <motion.img
-            src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Miko%C5%82%C3%B3w_-_Rynek.JPG"
+            src="/images/rynek-panorama.jpg"
             alt="Ścieżka Wojaczka"
             className="w-full aspect-[3/2] object-cover grayscale contrast-125 brightness-75 scale-110"
             style={{ y: heroY }}

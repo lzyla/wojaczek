@@ -1,0 +1,965 @@
+{
+  "id": "do-polskiego-poety",
+  "title": "Do polskiego poety",
+  "wordCount": 99,
+  "lineCount": 16,
+  "uniqueWords": 84,
+  "vocabularyRichness": 0.848,
+  "avgWordsPerLine": 6.19,
+  "wordsPerLineDistribution": [
+    3,
+    6,
+    6,
+    7,
+    7,
+    6,
+    6,
+    7,
+    8,
+    7,
+    5,
+    6,
+    7,
+    8,
+    7,
+    3
+  ],
+  "wordFrequencies": [
+    [
+      "widać",
+      4
+    ],
+    [
+      "bezdomni",
+      2
+    ],
+    [
+      "piosenka",
+      1
+    ],
+    [
+      "bohaterów",
+      1
+    ],
+    [
+      "vi",
+      1
+    ],
+    [
+      "chcieliśmy",
+      1
+    ],
+    [
+      "mądrzy",
+      1
+    ],
+    [
+      "zostaliśmy",
+      1
+    ],
+    [
+      "ponad",
+      1
+    ],
+    [
+      "sytą",
+      1
+    ],
+    [
+      "głupotą",
+      1
+    ],
+    [
+      "misą",
+      1
+    ],
+    [
+      "ziemi",
+      1
+    ],
+    [
+      "głodni",
+      1
+    ],
+    [
+      "kosmos",
+      1
+    ],
+    [
+      "nami",
+      1
+    ],
+    [
+      "wzgardził",
+      1
+    ],
+    [
+      "wypluł",
+      1
+    ],
+    [
+      "krąg",
+      1
+    ],
+    [
+      "nieskończoności",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 2,
+    "period": 0,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 1,
+    "colon": 0,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 2,
+  "negationWords": [
+    "nie"
+  ],
+  "pronounDistribution": {
+    "ja": 0,
+    "ty": 0,
+    "on_ona": 0,
+    "my": 6,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 0,
+    "smierc": 0,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [
+    [
+      "widać",
+      3
+    ]
+  ],
+  "firstWord": "piosenka",
+  "lastWord": "września",
+  "avgWordLength": 5.44,
+  "wordLengthDistribution": {
+    "8-9": 11,
+    "1-3": 25,
+    "10+": 9,
+    "6-7": 21,
+    "4-5": 33
+  },
+  "bigrams": [
+    [
+      "widać wciąż",
+      3
+    ],
+    [
+      "piosenka bohaterów",
+      1
+    ],
+    [
+      "bohaterów vi",
+      1
+    ],
+    [
+      "mądrzy zostaliśmy",
+      1
+    ],
+    [
+      "zostaliśmy sami",
+      1
+    ],
+    [
+      "sami ponad",
+      1
+    ],
+    [
+      "ponad sytą",
+      1
+    ],
+    [
+      "sytą głupotą",
+      1
+    ],
+    [
+      "głupotą misą",
+      1
+    ],
+    [
+      "misą ziemi",
+      1
+    ]
+  ],
+  "poemWords": [
+    "piosenka",
+    "bohaterów",
+    "chcieliśmy",
+    "mądrzy",
+    "zostaliśmy",
+    "ponad",
+    "sytą",
+    "głupotą",
+    "misą",
+    "ziemi",
+    "głodni",
+    "bezdomni",
+    "kosmos",
+    "nami",
+    "wzgardził",
+    "wypluł",
+    "krąg",
+    "nieskończoności",
+    "widać",
+    "jeszcześmy",
+    "niedość",
+    "ubodzy",
+    "nędza",
+    "zakłamana",
+    "przeznaczając",
+    "pewnych",
+    "godzin",
+    "myśli",
+    "jakaś",
+    "matka",
+    "jakieś",
+    "dochodzą",
+    "listy",
+    "napisane",
+    "magnetycznie",
+    "wałku",
+    "mózgu",
+    "pilnie",
+    "rejestrujące",
+    "dziwna",
+    "serdeczność",
+    "czasem",
+    "powstaje",
+    "wiedza",
+    "oschła",
+    "mróz",
+    "nagle",
+    "staje",
+    "niż",
+    "zimne",
+    "roztopiona",
+    "słońce",
+    "1969",
+    "września"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 20,
+        "VERB": 12,
+        "ADJ": 15,
+        "ADV": 7,
+        "PRON": 6,
+        "ADP": 6,
+        "CCONJ": 3,
+        "SCONJ": 6,
+        "INTJ": 0,
+        "PART": 9,
+        "DET": 6,
+        "NUM": 1
+      },
+      "posPercent": {
+        "NOUN": 0.202,
+        "VERB": 0.121,
+        "ADJ": 0.152,
+        "ADV": 0.071,
+        "PRON": 0.061,
+        "ADP": 0.061,
+        "CCONJ": 0.03,
+        "SCONJ": 0.061,
+        "INTJ": 0,
+        "PART": 0.091,
+        "DET": 0.061,
+        "NUM": 0.01
+      },
+      "nounConcreteAbstract": {
+        "concrete": 0,
+        "abstract": 1,
+        "ratio": 0
+      },
+      "verbTenses": {
+        "past": 3,
+        "infinitive": 2,
+        "present": 11
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 2,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 1,
+        "oceniajace": 0,
+        "opisowe": 14
+      },
+      "adverbs": {
+        "temporalne": [
+          "wciąż"
+        ],
+        "modalne": [],
+        "sposobu": [
+          "nagle"
+        ],
+        "top": [
+          {
+            "word": "wciąż",
+            "count": 3
+          },
+          {
+            "word": "magnetycznie",
+            "count": 1
+          },
+          {
+            "word": "pilnie",
+            "count": 1
+          },
+          {
+            "word": "gdy",
+            "count": 1
+          },
+          {
+            "word": "nagle",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 0,
+        "ty": 0,
+        "on_ona": 0,
+        "my": 4,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 2,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 2,
+        "percentSentences": 0.33
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 212,
+        "consonants": 322,
+        "ratio": 0.66
+      },
+      "consonantClusters": {
+        "count": 18,
+        "top": [
+          {
+            "cluster": "szcz",
+            "count": 4
+          },
+          {
+            "cluster": "prz",
+            "count": 3
+          },
+          {
+            "cluster": "czn",
+            "count": 2
+          },
+          {
+            "cluster": "chc",
+            "count": 1
+          },
+          {
+            "cluster": "drz",
+            "count": 1
+          },
+          {
+            "cluster": "wzg",
+            "count": 1
+          },
+          {
+            "cluster": "rdz",
+            "count": 1
+          },
+          {
+            "cluster": "ńcz",
+            "count": 1
+          },
+          {
+            "cluster": "str",
+            "count": 1
+          },
+          {
+            "cluster": "wst",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 30,
+        "syczace": 68,
+        "nosowe": 73,
+        "plynne": 31
+      },
+      "rhymes": {
+        "exact": 2,
+        "approximate": 1,
+        "internal": 2,
+        "assonance": 0,
+        "alliteration": 1
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 16.5,
+        "median": 14,
+        "min": 2,
+        "max": 33,
+        "distribution": [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 6.2,
+        "meanSyllables": 13.5,
+        "distribution": [
+          0,
+          0,
+          0,
+          2,
+          0,
+          1,
+          4,
+          7,
+          2
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 6,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 1,
+        "noSubject": 1,
+        "noPredicate": 0,
+        "percent": 0.33
+      },
+      "enjambement": {
+        "count": 2,
+        "percent": 0.13,
+        "positions": [
+          1,
+          13
+        ]
+      },
+      "wordOrder": {
+        "svo": 1,
+        "inversions": 3,
+        "other": 2,
+        "deviationPercent": 0.83
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 0,
+        "śmierć": 0,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 216,
+      "estimatedSeconds": 72,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 20,
+      "VERB": 12,
+      "ADJ": 15,
+      "ADV": 7,
+      "PRON": 6,
+      "ADP": 6,
+      "CCONJ": 3,
+      "SCONJ": 6,
+      "INTJ": 0,
+      "PART": 9,
+      "DET": 6,
+      "NUM": 1
+    },
+    "posPercent": {
+      "NOUN": 0.202,
+      "VERB": 0.121,
+      "ADJ": 0.152,
+      "ADV": 0.071,
+      "PRON": 0.061,
+      "ADP": 0.061,
+      "CCONJ": 0.03,
+      "SCONJ": 0.061,
+      "INTJ": 0,
+      "PART": 0.091,
+      "DET": 0.061,
+      "NUM": 0.01
+    },
+    "nounConcreteAbstract": {
+      "concrete": 0,
+      "abstract": 1,
+      "ratio": 0
+    },
+    "verbTenses": {
+      "past": 3,
+      "infinitive": 2,
+      "present": 11
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 2,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 1,
+      "oceniajace": 0,
+      "opisowe": 14
+    },
+    "adverbs": {
+      "temporalne": [
+        "wciąż"
+      ],
+      "modalne": [],
+      "sposobu": [
+        "nagle"
+      ],
+      "top": [
+        {
+          "word": "wciąż",
+          "count": 3
+        },
+        {
+          "word": "magnetycznie",
+          "count": 1
+        },
+        {
+          "word": "pilnie",
+          "count": 1
+        },
+        {
+          "word": "gdy",
+          "count": 1
+        },
+        {
+          "word": "nagle",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 0,
+      "ty": 0,
+      "on_ona": 0,
+      "my": 4,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 2,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 2,
+      "percentSentences": 0.33
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 16.5,
+      "median": 14,
+      "min": 2,
+      "max": 33,
+      "distribution": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 6.2,
+      "meanSyllables": 13.5,
+      "distribution": [
+        0,
+        0,
+        0,
+        2,
+        0,
+        1,
+        4,
+        7,
+        2
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 6,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 1,
+      "noSubject": 1,
+      "noPredicate": 0,
+      "percent": 0.33
+    },
+    "enjambement": {
+      "count": 2,
+      "percent": 0.13,
+      "positions": [
+        1,
+        13
+      ]
+    },
+    "wordOrder": {
+      "svo": 1,
+      "inversions": 3,
+      "other": 2,
+      "deviationPercent": 0.83
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 212,
+      "consonants": 322,
+      "ratio": 0.66
+    },
+    "consonantClusters": {
+      "count": 18,
+      "top": [
+        {
+          "cluster": "szcz",
+          "count": 4
+        },
+        {
+          "cluster": "prz",
+          "count": 3
+        },
+        {
+          "cluster": "czn",
+          "count": 2
+        },
+        {
+          "cluster": "chc",
+          "count": 1
+        },
+        {
+          "cluster": "drz",
+          "count": 1
+        },
+        {
+          "cluster": "wzg",
+          "count": 1
+        },
+        {
+          "cluster": "rdz",
+          "count": 1
+        },
+        {
+          "cluster": "ńcz",
+          "count": 1
+        },
+        {
+          "cluster": "str",
+          "count": 1
+        },
+        {
+          "cluster": "wst",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 30,
+      "syczace": 68,
+      "nosowe": 73,
+      "plynne": 31
+    },
+    "rhymes": {
+      "exact": 2,
+      "approximate": 1,
+      "internal": 2,
+      "assonance": 0,
+      "alliteration": 1
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        16
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 216,
+      "estimatedSeconds": 72,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "regularny",
+      "regularityScore": 0.79
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Biblia",
+          "reference": "wypędzenie z raju, bezdomność duchowa",
+          "evidence": "Bezdomni, lecz bezdomni że aż Kosmos nami / Wzgardził i wypluł za krąg swej nieskończoności"
+        },
+        {
+          "source": "Rimbaud",
+          "reference": "poeta jako wyklęty, outsider",
+          "evidence": "Że chcieliśmy być mądrzy zostaliśmy sami"
+        },
+        {
+          "source": "mitologia",
+          "reference": "wygnanie bohaterów, hybris",
+          "evidence": "tytuł 'PIOSENKA BOHATERÓW' i motyw pychy wiedzy"
+        }
+      ],
+      "selfQuotes": [
+        "magnetycznie",
+        "na wałku mózgu"
+      ],
+      "influences": {
+        "rimbaud": 0.8,
+        "baudelaire": 0.6,
+        "bursa": 0.4,
+        "stachura": 0.3,
+        "grochowiak": 0.2,
+        "bialoszewski": 0.1,
+        "rozewicz": 0.4
+      }
+    },
+    "space": {
+      "type": "otwarta",
+      "evidence": "Kosmos, krąg nieskończoności, Ziemia jako misa",
+      "openClosedRatio": 0.9
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "nieokreslona",
+      "evidence": "brak konkretnych wskazówek temporalnych, wymiar ponadczasowy"
+    },
+    "motion": {
+      "movement": 6,
+      "stillness": 4,
+      "dynamism": 0.6,
+      "evidence": "wypluł, dochodzą listy, roztopiona - dynamika przeciwstawiona statycznej wiedzy"
+    },
+    "imageryDensity": {
+      "metaphors": 8,
+      "comparisons": 3,
+      "personifications": 4,
+      "hyperboles": 2,
+      "per100words": 15.5
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.8,
+      "creationLevel": 0.7,
+      "ironicDistance": 0.3,
+      "autobiographicSignals": [
+        "chcieliśmy",
+        "zostaliśmy",
+        "nami",
+        "nasza",
+        "w nas"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "melancholia",
+      "secondary": "rezygnacja",
+      "intensity": 0.8
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "podmiot mówi z pozycji 'my' - 'chcieliśmy być mądrzy', 'zostaliśmy sami', 'nami wzgardził'"
+    },
+    "addressee": {
+      "type": "nikt",
+      "evidence": "brak bezpośredniego zwrotu do kogokolwiek, podmiot mówi o sobie i swojej grupie w trzeciej osobie"
+    },
+    "metaphors": [
+      {
+        "source": "Ziemia",
+        "target": "misa",
+        "example": "Ponad sytą głupotą misą Ziemi"
+      },
+      {
+        "source": "Kosmos",
+        "target": "istota odrzucająca",
+        "example": "Kosmos nami wzgardził i wypluł za krąg swej nieskończoności"
+      },
+      {
+        "source": "mózg",
+        "target": "maszyna rejestrująca",
+        "example": "Na wałku mózgu pilnie się rejestrujące"
+      },
+      {
+        "source": "wiedza",
+        "target": "mróz",
+        "example": "nasza wiedza oschła jak mróz"
+      }
+    ],
+    "temperature": {
+      "value": 0.3,
+      "label": "chłodne z momentami ciepła"
+    },
+    "senses": {
+      "wzrok": 2,
+      "sluch": 1,
+      "dotyk": 3,
+      "smak": 0,
+      "zapach": 0
+    },
+    "autodestruction": {
+      "level": 0.6,
+      "signals": [
+        "bezdomność egzystencjalna",
+        "odrzucenie przez Kosmos",
+        "nędza duchowa",
+        "izolacja od świata"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 0.747,
+    "dfaAlpha": 1.75,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -1.6683294302622917
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -0.5708098729940588
+      },
+      {
+        "logWin": 1.6094379124341003,
+        "logFluc": -0.8268699129043028
+      }
+    ],
+    "seriesLength": 16,
+    "series": [
+      3,
+      6,
+      6,
+      7,
+      7,
+      6,
+      6,
+      7,
+      8,
+      7,
+      5,
+      6,
+      7,
+      8,
+      7,
+      3
+    ]
+  }
+}

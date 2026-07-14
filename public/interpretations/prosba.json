@@ -1,0 +1,205 @@
+{
+  "verses": [
+    {
+      "text": "Dać mi miotłę bym zamiótł publiczny plac\nAlbo kobietę bym ją kochał i zapładniał\nDać mi ojczyznę bym opiewał\nPejzaż lub ustrój lżył czy chwalił rząd",
+      "annotations": [
+        {
+          "node_id": "1a",
+          "aspect": "forma",
+          "phrase": "Dać mi",
+          "comment": "Anaforyczne 'Dać mi' otwiera katalog próśb w trybie rozkazującym skierowanym do bliżej nieokreślonego podmiotu. Paradoks: poeta prosi o bycie używanym, ale sam narzuca warunki użycia. Składniowo - bezokolicznik w funkcji rozkazującej.",
+          "full_analysis": "Cały wiersz zbudowany na serii bezokoliczników poprzedzonych 'Dać mi' tworzy poetycką litanię pragnień. Forma przypomina modlitwę lub manifest, ale skierowany nie ku transcendencji, lecz ku instancji władzy zdolnej 'użyć' poeta. Rytm akcentowy podkreśla powtarzalność gestów - od 'zamiótł' przez 'kochał' po 'zapładniał' - poeta żąda konkretnych, fizycznych czynności.\n\nTriada pierwszych próśb (miotła-kobieta-ojczyzna) układa się w ironiczną hierarchię: od najbardziej przyziemnej (sprzątanie) przez intymną (miłość) po społeczną (patriotyzm). Każda wymaga innego rodzaju zaangażowania ciała - ręce, genitalia, głos. [BIOGRAFIA: 1966 - rok napisania, Wojaczek ma 21 lat, okres studiów i pierwszych prób zawodowych].\n\nPrzerzutnia między 'opiewał' a 'Pejzaż' dezintegruje płynność opiewania - poeta nie może dokończyć gestu pochwały, bo natychmiast pojawia się alternatywa: 'lżył czy chwalił'. Ta składniowa niestabilność odzwierciedla niemożność stabilnej postawy wobec rzeczywistości PRL-u.\n\n[INTERTEKST: Różewicz - Ocalony] - podobna katalogowa forma, ale u Różewicza lista oznacza utratę, u Wojaczka - pragnienie odzyskania funkcji społecznej. Różnica generacyjna: Różewicz opisuje co stracił, Wojaczek czego nigdy nie miał.",
+          "connects_to": [
+            "2b",
+            "4a"
+          ],
+          "contradicts": "",
+          "contradiction_reason": "",
+          "alt_readings": [
+            "Ironia wobec ról społecznych narzucanych artyście przez władzę",
+            "Autentyczna tęsknota za przynależnością do wspólnoty",
+            "Manifest pokolenia '68 domagającego się angażu"
+          ]
+        },
+        {
+          "node_id": "1b",
+          "aspect": "napiecie",
+          "phrase": "lżył czy chwalił rząd",
+          "comment": "Dystych 'lżył czy chwalił' unaocznia fałszywość pozornej swobody wyboru w PRL. Poeta ironizuje mechanizm władzy, która pozwala na krytykę pod warunkiem równoważącej pochwały. Oksymoron politycznej 'neutralności' artysty.",
+          "full_analysis": "Spójnik 'czy' sugeruje równorzędność opcji, ale w kontekście PRL-u lat 60. to złudne równouprawnienie. Cenzura działała mechanizmem kompensacji - za każdą krytykę wymagano gestu lojalności. Wojaczek demaskuje tę praktykę, pokazując jak władza 'używa' poetów do legitymizacji systemu.\n\n'Lżył czy chwalił' to także autoironia - poeta zdaje sobie sprawę z własnej bezradności wobec konieczności wyboru pozycji politycznej. Nie może ani szczerze chwalić (brak przekonania), ani otwarcie krytykować (represje). Zostaje mu gestu pustego, mechanicznego wykonywania funkcji.\n\n[KONTEKST: 1966 - okres względnej liberalizacji po Październiku '56, ale już przed Marcem '68. Pozorna swoboda słowa, która okaże się iluzją]. Wojaczek antycypuje późniejsze rozczarowanie inteligencji.\n\nRytmicznie 'lżył czy chwalił' brzmi jak formułka urzędowa, co potęguje ironię. Poeta chce być używany, ale na własnych warunkach - także do bezproductywnego lżenia.",
+          "connects_to": [
+            "1a",
+            "3a"
+          ],
+          "contradicts": "4b",
+          "contradiction_reason": "Tu poeta żąda wyboru politycznego, tam rezygnuje z wszelkiego angażu",
+          "alt_readings": [
+            "Krytyka fałszywej dialektyki władzy ludowej",
+            "Wyraz bezradności pokolenia wobec konieczności określenia się politycznie",
+            "Tęsknota za prawdziwą swobodą wypowiedzi artystycznej"
+          ]
+        },
+        {
+          "node_id": "1c",
+          "aspect": "ciało",
+          "phrase": "zapładniał",
+          "comment": "Archaiczny czasownik 'zapładniał' (nie współczesne 'zapłodniał') ewokuje biologiczną funkcję reprodukcyjną w jej najbardziej zwierzęcej postaci. Poeta żąda redukcji do roli samca-rozpłodnika, ironizując mit męskości twórczej.",
+          "full_analysis": "Sekwencja 'kochał i zapładniał' oddziela miłość od prokreacji, pokazując mechaniczność oczekiwanej od mężczyzny funkcji społecznej. 'Zapładniał' brzmi jak czynność przyrodnicza pozbawiona emocji - poet chce być użyty jak ogier do hodowli.\n\nEtymologicznie 'zapładniać' (od prasłowiańskiego *plodъ) odsyła do płodności ziemi, co wiąże się z kolejną prośbą o ojczyznę. Poeta ma płodzić i opiewać - być narzędziem reprodukcji biologicznej i ideologicznej. [BIOGRAFIA: 1966 - Wojaczek kończy 20 lat, okres dojrzewania seksualnego i społecznego].\n\nFonetycznie 'zapładniał' z długim 'ą' kontrastuje ze straccato 'kochał' - pierwszy czasownik jest rozciągnięty jak sam akt, drugi szybki jak emocja. Ta dysproporcja rytmiczna podkreśla ironię: miłość krótka, obowiązek długi.\n\nW kontekście biografii Wojaczka (problemy z kobietami, tożsamość seksualna) 'zapładniał' może być wyrazem tęsknoty za 'normalną' męskością, której poeta nie potrafi/nie chce realizować.",
+          "connects_to": [
+            "2a",
+            "1a"
+          ],
+          "contradicts": "",
+          "contradiction_reason": "",
+          "alt_readings": [
+            "Ironia wobec tradycyjnej roli mężczyzny w społeczeństwie patriarchalnym",
+            "Tęsknota za biologiczną 'prostotą' w przeciwieństwie do komplikacji bytu artysty",
+            "Autoironia wobec własnej niespełnionej seksualności"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Przedstawić mi człowieka bym ujrzał jego wielkość\nCzy nędzę i opisał w ciekawych słowach\nWskazać mi zakochanych bym się wzruszył",
+      "annotations": [
+        {
+          "node_id": "2a",
+          "aspect": "obraz",
+          "phrase": "ujrzał jego wielkość Czy nędzę",
+          "comment": "Opozycja 'wielkość/nędza' jako dychotomia kondycji ludzkiej, ale poeta nie może sam tego dostrzec - musi mu być 'przedstawione'. Utrata zdolności bezpośredniego doświadczania rzeczywistości. Wzrok poeta wymaga pośrednictwa.",
+          "full_analysis": "Czasownik 'ujrzał' (nie 'zobaczył') ma wydźwięk archaiczny i uroczysty - kojarzy się z objawieniem czy wizją profetyczną. Poeta chce widzieć jak wieszcz romantyczny, ale potrzebuje kogoś, kto mu 'przedstawi' materiał. Paradoks: wizjoner, który nie widzi.\n\nAlterntywa 'wielkość Czy nędza' (z wielką literą!) sugeruje równorzędność tych stanów w oczach obserwatora. Dla poetry-rzemieślnika ważna jest nie prawda o człowieku, ale 'ciekawość słów' użytych do opisu. Estetyka wyższa od etyki.\n\n[INTERTEKST: Herbert - Przesłanie Pana Cogito] - u Herberta poeta ma obowiązek świadczenia o człowieku, u Wojaczka chce być od tego obowiązku uwolniony przez mechaniczne 'przedstawienie' tematu. Różnica postaw generacyjnych wobec misji poezji.\n\nSzczególnie gorzka jest fraza 'ciekawych słowach' - poeta redukuje ludzkie cierpienie i wielkość do materiału literackiego. Nie chce rozumieć ani współczuć, tylko sprawnie opisywać. [BIOGRAFIA: 1966 - okres młodzieńczego cynizmu, przed głębokim kryzysem psychicznym].",
+          "connects_to": [
+            "2b",
+            "1c"
+          ],
+          "contradicts": "3b",
+          "contradiction_reason": "Tu poeta chce dystansu wobec ludzkiego cierpienia, tam pragnie wzruszenia",
+          "alt_readings": [
+            "Krytyka poezji zaangażowanej, która instrumentalizuje ludzką nędzę",
+            "Wyraz utraty empatii przez młode pokolenie poetów",
+            "Ironiczne przedstawienie postawy estetyzującej wobec rzeczywistości"
+          ]
+        },
+        {
+          "node_id": "2b",
+          "aspect": "afekt",
+          "phrase": "bym się wzruszył",
+          "comment": "Wzruszenie jako reakcja wyuczona, nie spontaniczna - poeta musi mieć 'wskazanych' zakochanych żeby poczuć emocję. Mechanizacja uczuć, niemożność autentycznego odczuwania. Wzruszenie na komendę jako symbol utraty wrażliwości.",
+          "full_analysis": "Po żądaniu dystansu wobec 'wielkości czy nędzy' poet nagle chce emocjonalnego zaangażowania - ale równie zewnętrznego jak poprzednie. 'Wzruszył' w trybie przypuszczającym ('bym się') sugeruje niepewność co do zdolności odczuwania.\n\nZakochani jako obiekt wzruszenia to topos romantyczny, ale u Wojaczka skonwencjonalizowany do granic absurdu. Poeta potrzebuje gotowego schematu emocjonalnego - nie potrafi sam rozpoznać miłości ani na nią zareagować. [INTERTEKST: Mickiewicz - Sonety krymskie] - parodia romantycznego kultu miłości.\n\nSpójnik 'bym się' powtarzany przez cały wiersz tworzy rytm mechanicznych czynności. Wzruszenie staje się jedną z nich - obok zamiatania, kochania, opiewania. Poeta chce być maszyną do produkowania uczuć na zapotrzebowanie społeczne.\n\nIronia szczególnie gorzka w kontekście późniejszej biografii Wojaczka - problem z nawiązywaniem relacji, samotność, która doprowadzi do samobójstwa. Już tu poeta przeczuwa własną niezdolność do miłości.",
+          "connects_to": [
+            "1a",
+            "3a"
+          ],
+          "contradicts": "2a",
+          "contradiction_reason": "Przed chwilą chciał dystansu, teraz pragnie wzruszenia - niespójność emocjonalna",
+          "alt_readings": [
+            "Tęsknota za utracona zdolnością do spontanicznych uczuć",
+            "Krytyka społecznych oczekiwań wobec 'wrażliwości' artysty",
+            "Wyraz depresji - niemożność odczuwania radości z miłości innych"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Posłać mnie do szpitala. Na komunalny cmentarz\nUrządzić mi teatr igrzyska sportowe\nWojnę żniwa we wsi festyn w mieście",
+      "annotations": [
+        {
+          "node_id": "3a",
+          "aspect": "biografia",
+          "phrase": "Posłać mnie do szpitala",
+          "comment": "Prorocza autoprojeckja - Wojaczek faktycznie będzie hospitalizowany psychiatrycznie. Żądanie 'posłania' sugeruje, że poeta chce być zmuszony do leczenia, nie może sam podjąć decyzji o terapii. Szpital jako miejsce społecznej użyteczności.",
+          "full_analysis": "Szpital i cmentarz jako przestrzenie graniczne - między życiem a śmiercią, zdrowiem a chorobą. Poeta chce być 'posłany' do miejsc, gdzie zazwyczaj się trafia, nie idzie z wyboru. Mechanizm przymusu jako ulga od konieczności decydowania o sobie.\n\n[BIOGRAFIA: 1966 - pierwsze sygnały problemów psychicznych, które doprowadzą do hospitalizacji w 1970 roku]. Wojaczek intuicyjnie wyczuwa własną trajektorię życiową. 'Posłać' to czasownik używany wobec podwładnych - poeta chce być traktowany jak urzędnik skierowany na delegację służbową.\n\nSekwencja 'szpital - cmentarz' jest logiczna i fatalna: pierwszy jako stacja pośrednia, drugi jako cel ostateczny. Poeta planuje własną śmierć już w wieku 21 lat, ale w kategoriach biurokratycznych ('posłać', 'komunalny'). Samobójstwo jako akt administracyjny.\n\n'Na komunalny cmentarz' (nie 'na komunalny cmentarz') - przerzutnia rozbija frazę, jakby poeta nie mógł dokończyć myśli o śmierci. Komunalny = państwowy, bezimienne, dla ubogich. Śmierć bez ceremonii, jak życie bez sensu.",
+          "connects_to": [
+            "3b",
+            "4b"
+          ],
+          "contradicts": "1a",
+          "contradiction_reason": "Wcześniej żądał aktywności, tu pragnie bierności i ostatecznego spoczynku",
+          "alt_readings": [
+            "Przeczucie własnej choroby psychicznej i śmierci",
+            "Żądanie opieki społecznej nad 'nieprzydatnym' poetą",
+            "Ironia wobec biurokratyzacji wszystkich aspektów życia w PRL"
+          ]
+        },
+        {
+          "node_id": "3b",
+          "aspect": "kontekst",
+          "phrase": "teatr igrzyska sportowe Wojnę żniwa we wsi festyn w mieście",
+          "comment": "Katalog rozrywek i wydarzeń społecznych PRL - od kultury wysokiej (teatr) przez masową (sport) po propagandową (wojna, żniwa). Poet chce być użyty do obsługi wszystkich poziomów ideologii państwowej. 'Panem et circenses' socjalistycznego",
+          "full_analysis": "Lista zdarzeń ułożona w porządku od elitarnych do ludowych: teatr (kultura wysoka) - igrzyska (kultura masowa) - wojna (ideologia) - żniwa (propaganda pracy) - festyn (rozrywka lokalna). Poeta ma obsługiwać całe spektrum potrzeb propagandowych PRL.\n\n'Igrzyska sportowe' to kalka z łaciny (ludi circenses), ale w kontekście PRL oznacza spartakiady, zawody sportowe jako demonstracje siły ustroju. Wojna nie jest tu wydarzeniem historycznym, ale spektaklem ideologicznym - pamiętajmy o kulturze pamięci o II wojnie światowej w latach 60.\n\n[KONTEKST: Lata 60. - okres budowy 'rozwiniętego socjalizmu', masowe imprezy kulturalne i sportowe jako element integracji społecznej]. Żniwa to nie tylko praca, ale obrzęd społeczny, festyn - rozrywka kontrolowana przez władze lokalne.\n\nBrak przecinków między elementami listy tworzy efekt zadyszki - poeta ma być wszędzie równocześnie, obsługiwać wszystkie fronty kultury. To niemożliwe, więc żądanie brzmi jak parodia wszechstronności artysty socjalistycznego.",
+          "connects_to": [
+            "1b",
+            "4a"
+          ],
+          "contradicts": "2a",
+          "contradiction_reason": "Wcześniej chciał dystansu wobec ludzkości, tu chce uczestniczyć we wszystkich jej spektaklach",
+          "alt_readings": [
+            "Parodia oczekiwań wobec 'wszechstronnego' artysty w PRL",
+            "Tęsknota za prawdziwym uczestnictwem w życiu społecznym",
+            "Krytyka teatralizacji życia publicznego w systemie totalitarnym"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Albo nauczyć mnie prowadzić samochód pisać na maszynie\nZmusić do nauki języków czytania gazet\nA ostatecznie dać mi choć wódki żebym pił\nI potem rzygał bo poetów należy używać",
+      "annotations": [
+        {
+          "node_id": "4a",
+          "aspect": "słowo",
+          "phrase": "Zmusić do nauki",
+          "comment": "Czasownik 'zmusić' odsłania prawdę o całym wierszu - poeta nie prosi, ale chce być zmuszany. Nauka jako przymus, nie wybór. Infantylizacja: dorośli zmuszają dziecko do nauki, społeczeństwo zmusza poetę do adaptacji.",
+          "full_analysis": "Po serii próśb ('dać mi', 'przedstawić mi', 'wskazać mi') pojawia się brutalne 'zmusić' - poeta zdejmuje maskę grzecznych próśb i pokazuje, czego naprawdę chce: przemocy, która uwolni go od odpowiedzialności za własne życie.\n\n'Nauczyć prowadzić samochód pisać na maszynie' - umiejętności praktyczne, które mają uczynic z poety normalnego obywatela PRL. Samochód jako symbol awansu społecznego, maszyna do pisania - narzędzie pracy intelektualne. Poeta chce być przeprogramowany na funkcjonariusza systemu.\n\n'Zmusić do nauki języków czytania gazet' to szczególnie gorzka ironia - poeta, człowiek słowa, ma być zmuszany do czytania i mówienia. Gazety jako narzędzie ideologii, języki obce - jako droga do ucieczki z kraju lub służby dyplomatycznej.\n\n[BIOGRAFIA: 1966 - Wojaczek na studiach, powinien sam się uczyć, ale żąda przymusu. Symptom depresji: niemożność samodyscypliny]. 'Zmusić' brzmi jak krzyk o pomoc skierowany do systemu, który poeta teoretycznie krytykuje.",
+          "connects_to": [
+            "1a",
+            "4b"
+          ],
+          "contradicts": "1b",
+          "contradiction_reason": "Wcześniej ironizował system, tu błaga o włączenie doń",
+          "alt_readings": [
+            "Żądanie totalnej kontroli państwa nad jednostką",
+            "Wyraz bezradności wobec konieczności samodzielnego funkcjonowania",
+            "Parodia oczekiwań społecznych wobec młodych ludzi w PRL"
+          ]
+        },
+        {
+          "node_id": "4b",
+          "aspect": "napiecie",
+          "phrase": "dać mi choć wódki żebym pił I potem rzygał",
+          "comment": "Finalne żądanie sprowadza wszystkie poprzednie do absurdu - ostatecznie poeta chce tylko alkoholu i prawa do wymiotowania. Degradacja od wzniosłych funkcji społecznych do czysto fizjologicznych. Wódka jako jedyny skuteczny sposób na 'użycie' poety.",
+          "full_analysis": "Po katalogu społecznych ról (sprzątacz, kochanek, patriota, obserwator, uczestnik kultury) poet sprowadza swoje potrzeby do podstawowych: alkohol i jego fizjologiczne konsekwencje. 'Choć wódki' - partykuła 'choć' wyraża rezygnację z wyższych aspiracji.\n\nCykl 'pił - rzygał' to brutalna prawda o funkcjonowaniu organismu po spożyciu alkoholu, ale też metafora twórczości: poeta 'wypija' rzeczywistość i 'rzyga' nią w formie wierszy. Estetyka jako wymiociny, sztuka jako odbicie trawienia.\n\n[BIOGRAFIA: Problem alkoholowy Wojaczka, który będzie nasilał się do końca życia. Już w 1966 poeta wie, że skazuje się na degradację]. Wódka w PRL to też symbol protestu - picie jako forma oporu wobec rzeczywistości, ale oporu autodestrukcyjnego.\n\n'Bo poetów należy używać' - zdanie kluczowe całego wiersza. Poeta akceptuje swoją instrumentalizację, ale stawia warunki: jeśli już ma być używany, to do końca, bez iluzji o szlachetności swojej funkcji. Używać = nadużywać = zużywać.",
+          "connects_to": [
+            "4c",
+            "3a"
+          ],
+          "contradicts": "2b",
+          "contradiction_reason": "Wcześniej chciał się wzruszać, tu rezygnuje z wszelkich uczuć",
+          "alt_readings": [
+            "Manifest samodegradacji jako forma protestu",
+            "Prorocza wizja własnego alkoholizmu i śmierci",
+            "Parodia romantycznego toposu 'poety-alkoholika'"
+          ]
+        },
+        {
+          "node_id": "4c",
+          "aspect": "intertekst",
+          "phrase": "poetów należy używać",
+          "comment": "Finał jako antymanifest poetycki - odwrócenie romantycznej wizji wieszcza-proroka. [INTERTEKST: Mickiewicz - 'Do przyjaciół Moskali'] - poeta jako sługa narodu, ale tu służba zdegradowana do 'używania'. Wojaczek kończy tradycję poezji zaangażowanej przez jej radykalne zakwestionowanie.",
+          "full_analysis": "Czasownik 'używać' ma podwójne znaczenie: wykorzystywać (poet jako narzędzie) i nadużywać (poet jako ofiara). Społeczeństwo 'używa' poetów do swoich celów, ale jednocześnie ich 'nadużywa' - eksploatuje do granic wytrzymałości psychicznej.\n\n'Należy używać' brzmi jak instrukcja obsługi lub przepis kulinarny - poet jako produkt przeznaczony do konsumpcji. [INTERTEKST: Mayakovski - śmierć poety 'zużytego' przez rewolucję]. U Wojaczka ta świadomość prowadzi nie do heroicznego gestu, ale do cynnicznej kapitulacji.\n\nTradycja polska zna poetów-męczenników (Mickiewicz, Słowacki, Norwid), ale Wojaczek pierwszy tak otwarcie mówi o chęci bycia 'używanym'. To różnica generacyjna: romantycy cierpieli dla ojczyzny, Wojaczek chce cierpieć dla każdego, kto zapłaci alkoholem.\n\nKończące zdanie to manifest anty-poetycki: skoro i tak zostanę wykorzystany, niech to będzie uczciwe wykorzystanie - bez idealizacji, bez kłamstw o misji i powołaniu. Poeta jako prostytutka literatury, ale prostytutka świadoma swojego statusu.",
+          "connects_to": [
+            "1a",
+            "4a"
+          ],
+          "contradicts": "",
+          "contradiction_reason": "",
+          "alt_readings": [
+            "Manifest końca poezji zaangażowanej w Polsce",
+            "Prowokacja wobec czytelników oczekujących 'szlachetnej' poezji",
+            "Przepowiednia własnego losu - poeta 'zużyty' przez system i alkohol"
+          ]
+        }
+      ]
+    }
+  ],
+  "network_summary": "Wiersz 'Prośba' to paradoksalny antymanifest poetycki, w którym Wojaczek demontuje tradycyjne role społeczne artysty przez ich groteskowe nagromadzenie. Sieć adnotacji ujawnia fundamentalne napięcie między pragnieniem użyteczności społecznej a świadomością własnej instrumentalizacji. Kluczowe węzły znaczeniowe (1a→4c) pokazują ewolucję od ironicznych próśb o funkcję do cynicznych żądań degradacji. Biomorfizm języka ('zapładniał', 'rzygał') kontrastuje z mechanizacją uczuć ('bym się wzruszył', 'należy używać'), tworząc obraz poeta jako istoty łączącej zwierzęcą cielesność z maszynową funkcjonalnością. Intertekstualne odniesienia do tradycji romantycznej i współczesnej (Herbert, Różewicz) pozycjonują wiersz jako radykalną dekonstrukcję polskiego etosu poetyckiego - Wojaczek nie odrzuca społecznego zaangażowania literatury, ale obnaża jego uwłaczający charakter."
+}

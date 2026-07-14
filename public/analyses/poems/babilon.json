@@ -1,0 +1,967 @@
+{
+  "id": "babilon",
+  "title": "Babilon",
+  "wordCount": 75,
+  "lineCount": 12,
+  "uniqueWords": 65,
+  "vocabularyRichness": 0.867,
+  "avgWordsPerLine": 6.25,
+  "wordsPerLineDistribution": [
+    9,
+    2,
+    1,
+    9,
+    9,
+    6,
+    4,
+    6,
+    8,
+    4,
+    7,
+    10
+  ],
+  "wordFrequencies": [
+    [
+      "odpowiadam",
+      3
+    ],
+    [
+      "któż",
+      1
+    ],
+    [
+      "chodzi",
+      1
+    ],
+    [
+      "butami",
+      1
+    ],
+    [
+      "nagim",
+      1
+    ],
+    [
+      "ciele",
+      1
+    ],
+    [
+      "kobiecym",
+      1
+    ],
+    [
+      "poeta",
+      1
+    ],
+    [
+      "gnój",
+      1
+    ],
+    [
+      "alfons",
+      1
+    ],
+    [
+      "śmierci",
+      1
+    ],
+    [
+      "rymuje",
+      1
+    ],
+    [
+      "śmiechem",
+      1
+    ],
+    [
+      "dobrze",
+      1
+    ],
+    [
+      "sprzedaje",
+      1
+    ],
+    [
+      "żyć",
+      1
+    ],
+    [
+      "wystarczy",
+      1
+    ],
+    [
+      "wystawi",
+      1
+    ],
+    [
+      "oknie",
+      1
+    ],
+    [
+      "święty",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 3,
+    "period": 0,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 3,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 2,
+  "negationWords": [
+    "nie"
+  ],
+  "pronounDistribution": {
+    "ja": 2,
+    "ty": 3,
+    "on_ona": 1,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 0,
+    "smierc": 0,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 1,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [
+    [
+      "odpowiadam",
+      3
+    ]
+  ],
+  "firstWord": "któż",
+  "lastWord": "tchu",
+  "avgWordLength": 4.57,
+  "wordLengthDistribution": {
+    "4-5": 18,
+    "1-3": 31,
+    "6-7": 15,
+    "8-9": 7,
+    "10+": 4
+  },
+  "bigrams": [
+    [
+      "nagim ciele",
+      1
+    ],
+    [
+      "ciele kobiecym",
+      1
+    ],
+    [
+      "kobiecym odpowiadam",
+      1
+    ],
+    [
+      "odpowiadam poeta",
+      1
+    ],
+    [
+      "poeta gnój",
+      1
+    ],
+    [
+      "gnój alfons",
+      1
+    ],
+    [
+      "alfons swej",
+      1
+    ],
+    [
+      "swej śmierci",
+      1
+    ]
+  ],
+  "poemWords": [
+    "któż",
+    "chodzi",
+    "butami",
+    "nagim",
+    "ciele",
+    "kobiecym",
+    "odpowiadam",
+    "poeta",
+    "gnój",
+    "alfons",
+    "śmierci",
+    "rymuje",
+    "śmiechem",
+    "dobrze",
+    "sprzedaje",
+    "żyć",
+    "wystarczy",
+    "wystawi",
+    "oknie",
+    "święty",
+    "tyłek",
+    "lud",
+    "zbiegnie",
+    "zcałowywać",
+    "pryszcze",
+    "rozumiem",
+    "robisz",
+    "podobam",
+    "mało",
+    "kobieca",
+    "załóż",
+    "ostrogi",
+    "kłuj",
+    "braknie",
+    "tchu"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 12,
+        "VERB": 17,
+        "ADJ": 4,
+        "ADV": 5,
+        "PRON": 11,
+        "ADP": 6,
+        "CCONJ": 3,
+        "SCONJ": 4,
+        "INTJ": 1,
+        "PART": 7,
+        "DET": 1,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.16,
+        "VERB": 0.227,
+        "ADJ": 0.053,
+        "ADV": 0.067,
+        "PRON": 0.147,
+        "ADP": 0.08,
+        "CCONJ": 0.04,
+        "SCONJ": 0.053,
+        "INTJ": 0.013,
+        "PART": 0.093,
+        "DET": 0.013,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 2,
+        "abstract": 1,
+        "ratio": 0.67
+      },
+      "verbTenses": {
+        "present": 10,
+        "infinitive": 2,
+        "future": 6,
+        "imperative": 1
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 2,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 3,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 0,
+        "opisowe": 4
+      },
+      "adverbs": {
+        "temporalne": [
+          "wciąż"
+        ],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "wciąż",
+            "count": 1
+          },
+          {
+            "word": "tak",
+            "count": 1
+          },
+          {
+            "word": "dobrze",
+            "count": 1
+          },
+          {
+            "word": "gdy",
+            "count": 1
+          },
+          {
+            "word": "mało",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 2,
+        "ty": 3,
+        "on_ona": 2,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 2,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 2,
+        "percentSentences": 1
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 147,
+        "consonants": 196,
+        "ratio": 0.75
+      },
+      "consonantClusters": {
+        "count": 8,
+        "top": [
+          {
+            "cluster": "szcz",
+            "count": 2
+          },
+          {
+            "cluster": "brz",
+            "count": 1
+          },
+          {
+            "cluster": "sprz",
+            "count": 1
+          },
+          {
+            "cluster": "rcz",
+            "count": 1
+          },
+          {
+            "cluster": "prz",
+            "count": 1
+          },
+          {
+            "cluster": "str",
+            "count": 1
+          },
+          {
+            "cluster": "tch",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 20,
+        "syczace": 36,
+        "nosowe": 34,
+        "plynne": 19
+      },
+      "rhymes": {
+        "exact": 1,
+        "approximate": 0,
+        "internal": 1,
+        "assonance": 0,
+        "alliteration": 0
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 37.5,
+        "median": 38,
+        "min": 10,
+        "max": 65,
+        "distribution": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 6.2,
+        "meanSyllables": 12.5,
+        "distribution": [
+          0,
+          1,
+          1,
+          0,
+          2,
+          0,
+          2,
+          1,
+          1,
+          3,
+          1
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 1,
+        "interrogative": 0,
+        "imperative": 1,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 0,
+        "noSubject": 0,
+        "noPredicate": 0,
+        "percent": 0
+      },
+      "enjambement": {
+        "count": 4,
+        "percent": 0.36,
+        "positions": [
+          3,
+          6,
+          7,
+          10
+        ]
+      },
+      "wordOrder": {
+        "svo": 1,
+        "inversions": 1,
+        "other": 0,
+        "deviationPercent": 0.5
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 0,
+        "śmierć": 0,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 1,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 150,
+      "estimatedSeconds": 50,
+      "tempoCategory": "wolne"
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Baudelaire",
+          "reference": "poeta jako alfons",
+          "evidence": "alfons swej śmierci co ją rymuje wciąż ze śmiechem"
+        },
+        {
+          "source": "Rimbaud",
+          "reference": "poeta przeklęty",
+          "evidence": "Gnój / alfons swej śmierci"
+        },
+        {
+          "source": "Biblia",
+          "reference": "świętość profanowana",
+          "evidence": "święty tyłek a lud / zbiegnie się zcałowywać"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.8,
+        "baudelaire": 0.9,
+        "bursa": 0.3,
+        "stachura": 0.2,
+        "grochowiak": 0.7,
+        "bialoszewski": 0.1,
+        "rozewicz": 0.3
+      }
+    },
+    "space": {
+      "type": "zamknieta",
+      "evidence": "intymna przestrzeń dialogu, okno jako granica",
+      "openClosedRatio": 0.3
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "nieokreslona",
+      "evidence": "brak wskazówek temporalnych"
+    },
+    "motion": {
+      "movement": 7,
+      "stillness": 3,
+      "dynamism": 0.7,
+      "evidence": "chodzi, zbiegnie się, załóż ostrogi i kłuj"
+    },
+    "imageryDensity": {
+      "metaphors": 4,
+      "comparisons": 1,
+      "personifications": 2,
+      "hyperboles": 3,
+      "per100words": 12.5
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.9,
+      "creationLevel": 0.7,
+      "ironicDistance": 0.4,
+      "autobiographicSignals": [
+        "dialog poeta-kobieta",
+        "autotematyzm",
+        "brutalna szczerość erotyczna"
+      ]
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 12,
+      "VERB": 17,
+      "ADJ": 4,
+      "ADV": 5,
+      "PRON": 11,
+      "ADP": 6,
+      "CCONJ": 3,
+      "SCONJ": 4,
+      "INTJ": 1,
+      "PART": 7,
+      "DET": 1,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.16,
+      "VERB": 0.227,
+      "ADJ": 0.053,
+      "ADV": 0.067,
+      "PRON": 0.147,
+      "ADP": 0.08,
+      "CCONJ": 0.04,
+      "SCONJ": 0.053,
+      "INTJ": 0.013,
+      "PART": 0.093,
+      "DET": 0.013,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 2,
+      "abstract": 1,
+      "ratio": 0.67
+    },
+    "verbTenses": {
+      "present": 10,
+      "infinitive": 2,
+      "future": 6,
+      "imperative": 1
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 2,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 3,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 0,
+      "opisowe": 4
+    },
+    "adverbs": {
+      "temporalne": [
+        "wciąż"
+      ],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "wciąż",
+          "count": 1
+        },
+        {
+          "word": "tak",
+          "count": 1
+        },
+        {
+          "word": "dobrze",
+          "count": 1
+        },
+        {
+          "word": "gdy",
+          "count": 1
+        },
+        {
+          "word": "mało",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 2,
+      "ty": 3,
+      "on_ona": 2,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 2,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 2,
+      "percentSentences": 1
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 37.5,
+      "median": 38,
+      "min": 10,
+      "max": 65,
+      "distribution": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 6.2,
+      "meanSyllables": 12.5,
+      "distribution": [
+        0,
+        1,
+        1,
+        0,
+        2,
+        0,
+        2,
+        1,
+        1,
+        3,
+        1
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 1,
+      "interrogative": 0,
+      "imperative": 1,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 0,
+      "noSubject": 0,
+      "noPredicate": 0,
+      "percent": 0
+    },
+    "enjambement": {
+      "count": 4,
+      "percent": 0.36,
+      "positions": [
+        3,
+        6,
+        7,
+        10
+      ]
+    },
+    "wordOrder": {
+      "svo": 1,
+      "inversions": 1,
+      "other": 0,
+      "deviationPercent": 0.5
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 147,
+      "consonants": 196,
+      "ratio": 0.75
+    },
+    "consonantClusters": {
+      "count": 8,
+      "top": [
+        {
+          "cluster": "szcz",
+          "count": 2
+        },
+        {
+          "cluster": "brz",
+          "count": 1
+        },
+        {
+          "cluster": "sprz",
+          "count": 1
+        },
+        {
+          "cluster": "rcz",
+          "count": 1
+        },
+        {
+          "cluster": "prz",
+          "count": 1
+        },
+        {
+          "cluster": "str",
+          "count": 1
+        },
+        {
+          "cluster": "tch",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 20,
+      "syczace": 36,
+      "nosowe": 34,
+      "plynne": 19
+    },
+    "rhymes": {
+      "exact": 1,
+      "approximate": 0,
+      "internal": 1,
+      "assonance": 0,
+      "alliteration": 0
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        12
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 150,
+      "estimatedSeconds": 50,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "polregularny",
+      "regularityScore": 0.59
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "obrzydzenie",
+      "secondary": "rozpacz",
+      "intensity": 0.9
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "Odpowiadam: poeta - podmiot identyfikuje siebie jako poetę"
+    },
+    "addressee": {
+      "type": "ty",
+      "evidence": "Więc nie rozumiem co Ty robisz przy mnie - bezpośrednie zwrócenie się do adresata"
+    },
+    "metaphors": [
+      {
+        "source": "buty po nagim ciele",
+        "target": "brutalne traktowanie poezji/kobiecości",
+        "example": "Któż to chodzi z butami po nagim ciele kobiecym"
+      },
+      {
+        "source": "alfons śmierci",
+        "target": "poeta żerujący na cierpieniu",
+        "example": "alfons swej śmierci co ją rymuje wciąż ze śmiechem"
+      },
+      {
+        "source": "święty tyłek",
+        "target": "sprzedawanie intymności za uznanie",
+        "example": "wystarczy że wystawi w oknie święty tyłek"
+      },
+      {
+        "source": "ostrogi",
+        "target": "instrumenty zadawania bólu",
+        "example": "załóż jeszcze ostrogi i kłuj aż mi braknie tchu"
+      }
+    ],
+    "temperature": {
+      "value": 0.8,
+      "label": "gorące - intensywny gniew i samooskarżenie"
+    },
+    "senses": {
+      "wzrok": 4,
+      "sluch": 2,
+      "dotyk": 5,
+      "smak": 1,
+      "zapach": 0
+    },
+    "autodestruction": {
+      "level": 0.9,
+      "signals": [
+        "samooskarżenie o bycie alfonsem śmierci",
+        "żądanie zadawania bólu",
+        "masochistyczna prośba o ostrogi",
+        "degradacja własnej roli poety"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 1.167,
+    "dfaAlpha": 3.175,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -0.6342556627317535
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": 0.27911460612850586
+      }
+    ],
+    "seriesLength": 12,
+    "series": [
+      9,
+      2,
+      1,
+      9,
+      9,
+      6,
+      4,
+      6,
+      8,
+      4,
+      7,
+      10
+    ]
+  }
+}

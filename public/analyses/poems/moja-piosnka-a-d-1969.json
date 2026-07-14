@@ -1,0 +1,972 @@
+{
+  "id": "moja-piosnka-a-d-1969",
+  "title": "Moja piosnka (A.D. 1969)",
+  "wordCount": 86,
+  "lineCount": 18,
+  "uniqueWords": 75,
+  "vocabularyRichness": 0.872,
+  "avgWordsPerLine": 4.78,
+  "wordsPerLineDistribution": [
+    2,
+    2,
+    5,
+    4,
+    5,
+    5,
+    5,
+    5,
+    5,
+    6,
+    5,
+    5,
+    6,
+    6,
+    5,
+    6,
+    5,
+    4
+  ],
+  "wordFrequencies": [
+    [
+      "piosnka",
+      1
+    ],
+    [
+      "ad",
+      1
+    ],
+    [
+      "1969",
+      1
+    ],
+    [
+      "słowo",
+      1
+    ],
+    [
+      "twego",
+      1
+    ],
+    [
+      "słowa",
+      1
+    ],
+    [
+      "pogłos",
+      1
+    ],
+    [
+      "jakże",
+      1
+    ],
+    [
+      "wątły",
+      1
+    ],
+    [
+      "sprzymierzony",
+      1
+    ],
+    [
+      "wiernym",
+      1
+    ],
+    [
+      "rymem",
+      1
+    ],
+    [
+      "rytmem",
+      1
+    ],
+    [
+      "wspomożony",
+      1
+    ],
+    [
+      "bywa",
+      1
+    ],
+    [
+      "czasem",
+      1
+    ],
+    [
+      "ulotką",
+      1
+    ],
+    [
+      "nędza",
+      1
+    ],
+    [
+      "nędzy",
+      1
+    ],
+    [
+      "siostra",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 16,
+    "period": 5,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 1,
+    "dash": 3,
+    "colon": 1,
+    "semicolon": 1
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 3,
+  "negationWords": [
+    "nie"
+  ],
+  "pronounDistribution": {
+    "ja": 5,
+    "ty": 3,
+    "on_ona": 1,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 0,
+    "smierc": 0,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 1,
+    "sacrum": 1,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [
+    [
+      "moja",
+      4
+    ],
+    [
+      "nie",
+      2
+    ]
+  ],
+  "firstWord": "moja",
+  "lastWord": "włócznia",
+  "avgWordLength": 5.31,
+  "wordLengthDistribution": {
+    "4-5": 33,
+    "6-7": 28,
+    "1-3": 15,
+    "8-9": 8,
+    "10+": 2
+  },
+  "bigrams": [
+    [
+      "piosnka ad",
+      1
+    ],
+    [
+      "ad 1969",
+      1
+    ],
+    [
+      "słowo twego",
+      1
+    ],
+    [
+      "twego słowa",
+      1
+    ],
+    [
+      "słowa pogłos",
+      1
+    ],
+    [
+      "pogłos jakże",
+      1
+    ],
+    [
+      "jakże wątły",
+      1
+    ],
+    [
+      "wątły przecież",
+      1
+    ],
+    [
+      "przecież sprzymierzony",
+      1
+    ],
+    [
+      "wiernym rymem",
+      1
+    ]
+  ],
+  "poemWords": [
+    "piosnka",
+    "1969",
+    "słowo",
+    "twego",
+    "słowa",
+    "pogłos",
+    "jakże",
+    "wątły",
+    "sprzymierzony",
+    "wiernym",
+    "rymem",
+    "rytmem",
+    "wspomożony",
+    "bywa",
+    "czasem",
+    "ulotką",
+    "nędza",
+    "nędzy",
+    "siostra",
+    "młodsza",
+    "sukienki",
+    "nosi",
+    "doprasza",
+    "pilnie",
+    "podnosi",
+    "ręki",
+    "szczętu",
+    "zwlokła",
+    "wina",
+    "winy",
+    "krewna",
+    "biedna",
+    "okruch",
+    "splendoru",
+    "połknie",
+    "biorąc",
+    "sposób",
+    "krzyż",
+    "składa",
+    "drewna",
+    "wiara",
+    "wiary",
+    "córka",
+    "mądra",
+    "głupia",
+    "imienia",
+    "przyzywa",
+    "milcząc",
+    "uśmiecha",
+    "łaskotała",
+    "włócznia"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 27,
+        "VERB": 12,
+        "ADJ": 9,
+        "ADV": 4,
+        "PRON": 5,
+        "ADP": 4,
+        "CCONJ": 5,
+        "SCONJ": 0,
+        "INTJ": 0,
+        "PART": 6,
+        "DET": 9,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.31,
+        "VERB": 0.138,
+        "ADJ": 0.103,
+        "ADV": 0.046,
+        "PRON": 0.057,
+        "ADP": 0.046,
+        "CCONJ": 0.057,
+        "SCONJ": 0,
+        "INTJ": 0,
+        "PART": 0.069,
+        "DET": 0.103,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 1,
+        "abstract": 2,
+        "ratio": 0.33
+      },
+      "verbTenses": {
+        "past": 3,
+        "present": 10
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 0,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 0,
+        "opisowe": 9
+      },
+      "adverbs": {
+        "temporalne": [],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "jakże",
+            "count": 1
+          },
+          {
+            "word": "pilnie",
+            "count": 1
+          },
+          {
+            "word": "gdy",
+            "count": 1
+          },
+          {
+            "word": "wtedy",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 0,
+        "ty": 0,
+        "on_ona": 1,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 3,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 3,
+        "percentSentences": 1
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 190,
+        "consonants": 263,
+        "ratio": 0.72
+      },
+      "consonantClusters": {
+        "count": 16,
+        "top": [
+          {
+            "cluster": "prz",
+            "count": 2
+          },
+          {
+            "cluster": "szcz",
+            "count": 2
+          },
+          {
+            "cluster": "snk",
+            "count": 1
+          },
+          {
+            "cluster": "sprz",
+            "count": 1
+          },
+          {
+            "cluster": "wsp",
+            "count": 1
+          },
+          {
+            "cluster": "str",
+            "count": 1
+          },
+          {
+            "cluster": "dsz",
+            "count": 1
+          },
+          {
+            "cluster": "zwl",
+            "count": 1
+          },
+          {
+            "cluster": "spl",
+            "count": 1
+          },
+          {
+            "cluster": "łkn",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 20,
+        "syczace": 32,
+        "nosowe": 57,
+        "plynne": 41
+      },
+      "rhymes": {
+        "exact": 4,
+        "approximate": 0,
+        "internal": 0,
+        "assonance": 0,
+        "alliteration": 1
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 29,
+        "median": 22,
+        "min": 20,
+        "max": 45,
+        "distribution": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 4.9,
+        "meanSyllables": 10.8,
+        "distribution": [
+          0,
+          0,
+          2,
+          0,
+          2,
+          9,
+          3,
+          2
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 3,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 0,
+        "noSubject": 0,
+        "noPredicate": 0,
+        "percent": 0
+      },
+      "enjambement": {
+        "count": 0,
+        "percent": 0,
+        "positions": []
+      },
+      "wordOrder": {
+        "svo": 2,
+        "inversions": 1,
+        "other": 0,
+        "deviationPercent": 0.33
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 0,
+        "śmierć": 0,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 1,
+        "sacrum": 1,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 195,
+      "estimatedSeconds": 65,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 27,
+      "VERB": 12,
+      "ADJ": 9,
+      "ADV": 4,
+      "PRON": 5,
+      "ADP": 4,
+      "CCONJ": 5,
+      "SCONJ": 0,
+      "INTJ": 0,
+      "PART": 6,
+      "DET": 9,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.31,
+      "VERB": 0.138,
+      "ADJ": 0.103,
+      "ADV": 0.046,
+      "PRON": 0.057,
+      "ADP": 0.046,
+      "CCONJ": 0.057,
+      "SCONJ": 0,
+      "INTJ": 0,
+      "PART": 0.069,
+      "DET": 0.103,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 1,
+      "abstract": 2,
+      "ratio": 0.33
+    },
+    "verbTenses": {
+      "past": 3,
+      "present": 10
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 0,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 0,
+      "opisowe": 9
+    },
+    "adverbs": {
+      "temporalne": [],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "jakże",
+          "count": 1
+        },
+        {
+          "word": "pilnie",
+          "count": 1
+        },
+        {
+          "word": "gdy",
+          "count": 1
+        },
+        {
+          "word": "wtedy",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 0,
+      "ty": 0,
+      "on_ona": 1,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 3,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 3,
+      "percentSentences": 1
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 29,
+      "median": 22,
+      "min": 20,
+      "max": 45,
+      "distribution": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 4.9,
+      "meanSyllables": 10.8,
+      "distribution": [
+        0,
+        0,
+        2,
+        0,
+        2,
+        9,
+        3,
+        2
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 3,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 0,
+      "noSubject": 0,
+      "noPredicate": 0,
+      "percent": 0
+    },
+    "enjambement": {
+      "count": 0,
+      "percent": 0,
+      "positions": []
+    },
+    "wordOrder": {
+      "svo": 2,
+      "inversions": 1,
+      "other": 0,
+      "deviationPercent": 0.33
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 190,
+      "consonants": 263,
+      "ratio": 0.72
+    },
+    "consonantClusters": {
+      "count": 16,
+      "top": [
+        {
+          "cluster": "prz",
+          "count": 2
+        },
+        {
+          "cluster": "szcz",
+          "count": 2
+        },
+        {
+          "cluster": "snk",
+          "count": 1
+        },
+        {
+          "cluster": "sprz",
+          "count": 1
+        },
+        {
+          "cluster": "wsp",
+          "count": 1
+        },
+        {
+          "cluster": "str",
+          "count": 1
+        },
+        {
+          "cluster": "dsz",
+          "count": 1
+        },
+        {
+          "cluster": "zwl",
+          "count": 1
+        },
+        {
+          "cluster": "spl",
+          "count": 1
+        },
+        {
+          "cluster": "łkn",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 20,
+      "syczace": 32,
+      "nosowe": 57,
+      "plynne": 41
+    },
+    "rhymes": {
+      "exact": 4,
+      "approximate": 0,
+      "internal": 0,
+      "assonance": 0,
+      "alliteration": 1
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        18
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 195,
+      "estimatedSeconds": 65,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "regularny",
+      "regularityScore": 0.71
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Biblia",
+          "reference": "Krzyżowanie Chrystusa",
+          "evidence": "Sama sobie na krzyż składa drewna"
+        },
+        {
+          "source": "Biblia",
+          "reference": "Longinus i włócznia",
+          "evidence": "Jakby tylko łaskotała włócznia"
+        },
+        {
+          "source": "Biblia",
+          "reference": "Relacja Bóg-człowiek",
+          "evidence": "Moje słowo, Twego słowa pogłos / Moja nędza, Twojej nędzy siostra"
+        },
+        {
+          "source": "inne",
+          "reference": "Tradycja religijna",
+          "evidence": "Konstrukcja paralelna nawiązująca do litanii"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.3,
+        "baudelaire": 0.4,
+        "bursa": 0.1,
+        "stachura": 0.2,
+        "grochowiak": 0.2,
+        "bialoszewski": 0.1,
+        "rozewicz": 0.2
+      }
+    },
+    "space": {
+      "type": "nieokreslona",
+      "evidence": "Brak konkretnych odniesień przestrzennych, dominuje przestrzeń duchowa i metafizyczna",
+      "openClosedRatio": 0.5
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "nieokreslona",
+      "evidence": "Data A.D. 1969 wskazuje jedynie na rok powstania, brak innych wskaźników temporalnych"
+    },
+    "motion": {
+      "movement": 3,
+      "stillness": 7,
+      "dynamism": 0.3,
+      "evidence": "Niewielki ruch w 'pilnie podnosi', 'biorąc się na sposób', dominuje statyczność refleksji"
+    },
+    "imageryDensity": {
+      "metaphors": 8,
+      "comparisons": 0,
+      "personifications": 6,
+      "hyperboles": 1,
+      "per100words": 21.4
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.9,
+      "creationLevel": 0.7,
+      "ironicDistance": 0.1,
+      "autobiographicSignals": [
+        "Moja piosenka",
+        "A.D. 1969",
+        "pierwszoosobowe zaimki",
+        "intymny ton zwierzenia"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "melancholia",
+      "secondary": "czułość",
+      "intensity": 0.7
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "Podmiot używa zaimka 'moje' w każdej strofie, wprost definiując swoje słowo, nędzę, winę i wiarę"
+    },
+    "addressee": {
+      "type": "bóg",
+      "evidence": "Zwrot do 'Twego słowa', 'Twojej nędzy', 'Twojej winy', 'Twojej wiary' z dużej litery wskazuje na boskiego adresata"
+    },
+    "metaphors": [
+      {
+        "source": "rodzina",
+        "target": "relacja z bogiem",
+        "example": "Moja nędza, Twojej nędzy siostra"
+      },
+      {
+        "source": "córka/krewna",
+        "target": "ludzkie cechy wobec boskich",
+        "example": "Moja wiara, Twojej wiary córka"
+      },
+      {
+        "source": "składanie drewna na krzyż",
+        "target": "samooskarżenie",
+        "example": "Sama sobie na krzyż składa drewna"
+      },
+      {
+        "source": "łaskotanie włócznią",
+        "target": "delikatność wiary",
+        "example": "Jakby tylko łaskotała włócznia"
+      }
+    ],
+    "temperature": {
+      "value": 0.3,
+      "label": "chłodna kontemplacja z nutą ciepła w relacji z transcendencją"
+    },
+    "senses": {
+      "wzrok": 2,
+      "sluch": 3,
+      "dotyk": 4,
+      "smak": 2,
+      "zapach": 0
+    },
+    "autodestruction": {
+      "level": 0.5,
+      "signals": [
+        "Sama sobie na krzyż składa drewna",
+        "nawiązanie do męki Chrystusa",
+        "określenie własnej nędzy i winy"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 0.686,
+    "dfaAlpha": 1.445,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -1.627507435742034
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -1.2307545296799587
+      },
+      {
+        "logWin": 1.6094379124341003,
+        "logFluc": -0.8358386097266314
+      },
+      {
+        "logWin": 1.791759469228055,
+        "logFluc": -0.6536568453261064
+      }
+    ],
+    "seriesLength": 18,
+    "series": [
+      2,
+      2,
+      5,
+      4,
+      5,
+      5,
+      5,
+      5,
+      5,
+      6,
+      5,
+      5,
+      6,
+      6,
+      5,
+      6,
+      5,
+      4
+    ]
+  }
+}

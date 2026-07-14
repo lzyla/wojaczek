@@ -1,0 +1,1016 @@
+{
+  "id": "vademecum",
+  "title": "Vademecum",
+  "wordCount": 104,
+  "lineCount": 14,
+  "uniqueWords": 85,
+  "vocabularyRichness": 0.817,
+  "avgWordsPerLine": 7.43,
+  "wordsPerLineDistribution": [
+    7,
+    8,
+    6,
+    8,
+    8,
+    5,
+    9,
+    7,
+    8,
+    6,
+    7,
+    7,
+    8,
+    10
+  ],
+  "wordFrequencies": [
+    [
+      "musi",
+      4
+    ],
+    [
+      "zacząć",
+      2
+    ],
+    [
+      "dać",
+      1
+    ],
+    [
+      "czarnym",
+      1
+    ],
+    [
+      "białą",
+      1
+    ],
+    [
+      "kobietę",
+      1
+    ],
+    [
+      "dnia",
+      1
+    ],
+    [
+      "początku",
+      1
+    ],
+    [
+      "komu",
+      1
+    ],
+    [
+      "królestwo",
+      1
+    ],
+    [
+      "świętej",
+      1
+    ],
+    [
+      "zgody",
+      1
+    ],
+    [
+      "marzy",
+      1
+    ],
+    [
+      "śmierć",
+      1
+    ],
+    [
+      "wpierw",
+      1
+    ],
+    [
+      "wynaleźć",
+      1
+    ],
+    [
+      "zaufać",
+      1
+    ],
+    [
+      "zwłaszcza",
+      1
+    ],
+    [
+      "bać",
+      1
+    ],
+    [
+      "noża",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 0,
+    "period": 0,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 2,
+    "colon": 0,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 4,
+  "negationWords": [
+    "nic",
+    "nie"
+  ],
+  "pronounDistribution": {
+    "ja": 1,
+    "ty": 0,
+    "on_ona": 3,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 3,
+    "smierc": 1,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [
+    [
+      "kto",
+      2
+    ],
+    [
+      "ten",
+      2
+    ],
+    [
+      "i nie",
+      2
+    ]
+  ],
+  "firstWord": "kto",
+  "lastWord": "nic",
+  "avgWordLength": 4.55,
+  "wordLengthDistribution": {
+    "1-3": 39,
+    "6-7": 22,
+    "4-5": 28,
+    "8-9": 13,
+    "10+": 2
+  },
+  "bigrams": [
+    [
+      "kto ma",
+      1
+    ],
+    [
+      "ma dać",
+      1
+    ],
+    [
+      "dać czarnym",
+      1
+    ],
+    [
+      "czarnym białą",
+      1
+    ],
+    [
+      "białą kobietę",
+      1
+    ],
+    [
+      "kobietę dnia",
+      1
+    ],
+    [
+      "początku zacząć",
+      1
+    ],
+    [
+      "zacząć musi",
+      1
+    ]
+  ],
+  "poemWords": [
+    "dać",
+    "czarnym",
+    "białą",
+    "kobietę",
+    "dnia",
+    "początku",
+    "zacząć",
+    "musi",
+    "komu",
+    "królestwo",
+    "świętej",
+    "zgody",
+    "marzy",
+    "śmierć",
+    "wpierw",
+    "wynaleźć",
+    "zaufać",
+    "zwłaszcza",
+    "bać",
+    "noża",
+    "okolicy",
+    "piątego",
+    "żebra",
+    "tętno",
+    "pilnie",
+    "liczy",
+    "lękać",
+    "drwić",
+    "owej",
+    "prawdy",
+    "narzędziem",
+    "wiernym",
+    "poważnym",
+    "kazać",
+    "czekać",
+    "rdzą",
+    "zapłacze",
+    "śniedzią",
+    "spleśnieje",
+    "wykruszy",
+    "czasem",
+    "ująć",
+    "religijną",
+    "dłoń",
+    "niebywałą",
+    "siłą",
+    "radością",
+    "pchnąć",
+    "początek",
+    "walczyć",
+    "biegły",
+    "piśmie",
+    "klęski",
+    "klęskę",
+    "chce",
+    "mieć",
+    "nic"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 24,
+        "VERB": 25,
+        "ADJ": 8,
+        "ADV": 2,
+        "PRON": 14,
+        "ADP": 10,
+        "CCONJ": 7,
+        "SCONJ": 4,
+        "INTJ": 0,
+        "PART": 5,
+        "DET": 4,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.229,
+        "VERB": 0.238,
+        "ADJ": 0.076,
+        "ADV": 0.019,
+        "PRON": 0.133,
+        "ADP": 0.095,
+        "CCONJ": 0.067,
+        "SCONJ": 0.038,
+        "INTJ": 0,
+        "PART": 0.048,
+        "DET": 0.038,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 1,
+        "abstract": 4,
+        "ratio": 0.2
+      },
+      "verbTenses": {
+        "present": 9,
+        "infinitive": 14,
+        "future": 3
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 2,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 2,
+        "oceniajace": 0,
+        "opisowe": 6
+      },
+      "adverbs": {
+        "temporalne": [],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "wpierw",
+            "count": 1
+          },
+          {
+            "word": "pilnie",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 1,
+        "ty": 0,
+        "on_ona": 3,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 3,
+        "nic": 1,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 4,
+        "percentSentences": 1
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 201,
+        "consonants": 281,
+        "ratio": 0.72
+      },
+      "consonantClusters": {
+        "count": 11,
+        "top": [
+          {
+            "cluster": "wsz",
+            "count": 1
+          },
+          {
+            "cluster": "stk",
+            "count": 1
+          },
+          {
+            "cluster": "stw",
+            "count": 1
+          },
+          {
+            "cluster": "zwł",
+            "count": 1
+          },
+          {
+            "cluster": "szcz",
+            "count": 1
+          },
+          {
+            "cluster": "drw",
+            "count": 1
+          },
+          {
+            "cluster": "rdz",
+            "count": 1
+          },
+          {
+            "cluster": "spl",
+            "count": 1
+          },
+          {
+            "cluster": "pchn",
+            "count": 1
+          },
+          {
+            "cluster": "lcz",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 22,
+        "syczace": 58,
+        "nosowe": 69,
+        "plynne": 35
+      },
+      "rhymes": {
+        "exact": 0,
+        "approximate": 0,
+        "internal": 1,
+        "assonance": 0,
+        "alliteration": 0
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 26.2,
+        "median": 12,
+        "min": 8,
+        "max": 73,
+        "distribution": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 7.1,
+        "meanSyllables": 14.1,
+        "distribution": [
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          2,
+          4,
+          5,
+          1,
+          0,
+          0,
+          1
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 4,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 0,
+        "noSubject": 2,
+        "noPredicate": 0,
+        "percent": 0.5
+      },
+      "enjambement": {
+        "count": 4,
+        "percent": 0.29,
+        "positions": [
+          7,
+          8,
+          9,
+          12
+        ]
+      },
+      "wordOrder": {
+        "svo": 2,
+        "inversions": 0,
+        "other": 2,
+        "deviationPercent": 0.5
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 1,
+        "śmierć": 1,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 211,
+      "estimatedSeconds": 70,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 24,
+      "VERB": 25,
+      "ADJ": 8,
+      "ADV": 2,
+      "PRON": 14,
+      "ADP": 10,
+      "CCONJ": 7,
+      "SCONJ": 4,
+      "INTJ": 0,
+      "PART": 5,
+      "DET": 4,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.229,
+      "VERB": 0.238,
+      "ADJ": 0.076,
+      "ADV": 0.019,
+      "PRON": 0.133,
+      "ADP": 0.095,
+      "CCONJ": 0.067,
+      "SCONJ": 0.038,
+      "INTJ": 0,
+      "PART": 0.048,
+      "DET": 0.038,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 1,
+      "abstract": 4,
+      "ratio": 0.2
+    },
+    "verbTenses": {
+      "present": 9,
+      "infinitive": 14,
+      "future": 3
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 2,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 2,
+      "oceniajace": 0,
+      "opisowe": 6
+    },
+    "adverbs": {
+      "temporalne": [],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "wpierw",
+          "count": 1
+        },
+        {
+          "word": "pilnie",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 1,
+      "ty": 0,
+      "on_ona": 3,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 3,
+      "nic": 1,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 4,
+      "percentSentences": 1
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 26.2,
+      "median": 12,
+      "min": 8,
+      "max": 73,
+      "distribution": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 7.1,
+      "meanSyllables": 14.1,
+      "distribution": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        2,
+        4,
+        5,
+        1,
+        0,
+        0,
+        1
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 4,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 0,
+      "noSubject": 2,
+      "noPredicate": 0,
+      "percent": 0.5
+    },
+    "enjambement": {
+      "count": 4,
+      "percent": 0.29,
+      "positions": [
+        7,
+        8,
+        9,
+        12
+      ]
+    },
+    "wordOrder": {
+      "svo": 2,
+      "inversions": 0,
+      "other": 2,
+      "deviationPercent": 0.5
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 201,
+      "consonants": 281,
+      "ratio": 0.72
+    },
+    "consonantClusters": {
+      "count": 11,
+      "top": [
+        {
+          "cluster": "wsz",
+          "count": 1
+        },
+        {
+          "cluster": "stk",
+          "count": 1
+        },
+        {
+          "cluster": "stw",
+          "count": 1
+        },
+        {
+          "cluster": "zwł",
+          "count": 1
+        },
+        {
+          "cluster": "szcz",
+          "count": 1
+        },
+        {
+          "cluster": "drw",
+          "count": 1
+        },
+        {
+          "cluster": "rdz",
+          "count": 1
+        },
+        {
+          "cluster": "spl",
+          "count": 1
+        },
+        {
+          "cluster": "pchn",
+          "count": 1
+        },
+        {
+          "cluster": "lcz",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 22,
+      "syczace": 58,
+      "nosowe": 69,
+      "plynne": 35
+    },
+    "rhymes": {
+      "exact": 0,
+      "approximate": 0,
+      "internal": 1,
+      "assonance": 0,
+      "alliteration": 0
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        15
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 211,
+      "estimatedSeconds": 70,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "regularny",
+      "regularityScore": 0.77
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Biblia",
+          "reference": "Księga Koheleta - mądrość i przewodnik życiowy",
+          "evidence": "tytuł 'VADEMECUM' i mądrościowy charakter tekstu"
+        },
+        {
+          "source": "Biblia",
+          "reference": "motyw noża jako narzędzia ofiary",
+          "evidence": "nóż który w okolicy / Piątego żebra tętno pilnie liczy"
+        },
+        {
+          "source": "Biblia",
+          "reference": "religijny wymiar działania",
+          "evidence": "religijną dłoń"
+        },
+        {
+          "source": "mitologia",
+          "reference": "walka wewnętrzna jako inicjacja",
+          "evidence": "z sobą musi zacząć walczyć"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.7,
+        "baudelaire": 0.6,
+        "bursa": 0.3,
+        "stachura": 0.4,
+        "grochowiak": 0.5,
+        "bialoszewski": 0.1,
+        "rozewicz": 0.2
+      }
+    },
+    "space": {
+      "type": "nieokreslona",
+      "evidence": "brak konkretnych odniesień przestrzennych, dominuje abstrakcyjna płaszczyzna duchowa",
+      "openClosedRatio": 0.3
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "nieokreslona",
+      "evidence": "brak wskaźników temporalnych, tekst ma charakter ponadczasowy"
+    },
+    "motion": {
+      "movement": 8,
+      "stillness": 2,
+      "dynamism": 0.8,
+      "evidence": "intensywny ruch: 'zacząć', 'pchnąć', 'walczyć', 'liczy', dynamika działania"
+    },
+    "imageryDensity": {
+      "metaphors": 6,
+      "comparisons": 1,
+      "personifications": 2,
+      "hyperboles": 1,
+      "per100words": 11.4
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.8,
+      "creationLevel": 0.6,
+      "ironicDistance": 0.2,
+      "autobiographicSignals": [
+        "jak ja",
+        "biegły w piśmie klęski",
+        "musi zacząć walczyć"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "bunt",
+      "secondary": "rozpacz",
+      "intensity": 0.8
+    },
+    "subjectPresence": {
+      "type": "ukryte",
+      "evidence": "podmiot ukryty w formie bezosobowej 'kto ma', ale ujawnia się w 'jak ja'"
+    },
+    "addressee": {
+      "type": "siebie",
+      "evidence": "wiersz ma charakter autorefleksyjny - 'jak ja', mówienie do siebie o sobie"
+    },
+    "metaphors": [
+      {
+        "source": "nóż",
+        "target": "śmierć/samobójstwo",
+        "example": "nóż który w okolicy / Piątego żebra tętno pilnie liczy"
+      },
+      {
+        "source": "walka z sobą",
+        "target": "proces autodestrukcji",
+        "example": "z sobą musi zacząć walczyć"
+      },
+      {
+        "source": "klęska jako pismo",
+        "target": "życie jako tekst porażki",
+        "example": "biegły w piśmie klęski"
+      }
+    ],
+    "temperature": {
+      "value": 0.7,
+      "label": "gorące z powodu intensywności buntu przy jednoczesnej rezygnacji"
+    },
+    "senses": {
+      "wzrok": 2,
+      "sluch": 1,
+      "dotyk": 5,
+      "smak": 0,
+      "zapach": 1
+    },
+    "autodestruction": {
+      "level": 0.9,
+      "signals": [
+        "nóż w okolicy piątego żebra",
+        "śmierć wpierw musi wynaleźć",
+        "z religijną siłą pchnąć",
+        "z sobą musi zacząć walczyć"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 0.8,
+    "dfaAlpha": 1.336,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -1.0397207708399177
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -0.655379509236066
+      }
+    ],
+    "seriesLength": 14,
+    "series": [
+      7,
+      8,
+      6,
+      8,
+      8,
+      5,
+      9,
+      7,
+      8,
+      6,
+      7,
+      7,
+      8,
+      10
+    ]
+  }
+}

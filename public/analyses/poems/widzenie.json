@@ -1,0 +1,834 @@
+{
+  "id": "widzenie",
+  "title": "Widzenie",
+  "wordCount": 50,
+  "lineCount": 14,
+  "uniqueWords": 42,
+  "vocabularyRichness": 0.84,
+  "avgWordsPerLine": 3.57,
+  "wordsPerLineDistribution": [
+    1,
+    3,
+    4,
+    5,
+    3,
+    4,
+    5,
+    7,
+    4,
+    3,
+    3,
+    3,
+    2,
+    3
+  ],
+  "wordFrequencies": [
+    [
+      "budzę",
+      2
+    ],
+    [
+      "zimno",
+      1
+    ],
+    [
+      "piecu",
+      1
+    ],
+    [
+      "odwiedzam",
+      1
+    ],
+    [
+      "pewną",
+      1
+    ],
+    [
+      "instytucję",
+      1
+    ],
+    [
+      "publiczną",
+      1
+    ],
+    [
+      "zasiadam",
+      1
+    ],
+    [
+      "kolanach",
+      1
+    ],
+    [
+      "młodej",
+      1
+    ],
+    [
+      "obojętnie",
+      1
+    ],
+    [
+      "stwierdzam",
+      1
+    ],
+    [
+      "ojciec",
+      1
+    ],
+    [
+      "delikatnie",
+      1
+    ],
+    [
+      "wprowadzam",
+      1
+    ],
+    [
+      "nóż",
+      1
+    ],
+    [
+      "serce",
+      1
+    ],
+    [
+      "nożem",
+      1
+    ],
+    [
+      "zaciśniętej",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 0,
+    "period": 0,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 0,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 0,
+  "negationWords": [],
+  "pronounDistribution": {
+    "ja": 2,
+    "ty": 0,
+    "on_ona": 0,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 1,
+    "smierc": 1,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [],
+  "firstWord": "zimno",
+  "lastWord": "śmiejesz",
+  "avgWordLength": 5.2,
+  "wordLengthDistribution": {
+    "4-5": 13,
+    "1-3": 18,
+    "8-9": 9,
+    "10+": 6,
+    "6-7": 4
+  },
+  "bigrams": [
+    [
+      "piecu odwiedzam",
+      1
+    ],
+    [
+      "odwiedzam pewną",
+      1
+    ],
+    [
+      "pewną instytucję",
+      1
+    ],
+    [
+      "instytucję publiczną",
+      1
+    ],
+    [
+      "publiczną zasiadam",
+      1
+    ],
+    [
+      "kolanach młodej",
+      1
+    ]
+  ],
+  "poemWords": [
+    "zimno",
+    "piecu",
+    "odwiedzam",
+    "pewną",
+    "instytucję",
+    "publiczną",
+    "zasiadam",
+    "kolanach",
+    "młodej",
+    "pani",
+    "obojętnie",
+    "stwierdzam",
+    "ojciec",
+    "delikatnie",
+    "wprowadzam",
+    "nóż",
+    "serce",
+    "budzę",
+    "nożem",
+    "zaciśniętej",
+    "dłoni",
+    "narzekam",
+    "niespokojne",
+    "sny",
+    "ponownie",
+    "zasypiam",
+    "stary",
+    "widzę",
+    "śmiejesz"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 11,
+        "VERB": 10,
+        "ADJ": 6,
+        "ADV": 6,
+        "PRON": 4,
+        "ADP": 6,
+        "CCONJ": 3,
+        "SCONJ": 2,
+        "INTJ": 0,
+        "PART": 0,
+        "DET": 1,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.216,
+        "VERB": 0.196,
+        "ADJ": 0.118,
+        "ADV": 0.118,
+        "PRON": 0.078,
+        "ADP": 0.118,
+        "CCONJ": 0.059,
+        "SCONJ": 0.039,
+        "INTJ": 0,
+        "PART": 0,
+        "DET": 0.02,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 3,
+        "abstract": 0,
+        "ratio": 1
+      },
+      "verbTenses": {
+        "present": 11,
+        "future": 1
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 1,
+        "stan": 1,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 0,
+        "opisowe": 6
+      },
+      "adverbs": {
+        "temporalne": [],
+        "modalne": [],
+        "sposobu": [
+          "delikatnie"
+        ],
+        "top": [
+          {
+            "word": "zimno",
+            "count": 1
+          },
+          {
+            "word": "obojętnie",
+            "count": 1
+          },
+          {
+            "word": "delikatnie",
+            "count": 1
+          },
+          {
+            "word": "ponownie",
+            "count": 1
+          },
+          {
+            "word": "kiedy",
+            "count": 1
+          },
+          {
+            "word": "bardzo",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 1,
+        "ty": 0,
+        "on_ona": 0,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 0,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 0,
+        "percentSentences": 0
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 116,
+        "consonants": 152,
+        "ratio": 0.76
+      },
+      "consonantClusters": {
+        "count": 7,
+        "top": [
+          {
+            "cluster": "rdz",
+            "count": 2
+          },
+          {
+            "cluster": "prz",
+            "count": 1
+          },
+          {
+            "cluster": "nst",
+            "count": 1
+          },
+          {
+            "cluster": "czn",
+            "count": 1
+          },
+          {
+            "cluster": "stw",
+            "count": 1
+          },
+          {
+            "cluster": "wpr",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 8,
+        "syczace": 26,
+        "nosowe": 44,
+        "plynne": 12
+      },
+      "rhymes": {
+        "exact": 0,
+        "approximate": 1,
+        "internal": 0,
+        "assonance": 0,
+        "alliteration": 0
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 8.5,
+        "median": 7,
+        "min": 2,
+        "max": 18,
+        "distribution": [
+          0,
+          0,
+          1,
+          0,
+          0,
+          1,
+          0,
+          2,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 3.4,
+        "meanSyllables": 7.9,
+        "distribution": [
+          0,
+          2,
+          1,
+          6,
+          3,
+          2,
+          0,
+          1
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 6,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 1,
+        "noSubject": 4,
+        "noPredicate": 0,
+        "percent": 0.83
+      },
+      "enjambement": {
+        "count": 7,
+        "percent": 0.5,
+        "positions": [
+          5,
+          6,
+          10,
+          11,
+          12,
+          13,
+          14
+        ]
+      },
+      "wordOrder": {
+        "svo": 1,
+        "inversions": 0,
+        "other": 5,
+        "deviationPercent": 0.83
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 1,
+        "śmierć": 1,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 119,
+      "estimatedSeconds": 40,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 11,
+      "VERB": 10,
+      "ADJ": 6,
+      "ADV": 6,
+      "PRON": 4,
+      "ADP": 6,
+      "CCONJ": 3,
+      "SCONJ": 2,
+      "INTJ": 0,
+      "PART": 0,
+      "DET": 1,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.216,
+      "VERB": 0.196,
+      "ADJ": 0.118,
+      "ADV": 0.118,
+      "PRON": 0.078,
+      "ADP": 0.118,
+      "CCONJ": 0.059,
+      "SCONJ": 0.039,
+      "INTJ": 0,
+      "PART": 0,
+      "DET": 0.02,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 3,
+      "abstract": 0,
+      "ratio": 1
+    },
+    "verbTenses": {
+      "present": 11,
+      "future": 1
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 1,
+      "stan": 1,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 0,
+      "opisowe": 6
+    },
+    "adverbs": {
+      "temporalne": [],
+      "modalne": [],
+      "sposobu": [
+        "delikatnie"
+      ],
+      "top": [
+        {
+          "word": "zimno",
+          "count": 1
+        },
+        {
+          "word": "obojętnie",
+          "count": 1
+        },
+        {
+          "word": "delikatnie",
+          "count": 1
+        },
+        {
+          "word": "ponownie",
+          "count": 1
+        },
+        {
+          "word": "kiedy",
+          "count": 1
+        },
+        {
+          "word": "bardzo",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 1,
+      "ty": 0,
+      "on_ona": 0,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 0,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 0,
+      "percentSentences": 0
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 8.5,
+      "median": 7,
+      "min": 2,
+      "max": 18,
+      "distribution": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        0,
+        2,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 3.4,
+      "meanSyllables": 7.9,
+      "distribution": [
+        0,
+        2,
+        1,
+        6,
+        3,
+        2,
+        0,
+        1
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 6,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 1,
+      "noSubject": 4,
+      "noPredicate": 0,
+      "percent": 0.83
+    },
+    "enjambement": {
+      "count": 7,
+      "percent": 0.5,
+      "positions": [
+        5,
+        6,
+        10,
+        11,
+        12,
+        13,
+        14
+      ]
+    },
+    "wordOrder": {
+      "svo": 1,
+      "inversions": 0,
+      "other": 5,
+      "deviationPercent": 0.83
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 116,
+      "consonants": 152,
+      "ratio": 0.76
+    },
+    "consonantClusters": {
+      "count": 7,
+      "top": [
+        {
+          "cluster": "rdz",
+          "count": 2
+        },
+        {
+          "cluster": "prz",
+          "count": 1
+        },
+        {
+          "cluster": "nst",
+          "count": 1
+        },
+        {
+          "cluster": "czn",
+          "count": 1
+        },
+        {
+          "cluster": "stw",
+          "count": 1
+        },
+        {
+          "cluster": "wpr",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 8,
+      "syczace": 26,
+      "nosowe": 44,
+      "plynne": 12
+    },
+    "rhymes": {
+      "exact": 0,
+      "approximate": 1,
+      "internal": 0,
+      "assonance": 0,
+      "alliteration": 0
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        15
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 119,
+      "estimatedSeconds": 40,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "polregularny",
+      "regularityScore": 0.51
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Biblia",
+          "reference": "Kain i Abel",
+          "evidence": "Delikatnie wprowadzam nóż w serce - symbolika bratobójstwa"
+        },
+        {
+          "source": "mitologia",
+          "reference": "Kronos pożerający dzieci",
+          "evidence": "motyw ojcobójstwa i cykliczności pokoleń"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.7,
+        "baudelaire": 0.3,
+        "bursa": 0.6,
+        "stachura": 0.4,
+        "grochowiak": 0.5,
+        "bialoszewski": 0.2,
+        "rozewicz": 0.8
+      }
+    },
+    "space": {
+      "type": "zamknieta",
+      "evidence": "przy piecu, instytucja publiczna - przestrzenie ograniczone",
+      "openClosedRatio": 0.3
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "zima",
+      "evidence": "Zimno - sygnał zimowej pory roku",
+      "timeEvidence": "sen zatiera granice temporalne"
+    },
+    "motion": {
+      "movement": 3,
+      "stillness": 7,
+      "dynamism": 0.3,
+      "evidence": "dominuje statyczność: zasiadam, budzę się, zasypiam - ruchy minimalne"
+    },
+    "imageryDensity": {
+      "metaphors": 2,
+      "comparisons": 0,
+      "personifications": 1,
+      "hyperboles": 1,
+      "per100words": 8
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.9,
+      "creationLevel": 0.7,
+      "ironicDistance": 0.2,
+      "autobiographicSignals": [
+        "Ja przy piecu",
+        "Budzę się",
+        "Narzekam na niespokojne sny",
+        "jestem bardzo stary"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "melancholia",
+      "secondary": "rezygnacja",
+      "intensity": 0.7
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "Podmiot mówi w pierwszej osobie: 'Ja przy piecu', 'Budzę się', 'jestem bardzo stary'"
+    },
+    "addressee": {
+      "type": "ty",
+      "evidence": "Bezpośrednie zwrócenie się w ostatnim wersie: 'że się śmiejesz'"
+    },
+    "metaphors": [
+      {
+        "source": "sen",
+        "target": "życie",
+        "example": "Cała struktura wiersza jako przejścia między snem a jawą, symbolizująca przemijanie życia"
+      },
+      {
+        "source": "nóż w sercu",
+        "target": "ból egzystencjalny",
+        "example": "Delikatnie wprowadzam nóż w serce"
+      }
+    ],
+    "temperature": {
+      "value": 0.2,
+      "label": "zimne/apatyczne"
+    },
+    "senses": {
+      "wzrok": 5,
+      "sluch": 1,
+      "dotyk": 3,
+      "smak": 0,
+      "zapach": 0
+    },
+    "autodestruction": {
+      "level": 0.6,
+      "signals": [
+        "Wprowadzanie noża w serce",
+        "Budzenie się z nożem w dłoni",
+        "Symboliczne zabijanie ojca"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 0.893,
+    "dfaAlpha": 1.228,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -1.2220423276338719
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -0.8688605838495042
+      }
+    ],
+    "seriesLength": 14,
+    "series": [
+      1,
+      3,
+      4,
+      5,
+      3,
+      4,
+      5,
+      7,
+      4,
+      3,
+      3,
+      3,
+      2,
+      3
+    ]
+  }
+}

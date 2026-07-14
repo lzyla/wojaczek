@@ -1,0 +1,917 @@
+{
+  "id": "prolegomena-do-sztuki-wyzwolonej",
+  "title": "Prolegomena do sztuki wyzwolonej",
+  "wordCount": 79,
+  "lineCount": 12,
+  "uniqueWords": 64,
+  "vocabularyRichness": 0.81,
+  "avgWordsPerLine": 6.58,
+  "wordsPerLineDistribution": [
+    6,
+    7,
+    7,
+    5,
+    6,
+    5,
+    7,
+    8,
+    7,
+    8,
+    7,
+    6
+  ],
+  "wordFrequencies": [
+    [
+      "cieszy",
+      2
+    ],
+    [
+      "dym",
+      2
+    ],
+    [
+      "ciało",
+      1
+    ],
+    [
+      "płomieniami",
+      1
+    ],
+    [
+      "ogień",
+      1
+    ],
+    [
+      "osobne",
+      1
+    ],
+    [
+      "iskrząc",
+      1
+    ],
+    [
+      "czują",
+      1
+    ],
+    [
+      "związek",
+      1
+    ],
+    [
+      "urodzi",
+      1
+    ],
+    [
+      "przepis",
+      1
+    ],
+    [
+      "moralności",
+      1
+    ],
+    [
+      "wykrystalizowana",
+      1
+    ],
+    [
+      "śmierć",
+      1
+    ],
+    [
+      "płonących",
+      1
+    ],
+    [
+      "płuc",
+      1
+    ],
+    [
+      "płomień",
+      1
+    ],
+    [
+      "łuczywem",
+      1
+    ],
+    [
+      "nasienie",
+      1
+    ],
+    [
+      "żuje",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 0,
+    "period": 0,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 0,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 0,
+  "negationWords": [],
+  "pronounDistribution": {
+    "ja": 0,
+    "ty": 0,
+    "on_ona": 2,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 2,
+    "smierc": 1,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [
+    [
+      "jeszcze",
+      2
+    ]
+  ],
+  "firstWord": "ciało",
+  "lastWord": "eklogi",
+  "avgWordLength": 5.38,
+  "wordLengthDistribution": {
+    "4-5": 15,
+    "6-7": 26,
+    "1-3": 24,
+    "10+": 7,
+    "8-9": 7
+  },
+  "bigrams": [
+    [
+      "ciało cieszy",
+      1
+    ],
+    [
+      "sobą płomieniami",
+      1
+    ],
+    [
+      "płomieniami ogień",
+      1
+    ],
+    [
+      "iskrząc czują",
+      1
+    ],
+    [
+      "czują związek",
+      1
+    ]
+  ],
+  "poemWords": [
+    "ciało",
+    "cieszy",
+    "płomieniami",
+    "ogień",
+    "osobne",
+    "iskrząc",
+    "czują",
+    "związek",
+    "urodzi",
+    "przepis",
+    "moralności",
+    "dym",
+    "wykrystalizowana",
+    "śmierć",
+    "płonących",
+    "płuc",
+    "płomień",
+    "łuczywem",
+    "nasienie",
+    "żuje",
+    "kobieta",
+    "pożyczyłeś",
+    "lichwą",
+    "odebrać",
+    "cztery",
+    "kilo",
+    "mięsa",
+    "mózgiem",
+    "płaczem",
+    "trzewiami",
+    "syn",
+    "odbierzesz",
+    "rzucisz",
+    "śmieci",
+    "materac",
+    "zmienisz",
+    "sięgający",
+    "nieba",
+    "stos",
+    "poślinionym",
+    "palcem",
+    "sprawdziwszy",
+    "wiatr",
+    "patrząc",
+    "wystukasz",
+    "pulsem",
+    "czysty",
+    "rytm",
+    "eklogi"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 29,
+        "VERB": 14,
+        "ADJ": 7,
+        "ADV": 2,
+        "PRON": 6,
+        "ADP": 9,
+        "CCONJ": 5,
+        "SCONJ": 2,
+        "INTJ": 0,
+        "PART": 5,
+        "DET": 0,
+        "NUM": 1
+      },
+      "posPercent": {
+        "NOUN": 0.349,
+        "VERB": 0.169,
+        "ADJ": 0.084,
+        "ADV": 0.024,
+        "PRON": 0.072,
+        "ADP": 0.108,
+        "CCONJ": 0.06,
+        "SCONJ": 0.024,
+        "INTJ": 0,
+        "PART": 0.06,
+        "DET": 0,
+        "NUM": 0.012
+      },
+      "nounConcreteAbstract": {
+        "concrete": 1,
+        "abstract": 1,
+        "ratio": 0.5
+      },
+      "verbTenses": {
+        "present": 8,
+        "future": 3,
+        "past": 3,
+        "infinitive": 1
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 2,
+        "stan": 1,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 0,
+        "opisowe": 7
+      },
+      "adverbs": {
+        "temporalne": [],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "łuczywem",
+            "count": 1
+          },
+          {
+            "word": "gdy",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 0,
+        "ty": 0,
+        "on_ona": 2,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 0,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 0,
+        "percentSentences": 0
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 187,
+        "consonants": 267,
+        "ratio": 0.7
+      },
+      "consonantClusters": {
+        "count": 13,
+        "top": [
+          {
+            "cluster": "szcz",
+            "count": 3
+          },
+          {
+            "cluster": "trz",
+            "count": 2
+          },
+          {
+            "cluster": "szt",
+            "count": 1
+          },
+          {
+            "cluster": "skrz",
+            "count": 1
+          },
+          {
+            "cluster": "prz",
+            "count": 1
+          },
+          {
+            "cluster": "chw",
+            "count": 1
+          },
+          {
+            "cluster": "czt",
+            "count": 1
+          },
+          {
+            "cluster": "spr",
+            "count": 1
+          },
+          {
+            "cluster": "wdz",
+            "count": 1
+          },
+          {
+            "cluster": "wsz",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 33,
+        "syczace": 49,
+        "nosowe": 50,
+        "plynne": 37
+      },
+      "rhymes": {
+        "exact": 0,
+        "approximate": 0,
+        "internal": 0,
+        "assonance": 0,
+        "alliteration": 0
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 27.7,
+        "median": 29,
+        "min": 6,
+        "max": 48,
+        "distribution": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 6.4,
+        "meanSyllables": 14.8,
+        "distribution": [
+          0,
+          0,
+          0,
+          0,
+          1,
+          2,
+          3,
+          5,
+          2
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 3,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 0,
+        "noSubject": 1,
+        "noPredicate": 0,
+        "percent": 0.33
+      },
+      "enjambement": {
+        "count": 3,
+        "percent": 0.25,
+        "positions": [
+          3,
+          9,
+          11
+        ]
+      },
+      "wordOrder": {
+        "svo": 2,
+        "inversions": 0,
+        "other": 1,
+        "deviationPercent": 0.33
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 2,
+        "śmierć": 1,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 193,
+      "estimatedSeconds": 64,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 29,
+      "VERB": 14,
+      "ADJ": 7,
+      "ADV": 2,
+      "PRON": 6,
+      "ADP": 9,
+      "CCONJ": 5,
+      "SCONJ": 2,
+      "INTJ": 0,
+      "PART": 5,
+      "DET": 0,
+      "NUM": 1
+    },
+    "posPercent": {
+      "NOUN": 0.349,
+      "VERB": 0.169,
+      "ADJ": 0.084,
+      "ADV": 0.024,
+      "PRON": 0.072,
+      "ADP": 0.108,
+      "CCONJ": 0.06,
+      "SCONJ": 0.024,
+      "INTJ": 0,
+      "PART": 0.06,
+      "DET": 0,
+      "NUM": 0.012
+    },
+    "nounConcreteAbstract": {
+      "concrete": 1,
+      "abstract": 1,
+      "ratio": 0.5
+    },
+    "verbTenses": {
+      "present": 8,
+      "future": 3,
+      "past": 3,
+      "infinitive": 1
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 2,
+      "stan": 1,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 0,
+      "opisowe": 7
+    },
+    "adverbs": {
+      "temporalne": [],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "łuczywem",
+          "count": 1
+        },
+        {
+          "word": "gdy",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 0,
+      "ty": 0,
+      "on_ona": 2,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 0,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 0,
+      "percentSentences": 0
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 27.7,
+      "median": 29,
+      "min": 6,
+      "max": 48,
+      "distribution": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 6.4,
+      "meanSyllables": 14.8,
+      "distribution": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        2,
+        3,
+        5,
+        2
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 3,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 0,
+      "noSubject": 1,
+      "noPredicate": 0,
+      "percent": 0.33
+    },
+    "enjambement": {
+      "count": 3,
+      "percent": 0.25,
+      "positions": [
+        3,
+        9,
+        11
+      ]
+    },
+    "wordOrder": {
+      "svo": 2,
+      "inversions": 0,
+      "other": 1,
+      "deviationPercent": 0.33
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 187,
+      "consonants": 267,
+      "ratio": 0.7
+    },
+    "consonantClusters": {
+      "count": 13,
+      "top": [
+        {
+          "cluster": "szcz",
+          "count": 3
+        },
+        {
+          "cluster": "trz",
+          "count": 2
+        },
+        {
+          "cluster": "szt",
+          "count": 1
+        },
+        {
+          "cluster": "skrz",
+          "count": 1
+        },
+        {
+          "cluster": "prz",
+          "count": 1
+        },
+        {
+          "cluster": "chw",
+          "count": 1
+        },
+        {
+          "cluster": "czt",
+          "count": 1
+        },
+        {
+          "cluster": "spr",
+          "count": 1
+        },
+        {
+          "cluster": "wdz",
+          "count": 1
+        },
+        {
+          "cluster": "wsz",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 33,
+      "syczace": 49,
+      "nosowe": 50,
+      "plynne": 37
+    },
+    "rhymes": {
+      "exact": 0,
+      "approximate": 0,
+      "internal": 0,
+      "assonance": 0,
+      "alliteration": 0
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        13
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 193,
+      "estimatedSeconds": 64,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "regularny",
+      "regularityScore": 0.87
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Biblia",
+          "reference": "apokalipsa, płomienie",
+          "evidence": "płomieniami ogień, wykrystalizowana śmierć"
+        },
+        {
+          "source": "mitologia",
+          "reference": "ofiara z ciała",
+          "evidence": "cztery kilo mięsa, stos sięgający do nieba"
+        },
+        {
+          "source": "Rimbaud",
+          "reference": "alchemia słowa",
+          "evidence": "przepis moralności w dym, płomień łuczywem"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.8,
+        "baudelaire": 0.6,
+        "bursa": 0.3,
+        "stachura": 0.4,
+        "grochowiak": 0.7,
+        "bialoszewski": 0.2,
+        "rozewicz": 0.5
+      }
+    },
+    "space": {
+      "type": "otwarta",
+      "evidence": "stos sięgający aż do nieba, dym unoszący się",
+      "openClosedRatio": 0.8
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "nieokreslona",
+      "evidence": "brak wyraźnych wskaźników temporalnych"
+    },
+    "motion": {
+      "movement": 8,
+      "stillness": 2,
+      "dynamism": 0.8,
+      "evidence": "iskrząc, płonących, rzucisz, zmienisz, wystukasz"
+    },
+    "imageryDensity": {
+      "metaphors": 6,
+      "comparisons": 1,
+      "personifications": 3,
+      "hyperboles": 2,
+      "per100words": 20
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.3,
+      "creationLevel": 0.9,
+      "ironicDistance": 0.7,
+      "autobiographicSignals": [
+        "ty-forma",
+        "konkretne obrazy ciała"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "obrzydzenie",
+      "secondary": "gniew",
+      "intensity": 0.8
+    },
+    "subjectPresence": {
+      "type": "ukryte",
+      "evidence": "Podmiot obecny implicite w aktach obserwacji i osądu, zwraca się do adresata w formie 'ty'"
+    },
+    "addressee": {
+      "type": "ty",
+      "evidence": "Bezpośrednie zwroty 'pożyczyłeś jej', 'odbierzesz', 'rzucisz', 'zmienisz', 'wystukasz'"
+    },
+    "metaphors": [
+      {
+        "source": "ogień/płomień",
+        "target": "ciało/pożądanie",
+        "example": "Ciało cieszy się sobą płomieniami ogień"
+      },
+      {
+        "source": "lichwiarstwo",
+        "target": "reprodukcja",
+        "example": "pożyczyłeś jej / Żeby z lichwą odebrać cztery kilo mięsa"
+      },
+      {
+        "source": "stos pogrzebowy",
+        "target": "niszczenie kobiety",
+        "example": "Zmienisz jej w sięgający aż do nieba stos"
+      }
+    ],
+    "temperature": {
+      "value": 0.9,
+      "label": "płomienny gniew i obrzydzenie"
+    },
+    "senses": {
+      "wzrok": 4,
+      "sluch": 2,
+      "dotyk": 5,
+      "smak": 3,
+      "zapach": 2
+    },
+    "autodestruction": {
+      "level": 0.7,
+      "signals": [
+        "wizja śmierci w dymie",
+        "obraz spalenia",
+        "destrukcja ciała",
+        "przemiana w stos"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 0.91,
+    "dfaAlpha": 4.259,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -1.7328679513998628
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -0.50749224016165
+      }
+    ],
+    "seriesLength": 12,
+    "series": [
+      6,
+      7,
+      7,
+      5,
+      6,
+      5,
+      7,
+      8,
+      7,
+      8,
+      7,
+      6
+    ]
+  }
+}

@@ -1,0 +1,664 @@
+{
+  "id": "marii-krwi-kobyla",
+  "title": "Marii krwi kobyła",
+  "wordCount": 19,
+  "lineCount": 5,
+  "uniqueWords": 17,
+  "vocabularyRichness": 0.895,
+  "avgWordsPerLine": 3.8,
+  "wordsPerLineDistribution": [
+    3,
+    4,
+    6,
+    5,
+    1
+  ],
+  "wordFrequencies": [
+    [
+      "marii",
+      1
+    ],
+    [
+      "krwi",
+      1
+    ],
+    [
+      "kobyła",
+      1
+    ],
+    [
+      "ułana",
+      1
+    ],
+    [
+      "łydki",
+      1
+    ],
+    [
+      "śni",
+      1
+    ],
+    [
+      "całą",
+      1
+    ],
+    [
+      "noc",
+      1
+    ],
+    [
+      "żadna",
+      1
+    ],
+    [
+      "skóry",
+      1
+    ],
+    [
+      "snu",
+      1
+    ],
+    [
+      "przecieka",
+      1
+    ],
+    [
+      "gwiazda",
+      1
+    ],
+    [
+      "ostrogą",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 0,
+    "period": 0,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 0,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 2,
+  "negationWords": [
+    "nie",
+    "żadna"
+  ],
+  "pronounDistribution": {
+    "ja": 0,
+    "ty": 0,
+    "on_ona": 0,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 1,
+    "smierc": 0,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 1,
+    "bol": 0
+  },
+  "anaphors": [],
+  "firstWord": "marii",
+  "lastWord": "ostrogą",
+  "avgWordLength": 4.26,
+  "wordLengthDistribution": {
+    "1-3": 7,
+    "4-5": 8,
+    "6-7": 3,
+    "8-9": 1
+  },
+  "bigrams": [
+    [
+      "marii krwi",
+      1
+    ],
+    [
+      "krwi kobyła",
+      1
+    ],
+    [
+      "kobyła ułana",
+      1
+    ],
+    [
+      "ułana łydki",
+      1
+    ],
+    [
+      "łydki śni",
+      1
+    ],
+    [
+      "śni całą",
+      1
+    ],
+    [
+      "całą noc",
+      1
+    ],
+    [
+      "żadna skóry",
+      1
+    ],
+    [
+      "skóry snu",
+      1
+    ]
+  ],
+  "poemWords": [
+    "marii",
+    "krwi",
+    "kobyła",
+    "ułana",
+    "łydki",
+    "śni",
+    "całą",
+    "noc",
+    "żadna",
+    "skóry",
+    "snu",
+    "przecieka",
+    "gwiazda",
+    "ostrogą"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 6,
+        "VERB": 3,
+        "ADJ": 2,
+        "ADV": 0,
+        "PRON": 0,
+        "ADP": 0,
+        "CCONJ": 1,
+        "SCONJ": 0,
+        "INTJ": 0,
+        "PART": 1,
+        "DET": 1,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.375,
+        "VERB": 0.188,
+        "ADJ": 0.125,
+        "ADV": 0,
+        "PRON": 0,
+        "ADP": 0,
+        "CCONJ": 0.062,
+        "SCONJ": 0,
+        "INTJ": 0,
+        "PART": 0.062,
+        "DET": 0.062,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 2,
+        "abstract": 1,
+        "ratio": 0.67
+      },
+      "verbTenses": {
+        "past": 1,
+        "present": 2
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 0,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 0,
+        "opisowe": 2
+      },
+      "adverbs": {
+        "temporalne": [],
+        "modalne": [],
+        "sposobu": [],
+        "top": []
+      },
+      "pronouns": {
+        "ja": 0,
+        "ty": 0,
+        "on_ona": 0,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 1,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 1,
+        "total": 2,
+        "percentSentences": 1
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 34,
+        "consonants": 44,
+        "ratio": 0.77
+      },
+      "consonantClusters": {
+        "count": 3,
+        "top": [
+          {
+            "cluster": "krw",
+            "count": 1
+          },
+          {
+            "cluster": "prz",
+            "count": 1
+          },
+          {
+            "cluster": "str",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 3,
+        "syczace": 8,
+        "nosowe": 9,
+        "plynne": 10
+      },
+      "rhymes": {
+        "exact": 0,
+        "approximate": 1,
+        "internal": 0,
+        "assonance": 0,
+        "alliteration": 0
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 8,
+        "median": 8,
+        "min": 1,
+        "max": 15,
+        "distribution": [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 3.8,
+        "meanSyllables": 7.4,
+        "distribution": [
+          0,
+          1,
+          0,
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 2,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 1,
+        "noSubject": 0,
+        "noPredicate": 0,
+        "percent": 0.5
+      },
+      "enjambement": {
+        "count": 0,
+        "percent": 0,
+        "positions": []
+      },
+      "wordOrder": {
+        "svo": 1,
+        "inversions": 0,
+        "other": 0,
+        "deviationPercent": 0
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 1,
+        "śmierć": 0,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 2,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 37,
+      "estimatedSeconds": 12,
+      "tempoCategory": "szybkie"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 6,
+      "VERB": 3,
+      "ADJ": 2,
+      "ADV": 0,
+      "PRON": 0,
+      "ADP": 0,
+      "CCONJ": 1,
+      "SCONJ": 0,
+      "INTJ": 0,
+      "PART": 1,
+      "DET": 1,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.375,
+      "VERB": 0.188,
+      "ADJ": 0.125,
+      "ADV": 0,
+      "PRON": 0,
+      "ADP": 0,
+      "CCONJ": 0.062,
+      "SCONJ": 0,
+      "INTJ": 0,
+      "PART": 0.062,
+      "DET": 0.062,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 2,
+      "abstract": 1,
+      "ratio": 0.67
+    },
+    "verbTenses": {
+      "past": 1,
+      "present": 2
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 0,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 0,
+      "opisowe": 2
+    },
+    "adverbs": {
+      "temporalne": [],
+      "modalne": [],
+      "sposobu": [],
+      "top": []
+    },
+    "pronouns": {
+      "ja": 0,
+      "ty": 0,
+      "on_ona": 0,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 1,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 1,
+      "total": 2,
+      "percentSentences": 1
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 8,
+      "median": 8,
+      "min": 1,
+      "max": 15,
+      "distribution": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 3.8,
+      "meanSyllables": 7.4,
+      "distribution": [
+        0,
+        1,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 2,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 1,
+      "noSubject": 0,
+      "noPredicate": 0,
+      "percent": 0.5
+    },
+    "enjambement": {
+      "count": 0,
+      "percent": 0,
+      "positions": []
+    },
+    "wordOrder": {
+      "svo": 1,
+      "inversions": 0,
+      "other": 0,
+      "deviationPercent": 0
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 34,
+      "consonants": 44,
+      "ratio": 0.77
+    },
+    "consonantClusters": {
+      "count": 3,
+      "top": [
+        {
+          "cluster": "krw",
+          "count": 1
+        },
+        {
+          "cluster": "prz",
+          "count": 1
+        },
+        {
+          "cluster": "str",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 3,
+      "syczace": 8,
+      "nosowe": 9,
+      "plynne": 10
+    },
+    "rhymes": {
+      "exact": 0,
+      "approximate": 1,
+      "internal": 0,
+      "assonance": 0,
+      "alliteration": 0
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        5
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 37,
+      "estimatedSeconds": 12,
+      "tempoCategory": "szybkie"
+    },
+    "regularity": {
+      "type": "polregularny",
+      "regularityScore": 0.44
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Biblia",
+          "reference": "Maria - postać biblijna",
+          "evidence": "Marii krwi - nawiązanie do Maryi"
+        },
+        {
+          "source": "mitologia",
+          "reference": "mitologia słowiańska/ludowa",
+          "evidence": "kobyła jako symbol mityczny, sny zwierząt"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.8,
+        "baudelaire": 0.3,
+        "bursa": 0.1,
+        "stachura": 0.2,
+        "grochowiak": 0.4,
+        "bialoszewski": 0.1,
+        "rozewicz": 0.2
+      }
+    },
+    "space": {
+      "type": "nieokreslona",
+      "evidence": "przestrzeń oniryczna, symboliczna bez konkretnych wskazówek topograficznych",
+      "openClosedRatio": 0.7
+    },
+    "timeOfDay": {
+      "period": "noc",
+      "season": "nieokreslona",
+      "evidence": "śni całą noc - wyraźne wskazanie na porę nocną"
+    },
+    "motion": {
+      "movement": 7,
+      "stillness": 3,
+      "dynamism": 0.7,
+      "evidence": "kobyła ułana, śni, nie przecieka - dynamika snu i ruchu"
+    },
+    "imageryDensity": {
+      "metaphors": 4,
+      "comparisons": 0,
+      "personifications": 2,
+      "hyperboles": 1,
+      "per100words": 35
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.2,
+      "creationLevel": 0.9,
+      "ironicDistance": 0.1,
+      "autobiographicSignals": []
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "tęsknota",
+      "secondary": "melancholia",
+      "intensity": 0.7
+    },
+    "subjectPresence": {
+      "type": "ukryte",
+      "evidence": "Podmiot ukryty w obrazie snów i marzeń o Marii, obecny przez voyeurystyczne spojrzenie"
+    },
+    "addressee": {
+      "type": "nikt",
+      "evidence": "Wiersz ma charakter wizji poetyckiej bez bezpośredniego adresata"
+    },
+    "metaphors": [
+      {
+        "source": "kobyła ułana",
+        "target": "Maria/kobieta",
+        "example": "Marii krwi kobyła ułana"
+      },
+      {
+        "source": "skóra snu",
+        "target": "granica między rzeczywistością a snem",
+        "example": "Skóry snu nie przecieka gwiazda"
+      }
+    ],
+    "temperature": {
+      "value": 0.6,
+      "label": "ciepłe - erotyczne napięcie w chłodnej wizji nocnej"
+    },
+    "senses": {
+      "wzrok": 5,
+      "sluch": 0,
+      "dotyk": 3,
+      "smak": 0,
+      "zapach": 0
+    },
+    "autodestruction": {
+      "level": 0.3,
+      "signals": [
+        "obsesyjne śnienie o nieosiągalnej kobiecie",
+        "rozbicie wizji poetyckiej"
+      ]
+    }
+  }
+}

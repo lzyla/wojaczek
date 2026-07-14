@@ -1,0 +1,846 @@
+{
+  "id": "trzeba-bylo-rozstrzelac-poete",
+  "title": "Trzeba było rozstrzelać poetę",
+  "wordCount": 92,
+  "lineCount": 15,
+  "uniqueWords": 70,
+  "vocabularyRichness": 0.761,
+  "avgWordsPerLine": 6.13,
+  "wordsPerLineDistribution": [
+    9,
+    9,
+    4,
+    3,
+    6,
+    8,
+    10,
+    4,
+    2,
+    6,
+    8,
+    9,
+    4,
+    3,
+    7
+  ],
+  "wordFrequencies": [
+    [
+      "czasem",
+      3
+    ],
+    [
+      "pamiętam",
+      2
+    ],
+    [
+      "poemat",
+      2
+    ],
+    [
+      "patrzę",
+      1
+    ],
+    [
+      "ziemię",
+      1
+    ],
+    [
+      "widzę",
+      1
+    ],
+    [
+      "planety",
+      1
+    ],
+    [
+      "cóż",
+      1
+    ],
+    [
+      "słowo",
+      1
+    ],
+    [
+      "ziemia",
+      1
+    ],
+    [
+      "choćby",
+      1
+    ],
+    [
+      "były",
+      1
+    ],
+    [
+      "słowa",
+      1
+    ],
+    [
+      "język",
+      1
+    ],
+    [
+      "poematu",
+      1
+    ],
+    [
+      "osobą",
+      1
+    ],
+    [
+      "wydaje",
+      1
+    ],
+    [
+      "zdaje",
+      1
+    ],
+    [
+      "murzynem",
+      1
+    ],
+    [
+      "czarnym",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 7,
+    "period": 4,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 1,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 4,
+  "negationWords": [
+    "nie"
+  ],
+  "pronounDistribution": {
+    "ja": 3,
+    "ty": 0,
+    "on_ona": 1,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 1,
+    "smierc": 0,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [
+    [
+      "poemat",
+      2
+    ]
+  ],
+  "firstWord": "patrzę",
+  "lastWord": "wina",
+  "avgWordLength": 4.92,
+  "wordLengthDistribution": {
+    "6-7": 21,
+    "1-3": 26,
+    "4-5": 33,
+    "8-9": 9,
+    "10+": 3
+  },
+  "bigrams": [
+    [
+      "patrzę czasem",
+      1
+    ],
+    [
+      "widzę planety",
+      1
+    ],
+    [
+      "planety cóż",
+      1
+    ],
+    [
+      "słowo ziemia",
+      1
+    ]
+  ],
+  "poemWords": [
+    "patrzę",
+    "czasem",
+    "ziemię",
+    "widzę",
+    "planety",
+    "cóż",
+    "słowo",
+    "ziemia",
+    "pamiętam",
+    "choćby",
+    "były",
+    "słowa",
+    "język",
+    "poematu",
+    "poemat",
+    "osobą",
+    "wydaje",
+    "zdaje",
+    "murzynem",
+    "czarnym",
+    "białym",
+    "drgająca",
+    "brzuchem",
+    "białoczerwona",
+    "różdżka",
+    "pilnie",
+    "prowadzi",
+    "śladem",
+    "chciałbym",
+    "schować",
+    "najmniejszej",
+    "szpary",
+    "obłoku",
+    "murzyna",
+    "jaszczurką",
+    "biskupem",
+    "wina"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 22,
+        "VERB": 13,
+        "ADJ": 7,
+        "ADV": 2,
+        "PRON": 7,
+        "ADP": 3,
+        "CCONJ": 6,
+        "SCONJ": 7,
+        "INTJ": 0,
+        "PART": 10,
+        "DET": 4,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.239,
+        "VERB": 0.141,
+        "ADJ": 0.076,
+        "ADV": 0.022,
+        "PRON": 0.076,
+        "ADP": 0.033,
+        "CCONJ": 0.065,
+        "SCONJ": 0.076,
+        "INTJ": 0,
+        "PART": 0.109,
+        "DET": 0.043,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 3,
+        "abstract": 4,
+        "ratio": 0.43
+      },
+      "verbTenses": {
+        "present": 19,
+        "past": 2,
+        "infinitive": 1
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 1,
+        "stan": 8,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 2,
+        "oceniajace": 0,
+        "opisowe": 5
+      },
+      "adverbs": {
+        "temporalne": [],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "tak",
+            "count": 1
+          },
+          {
+            "word": "pilnie",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 1,
+        "ty": 0,
+        "on_ona": 1,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 4,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 4,
+        "percentSentences": 0.4
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 187,
+        "consonants": 266,
+        "ratio": 0.7
+      },
+      "consonantClusters": {
+        "count": 12,
+        "top": [
+          {
+            "cluster": "trz",
+            "count": 1
+          },
+          {
+            "cluster": "wsz",
+            "count": 1
+          },
+          {
+            "cluster": "stk",
+            "count": 1
+          },
+          {
+            "cluster": "drg",
+            "count": 1
+          },
+          {
+            "cluster": "brz",
+            "count": 1
+          },
+          {
+            "cluster": "żdżk",
+            "count": 1
+          },
+          {
+            "cluster": "chc",
+            "count": 1
+          },
+          {
+            "cluster": "sch",
+            "count": 1
+          },
+          {
+            "cluster": "jmn",
+            "count": 1
+          },
+          {
+            "cluster": "jsz",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 29,
+        "syczace": 39,
+        "nosowe": 67,
+        "plynne": 28
+      },
+      "rhymes": {
+        "exact": 1,
+        "approximate": 2,
+        "internal": 0,
+        "assonance": 0,
+        "alliteration": 1
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 9.2,
+        "median": 9,
+        "min": 4,
+        "max": 18,
+        "distribution": [
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          1,
+          1,
+          3,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 6.1,
+        "meanSyllables": 12.5,
+        "distribution": [
+          0,
+          0,
+          1,
+          2,
+          3,
+          0,
+          2,
+          1,
+          2,
+          3,
+          1
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 10,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 1,
+        "noSubject": 2,
+        "noPredicate": 0,
+        "percent": 0.3
+      },
+      "enjambement": {
+        "count": 0,
+        "percent": 0,
+        "positions": []
+      },
+      "wordOrder": {
+        "svo": 3,
+        "inversions": 3,
+        "other": 4,
+        "deviationPercent": 0.7
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 1,
+        "śmierć": 0,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 187,
+      "estimatedSeconds": 62,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 22,
+      "VERB": 13,
+      "ADJ": 7,
+      "ADV": 2,
+      "PRON": 7,
+      "ADP": 3,
+      "CCONJ": 6,
+      "SCONJ": 7,
+      "INTJ": 0,
+      "PART": 10,
+      "DET": 4,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.239,
+      "VERB": 0.141,
+      "ADJ": 0.076,
+      "ADV": 0.022,
+      "PRON": 0.076,
+      "ADP": 0.033,
+      "CCONJ": 0.065,
+      "SCONJ": 0.076,
+      "INTJ": 0,
+      "PART": 0.109,
+      "DET": 0.043,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 3,
+      "abstract": 4,
+      "ratio": 0.43
+    },
+    "verbTenses": {
+      "present": 19,
+      "past": 2,
+      "infinitive": 1
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 1,
+      "stan": 8,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 2,
+      "oceniajace": 0,
+      "opisowe": 5
+    },
+    "adverbs": {
+      "temporalne": [],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "tak",
+          "count": 1
+        },
+        {
+          "word": "pilnie",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 1,
+      "ty": 0,
+      "on_ona": 1,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 4,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 4,
+      "percentSentences": 0.4
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 9.2,
+      "median": 9,
+      "min": 4,
+      "max": 18,
+      "distribution": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        1,
+        1,
+        1,
+        3,
+        1,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 6.1,
+      "meanSyllables": 12.5,
+      "distribution": [
+        0,
+        0,
+        1,
+        2,
+        3,
+        0,
+        2,
+        1,
+        2,
+        3,
+        1
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 10,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 1,
+      "noSubject": 2,
+      "noPredicate": 0,
+      "percent": 0.3
+    },
+    "enjambement": {
+      "count": 0,
+      "percent": 0,
+      "positions": []
+    },
+    "wordOrder": {
+      "svo": 3,
+      "inversions": 3,
+      "other": 4,
+      "deviationPercent": 0.7
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 187,
+      "consonants": 266,
+      "ratio": 0.7
+    },
+    "consonantClusters": {
+      "count": 12,
+      "top": [
+        {
+          "cluster": "trz",
+          "count": 1
+        },
+        {
+          "cluster": "wsz",
+          "count": 1
+        },
+        {
+          "cluster": "stk",
+          "count": 1
+        },
+        {
+          "cluster": "drg",
+          "count": 1
+        },
+        {
+          "cluster": "brz",
+          "count": 1
+        },
+        {
+          "cluster": "żdżk",
+          "count": 1
+        },
+        {
+          "cluster": "chc",
+          "count": 1
+        },
+        {
+          "cluster": "sch",
+          "count": 1
+        },
+        {
+          "cluster": "jmn",
+          "count": 1
+        },
+        {
+          "cluster": "jsz",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 29,
+      "syczace": 39,
+      "nosowe": 67,
+      "plynne": 28
+    },
+    "rhymes": {
+      "exact": 1,
+      "approximate": 2,
+      "internal": 0,
+      "assonance": 0,
+      "alliteration": 1
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        15
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 187,
+      "estimatedSeconds": 62,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "polregularny",
+      "regularityScore": 0.62
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "inne",
+          "reference": "koncepcja poezji jako żywej istoty",
+          "evidence": "Poemat jest osobą, tak mi się czasem wydaje"
+        },
+        {
+          "source": "inne",
+          "reference": "tradycja metapoetycka",
+          "evidence": "Wiem, że inny jest język poematu"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.7,
+        "baudelaire": 0.3,
+        "bursa": 0.6,
+        "stachura": 0.4,
+        "grochowiak": 0.2,
+        "bialoszewski": 0.5,
+        "rozewicz": 0.8
+      }
+    },
+    "space": {
+      "type": "otwarta",
+      "evidence": "Patrzę czasem na Ziemię",
+      "openClosedRatio": 0.8
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "nieokreslona",
+      "evidence": "brak wyraźnych wskaźników czasowych"
+    },
+    "motion": {
+      "movement": 6,
+      "stillness": 4,
+      "dynamism": 0.6,
+      "evidence": "drgająca pod brzuchem różdżka, prowadzi go za moim śladem"
+    },
+    "imageryDensity": {
+      "metaphors": 4,
+      "comparisons": 2,
+      "personifications": 3,
+      "hyperboles": 1,
+      "per100words": 12.5
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.8,
+      "creationLevel": 0.9,
+      "ironicDistance": 0.3,
+      "autobiographicSignals": [
+        "moja wina",
+        "za moim śladem",
+        "chciałbym się schować"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "melancholia",
+      "secondary": "tęsknota",
+      "intensity": 0.7
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "Patrzę czasem na Ziemię"
+    },
+    "addressee": {
+      "type": "siebie",
+      "evidence": "tak mi się czasem wydaje"
+    },
+    "metaphors": [
+      {
+        "source": "poemat",
+        "target": "osoba",
+        "example": "Poemat jest osobą"
+      },
+      {
+        "source": "poemat",
+        "target": "Murzyn",
+        "example": "jest Murzynem choć nie wiem: czarnym czy białym"
+      },
+      {
+        "source": "różdżka",
+        "target": "przewodnik",
+        "example": "Białoczerwona różdżka / Pilnie prowadzi go za moim śladem"
+      },
+      {
+        "source": "poemat",
+        "target": "jaszczurka/biskup",
+        "example": "jeśli jaszczurką / Jest lub biskupem"
+      }
+    ],
+    "temperature": {
+      "value": 0.4,
+      "label": "chłodna kontemplacja z nutą niepokoju"
+    },
+    "senses": {
+      "wzrok": 4,
+      "sluch": 0,
+      "dotyk": 2,
+      "smak": 0,
+      "zapach": 0
+    },
+    "autodestruction": {
+      "level": 0.5,
+      "signals": [
+        "chciałbym się schować",
+        "też jest moja wina"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 1.113,
+    "dfaAlpha": 1.701,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -0.4155664617669243
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": 0.20026404419660845
+      },
+      {
+        "logWin": 1.6094379124341003,
+        "logFluc": 0.4423268776775168
+      }
+    ],
+    "seriesLength": 15,
+    "series": [
+      9,
+      9,
+      4,
+      3,
+      6,
+      8,
+      10,
+      4,
+      2,
+      6,
+      8,
+      9,
+      4,
+      3,
+      7
+    ]
+  }
+}

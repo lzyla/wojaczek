@@ -1,0 +1,770 @@
+{
+  "id": "ranny-wiersz",
+  "title": "Ranny wiersz",
+  "wordCount": 45,
+  "lineCount": 8,
+  "uniqueWords": 40,
+  "vocabularyRichness": 0.889,
+  "avgWordsPerLine": 5.63,
+  "wordsPerLineDistribution": [
+    6,
+    5,
+    6,
+    7,
+    8,
+    7,
+    6,
+    0
+  ],
+  "wordFrequencies": [
+    [
+      "odbywając",
+      1
+    ],
+    [
+      "stosunki",
+      1
+    ],
+    [
+      "płciowe",
+      1
+    ],
+    [
+      "miarę",
+      1
+    ],
+    [
+      "regularnie",
+      1
+    ],
+    [
+      "powiedziałbym",
+      1
+    ],
+    [
+      "częściej",
+      1
+    ],
+    [
+      "niźli",
+      1
+    ],
+    [
+      "jakiejś",
+      1
+    ],
+    [
+      "nieustanowionej",
+      1
+    ],
+    [
+      "zresztą",
+      1
+    ],
+    [
+      "regule",
+      1
+    ],
+    [
+      "dodatku",
+      1
+    ],
+    [
+      "ilomaż",
+      1
+    ],
+    [
+      "sposobami",
+      1
+    ],
+    [
+      "robię",
+      1
+    ],
+    [
+      "wspomnienie",
+      1
+    ],
+    [
+      "zarazem",
+      1
+    ],
+    [
+      "zapowiedż",
+      1
+    ],
+    [
+      "ciągle",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 4,
+    "period": 0,
+    "question": 0,
+    "exclamation": 2,
+    "ellipsis": 10,
+    "dash": 0,
+    "colon": 0,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 2,
+  "negationCount": 1,
+  "negationWords": [
+    "nie"
+  ],
+  "pronounDistribution": {
+    "ja": 2,
+    "ty": 1,
+    "on_ona": 0,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 0,
+    "smierc": 0,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [],
+  "firstWord": "odbywając",
+  "lastWord": "numer",
+  "avgWordLength": 5.33,
+  "wordLengthDistribution": {
+    "8-9": 7,
+    "6-7": 10,
+    "1-3": 16,
+    "4-5": 8,
+    "10+": 4
+  },
+  "bigrams": [
+    [
+      "odbywając stosunki",
+      1
+    ],
+    [
+      "stosunki płciowe",
+      1
+    ],
+    [
+      "miarę regularnie",
+      1
+    ],
+    [
+      "regularnie powiedziałbym",
+      1
+    ],
+    [
+      "powiedziałbym częściej",
+      1
+    ],
+    [
+      "częściej niźli",
+      1
+    ],
+    [
+      "jakiejś nieustanowionej",
+      1
+    ],
+    [
+      "nieustanowionej zresztą",
+      1
+    ]
+  ],
+  "poemWords": [
+    "odbywając",
+    "stosunki",
+    "płciowe",
+    "miarę",
+    "regularnie",
+    "powiedziałbym",
+    "częściej",
+    "niźli",
+    "jakiejś",
+    "nieustanowionej",
+    "zresztą",
+    "regule",
+    "dodatku",
+    "ilomaż",
+    "sposobami",
+    "robię",
+    "wspomnienie",
+    "zarazem",
+    "zapowiedż",
+    "ciągle",
+    "uszach",
+    "słyszę",
+    "głos",
+    "zobaczysz",
+    "jaki",
+    "odstawię",
+    "numer"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 10,
+        "VERB": 7,
+        "ADJ": 1,
+        "ADV": 4,
+        "PRON": 4,
+        "ADP": 4,
+        "CCONJ": 2,
+        "SCONJ": 4,
+        "INTJ": 0,
+        "PART": 4,
+        "DET": 3,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.222,
+        "VERB": 0.156,
+        "ADJ": 0.022,
+        "ADV": 0.089,
+        "PRON": 0.089,
+        "ADP": 0.089,
+        "CCONJ": 0.044,
+        "SCONJ": 0.089,
+        "INTJ": 0,
+        "PART": 0.089,
+        "DET": 0.067,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 0,
+        "abstract": 0,
+        "ratio": 0
+      },
+      "verbTenses": {
+        "present": 4,
+        "past": 1,
+        "future": 2
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 1,
+        "stan": 0,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 0,
+        "opisowe": 1
+      },
+      "adverbs": {
+        "temporalne": [
+          "ciągle"
+        ],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "regularnie",
+            "count": 1
+          },
+          {
+            "word": "częściej",
+            "count": 1
+          },
+          {
+            "word": "gdy",
+            "count": 1
+          },
+          {
+            "word": "ciągle",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 2,
+        "ty": 1,
+        "on_ona": 0,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 1,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 1,
+        "percentSentences": 0.33
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 106,
+        "consonants": 134,
+        "ratio": 0.79
+      },
+      "consonantClusters": {
+        "count": 4,
+        "top": [
+          {
+            "cluster": "płc",
+            "count": 1
+          },
+          {
+            "cluster": "szt",
+            "count": 1
+          },
+          {
+            "cluster": "wsp",
+            "count": 1
+          },
+          {
+            "cluster": "dst",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 11,
+        "syczace": 23,
+        "nosowe": 27,
+        "plynne": 17
+      },
+      "rhymes": {
+        "exact": 0,
+        "approximate": 0,
+        "internal": 1,
+        "assonance": 1,
+        "alliteration": 0
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 15,
+        "median": 18,
+        "min": 6,
+        "max": 21,
+        "distribution": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 5.8,
+        "meanSyllables": 13.9,
+        "distribution": [
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          3,
+          2,
+          1
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 2,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 1
+      },
+      "ellipsis": {
+        "incomplete": 0,
+        "noSubject": 1,
+        "noPredicate": 0,
+        "percent": 0.33
+      },
+      "enjambement": {
+        "count": 0,
+        "percent": 0,
+        "positions": []
+      },
+      "wordOrder": {
+        "svo": 1,
+        "inversions": 1,
+        "other": 1,
+        "deviationPercent": 0.67
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 0,
+        "śmierć": 0,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 111,
+      "estimatedSeconds": 37,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 10,
+      "VERB": 7,
+      "ADJ": 1,
+      "ADV": 4,
+      "PRON": 4,
+      "ADP": 4,
+      "CCONJ": 2,
+      "SCONJ": 4,
+      "INTJ": 0,
+      "PART": 4,
+      "DET": 3,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.222,
+      "VERB": 0.156,
+      "ADJ": 0.022,
+      "ADV": 0.089,
+      "PRON": 0.089,
+      "ADP": 0.089,
+      "CCONJ": 0.044,
+      "SCONJ": 0.089,
+      "INTJ": 0,
+      "PART": 0.089,
+      "DET": 0.067,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 0,
+      "abstract": 0,
+      "ratio": 0
+    },
+    "verbTenses": {
+      "present": 4,
+      "past": 1,
+      "future": 2
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 1,
+      "stan": 0,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 0,
+      "opisowe": 1
+    },
+    "adverbs": {
+      "temporalne": [
+        "ciągle"
+      ],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "regularnie",
+          "count": 1
+        },
+        {
+          "word": "częściej",
+          "count": 1
+        },
+        {
+          "word": "gdy",
+          "count": 1
+        },
+        {
+          "word": "ciągle",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 2,
+      "ty": 1,
+      "on_ona": 0,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 1,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 1,
+      "percentSentences": 0.33
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 15,
+      "median": 18,
+      "min": 6,
+      "max": 21,
+      "distribution": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 5.8,
+      "meanSyllables": 13.9,
+      "distribution": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        3,
+        2,
+        1
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 2,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 1
+    },
+    "ellipsis": {
+      "incomplete": 0,
+      "noSubject": 1,
+      "noPredicate": 0,
+      "percent": 0.33
+    },
+    "enjambement": {
+      "count": 0,
+      "percent": 0,
+      "positions": []
+    },
+    "wordOrder": {
+      "svo": 1,
+      "inversions": 1,
+      "other": 1,
+      "deviationPercent": 0.67
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 106,
+      "consonants": 134,
+      "ratio": 0.79
+    },
+    "consonantClusters": {
+      "count": 4,
+      "top": [
+        {
+          "cluster": "płc",
+          "count": 1
+        },
+        {
+          "cluster": "szt",
+          "count": 1
+        },
+        {
+          "cluster": "wsp",
+          "count": 1
+        },
+        {
+          "cluster": "dst",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 11,
+      "syczace": 23,
+      "nosowe": 27,
+      "plynne": 17
+    },
+    "rhymes": {
+      "exact": 0,
+      "approximate": 0,
+      "internal": 1,
+      "assonance": 1,
+      "alliteration": 0
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        8
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 111,
+      "estimatedSeconds": 37,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "polregularny",
+      "regularityScore": 0.6
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.3,
+        "baudelaire": 0.2,
+        "bursa": 0.7,
+        "stachura": 0.4,
+        "grochowiak": 0.8,
+        "bialoszewski": 0.6,
+        "rozewicz": 0.5
+      }
+    },
+    "space": {
+      "type": "nieokreslona",
+      "evidence": "brak konkretnych odniesień przestrzennych, fokus na doświadczeniu wewnętrznym",
+      "openClosedRatio": 0.3
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "nieokreslona",
+      "evidence": "czas ma charakter psychologiczny - wspomnienie i zapowiedź, nie fizyczny"
+    },
+    "motion": {
+      "movement": 6,
+      "stillness": 4,
+      "dynamism": 0.6,
+      "evidence": "ruch seksualny, ale też statyczność wspomnień i oczekiwań"
+    },
+    "imageryDensity": {
+      "metaphors": 1,
+      "comparisons": 0,
+      "personifications": 1,
+      "hyperboles": 0,
+      "per100words": 3.4
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.9,
+      "creationLevel": 0.3,
+      "ironicDistance": 0.2,
+      "autobiographicSignals": [
+        "pierwsza osoba",
+        "szczegóły intymne",
+        "ton wyznania",
+        "bezpośredniość wypowiedzi"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "ironia",
+      "secondary": "obrzydzenie",
+      "intensity": 0.7
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "Podmiot liryczny mówi wprost o sobie: 'Powiedziałbym', 'ja wiem', 'to robię', 'w uszach słyszę'"
+    },
+    "addressee": {
+      "type": "czytelnik",
+      "evidence": "Ton zwierzeniowy, jakby opowiadanie komuś o swoich doświadczeniach, brak bezpośrednich zwrotów"
+    },
+    "metaphors": [
+      {
+        "source": "seks",
+        "target": "numer/przedstawienie",
+        "example": "jaki ja ci odstawię numer"
+      }
+    ],
+    "temperature": {
+      "value": 0.3,
+      "label": "chłodne"
+    },
+    "senses": {
+      "wzrok": 1,
+      "sluch": 4,
+      "dotyk": 3,
+      "smak": 0,
+      "zapach": 0
+    },
+    "autodestruction": {
+      "level": 0.4,
+      "signals": [
+        "cyniczne traktowanie intymności",
+        "redukcja seksu do mechanicznej czynności",
+        "ironiczny dystans do własnych potrzeb"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": null,
+    "dfaAlpha": null,
+    "dfaScaling": [],
+    "seriesLength": 8,
+    "series": [
+      6,
+      5,
+      6,
+      7,
+      8,
+      7,
+      6,
+      0
+    ]
+  }
+}

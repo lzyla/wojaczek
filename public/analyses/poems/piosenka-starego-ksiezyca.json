@@ -1,0 +1,811 @@
+{
+  "id": "piosenka-starego-ksiezyca",
+  "title": "Piosenka starego księżyca",
+  "wordCount": 86,
+  "lineCount": 14,
+  "uniqueWords": 59,
+  "vocabularyRichness": 0.686,
+  "avgWordsPerLine": 6.14,
+  "wordsPerLineDistribution": [
+    7,
+    7,
+    6,
+    7,
+    5,
+    6,
+    8,
+    3,
+    7,
+    6,
+    7,
+    7,
+    5,
+    5
+  ],
+  "wordFrequencies": [
+    [
+      "stary",
+      6
+    ],
+    [
+      "księżyc",
+      6
+    ],
+    [
+      "znam",
+      2
+    ],
+    [
+      "młode",
+      2
+    ],
+    [
+      "dziewczęta",
+      2
+    ],
+    [
+      "starsze",
+      2
+    ],
+    [
+      "ode",
+      2
+    ],
+    [
+      "ojca",
+      1
+    ],
+    [
+      "matki",
+      1
+    ],
+    [
+      "zawsze",
+      1
+    ],
+    [
+      "byłem",
+      1
+    ],
+    [
+      "jaskiniowy",
+      1
+    ],
+    [
+      "egipski",
+      1
+    ],
+    [
+      "gotycki",
+      1
+    ],
+    [
+      "polski",
+      1
+    ],
+    [
+      "twym",
+      1
+    ],
+    [
+      "koszmarem",
+      1
+    ],
+    [
+      "chodzę",
+      1
+    ],
+    [
+      "dachu",
+      1
+    ],
+    [
+      "mieszkam",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 0,
+    "period": 0,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 0,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 4,
+  "negationWords": [
+    "nie",
+    "nigdy"
+  ],
+  "pronounDistribution": {
+    "ja": 7,
+    "ty": 3,
+    "on_ona": 0,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 0,
+    "smierc": 1,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 6,
+    "bol": 0
+  },
+  "anaphors": [
+    [
+      "ja",
+      5
+    ],
+    [
+      "tylko",
+      2
+    ]
+  ],
+  "firstWord": "ja",
+  "lastWord": "alkohol",
+  "avgWordLength": 5.21,
+  "wordLengthDistribution": {
+    "1-3": 20,
+    "4-5": 32,
+    "6-7": 23,
+    "10+": 7,
+    "8-9": 4
+  },
+  "bigrams": [
+    [
+      "stary księżyc",
+      5
+    ],
+    [
+      "młode dziewczęta",
+      2
+    ],
+    [
+      "dziewczęta starsze",
+      2
+    ],
+    [
+      "znam swego",
+      1
+    ],
+    [
+      "swego ojca",
+      1
+    ],
+    [
+      "znam swojej",
+      1
+    ],
+    [
+      "swojej matki",
+      1
+    ]
+  ],
+  "poemWords": [
+    "stary",
+    "księżyc",
+    "znam",
+    "ojca",
+    "matki",
+    "zawsze",
+    "byłem",
+    "młode",
+    "dziewczęta",
+    "starsze",
+    "ode",
+    "jaskiniowy",
+    "egipski",
+    "gotycki",
+    "polski",
+    "twym",
+    "koszmarem",
+    "chodzę",
+    "dachu",
+    "mieszkam",
+    "krwi",
+    "oświetlam",
+    "sny",
+    "lunatykiem",
+    "mickiewicz",
+    "kobietą",
+    "byłaś",
+    "młoda",
+    "zrobisz",
+    "śmierć",
+    "przecinkiem",
+    "zdaniu",
+    "twego",
+    "losu",
+    "niezawodny",
+    "żałobnik",
+    "stypie",
+    "podają",
+    "alkohol"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 24,
+        "VERB": 7,
+        "ADJ": 18,
+        "ADV": 3,
+        "PRON": 8,
+        "ADP": 6,
+        "CCONJ": 1,
+        "SCONJ": 1,
+        "INTJ": 0,
+        "PART": 5,
+        "DET": 7,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.267,
+        "VERB": 0.078,
+        "ADJ": 0.2,
+        "ADV": 0.033,
+        "PRON": 0.089,
+        "ADP": 0.067,
+        "CCONJ": 0.011,
+        "SCONJ": 0.011,
+        "INTJ": 0,
+        "PART": 0.056,
+        "DET": 0.078,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 1,
+        "abstract": 2,
+        "ratio": 0.33
+      },
+      "verbTenses": {
+        "present": 12,
+        "past": 2,
+        "future": 1
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 7,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 0,
+        "opisowe": 18
+      },
+      "adverbs": {
+        "temporalne": [
+          "nigdy",
+          "zawsze"
+        ],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "zawsze",
+            "count": 1
+          },
+          {
+            "word": "nigdy",
+            "count": 1
+          },
+          {
+            "word": "gdy",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 7,
+        "ty": 0,
+        "on_ona": 0,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 3,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 1,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 4,
+        "percentSentences": 0.31
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 195,
+        "consonants": 276,
+        "ratio": 0.71
+      },
+      "consonantClusters": {
+        "count": 11,
+        "top": [
+          {
+            "cluster": "wcz",
+            "count": 2
+          },
+          {
+            "cluster": "rsz",
+            "count": 2
+          },
+          {
+            "cluster": "wsz",
+            "count": 1
+          },
+          {
+            "cluster": "psk",
+            "count": 1
+          },
+          {
+            "cluster": "lsk",
+            "count": 1
+          },
+          {
+            "cluster": "szm",
+            "count": 1
+          },
+          {
+            "cluster": "szk",
+            "count": 1
+          },
+          {
+            "cluster": "krw",
+            "count": 1
+          },
+          {
+            "cluster": "prz",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 18,
+        "syczace": 56,
+        "nosowe": 54,
+        "plynne": 28
+      },
+      "rhymes": {
+        "exact": 0,
+        "approximate": 2,
+        "internal": 3,
+        "assonance": 0,
+        "alliteration": 3
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 6.9,
+        "median": 7,
+        "min": 3,
+        "max": 16,
+        "distribution": [
+          0,
+          0,
+          0,
+          1,
+          0,
+          2,
+          3,
+          5,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 5.6,
+        "meanSyllables": 12.4,
+        "distribution": [
+          0,
+          1,
+          0,
+          2,
+          0,
+          3,
+          3,
+          6,
+          1
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 13,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 3,
+        "noSubject": 4,
+        "noPredicate": 0,
+        "percent": 0.54
+      },
+      "enjambement": {
+        "count": 1,
+        "percent": 0.07,
+        "positions": [
+          14
+        ]
+      },
+      "wordOrder": {
+        "svo": 2,
+        "inversions": 1,
+        "other": 10,
+        "deviationPercent": 0.85
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 0,
+        "śmierć": 1,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 6,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 198,
+      "estimatedSeconds": 66,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 24,
+      "VERB": 7,
+      "ADJ": 18,
+      "ADV": 3,
+      "PRON": 8,
+      "ADP": 6,
+      "CCONJ": 1,
+      "SCONJ": 1,
+      "INTJ": 0,
+      "PART": 5,
+      "DET": 7,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.267,
+      "VERB": 0.078,
+      "ADJ": 0.2,
+      "ADV": 0.033,
+      "PRON": 0.089,
+      "ADP": 0.067,
+      "CCONJ": 0.011,
+      "SCONJ": 0.011,
+      "INTJ": 0,
+      "PART": 0.056,
+      "DET": 0.078,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 1,
+      "abstract": 2,
+      "ratio": 0.33
+    },
+    "verbTenses": {
+      "present": 12,
+      "past": 2,
+      "future": 1
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 7,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 0,
+      "opisowe": 18
+    },
+    "adverbs": {
+      "temporalne": [
+        "nigdy",
+        "zawsze"
+      ],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "zawsze",
+          "count": 1
+        },
+        {
+          "word": "nigdy",
+          "count": 1
+        },
+        {
+          "word": "gdy",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 7,
+      "ty": 0,
+      "on_ona": 0,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 3,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 1,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 4,
+      "percentSentences": 0.31
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 6.9,
+      "median": 7,
+      "min": 3,
+      "max": 16,
+      "distribution": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        2,
+        3,
+        5,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 5.6,
+      "meanSyllables": 12.4,
+      "distribution": [
+        0,
+        1,
+        0,
+        2,
+        0,
+        3,
+        3,
+        6,
+        1
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 13,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 3,
+      "noSubject": 4,
+      "noPredicate": 0,
+      "percent": 0.54
+    },
+    "enjambement": {
+      "count": 1,
+      "percent": 0.07,
+      "positions": [
+        14
+      ]
+    },
+    "wordOrder": {
+      "svo": 2,
+      "inversions": 1,
+      "other": 10,
+      "deviationPercent": 0.85
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 195,
+      "consonants": 276,
+      "ratio": 0.71
+    },
+    "consonantClusters": {
+      "count": 11,
+      "top": [
+        {
+          "cluster": "wcz",
+          "count": 2
+        },
+        {
+          "cluster": "rsz",
+          "count": 2
+        },
+        {
+          "cluster": "wsz",
+          "count": 1
+        },
+        {
+          "cluster": "psk",
+          "count": 1
+        },
+        {
+          "cluster": "lsk",
+          "count": 1
+        },
+        {
+          "cluster": "szm",
+          "count": 1
+        },
+        {
+          "cluster": "szk",
+          "count": 1
+        },
+        {
+          "cluster": "krw",
+          "count": 1
+        },
+        {
+          "cluster": "prz",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 18,
+      "syczace": 56,
+      "nosowe": 54,
+      "plynne": 28
+    },
+    "rhymes": {
+      "exact": 0,
+      "approximate": 2,
+      "internal": 3,
+      "assonance": 0,
+      "alliteration": 3
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        16
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 198,
+      "estimatedSeconds": 66,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "polregularny",
+      "regularityScore": 0.69
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Mickiewicz",
+          "reference": "Mickiewicz jest kobietą",
+          "evidence": "bezpośrednie odniesienie do Mickiewicza w kontekście księżyca i lunatyzmu"
+        },
+        {
+          "source": "mitologia",
+          "reference": "archetyp księżyca",
+          "evidence": "personifikacja księżyca jako starożytnego bóstwa"
+        },
+        {
+          "source": "Biblia",
+          "reference": "motyw sieroctwa kosmicznego",
+          "evidence": "nie znam swego ojca / nie znam swojej matki - echo biblijnych genealogii"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.7,
+        "baudelaire": 0.6,
+        "bursa": 0.3,
+        "stachura": 0.4,
+        "grochowiak": 0.5,
+        "bialoszewski": 0.2,
+        "rozewicz": 0.3
+      }
+    },
+    "space": {
+      "type": "otwarta",
+      "evidence": "chodzę po Twoim dachu, mieszkam w Twojej krwi - przestrzeń kosmiczna i intymna jednocześnie",
+      "openClosedRatio": 0.8
+    },
+    "timeOfDay": {
+      "period": "noc",
+      "season": "nieokreslona",
+      "evidence": "księżyc, oświetlam Twoje sny - dominacja nocnego czasu"
+    },
+    "motion": {
+      "movement": 7,
+      "stillness": 3,
+      "dynamism": 0.7,
+      "evidence": "chodzę po Twoim dachu, mieszkam w Twojej krwi - dynamika ruchu i penetracji"
+    },
+    "imageryDensity": {
+      "metaphors": 6,
+      "comparisons": 2,
+      "personifications": 8,
+      "hyperboles": 3,
+      "per100words": 19
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.8,
+      "creationLevel": 0.9,
+      "ironicDistance": 0.4,
+      "autobiographicSignals": [
+        "ja stary księżyc",
+        "jestem Twym koszmarem",
+        "niezawodny żałobnik"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 0.693,
+    "dfaAlpha": 1.388,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -1.0397207708399177
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -0.6402750441066114
+      }
+    ],
+    "seriesLength": 14,
+    "series": [
+      7,
+      7,
+      6,
+      7,
+      5,
+      6,
+      8,
+      3,
+      7,
+      6,
+      7,
+      7,
+      5,
+      5
+    ]
+  }
+}

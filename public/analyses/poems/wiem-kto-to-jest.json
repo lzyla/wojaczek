@@ -1,0 +1,736 @@
+{
+  "id": "wiem-kto-to-jest",
+  "title": "Wiem kto to jest",
+  "wordCount": 34,
+  "lineCount": 11,
+  "uniqueWords": 31,
+  "vocabularyRichness": 0.912,
+  "avgWordsPerLine": 3.09,
+  "wordsPerLineDistribution": [
+    4,
+    3,
+    4,
+    3,
+    4,
+    1,
+    2,
+    3,
+    3,
+    3,
+    4
+  ],
+  "wordFrequencies": [
+    [
+      "wzruszenia",
+      1
+    ],
+    [
+      "patrzę",
+      1
+    ],
+    [
+      "oglądam",
+      1
+    ],
+    [
+      "wiedza",
+      1
+    ],
+    [
+      "oschła",
+      1
+    ],
+    [
+      "wisimy",
+      1
+    ],
+    [
+      "obaj",
+      1
+    ],
+    [
+      "jednej",
+      1
+    ],
+    [
+      "belce",
+      1
+    ],
+    [
+      "zaciągniętym",
+      1
+    ],
+    [
+      "niebem",
+      1
+    ],
+    [
+      "strażnik",
+      1
+    ],
+    [
+      "zaświadczyć",
+      1
+    ],
+    [
+      "nami",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 0,
+    "period": 0,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 0,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 3,
+  "negationWords": [
+    "bez",
+    "nic",
+    "nie"
+  ],
+  "pronounDistribution": {
+    "ja": 0,
+    "ty": 0,
+    "on_ona": 1,
+    "my": 1,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 0,
+    "smierc": 0,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [
+    [
+      "ale",
+      2
+    ]
+  ],
+  "firstWord": "wiem",
+  "lastWord": "nic",
+  "avgWordLength": 4.88,
+  "wordLengthDistribution": {
+    "4-5": 10,
+    "1-3": 12,
+    "10+": 3,
+    "6-7": 8,
+    "8-9": 1
+  },
+  "bigrams": [
+    [
+      "wiem kto",
+      1
+    ],
+    [
+      "bez wzruszenia",
+      1
+    ]
+  ],
+  "poemWords": [
+    "wzruszenia",
+    "patrzę",
+    "oglądam",
+    "wiedza",
+    "oschła",
+    "wisimy",
+    "obaj",
+    "jednej",
+    "belce",
+    "zaciągniętym",
+    "niebem",
+    "strażnik",
+    "zaświadczyć",
+    "między",
+    "nami",
+    "nic"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 5,
+        "VERB": 6,
+        "ADJ": 4,
+        "ADV": 1,
+        "PRON": 6,
+        "ADP": 5,
+        "CCONJ": 2,
+        "SCONJ": 0,
+        "INTJ": 0,
+        "PART": 3,
+        "DET": 0,
+        "NUM": 1
+      },
+      "posPercent": {
+        "NOUN": 0.132,
+        "VERB": 0.158,
+        "ADJ": 0.105,
+        "ADV": 0.026,
+        "PRON": 0.158,
+        "ADP": 0.132,
+        "CCONJ": 0.053,
+        "SCONJ": 0,
+        "INTJ": 0,
+        "PART": 0.079,
+        "DET": 0,
+        "NUM": 0.026
+      },
+      "nounConcreteAbstract": {
+        "concrete": 0,
+        "abstract": 0,
+        "ratio": 0
+      },
+      "verbTenses": {
+        "present": 9,
+        "future": 1,
+        "infinitive": 1
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 1,
+        "stan": 2,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 0,
+        "opisowe": 4
+      },
+      "adverbs": {
+        "temporalne": [
+          "teraz"
+        ],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "teraz",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 0,
+        "ty": 0,
+        "on_ona": 2,
+        "my": 1,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 1,
+        "nic": 1,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 2,
+        "percentSentences": 0.5
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 76,
+        "consonants": 103,
+        "ratio": 0.74
+      },
+      "consonantClusters": {
+        "count": 5,
+        "top": [
+          {
+            "cluster": "wzr",
+            "count": 1
+          },
+          {
+            "cluster": "trz",
+            "count": 1
+          },
+          {
+            "cluster": "schł",
+            "count": 1
+          },
+          {
+            "cluster": "str",
+            "count": 1
+          },
+          {
+            "cluster": "dcz",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 6,
+        "syczace": 17,
+        "nosowe": 25,
+        "plynne": 10
+      },
+      "rhymes": {
+        "exact": 1,
+        "approximate": 0,
+        "internal": 0,
+        "assonance": 1,
+        "alliteration": 1
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 9.5,
+        "median": 9,
+        "min": 4,
+        "max": 16,
+        "distribution": [
+          0,
+          0,
+          0,
+          0,
+          2,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 3.2,
+        "meanSyllables": 6.3,
+        "distribution": [
+          0,
+          1,
+          1,
+          5,
+          5
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 4,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 0,
+        "noSubject": 2,
+        "noPredicate": 1,
+        "percent": 0.75
+      },
+      "enjambement": {
+        "count": 7,
+        "percent": 0.64,
+        "positions": [
+          2,
+          4,
+          7,
+          8,
+          9,
+          10,
+          11
+        ]
+      },
+      "wordOrder": {
+        "svo": 0,
+        "inversions": 1,
+        "other": 3,
+        "deviationPercent": 1
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 0,
+        "śmierć": 0,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 76,
+      "estimatedSeconds": 25,
+      "tempoCategory": "umiarkowane"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 5,
+      "VERB": 6,
+      "ADJ": 4,
+      "ADV": 1,
+      "PRON": 6,
+      "ADP": 5,
+      "CCONJ": 2,
+      "SCONJ": 0,
+      "INTJ": 0,
+      "PART": 3,
+      "DET": 0,
+      "NUM": 1
+    },
+    "posPercent": {
+      "NOUN": 0.132,
+      "VERB": 0.158,
+      "ADJ": 0.105,
+      "ADV": 0.026,
+      "PRON": 0.158,
+      "ADP": 0.132,
+      "CCONJ": 0.053,
+      "SCONJ": 0,
+      "INTJ": 0,
+      "PART": 0.079,
+      "DET": 0,
+      "NUM": 0.026
+    },
+    "nounConcreteAbstract": {
+      "concrete": 0,
+      "abstract": 0,
+      "ratio": 0
+    },
+    "verbTenses": {
+      "present": 9,
+      "future": 1,
+      "infinitive": 1
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 1,
+      "stan": 2,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 0,
+      "opisowe": 4
+    },
+    "adverbs": {
+      "temporalne": [
+        "teraz"
+      ],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "teraz",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 0,
+      "ty": 0,
+      "on_ona": 2,
+      "my": 1,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 1,
+      "nic": 1,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 2,
+      "percentSentences": 0.5
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 9.5,
+      "median": 9,
+      "min": 4,
+      "max": 16,
+      "distribution": [
+        0,
+        0,
+        0,
+        0,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 3.2,
+      "meanSyllables": 6.3,
+      "distribution": [
+        0,
+        1,
+        1,
+        5,
+        5
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 4,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 0,
+      "noSubject": 2,
+      "noPredicate": 1,
+      "percent": 0.75
+    },
+    "enjambement": {
+      "count": 7,
+      "percent": 0.64,
+      "positions": [
+        2,
+        4,
+        7,
+        8,
+        9,
+        10,
+        11
+      ]
+    },
+    "wordOrder": {
+      "svo": 0,
+      "inversions": 1,
+      "other": 3,
+      "deviationPercent": 1
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 76,
+      "consonants": 103,
+      "ratio": 0.74
+    },
+    "consonantClusters": {
+      "count": 5,
+      "top": [
+        {
+          "cluster": "wzr",
+          "count": 1
+        },
+        {
+          "cluster": "trz",
+          "count": 1
+        },
+        {
+          "cluster": "schł",
+          "count": 1
+        },
+        {
+          "cluster": "str",
+          "count": 1
+        },
+        {
+          "cluster": "dcz",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 6,
+      "syczace": 17,
+      "nosowe": 25,
+      "plynne": 10
+    },
+    "rhymes": {
+      "exact": 1,
+      "approximate": 0,
+      "internal": 0,
+      "assonance": 1,
+      "alliteration": 1
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        12
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 76,
+      "estimatedSeconds": 25,
+      "tempoCategory": "umiarkowane"
+    },
+    "regularity": {
+      "type": "polregularny",
+      "regularityScore": 0.67
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Biblia",
+          "reference": "motyw wisielca/ukrzyżowania",
+          "evidence": "wisimy obaj / na jednej belce / pod zaciągniętym niebem"
+        },
+        {
+          "source": "Różewicz",
+          "reference": "poetyka prostego zdania i negacji",
+          "evidence": "ale bez wzruszenia / Nie patrzę na niego / między nami jest nic"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.2,
+        "baudelaire": 0.1,
+        "bursa": 0.3,
+        "stachura": 0.4,
+        "grochowiak": 0.2,
+        "bialoszewski": 0.1,
+        "rozewicz": 0.7
+      }
+    },
+    "space": {
+      "type": "zamknieta",
+      "evidence": "pod zaciągniętym niebem - niebo jako ograniczenie, belka jako miejsce zamknięte",
+      "openClosedRatio": 0.2
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "nieokreslona",
+      "evidence": "brak wskazówek temporalnych, dominuje bezczasowość sytuacji egzystencjalnej"
+    },
+    "motion": {
+      "movement": 2,
+      "stillness": 8,
+      "dynamism": 0.2,
+      "evidence": "wisimy - statyczna pozycja, dominuje bezruch śmierci/zawieszenia"
+    },
+    "imageryDensity": {
+      "metaphors": 2,
+      "comparisons": 0,
+      "personifications": 1,
+      "hyperboles": 0,
+      "per100words": 7.3
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.8,
+      "creationLevel": 0.3,
+      "ironicDistance": 0.4,
+      "autobiographicSignals": [
+        "Wiem kto to jest",
+        "Nie patrzę na niego",
+        "wisimy obaj"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "rezygnacja",
+      "secondary": "obrzydzenie",
+      "intensity": 0.8
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "podmiot wyraźnie obecny przez zaimki 'wiem', 'patrzę', 'wisimy'"
+    },
+    "addressee": {
+      "type": "siebie",
+      "evidence": "monolog wewnętrzny, refleksja nad własną sytuacją i relacją z innym"
+    },
+    "metaphors": [
+      {
+        "source": "wisielcy na belce",
+        "target": "ludzie w relacji",
+        "example": "wisimy obaj / na jednej belce"
+      },
+      {
+        "source": "zaciągnięte niebo",
+        "target": "przygniatajaća rzeczywistość",
+        "example": "pod zaciągniętym niebem"
+      },
+      {
+        "source": "oschła wiedza",
+        "target": "emocjonalna pustka",
+        "example": "Już tylko wiedza oschła"
+      }
+    ],
+    "temperature": {
+      "value": 0.1,
+      "label": "lodowato zimne - całkowita rezygnacja i obojętność"
+    },
+    "senses": {
+      "wzrok": 4,
+      "sluch": 0,
+      "dotyk": 1,
+      "smak": 0,
+      "zapach": 0
+    },
+    "autodestruction": {
+      "level": 0.9,
+      "signals": [
+        "wizja wspólnego wieszania",
+        "negacja emocji 'bez wzruszenia'",
+        "redukcja relacji do 'nic'",
+        "fatalistyczne 'wisimy obaj'"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": null,
+    "dfaAlpha": 0.49,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -1.1575038064963015
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -1.016654311717392
+      }
+    ],
+    "seriesLength": 11,
+    "series": [
+      4,
+      3,
+      4,
+      3,
+      4,
+      1,
+      2,
+      3,
+      3,
+      3,
+      4
+    ]
+  }
+}

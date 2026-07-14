@@ -1,0 +1,924 @@
+{
+  "id": "oddanie",
+  "title": "Oddanie",
+  "wordCount": 70,
+  "lineCount": 14,
+  "uniqueWords": 66,
+  "vocabularyRichness": 0.943,
+  "avgWordsPerLine": 5,
+  "wordsPerLineDistribution": [
+    4,
+    5,
+    5,
+    5,
+    6,
+    4,
+    4,
+    5,
+    4,
+    7,
+    4,
+    4,
+    6,
+    7
+  ],
+  "wordFrequencies": [
+    [
+      "dziewictwo",
+      1
+    ],
+    [
+      "długo",
+      1
+    ],
+    [
+      "hodowane",
+      1
+    ],
+    [
+      "skrytej",
+      1
+    ],
+    [
+      "donicy",
+      1
+    ],
+    [
+      "żyznego",
+      1
+    ],
+    [
+      "podbrzusza",
+      1
+    ],
+    [
+      "pilnie",
+      1
+    ],
+    [
+      "strzeżone",
+      1
+    ],
+    [
+      "zmianą",
+      1
+    ],
+    [
+      "klimatu",
+      1
+    ],
+    [
+      "zimą",
+      1
+    ],
+    [
+      "nosiłam",
+      1
+    ],
+    [
+      "zawsze",
+      1
+    ],
+    [
+      "ciepłe",
+      1
+    ],
+    [
+      "majtki",
+      1
+    ],
+    [
+      "piersi",
+      1
+    ],
+    [
+      "szorstką",
+      1
+    ],
+    [
+      "gąbką",
+      1
+    ],
+    [
+      "myte",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 0,
+    "period": 0,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 0,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 1,
+  "negationWords": [
+    "bez"
+  ],
+  "pronounDistribution": {
+    "ja": 4,
+    "ty": 1,
+    "on_ona": 0,
+    "my": 0,
+    "wy": 0,
+    "oni": 1
+  },
+  "semanticFields": {
+    "cialo": 3,
+    "smierc": 0,
+    "erotyka": 1,
+    "alkohol": 1,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [],
+  "firstWord": "moje",
+  "lastWord": "śniegu",
+  "avgWordLength": 5.9,
+  "wordLengthDistribution": {
+    "4-5": 23,
+    "10+": 5,
+    "8-9": 14,
+    "1-3": 9,
+    "6-7": 19
+  },
+  "bigrams": [
+    [
+      "dziewictwo długo",
+      1
+    ],
+    [
+      "długo hodowane",
+      1
+    ],
+    [
+      "skrytej donicy",
+      1
+    ],
+    [
+      "donicy żyznego",
+      1
+    ],
+    [
+      "żyznego podbrzusza",
+      1
+    ],
+    [
+      "podbrzusza pilnie",
+      1
+    ],
+    [
+      "pilnie strzeżone",
+      1
+    ],
+    [
+      "zmianą klimatu",
+      1
+    ],
+    [
+      "klimatu zimą",
+      1
+    ],
+    [
+      "zimą nosiłam",
+      1
+    ]
+  ],
+  "poemWords": [
+    "dziewictwo",
+    "długo",
+    "hodowane",
+    "skrytej",
+    "donicy",
+    "żyznego",
+    "podbrzusza",
+    "pilnie",
+    "strzeżone",
+    "zmianą",
+    "klimatu",
+    "zimą",
+    "nosiłam",
+    "zawsze",
+    "ciepłe",
+    "majtki",
+    "piersi",
+    "szorstką",
+    "gąbką",
+    "myte",
+    "grzybkami",
+    "sutków",
+    "nabrzmiewającymi",
+    "pięty",
+    "pumeksem",
+    "szklanym",
+    "szorowane",
+    "pachy",
+    "pachnące",
+    "wnętrze",
+    "róży",
+    "biodra",
+    "powoli",
+    "okrąglejące",
+    "brzuch",
+    "między",
+    "płaski",
+    "fałd",
+    "tłuszczu",
+    "uroda",
+    "musujące",
+    "wino",
+    "jedyność",
+    "czule",
+    "wypieszczona",
+    "zdała",
+    "męską",
+    "potrzebę",
+    "mogłabym",
+    "leżeć",
+    "śniegu"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 23,
+        "VERB": 5,
+        "ADJ": 17,
+        "ADV": 5,
+        "PRON": 4,
+        "ADP": 8,
+        "CCONJ": 1,
+        "SCONJ": 2,
+        "INTJ": 0,
+        "PART": 2,
+        "DET": 3,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.324,
+        "VERB": 0.07,
+        "ADJ": 0.239,
+        "ADV": 0.07,
+        "PRON": 0.056,
+        "ADP": 0.113,
+        "CCONJ": 0.014,
+        "SCONJ": 0.028,
+        "INTJ": 0,
+        "PART": 0.028,
+        "DET": 0.042,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 3,
+        "abstract": 0,
+        "ratio": 1
+      },
+      "verbTenses": {
+        "past": 3,
+        "present": 1,
+        "infinitive": 1
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 1,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 2,
+        "oceniajace": 0,
+        "opisowe": 15
+      },
+      "adverbs": {
+        "temporalne": [
+          "zawsze"
+        ],
+        "modalne": [],
+        "sposobu": [
+          "powoli"
+        ],
+        "top": [
+          {
+            "word": "długo",
+            "count": 1
+          },
+          {
+            "word": "pilnie",
+            "count": 1
+          },
+          {
+            "word": "zawsze",
+            "count": 1
+          },
+          {
+            "word": "powoli",
+            "count": 1
+          },
+          {
+            "word": "czule",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 1,
+        "ty": 1,
+        "on_ona": 0,
+        "my": 0,
+        "wy": 0,
+        "oni": 1
+      },
+      "negations": {
+        "nie": 0,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 0,
+        "percentSentences": 0
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 171,
+        "consonants": 249,
+        "ratio": 0.69
+      },
+      "consonantClusters": {
+        "count": 18,
+        "top": [
+          {
+            "cluster": "trz",
+            "count": 2
+          },
+          {
+            "cluster": "szcz",
+            "count": 2
+          },
+          {
+            "cluster": "ctw",
+            "count": 1
+          },
+          {
+            "cluster": "skr",
+            "count": 1
+          },
+          {
+            "cluster": "dbrz",
+            "count": 1
+          },
+          {
+            "cluster": "strz",
+            "count": 1
+          },
+          {
+            "cluster": "prz",
+            "count": 1
+          },
+          {
+            "cluster": "wsz",
+            "count": 1
+          },
+          {
+            "cluster": "jtk",
+            "count": 1
+          },
+          {
+            "cluster": "rstk",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 23,
+        "syczace": 34,
+        "nosowe": 60,
+        "plynne": 32
+      },
+      "rhymes": {
+        "exact": 0,
+        "approximate": 0,
+        "internal": 0,
+        "assonance": 0,
+        "alliteration": 2
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 14.2,
+        "median": 8,
+        "min": 6,
+        "max": 30,
+        "distribution": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 4.7,
+        "meanSyllables": 11.7,
+        "distribution": [
+          0,
+          1,
+          0,
+          0,
+          6,
+          4,
+          2,
+          2
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 5,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 1,
+        "noSubject": 3,
+        "noPredicate": 0,
+        "percent": 0.8
+      },
+      "enjambement": {
+        "count": 1,
+        "percent": 0.07,
+        "positions": [
+          5
+        ]
+      },
+      "wordOrder": {
+        "svo": 0,
+        "inversions": 1,
+        "other": 4,
+        "deviationPercent": 1
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 2,
+        "śmierć": 0,
+        "erotyka": 0,
+        "alkohol": 1,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 175,
+      "estimatedSeconds": 58,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 23,
+      "VERB": 5,
+      "ADJ": 17,
+      "ADV": 5,
+      "PRON": 4,
+      "ADP": 8,
+      "CCONJ": 1,
+      "SCONJ": 2,
+      "INTJ": 0,
+      "PART": 2,
+      "DET": 3,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.324,
+      "VERB": 0.07,
+      "ADJ": 0.239,
+      "ADV": 0.07,
+      "PRON": 0.056,
+      "ADP": 0.113,
+      "CCONJ": 0.014,
+      "SCONJ": 0.028,
+      "INTJ": 0,
+      "PART": 0.028,
+      "DET": 0.042,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 3,
+      "abstract": 0,
+      "ratio": 1
+    },
+    "verbTenses": {
+      "past": 3,
+      "present": 1,
+      "infinitive": 1
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 1,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 2,
+      "oceniajace": 0,
+      "opisowe": 15
+    },
+    "adverbs": {
+      "temporalne": [
+        "zawsze"
+      ],
+      "modalne": [],
+      "sposobu": [
+        "powoli"
+      ],
+      "top": [
+        {
+          "word": "długo",
+          "count": 1
+        },
+        {
+          "word": "pilnie",
+          "count": 1
+        },
+        {
+          "word": "zawsze",
+          "count": 1
+        },
+        {
+          "word": "powoli",
+          "count": 1
+        },
+        {
+          "word": "czule",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 1,
+      "ty": 1,
+      "on_ona": 0,
+      "my": 0,
+      "wy": 0,
+      "oni": 1
+    },
+    "negations": {
+      "nie": 0,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 0,
+      "percentSentences": 0
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 14.2,
+      "median": 8,
+      "min": 6,
+      "max": 30,
+      "distribution": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 4.7,
+      "meanSyllables": 11.7,
+      "distribution": [
+        0,
+        1,
+        0,
+        0,
+        6,
+        4,
+        2,
+        2
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 5,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 1,
+      "noSubject": 3,
+      "noPredicate": 0,
+      "percent": 0.8
+    },
+    "enjambement": {
+      "count": 1,
+      "percent": 0.07,
+      "positions": [
+        5
+      ]
+    },
+    "wordOrder": {
+      "svo": 0,
+      "inversions": 1,
+      "other": 4,
+      "deviationPercent": 1
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 171,
+      "consonants": 249,
+      "ratio": 0.69
+    },
+    "consonantClusters": {
+      "count": 18,
+      "top": [
+        {
+          "cluster": "trz",
+          "count": 2
+        },
+        {
+          "cluster": "szcz",
+          "count": 2
+        },
+        {
+          "cluster": "ctw",
+          "count": 1
+        },
+        {
+          "cluster": "skr",
+          "count": 1
+        },
+        {
+          "cluster": "dbrz",
+          "count": 1
+        },
+        {
+          "cluster": "strz",
+          "count": 1
+        },
+        {
+          "cluster": "prz",
+          "count": 1
+        },
+        {
+          "cluster": "wsz",
+          "count": 1
+        },
+        {
+          "cluster": "jtk",
+          "count": 1
+        },
+        {
+          "cluster": "rstk",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 23,
+      "syczace": 34,
+      "nosowe": 60,
+      "plynne": 32
+    },
+    "rhymes": {
+      "exact": 0,
+      "approximate": 0,
+      "internal": 0,
+      "assonance": 0,
+      "alliteration": 2
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        15
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 175,
+      "estimatedSeconds": 58,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "regularny",
+      "regularityScore": 0.81
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Biblia",
+          "reference": "Pieśń nad pieśniami - opis kobiecego ciała",
+          "evidence": "Pachy pachnące jakby wnętrze róży"
+        },
+        {
+          "source": "mitologia",
+          "reference": "motyw dziewictwa jako daru/ofiary",
+          "evidence": "Moje dziewictwo długo hodowane / Wreszcie się zdała na męską potrzebę"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.2,
+        "baudelaire": 0.3,
+        "bursa": 0.1,
+        "stachura": 0.2,
+        "grochowiak": 0.7,
+        "bialoszewski": 0.1,
+        "rozewicz": 0.3
+      }
+    },
+    "space": {
+      "type": "zamknieta",
+      "evidence": "skryta donnica żyznego podbrzusza - przestrzeń intymna, wewnętrzna",
+      "openClosedRatio": 0.2
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "zima",
+      "evidence": "Zimą nosiłam zawsze ciepłe majtki",
+      "temporalEvidence": "długotrwały proces dojrzewania"
+    },
+    "motion": {
+      "movement": 3,
+      "stillness": 7,
+      "dynamism": 0.3,
+      "evidence": "Biodra powoli mi okrąglejące - powolny ruch dojrzewania, przewaga statyczności"
+    },
+    "imageryDensity": {
+      "metaphors": 4,
+      "comparisons": 3,
+      "personifications": 2,
+      "hyperboles": 1,
+      "per100words": 15.4
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.9,
+      "creationLevel": 0.3,
+      "ironicDistance": 0.1,
+      "autobiographicSignals": [
+        "moje dziewictwo",
+        "moje piersi",
+        "moja jedyność",
+        "forma pierwszoosobowa",
+        "intymne szczegóły ciała"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "czułość",
+      "secondary": "euforia",
+      "intensity": 0.8
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "Podmiot żeński obecny przez zaimki 'moje', 'mi', 'mogłabym' i formy czasownikowe"
+    },
+    "addressee": {
+      "type": "ty",
+      "evidence": "Bezpośrednie zwrócenie się 'z Tobą' w ostatnim wersie"
+    },
+    "metaphors": [
+      {
+        "source": "roślina",
+        "target": "dziewictwo",
+        "example": "dziewictwo długo hodowane W skrytej donicy żyznego podbrzusza"
+      },
+      {
+        "source": "wino",
+        "target": "uroda",
+        "example": "Uroda jakby musujące wino"
+      },
+      {
+        "source": "róża",
+        "target": "zapach ciała",
+        "example": "Pachy pachnące jakby wnętrze róży"
+      }
+    ],
+    "temperature": {
+      "value": 0.9,
+      "label": "gorące - pożądanie i oddanie"
+    },
+    "senses": {
+      "wzrok": 4,
+      "sluch": 1,
+      "dotyk": 5,
+      "smak": 2,
+      "zapach": 4
+    },
+    "autodestruction": {
+      "level": 0.2,
+      "signals": [
+        "gotowość na cierpienie 'mogłabym leżeć z Tobą nawet w śniegu'"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 0.734,
+    "dfaAlpha": 2.522,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -1.7328679513998617
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -1.0074515102711326
+      }
+    ],
+    "seriesLength": 14,
+    "series": [
+      4,
+      5,
+      5,
+      5,
+      6,
+      4,
+      4,
+      5,
+      4,
+      7,
+      4,
+      4,
+      6,
+      7
+    ]
+  }
+}

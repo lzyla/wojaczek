@@ -1,0 +1,918 @@
+{
+  "id": "wspolnie-ulozylismy-list-do-niej",
+  "title": "Wspólnie ułożyliśmy list do niej",
+  "wordCount": 76,
+  "lineCount": 14,
+  "uniqueWords": 66,
+  "vocabularyRichness": 0.868,
+  "avgWordsPerLine": 5.43,
+  "wordsPerLineDistribution": [
+    5,
+    8,
+    8,
+    5,
+    7,
+    6,
+    5,
+    5,
+    5,
+    4,
+    3,
+    7,
+    3,
+    5
+  ],
+  "wordFrequencies": [
+    [
+      "żyje",
+      2
+    ],
+    [
+      "lekarz",
+      2
+    ],
+    [
+      "wspólnie",
+      1
+    ],
+    [
+      "ułożyliśmy",
+      1
+    ],
+    [
+      "list",
+      1
+    ],
+    [
+      "mieszka",
+      1
+    ],
+    [
+      "opalanym",
+      1
+    ],
+    [
+      "pomieszczeniu",
+      1
+    ],
+    [
+      "podobno",
+      1
+    ],
+    [
+      "trudno",
+      1
+    ],
+    [
+      "powiedzieć",
+      1
+    ],
+    [
+      "urzędowo",
+      1
+    ],
+    [
+      "stwierdził",
+      1
+    ],
+    [
+      "zgon",
+      1
+    ],
+    [
+      "znamy",
+      1
+    ],
+    [
+      "sztuczkach",
+      1
+    ],
+    [
+      "zresztą",
+      1
+    ],
+    [
+      "wcale",
+      1
+    ],
+    [
+      "mężczyzną",
+      1
+    ],
+    [
+      "zajrzeliśmy",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 0,
+    "period": 0,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 0,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 2,
+  "negationWords": [
+    "nie"
+  ],
+  "pronounDistribution": {
+    "ja": 0,
+    "ty": 0,
+    "on_ona": 4,
+    "my": 2,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 1,
+    "smierc": 1,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [],
+  "firstWord": "wspólnie",
+  "lastWord": "rośnie",
+  "avgWordLength": 5.32,
+  "wordLengthDistribution": {
+    "8-9": 8,
+    "10+": 10,
+    "4-5": 18,
+    "1-3": 26,
+    "6-7": 14
+  },
+  "bigrams": [
+    [
+      "wspólnie ułożyliśmy",
+      1
+    ],
+    [
+      "ułożyliśmy list",
+      1
+    ],
+    [
+      "opalanym pomieszczeniu",
+      1
+    ],
+    [
+      "pomieszczeniu choć",
+      1
+    ],
+    [
+      "choć podobno",
+      1
+    ],
+    [
+      "podobno trudno",
+      1
+    ]
+  ],
+  "poemWords": [
+    "wspólnie",
+    "ułożyliśmy",
+    "list",
+    "mieszka",
+    "żyje",
+    "opalanym",
+    "pomieszczeniu",
+    "podobno",
+    "trudno",
+    "powiedzieć",
+    "lekarz",
+    "urzędowo",
+    "stwierdził",
+    "zgon",
+    "znamy",
+    "sztuczkach",
+    "zresztą",
+    "wcale",
+    "mężczyzną",
+    "zajrzeliśmy",
+    "sutannę",
+    "pierwszych",
+    "słowach",
+    "naszego",
+    "listu",
+    "donosimy",
+    "żeśmy",
+    "wszyscy",
+    "zdrowi",
+    "czego",
+    "życzymy",
+    "głowa",
+    "spojrzeć",
+    "odpowiedniego",
+    "dystansu",
+    "przedstawia",
+    "imponująco",
+    "dalszym",
+    "ciągu",
+    "rośnie"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 15,
+        "VERB": 14,
+        "ADJ": 5,
+        "ADV": 8,
+        "PRON": 10,
+        "ADP": 10,
+        "CCONJ": 5,
+        "SCONJ": 2,
+        "INTJ": 0,
+        "PART": 6,
+        "DET": 5,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.185,
+        "VERB": 0.173,
+        "ADJ": 0.062,
+        "ADV": 0.099,
+        "PRON": 0.123,
+        "ADP": 0.123,
+        "CCONJ": 0.062,
+        "SCONJ": 0.025,
+        "INTJ": 0,
+        "PART": 0.074,
+        "DET": 0.062,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 1,
+        "abstract": 0,
+        "ratio": 1
+      },
+      "verbTenses": {
+        "past": 5,
+        "present": 8,
+        "infinitive": 2
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 4,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 0,
+        "opisowe": 5
+      },
+      "adverbs": {
+        "temporalne": [],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "wspólnie",
+            "count": 2
+          },
+          {
+            "word": "trudno",
+            "count": 1
+          },
+          {
+            "word": "kiedy",
+            "count": 1
+          },
+          {
+            "word": "urzędowo",
+            "count": 1
+          },
+          {
+            "word": "wcale",
+            "count": 1
+          },
+          {
+            "word": "gdy",
+            "count": 1
+          },
+          {
+            "word": "imponująco",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 0,
+        "ty": 0,
+        "on_ona": 5,
+        "my": 1,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 2,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 2,
+        "percentSentences": 0.33
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 177,
+        "consonants": 255,
+        "ratio": 0.69
+      },
+      "consonantClusters": {
+        "count": 19,
+        "top": [
+          {
+            "cluster": "wsp",
+            "count": 2
+          },
+          {
+            "cluster": "szt",
+            "count": 2
+          },
+          {
+            "cluster": "prz",
+            "count": 2
+          },
+          {
+            "cluster": "jrz",
+            "count": 2
+          },
+          {
+            "cluster": "szk",
+            "count": 1
+          },
+          {
+            "cluster": "szcz",
+            "count": 1
+          },
+          {
+            "cluster": "stw",
+            "count": 1
+          },
+          {
+            "cluster": "rdz",
+            "count": 1
+          },
+          {
+            "cluster": "czk",
+            "count": 1
+          },
+          {
+            "cluster": "żcz",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 30,
+        "syczace": 44,
+        "nosowe": 51,
+        "plynne": 34
+      },
+      "rhymes": {
+        "exact": 1,
+        "approximate": 0,
+        "internal": 0,
+        "assonance": 1,
+        "alliteration": 1
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 13.5,
+        "median": 13,
+        "min": 5,
+        "max": 26,
+        "distribution": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          2,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 5.4,
+        "meanSyllables": 12.1,
+        "distribution": [
+          0,
+          0,
+          0,
+          2,
+          1,
+          7,
+          1,
+          2,
+          2
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 6,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 0,
+        "noSubject": 2,
+        "noPredicate": 0,
+        "percent": 0.33
+      },
+      "enjambement": {
+        "count": 10,
+        "percent": 0.71,
+        "positions": [
+          2,
+          3,
+          4,
+          6,
+          7,
+          9,
+          10,
+          12,
+          13,
+          14
+        ]
+      },
+      "wordOrder": {
+        "svo": 3,
+        "inversions": 1,
+        "other": 2,
+        "deviationPercent": 0.5
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 1,
+        "śmierć": 1,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 181,
+      "estimatedSeconds": 60,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 15,
+      "VERB": 14,
+      "ADJ": 5,
+      "ADV": 8,
+      "PRON": 10,
+      "ADP": 10,
+      "CCONJ": 5,
+      "SCONJ": 2,
+      "INTJ": 0,
+      "PART": 6,
+      "DET": 5,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.185,
+      "VERB": 0.173,
+      "ADJ": 0.062,
+      "ADV": 0.099,
+      "PRON": 0.123,
+      "ADP": 0.123,
+      "CCONJ": 0.062,
+      "SCONJ": 0.025,
+      "INTJ": 0,
+      "PART": 0.074,
+      "DET": 0.062,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 1,
+      "abstract": 0,
+      "ratio": 1
+    },
+    "verbTenses": {
+      "past": 5,
+      "present": 8,
+      "infinitive": 2
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 4,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 0,
+      "opisowe": 5
+    },
+    "adverbs": {
+      "temporalne": [],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "wspólnie",
+          "count": 2
+        },
+        {
+          "word": "trudno",
+          "count": 1
+        },
+        {
+          "word": "kiedy",
+          "count": 1
+        },
+        {
+          "word": "urzędowo",
+          "count": 1
+        },
+        {
+          "word": "wcale",
+          "count": 1
+        },
+        {
+          "word": "gdy",
+          "count": 1
+        },
+        {
+          "word": "imponująco",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 0,
+      "ty": 0,
+      "on_ona": 5,
+      "my": 1,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 2,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 2,
+      "percentSentences": 0.33
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 13.5,
+      "median": 13,
+      "min": 5,
+      "max": 26,
+      "distribution": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 5.4,
+      "meanSyllables": 12.1,
+      "distribution": [
+        0,
+        0,
+        0,
+        2,
+        1,
+        7,
+        1,
+        2,
+        2
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 6,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 0,
+      "noSubject": 2,
+      "noPredicate": 0,
+      "percent": 0.33
+    },
+    "enjambement": {
+      "count": 10,
+      "percent": 0.71,
+      "positions": [
+        2,
+        3,
+        4,
+        6,
+        7,
+        9,
+        10,
+        12,
+        13,
+        14
+      ]
+    },
+    "wordOrder": {
+      "svo": 3,
+      "inversions": 1,
+      "other": 2,
+      "deviationPercent": 0.5
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 177,
+      "consonants": 255,
+      "ratio": 0.69
+    },
+    "consonantClusters": {
+      "count": 19,
+      "top": [
+        {
+          "cluster": "wsp",
+          "count": 2
+        },
+        {
+          "cluster": "szt",
+          "count": 2
+        },
+        {
+          "cluster": "prz",
+          "count": 2
+        },
+        {
+          "cluster": "jrz",
+          "count": 2
+        },
+        {
+          "cluster": "szk",
+          "count": 1
+        },
+        {
+          "cluster": "szcz",
+          "count": 1
+        },
+        {
+          "cluster": "stw",
+          "count": 1
+        },
+        {
+          "cluster": "rdz",
+          "count": 1
+        },
+        {
+          "cluster": "czk",
+          "count": 1
+        },
+        {
+          "cluster": "żcz",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 30,
+      "syczace": 44,
+      "nosowe": 51,
+      "plynne": 34
+    },
+    "rhymes": {
+      "exact": 1,
+      "approximate": 0,
+      "internal": 0,
+      "assonance": 1,
+      "alliteration": 1
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        15
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 181,
+      "estimatedSeconds": 60,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "polregularny",
+      "regularityScore": 0.68
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Biblia",
+          "reference": "sutanna duchownego",
+          "evidence": "przecież zajrzeliśmy mu pod sutannę"
+        },
+        {
+          "source": "inne",
+          "reference": "konwencja listu do zmarłych",
+          "evidence": "Wspólnie ułożyliśmy list do niej / która mieszka i żyje w nie opalanym pomieszczeniu"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.3,
+        "baudelaire": 0.2,
+        "bursa": 0.7,
+        "stachura": 0.4,
+        "grochowiak": 0.6,
+        "bialoszewski": 0.5,
+        "rozewicz": 0.8
+      }
+    },
+    "space": {
+      "type": "zamknieta",
+      "evidence": "nie opalanym pomieszczeniu - przestrzeń grobu lub szpitala",
+      "openClosedRatio": 0.1
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "zima",
+      "evidence": "nie opalanym pomieszczeniu sugeruje zimno",
+      "timeEvidence": "brak wyraźnych wskaźników temporalnych"
+    },
+    "motion": {
+      "movement": 2,
+      "stillness": 8,
+      "dynamism": 0.2,
+      "evidence": "dominuje statyczność - mieszka, żyje, leży; jedyny ruch to wzrastanie głowy"
+    },
+    "imageryDensity": {
+      "metaphors": 3,
+      "comparisons": 1,
+      "personifications": 2,
+      "hyperboles": 1,
+      "per100words": 8.1
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.8,
+      "creationLevel": 0.7,
+      "ironicDistance": 0.6,
+      "autobiographicSignals": [
+        "wspólnie",
+        "my znamy się",
+        "nasza głowa",
+        "donosimy"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "ironia",
+      "secondary": "melancholia",
+      "intensity": 0.7
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "Podmiot zbiorowy 'my' - 'Wspólnie ułożyliśmy', 'znamy się', 'zajrzeliśmy', 'nasza głowa'"
+    },
+    "addressee": {
+      "type": "nikt",
+      "evidence": "Adresatką jest zmarła kobieta ('lekarz urzędowo stwierdził zgon'), ale komunikacja jest iluzoryczna"
+    },
+    "metaphors": [
+      {
+        "source": "śmierć",
+        "target": "życie",
+        "example": "trudno powiedzieć o kimś że żyje / kiedy lekarz urzędowo stwierdził zgon"
+      },
+      {
+        "source": "głowa",
+        "target": "rosnący organizm",
+        "example": "nasza głowa / gdy na nią spojrzeć z odpowiedniego dystansu / przedstawia się imponująco / i w dalszym ciągu rośnie"
+      },
+      {
+        "source": "lekarz",
+        "target": "duchowny",
+        "example": "przecież zajrzeliśmy mu pod sutannę"
+      }
+    ],
+    "temperature": {
+      "value": 0.4,
+      "label": "chłodna ironia z nutą ciepła wspomnieniowego"
+    },
+    "senses": {
+      "wzrok": 4,
+      "sluch": 1,
+      "dotyk": 2,
+      "smak": 0,
+      "zapach": 0
+    },
+    "autodestruction": {
+      "level": 0.3,
+      "signals": [
+        "komunikacja z umarłą",
+        "zakwestionowanie rzeczywistości śmierci",
+        "groteskowe przedstawienie sytuacji"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 0.659,
+    "dfaAlpha": 2.892,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -1.2220423276338679
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -0.39015320506483625
+      }
+    ],
+    "seriesLength": 14,
+    "series": [
+      5,
+      8,
+      8,
+      5,
+      7,
+      6,
+      5,
+      5,
+      5,
+      4,
+      3,
+      7,
+      3,
+      5
+    ]
+  }
+}

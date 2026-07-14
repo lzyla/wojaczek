@@ -1,0 +1,846 @@
+{
+  "id": "kim-jest-ten-co-przybywa",
+  "title": "Kim jest ten, co przybywa",
+  "wordCount": 103,
+  "lineCount": 13,
+  "uniqueWords": 72,
+  "vocabularyRichness": 0.699,
+  "avgWordsPerLine": 7.92,
+  "wordsPerLineDistribution": [
+    3,
+    9,
+    5,
+    9,
+    9,
+    8,
+    9,
+    10,
+    7,
+    10,
+    8,
+    11,
+    5
+  ],
+  "wordFrequencies": [
+    [
+      "kim",
+      7
+    ],
+    [
+      "przybywa",
+      1
+    ],
+    [
+      "jakiego",
+      1
+    ],
+    [
+      "przestworu",
+      1
+    ],
+    [
+      "zali",
+      1
+    ],
+    [
+      "odmierzonego",
+      1
+    ],
+    [
+      "czyjąkolwiek",
+      1
+    ],
+    [
+      "stopą",
+      1
+    ],
+    [
+      "kogo",
+      1
+    ],
+    [
+      "widzieć",
+      1
+    ],
+    [
+      "zaczynam",
+      1
+    ],
+    [
+      "tumanie",
+      1
+    ],
+    [
+      "krwi",
+      1
+    ],
+    [
+      "zeń",
+      1
+    ],
+    [
+      "paruje",
+      1
+    ],
+    [
+      "dniem",
+      1
+    ],
+    [
+      "stawa",
+      1
+    ],
+    [
+      "jawnie",
+      1
+    ],
+    [
+      "gada",
+      1
+    ],
+    [
+      "głosem",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 12,
+    "period": 0,
+    "question": 8,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 0,
+    "semicolon": 0
+  },
+  "questionCount": 8,
+  "exclamationCount": 0,
+  "negationCount": 3,
+  "negationWords": [
+    "nie",
+    "nikt"
+  ],
+  "pronounDistribution": {
+    "ja": 3,
+    "ty": 0,
+    "on_ona": 1,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 0,
+    "smierc": 0,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 1,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [
+    [
+      "kim",
+      7
+    ]
+  ],
+  "firstWord": "kim",
+  "lastWord": "krwiobiegu",
+  "avgWordLength": 4.48,
+  "wordLengthDistribution": {
+    "1-3": 43,
+    "4-5": 30,
+    "8-9": 4,
+    "6-7": 20,
+    "10+": 6
+  },
+  "bigrams": [
+    [
+      "jakiego przestworu",
+      1
+    ],
+    [
+      "przestworu zali",
+      1
+    ],
+    [
+      "zali odmierzonego",
+      1
+    ],
+    [
+      "odmierzonego czyjąkolwiek",
+      1
+    ]
+  ],
+  "poemWords": [
+    "kim",
+    "przybywa",
+    "jakiego",
+    "przestworu",
+    "zali",
+    "odmierzonego",
+    "czyjąkolwiek",
+    "stopą",
+    "kogo",
+    "widzieć",
+    "zaczynam",
+    "tumanie",
+    "krwi",
+    "zeń",
+    "paruje",
+    "dniem",
+    "stawa",
+    "jawnie",
+    "gada",
+    "głosem",
+    "pierwszego",
+    "ptaka",
+    "sposobi",
+    "wiotką",
+    "gałązkę",
+    "oczach",
+    "zasadza",
+    "takie",
+    "drzewo",
+    "żadną",
+    "wyrąbie",
+    "siekierą",
+    "powieką",
+    "pasąc",
+    "tłustej",
+    "łące",
+    "skóry",
+    "pór",
+    "chciwie",
+    "wciska",
+    "łakomą",
+    "trąbkę",
+    "umie",
+    "nikt",
+    "mógł",
+    "wypreparować",
+    "słońce",
+    "płonącego",
+    "krwiobiegu"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 21,
+        "VERB": 12,
+        "ADJ": 8,
+        "ADV": 3,
+        "PRON": 19,
+        "ADP": 7,
+        "CCONJ": 3,
+        "SCONJ": 1,
+        "INTJ": 0,
+        "PART": 5,
+        "DET": 14,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.21,
+        "VERB": 0.12,
+        "ADJ": 0.08,
+        "ADV": 0.03,
+        "PRON": 0.19,
+        "ADP": 0.07,
+        "CCONJ": 0.03,
+        "SCONJ": 0.01,
+        "INTJ": 0,
+        "PART": 0.05,
+        "DET": 0.14,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 3,
+        "abstract": 0,
+        "ratio": 1
+      },
+      "verbTenses": {
+        "present": 14,
+        "imperative": 1,
+        "infinitive": 2,
+        "future": 1,
+        "past": 1
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 1,
+        "stan": 7,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 0,
+        "opisowe": 8
+      },
+      "adverbs": {
+        "temporalne": [],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "jawnie",
+            "count": 1
+          },
+          {
+            "word": "chciwie",
+            "count": 1
+          },
+          {
+            "word": "kiedy",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 2,
+        "ty": 0,
+        "on_ona": 1,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 2,
+        "nic": 0,
+        "nikt": 1,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 1,
+        "total": 4,
+        "percentSentences": 0.44
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 191,
+        "consonants": 267,
+        "ratio": 0.72
+      },
+      "consonantClusters": {
+        "count": 8,
+        "top": [
+          {
+            "cluster": "prz",
+            "count": 2
+          },
+          {
+            "cluster": "krw",
+            "count": 2
+          },
+          {
+            "cluster": "stw",
+            "count": 1
+          },
+          {
+            "cluster": "rwsz",
+            "count": 1
+          },
+          {
+            "cluster": "drz",
+            "count": 1
+          },
+          {
+            "cluster": "chc",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 12,
+        "syczace": 45,
+        "nosowe": 61,
+        "plynne": 28
+      },
+      "rhymes": {
+        "exact": 1,
+        "approximate": 0,
+        "internal": 0,
+        "assonance": 1,
+        "alliteration": 4
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 11.1,
+        "median": 9,
+        "min": 5,
+        "max": 18,
+        "distribution": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          2,
+          0,
+          0,
+          1,
+          2,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          2
+        ]
+      },
+      "lineLength": {
+        "meanWords": 7.9,
+        "meanSyllables": 15.3,
+        "distribution": [
+          0,
+          0,
+          0,
+          1,
+          0,
+          2,
+          0,
+          1,
+          2,
+          4,
+          2,
+          1
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 1,
+        "interrogative": 8,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 0,
+        "noSubject": 2,
+        "noPredicate": 0,
+        "percent": 0.22
+      },
+      "enjambement": {
+        "count": 0,
+        "percent": 0,
+        "positions": []
+      },
+      "wordOrder": {
+        "svo": 6,
+        "inversions": 0,
+        "other": 3,
+        "deviationPercent": 0.33
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 1,
+        "śmierć": 0,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 1,
+        "sacrum": 0,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 199,
+      "estimatedSeconds": 66,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 21,
+      "VERB": 12,
+      "ADJ": 8,
+      "ADV": 3,
+      "PRON": 19,
+      "ADP": 7,
+      "CCONJ": 3,
+      "SCONJ": 1,
+      "INTJ": 0,
+      "PART": 5,
+      "DET": 14,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.21,
+      "VERB": 0.12,
+      "ADJ": 0.08,
+      "ADV": 0.03,
+      "PRON": 0.19,
+      "ADP": 0.07,
+      "CCONJ": 0.03,
+      "SCONJ": 0.01,
+      "INTJ": 0,
+      "PART": 0.05,
+      "DET": 0.14,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 3,
+      "abstract": 0,
+      "ratio": 1
+    },
+    "verbTenses": {
+      "present": 14,
+      "imperative": 1,
+      "infinitive": 2,
+      "future": 1,
+      "past": 1
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 1,
+      "stan": 7,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 0,
+      "opisowe": 8
+    },
+    "adverbs": {
+      "temporalne": [],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "jawnie",
+          "count": 1
+        },
+        {
+          "word": "chciwie",
+          "count": 1
+        },
+        {
+          "word": "kiedy",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 2,
+      "ty": 0,
+      "on_ona": 1,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 2,
+      "nic": 0,
+      "nikt": 1,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 1,
+      "total": 4,
+      "percentSentences": 0.44
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 11.1,
+      "median": 9,
+      "min": 5,
+      "max": 18,
+      "distribution": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        0,
+        0,
+        1,
+        2,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        2
+      ]
+    },
+    "lineLength": {
+      "meanWords": 7.9,
+      "meanSyllables": 15.3,
+      "distribution": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        2,
+        0,
+        1,
+        2,
+        4,
+        2,
+        1
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 1,
+      "interrogative": 8,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 0,
+      "noSubject": 2,
+      "noPredicate": 0,
+      "percent": 0.22
+    },
+    "enjambement": {
+      "count": 0,
+      "percent": 0,
+      "positions": []
+    },
+    "wordOrder": {
+      "svo": 6,
+      "inversions": 0,
+      "other": 3,
+      "deviationPercent": 0.33
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 191,
+      "consonants": 267,
+      "ratio": 0.72
+    },
+    "consonantClusters": {
+      "count": 8,
+      "top": [
+        {
+          "cluster": "prz",
+          "count": 2
+        },
+        {
+          "cluster": "krw",
+          "count": 2
+        },
+        {
+          "cluster": "stw",
+          "count": 1
+        },
+        {
+          "cluster": "rwsz",
+          "count": 1
+        },
+        {
+          "cluster": "drz",
+          "count": 1
+        },
+        {
+          "cluster": "chc",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 12,
+      "syczace": 45,
+      "nosowe": 61,
+      "plynne": 28
+    },
+    "rhymes": {
+      "exact": 1,
+      "approximate": 0,
+      "internal": 0,
+      "assonance": 1,
+      "alliteration": 4
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        13
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 199,
+      "estimatedSeconds": 66,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "regularny",
+      "regularityScore": 0.75
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Biblia",
+          "reference": "Objawienie św. Jana - wizja apokaliptyczna",
+          "evidence": "Kim jest ten, co przybywa, i z jakiego przestworu?"
+        },
+        {
+          "source": "Biblia",
+          "reference": "Ewangelia Jana - pytania o Chrystusa",
+          "evidence": "sekwencja pytań 'Kim jest ten'"
+        },
+        {
+          "source": "mitologia",
+          "reference": "teofania - objawienie bóstwa",
+          "evidence": "parująca krew, która staje się dniem"
+        },
+        {
+          "source": "Rimbaud",
+          "reference": "wizyjność i synestezja",
+          "evidence": "wypreparować słońce z płonącego krwiobiegu"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.8,
+        "baudelaire": 0.3,
+        "bursa": 0.1,
+        "stachura": 0.2,
+        "grochowiak": 0.4,
+        "bialoszewski": 0.1,
+        "rozewicz": 0.2
+      }
+    },
+    "space": {
+      "type": "nieokreslona",
+      "evidence": "przestwór, tuman, łąka skóry - przestrzeń metafizyczna, somatyczna",
+      "openClosedRatio": 0.7
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "nieokreslona",
+      "evidence": "czas mityczny objawienia, krew staje się dniem"
+    },
+    "motion": {
+      "movement": 8,
+      "stillness": 2,
+      "dynamism": 0.8,
+      "evidence": "przybywa, paruje, gada, wciska trąbkę, pasie się"
+    },
+    "imageryDensity": {
+      "metaphors": 8,
+      "comparisons": 1,
+      "personifications": 4,
+      "hyperboles": 3,
+      "per100words": 18.2
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.9,
+      "creationLevel": 0.8,
+      "ironicDistance": 0.1,
+      "autobiographicSignals": [
+        "moja skóra",
+        "moje oczy",
+        "mój krwiobieg",
+        "łąka mojej skóry"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "tęsknota",
+      "secondary": "melancholia",
+      "intensity": 0.8
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "podmiot liryczny obecny poprzez zaimki osobowe 'mi', 'mojej' oraz bezpośrednie zwracanie się pytaniami"
+    },
+    "addressee": {
+      "type": "siebie",
+      "evidence": "seria pytań retorycznych 'Kim jest ten...' skierowanych do własnej świadomości, próba zrozumienia tajemniczej postaci"
+    },
+    "metaphors": [
+      {
+        "source": "krew",
+        "target": "życie/energia",
+        "example": "Krwi, która zeń paruje i dniem stawa się jawnie"
+      },
+      {
+        "source": "drzewo w oczach",
+        "target": "nieusuwalne wspomnienie/obsesja",
+        "example": "zasadza takie drzewo, Że żadną nie wyrąbie siekierą ni powieką"
+      },
+      {
+        "source": "skóra jako łąka",
+        "target": "ciało jako przestrzeń do eksploatacji",
+        "example": "pasąc na tłustej łące mojej Skóry"
+      },
+      {
+        "source": "słońce z krwiobiegu",
+        "target": "wydobycie życia/światła z wnętrza",
+        "example": "Wypreparować słońce z płonącego krwiobiegu"
+      }
+    ],
+    "temperature": {
+      "value": 0.7,
+      "label": "ciepłe - między tęsknotą a pożądaniem"
+    },
+    "senses": {
+      "wzrok": 5,
+      "sluch": 3,
+      "dotyk": 4,
+      "smak": 1,
+      "zapach": 2
+    },
+    "autodestruction": {
+      "level": 0.6,
+      "signals": [
+        "eksploatacja własnego ciała",
+        "krew parująca",
+        "płonący krwiobieg",
+        "wciskanie trąbki w pory skóry"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 0.826,
+    "dfaAlpha": 0.11,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -0.4335849672696026
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -0.40207106105984425
+      }
+    ],
+    "seriesLength": 13,
+    "series": [
+      3,
+      9,
+      5,
+      9,
+      9,
+      8,
+      9,
+      10,
+      7,
+      10,
+      8,
+      11,
+      5
+    ]
+  }
+}

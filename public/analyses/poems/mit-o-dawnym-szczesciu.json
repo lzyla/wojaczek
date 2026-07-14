@@ -1,0 +1,837 @@
+{
+  "id": "mit-o-dawnym-szczesciu",
+  "title": "Mit o dawnym szczęściu",
+  "wordCount": 72,
+  "lineCount": 14,
+  "uniqueWords": 63,
+  "vocabularyRichness": 0.875,
+  "avgWordsPerLine": 5.14,
+  "wordsPerLineDistribution": [
+    6,
+    5,
+    5,
+    7,
+    6,
+    4,
+    6,
+    5,
+    4,
+    4,
+    5,
+    5,
+    5,
+    5
+  ],
+  "wordFrequencies": [
+    [
+      "anioł",
+      1
+    ],
+    [
+      "przyszedł",
+      1
+    ],
+    [
+      "czarny",
+      1
+    ],
+    [
+      "powiedział",
+      1
+    ],
+    [
+      "polacy",
+      1
+    ],
+    [
+      "głupcy",
+      1
+    ],
+    [
+      "wyglądał",
+      1
+    ],
+    [
+      "zamiast",
+      1
+    ],
+    [
+      "twarzy",
+      1
+    ],
+    [
+      "żywej",
+      1
+    ],
+    [
+      "kamień",
+      1
+    ],
+    [
+      "miał",
+      1
+    ],
+    [
+      "skurczy",
+      1
+    ],
+    [
+      "śmiech",
+      1
+    ],
+    [
+      "choćby",
+      1
+    ],
+    [
+      "niemy",
+      1
+    ],
+    [
+      "wyraz",
+      1
+    ],
+    [
+      "obrzydzenia",
+      1
+    ],
+    [
+      "cierpienie",
+      1
+    ],
+    [
+      "ręku",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 6,
+    "period": 3,
+    "question": 0,
+    "exclamation": 1,
+    "ellipsis": 0,
+    "dash": 5,
+    "colon": 1,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 1,
+  "negationCount": 2,
+  "negationWords": [
+    "nie"
+  ],
+  "pronounDistribution": {
+    "ja": 0,
+    "ty": 0,
+    "on_ona": 0,
+    "my": 3,
+    "wy": 1,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 0,
+    "smierc": 0,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 1,
+    "noc": 0,
+    "bol": 1
+  },
+  "anaphors": [],
+  "firstWord": "anioł",
+  "lastWord": "koszar",
+  "avgWordLength": 5.49,
+  "wordLengthDistribution": {
+    "4-5": 17,
+    "8-9": 8,
+    "1-3": 19,
+    "6-7": 21,
+    "10+": 7
+  },
+  "bigrams": [
+    [
+      "anioł przyszedł",
+      1
+    ],
+    [
+      "cały czarny",
+      1
+    ],
+    [
+      "polacy głupcy",
+      1
+    ],
+    [
+      "wyglądał jakby",
+      1
+    ],
+    [
+      "jakby zamiast",
+      1
+    ],
+    [
+      "zamiast twarzy",
+      1
+    ]
+  ],
+  "poemWords": [
+    "anioł",
+    "przyszedł",
+    "czarny",
+    "powiedział",
+    "polacy",
+    "głupcy",
+    "wyglądał",
+    "zamiast",
+    "twarzy",
+    "żywej",
+    "kamień",
+    "miał",
+    "skurczy",
+    "śmiech",
+    "choćby",
+    "niemy",
+    "wyraz",
+    "obrzydzenia",
+    "cierpienie",
+    "ręku",
+    "mądrą",
+    "różdżkę",
+    "pałki",
+    "trzymał",
+    "marsz",
+    "szopena",
+    "wygrywał",
+    "flecie",
+    "policyjnie",
+    "trzymanym",
+    "gwizdek",
+    "marmurowo",
+    "zaciśniętych",
+    "wargach",
+    "wypsnęła",
+    "skarga",
+    "patrzył",
+    "czoła",
+    "czyste",
+    "odbijały",
+    "kamiennych",
+    "oczach",
+    "zawrócił",
+    "niebieskich",
+    "koszar"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 21,
+        "VERB": 11,
+        "ADJ": 9,
+        "ADV": 2,
+        "PRON": 7,
+        "ADP": 10,
+        "CCONJ": 4,
+        "SCONJ": 0,
+        "INTJ": 0,
+        "PART": 5,
+        "DET": 2,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.276,
+        "VERB": 0.145,
+        "ADJ": 0.118,
+        "ADV": 0.026,
+        "PRON": 0.092,
+        "ADP": 0.132,
+        "CCONJ": 0.053,
+        "SCONJ": 0,
+        "INTJ": 0,
+        "PART": 0.066,
+        "DET": 0.026,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 1,
+        "abstract": 0,
+        "ratio": 1
+      },
+      "verbTenses": {
+        "past": 9,
+        "future": 1,
+        "present": 1
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 0,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 1,
+        "oceniajace": 0,
+        "opisowe": 8
+      },
+      "adverbs": {
+        "temporalne": [],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "marmurowo",
+            "count": 1
+          },
+          {
+            "word": "kiedy",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 0,
+        "ty": 0,
+        "on_ona": 0,
+        "my": 1,
+        "wy": 1,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 2,
+        "nic": 0,
+        "nikt": 1,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 3,
+        "percentSentences": 0.43
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 171,
+        "consonants": 243,
+        "ratio": 0.7
+      },
+      "consonantClusters": {
+        "count": 11,
+        "top": [
+          {
+            "cluster": "trz",
+            "count": 3
+          },
+          {
+            "cluster": "prz",
+            "count": 2
+          },
+          {
+            "cluster": "szcz",
+            "count": 1
+          },
+          {
+            "cluster": "rcz",
+            "count": 1
+          },
+          {
+            "cluster": "brz",
+            "count": 1
+          },
+          {
+            "cluster": "żdżk",
+            "count": 1
+          },
+          {
+            "cluster": "rsz",
+            "count": 1
+          },
+          {
+            "cluster": "psn",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 24,
+        "syczace": 37,
+        "nosowe": 50,
+        "plynne": 42
+      },
+      "rhymes": {
+        "exact": 1,
+        "approximate": 2,
+        "internal": 0,
+        "assonance": 0,
+        "alliteration": 0
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 10.9,
+        "median": 10,
+        "min": 5,
+        "max": 20,
+        "distribution": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          0,
+          0,
+          1,
+          0,
+          0,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 5.4,
+        "meanSyllables": 11.9,
+        "distribution": [
+          0,
+          0,
+          0,
+          0,
+          3,
+          4,
+          7,
+          1
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 7,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 1,
+        "noSubject": 2,
+        "noPredicate": 0,
+        "percent": 0.43
+      },
+      "enjambement": {
+        "count": 1,
+        "percent": 0.07,
+        "positions": [
+          6
+        ]
+      },
+      "wordOrder": {
+        "svo": 3,
+        "inversions": 1,
+        "other": 3,
+        "deviationPercent": 0.57
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 2,
+        "śmierć": 0,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 1,
+        "noc": 0,
+        "ból": 1
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 179,
+      "estimatedSeconds": 60,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 21,
+      "VERB": 11,
+      "ADJ": 9,
+      "ADV": 2,
+      "PRON": 7,
+      "ADP": 10,
+      "CCONJ": 4,
+      "SCONJ": 0,
+      "INTJ": 0,
+      "PART": 5,
+      "DET": 2,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.276,
+      "VERB": 0.145,
+      "ADJ": 0.118,
+      "ADV": 0.026,
+      "PRON": 0.092,
+      "ADP": 0.132,
+      "CCONJ": 0.053,
+      "SCONJ": 0,
+      "INTJ": 0,
+      "PART": 0.066,
+      "DET": 0.026,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 1,
+      "abstract": 0,
+      "ratio": 1
+    },
+    "verbTenses": {
+      "past": 9,
+      "future": 1,
+      "present": 1
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 0,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 1,
+      "oceniajace": 0,
+      "opisowe": 8
+    },
+    "adverbs": {
+      "temporalne": [],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "marmurowo",
+          "count": 1
+        },
+        {
+          "word": "kiedy",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 0,
+      "ty": 0,
+      "on_ona": 0,
+      "my": 1,
+      "wy": 1,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 2,
+      "nic": 0,
+      "nikt": 1,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 3,
+      "percentSentences": 0.43
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 10.9,
+      "median": 10,
+      "min": 5,
+      "max": 20,
+      "distribution": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 5.4,
+      "meanSyllables": 11.9,
+      "distribution": [
+        0,
+        0,
+        0,
+        0,
+        3,
+        4,
+        7,
+        1
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 7,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 1,
+      "noSubject": 2,
+      "noPredicate": 0,
+      "percent": 0.43
+    },
+    "enjambement": {
+      "count": 1,
+      "percent": 0.07,
+      "positions": [
+        6
+      ]
+    },
+    "wordOrder": {
+      "svo": 3,
+      "inversions": 1,
+      "other": 3,
+      "deviationPercent": 0.57
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 171,
+      "consonants": 243,
+      "ratio": 0.7
+    },
+    "consonantClusters": {
+      "count": 11,
+      "top": [
+        {
+          "cluster": "trz",
+          "count": 3
+        },
+        {
+          "cluster": "prz",
+          "count": 2
+        },
+        {
+          "cluster": "szcz",
+          "count": 1
+        },
+        {
+          "cluster": "rcz",
+          "count": 1
+        },
+        {
+          "cluster": "brz",
+          "count": 1
+        },
+        {
+          "cluster": "żdżk",
+          "count": 1
+        },
+        {
+          "cluster": "rsz",
+          "count": 1
+        },
+        {
+          "cluster": "psn",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 24,
+      "syczace": 37,
+      "nosowe": 50,
+      "plynne": 42
+    },
+    "rhymes": {
+      "exact": 1,
+      "approximate": 2,
+      "internal": 0,
+      "assonance": 0,
+      "alliteration": 0
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        15
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 179,
+      "estimatedSeconds": 60,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "regularny",
+      "regularityScore": 0.86
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Biblia",
+          "reference": "Anioł jako posłaniec boży",
+          "evidence": "Anioł przyszedł do nas"
+        },
+        {
+          "source": "inne",
+          "reference": "Marsz żałobny Chopina",
+          "evidence": "Marsz Szopena wygrywał na flecie"
+        },
+        {
+          "source": "inne",
+          "reference": "Mit o złotym wieku",
+          "evidence": "MIT O DAWNYM SZCZĘŚCIU w tytule"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.3,
+        "baudelaire": 0.4,
+        "bursa": 0.2,
+        "stachura": 0.1,
+        "grochowiak": 0.3,
+        "bialoszewski": 0.1,
+        "rozewicz": 0.6
+      }
+    },
+    "space": {
+      "type": "nieokreslona",
+      "evidence": "Przestrzeń oscyluje między ziemskim a niebiańskim - 'niebieskie koszary'",
+      "openClosedRatio": 0.7
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "nieokreslona",
+      "evidence": "Brak wyraźnych wskazówek temporalnych"
+    },
+    "motion": {
+      "movement": 6,
+      "stillness": 4,
+      "dynamism": 0.6,
+      "evidence": "Anioł przyszedł, zawrócił - ruch vs kamienne, marmurowe cechy"
+    },
+    "imageryDensity": {
+      "metaphors": 4,
+      "comparisons": 3,
+      "personifications": 2,
+      "hyperboles": 1,
+      "per100words": 11.4
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.7,
+      "creationLevel": 0.8,
+      "ironicDistance": 0.6,
+      "autobiographicSignals": [
+        "Wy Polacy",
+        "nasze cierpienie",
+        "nasze czoła czyste"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "ironia",
+      "secondary": "obrzydzenie",
+      "intensity": 0.8
+    },
+    "subjectPresence": {
+      "type": "ukryte",
+      "evidence": "podmiot ukrywa się za zbiorowym 'my'/'nas'/'nasze', dystansuje się ironicznie"
+    },
+    "addressee": {
+      "type": "czytelnik",
+      "evidence": "wiersz ma charakter opowieści skierowanej do odbiorcy o 'naszym' doświadczeniu"
+    },
+    "metaphors": [
+      {
+        "source": "anioł",
+        "target": "opresyjna władza",
+        "example": "Anioł przyszedł do nas, cały czarny"
+      },
+      {
+        "source": "kamień",
+        "target": "bezduszność/bezwzględność",
+        "example": "wyglądał jakby zamiast twarzy / Żywej kamień miał"
+      },
+      {
+        "source": "gwizdek policyjny",
+        "target": "flet",
+        "example": "Marsz Szopena wygrywał na flecie / Policyjnie trzymanym"
+      }
+    ],
+    "temperature": {
+      "value": 0.3,
+      "label": "chłodna ironia i rezerwa"
+    },
+    "senses": {
+      "wzrok": 5,
+      "sluch": 4,
+      "dotyk": 2,
+      "smak": 0,
+      "zapach": 0
+    },
+    "autodestruction": {
+      "level": 0.2,
+      "signals": [
+        "pokorna postawa wobec opresji",
+        "brak sprzeciwu mimo cierpienia"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 0.74,
+    "dfaAlpha": 2.952,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -1.7328679513998624
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -0.8835703876544344
+      }
+    ],
+    "seriesLength": 14,
+    "series": [
+      6,
+      5,
+      5,
+      7,
+      6,
+      4,
+      6,
+      5,
+      4,
+      4,
+      5,
+      5,
+      5,
+      5
+    ]
+  }
+}

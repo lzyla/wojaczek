@@ -1,0 +1,1029 @@
+{
+  "id": "w-smiertelnej-potrzebie",
+  "title": "W śmiertelnej potrzebie",
+  "wordCount": 111,
+  "lineCount": 16,
+  "uniqueWords": 92,
+  "vocabularyRichness": 0.829,
+  "avgWordsPerLine": 6.94,
+  "wordsPerLineDistribution": [
+    8,
+    9,
+    6,
+    6,
+    6,
+    6,
+    6,
+    6,
+    5,
+    7,
+    6,
+    6,
+    8,
+    8,
+    10,
+    8
+  ],
+  "wordFrequencies": [
+    [
+      "ogródki",
+      2
+    ],
+    [
+      "obrazy",
+      1
+    ],
+    [
+      "wyrazy",
+      1
+    ],
+    [
+      "ziemia",
+      1
+    ],
+    [
+      "niebo",
+      1
+    ],
+    [
+      "mózg",
+      1
+    ],
+    [
+      "krew",
+      1
+    ],
+    [
+      "nasienie",
+      1
+    ],
+    [
+      "chleb",
+      1
+    ],
+    [
+      "woda",
+      1
+    ],
+    [
+      "powietrze",
+      1
+    ],
+    [
+      "mężczyźni",
+      1
+    ],
+    [
+      "kobiety",
+      1
+    ],
+    [
+      "ptaki",
+      1
+    ],
+    [
+      "robaki",
+      1
+    ],
+    [
+      "owady",
+      1
+    ],
+    [
+      "żydzi",
+      1
+    ],
+    [
+      "eskimosi",
+      1
+    ],
+    [
+      "murzyni",
+      1
+    ],
+    [
+      "ludojady",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 44,
+    "period": 2,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 0,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 4,
+  "negationWords": [
+    "brak",
+    "nie",
+    "nigdzie"
+  ],
+  "pronounDistribution": {
+    "ja": 2,
+    "ty": 0,
+    "on_ona": 0,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 4,
+    "smierc": 1,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 1,
+    "sacrum": 1,
+    "noc": 0,
+    "bol": 1
+  },
+  "anaphors": [],
+  "firstWord": "obrazy",
+  "lastWord": "wspólnik",
+  "avgWordLength": 5.5,
+  "wordLengthDistribution": {
+    "6-7": 24,
+    "1-3": 30,
+    "4-5": 24,
+    "8-9": 27,
+    "10+": 6
+  },
+  "bigrams": [
+    [
+      "wyrazy ziemia",
+      1
+    ],
+    [
+      "nasienie chleb",
+      1
+    ],
+    [
+      "chleb woda",
+      1
+    ],
+    [
+      "woda oraz",
+      1
+    ]
+  ],
+  "poemWords": [
+    "obrazy",
+    "wyrazy",
+    "ziemia",
+    "niebo",
+    "mózg",
+    "krew",
+    "nasienie",
+    "chleb",
+    "woda",
+    "powietrze",
+    "mężczyźni",
+    "kobiety",
+    "ptaki",
+    "robaki",
+    "owady",
+    "żydzi",
+    "eskimosi",
+    "murzyni",
+    "ludojady",
+    "karabiny",
+    "pociski",
+    "mięso",
+    "armatnie",
+    "nerwy",
+    "skurcze",
+    "postrzały",
+    "nowotwory",
+    "zapaście",
+    "zbrodnie",
+    "filantropie",
+    "obłędy",
+    "sny",
+    "prostytutki",
+    "konstytucje",
+    "więzienia",
+    "sądy",
+    "cele",
+    "ogródki",
+    "jordanowskie",
+    "działkowe",
+    "kwietne",
+    "ogrójce",
+    "redakcje",
+    "policje",
+    "portierzy",
+    "babki",
+    "stróże",
+    "poezje",
+    "liturgie",
+    "romanse",
+    "okólniki",
+    "kropki",
+    "przecinki",
+    "pauzy",
+    "łzy",
+    "apostrofy",
+    "myślniki",
+    "rymy",
+    "asonanse",
+    "brak",
+    "rymów",
+    "rytmy",
+    "wiersze",
+    "odmawiało",
+    "byłem",
+    "pierwszy",
+    "śmiertelnej",
+    "potrzebie",
+    "wiedząc",
+    "zwrócić",
+    "wymyśliłem",
+    "wojaczka",
+    "wspólnik"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 54,
+        "VERB": 8,
+        "ADJ": 7,
+        "ADV": 3,
+        "PRON": 3,
+        "ADP": 2,
+        "CCONJ": 20,
+        "SCONJ": 2,
+        "INTJ": 0,
+        "PART": 7,
+        "DET": 1,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.47,
+        "VERB": 0.07,
+        "ADJ": 0.061,
+        "ADV": 0.026,
+        "PRON": 0.026,
+        "ADP": 0.017,
+        "CCONJ": 0.174,
+        "SCONJ": 0.017,
+        "INTJ": 0,
+        "PART": 0.061,
+        "DET": 0.009,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 6,
+        "abstract": 1,
+        "ratio": 0.86
+      },
+      "verbTenses": {
+        "past": 6,
+        "present": 2,
+        "infinitive": 1
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 1,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 0,
+        "opisowe": 7
+      },
+      "adverbs": {
+        "temporalne": [],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "armatnie",
+            "count": 1
+          },
+          {
+            "word": "nigdzie",
+            "count": 1
+          },
+          {
+            "word": "gdzie",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 1,
+        "ty": 0,
+        "on_ona": 0,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 2,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 1,
+        "zaden": 0,
+        "total": 3,
+        "percentSentences": 0.75
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 282,
+        "consonants": 349,
+        "ratio": 0.81
+      },
+      "consonantClusters": {
+        "count": 26,
+        "top": [
+          {
+            "cluster": "trz",
+            "count": 3
+          },
+          {
+            "cluster": "str",
+            "count": 2
+          },
+          {
+            "cluster": "gdz",
+            "count": 2
+          },
+          {
+            "cluster": "szcz",
+            "count": 1
+          },
+          {
+            "cluster": "chl",
+            "count": 1
+          },
+          {
+            "cluster": "żcz",
+            "count": 1
+          },
+          {
+            "cluster": "rcz",
+            "count": 1
+          },
+          {
+            "cluster": "strz",
+            "count": 1
+          },
+          {
+            "cluster": "zbr",
+            "count": 1
+          },
+          {
+            "cluster": "ntr",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 20,
+        "syczace": 53,
+        "nosowe": 57,
+        "plynne": 60
+      },
+      "rhymes": {
+        "exact": 2,
+        "approximate": 6,
+        "internal": 2,
+        "assonance": 3,
+        "alliteration": 3
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 28.8,
+        "median": 13,
+        "min": 1,
+        "max": 88,
+        "distribution": [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 6.4,
+        "meanSyllables": 15.8,
+        "distribution": [
+          0,
+          1,
+          0,
+          1,
+          0,
+          1,
+          8,
+          1,
+          4,
+          1,
+          1
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 4,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 1,
+        "noSubject": 1,
+        "noPredicate": 0,
+        "percent": 0.5
+      },
+      "enjambement": {
+        "count": 0,
+        "percent": 0,
+        "positions": []
+      },
+      "wordOrder": {
+        "svo": 1,
+        "inversions": 1,
+        "other": 1,
+        "deviationPercent": 0.67
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 2,
+        "śmierć": 1,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 1,
+        "sacrum": 1,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 285,
+      "estimatedSeconds": 95,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 54,
+      "VERB": 8,
+      "ADJ": 7,
+      "ADV": 3,
+      "PRON": 3,
+      "ADP": 2,
+      "CCONJ": 20,
+      "SCONJ": 2,
+      "INTJ": 0,
+      "PART": 7,
+      "DET": 1,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.47,
+      "VERB": 0.07,
+      "ADJ": 0.061,
+      "ADV": 0.026,
+      "PRON": 0.026,
+      "ADP": 0.017,
+      "CCONJ": 0.174,
+      "SCONJ": 0.017,
+      "INTJ": 0,
+      "PART": 0.061,
+      "DET": 0.009,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 6,
+      "abstract": 1,
+      "ratio": 0.86
+    },
+    "verbTenses": {
+      "past": 6,
+      "present": 2,
+      "infinitive": 1
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 1,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 0,
+      "opisowe": 7
+    },
+    "adverbs": {
+      "temporalne": [],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "armatnie",
+          "count": 1
+        },
+        {
+          "word": "nigdzie",
+          "count": 1
+        },
+        {
+          "word": "gdzie",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 1,
+      "ty": 0,
+      "on_ona": 0,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 2,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 1,
+      "zaden": 0,
+      "total": 3,
+      "percentSentences": 0.75
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 28.8,
+      "median": 13,
+      "min": 1,
+      "max": 88,
+      "distribution": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 6.4,
+      "meanSyllables": 15.8,
+      "distribution": [
+        0,
+        1,
+        0,
+        1,
+        0,
+        1,
+        8,
+        1,
+        4,
+        1,
+        1
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 4,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 1,
+      "noSubject": 1,
+      "noPredicate": 0,
+      "percent": 0.5
+    },
+    "enjambement": {
+      "count": 0,
+      "percent": 0,
+      "positions": []
+    },
+    "wordOrder": {
+      "svo": 1,
+      "inversions": 1,
+      "other": 1,
+      "deviationPercent": 0.67
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 282,
+      "consonants": 349,
+      "ratio": 0.81
+    },
+    "consonantClusters": {
+      "count": 26,
+      "top": [
+        {
+          "cluster": "trz",
+          "count": 3
+        },
+        {
+          "cluster": "str",
+          "count": 2
+        },
+        {
+          "cluster": "gdz",
+          "count": 2
+        },
+        {
+          "cluster": "szcz",
+          "count": 1
+        },
+        {
+          "cluster": "chl",
+          "count": 1
+        },
+        {
+          "cluster": "żcz",
+          "count": 1
+        },
+        {
+          "cluster": "rcz",
+          "count": 1
+        },
+        {
+          "cluster": "strz",
+          "count": 1
+        },
+        {
+          "cluster": "zbr",
+          "count": 1
+        },
+        {
+          "cluster": "ntr",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 20,
+      "syczace": 53,
+      "nosowe": 57,
+      "plynne": 60
+    },
+    "rhymes": {
+      "exact": 2,
+      "approximate": 6,
+      "internal": 2,
+      "assonance": 3,
+      "alliteration": 3
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        18
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 285,
+      "estimatedSeconds": 95,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "regularny",
+      "regularityScore": 0.71
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Biblia",
+          "reference": "ogrójec",
+          "evidence": "kwietne ogrójce - nawiązanie do Ogrójca, ogrodu Getsemani"
+        },
+        {
+          "source": "Whitman",
+          "reference": "katalogowanie rzeczywistości",
+          "evidence": "długa lista elementów świata w stylu Whitmana"
+        },
+        {
+          "source": "inne",
+          "reference": "ogródki Jordanowskie",
+          "evidence": "nawiązanie do Henryka Jordana i jego ogródków dla dzieci"
+        }
+      ],
+      "selfQuotes": [
+        "Wymyśliłem Wojaczka"
+      ],
+      "influences": {
+        "rimbaud": 0.7,
+        "baudelaire": 0.3,
+        "bursa": 0.1,
+        "stachura": 0.4,
+        "grochowiak": 0.2,
+        "bialoszewski": 0.6,
+        "rozewicz": 0.8
+      }
+    },
+    "space": {
+      "type": "otwarta",
+      "evidence": "ziemia i niebo, wyliczenie miejsc od ogródków po redakcje i więzienia",
+      "openClosedRatio": 0.9
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "nieokreslona",
+      "evidence": "brak konkretnych wskazówek temporalnych"
+    },
+    "motion": {
+      "movement": 2,
+      "stillness": 3,
+      "dynamism": 0.3,
+      "evidence": "dominuje statyczne wyliczanie, minimalna dynamika w 'zwrócić się'"
+    },
+    "imageryDensity": {
+      "metaphors": 2,
+      "comparisons": 0,
+      "personifications": 1,
+      "hyperboles": 1,
+      "per100words": 4.2
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.9,
+      "creationLevel": 0.8,
+      "ironicDistance": 0.3,
+      "autobiographicSignals": [
+        "Wymyśliłem Wojaczka",
+        "w śmiertelnej potrzebie",
+        "nigdzie nie byłem pierwszy",
+        "mój wspólnik"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "rozpacz",
+      "secondary": "rezygnacja",
+      "intensity": 0.9
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "podmiot mówi o sobie wprost: 'nie byłem pierwszy', 'wymyśliłem Wojaczka'"
+    },
+    "addressee": {
+      "type": "czytelnik",
+      "evidence": "wiersz ma charakter wyznania skierowanego do odbiorcy, prezentuje własną sytuację egzystencjalną"
+    },
+    "metaphors": [
+      {
+        "source": "tworzenie alter ego",
+        "target": "przetrwanie egzystencjalne",
+        "example": "Wymyśliłem Wojaczka i to właśnie jest mój wspólnik"
+      },
+      {
+        "source": "katalog świata",
+        "target": "totalność odrzucenia",
+        "example": "Wszystko mi odmawiało"
+      }
+    ],
+    "temperature": {
+      "value": 0.3,
+      "label": "chłodna rezygnacja z nutą desperacji"
+    },
+    "senses": {
+      "wzrok": 4,
+      "sluch": 2,
+      "dotyk": 3,
+      "smak": 2,
+      "zapach": 1
+    },
+    "autodestruction": {
+      "level": 0.8,
+      "signals": [
+        "śmiertelna potrzeба jako stan egzystencjalny",
+        "totalny brak przynależności - 'nigdzie nie byłem pierwszy'",
+        "konieczność wymyślenia alter ego jako forma ucieczki od siebie",
+        "poczucie odrzucenia przez całą rzeczywistość"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 1.029,
+    "dfaAlpha": 1.83,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -1.2628643221541263
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -0.9527869978746079
+      },
+      {
+        "logWin": 1.6094379124341003,
+        "logFluc": -0.30902385311311104
+      }
+    ],
+    "seriesLength": 16,
+    "series": [
+      8,
+      9,
+      6,
+      6,
+      6,
+      6,
+      6,
+      6,
+      5,
+      7,
+      6,
+      6,
+      8,
+      8,
+      10,
+      8
+    ]
+  }
+}

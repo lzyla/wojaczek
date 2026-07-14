@@ -1,15 +1,24 @@
-import { useRef } from 'react';
-import { motion, useScroll, useTransform } from 'motion/react';
+import { useState, useRef } from 'react';
+import { motion, useScroll, useTransform, AnimatePresence } from 'motion/react';
+import { BookOpen, Clock, Headphones, MessageCircle, Library } from 'lucide-react';
+import { ReadMode } from './ReadMode';
+import { TimelineMode } from './TimelineMode';
+import { ListenMode } from './ListenMode';
+import { PoetChat } from './PoetChat';
+import { BibliotekaMode } from './BibliotekaMode';
 
-const TIMELINE = [
-  { year: '1945', event: 'Urodziny w Mikołowie', detail: '6 grudnia' },
-  { year: '1963', event: 'Debiut w „Poezji"', detail: 'Pierwsze publikacje' },
-  { year: '1965', event: 'Studia we Wrocławiu', detail: 'Polonistyka' },
-  { year: '1969', event: 'Wydanie tomu „Sezon"', detail: 'Debiut książkowy' },
-  { year: '1971', event: 'Śmierć we Wrocławiu', detail: '11 maja' },
+type Mode = 'read' | 'timeline' | 'listen' | 'chat' | 'library';
+
+const TABS: { id: Mode; label: string; icon: typeof BookOpen }[] = [
+  { id: 'read', label: 'Czytaj', icon: BookOpen },
+  { id: 'timeline', label: 'Oś czasu', icon: Clock },
+  { id: 'listen', label: 'Posłuchaj', icon: Headphones },
+  { id: 'chat', label: 'Czat', icon: MessageCircle },
+  { id: 'library', label: 'Biblioteka', icon: Library },
 ];
 
 export const BiographyView = () => {
+  const [mode, setMode] = useState<Mode>('read');
   const portraitRef = useRef<HTMLDivElement>(null);
   const { scrollYProgress } = useScroll({
     target: portraitRef,
@@ -23,12 +32,11 @@ export const BiographyView = () => {
       initial={{ opacity: 0 }}
       animate={{ opacity: 1 }}
       exit={{ opacity: 0 }}
-      className="space-y-12"
     >
-      {/* Portrait - parallax */}
-      <div ref={portraitRef} className="rounded-xl overflow-hidden shadow-sm mt-4">
+      {/* Portrait - parallax with rounded top */}
+      <div ref={portraitRef} className="rounded-t-xl overflow-hidden mt-4">
         <motion.img
-          src="https://upload.wikimedia.org/wikipedia/commons/f/f7/Rafa%C5%82_Wojaczek.jpg"
+          src="/images/wojaczek-portret.jpg"
           alt="Rafał Wojaczek"
           className="w-full aspect-[3/4] object-cover object-center grayscale contrast-125 brightness-90 scale-115"
           style={{ y: imgY }}
@@ -36,55 +44,57 @@ export const BiographyView = () => {
         />
       </div>
 
-      <div>
+      {/* Title */}
+      <div className="mt-10 mb-8">
         <span className="label-ui text-mist-dark text-[12px]">1945 — 1971</span>
         <h2 className="text-5xl font-cormorant font-bold tracking-tighter leading-none mt-3">
-          Rafał<br />Wojaczek
+          Życiorys
         </h2>
       </div>
 
-      <div className="space-y-6 text-sm leading-relaxed">
-        <p className="dropcap">
-          Urodzony 6 grudnia 1945 roku w Mikołowie, zmarł tragicznie 11 maja 1971 roku we Wrocławiu. Jeden z najwybitniejszych polskich poetów powojennych, zaliczany do grona „poetów przeklętych".
-        </p>
-        <p>
-          Jego twórczość, nasycona motywami śmierci, bólu, buntu i erotyki, do dziś budzi silne emocje. Wojaczek nie tylko pisał poezję – on nią żył, czyniąc z własnej egzystencji bolesny performance.
-        </p>
-
-        {/* Quote */}
-        <div className="p-6 border-l-2 border-seal bg-mist-light/30 italic mt-8 rounded-r-lg">
-          <p className="text-base leading-relaxed opacity-80">
-            „Mówię do ciebie cicho, bo nie mam już sił krzyczeć. Moja krew jest atramentem, którym piszę ten świat od nowa."
-          </p>
-        </div>
-      </div>
-
-      {/* Timeline */}
-      <div className="pt-12 border-t border-mist-light">
-        <span className="label-ui text-mist block mb-8">KALENDARIUM</span>
-        <div className="space-y-0">
-          {TIMELINE.map((item, i) => (
-            <div
-              key={i}
-              className="flex gap-6 items-center py-4 border-b border-mist-light/50 last:border-0 group"
-            >
-              {/* Year circle - keep animation */}
-              <motion.div
-                initial={{ scale: 0 }}
-                animate={{ scale: 1 }}
-                transition={{ delay: 0.1 + i * 0.04, type: 'spring', stiffness: 400, damping: 15 }}
-                className="w-14 h-14 rounded-full border border-ink/10 flex items-center justify-center shrink-0 bg-mist-light/30 group-hover:bg-ink group-hover:text-white group-hover:border-ink transition-all duration-300 shadow-sm"
+      {/* Tabs — scrollable with fade hint */}
+      <div className="relative mb-10">
+        <div className="flex gap-0 border border-ink/10 overflow-x-auto scrollbar-hide">
+          {TABS.map((tab) => {
+            const Icon = tab.icon;
+            const isActive = mode === tab.id;
+            return (
+              <button
+                key={tab.id}
+                onClick={() => setMode(tab.id)}
+                className={`flex-shrink-0 flex items-center justify-center gap-1.5 px-4 py-3 text-[13px] transition-colors whitespace-nowrap ${
+                  isActive
+                    ? 'bg-ink text-white'
+                    : 'bg-white text-ink/60 hover:text-ink hover:bg-mist-light/30'
+                }`}
               >
-                <span className="label-ui text-[9px]">{item.year}</span>
-              </motion.div>
-              <div className="flex-1">
-                <span className="text-sm font-medium group-hover:text-seal transition-colors">{item.event}</span>
-                <span className="text-xs text-mist-dark block mt-0.5">{item.detail}</span>
-              </div>
-            </div>
-          ))}
+                <Icon size={13} />
+                <span className="font-medium">{tab.label}</span>
+              </button>
+            );
+          })}
         </div>
+        {/* Fade hint — right edge gradient */}
+        <div className="absolute right-0 top-0 bottom-0 w-8 pointer-events-none bg-gradient-to-l from-white to-transparent" />
       </div>
+
+      {/* Mode content */}
+      <AnimatePresence mode="wait">
+        <motion.div
+          key={mode}
+          initial={{ opacity: 0, y: 12 }}
+          animate={{ opacity: 1, y: 0 }}
+          exit={{ opacity: 0, y: -12 }}
+          transition={{ duration: 0.25 }}
+          className="pb-24"
+        >
+          {mode === 'read' && <ReadMode />}
+          {mode === 'timeline' && <TimelineMode />}
+          {mode === 'listen' && <ListenMode />}
+          {mode === 'chat' && <PoetChat embedded />}
+          {mode === 'library' && <BibliotekaMode />}
+        </motion.div>
+      </AnimatePresence>
     </motion.div>
   );
 };

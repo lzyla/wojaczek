@@ -1,0 +1,801 @@
+{
+  "id": "drzewo-hodowane-w-ciszy",
+  "title": "Drzewo hodowane w ciszy",
+  "wordCount": 52,
+  "lineCount": 12,
+  "uniqueWords": 43,
+  "vocabularyRichness": 0.827,
+  "avgWordsPerLine": 4.33,
+  "wordsPerLineDistribution": [
+    3,
+    8,
+    8,
+    4,
+    5,
+    2,
+    5,
+    5,
+    3,
+    2,
+    4,
+    3
+  ],
+  "wordFrequencies": [
+    [
+      "drzewo",
+      1
+    ],
+    [
+      "hodowane",
+      1
+    ],
+    [
+      "ciszy",
+      1
+    ],
+    [
+      "liści",
+      1
+    ],
+    [
+      "zdanie",
+      1
+    ],
+    [
+      "kiedyś",
+      1
+    ],
+    [
+      "napisałem",
+      1
+    ],
+    [
+      "poczuwam",
+      1
+    ],
+    [
+      "przyglądam",
+      1
+    ],
+    [
+      "odroślom",
+      1
+    ],
+    [
+      "daję",
+      1
+    ],
+    [
+      "żonie",
+      1
+    ],
+    [
+      "potrzymania",
+      1
+    ],
+    [
+      "bierze",
+      1
+    ],
+    [
+      "niechętnie",
+      1
+    ],
+    [
+      "miasto",
+      1
+    ],
+    [
+      "duże",
+      1
+    ],
+    [
+      "nauczycielka",
+      1
+    ],
+    [
+      "pokoju",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 0,
+    "period": 1,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 0,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 4,
+  "negationWords": [
+    "nie"
+  ],
+  "pronounDistribution": {
+    "ja": 1,
+    "ty": 0,
+    "on_ona": 0,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 0,
+    "smierc": 0,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [],
+  "firstWord": "drzewo",
+  "lastWord": "staremu",
+  "avgWordLength": 5.08,
+  "wordLengthDistribution": {
+    "1-3": 16,
+    "6-7": 11,
+    "8-9": 6,
+    "4-5": 15,
+    "10+": 4
+  },
+  "bigrams": [
+    [
+      "drzewo hodowane",
+      1
+    ],
+    [
+      "ciszy nawet",
+      1
+    ],
+    [
+      "nawet liści",
+      1
+    ],
+    [
+      "ma zdanie",
+      1
+    ],
+    [
+      "kiedyś napisałem",
+      1
+    ]
+  ],
+  "poemWords": [
+    "drzewo",
+    "hodowane",
+    "ciszy",
+    "liści",
+    "zdanie",
+    "kiedyś",
+    "napisałem",
+    "poczuwam",
+    "przyglądam",
+    "odroślom",
+    "daję",
+    "żonie",
+    "potrzymania",
+    "bierze",
+    "niechętnie",
+    "miasto",
+    "duże",
+    "nauczycielka",
+    "pokoju",
+    "drut",
+    "robótek",
+    "fiasko",
+    "męczą",
+    "ciągłe",
+    "wzdęcia",
+    "spłaciłem",
+    "dług",
+    "staremu"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 15,
+        "VERB": 8,
+        "ADJ": 4,
+        "ADV": 3,
+        "PRON": 3,
+        "ADP": 4,
+        "CCONJ": 1,
+        "SCONJ": 0,
+        "INTJ": 0,
+        "PART": 6,
+        "DET": 3,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.3,
+        "VERB": 0.16,
+        "ADJ": 0.08,
+        "ADV": 0.06,
+        "PRON": 0.06,
+        "ADP": 0.08,
+        "CCONJ": 0.02,
+        "SCONJ": 0,
+        "INTJ": 0,
+        "PART": 0.12,
+        "DET": 0.06,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 2,
+        "abstract": 1,
+        "ratio": 0.67
+      },
+      "verbTenses": {
+        "present": 7,
+        "past": 2
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 1,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 0,
+        "opisowe": 4
+      },
+      "adverbs": {
+        "temporalne": [
+          "kiedyś"
+        ],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "kiedyś",
+            "count": 1
+          },
+          {
+            "word": "niechętnie",
+            "count": 1
+          },
+          {
+            "word": "gdzie",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 1,
+        "ty": 0,
+        "on_ona": 0,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 4,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 4,
+        "percentSentences": 0.67
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 116,
+        "consonants": 145,
+        "ratio": 0.8
+      },
+      "consonantClusters": {
+        "count": 7,
+        "top": [
+          {
+            "cluster": "drz",
+            "count": 1
+          },
+          {
+            "cluster": "prz",
+            "count": 1
+          },
+          {
+            "cluster": "szc",
+            "count": 1
+          },
+          {
+            "cluster": "trz",
+            "count": 1
+          },
+          {
+            "cluster": "gdz",
+            "count": 1
+          },
+          {
+            "cluster": "wzd",
+            "count": 1
+          },
+          {
+            "cluster": "spł",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 11,
+        "syczace": 23,
+        "nosowe": 36,
+        "plynne": 20
+      },
+      "rhymes": {
+        "exact": 0,
+        "approximate": 0,
+        "internal": 1,
+        "assonance": 0,
+        "alliteration": 0
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 8.3,
+        "median": 8,
+        "min": 1,
+        "max": 16,
+        "distribution": [
+          0,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 4.1,
+        "meanSyllables": 9.5,
+        "distribution": [
+          0,
+          1,
+          2,
+          3,
+          2,
+          3,
+          0,
+          0,
+          2
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 6,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 2,
+        "noSubject": 2,
+        "noPredicate": 0,
+        "percent": 0.67
+      },
+      "enjambement": {
+        "count": 2,
+        "percent": 0.17,
+        "positions": [
+          4,
+          5
+        ]
+      },
+      "wordOrder": {
+        "svo": 2,
+        "inversions": 0,
+        "other": 3,
+        "deviationPercent": 0.6
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 0,
+        "śmierć": 0,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 123,
+      "estimatedSeconds": 41,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 15,
+      "VERB": 8,
+      "ADJ": 4,
+      "ADV": 3,
+      "PRON": 3,
+      "ADP": 4,
+      "CCONJ": 1,
+      "SCONJ": 0,
+      "INTJ": 0,
+      "PART": 6,
+      "DET": 3,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.3,
+      "VERB": 0.16,
+      "ADJ": 0.08,
+      "ADV": 0.06,
+      "PRON": 0.06,
+      "ADP": 0.08,
+      "CCONJ": 0.02,
+      "SCONJ": 0,
+      "INTJ": 0,
+      "PART": 0.12,
+      "DET": 0.06,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 2,
+      "abstract": 1,
+      "ratio": 0.67
+    },
+    "verbTenses": {
+      "present": 7,
+      "past": 2
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 1,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 0,
+      "opisowe": 4
+    },
+    "adverbs": {
+      "temporalne": [
+        "kiedyś"
+      ],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "kiedyś",
+          "count": 1
+        },
+        {
+          "word": "niechętnie",
+          "count": 1
+        },
+        {
+          "word": "gdzie",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 1,
+      "ty": 0,
+      "on_ona": 0,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 4,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 4,
+      "percentSentences": 0.67
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 8.3,
+      "median": 8,
+      "min": 1,
+      "max": 16,
+      "distribution": [
+        0,
+        1,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 4.1,
+      "meanSyllables": 9.5,
+      "distribution": [
+        0,
+        1,
+        2,
+        3,
+        2,
+        3,
+        0,
+        0,
+        2
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 6,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 2,
+      "noSubject": 2,
+      "noPredicate": 0,
+      "percent": 0.67
+    },
+    "enjambement": {
+      "count": 2,
+      "percent": 0.17,
+      "positions": [
+        4,
+        5
+      ]
+    },
+    "wordOrder": {
+      "svo": 2,
+      "inversions": 0,
+      "other": 3,
+      "deviationPercent": 0.6
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 116,
+      "consonants": 145,
+      "ratio": 0.8
+    },
+    "consonantClusters": {
+      "count": 7,
+      "top": [
+        {
+          "cluster": "drz",
+          "count": 1
+        },
+        {
+          "cluster": "prz",
+          "count": 1
+        },
+        {
+          "cluster": "szc",
+          "count": 1
+        },
+        {
+          "cluster": "trz",
+          "count": 1
+        },
+        {
+          "cluster": "gdz",
+          "count": 1
+        },
+        {
+          "cluster": "wzd",
+          "count": 1
+        },
+        {
+          "cluster": "spł",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 11,
+      "syczace": 23,
+      "nosowe": 36,
+      "plynne": 20
+    },
+    "rhymes": {
+      "exact": 0,
+      "approximate": 0,
+      "internal": 1,
+      "assonance": 0,
+      "alliteration": 0
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        13
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 123,
+      "estimatedSeconds": 41,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "polregularny",
+      "regularityScore": 0.41
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "inne",
+          "reference": "Kafka - Miasto K.",
+          "evidence": "Miasto K. Nie jest duże - nawiązanie do Procesu i Zamku Kafki"
+        },
+        {
+          "source": "inne",
+          "reference": "poetyka fragmentu",
+          "evidence": "urywkowa struktura tekstu nawiązująca do modernistycznej poezji"
+        }
+      ],
+      "selfQuotes": [
+        "Zdanie które kiedyś napisałem ale się nie poczuwam"
+      ],
+      "influences": {
+        "rimbaud": 0.2,
+        "baudelaire": 0.1,
+        "bursa": 0.3,
+        "stachura": 0.4,
+        "grochowiak": 0.3,
+        "bialoszewski": 0.7,
+        "rozewicz": 0.8
+      }
+    },
+    "space": {
+      "type": "zamknieta",
+      "evidence": "pokój nauczycielki, intymna przestrzeń domowa z żoną",
+      "openClosedRatio": 0.3
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "nieokreslona",
+      "evidence": "brak wyraźnych wskaźników temporalnych"
+    },
+    "motion": {
+      "movement": 2,
+      "stillness": 8,
+      "dynamism": 0.2,
+      "evidence": "statyczne czynności - przyglądanie się, dawanie do potrzymania, siedzenie"
+    },
+    "imageryDensity": {
+      "metaphors": 1,
+      "comparisons": 0,
+      "personifications": 1,
+      "hyperboles": 0,
+      "per100words": 4.8
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.9,
+      "creationLevel": 0.3,
+      "ironicDistance": 0.2,
+      "autobiographicSignals": [
+        "żona",
+        "spłaciłem dług",
+        "moje odrosły",
+        "ciągłe wzdęcia",
+        "data 1966"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "rezygnacja",
+      "secondary": "melancholia",
+      "intensity": 0.7
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "Przyglądam się swoim odroślom, daję żonie, Męczą mnie"
+    },
+    "addressee": {
+      "type": "siebie",
+      "evidence": "autoanalityczny charakter wypowiedzi, obserwacja własnych stanów"
+    },
+    "metaphors": [
+      {
+        "source": "drzewo bez liści",
+        "target": "bezpłodność twórcza",
+        "example": "Drzewo hodowane w ciszy nawet liści nie ma"
+      },
+      {
+        "source": "odrosła",
+        "target": "utwory/dzieła",
+        "example": "Przyglądam się swoim odroślom"
+      }
+    ],
+    "temperature": {
+      "value": 0.2,
+      "label": "chłodna rezygnacja"
+    },
+    "senses": {
+      "wzrok": 3,
+      "sluch": 1,
+      "dotyk": 2,
+      "smak": 0,
+      "zapach": 0
+    },
+    "autodestruction": {
+      "level": 0.4,
+      "signals": [
+        "brak identyfikacji z własną twórczością",
+        "fizyczne dolegliwości",
+        "fragmentaryczność wypowiedzi"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 1.567,
+    "dfaAlpha": 2.744,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -1.0397207708399157
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -0.2504466772278681
+      }
+    ],
+    "seriesLength": 12,
+    "series": [
+      3,
+      8,
+      8,
+      4,
+      5,
+      2,
+      5,
+      5,
+      3,
+      2,
+      4,
+      3
+    ]
+  }
+}

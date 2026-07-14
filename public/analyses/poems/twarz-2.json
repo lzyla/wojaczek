@@ -1,0 +1,978 @@
+{
+  "id": "twarz-2",
+  "title": "Twarz",
+  "wordCount": 76,
+  "lineCount": 12,
+  "uniqueWords": 68,
+  "vocabularyRichness": 0.895,
+  "avgWordsPerLine": 6.33,
+  "wordsPerLineDistribution": [
+    5,
+    5,
+    7,
+    7,
+    4,
+    5,
+    9,
+    6,
+    6,
+    9,
+    7,
+    6
+  ],
+  "wordFrequencies": [
+    [
+      "twarz",
+      3
+    ],
+    [
+      "skądinąd",
+      1
+    ],
+    [
+      "znajoma",
+      1
+    ],
+    [
+      "oszukuje",
+      1
+    ],
+    [
+      "wydłutowana",
+      1
+    ],
+    [
+      "brązowym",
+      1
+    ],
+    [
+      "powietrzu",
+      1
+    ],
+    [
+      "złotnika",
+      1
+    ],
+    [
+      "światło",
+      1
+    ],
+    [
+      "mieni",
+      1
+    ],
+    [
+      "jedynej",
+      1
+    ],
+    [
+      "osoby",
+      1
+    ],
+    [
+      "wenus",
+      1
+    ],
+    [
+      "ociekającej",
+      1
+    ],
+    [
+      "pianą",
+      1
+    ],
+    [
+      "tęsknot",
+      1
+    ],
+    [
+      "niemożliwych",
+      1
+    ],
+    [
+      "której",
+      1
+    ],
+    [
+      "rój",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 4,
+    "period": 1,
+    "question": 0,
+    "exclamation": 1,
+    "ellipsis": 1,
+    "dash": 7,
+    "colon": 1,
+    "semicolon": 2
+  },
+  "questionCount": 0,
+  "exclamationCount": 1,
+  "negationCount": 2,
+  "negationWords": [
+    "nie"
+  ],
+  "pronounDistribution": {
+    "ja": 0,
+    "ty": 0,
+    "on_ona": 0,
+    "my": 4,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 3,
+    "smierc": 0,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 1,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [
+    [
+      "nie",
+      2
+    ],
+    [
+      "lecz",
+      2
+    ]
+  ],
+  "firstWord": "skądinąd",
+  "lastWord": "chichot",
+  "avgWordLength": 5.61,
+  "wordLengthDistribution": {
+    "8-9": 11,
+    "1-3": 22,
+    "6-7": 19,
+    "4-5": 19,
+    "10+": 5
+  },
+  "bigrams": [
+    [
+      "skądinąd nam",
+      1
+    ],
+    [
+      "nam znajoma",
+      1
+    ],
+    [
+      "znajoma oszukuje",
+      1
+    ],
+    [
+      "oszukuje twarz",
+      1
+    ],
+    [
+      "twarz właśnie",
+      1
+    ],
+    [
+      "właśnie wydłutowana",
+      1
+    ],
+    [
+      "brązowym powietrzu",
+      1
+    ],
+    [
+      "światło mieni",
+      1
+    ]
+  ],
+  "poemWords": [
+    "skądinąd",
+    "znajoma",
+    "oszukuje",
+    "twarz",
+    "wydłutowana",
+    "brązowym",
+    "powietrzu",
+    "złotnika",
+    "światło",
+    "mieni",
+    "siebie",
+    "jedynej",
+    "osoby",
+    "wenus",
+    "ociekającej",
+    "pianą",
+    "tęsknot",
+    "niemożliwych",
+    "której",
+    "rój",
+    "ważek",
+    "niewidzialnoskrzydłych",
+    "pomógł",
+    "wzroku",
+    "litego",
+    "światła",
+    "poligonie",
+    "głodu",
+    "naszego",
+    "twarda",
+    "pałeczka",
+    "tarczę",
+    "werbla",
+    "dopadały",
+    "groty",
+    "oszustwie",
+    "chce",
+    "gorgony",
+    "madonny",
+    "przekonać",
+    "swą",
+    "miną",
+    "dosłyszała",
+    "jąder",
+    "chichot"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 24,
+        "VERB": 8,
+        "ADJ": 9,
+        "ADV": 1,
+        "PRON": 5,
+        "ADP": 7,
+        "CCONJ": 3,
+        "SCONJ": 5,
+        "INTJ": 0,
+        "PART": 6,
+        "DET": 4,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.312,
+        "VERB": 0.104,
+        "ADJ": 0.117,
+        "ADV": 0.013,
+        "PRON": 0.065,
+        "ADP": 0.091,
+        "CCONJ": 0.039,
+        "SCONJ": 0.065,
+        "INTJ": 0,
+        "PART": 0.078,
+        "DET": 0.052,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 0,
+        "abstract": 0,
+        "ratio": 0
+      },
+      "verbTenses": {
+        "present": 5,
+        "past": 3,
+        "infinitive": 1
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 1,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 0,
+        "opisowe": 9
+      },
+      "adverbs": {
+        "temporalne": [],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "gdy",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 0,
+        "ty": 0,
+        "on_ona": 1,
+        "my": 3,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 2,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 2,
+        "percentSentences": 1
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 172,
+        "consonants": 259,
+        "ratio": 0.66
+      },
+      "consonantClusters": {
+        "count": 12,
+        "top": [
+          {
+            "cluster": "prz",
+            "count": 2
+          },
+          {
+            "cluster": "trz",
+            "count": 1
+          },
+          {
+            "cluster": "szc",
+            "count": 1
+          },
+          {
+            "cluster": "skn",
+            "count": 1
+          },
+          {
+            "cluster": "skrz",
+            "count": 1
+          },
+          {
+            "cluster": "wzr",
+            "count": 1
+          },
+          {
+            "cluster": "czk",
+            "count": 1
+          },
+          {
+            "cluster": "rcz",
+            "count": 1
+          },
+          {
+            "cluster": "rbl",
+            "count": 1
+          },
+          {
+            "cluster": "stw",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 21,
+        "syczace": 33,
+        "nosowe": 49,
+        "plynne": 39
+      },
+      "rhymes": {
+        "exact": 2,
+        "approximate": 0,
+        "internal": 0,
+        "assonance": 0,
+        "alliteration": 1
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 38.5,
+        "median": 38,
+        "min": 6,
+        "max": 71,
+        "distribution": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 6.5,
+        "meanSyllables": 14.1,
+        "distribution": [
+          0,
+          1,
+          0,
+          0,
+          1,
+          2,
+          1,
+          5,
+          0,
+          2,
+          0,
+          1
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 2,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 0,
+        "noSubject": 1,
+        "noPredicate": 0,
+        "percent": 0.5
+      },
+      "enjambement": {
+        "count": 5,
+        "percent": 0.42,
+        "positions": [
+          3,
+          5,
+          7,
+          9,
+          11
+        ]
+      },
+      "wordOrder": {
+        "svo": 1,
+        "inversions": 0,
+        "other": 1,
+        "deviationPercent": 0.5
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 4,
+        "śmierć": 0,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 1,
+        "sacrum": 0,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 183,
+      "estimatedSeconds": 61,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 24,
+      "VERB": 8,
+      "ADJ": 9,
+      "ADV": 1,
+      "PRON": 5,
+      "ADP": 7,
+      "CCONJ": 3,
+      "SCONJ": 5,
+      "INTJ": 0,
+      "PART": 6,
+      "DET": 4,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.312,
+      "VERB": 0.104,
+      "ADJ": 0.117,
+      "ADV": 0.013,
+      "PRON": 0.065,
+      "ADP": 0.091,
+      "CCONJ": 0.039,
+      "SCONJ": 0.065,
+      "INTJ": 0,
+      "PART": 0.078,
+      "DET": 0.052,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 0,
+      "abstract": 0,
+      "ratio": 0
+    },
+    "verbTenses": {
+      "present": 5,
+      "past": 3,
+      "infinitive": 1
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 1,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 0,
+      "opisowe": 9
+    },
+    "adverbs": {
+      "temporalne": [],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "gdy",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 0,
+      "ty": 0,
+      "on_ona": 1,
+      "my": 3,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 2,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 2,
+      "percentSentences": 1
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 38.5,
+      "median": 38,
+      "min": 6,
+      "max": 71,
+      "distribution": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 6.5,
+      "meanSyllables": 14.1,
+      "distribution": [
+        0,
+        1,
+        0,
+        0,
+        1,
+        2,
+        1,
+        5,
+        0,
+        2,
+        0,
+        1
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 2,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 0,
+      "noSubject": 1,
+      "noPredicate": 0,
+      "percent": 0.5
+    },
+    "enjambement": {
+      "count": 5,
+      "percent": 0.42,
+      "positions": [
+        3,
+        5,
+        7,
+        9,
+        11
+      ]
+    },
+    "wordOrder": {
+      "svo": 1,
+      "inversions": 0,
+      "other": 1,
+      "deviationPercent": 0.5
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 172,
+      "consonants": 259,
+      "ratio": 0.66
+    },
+    "consonantClusters": {
+      "count": 12,
+      "top": [
+        {
+          "cluster": "prz",
+          "count": 2
+        },
+        {
+          "cluster": "trz",
+          "count": 1
+        },
+        {
+          "cluster": "szc",
+          "count": 1
+        },
+        {
+          "cluster": "skn",
+          "count": 1
+        },
+        {
+          "cluster": "skrz",
+          "count": 1
+        },
+        {
+          "cluster": "wzr",
+          "count": 1
+        },
+        {
+          "cluster": "czk",
+          "count": 1
+        },
+        {
+          "cluster": "rcz",
+          "count": 1
+        },
+        {
+          "cluster": "rbl",
+          "count": 1
+        },
+        {
+          "cluster": "stw",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 21,
+      "syczace": 33,
+      "nosowe": 49,
+      "plynne": 39
+    },
+    "rhymes": {
+      "exact": 2,
+      "approximate": 0,
+      "internal": 0,
+      "assonance": 0,
+      "alliteration": 1
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        13
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 183,
+      "estimatedSeconds": 61,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "polregularny",
+      "regularityScore": 0.7
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "mitologia",
+          "reference": "Wenus",
+          "evidence": "Wenus ociekającej pianą tęsknot niemożliwych"
+        },
+        {
+          "source": "mitologia",
+          "reference": "Gorgona",
+          "evidence": "twarz Gorgony nie jest ale Madonny"
+        },
+        {
+          "source": "Biblia",
+          "reference": "Madonna",
+          "evidence": "ale Madonny, przekonać swą miną"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.3,
+        "baudelaire": 0.7,
+        "bursa": 0.2,
+        "stachura": 0.1,
+        "grochowiak": 0.4,
+        "bialoszewski": 0.1,
+        "rozewicz": 0.2
+      }
+    },
+    "space": {
+      "type": "nieokreslona",
+      "evidence": "brązowe powietrze, poligon głodu - przestrzeń metaforyczna, nierzeczywista",
+      "openClosedRatio": 0.3
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "nieokreslona",
+      "evidence": "brak wyraźnych wskaźników temporalnych"
+    },
+    "motion": {
+      "movement": 6,
+      "stillness": 4,
+      "dynamism": 0.6,
+      "evidence": "dopadały groty, rój ważek, dynamika wzroku i ataku"
+    },
+    "imageryDensity": {
+      "metaphors": 8,
+      "comparisons": 4,
+      "personifications": 3,
+      "hyperboles": 2,
+      "per100words": 170
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.4,
+      "creationLevel": 0.8,
+      "ironicDistance": 0.6,
+      "autobiographicSignals": [
+        "naszych jąder chichot",
+        "nam znajoma",
+        "poligonie głodu naszego"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "ironia",
+      "secondary": "obrzydzenie",
+      "intensity": 0.8
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "Podmiot mówi w pierwszej osobie liczby mnogiej - 'nam znajoma', 'nas', 'naszego', 'naszych jąder'"
+    },
+    "addressee": {
+      "type": "czytelnik",
+      "evidence": "Poeta zwraca się do czytelnika poprzez użycie 'nam' i 'nas', włączając odbiorcę w swoje doświadczenie"
+    },
+    "metaphors": [
+      {
+        "source": "złotnik",
+        "target": "światło",
+        "example": "przez złotnika co Światło mieni siebie sam"
+      },
+      {
+        "source": "Venus",
+        "target": "twarz kobiety",
+        "example": "jak Wenus ociekającej pianą tęsknot niemożliwych"
+      },
+      {
+        "source": "pałeczka w tarczę werbla",
+        "target": "spojrzenie",
+        "example": "jak twarda pałeczka w tarczę werbla – dopadały groty"
+      },
+      {
+        "source": "Gorgona/Madonna",
+        "target": "dwuznaczność twarzy",
+        "example": "chce nas, że to twarz Gorgony nie jest ale Madonny"
+      }
+    ],
+    "temperature": {
+      "value": 0.7,
+      "label": "rozgrzane ironią i sarkazmem"
+    },
+    "senses": {
+      "wzrok": 5,
+      "sluch": 2,
+      "dotyk": 3,
+      "smak": 0,
+      "zapach": 0
+    },
+    "autodestruction": {
+      "level": 0.6,
+      "signals": [
+        "cyniczny stosunek do miłości",
+        "ironiczne traktowanie świętości",
+        "wulgarny finał 'jąder chichot'"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 0.193,
+    "dfaAlpha": 3.829,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -1.4451858789480816
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -0.34362055392692603
+      }
+    ],
+    "seriesLength": 12,
+    "series": [
+      5,
+      5,
+      7,
+      7,
+      4,
+      5,
+      9,
+      6,
+      6,
+      9,
+      7,
+      6
+    ]
+  }
+}

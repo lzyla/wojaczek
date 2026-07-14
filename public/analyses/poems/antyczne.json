@@ -1,0 +1,904 @@
+{
+  "id": "antyczne",
+  "title": "Antyczne",
+  "wordCount": 97,
+  "lineCount": 15,
+  "uniqueWords": 79,
+  "vocabularyRichness": 0.814,
+  "avgWordsPerLine": 6.47,
+  "wordsPerLineDistribution": [
+    10,
+    10,
+    2,
+    5,
+    8,
+    9,
+    4,
+    5,
+    3,
+    3,
+    10,
+    11,
+    10,
+    3,
+    4
+  ],
+  "wordFrequencies": [
+    [
+      "widzisz",
+      3
+    ],
+    [
+      "umiał",
+      2
+    ],
+    [
+      "kochać",
+      2
+    ],
+    [
+      "dłoni",
+      2
+    ],
+    [
+      "leży",
+      1
+    ],
+    [
+      "ciasnej",
+      1
+    ],
+    [
+      "kępie",
+      1
+    ],
+    [
+      "śmierci",
+      1
+    ],
+    [
+      "sztandar",
+      1
+    ],
+    [
+      "naga",
+      1
+    ],
+    [
+      "wdowa",
+      1
+    ],
+    [
+      "wdową",
+      1
+    ],
+    [
+      "podwójną",
+      1
+    ],
+    [
+      "nieśmiertelność",
+      1
+    ],
+    [
+      "sprawą",
+      1
+    ],
+    [
+      "głupią",
+      1
+    ],
+    [
+      "smutną",
+      1
+    ],
+    [
+      "bogini",
+      1
+    ],
+    [
+      "tańczy",
+      1
+    ],
+    [
+      "uwierz",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 9,
+    "period": 4,
+    "question": 0,
+    "exclamation": 1,
+    "ellipsis": 1,
+    "dash": 5,
+    "colon": 6,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 1,
+  "negationCount": 5,
+  "negationWords": [
+    "nie"
+  ],
+  "pronounDistribution": {
+    "ja": 1,
+    "ty": 1,
+    "on_ona": 7,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 0,
+    "smierc": 0,
+    "erotyka": 3,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [
+    [
+      "widzisz",
+      2
+    ],
+    [
+      "nie",
+      2
+    ]
+  ],
+  "firstWord": "widzisz",
+  "lastWord": "dyryguje",
+  "avgWordLength": 4.8,
+  "wordLengthDistribution": {
+    "6-7": 27,
+    "1-3": 34,
+    "4-5": 26,
+    "8-9": 7,
+    "10+": 3
+  },
+  "bigrams": [
+    [
+      "widzisz tam",
+      1
+    ],
+    [
+      "tam leży",
+      1
+    ],
+    [
+      "ciasnej kępie",
+      1
+    ],
+    [
+      "kępie swej",
+      1
+    ],
+    [
+      "swej śmierci",
+      1
+    ],
+    [
+      "sztandar naga",
+      1
+    ],
+    [
+      "naga wdowa",
+      1
+    ]
+  ],
+  "poemWords": [
+    "widzisz",
+    "leży",
+    "ciasnej",
+    "kępie",
+    "śmierci",
+    "sztandar",
+    "naga",
+    "wdowa",
+    "wdową",
+    "podwójną",
+    "nieśmiertelność",
+    "sprawą",
+    "głupią",
+    "smutną",
+    "bogini",
+    "tańczy",
+    "uwierz",
+    "tańczyć",
+    "przestanie",
+    "mówił",
+    "głuptasku",
+    "kształt",
+    "pośladków",
+    "wyjawi",
+    "białym",
+    "śnie",
+    "pamięci",
+    "sprawdzę",
+    "idealny”",
+    "zrozum",
+    "umiał",
+    "kochać",
+    "skoro",
+    "miał",
+    "nadziei",
+    "łaską",
+    "dłoni",
+    "łaski",
+    "umrze",
+    "umie",
+    "powstrzymać",
+    "tańcem",
+    "dyryguje"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 17,
+        "VERB": 22,
+        "ADJ": 8,
+        "ADV": 4,
+        "PRON": 10,
+        "ADP": 7,
+        "CCONJ": 3,
+        "SCONJ": 8,
+        "INTJ": 0,
+        "PART": 9,
+        "DET": 6,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.175,
+        "VERB": 0.227,
+        "ADJ": 0.082,
+        "ADV": 0.041,
+        "PRON": 0.103,
+        "ADP": 0.072,
+        "CCONJ": 0.031,
+        "SCONJ": 0.082,
+        "INTJ": 0,
+        "PART": 0.093,
+        "DET": 0.062,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 0,
+        "abstract": 4,
+        "ratio": 0
+      },
+      "verbTenses": {
+        "present": 10,
+        "imperative": 2,
+        "infinitive": 4,
+        "future": 4,
+        "past": 4
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 1,
+        "stan": 3,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 1,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 1,
+        "oceniajace": 1,
+        "opisowe": 6
+      },
+      "adverbs": {
+        "temporalne": [
+          "wciąż"
+        ],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "wciąż",
+            "count": 2
+          },
+          {
+            "word": "tam",
+            "count": 1
+          },
+          {
+            "word": "gdy",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 1,
+        "ty": 0,
+        "on_ona": 7,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 5,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 1,
+        "total": 6,
+        "percentSentences": 1
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 190,
+        "consonants": 275,
+        "ratio": 0.69
+      },
+      "consonantClusters": {
+        "count": 11,
+        "top": [
+          {
+            "cluster": "prz",
+            "count": 2
+          },
+          {
+            "cluster": "spr",
+            "count": 2
+          },
+          {
+            "cluster": "ńcz",
+            "count": 2
+          },
+          {
+            "cluster": "szt",
+            "count": 1
+          },
+          {
+            "cluster": "kszt",
+            "count": 1
+          },
+          {
+            "cluster": "wdz",
+            "count": 1
+          },
+          {
+            "cluster": "mrz",
+            "count": 1
+          },
+          {
+            "cluster": "wstrz",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 22,
+        "syczace": 42,
+        "nosowe": 60,
+        "plynne": 32
+      },
+      "rhymes": {
+        "exact": 0,
+        "approximate": 0,
+        "internal": 0,
+        "assonance": 0,
+        "alliteration": 0
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 16.2,
+        "median": 16,
+        "min": 8,
+        "max": 22,
+        "distribution": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          0,
+          1,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 6.8,
+        "meanSyllables": 13.2,
+        "distribution": [
+          0,
+          0,
+          1,
+          2,
+          3,
+          2,
+          0,
+          0,
+          0,
+          1,
+          4,
+          1,
+          1
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 4,
+        "interrogative": 0,
+        "imperative": 1,
+        "exclamatory": 1
+      },
+      "ellipsis": {
+        "incomplete": 0,
+        "noSubject": 2,
+        "noPredicate": 0,
+        "percent": 0.33
+      },
+      "enjambement": {
+        "count": 10,
+        "percent": 0.71,
+        "positions": [
+          2,
+          3,
+          5,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13
+        ]
+      },
+      "wordOrder": {
+        "svo": 2,
+        "inversions": 2,
+        "other": 2,
+        "deviationPercent": 0.67
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 1,
+        "śmierć": 1,
+        "erotyka": 2,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 198,
+      "estimatedSeconds": 66,
+      "tempoCategory": "wolne"
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "mitologia",
+          "reference": "bogini tańcząca",
+          "evidence": "bogini tańczy – i uwierz, że ona tańczyć nie przestanie"
+        },
+        {
+          "source": "Biblia",
+          "reference": "łaska boża",
+          "evidence": "pod łaską dłoni z tej łaski"
+        },
+        {
+          "source": "inne",
+          "reference": "mit o Orfeuszu i Eurydyce",
+          "evidence": "martwy kierujący tańcem żywej"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.7,
+        "baudelaire": 0.6,
+        "bursa": 0.3,
+        "stachura": 0.4,
+        "grochowiak": 0.8,
+        "bialoszewski": 0.2,
+        "rozewicz": 0.4
+      }
+    },
+    "space": {
+      "type": "zamknieta",
+      "evidence": "w ciasnej kępie swej śmierci",
+      "openClosedRatio": 0.2
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "nieokreslona",
+      "evidence": "brak wyraźnych wskaźników temporalnych"
+    },
+    "motion": {
+      "movement": 8,
+      "stillness": 3,
+      "dynamism": 0.8,
+      "evidence": "bogini tańczy, dłoni co tańcem wciąż dyryguje, kontrastowane z leżącym martwym"
+    },
+    "imageryDensity": {
+      "metaphors": 4,
+      "comparisons": 1,
+      "personifications": 2,
+      "hyperboles": 1,
+      "per100words": 8.9
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.6,
+      "creationLevel": 0.8,
+      "ironicDistance": 0.4,
+      "autobiographicSignals": [
+        "obsesja na punkcie kobiecego ciała",
+        "niemożność kochania",
+        "fascynacja śmiercią"
+      ]
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 17,
+      "VERB": 22,
+      "ADJ": 8,
+      "ADV": 4,
+      "PRON": 10,
+      "ADP": 7,
+      "CCONJ": 3,
+      "SCONJ": 8,
+      "INTJ": 0,
+      "PART": 9,
+      "DET": 6,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.175,
+      "VERB": 0.227,
+      "ADJ": 0.082,
+      "ADV": 0.041,
+      "PRON": 0.103,
+      "ADP": 0.072,
+      "CCONJ": 0.031,
+      "SCONJ": 0.082,
+      "INTJ": 0,
+      "PART": 0.093,
+      "DET": 0.062,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 0,
+      "abstract": 4,
+      "ratio": 0
+    },
+    "verbTenses": {
+      "present": 10,
+      "imperative": 2,
+      "infinitive": 4,
+      "future": 4,
+      "past": 4
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 1,
+      "stan": 3,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 1,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 1,
+      "oceniajace": 1,
+      "opisowe": 6
+    },
+    "adverbs": {
+      "temporalne": [
+        "wciąż"
+      ],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "wciąż",
+          "count": 2
+        },
+        {
+          "word": "tam",
+          "count": 1
+        },
+        {
+          "word": "gdy",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 1,
+      "ty": 0,
+      "on_ona": 7,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 5,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 1,
+      "total": 6,
+      "percentSentences": 1
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 16.2,
+      "median": 16,
+      "min": 8,
+      "max": 22,
+      "distribution": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        0,
+        1,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 6.8,
+      "meanSyllables": 13.2,
+      "distribution": [
+        0,
+        0,
+        1,
+        2,
+        3,
+        2,
+        0,
+        0,
+        0,
+        1,
+        4,
+        1,
+        1
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 4,
+      "interrogative": 0,
+      "imperative": 1,
+      "exclamatory": 1
+    },
+    "ellipsis": {
+      "incomplete": 0,
+      "noSubject": 2,
+      "noPredicate": 0,
+      "percent": 0.33
+    },
+    "enjambement": {
+      "count": 10,
+      "percent": 0.71,
+      "positions": [
+        2,
+        3,
+        5,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ]
+    },
+    "wordOrder": {
+      "svo": 2,
+      "inversions": 2,
+      "other": 2,
+      "deviationPercent": 0.67
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 190,
+      "consonants": 275,
+      "ratio": 0.69
+    },
+    "consonantClusters": {
+      "count": 11,
+      "top": [
+        {
+          "cluster": "prz",
+          "count": 2
+        },
+        {
+          "cluster": "spr",
+          "count": 2
+        },
+        {
+          "cluster": "ńcz",
+          "count": 2
+        },
+        {
+          "cluster": "szt",
+          "count": 1
+        },
+        {
+          "cluster": "kszt",
+          "count": 1
+        },
+        {
+          "cluster": "wdz",
+          "count": 1
+        },
+        {
+          "cluster": "mrz",
+          "count": 1
+        },
+        {
+          "cluster": "wstrz",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 22,
+      "syczace": 42,
+      "nosowe": 60,
+      "plynne": 32
+    },
+    "rhymes": {
+      "exact": 0,
+      "approximate": 0,
+      "internal": 0,
+      "assonance": 0,
+      "alliteration": 0
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        15
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 198,
+      "estimatedSeconds": 66,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "polregularny",
+      "regularityScore": 0.6
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "melancholia",
+      "secondary": "rezygnacja",
+      "intensity": 0.8
+    },
+    "subjectPresence": {
+      "type": "ukryte",
+      "evidence": "Podmiot przemawia przez 'widzisz' i 'zrozum', ale sam pozostaje ukryty za obserwacją sceny śmierci i tańca"
+    },
+    "addressee": {
+      "type": "czytelnik",
+      "evidence": "Bezpośrednie zwroty 'Widzisz' i 'zrozum' kierują się do odbiorcy, próbując go przekonać do swojej wizji"
+    },
+    "metaphors": [
+      {
+        "source": "sztandar",
+        "target": "naga wdowa",
+        "example": "Przy nim – jak sztandar – naga wdowa"
+      },
+      {
+        "source": "taniec",
+        "target": "pamięć/pożądanie",
+        "example": "bogini tańczy"
+      },
+      {
+        "source": "dłoń dyrygująca",
+        "target": "kontrola nad wspomnieniem",
+        "example": "nie umie powstrzymać swojej dłoni, co tańcem wciąż dyryguje"
+      }
+    ],
+    "temperature": {
+      "value": 0.3,
+      "label": "chłodna obserwacja z nutą erotyzmu"
+    },
+    "senses": {
+      "wzrok": 5,
+      "sluch": 1,
+      "dotyk": 4,
+      "smak": 0,
+      "zapach": 0
+    },
+    "autodestruction": {
+      "level": 0.6,
+      "signals": [
+        "śmierć jako centralna scena",
+        "niemożność kochania",
+        "podwójna wdowość",
+        "beznadzieja w miłości"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 0.92,
+    "dfaAlpha": 1.982,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -0.4896744339206461
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": 0.5241819418176071
+      },
+      {
+        "logWin": 1.6094379124341003,
+        "logFluc": 0.4839489808072674
+      }
+    ],
+    "seriesLength": 15,
+    "series": [
+      10,
+      10,
+      2,
+      5,
+      8,
+      9,
+      4,
+      5,
+      3,
+      3,
+      10,
+      11,
+      10,
+      3,
+      4
+    ]
+  }
+}

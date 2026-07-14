@@ -1,0 +1,1061 @@
+{
+  "id": "latomia",
+  "title": "Latomia",
+  "wordCount": 128,
+  "lineCount": 30,
+  "uniqueWords": 96,
+  "vocabularyRichness": 0.75,
+  "avgWordsPerLine": 4.27,
+  "wordsPerLineDistribution": [
+    2,
+    3,
+    2,
+    7,
+    2,
+    5,
+    4,
+    6,
+    5,
+    5,
+    8,
+    3,
+    4,
+    3,
+    3,
+    6,
+    5,
+    5,
+    2,
+    5,
+    4,
+    5,
+    3,
+    2,
+    5,
+    3,
+    3,
+    8,
+    5,
+    5
+  ],
+  "wordFrequencies": [
+    [
+      "robaczek",
+      3
+    ],
+    [
+      "promyk",
+      2
+    ],
+    [
+      "pępku",
+      2
+    ],
+    [
+      "próg",
+      2
+    ],
+    [
+      "czemu",
+      2
+    ],
+    [
+      "oczko",
+      1
+    ],
+    [
+      "puszczone",
+      1
+    ],
+    [
+      "ułamek",
+      1
+    ],
+    [
+      "lusterka",
+      1
+    ],
+    [
+      "wypadło",
+      1
+    ],
+    [
+      "rąk",
+      1
+    ],
+    [
+      "idącej",
+      1
+    ],
+    [
+      "wczoraj",
+      1
+    ],
+    [
+      "potknęła",
+      1
+    ],
+    [
+      "powiedzieć",
+      1
+    ],
+    [
+      "znam",
+      1
+    ],
+    [
+      "proceder",
+      1
+    ],
+    [
+      "przechodzenia",
+      1
+    ],
+    [
+      "dziś",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 0,
+    "period": 0,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 0,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 6,
+  "negationWords": [
+    "bez",
+    "nic",
+    "nie"
+  ],
+  "pronounDistribution": {
+    "ja": 1,
+    "ty": 0,
+    "on_ona": 6,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 1,
+    "smierc": 0,
+    "erotyka": 1,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [
+    [
+      "robaczek",
+      3
+    ],
+    [
+      "w jej",
+      2
+    ],
+    [
+      "gdy",
+      2
+    ],
+    [
+      "ale",
+      2
+    ]
+  ],
+  "firstWord": "robaczek",
+  "lastWord": "dalej",
+  "avgWordLength": 4.6,
+  "wordLengthDistribution": {
+    "8-9": 13,
+    "6-7": 23,
+    "1-3": 47,
+    "4-5": 41,
+    "10+": 4
+  },
+  "bigrams": [
+    [
+      "robaczek promyk",
+      2
+    ],
+    [
+      "pępku oczko",
+      1
+    ],
+    [
+      "oczko puszczone",
+      1
+    ],
+    [
+      "ułamek lusterka",
+      1
+    ]
+  ],
+  "poemWords": [
+    "robaczek",
+    "promyk",
+    "pępku",
+    "oczko",
+    "puszczone",
+    "ułamek",
+    "lusterka",
+    "wypadło",
+    "rąk",
+    "idącej",
+    "wczoraj",
+    "potknęła",
+    "próg",
+    "powiedzieć",
+    "znam",
+    "proceder",
+    "przechodzenia",
+    "nic",
+    "czemu",
+    "dziś",
+    "naga",
+    "nagle",
+    "kucnęła",
+    "aha",
+    "słyszę",
+    "siusia",
+    "lęku",
+    "opróżniła",
+    "pęcherz",
+    "igra",
+    "oddycha",
+    "męsku",
+    "przeponą",
+    "gołym",
+    "włóknie",
+    "ciała",
+    "napięcie",
+    "dłonie",
+    "składa",
+    "wiedzy",
+    "coraz",
+    "głębiej",
+    "wgryza",
+    "pępek",
+    "przegryzie",
+    "dna",
+    "wąwozu",
+    "widzę",
+    "słyszy",
+    "długą",
+    "szyją",
+    "robi",
+    "krok",
+    "zasłuchana",
+    "mija",
+    "piętra",
+    "kamienne",
+    "wiedząc",
+    "śnię",
+    "boję",
+    "obudzi",
+    "wcześnie",
+    "wiedział",
+    "dalej"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 30,
+        "VERB": 24,
+        "ADJ": 8,
+        "ADV": 12,
+        "PRON": 16,
+        "ADP": 15,
+        "CCONJ": 5,
+        "SCONJ": 2,
+        "INTJ": 0,
+        "PART": 11,
+        "DET": 1,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.233,
+        "VERB": 0.186,
+        "ADJ": 0.062,
+        "ADV": 0.093,
+        "PRON": 0.124,
+        "ADP": 0.116,
+        "CCONJ": 0.039,
+        "SCONJ": 0.016,
+        "INTJ": 0,
+        "PART": 0.085,
+        "DET": 0.008,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 1,
+        "abstract": 0,
+        "ratio": 1
+      },
+      "verbTenses": {
+        "past": 5,
+        "present": 16,
+        "infinitive": 1,
+        "imperative": 1,
+        "future": 3
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 2,
+        "stan": 2,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 1
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 0,
+        "opisowe": 8
+      },
+      "adverbs": {
+        "temporalne": [],
+        "modalne": [],
+        "sposobu": [
+          "głębiej",
+          "nagle"
+        ],
+        "top": [
+          {
+            "word": "gdy",
+            "count": 2
+          },
+          {
+            "word": "wczoraj",
+            "count": 1
+          },
+          {
+            "word": "tu",
+            "count": 1
+          },
+          {
+            "word": "dziś",
+            "count": 1
+          },
+          {
+            "word": "czemu",
+            "count": 1
+          },
+          {
+            "word": "nagle",
+            "count": 1
+          },
+          {
+            "word": "kiedy",
+            "count": 1
+          },
+          {
+            "word": "coraz",
+            "count": 1
+          },
+          {
+            "word": "głębiej",
+            "count": 1
+          },
+          {
+            "word": "wcześnie",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 1,
+        "ty": 0,
+        "on_ona": 6,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 4,
+        "nic": 1,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 5,
+        "percentSentences": 0.71
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 254,
+        "consonants": 342,
+        "ratio": 0.74
+      },
+      "consonantClusters": {
+        "count": 12,
+        "top": [
+          {
+            "cluster": "prz",
+            "count": 5
+          },
+          {
+            "cluster": "wcz",
+            "count": 2
+          },
+          {
+            "cluster": "czk",
+            "count": 1
+          },
+          {
+            "cluster": "szcz",
+            "count": 1
+          },
+          {
+            "cluster": "tkn",
+            "count": 1
+          },
+          {
+            "cluster": "skł",
+            "count": 1
+          },
+          {
+            "cluster": "wgr",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 23,
+        "syczace": 50,
+        "nosowe": 76,
+        "plynne": 49
+      },
+      "rhymes": {
+        "exact": 2,
+        "approximate": 1,
+        "internal": 0,
+        "assonance": 0,
+        "alliteration": 1
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 18.4,
+        "median": 13,
+        "min": 5,
+        "max": 56,
+        "distribution": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          1,
+          1,
+          0,
+          0,
+          0,
+          2,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 4.2,
+        "meanSyllables": 8.5,
+        "distribution": [
+          0,
+          1,
+          5,
+          7,
+          3,
+          10,
+          2,
+          1,
+          2
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 6,
+        "interrogative": 0,
+        "imperative": 1,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 0,
+        "noSubject": 4,
+        "noPredicate": 1,
+        "percent": 0.71
+      },
+      "enjambement": {
+        "count": 3,
+        "percent": 0.1,
+        "positions": [
+          6,
+          16,
+          29
+        ]
+      },
+      "wordOrder": {
+        "svo": 2,
+        "inversions": 0,
+        "other": 5,
+        "deviationPercent": 0.71
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 2,
+        "śmierć": 0,
+        "erotyka": 1,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 262,
+      "estimatedSeconds": 87,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 30,
+      "VERB": 24,
+      "ADJ": 8,
+      "ADV": 12,
+      "PRON": 16,
+      "ADP": 15,
+      "CCONJ": 5,
+      "SCONJ": 2,
+      "INTJ": 0,
+      "PART": 11,
+      "DET": 1,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.233,
+      "VERB": 0.186,
+      "ADJ": 0.062,
+      "ADV": 0.093,
+      "PRON": 0.124,
+      "ADP": 0.116,
+      "CCONJ": 0.039,
+      "SCONJ": 0.016,
+      "INTJ": 0,
+      "PART": 0.085,
+      "DET": 0.008,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 1,
+      "abstract": 0,
+      "ratio": 1
+    },
+    "verbTenses": {
+      "past": 5,
+      "present": 16,
+      "infinitive": 1,
+      "imperative": 1,
+      "future": 3
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 2,
+      "stan": 2,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 1
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 0,
+      "opisowe": 8
+    },
+    "adverbs": {
+      "temporalne": [],
+      "modalne": [],
+      "sposobu": [
+        "głębiej",
+        "nagle"
+      ],
+      "top": [
+        {
+          "word": "gdy",
+          "count": 2
+        },
+        {
+          "word": "wczoraj",
+          "count": 1
+        },
+        {
+          "word": "tu",
+          "count": 1
+        },
+        {
+          "word": "dziś",
+          "count": 1
+        },
+        {
+          "word": "czemu",
+          "count": 1
+        },
+        {
+          "word": "nagle",
+          "count": 1
+        },
+        {
+          "word": "kiedy",
+          "count": 1
+        },
+        {
+          "word": "coraz",
+          "count": 1
+        },
+        {
+          "word": "głębiej",
+          "count": 1
+        },
+        {
+          "word": "wcześnie",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 1,
+      "ty": 0,
+      "on_ona": 6,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 4,
+      "nic": 1,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 5,
+      "percentSentences": 0.71
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 18.4,
+      "median": 13,
+      "min": 5,
+      "max": 56,
+      "distribution": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 4.2,
+      "meanSyllables": 8.5,
+      "distribution": [
+        0,
+        1,
+        5,
+        7,
+        3,
+        10,
+        2,
+        1,
+        2
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 6,
+      "interrogative": 0,
+      "imperative": 1,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 0,
+      "noSubject": 4,
+      "noPredicate": 1,
+      "percent": 0.71
+    },
+    "enjambement": {
+      "count": 3,
+      "percent": 0.1,
+      "positions": [
+        6,
+        16,
+        29
+      ]
+    },
+    "wordOrder": {
+      "svo": 2,
+      "inversions": 0,
+      "other": 5,
+      "deviationPercent": 0.71
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 254,
+      "consonants": 342,
+      "ratio": 0.74
+    },
+    "consonantClusters": {
+      "count": 12,
+      "top": [
+        {
+          "cluster": "prz",
+          "count": 5
+        },
+        {
+          "cluster": "wcz",
+          "count": 2
+        },
+        {
+          "cluster": "czk",
+          "count": 1
+        },
+        {
+          "cluster": "szcz",
+          "count": 1
+        },
+        {
+          "cluster": "tkn",
+          "count": 1
+        },
+        {
+          "cluster": "skł",
+          "count": 1
+        },
+        {
+          "cluster": "wgr",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 23,
+      "syczace": 50,
+      "nosowe": 76,
+      "plynne": 49
+    },
+    "rhymes": {
+      "exact": 2,
+      "approximate": 1,
+      "internal": 0,
+      "assonance": 0,
+      "alliteration": 1
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        31
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 262,
+      "estimatedSeconds": 87,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "polregularny",
+      "regularityScore": 0.59
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "mitologia",
+          "reference": "Latomia - kamieniołomy w Syrakuzach, miejsce więzienia",
+          "evidence": "tytuł wiersza LATOMIA"
+        },
+        {
+          "source": "Biblia",
+          "reference": "motyw snu i przebudzenia",
+          "evidence": "Wiedząc że jej się śnię boję się znów / Gdy się obudzi za wcześnie"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.7,
+        "baudelaire": 0.3,
+        "bursa": 0.2,
+        "stachura": 0.4,
+        "grochowiak": 0.5,
+        "bialoszewski": 0.6,
+        "rozewicz": 0.3
+      }
+    },
+    "space": {
+      "type": "zamknieta",
+      "evidence": "Z dna wąwozu / Widzę słyszy / mija piętra / Kamienne",
+      "openClosedRatio": 0.2
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "nieokreslona",
+      "evidence": "brak wyraźnych wskazówek temporalnych"
+    },
+    "motion": {
+      "movement": 4,
+      "stillness": 6,
+      "dynamism": 0.4,
+      "evidence": "Idącej wczoraj / potknęła o próg / robi krok / mija piętra - ruch ograniczony, kontrastuje ze statycznością obserwacji"
+    },
+    "imageryDensity": {
+      "metaphors": 5,
+      "comparisons": 2,
+      "personifications": 3,
+      "hyperboles": 1,
+      "per100words": 11
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.8,
+      "creationLevel": 0.6,
+      "ironicDistance": 0.2,
+      "autobiographicSignals": [
+        "Ale nie mogę powiedzieć",
+        "Choć od tego tu jestem",
+        "Nic o niej nie wiem",
+        "boję się znów"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "tęsknota",
+      "secondary": "lęk",
+      "intensity": 0.7
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "podmiot wyraźnie obecny - 'ale nie mogę powiedzieć', 'od tego tu jestem', 'nic o niej nie wiem', 'ale wiem', 'widzę słyszy', 'boję się znów'"
+    },
+    "addressee": {
+      "type": "siebie",
+      "evidence": "monolog wewnętrzny podmiotu obserwującego kobietę - 'ale nie mogę powiedzieć', 'nic o niej nie wiem', 'wiedząc że jej się śnię boję się znów'"
+    },
+    "metaphors": [
+      {
+        "source": "robaczek promyk",
+        "target": "blask światła w pępku",
+        "example": "Robaczek promyk / W jej pępku"
+      },
+      {
+        "source": "oczko puszczone",
+        "target": "refleks światła",
+        "example": "Oczko puszczone / Przez ułamek lusterka"
+      },
+      {
+        "source": "wgryza się w pępek",
+        "target": "intensywność światła/obsesji",
+        "example": "Bez jej wiedzy coraz głębiej / Wgryza się w pępek"
+      },
+      {
+        "source": "dno wąwozu",
+        "target": "miejsce obserwacji/stan psychiczny",
+        "example": "Z dna wąwozu / Widzę słyszy"
+      }
+    ],
+    "temperature": {
+      "value": 0.4,
+      "label": "chłodna obserwacja z nutą niepokoju"
+    },
+    "senses": {
+      "wzrok": 5,
+      "sluch": 3,
+      "dotyk": 2,
+      "smak": 0,
+      "zapach": 0
+    },
+    "autodestruction": {
+      "level": 0.3,
+      "signals": [
+        "pozycja obserwatora z dna wąwozu",
+        "strach przed przebudzeniem",
+        "niemożność działania"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 0.783,
+    "dfaAlpha": 1.111,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -1.2628643221541267
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -0.11058322307294949
+      },
+      {
+        "logWin": 1.6094379124341003,
+        "logFluc": -0.3801754890554712
+      },
+      {
+        "logWin": 1.791759469228055,
+        "logFluc": 0.00311697709570246
+      },
+      {
+        "logWin": 1.9459101490553132,
+        "logFluc": 0.14987782336123
+      },
+      {
+        "logWin": 2.0794415416798357,
+        "logFluc": 0.13128229598479216
+      },
+      {
+        "logWin": 2.302585092994046,
+        "logFluc": 0.292549336213296
+      }
+    ],
+    "seriesLength": 30,
+    "series": [
+      2,
+      3,
+      2,
+      7,
+      2,
+      5,
+      4,
+      6,
+      5,
+      5,
+      8,
+      3,
+      4,
+      3,
+      3,
+      6,
+      5,
+      5,
+      2,
+      5,
+      4,
+      5,
+      3,
+      2,
+      5,
+      3,
+      3,
+      8,
+      5,
+      5
+    ]
+  }
+}

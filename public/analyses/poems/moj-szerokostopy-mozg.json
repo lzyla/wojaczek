@@ -1,0 +1,898 @@
+{
+  "id": "moj-szerokostopy-mozg",
+  "title": "Mój szerokostopy mózg",
+  "wordCount": 78,
+  "lineCount": 12,
+  "uniqueWords": 66,
+  "vocabularyRichness": 0.846,
+  "avgWordsPerLine": 6.5,
+  "wordsPerLineDistribution": [
+    3,
+    3,
+    8,
+    6,
+    7,
+    7,
+    8,
+    8,
+    7,
+    7,
+    7,
+    7
+  ],
+  "wordFrequencies": [
+    [
+      "panu",
+      1
+    ],
+    [
+      "jackowi",
+      1
+    ],
+    [
+      "łukasiewiczowi",
+      1
+    ],
+    [
+      "szerokostopy",
+      1
+    ],
+    [
+      "mózg",
+      1
+    ],
+    [
+      "głowy",
+      1
+    ],
+    [
+      "wyszedł",
+      1
+    ],
+    [
+      "przemierzywszy",
+      1
+    ],
+    [
+      "kroćset",
+      1
+    ],
+    [
+      "mil",
+      1
+    ],
+    [
+      "jawnym",
+      1
+    ],
+    [
+      "księżycem",
+      1
+    ],
+    [
+      "niebieskooki",
+      1
+    ],
+    [
+      "wzrok",
+      1
+    ],
+    [
+      "podążył",
+      1
+    ],
+    [
+      "pokonując",
+      1
+    ],
+    [
+      "krótkość",
+      1
+    ],
+    [
+      "swą",
+      1
+    ],
+    [
+      "żeni",
+      1
+    ],
+    [
+      "gwiazdami",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 5,
+    "period": 0,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 0,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 1,
+  "negationWords": [
+    "nie"
+  ],
+  "pronounDistribution": {
+    "ja": 6,
+    "ty": 0,
+    "on_ona": 2,
+    "my": 0,
+    "wy": 0,
+    "oni": 1
+  },
+  "semanticFields": {
+    "cialo": 0,
+    "smierc": 1,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [
+    [
+      "mój",
+      2
+    ],
+    [
+      "i już",
+      2
+    ]
+  ],
+  "firstWord": "panu",
+  "lastWord": "serca",
+  "avgWordLength": 4.86,
+  "wordLengthDistribution": {
+    "1-3": 33,
+    "4-5": 18,
+    "6-7": 11,
+    "10+": 5,
+    "8-9": 11
+  },
+  "bigrams": [
+    [
+      "panu jackowi",
+      1
+    ],
+    [
+      "jackowi łukasiewiczowi",
+      1
+    ],
+    [
+      "szerokostopy mózg",
+      1
+    ],
+    [
+      "wyszedł przemierzywszy",
+      1
+    ]
+  ],
+  "poemWords": [
+    "panu",
+    "jackowi",
+    "łukasiewiczowi",
+    "szerokostopy",
+    "mózg",
+    "głowy",
+    "wyszedł",
+    "przemierzywszy",
+    "kroćset",
+    "mil",
+    "jawnym",
+    "księżycem",
+    "niebieskooki",
+    "wzrok",
+    "podążył",
+    "pokonując",
+    "krótkość",
+    "swą",
+    "żeni",
+    "gwiazdami",
+    "religijny",
+    "głód",
+    "znosi",
+    "braku",
+    "zmyśla",
+    "boga",
+    "tłem",
+    "ramką",
+    "naiwny",
+    "zmysł",
+    "pobożnej",
+    "harmonii",
+    "pełnym",
+    "głosem",
+    "cieszy",
+    "osiągniętej",
+    "zgody",
+    "zaciekły",
+    "bunt",
+    "najlepszy",
+    "poeta",
+    "cichutku",
+    "ostrzy",
+    "nóż",
+    "kamieniu",
+    "serca"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 22,
+        "VERB": 8,
+        "ADJ": 10,
+        "ADV": 0,
+        "PRON": 8,
+        "ADP": 7,
+        "CCONJ": 4,
+        "SCONJ": 1,
+        "INTJ": 0,
+        "PART": 3,
+        "DET": 6,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.289,
+        "VERB": 0.105,
+        "ADJ": 0.132,
+        "ADV": 0,
+        "PRON": 0.105,
+        "ADP": 0.092,
+        "CCONJ": 0.053,
+        "SCONJ": 0.013,
+        "INTJ": 0,
+        "PART": 0.039,
+        "DET": 0.079,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 4,
+        "abstract": 0,
+        "ratio": 1
+      },
+      "verbTenses": {
+        "future": 1,
+        "past": 4,
+        "present": 5
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 2,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 1,
+        "opisowe": 9
+      },
+      "adverbs": {
+        "temporalne": [],
+        "modalne": [],
+        "sposobu": [],
+        "top": []
+      },
+      "pronouns": {
+        "ja": 1,
+        "ty": 0,
+        "on_ona": 2,
+        "my": 0,
+        "wy": 0,
+        "oni": 1
+      },
+      "negations": {
+        "nie": 1,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 1,
+        "percentSentences": 0.33
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 156,
+        "consonants": 220,
+        "ratio": 0.71
+      },
+      "consonantClusters": {
+        "count": 5,
+        "top": [
+          {
+            "cluster": "prz",
+            "count": 1
+          },
+          {
+            "cluster": "wsz",
+            "count": 1
+          },
+          {
+            "cluster": "wzr",
+            "count": 1
+          },
+          {
+            "cluster": "psz",
+            "count": 1
+          },
+          {
+            "cluster": "strz",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 16,
+        "syczace": 42,
+        "nosowe": 50,
+        "plynne": 28
+      },
+      "rhymes": {
+        "exact": 0,
+        "approximate": 0,
+        "internal": 0,
+        "assonance": 0,
+        "alliteration": 0
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 25.3,
+        "median": 7,
+        "min": 1,
+        "max": 68,
+        "distribution": [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 6.1,
+        "meanSyllables": 12.5,
+        "distribution": [
+          0,
+          1,
+          0,
+          2,
+          0,
+          0,
+          1,
+          6,
+          3
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 3,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 1,
+        "noSubject": 1,
+        "noPredicate": 0,
+        "percent": 0.67
+      },
+      "enjambement": {
+        "count": 3,
+        "percent": 0.25,
+        "positions": [
+          6,
+          8,
+          10
+        ]
+      },
+      "wordOrder": {
+        "svo": 0,
+        "inversions": 1,
+        "other": 1,
+        "deviationPercent": 1
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 1,
+        "śmierć": 1,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 163,
+      "estimatedSeconds": 54,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 22,
+      "VERB": 8,
+      "ADJ": 10,
+      "ADV": 0,
+      "PRON": 8,
+      "ADP": 7,
+      "CCONJ": 4,
+      "SCONJ": 1,
+      "INTJ": 0,
+      "PART": 3,
+      "DET": 6,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.289,
+      "VERB": 0.105,
+      "ADJ": 0.132,
+      "ADV": 0,
+      "PRON": 0.105,
+      "ADP": 0.092,
+      "CCONJ": 0.053,
+      "SCONJ": 0.013,
+      "INTJ": 0,
+      "PART": 0.039,
+      "DET": 0.079,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 4,
+      "abstract": 0,
+      "ratio": 1
+    },
+    "verbTenses": {
+      "future": 1,
+      "past": 4,
+      "present": 5
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 2,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 1,
+      "opisowe": 9
+    },
+    "adverbs": {
+      "temporalne": [],
+      "modalne": [],
+      "sposobu": [],
+      "top": []
+    },
+    "pronouns": {
+      "ja": 1,
+      "ty": 0,
+      "on_ona": 2,
+      "my": 0,
+      "wy": 0,
+      "oni": 1
+    },
+    "negations": {
+      "nie": 1,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 1,
+      "percentSentences": 0.33
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 25.3,
+      "median": 7,
+      "min": 1,
+      "max": 68,
+      "distribution": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 6.1,
+      "meanSyllables": 12.5,
+      "distribution": [
+        0,
+        1,
+        0,
+        2,
+        0,
+        0,
+        1,
+        6,
+        3
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 3,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 1,
+      "noSubject": 1,
+      "noPredicate": 0,
+      "percent": 0.67
+    },
+    "enjambement": {
+      "count": 3,
+      "percent": 0.25,
+      "positions": [
+        6,
+        8,
+        10
+      ]
+    },
+    "wordOrder": {
+      "svo": 0,
+      "inversions": 1,
+      "other": 1,
+      "deviationPercent": 1
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 156,
+      "consonants": 220,
+      "ratio": 0.71
+    },
+    "consonantClusters": {
+      "count": 5,
+      "top": [
+        {
+          "cluster": "prz",
+          "count": 1
+        },
+        {
+          "cluster": "wsz",
+          "count": 1
+        },
+        {
+          "cluster": "wzr",
+          "count": 1
+        },
+        {
+          "cluster": "psz",
+          "count": 1
+        },
+        {
+          "cluster": "strz",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 16,
+      "syczace": 42,
+      "nosowe": 50,
+      "plynne": 28
+    },
+    "rhymes": {
+      "exact": 0,
+      "approximate": 0,
+      "internal": 0,
+      "assonance": 0,
+      "alliteration": 0
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        13
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 163,
+      "estimatedSeconds": 54,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "polregularny",
+      "regularityScore": 0.61
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Rimbaud",
+          "reference": "Pijany okręt",
+          "evidence": "Przemierzywszy kroćset mil jawnym jest księżycem - nawiązanie do kosmicznej podróży"
+        },
+        {
+          "source": "mitologia",
+          "reference": "mitologia grecka",
+          "evidence": "żeni go z gwiazdami - motyw hierogamii, świętego małżeństwa"
+        },
+        {
+          "source": "Biblia",
+          "reference": "stworzenie świata",
+          "evidence": "Zmyśla Boga, aby był tłem im oraz ramką"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.8,
+        "baudelaire": 0.3,
+        "bursa": 0.1,
+        "stachura": 0.2,
+        "grochowiak": 0.1,
+        "bialoszewski": 0.1,
+        "rozewicz": 0.2
+      }
+    },
+    "space": {
+      "type": "otwarta",
+      "evidence": "kroćset mil, księżyc, gwiazdy - przestrzeń kosmiczna, nieograniczona",
+      "openClosedRatio": 0.9
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "nieokreslona",
+      "evidence": "brak wyraźnych wskaźników temporalnych"
+    },
+    "motion": {
+      "movement": 8,
+      "stillness": 3,
+      "dynamism": 0.7,
+      "evidence": "wyszedł, przemierzywszy, podążył, pokonując - intensywny ruch w pierwszej części, kontrastujący ze statycznością końca"
+    },
+    "imageryDensity": {
+      "metaphors": 6,
+      "comparisons": 1,
+      "personifications": 4,
+      "hyperboles": 2,
+      "per100words": 18.6
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.8,
+      "creationLevel": 0.7,
+      "ironicDistance": 0.2,
+      "autobiographicSignals": [
+        "mój szerokostopy mózg",
+        "mój niebieskooki wzrok",
+        "mój religijny głód",
+        "mój naiwny zmysł",
+        "mój zaciekły bunt"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "ironia",
+      "secondary": "bunt",
+      "intensity": 0.7
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "Podmiot explicite obecny przez zaimki dzierżawcze 'mój' oraz wyrażenia 'z głowy mi wyszedł'"
+    },
+    "addressee": {
+      "type": "siebie",
+      "evidence": "Wiersz ma charakter autorefleksyjny, poeta zwraca się do własnych władz i stanów psychicznych"
+    },
+    "metaphors": [
+      {
+        "source": "mózg",
+        "target": "księżyc",
+        "example": "Mój szerokostopy mózg... jawnym jest księżycem"
+      },
+      {
+        "source": "wzrok",
+        "target": "partner gwiazd",
+        "example": "Mój niebieskooki wzrok... żeni go z gwiazdami"
+      },
+      {
+        "source": "bunt",
+        "target": "poeta ostrzący nóż",
+        "example": "mój zaciekły bunt, najlepszy poeta Po cichutku ostrzy nóż na kamieniu serca"
+      }
+    ],
+    "temperature": {
+      "value": 0.6,
+      "label": "umiarkowanie ciepłe z chłodną ironią"
+    },
+    "senses": {
+      "wzrok": 5,
+      "sluch": 3,
+      "dotyk": 4,
+      "smak": 0,
+      "zapach": 0
+    },
+    "autodestruction": {
+      "level": 0.8,
+      "signals": [
+        "ostrzy nóż na kamieniu serca",
+        "bunt jako najlepszy poeta",
+        "ironiczny dystans do własnej religijności i harmonii"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 1.074,
+    "dfaAlpha": 0.859,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -1.039720770839916
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -0.7927204390484189
+      }
+    ],
+    "seriesLength": 12,
+    "series": [
+      3,
+      3,
+      8,
+      6,
+      7,
+      7,
+      8,
+      8,
+      7,
+      7,
+      7,
+      7
+    ]
+  }
+}

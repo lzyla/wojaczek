@@ -1,0 +1,1284 @@
+{
+  "id": "gdy-pies-ksiezyca",
+  "title": "Gdy pies księżyca",
+  "wordCount": 290,
+  "lineCount": 40,
+  "uniqueWords": 194,
+  "vocabularyRichness": 0.669,
+  "avgWordsPerLine": 7.25,
+  "wordsPerLineDistribution": [
+    8,
+    7,
+    6,
+    5,
+    6,
+    8,
+    9,
+    8,
+    8,
+    7,
+    8,
+    6,
+    8,
+    7,
+    8,
+    7,
+    5,
+    8,
+    6,
+    6,
+    7,
+    10,
+    7,
+    8,
+    7,
+    9,
+    6,
+    7,
+    7,
+    9,
+    7,
+    7,
+    7,
+    7,
+    8,
+    7,
+    7,
+    9,
+    5,
+    8
+  ],
+  "wordFrequencies": [
+    [
+      "pies",
+      9
+    ],
+    [
+      "księżyca",
+      6
+    ],
+    [
+      "nagle",
+      3
+    ],
+    [
+      "szczeka",
+      2
+    ],
+    [
+      "pokoju",
+      2
+    ],
+    [
+      "dalej",
+      2
+    ],
+    [
+      "słyszysz",
+      2
+    ],
+    [
+      "zaułków",
+      1
+    ],
+    [
+      "nocy",
+      1
+    ],
+    [
+      "echo",
+      1
+    ],
+    [
+      "odpowiada",
+      1
+    ],
+    [
+      "sposób",
+      1
+    ],
+    [
+      "wielce",
+      1
+    ],
+    [
+      "drwiący",
+      1
+    ],
+    [
+      "fioletowa",
+      1
+    ],
+    [
+      "lampa",
+      1
+    ],
+    [
+      "mózgu",
+      1
+    ],
+    [
+      "płonie",
+      1
+    ],
+    [
+      "mdlącą",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 26,
+    "period": 1,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 1,
+    "dash": 5,
+    "colon": 2,
+    "semicolon": 7
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 8,
+  "negationWords": [
+    "nie"
+  ],
+  "pronounDistribution": {
+    "ja": 1,
+    "ty": 8,
+    "on_ona": 4,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 2,
+    "smierc": 1,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 1,
+    "sacrum": 0,
+    "noc": 1,
+    "bol": 0
+  },
+  "anaphors": [
+    [
+      "gdy",
+      10
+    ],
+    [
+      "nie",
+      2
+    ]
+  ],
+  "firstWord": "gdy",
+  "lastWord": "kropkę",
+  "avgWordLength": 5.02,
+  "wordLengthDistribution": {
+    "1-3": 103,
+    "4-5": 71,
+    "8-9": 37,
+    "6-7": 59,
+    "10+": 20
+  },
+  "bigrams": [
+    [
+      "pies księżyca",
+      6
+    ],
+    [
+      "księżyca szczeka",
+      1
+    ],
+    [
+      "zaułków nocy",
+      1
+    ],
+    [
+      "nocy echo",
+      1
+    ]
+  ],
+  "poemWords": [
+    "pies",
+    "księżyca",
+    "szczeka",
+    "zaułków",
+    "nocy",
+    "echo",
+    "odpowiada",
+    "sposób",
+    "wielce",
+    "drwiący",
+    "fioletowa",
+    "lampa",
+    "mózgu",
+    "płonie",
+    "mdlącą",
+    "gorączką",
+    "dygocące",
+    "dłonie",
+    "ledwie",
+    "mogą",
+    "uchwycić",
+    "okruch",
+    "powietrza",
+    "ust",
+    "zduszonych",
+    "ręką",
+    "snu",
+    "wetkać",
+    "papieros",
+    "sen",
+    "snem",
+    "cyklonem",
+    "pokoju",
+    "komorze",
+    "gazowej",
+    "wyje",
+    "pętla",
+    "lęku",
+    "szczelnie",
+    "zaciska",
+    "szyję",
+    "żyjesz",
+    "ciśnięty",
+    "dno",
+    "mdłego",
+    "ciała",
+    "wrogo",
+    "obojętną",
+    "moc",
+    "śmiesz",
+    "wierzyć",
+    "wolno",
+    "oddychać",
+    "poezja",
+    "pierdnąwszy",
+    "drzwiach",
+    "wyszła",
+    "udać",
+    "pętlę",
+    "tramwajów",
+    "kontrolerce",
+    "budce",
+    "przeszkadzać",
+    "spełnianiu",
+    "obowiązków",
+    "służbowych",
+    "karmiąc",
+    "tęsknotą",
+    "dalej",
+    "nagle",
+    "spojrzawszy",
+    "okno",
+    "stwierdzasz",
+    "planeta",
+    "odwrotnie",
+    "obraca",
+    "odwracasz",
+    "głowę",
+    "ścianę",
+    "koło",
+    "siebie",
+    "macasz",
+    "palcem",
+    "trafiasz",
+    "nieskończoność",
+    "krzyczysz",
+    "słyszysz",
+    "dziesięciu",
+    "licząc",
+    "wnet",
+    "zatrzymujesz",
+    "pamiętając",
+    "trójce",
+    "matką",
+    "rodzisz",
+    "matka",
+    "niemo",
+    "patrzysz",
+    "rzece",
+    "nazywanej",
+    "polsku",
+    "kobieta",
+    "anna",
+    "topisz",
+    "orientujesz",
+    "raptem",
+    "zaszła",
+    "pomyłka",
+    "brakuje",
+    "cyfry",
+    "początku",
+    "norwid",
+    "zaznaczasz",
+    "żeś",
+    "teorią",
+    "obeznany",
+    "dzieje",
+    "pejzażu",
+    "słonecznym",
+    "zawył",
+    "znowu",
+    "odszczekujesz",
+    "szlochem",
+    "spod",
+    "serca",
+    "nóż",
+    "bólu",
+    "przemocą",
+    "przeniknął",
+    "trzewia",
+    "skomle",
+    "kiedyś",
+    "dopraszający",
+    "byś",
+    "dał",
+    "jeść",
+    "dyszy",
+    "zgoniony",
+    "gryzie",
+    "mózg",
+    "zły",
+    "obręczą",
+    "dłoni",
+    "obejmujesz",
+    "skronie",
+    "zjawia",
+    "strzelec",
+    "stawia",
+    "kropkę"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 80,
+        "VERB": 49,
+        "ADJ": 21,
+        "ADV": 33,
+        "PRON": 26,
+        "ADP": 25,
+        "CCONJ": 14,
+        "SCONJ": 17,
+        "INTJ": 0,
+        "PART": 17,
+        "DET": 5,
+        "NUM": 1
+      },
+      "posPercent": {
+        "NOUN": 0.273,
+        "VERB": 0.167,
+        "ADJ": 0.072,
+        "ADV": 0.113,
+        "PRON": 0.089,
+        "ADP": 0.085,
+        "CCONJ": 0.048,
+        "SCONJ": 0.058,
+        "INTJ": 0,
+        "PART": 0.058,
+        "DET": 0.017,
+        "NUM": 0.003
+      },
+      "nounConcreteAbstract": {
+        "concrete": 22,
+        "abstract": 4,
+        "ratio": 0.85
+      },
+      "verbTenses": {
+        "present": 35,
+        "infinitive": 7,
+        "past": 7,
+        "future": 2
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 4,
+        "destrukcja": 1,
+        "tworzenie": 1,
+        "komunikacja": 1,
+        "cialo": 2
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 1,
+        "opisowe": 20
+      },
+      "adverbs": {
+        "temporalne": [
+          "kiedyś"
+        ],
+        "modalne": [],
+        "sposobu": [
+          "nagle",
+          "wolno"
+        ],
+        "top": [
+          {
+            "word": "gdy",
+            "count": 14
+          },
+          {
+            "word": "nagle",
+            "count": 3
+          },
+          {
+            "word": "kiedy",
+            "count": 2
+          },
+          {
+            "word": "dalej",
+            "count": 2
+          },
+          {
+            "word": "wielce",
+            "count": 1
+          },
+          {
+            "word": "ledwie",
+            "count": 1
+          },
+          {
+            "word": "szczelnie",
+            "count": 1
+          },
+          {
+            "word": "wolno",
+            "count": 1
+          },
+          {
+            "word": "tak",
+            "count": 1
+          },
+          {
+            "word": "odwrotnie",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 1,
+        "ty": 5,
+        "on_ona": 5,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 8,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 8,
+        "percentSentences": 0.89
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 603,
+        "consonants": 867,
+        "ratio": 0.7
+      },
+      "consonantClusters": {
+        "count": 43,
+        "top": [
+          {
+            "cluster": "prz",
+            "count": 5
+          },
+          {
+            "cluster": "szcz",
+            "count": 4
+          },
+          {
+            "cluster": "trz",
+            "count": 4
+          },
+          {
+            "cluster": "wsz",
+            "count": 3
+          },
+          {
+            "cluster": "szł",
+            "count": 2
+          },
+          {
+            "cluster": "dwr",
+            "count": 2
+          },
+          {
+            "cluster": "drw",
+            "count": 1
+          },
+          {
+            "cluster": "mdl",
+            "count": 1
+          },
+          {
+            "cluster": "czk",
+            "count": 1
+          },
+          {
+            "cluster": "chw",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 89,
+        "syczace": 162,
+        "nosowe": 148,
+        "plynne": 96
+      },
+      "rhymes": {
+        "exact": 5,
+        "approximate": 7,
+        "internal": 3,
+        "assonance": 2,
+        "alliteration": 5
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 32.6,
+        "median": 14,
+        "min": 6,
+        "max": 92,
+        "distribution": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          2,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          1,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 7.3,
+        "meanSyllables": 15.2,
+        "distribution": [
+          0,
+          0,
+          0,
+          1,
+          0,
+          2,
+          6,
+          16,
+          9,
+          5,
+          2
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 9,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 0,
+        "noSubject": 2,
+        "noPredicate": 0,
+        "percent": 0.22
+      },
+      "enjambement": {
+        "count": 11,
+        "percent": 0.28,
+        "positions": [
+          1,
+          3,
+          10,
+          11,
+          16,
+          18,
+          21,
+          22,
+          26,
+          37,
+          38
+        ]
+      },
+      "wordOrder": {
+        "svo": 4,
+        "inversions": 3,
+        "other": 2,
+        "deviationPercent": 0.56
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 4,
+        "śmierć": 1,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 1,
+        "sacrum": 0,
+        "noc": 5,
+        "ból": 1
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 623,
+      "estimatedSeconds": 208,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 80,
+      "VERB": 49,
+      "ADJ": 21,
+      "ADV": 33,
+      "PRON": 26,
+      "ADP": 25,
+      "CCONJ": 14,
+      "SCONJ": 17,
+      "INTJ": 0,
+      "PART": 17,
+      "DET": 5,
+      "NUM": 1
+    },
+    "posPercent": {
+      "NOUN": 0.273,
+      "VERB": 0.167,
+      "ADJ": 0.072,
+      "ADV": 0.113,
+      "PRON": 0.089,
+      "ADP": 0.085,
+      "CCONJ": 0.048,
+      "SCONJ": 0.058,
+      "INTJ": 0,
+      "PART": 0.058,
+      "DET": 0.017,
+      "NUM": 0.003
+    },
+    "nounConcreteAbstract": {
+      "concrete": 22,
+      "abstract": 4,
+      "ratio": 0.85
+    },
+    "verbTenses": {
+      "present": 35,
+      "infinitive": 7,
+      "past": 7,
+      "future": 2
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 4,
+      "destrukcja": 1,
+      "tworzenie": 1,
+      "komunikacja": 1,
+      "cialo": 2
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 1,
+      "opisowe": 20
+    },
+    "adverbs": {
+      "temporalne": [
+        "kiedyś"
+      ],
+      "modalne": [],
+      "sposobu": [
+        "nagle",
+        "wolno"
+      ],
+      "top": [
+        {
+          "word": "gdy",
+          "count": 14
+        },
+        {
+          "word": "nagle",
+          "count": 3
+        },
+        {
+          "word": "kiedy",
+          "count": 2
+        },
+        {
+          "word": "dalej",
+          "count": 2
+        },
+        {
+          "word": "wielce",
+          "count": 1
+        },
+        {
+          "word": "ledwie",
+          "count": 1
+        },
+        {
+          "word": "szczelnie",
+          "count": 1
+        },
+        {
+          "word": "wolno",
+          "count": 1
+        },
+        {
+          "word": "tak",
+          "count": 1
+        },
+        {
+          "word": "odwrotnie",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 1,
+      "ty": 5,
+      "on_ona": 5,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 8,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 8,
+      "percentSentences": 0.89
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 32.6,
+      "median": 14,
+      "min": 6,
+      "max": 92,
+      "distribution": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 7.3,
+      "meanSyllables": 15.2,
+      "distribution": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        2,
+        6,
+        16,
+        9,
+        5,
+        2
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 9,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 0,
+      "noSubject": 2,
+      "noPredicate": 0,
+      "percent": 0.22
+    },
+    "enjambement": {
+      "count": 11,
+      "percent": 0.28,
+      "positions": [
+        1,
+        3,
+        10,
+        11,
+        16,
+        18,
+        21,
+        22,
+        26,
+        37,
+        38
+      ]
+    },
+    "wordOrder": {
+      "svo": 4,
+      "inversions": 3,
+      "other": 2,
+      "deviationPercent": 0.56
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 603,
+      "consonants": 867,
+      "ratio": 0.7
+    },
+    "consonantClusters": {
+      "count": 43,
+      "top": [
+        {
+          "cluster": "prz",
+          "count": 5
+        },
+        {
+          "cluster": "szcz",
+          "count": 4
+        },
+        {
+          "cluster": "trz",
+          "count": 4
+        },
+        {
+          "cluster": "wsz",
+          "count": 3
+        },
+        {
+          "cluster": "szł",
+          "count": 2
+        },
+        {
+          "cluster": "dwr",
+          "count": 2
+        },
+        {
+          "cluster": "drw",
+          "count": 1
+        },
+        {
+          "cluster": "mdl",
+          "count": 1
+        },
+        {
+          "cluster": "czk",
+          "count": 1
+        },
+        {
+          "cluster": "chw",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 89,
+      "syczace": 162,
+      "nosowe": 148,
+      "plynne": 96
+    },
+    "rhymes": {
+      "exact": 5,
+      "approximate": 7,
+      "internal": 3,
+      "assonance": 2,
+      "alliteration": 5
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        41
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 623,
+      "estimatedSeconds": 208,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "regularny",
+      "regularityScore": 0.88
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Norwid",
+          "reference": "Jak Norwid, zaznaczasz, żeś nie jest z teorią / Obeznany",
+          "evidence": "Bezpośrednie przywołanie Norwida i jego poetyki teoretycznej"
+        },
+        {
+          "source": "Biblia",
+          "reference": "komora gazowa",
+          "evidence": "Aluzja do Holocaustu i cierpienia"
+        },
+        {
+          "source": "mitologia",
+          "reference": "Strzelec",
+          "evidence": "Znak zodiaku jako mitologiczna postać"
+        }
+      ],
+      "selfQuotes": [
+        "pies księżyca",
+        "Strzelec - ja"
+      ],
+      "influences": {
+        "rimbaud": 0.7,
+        "baudelaire": 0.6,
+        "bursa": 0.3,
+        "stachura": 0.4,
+        "grochowiak": 0.2,
+        "bialoszewski": 0.3,
+        "rozewicz": 0.5
+      }
+    },
+    "space": {
+      "type": "zamknieta",
+      "evidence": "pokój, komora gazowa, budka kontrolerki - dominują przestrzenie zamknięte, klaustrofobiczne",
+      "openClosedRatio": 0.2
+    },
+    "timeOfDay": {
+      "period": "noc",
+      "season": "nieokreslona",
+      "evidence": "zaułki nocy, księżyc, atmosfera nocna i oniryczna"
+    },
+    "motion": {
+      "movement": 8,
+      "stillness": 3,
+      "dynamism": 0.8,
+      "evidence": "szczekanie, wycie, dygotanie, obracanie planety, topienie się - intensywny ruch i dynamika"
+    },
+    "imageryDensity": {
+      "metaphors": 15,
+      "comparisons": 8,
+      "personifications": 6,
+      "hyperboles": 4,
+      "per100words": 12.5
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.9,
+      "creationLevel": 0.7,
+      "ironicDistance": 0.3,
+      "autobiographicSignals": [
+        "Strzelec - ja",
+        "twój kiedyś pies",
+        "data 25 I 1970",
+        "własne doświadczenie lęku i cierpienia"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "rozpacz",
+      "secondary": "lęk",
+      "intensity": 0.9
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "Pojawienie się podmiotu w ostatnim wersie 'Wtedy zjawia się Strzelec – ja – i stawia kropkę'"
+    },
+    "addressee": {
+      "type": "siebie",
+      "evidence": "Wiersz w całości skierowany do 'ty', które okazuje się być drugim 'ja' podmiotu, autoanaliza psychiczna"
+    },
+    "metaphors": [
+      {
+        "source": "pies księżyca",
+        "target": "cierpienie psychiczne",
+        "example": "Gdy pies księżyca szczeka i z zaułków nocy / Echo mu odpowiada w sposób wielce drwiący"
+      },
+      {
+        "source": "komora gazowa",
+        "target": "pokój/przestrzeń życiowa",
+        "example": "już nie w twoim pokoju – w komorze gazowej"
+      },
+      {
+        "source": "pętla lęku",
+        "target": "duszące uczucie strachu",
+        "example": "Gdy pętla lęku szczelnie zaciska ci szyję"
+      }
+    ],
+    "temperature": {
+      "value": 0.8,
+      "label": "gorące cierpienie"
+    },
+    "senses": {
+      "wzrok": 4,
+      "sluch": 5,
+      "dotyk": 5,
+      "smak": 1,
+      "zapach": 0
+    },
+    "autodestruction": {
+      "level": 0.9,
+      "signals": [
+        "topienie się w rzece Anna",
+        "niemożność oddychania",
+        "pętla lęku zaciskająca szyję",
+        "poezja opuszczająca podmiot",
+        "nóż bólu przeniknący trzewia",
+        "utożsamienie z umierającym psem"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 0.776,
+    "dfaAlpha": 0.778,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -0.9656127986861959
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -0.7240559438663439
+      },
+      {
+        "logWin": 1.6094379124341003,
+        "logFluc": -0.5735837051630912
+      },
+      {
+        "logWin": 1.791759469228055,
+        "logFluc": -0.4708502938087317
+      },
+      {
+        "logWin": 1.9459101490553132,
+        "logFluc": -0.44407370388170136
+      },
+      {
+        "logWin": 2.1972245773362196,
+        "logFluc": -0.10109934818102963
+      },
+      {
+        "logWin": 2.3978952727983707,
+        "logFluc": 0.07807294801493224
+      },
+      {
+        "logWin": 2.4849066497880004,
+        "logFluc": 0.10330568994353467
+      }
+    ],
+    "seriesLength": 40,
+    "series": [
+      8,
+      7,
+      6,
+      5,
+      6,
+      8,
+      9,
+      8,
+      8,
+      7,
+      8,
+      6,
+      8,
+      7,
+      8,
+      7,
+      5,
+      8,
+      6,
+      6,
+      7,
+      10,
+      7,
+      8,
+      7,
+      9,
+      6,
+      7,
+      7,
+      9,
+      7,
+      7,
+      7,
+      7,
+      8,
+      7,
+      7,
+      9,
+      5,
+      8
+    ]
+  }
+}

@@ -1,0 +1,1252 @@
+{
+  "id": "to-jest-hanka",
+  "title": "To jest Hanka",
+  "wordCount": 128,
+  "lineCount": 36,
+  "uniqueWords": 90,
+  "vocabularyRichness": 0.703,
+  "avgWordsPerLine": 3.56,
+  "wordsPerLineDistribution": [
+    3,
+    4,
+    3,
+    3,
+    4,
+    3,
+    5,
+    2,
+    3,
+    3,
+    4,
+    5,
+    3,
+    4,
+    4,
+    5,
+    5,
+    4,
+    3,
+    2,
+    3,
+    2,
+    5,
+    3,
+    3,
+    3,
+    4,
+    4,
+    3,
+    4,
+    4,
+    2,
+    4,
+    4,
+    5,
+    3
+  ],
+  "wordFrequencies": [
+    [
+      "moi",
+      3
+    ],
+    [
+      "bracia",
+      3
+    ],
+    [
+      "zresztą",
+      2
+    ],
+    [
+      "okrutni",
+      2
+    ],
+    [
+      "zdaje",
+      2
+    ],
+    [
+      "były",
+      2
+    ],
+    [
+      "hanki",
+      2
+    ],
+    [
+      "głaszczę",
+      2
+    ],
+    [
+      "coraz",
+      2
+    ],
+    [
+      "hanka",
+      1
+    ],
+    [
+      "wariat",
+      1
+    ],
+    [
+      "mijamy",
+      1
+    ],
+    [
+      "wybrałem",
+      1
+    ],
+    [
+      "szpital",
+      1
+    ],
+    [
+      "mali",
+      1
+    ],
+    [
+      "wnętrznościach",
+      1
+    ],
+    [
+      "grzebali",
+      1
+    ],
+    [
+      "pamiętam",
+      1
+    ],
+    [
+      "uśmiechnięci",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 0,
+    "period": 0,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 1,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 4,
+  "negationWords": [
+    "nic",
+    "nie"
+  ],
+  "pronounDistribution": {
+    "ja": 6,
+    "ty": 0,
+    "on_ona": 2,
+    "my": 0,
+    "wy": 0,
+    "oni": 3
+  },
+  "semanticFields": {
+    "cialo": 2,
+    "smierc": 0,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [
+    [
+      "to jest",
+      3
+    ],
+    [
+      "ja",
+      2
+    ],
+    [
+      "zresztą",
+      2
+    ],
+    [
+      "moi",
+      2
+    ],
+    [
+      "oni",
+      2
+    ],
+    [
+      "to zdaje",
+      2
+    ],
+    [
+      "albo",
+      2
+    ]
+  ],
+  "firstWord": "to",
+  "lastWord": "okrutni",
+  "avgWordLength": 4.66,
+  "wordLengthDistribution": {
+    "1-3": 43,
+    "4-5": 45,
+    "6-7": 26,
+    "8-9": 10,
+    "10+": 4
+  },
+  "bigrams": [
+    [
+      "moi bracia",
+      2
+    ],
+    [
+      "jestem wariat",
+      1
+    ]
+  ],
+  "poemWords": [
+    "hanka",
+    "wariat",
+    "mijamy",
+    "wybrałem",
+    "szpital",
+    "moi",
+    "mali",
+    "bracia",
+    "wnętrznościach",
+    "grzebali",
+    "zresztą",
+    "nic",
+    "pamiętam",
+    "uśmiechnięci",
+    "okrutni",
+    "trzymali",
+    "rękach",
+    "kwiaty",
+    "zdaje",
+    "były",
+    "noże",
+    "małe",
+    "pszczoły",
+    "złote",
+    "mieli",
+    "dobre",
+    "serca",
+    "okazywali",
+    "żądanie",
+    "żądałem",
+    "hankę",
+    "prosić",
+    "odważę",
+    "miejscu",
+    "bezpiecznie",
+    "liczę",
+    "nowa",
+    "hanki",
+    "białe",
+    "włosy",
+    "różaniec",
+    "przebieram",
+    "płytki",
+    "korytarza",
+    "głaszczę",
+    "głowę",
+    "głowa",
+    "mówię",
+    "wiesz",
+    "mała",
+    "radość",
+    "rośnie",
+    "coraz",
+    "większa",
+    "bańka",
+    "szklana",
+    "której",
+    "siedzą",
+    "mniejsi"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 22,
+        "VERB": 22,
+        "ADJ": 13,
+        "ADV": 6,
+        "PRON": 19,
+        "ADP": 7,
+        "CCONJ": 7,
+        "SCONJ": 3,
+        "INTJ": 0,
+        "PART": 5,
+        "DET": 7,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.172,
+        "VERB": 0.172,
+        "ADJ": 0.102,
+        "ADV": 0.047,
+        "PRON": 0.148,
+        "ADP": 0.055,
+        "CCONJ": 0.055,
+        "SCONJ": 0.023,
+        "INTJ": 0,
+        "PART": 0.039,
+        "DET": 0.055,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 3,
+        "abstract": 1,
+        "ratio": 0.75
+      },
+      "verbTenses": {
+        "present": 24,
+        "past": 10,
+        "infinitive": 1,
+        "future": 1
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 12,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 2,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 1,
+        "oceniajace": 1,
+        "opisowe": 11
+      },
+      "adverbs": {
+        "temporalne": [
+          "teraz",
+          "wciąż"
+        ],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "coraz",
+            "count": 2
+          },
+          {
+            "word": "tak",
+            "count": 1
+          },
+          {
+            "word": "teraz",
+            "count": 1
+          },
+          {
+            "word": "bezpiecznie",
+            "count": 1
+          },
+          {
+            "word": "wciąż",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 6,
+        "ty": 0,
+        "on_ona": 2,
+        "my": 0,
+        "wy": 0,
+        "oni": 4
+      },
+      "negations": {
+        "nie": 3,
+        "nic": 1,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 4,
+        "percentSentences": 4
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 261,
+        "consonants": 335,
+        "ratio": 0.78
+      },
+      "consonantClusters": {
+        "count": 15,
+        "top": [
+          {
+            "cluster": "szt",
+            "count": 2
+          },
+          {
+            "cluster": "szcz",
+            "count": 2
+          },
+          {
+            "cluster": "szp",
+            "count": 1
+          },
+          {
+            "cluster": "trzn",
+            "count": 1
+          },
+          {
+            "cluster": "grz",
+            "count": 1
+          },
+          {
+            "cluster": "chn",
+            "count": 1
+          },
+          {
+            "cluster": "trz",
+            "count": 1
+          },
+          {
+            "cluster": "pszcz",
+            "count": 1
+          },
+          {
+            "cluster": "jsc",
+            "count": 1
+          },
+          {
+            "cluster": "czn",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 26,
+        "syczace": 49,
+        "nosowe": 76,
+        "plynne": 56
+      },
+      "rhymes": {
+        "exact": 1,
+        "approximate": 1,
+        "internal": 0,
+        "assonance": 0,
+        "alliteration": 3
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 128,
+        "median": 128,
+        "min": 128,
+        "max": 128,
+        "distribution": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 3.6,
+        "meanSyllables": 7.3,
+        "distribution": [
+          0,
+          0,
+          4,
+          14,
+          12,
+          6
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 1,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 0,
+        "noSubject": 0,
+        "noPredicate": 0,
+        "percent": 0
+      },
+      "enjambement": {
+        "count": 27,
+        "percent": 0.77,
+        "positions": [
+          1,
+          2,
+          4,
+          5,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          15,
+          16,
+          18,
+          19,
+          21,
+          22,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          31,
+          32,
+          33,
+          34,
+          35
+        ]
+      },
+      "wordOrder": {
+        "svo": 1,
+        "inversions": 0,
+        "other": 0,
+        "deviationPercent": 0
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 3,
+        "śmierć": 0,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 264,
+      "estimatedSeconds": 88,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 22,
+      "VERB": 22,
+      "ADJ": 13,
+      "ADV": 6,
+      "PRON": 19,
+      "ADP": 7,
+      "CCONJ": 7,
+      "SCONJ": 3,
+      "INTJ": 0,
+      "PART": 5,
+      "DET": 7,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.172,
+      "VERB": 0.172,
+      "ADJ": 0.102,
+      "ADV": 0.047,
+      "PRON": 0.148,
+      "ADP": 0.055,
+      "CCONJ": 0.055,
+      "SCONJ": 0.023,
+      "INTJ": 0,
+      "PART": 0.039,
+      "DET": 0.055,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 3,
+      "abstract": 1,
+      "ratio": 0.75
+    },
+    "verbTenses": {
+      "present": 24,
+      "past": 10,
+      "infinitive": 1,
+      "future": 1
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 12,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 2,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 1,
+      "oceniajace": 1,
+      "opisowe": 11
+    },
+    "adverbs": {
+      "temporalne": [
+        "teraz",
+        "wciąż"
+      ],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "coraz",
+          "count": 2
+        },
+        {
+          "word": "tak",
+          "count": 1
+        },
+        {
+          "word": "teraz",
+          "count": 1
+        },
+        {
+          "word": "bezpiecznie",
+          "count": 1
+        },
+        {
+          "word": "wciąż",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 6,
+      "ty": 0,
+      "on_ona": 2,
+      "my": 0,
+      "wy": 0,
+      "oni": 4
+    },
+    "negations": {
+      "nie": 3,
+      "nic": 1,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 4,
+      "percentSentences": 4
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 128,
+      "median": 128,
+      "min": 128,
+      "max": 128,
+      "distribution": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 3.6,
+      "meanSyllables": 7.3,
+      "distribution": [
+        0,
+        0,
+        4,
+        14,
+        12,
+        6
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 1,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 0,
+      "noSubject": 0,
+      "noPredicate": 0,
+      "percent": 0
+    },
+    "enjambement": {
+      "count": 27,
+      "percent": 0.77,
+      "positions": [
+        1,
+        2,
+        4,
+        5,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        15,
+        16,
+        18,
+        19,
+        21,
+        22,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        31,
+        32,
+        33,
+        34,
+        35
+      ]
+    },
+    "wordOrder": {
+      "svo": 1,
+      "inversions": 0,
+      "other": 0,
+      "deviationPercent": 0
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 261,
+      "consonants": 335,
+      "ratio": 0.78
+    },
+    "consonantClusters": {
+      "count": 15,
+      "top": [
+        {
+          "cluster": "szt",
+          "count": 2
+        },
+        {
+          "cluster": "szcz",
+          "count": 2
+        },
+        {
+          "cluster": "szp",
+          "count": 1
+        },
+        {
+          "cluster": "trzn",
+          "count": 1
+        },
+        {
+          "cluster": "grz",
+          "count": 1
+        },
+        {
+          "cluster": "chn",
+          "count": 1
+        },
+        {
+          "cluster": "trz",
+          "count": 1
+        },
+        {
+          "cluster": "pszcz",
+          "count": 1
+        },
+        {
+          "cluster": "jsc",
+          "count": 1
+        },
+        {
+          "cluster": "czn",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 26,
+      "syczace": 49,
+      "nosowe": 76,
+      "plynne": 56
+    },
+    "rhymes": {
+      "exact": 1,
+      "approximate": 1,
+      "internal": 0,
+      "assonance": 0,
+      "alliteration": 3
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 8,
+      "linesPerStanza": [
+        7,
+        7,
+        3,
+        3,
+        4,
+        6,
+        3,
+        3
+      ],
+      "isRegular": false,
+      "isContinuous": false
+    },
+    "readingTempo": {
+      "syllables": 264,
+      "estimatedSeconds": 88,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "regularny",
+      "regularityScore": 0.73
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Biblia",
+          "reference": "różaniec",
+          "evidence": "albo jak różaniec / przebieram płytki korytarza"
+        },
+        {
+          "source": "mitologia",
+          "reference": "symbolika pszczół",
+          "evidence": "to zdaje się / były małe pszczoły złote"
+        },
+        {
+          "source": "inne",
+          "reference": "motywy szpitalne",
+          "evidence": "Ja wybrałem szpital"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.3,
+        "baudelaire": 0.2,
+        "bursa": 0.8,
+        "stachura": 0.7,
+        "grochowiak": 0.4,
+        "bialoszewski": 0.6,
+        "rozewicz": 0.5
+      }
+    },
+    "space": {
+      "type": "zamknieta",
+      "evidence": "szpital, korytarz, płytki - przestrzeń instytucjonalna, zamknięta",
+      "openClosedRatio": 0.2
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "nieokreslona",
+      "evidence": "brak wyraźnych wskaźników temporalnych"
+    },
+    "motion": {
+      "movement": 3,
+      "stillness": 7,
+      "dynamism": 0.3,
+      "evidence": "przebieram płytki korytarza, głaszczę - ruchy powtarzalne, monotonne"
+    },
+    "imageryDensity": {
+      "metaphors": 4,
+      "comparisons": 3,
+      "personifications": 2,
+      "hyperboles": 1,
+      "per100words": 8.5
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.9,
+      "creationLevel": 0.3,
+      "ironicDistance": 0.1,
+      "autobiographicSignals": [
+        "Hanka",
+        "szpital",
+        "bracia",
+        "wyznanie choroby psychicznej",
+        "terapeutyczny charakter mówienia"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "melancholia",
+      "secondary": "czułość",
+      "intensity": 0.7
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "ja jestem wariat, ja wybrałem szpital, ja nie wiem, ja liczę"
+    },
+    "addressee": {
+      "type": "ty",
+      "evidence": "To jest Hanka, teraz Hankę prosić odważę się, mówię do niej: wiesz"
+    },
+    "metaphors": [
+      {
+        "source": "kwiaty",
+        "target": "noże",
+        "example": "trzymali w rękach kwiaty / to zdaje się były noże"
+      },
+      {
+        "source": "różaniec",
+        "target": "płytki korytarza",
+        "example": "albo jak różaniec / przebieram płytki korytarza"
+      },
+      {
+        "source": "bańka szklana",
+        "target": "radość",
+        "example": "to jest bańka szklana / w której siedzą coraz mniejsi / moi bracia okrutni"
+      }
+    ],
+    "temperature": {
+      "value": 0.3,
+      "label": "chłodne z ciepłymi akcentami"
+    },
+    "senses": {
+      "wzrok": 4,
+      "sluch": 2,
+      "dotyk": 5,
+      "smak": 0,
+      "zapach": 0
+    },
+    "autodestruction": {
+      "level": 0.6,
+      "signals": [
+        "ja jestem wariat",
+        "wybrałem szpital",
+        "we wnętrznościach grzebali",
+        "bracia okrutni"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 0.735,
+    "dfaAlpha": 0.672,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -1.291035199120824
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -0.8078396772501427
+      },
+      {
+        "logWin": 1.6094379124341003,
+        "logFluc": -0.6459703566984447
+      },
+      {
+        "logWin": 1.791759469228055,
+        "logFluc": -0.6438666965011904
+      },
+      {
+        "logWin": 1.9459101490553132,
+        "logFluc": -0.39776037809365367
+      },
+      {
+        "logWin": 2.0794415416798357,
+        "logFluc": -0.6253394063033253
+      },
+      {
+        "logWin": 2.302585092994046,
+        "logFluc": -0.4230412485790978
+      },
+      {
+        "logWin": 2.4849066497880004,
+        "logFluc": -0.13864769303932353
+      }
+    ],
+    "seriesLength": 36,
+    "series": [
+      3,
+      4,
+      3,
+      3,
+      4,
+      3,
+      5,
+      2,
+      3,
+      3,
+      4,
+      5,
+      3,
+      4,
+      4,
+      5,
+      5,
+      4,
+      3,
+      2,
+      3,
+      2,
+      5,
+      3,
+      3,
+      3,
+      4,
+      4,
+      3,
+      4,
+      4,
+      2,
+      4,
+      4,
+      5,
+      3
+    ]
+  }
+}

@@ -1,0 +1,881 @@
+{
+  "id": "inicjacja",
+  "title": "Inicjacja",
+  "wordCount": 92,
+  "lineCount": 14,
+  "uniqueWords": 80,
+  "vocabularyRichness": 0.87,
+  "avgWordsPerLine": 6.57,
+  "wordsPerLineDistribution": [
+    6,
+    7,
+    9,
+    7,
+    6,
+    7,
+    6,
+    5,
+    5,
+    7,
+    6,
+    5,
+    8,
+    8
+  ],
+  "wordFrequencies": [
+    [
+      "ogień",
+      2
+    ],
+    [
+      "mówi",
+      2
+    ],
+    [
+      "koniecznie",
+      1
+    ],
+    [
+      "naga",
+      1
+    ],
+    [
+      "kobieta",
+      1
+    ],
+    [
+      "dwoje",
+      1
+    ],
+    [
+      "uroczyście",
+      1
+    ],
+    [
+      "wypukłych",
+      1
+    ],
+    [
+      "piersi",
+      1
+    ],
+    [
+      "zawsze",
+      1
+    ],
+    [
+      "przede",
+      1
+    ],
+    [
+      "stała",
+      1
+    ],
+    [
+      "klęczy",
+      1
+    ],
+    [
+      "nieci",
+      1
+    ],
+    [
+      "wymyślony",
+      1
+    ],
+    [
+      "dłoni",
+      1
+    ],
+    [
+      "wiedziała",
+      1
+    ],
+    [
+      "głodny",
+      1
+    ],
+    [
+      "syci",
+      1
+    ],
+    [
+      "tchnieniem",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 0,
+    "period": 0,
+    "question": 3,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 0,
+    "semicolon": 0
+  },
+  "questionCount": 3,
+  "exclamationCount": 0,
+  "negationCount": 2,
+  "negationWords": [
+    "nie"
+  ],
+  "pronounDistribution": {
+    "ja": 2,
+    "ty": 2,
+    "on_ona": 2,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 2,
+    "smierc": 0,
+    "erotyka": 1,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [
+    [
+      "mówi",
+      2
+    ]
+  ],
+  "firstWord": "koniecznie",
+  "lastWord": "wejdzie",
+  "avgWordLength": 4.73,
+  "wordLengthDistribution": {
+    "10+": 4,
+    "4-5": 33,
+    "1-3": 30,
+    "6-7": 16,
+    "8-9": 9
+  },
+  "bigrams": [
+    [
+      "koniecznie naga",
+      1
+    ],
+    [
+      "dwoje uroczyście",
+      1
+    ],
+    [
+      "uroczyście wypukłych",
+      1
+    ]
+  ],
+  "poemWords": [
+    "koniecznie",
+    "naga",
+    "kobieta",
+    "dwoje",
+    "uroczyście",
+    "wypukłych",
+    "piersi",
+    "zawsze",
+    "przede",
+    "stała",
+    "klęczy",
+    "nieci",
+    "wymyślony",
+    "ogień",
+    "dłoni",
+    "wiedziała",
+    "głodny",
+    "syci",
+    "tchnieniem",
+    "ognisko",
+    "jawny",
+    "kształt",
+    "płuc",
+    "mówi",
+    "będziemy",
+    "jedli",
+    "podołka",
+    "zdążyłem",
+    "pomyśleć",
+    "bułkę",
+    "bierze",
+    "wodę",
+    "wypłaczę",
+    "bym",
+    "mogła",
+    "umyć",
+    "nogi",
+    "chcesz",
+    "zacząć",
+    "sutków",
+    "zjedzone",
+    "darmo",
+    "roznieciła",
+    "dwóch",
+    "stron",
+    "ognia",
+    "czekamy",
+    "pierwsze",
+    "wejdzie"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 18,
+        "VERB": 18,
+        "ADJ": 8,
+        "ADV": 5,
+        "PRON": 7,
+        "ADP": 7,
+        "CCONJ": 4,
+        "SCONJ": 5,
+        "INTJ": 0,
+        "PART": 8,
+        "DET": 3,
+        "NUM": 2
+      },
+      "posPercent": {
+        "NOUN": 0.194,
+        "VERB": 0.194,
+        "ADJ": 0.086,
+        "ADV": 0.054,
+        "PRON": 0.075,
+        "ADP": 0.075,
+        "CCONJ": 0.043,
+        "SCONJ": 0.054,
+        "INTJ": 0,
+        "PART": 0.086,
+        "DET": 0.032,
+        "NUM": 0.022
+      },
+      "nounConcreteAbstract": {
+        "concrete": 2,
+        "abstract": 0,
+        "ratio": 1
+      },
+      "verbTenses": {
+        "present": 14,
+        "future": 3,
+        "past": 5,
+        "infinitive": 3
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 5,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 2,
+        "cialo": 1
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 0,
+        "opisowe": 8
+      },
+      "adverbs": {
+        "temporalne": [
+          "zawsze"
+        ],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "koniecznie",
+            "count": 1
+          },
+          {
+            "word": "uroczyście",
+            "count": 1
+          },
+          {
+            "word": "tak",
+            "count": 1
+          },
+          {
+            "word": "zawsze",
+            "count": 1
+          },
+          {
+            "word": "darmo",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 2,
+        "ty": 1,
+        "on_ona": 1,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 2,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 2,
+        "percentSentences": 0.25
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 187,
+        "consonants": 257,
+        "ratio": 0.73
+      },
+      "consonantClusters": {
+        "count": 10,
+        "top": [
+          {
+            "cluster": "prz",
+            "count": 2
+          },
+          {
+            "cluster": "czn",
+            "count": 1
+          },
+          {
+            "cluster": "wsz",
+            "count": 1
+          },
+          {
+            "cluster": "tchn",
+            "count": 1
+          },
+          {
+            "cluster": "kszt",
+            "count": 1
+          },
+          {
+            "cluster": "chc",
+            "count": 1
+          },
+          {
+            "cluster": "str",
+            "count": 1
+          },
+          {
+            "cluster": "rwsz",
+            "count": 1
+          },
+          {
+            "cluster": "jdz",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 20,
+        "syczace": 40,
+        "nosowe": 52,
+        "plynne": 28
+      },
+      "rhymes": {
+        "exact": 0,
+        "approximate": 0,
+        "internal": 2,
+        "assonance": 0,
+        "alliteration": 0
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 11.6,
+        "median": 9,
+        "min": 4,
+        "max": 22,
+        "distribution": [
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          3,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 6.2,
+        "meanSyllables": 12.7,
+        "distribution": [
+          0,
+          1,
+          0,
+          0,
+          0,
+          3,
+          4,
+          4,
+          2,
+          1
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 5,
+        "interrogative": 3,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 0,
+        "noSubject": 4,
+        "noPredicate": 0,
+        "percent": 0.5
+      },
+      "enjambement": {
+        "count": 2,
+        "percent": 0.14,
+        "positions": [
+          6,
+          11
+        ]
+      },
+      "wordOrder": {
+        "svo": 1,
+        "inversions": 2,
+        "other": 5,
+        "deviationPercent": 0.88
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 2,
+        "śmierć": 0,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 190,
+      "estimatedSeconds": 63,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 18,
+      "VERB": 18,
+      "ADJ": 8,
+      "ADV": 5,
+      "PRON": 7,
+      "ADP": 7,
+      "CCONJ": 4,
+      "SCONJ": 5,
+      "INTJ": 0,
+      "PART": 8,
+      "DET": 3,
+      "NUM": 2
+    },
+    "posPercent": {
+      "NOUN": 0.194,
+      "VERB": 0.194,
+      "ADJ": 0.086,
+      "ADV": 0.054,
+      "PRON": 0.075,
+      "ADP": 0.075,
+      "CCONJ": 0.043,
+      "SCONJ": 0.054,
+      "INTJ": 0,
+      "PART": 0.086,
+      "DET": 0.032,
+      "NUM": 0.022
+    },
+    "nounConcreteAbstract": {
+      "concrete": 2,
+      "abstract": 0,
+      "ratio": 1
+    },
+    "verbTenses": {
+      "present": 14,
+      "future": 3,
+      "past": 5,
+      "infinitive": 3
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 5,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 2,
+      "cialo": 1
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 0,
+      "opisowe": 8
+    },
+    "adverbs": {
+      "temporalne": [
+        "zawsze"
+      ],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "koniecznie",
+          "count": 1
+        },
+        {
+          "word": "uroczyście",
+          "count": 1
+        },
+        {
+          "word": "tak",
+          "count": 1
+        },
+        {
+          "word": "zawsze",
+          "count": 1
+        },
+        {
+          "word": "darmo",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 2,
+      "ty": 1,
+      "on_ona": 1,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 2,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 2,
+      "percentSentences": 0.25
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 11.6,
+      "median": 9,
+      "min": 4,
+      "max": 22,
+      "distribution": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        3,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 6.2,
+      "meanSyllables": 12.7,
+      "distribution": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        3,
+        4,
+        4,
+        2,
+        1
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 5,
+      "interrogative": 3,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 0,
+      "noSubject": 4,
+      "noPredicate": 0,
+      "percent": 0.5
+    },
+    "enjambement": {
+      "count": 2,
+      "percent": 0.14,
+      "positions": [
+        6,
+        11
+      ]
+    },
+    "wordOrder": {
+      "svo": 1,
+      "inversions": 2,
+      "other": 5,
+      "deviationPercent": 0.88
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 187,
+      "consonants": 257,
+      "ratio": 0.73
+    },
+    "consonantClusters": {
+      "count": 10,
+      "top": [
+        {
+          "cluster": "prz",
+          "count": 2
+        },
+        {
+          "cluster": "czn",
+          "count": 1
+        },
+        {
+          "cluster": "wsz",
+          "count": 1
+        },
+        {
+          "cluster": "tchn",
+          "count": 1
+        },
+        {
+          "cluster": "kszt",
+          "count": 1
+        },
+        {
+          "cluster": "chc",
+          "count": 1
+        },
+        {
+          "cluster": "str",
+          "count": 1
+        },
+        {
+          "cluster": "rwsz",
+          "count": 1
+        },
+        {
+          "cluster": "jdz",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 20,
+      "syczace": 40,
+      "nosowe": 52,
+      "plynne": 28
+    },
+    "rhymes": {
+      "exact": 0,
+      "approximate": 0,
+      "internal": 2,
+      "assonance": 0,
+      "alliteration": 0
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        15
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 190,
+      "estimatedSeconds": 63,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "polregularny",
+      "regularityScore": 0.69
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Biblia",
+          "reference": "umywanie nóg uczniom",
+          "evidence": "Bym ci przed tym mogła umyć nogi"
+        },
+        {
+          "source": "Biblia",
+          "reference": "Ostatnia Wieczerza",
+          "evidence": "będziemy jedli i z podołka / Nim zdążyłem pomyśleć bułkę bierze"
+        },
+        {
+          "source": "mitologia",
+          "reference": "inicjacja misteryczna",
+          "evidence": "tytuł INICJACJA i struktura rytualna wiersza"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.7,
+        "baudelaire": 0.3,
+        "bursa": 0.1,
+        "stachura": 0.2,
+        "grochowiak": 0.8,
+        "bialoszewski": 0.2,
+        "rozewicz": 0.1
+      }
+    },
+    "space": {
+      "type": "zamknieta",
+      "evidence": "ognisko jako centrum, intymna przestrzeń dwojga ludzi",
+      "openClosedRatio": 0.2
+    },
+    "timeOfDay": {
+      "period": "noc",
+      "season": "nieokreslona",
+      "evidence": "rozpalanie ogniska, intymność sytuacji"
+    },
+    "motion": {
+      "movement": 4,
+      "stillness": 6,
+      "dynamism": 0.4,
+      "evidence": "klęczy, nieci ogień, bierze bułkę - ruchy rytualne, powolne"
+    },
+    "imageryDensity": {
+      "metaphors": 8,
+      "comparisons": 2,
+      "personifications": 3,
+      "hyperboles": 1,
+      "per100words": 12.3
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.9,
+      "creationLevel": 0.3,
+      "ironicDistance": 0.1,
+      "autobiographicSignals": [
+        "pierwsze doświadczenie seksualne",
+        "niepewność podmiotu",
+        "szczegółowość opisu"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "czułość",
+      "secondary": "tęsknota",
+      "intensity": 0.8
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "podmiot liryczny przemawia w pierwszej osobie: 'przede mną będzie stała', 'nim zdążyłem pomyśleć', 'wypłaczę'"
+    },
+    "addressee": {
+      "type": "siebie",
+      "evidence": "podmiot prowadzi wewnętrzny monolog, zadając pytania retoryczne i obserwując sytuację"
+    },
+    "metaphors": [
+      {
+        "source": "ogień",
+        "target": "pożądanie",
+        "example": "Nieci nie wymyślony ogień chyba z dłoni"
+      },
+      {
+        "source": "karmienie",
+        "target": "miłość",
+        "example": "głodny syci tchnieniem"
+      },
+      {
+        "source": "ognisko",
+        "target": "intymność",
+        "example": "ognisko jawny kształt jej płuc"
+      }
+    ],
+    "temperature": {
+      "value": 0.7,
+      "label": "ciepłe - zmysłowe pożądanie z nutą czułości"
+    },
+    "senses": {
+      "wzrok": 5,
+      "sluch": 2,
+      "dotyk": 4,
+      "smak": 3,
+      "zapach": 1
+    },
+    "autodestruction": {
+      "level": 0.2,
+      "signals": [
+        "element niepewności i zagubienia w sytuacji inicjacji"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 0.821,
+    "dfaAlpha": 2.49,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -1.445185878948081
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -0.7289722392656112
+      }
+    ],
+    "seriesLength": 14,
+    "series": [
+      6,
+      7,
+      9,
+      7,
+      6,
+      7,
+      6,
+      5,
+      5,
+      7,
+      6,
+      5,
+      8,
+      8
+    ]
+  }
+}

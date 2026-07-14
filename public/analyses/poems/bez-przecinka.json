@@ -1,0 +1,1022 @@
+{
+  "id": "bez-przecinka",
+  "title": "Bez przecinka",
+  "wordCount": 158,
+  "lineCount": 30,
+  "uniqueWords": 110,
+  "vocabularyRichness": 0.696,
+  "avgWordsPerLine": 5.27,
+  "wordsPerLineDistribution": [
+    4,
+    6,
+    6,
+    4,
+    4,
+    7,
+    5,
+    5,
+    4,
+    5,
+    5,
+    6,
+    5,
+    6,
+    5,
+    5,
+    6,
+    6,
+    5,
+    6,
+    5,
+    5,
+    5,
+    5,
+    6,
+    4,
+    6,
+    6,
+    7,
+    4
+  ],
+  "wordFrequencies": [
+    [
+      "śnieg",
+      4
+    ],
+    [
+      "myśli",
+      3
+    ],
+    [
+      "mdłe",
+      2
+    ],
+    [
+      "płomyki",
+      2
+    ],
+    [
+      "obłędu",
+      2
+    ],
+    [
+      "trawki",
+      2
+    ],
+    [
+      "okno",
+      2
+    ],
+    [
+      "zasypał",
+      2
+    ],
+    [
+      "drogi",
+      2
+    ],
+    [
+      "myśl",
+      2
+    ],
+    [
+      "rosną",
+      1
+    ],
+    [
+      "mózgu",
+      1
+    ],
+    [
+      "mózg",
+      1
+    ],
+    [
+      "krwawi",
+      1
+    ],
+    [
+      "myślą",
+      1
+    ],
+    [
+      "pada",
+      1
+    ],
+    [
+      "przecinka",
+      1
+    ],
+    [
+      "opowiada",
+      1
+    ],
+    [
+      "najdłuższe",
+      1
+    ],
+    [
+      "zdanie",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 0,
+    "period": 0,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 0,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 12,
+  "negationWords": [
+    "bez",
+    "nie",
+    "nigdy",
+    "żaden"
+  ],
+  "pronounDistribution": {
+    "ja": 7,
+    "ty": 0,
+    "on_ona": 1,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 3,
+    "smierc": 0,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [
+    [
+      "bo",
+      4
+    ],
+    [
+      "mdłe",
+      2
+    ],
+    [
+      "już",
+      2
+    ]
+  ],
+  "firstWord": "mdłe",
+  "lastWord": "trawki",
+  "avgWordLength": 4.52,
+  "wordLengthDistribution": {
+    "4-5": 61,
+    "6-7": 35,
+    "1-3": 52,
+    "8-9": 9,
+    "10+": 1
+  },
+  "bigrams": [
+    [
+      "mdłe płomyki",
+      2
+    ],
+    [
+      "płomyki obłędu",
+      2
+    ],
+    [
+      "obłędu trawki",
+      2
+    ],
+    [
+      "trawki rosną",
+      1
+    ],
+    [
+      "mózg krwawi",
+      1
+    ],
+    [
+      "krwawi myślą",
+      1
+    ],
+    [
+      "śnieg pada",
+      1
+    ]
+  ],
+  "poemWords": [
+    "mdłe",
+    "płomyki",
+    "obłędu",
+    "trawki",
+    "rosną",
+    "mózgu",
+    "mózg",
+    "krwawi",
+    "myślą",
+    "okno",
+    "śnieg",
+    "pada",
+    "przecinka",
+    "opowiada",
+    "najdłuższe",
+    "zdanie",
+    "myśli",
+    "pewno",
+    "zasypał",
+    "drogi",
+    "którymi",
+    "nadejść",
+    "mógł",
+    "kobieta",
+    "zwierzę",
+    "któremu",
+    "powierzę",
+    "sięga",
+    "parapetu",
+    "myśl",
+    "wybiega",
+    "obłęd",
+    "buzuje",
+    "wieje",
+    "żaden",
+    "wiatr",
+    "kartka",
+    "śmieje",
+    "której",
+    "imię",
+    "próbuję",
+    "pewne",
+    "napisać",
+    "umiem",
+    "trzęsie",
+    "ręka",
+    "któraś",
+    "noga",
+    "stołu",
+    "krótsza",
+    "ołówek",
+    "drwi",
+    "przekór",
+    "śni",
+    "czyżbym",
+    "napisał",
+    "słowa",
+    "zatrzymał",
+    "nudnej",
+    "zdania",
+    "skończył",
+    "słowem",
+    "czule",
+    "wiadomym",
+    "progu",
+    "krtani",
+    "stoi",
+    "wyrzygać",
+    "potrafię",
+    "ciągle",
+    "ustać",
+    "zalepia",
+    "usta",
+    "dom"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 41,
+        "VERB": 32,
+        "ADJ": 6,
+        "ADV": 8,
+        "PRON": 14,
+        "ADP": 13,
+        "CCONJ": 9,
+        "SCONJ": 9,
+        "INTJ": 0,
+        "PART": 18,
+        "DET": 7,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.256,
+        "VERB": 0.2,
+        "ADJ": 0.037,
+        "ADV": 0.05,
+        "PRON": 0.087,
+        "ADP": 0.081,
+        "CCONJ": 0.056,
+        "SCONJ": 0.056,
+        "INTJ": 0,
+        "PART": 0.113,
+        "DET": 0.044,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 5,
+        "abstract": 0,
+        "ratio": 1
+      },
+      "verbTenses": {
+        "present": 22,
+        "past": 6,
+        "infinitive": 4,
+        "future": 1
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 1,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 1
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 0,
+        "opisowe": 6
+      },
+      "adverbs": {
+        "temporalne": [
+          "ciągle",
+          "nigdy",
+          "wciąż"
+        ],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "wciąż",
+            "count": 3
+          },
+          {
+            "word": "pewno",
+            "count": 1
+          },
+          {
+            "word": "nigdy",
+            "count": 1
+          },
+          {
+            "word": "tak",
+            "count": 1
+          },
+          {
+            "word": "czule",
+            "count": 1
+          },
+          {
+            "word": "ciągle",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 6,
+        "ty": 0,
+        "on_ona": 1,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 9,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 1,
+        "nigdzie": 0,
+        "zaden": 1,
+        "total": 11,
+        "percentSentences": 0.92
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 314,
+        "consonants": 412,
+        "ratio": 0.76
+      },
+      "consonantClusters": {
+        "count": 16,
+        "top": [
+          {
+            "cluster": "prz",
+            "count": 3
+          },
+          {
+            "cluster": "mdł",
+            "count": 2
+          },
+          {
+            "cluster": "trz",
+            "count": 2
+          },
+          {
+            "cluster": "krw",
+            "count": 1
+          },
+          {
+            "cluster": "jdł",
+            "count": 1
+          },
+          {
+            "cluster": "ższ",
+            "count": 1
+          },
+          {
+            "cluster": "jść",
+            "count": 1
+          },
+          {
+            "cluster": "rtk",
+            "count": 1
+          },
+          {
+            "cluster": "tsz",
+            "count": 1
+          },
+          {
+            "cluster": "drw",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 28,
+        "syczace": 70,
+        "nosowe": 101,
+        "plynne": 59
+      },
+      "rhymes": {
+        "exact": 5,
+        "approximate": 1,
+        "internal": 0,
+        "assonance": 2,
+        "alliteration": 2
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 13.3,
+        "median": 12,
+        "min": 5,
+        "max": 27,
+        "distribution": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          2,
+          0,
+          0,
+          0,
+          1,
+          2,
+          0,
+          2,
+          0,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 5.2,
+        "meanSyllables": 10.1,
+        "distribution": [
+          0,
+          0,
+          1,
+          0,
+          6,
+          12,
+          10,
+          2
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 12,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 1,
+        "noSubject": 1,
+        "noPredicate": 0,
+        "percent": 0.17
+      },
+      "enjambement": {
+        "count": 6,
+        "percent": 0.2,
+        "positions": [
+          7,
+          11,
+          12,
+          17,
+          27,
+          28
+        ]
+      },
+      "wordOrder": {
+        "svo": 7,
+        "inversions": 3,
+        "other": 2,
+        "deviationPercent": 0.42
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 3,
+        "śmierć": 0,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 314,
+      "estimatedSeconds": 105,
+      "tempoCategory": "wolne"
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Różewicz",
+          "reference": "rezygnacja z przecinka, składnia potoczna",
+          "evidence": "Bez przecinka się opowiada / Najdłuższe zdanie mojej myśli"
+        },
+        {
+          "source": "Białoszewski",
+          "reference": "codzienność i językowe eksperymenty",
+          "evidence": "Noga od stołu wciąż jest krótsza / Także ołówek ze mnie drwi"
+        }
+      ],
+      "selfQuotes": [
+        "płomyki obłędu",
+        "myśl za okno"
+      ],
+      "influences": {
+        "rimbaud": 0.3,
+        "baudelaire": 0.2,
+        "bursa": 0.1,
+        "stachura": 0.4,
+        "grochowiak": 0.2,
+        "bialoszewski": 0.7,
+        "rozewicz": 0.8
+      }
+    },
+    "space": {
+      "type": "zamknieta",
+      "evidence": "dom zasypał / śnieg sięga już parapetu / myśl za okno wciąż wybiega",
+      "openClosedRatio": 0.2
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "zima",
+      "evidence": "śnieg pada / śnieg zasypał drogi / śnieg sięga już parapetu"
+    },
+    "motion": {
+      "movement": 7,
+      "stillness": 3,
+      "dynamism": 0.7,
+      "evidence": "Myślą za okno / myśl za okno wciąż wybiega / Obłęd buzuje / trzęsie ręka"
+    },
+    "imageryDensity": {
+      "metaphors": 8,
+      "comparisons": 2,
+      "personifications": 6,
+      "hyperboles": 3,
+      "per100words": 15.2
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.9,
+      "creationLevel": 0.8,
+      "ironicDistance": 0.3,
+      "autobiographicSignals": [
+        "mi się trzęsie ręka",
+        "nie umiem",
+        "ze mnie drwi",
+        "nie napisał"
+      ]
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 41,
+      "VERB": 32,
+      "ADJ": 6,
+      "ADV": 8,
+      "PRON": 14,
+      "ADP": 13,
+      "CCONJ": 9,
+      "SCONJ": 9,
+      "INTJ": 0,
+      "PART": 18,
+      "DET": 7,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.256,
+      "VERB": 0.2,
+      "ADJ": 0.037,
+      "ADV": 0.05,
+      "PRON": 0.087,
+      "ADP": 0.081,
+      "CCONJ": 0.056,
+      "SCONJ": 0.056,
+      "INTJ": 0,
+      "PART": 0.113,
+      "DET": 0.044,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 5,
+      "abstract": 0,
+      "ratio": 1
+    },
+    "verbTenses": {
+      "present": 22,
+      "past": 6,
+      "infinitive": 4,
+      "future": 1
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 1,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 1
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 0,
+      "opisowe": 6
+    },
+    "adverbs": {
+      "temporalne": [
+        "ciągle",
+        "nigdy",
+        "wciąż"
+      ],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "wciąż",
+          "count": 3
+        },
+        {
+          "word": "pewno",
+          "count": 1
+        },
+        {
+          "word": "nigdy",
+          "count": 1
+        },
+        {
+          "word": "tak",
+          "count": 1
+        },
+        {
+          "word": "czule",
+          "count": 1
+        },
+        {
+          "word": "ciągle",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 6,
+      "ty": 0,
+      "on_ona": 1,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 9,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 1,
+      "nigdzie": 0,
+      "zaden": 1,
+      "total": 11,
+      "percentSentences": 0.92
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 13.3,
+      "median": 12,
+      "min": 5,
+      "max": 27,
+      "distribution": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        2,
+        0,
+        0,
+        0,
+        1,
+        2,
+        0,
+        2,
+        0,
+        1,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 5.2,
+      "meanSyllables": 10.1,
+      "distribution": [
+        0,
+        0,
+        1,
+        0,
+        6,
+        12,
+        10,
+        2
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 12,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 1,
+      "noSubject": 1,
+      "noPredicate": 0,
+      "percent": 0.17
+    },
+    "enjambement": {
+      "count": 6,
+      "percent": 0.2,
+      "positions": [
+        7,
+        11,
+        12,
+        17,
+        27,
+        28
+      ]
+    },
+    "wordOrder": {
+      "svo": 7,
+      "inversions": 3,
+      "other": 2,
+      "deviationPercent": 0.42
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 314,
+      "consonants": 412,
+      "ratio": 0.76
+    },
+    "consonantClusters": {
+      "count": 16,
+      "top": [
+        {
+          "cluster": "prz",
+          "count": 3
+        },
+        {
+          "cluster": "mdł",
+          "count": 2
+        },
+        {
+          "cluster": "trz",
+          "count": 2
+        },
+        {
+          "cluster": "krw",
+          "count": 1
+        },
+        {
+          "cluster": "jdł",
+          "count": 1
+        },
+        {
+          "cluster": "ższ",
+          "count": 1
+        },
+        {
+          "cluster": "jść",
+          "count": 1
+        },
+        {
+          "cluster": "rtk",
+          "count": 1
+        },
+        {
+          "cluster": "tsz",
+          "count": 1
+        },
+        {
+          "cluster": "drw",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 28,
+      "syczace": 70,
+      "nosowe": 101,
+      "plynne": 59
+    },
+    "rhymes": {
+      "exact": 5,
+      "approximate": 1,
+      "internal": 0,
+      "assonance": 2,
+      "alliteration": 2
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        31
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 314,
+      "estimatedSeconds": 105,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "regularny",
+      "regularityScore": 0.86
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "rozpacz",
+      "secondary": "rezygnacja",
+      "intensity": 0.8
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "podmiot liryczny bezpośrednio mówi o sobie: 'mojej myśli', 'mi nie po myśli', 'ze mnie drwi', 'mi się trzęsie ręka'"
+    },
+    "addressee": {
+      "type": "siebie",
+      "evidence": "podmiot prowadzi dialog wewnętrzny, analizuje własne stany psychiczne i twórcze"
+    },
+    "metaphors": [
+      {
+        "source": "płomyki trawki",
+        "target": "myśli obsesyjne",
+        "example": "Mdłe płomyki obłędu trawki / Rosną do mózgu i mózg krwawi"
+      },
+      {
+        "source": "śnieg",
+        "target": "izolacja i niemożność",
+        "example": "śnieg zasypał drogi / Którymi nadejść mógł ktoś drogi"
+      },
+      {
+        "source": "krótka noga stołu",
+        "target": "niestabilność twórcza",
+        "example": "Noga od stołu wciąż jest krótsza"
+      }
+    ],
+    "temperature": {
+      "value": 0.3,
+      "label": "chłodna rezygnacja z nutami gorzkiej ironii"
+    },
+    "senses": {
+      "wzrok": 4,
+      "sluch": 1,
+      "dotyk": 3,
+      "smak": 2,
+      "zapach": 1
+    },
+    "autodestruction": {
+      "level": 0.7,
+      "signals": [
+        "mózg krwawi",
+        "trzęsie się ręka",
+        "nie potrafię wyrzygać",
+        "śnieg zalepia usta",
+        "niemożność napisania słowa"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 0.459,
+    "dfaAlpha": 0.564,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -1.262864322154127
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -1.0644191537162688
+      },
+      {
+        "logWin": 1.6094379124341003,
+        "logFluc": -0.9236248471345786
+      },
+      {
+        "logWin": 1.791759469228055,
+        "logFluc": -0.6525135034644329
+      },
+      {
+        "logWin": 1.9459101490553132,
+        "logFluc": -0.690631703713771
+      },
+      {
+        "logWin": 2.0794415416798357,
+        "logFluc": -0.8167221468782853
+      },
+      {
+        "logWin": 2.302585092994046,
+        "logFluc": -0.5364696090672342
+      }
+    ],
+    "seriesLength": 30,
+    "series": [
+      4,
+      6,
+      6,
+      4,
+      4,
+      7,
+      5,
+      5,
+      4,
+      5,
+      5,
+      6,
+      5,
+      6,
+      5,
+      5,
+      6,
+      6,
+      5,
+      6,
+      5,
+      5,
+      5,
+      5,
+      6,
+      4,
+      6,
+      6,
+      7,
+      4
+    ]
+  }
+}

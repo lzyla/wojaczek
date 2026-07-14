@@ -1,0 +1,932 @@
+{
+  "id": "studium",
+  "title": "Studium",
+  "wordCount": 97,
+  "lineCount": 14,
+  "uniqueWords": 79,
+  "vocabularyRichness": 0.814,
+  "avgWordsPerLine": 6.93,
+  "wordsPerLineDistribution": [
+    7,
+    6,
+    6,
+    7,
+    7,
+    8,
+    6,
+    8,
+    8,
+    7,
+    8,
+    6,
+    6,
+    7
+  ],
+  "wordFrequencies": [
+    [
+      "ciało",
+      3
+    ],
+    [
+      "nagle",
+      2
+    ],
+    [
+      "cierpliwe",
+      1
+    ],
+    [
+      "wpierw",
+      1
+    ],
+    [
+      "cierpi",
+      1
+    ],
+    [
+      "powodu",
+      1
+    ],
+    [
+      "wspaniałości",
+      1
+    ],
+    [
+      "rozrzutnie",
+      1
+    ],
+    [
+      "zbędnej",
+      1
+    ],
+    [
+      "oczy",
+      1
+    ],
+    [
+      "przymrużając",
+      1
+    ],
+    [
+      "każesz",
+      1
+    ],
+    [
+      "patrzeć",
+      1
+    ],
+    [
+      "oglądasz",
+      1
+    ],
+    [
+      "zmarłej",
+      1
+    ],
+    [
+      "przykrą",
+      1
+    ],
+    [
+      "rzeczowość",
+      1
+    ],
+    [
+      "piersi",
+      1
+    ],
+    [
+      "czuję",
+      1
+    ],
+    [
+      "twego",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 16,
+    "period": 5,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 1,
+    "colon": 2,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 6,
+  "negationWords": [
+    "bez",
+    "nie"
+  ],
+  "pronounDistribution": {
+    "ja": 3,
+    "ty": 2,
+    "on_ona": 0,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 6,
+    "smierc": 1,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [
+    [
+      "nie",
+      2
+    ]
+  ],
+  "firstWord": "moje",
+  "lastWord": "rozpłakać",
+  "avgWordLength": 5.34,
+  "wordLengthDistribution": {
+    "4-5": 27,
+    "8-9": 9,
+    "6-7": 24,
+    "1-3": 29,
+    "10+": 8
+  },
+  "bigrams": [
+    [
+      "ciało cierpliwe",
+      1
+    ],
+    [
+      "cierpliwe wpierw",
+      1
+    ],
+    [
+      "wpierw teraz",
+      1
+    ],
+    [
+      "powodu wspaniałości",
+      1
+    ],
+    [
+      "wspaniałości swej",
+      1
+    ],
+    [
+      "swej rozrzutnie",
+      1
+    ],
+    [
+      "rozrzutnie zbędnej",
+      1
+    ]
+  ],
+  "poemWords": [
+    "ciało",
+    "cierpliwe",
+    "wpierw",
+    "cierpi",
+    "powodu",
+    "wspaniałości",
+    "rozrzutnie",
+    "zbędnej",
+    "oczy",
+    "przymrużając",
+    "każesz",
+    "patrzeć",
+    "oglądasz",
+    "zmarłej",
+    "przykrą",
+    "rzeczowość",
+    "piersi",
+    "czuję",
+    "twego",
+    "zachwytu",
+    "bukiet",
+    "którego",
+    "wyparował",
+    "zapach",
+    "spadły",
+    "płatki",
+    "nagle",
+    "zawstydzona",
+    "krew",
+    "garbi",
+    "ufając",
+    "umyślnie",
+    "krzywdzisz",
+    "powściągam",
+    "gestu",
+    "czynić",
+    "rozumiem",
+    "mówisz",
+    "temat",
+    "próchna",
+    "pozwalam",
+    "ciału",
+    "świecić",
+    "dalej",
+    "żarówka",
+    "nieprzymrużonym",
+    "blaskiem",
+    "waham",
+    "byłoby",
+    "lepiej",
+    "rozpłakać"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 20,
+        "VERB": 22,
+        "ADJ": 6,
+        "ADV": 9,
+        "PRON": 10,
+        "ADP": 5,
+        "CCONJ": 4,
+        "SCONJ": 5,
+        "INTJ": 0,
+        "PART": 10,
+        "DET": 6,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.204,
+        "VERB": 0.224,
+        "ADJ": 0.061,
+        "ADV": 0.092,
+        "PRON": 0.102,
+        "ADP": 0.051,
+        "CCONJ": 0.041,
+        "SCONJ": 0.051,
+        "INTJ": 0,
+        "PART": 0.102,
+        "DET": 0.061,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 5,
+        "abstract": 0,
+        "ratio": 1
+      },
+      "verbTenses": {
+        "present": 13,
+        "infinitive": 4,
+        "past": 4,
+        "imperative": 1,
+        "future": 1
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 3,
+        "stan": 1,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 1,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 0,
+        "opisowe": 6
+      },
+      "adverbs": {
+        "temporalne": [
+          "teraz"
+        ],
+        "modalne": [],
+        "sposobu": [
+          "nagle"
+        ],
+        "top": [
+          {
+            "word": "nagle",
+            "count": 2
+          },
+          {
+            "word": "wpierw",
+            "count": 1
+          },
+          {
+            "word": "teraz",
+            "count": 1
+          },
+          {
+            "word": "kiedy",
+            "count": 1
+          },
+          {
+            "word": "umyślnie",
+            "count": 1
+          },
+          {
+            "word": "gdy",
+            "count": 1
+          },
+          {
+            "word": "dalej",
+            "count": 1
+          },
+          {
+            "word": "lepiej",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 2,
+        "ty": 2,
+        "on_ona": 0,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 5,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 1,
+        "total": 6,
+        "percentSentences": 0.75
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 217,
+        "consonants": 308,
+        "ratio": 0.7
+      },
+      "consonantClusters": {
+        "count": 15,
+        "top": [
+          {
+            "cluster": "prz",
+            "count": 3
+          },
+          {
+            "cluster": "rpl",
+            "count": 1
+          },
+          {
+            "cluster": "wsp",
+            "count": 1
+          },
+          {
+            "cluster": "zrz",
+            "count": 1
+          },
+          {
+            "cluster": "trz",
+            "count": 1
+          },
+          {
+            "cluster": "chw",
+            "count": 1
+          },
+          {
+            "cluster": "wst",
+            "count": 1
+          },
+          {
+            "cluster": "śln",
+            "count": 1
+          },
+          {
+            "cluster": "krz",
+            "count": 1
+          },
+          {
+            "cluster": "wdz",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 28,
+        "syczace": 55,
+        "nosowe": 49,
+        "plynne": 48
+      },
+      "rhymes": {
+        "exact": 0,
+        "approximate": 1,
+        "internal": 1,
+        "assonance": 2,
+        "alliteration": 0
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 12.2,
+        "median": 12,
+        "min": 0,
+        "max": 21,
+        "distribution": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          3,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          2,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 6.6,
+        "meanSyllables": 14.7,
+        "distribution": [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          5,
+          4,
+          5
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 7,
+        "interrogative": 0,
+        "imperative": 1,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 0,
+        "noSubject": 3,
+        "noPredicate": 0,
+        "percent": 0.38
+      },
+      "enjambement": {
+        "count": 0,
+        "percent": 0,
+        "positions": []
+      },
+      "wordOrder": {
+        "svo": 2,
+        "inversions": 2,
+        "other": 3,
+        "deviationPercent": 0.71
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 6,
+        "śmierć": 1,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 220,
+      "estimatedSeconds": 73,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 20,
+      "VERB": 22,
+      "ADJ": 6,
+      "ADV": 9,
+      "PRON": 10,
+      "ADP": 5,
+      "CCONJ": 4,
+      "SCONJ": 5,
+      "INTJ": 0,
+      "PART": 10,
+      "DET": 6,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.204,
+      "VERB": 0.224,
+      "ADJ": 0.061,
+      "ADV": 0.092,
+      "PRON": 0.102,
+      "ADP": 0.051,
+      "CCONJ": 0.041,
+      "SCONJ": 0.051,
+      "INTJ": 0,
+      "PART": 0.102,
+      "DET": 0.061,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 5,
+      "abstract": 0,
+      "ratio": 1
+    },
+    "verbTenses": {
+      "present": 13,
+      "infinitive": 4,
+      "past": 4,
+      "imperative": 1,
+      "future": 1
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 3,
+      "stan": 1,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 1,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 0,
+      "opisowe": 6
+    },
+    "adverbs": {
+      "temporalne": [
+        "teraz"
+      ],
+      "modalne": [],
+      "sposobu": [
+        "nagle"
+      ],
+      "top": [
+        {
+          "word": "nagle",
+          "count": 2
+        },
+        {
+          "word": "wpierw",
+          "count": 1
+        },
+        {
+          "word": "teraz",
+          "count": 1
+        },
+        {
+          "word": "kiedy",
+          "count": 1
+        },
+        {
+          "word": "umyślnie",
+          "count": 1
+        },
+        {
+          "word": "gdy",
+          "count": 1
+        },
+        {
+          "word": "dalej",
+          "count": 1
+        },
+        {
+          "word": "lepiej",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 2,
+      "ty": 2,
+      "on_ona": 0,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 5,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 1,
+      "total": 6,
+      "percentSentences": 0.75
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 12.2,
+      "median": 12,
+      "min": 0,
+      "max": 21,
+      "distribution": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        3,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        2,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 6.6,
+      "meanSyllables": 14.7,
+      "distribution": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        5,
+        4,
+        5
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 7,
+      "interrogative": 0,
+      "imperative": 1,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 0,
+      "noSubject": 3,
+      "noPredicate": 0,
+      "percent": 0.38
+    },
+    "enjambement": {
+      "count": 0,
+      "percent": 0,
+      "positions": []
+    },
+    "wordOrder": {
+      "svo": 2,
+      "inversions": 2,
+      "other": 3,
+      "deviationPercent": 0.71
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 217,
+      "consonants": 308,
+      "ratio": 0.7
+    },
+    "consonantClusters": {
+      "count": 15,
+      "top": [
+        {
+          "cluster": "prz",
+          "count": 3
+        },
+        {
+          "cluster": "rpl",
+          "count": 1
+        },
+        {
+          "cluster": "wsp",
+          "count": 1
+        },
+        {
+          "cluster": "zrz",
+          "count": 1
+        },
+        {
+          "cluster": "trz",
+          "count": 1
+        },
+        {
+          "cluster": "chw",
+          "count": 1
+        },
+        {
+          "cluster": "wst",
+          "count": 1
+        },
+        {
+          "cluster": "śln",
+          "count": 1
+        },
+        {
+          "cluster": "krz",
+          "count": 1
+        },
+        {
+          "cluster": "wdz",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 28,
+      "syczace": 55,
+      "nosowe": 49,
+      "plynne": 48
+    },
+    "rhymes": {
+      "exact": 0,
+      "approximate": 1,
+      "internal": 1,
+      "assonance": 2,
+      "alliteration": 0
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        15
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 220,
+      "estimatedSeconds": 73,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "regularny",
+      "regularityScore": 0.77
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Biblia",
+          "reference": "biblijne motywy wstydliwości i nagości",
+          "evidence": "nagle zawstydzona"
+        },
+        {
+          "source": "Baudelaire",
+          "reference": "erotyka śmierci i piękna",
+          "evidence": "oglądasz jakby ciało zmarłej"
+        },
+        {
+          "source": "inne",
+          "reference": "poezja erotyczna",
+          "evidence": "wspaniałości swej ciała, bez Twego zachwytu"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.2,
+        "baudelaire": 0.8,
+        "bursa": 0.3,
+        "stachura": 0.4,
+        "grochowiak": 0.6,
+        "bialoszewski": 0.1,
+        "rozewicz": 0.3
+      }
+    },
+    "space": {
+      "type": "zamknieta",
+      "evidence": "intymna przestrzeń dwojga osób, kameralna sytuacja erotyczna",
+      "openClosedRatio": 0.2
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "nieokreslona",
+      "evidence": "brak wyraźnych wskaźników temporalnych, skupienie na psychologicznym 'teraz'"
+    },
+    "motion": {
+      "movement": 3,
+      "stillness": 7,
+      "dynamism": 0.3,
+      "evidence": "statyczna sytuacja, ruch tylko wewnętrzny - 'krew się garbi', 'powściągam się'"
+    },
+    "imageryDensity": {
+      "metaphors": 4,
+      "comparisons": 3,
+      "personifications": 2,
+      "hyperboles": 1,
+      "per100words": 9.1
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.9,
+      "creationLevel": 0.7,
+      "ironicDistance": 0.1,
+      "autobiographicSignals": [
+        "bezpośrednie zwroty do 'Ty'",
+        "intymny ton wyznania",
+        "szczerość w opisie cierpienia",
+        "osobiste doświadczenie erotyczne"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "rezygnacja",
+      "secondary": "tęsknota",
+      "intensity": 0.8
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "Konsekwentne używanie pierwszej osoby - 'Moje ciało', 'czuję', 'we mnie się garbi', 'Powściągam się'"
+    },
+    "addressee": {
+      "type": "ty",
+      "evidence": "Bezpośrednie zwroty 'Ty sobie', 'Twego zachwytu', 'Ty mnie', 'gdy mówisz' wskazują na konkretnego adresata"
+    },
+    "metaphors": [
+      {
+        "source": "ciało",
+        "target": "bukiet",
+        "example": "ciało jest jak bukiet, Z którego wyparował zapach, spadły płatki"
+      },
+      {
+        "source": "ciało",
+        "target": "żarówka",
+        "example": "Pozwalam ciału świecić dalej jak żarówka Nieprzymrużonym blaskiem"
+      },
+      {
+        "source": "krew",
+        "target": "żywa istota",
+        "example": "krew we mnie się garbi"
+      }
+    ],
+    "temperature": {
+      "value": 0.3,
+      "label": "chłodne"
+    },
+    "senses": {
+      "wzrok": 5,
+      "sluch": 2,
+      "dotyk": 4,
+      "smak": 0,
+      "zapach": 3
+    },
+    "autodestruction": {
+      "level": 0.6,
+      "signals": [
+        "przykrą rzeczowość swoich piersi czuję",
+        "krew we mnie się garbi",
+        "czy nie byłoby lepiej nagle się rozpłakać",
+        "mówisz coś na temat próchna"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 1.136,
+    "dfaAlpha": 2.658,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -1.7328679513998606
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -0.9681061910576148
+      }
+    ],
+    "seriesLength": 14,
+    "series": [
+      7,
+      6,
+      6,
+      7,
+      7,
+      8,
+      6,
+      8,
+      8,
+      7,
+      8,
+      6,
+      6,
+      7
+    ]
+  }
+}

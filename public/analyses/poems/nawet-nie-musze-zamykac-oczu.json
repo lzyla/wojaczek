@@ -1,0 +1,705 @@
+{
+  "id": "nawet-nie-musze-zamykac-oczu",
+  "title": "Nawet nie muszę zamykać oczu",
+  "wordCount": 28,
+  "lineCount": 7,
+  "uniqueWords": 27,
+  "vocabularyRichness": 0.964,
+  "avgWordsPerLine": 4,
+  "wordsPerLineDistribution": [
+    4,
+    6,
+    4,
+    4,
+    5,
+    0,
+    5
+  ],
+  "wordFrequencies": [
+    [
+      "widzę",
+      1
+    ],
+    [
+      "chłopców",
+      1
+    ],
+    [
+      "żądzą",
+      1
+    ],
+    [
+      "obrzezanych",
+      1
+    ],
+    [
+      "którzy",
+      1
+    ],
+    [
+      "wyszli",
+      1
+    ],
+    [
+      "snów",
+      1
+    ],
+    [
+      "matek",
+      1
+    ],
+    [
+      "bezwiednie",
+      1
+    ],
+    [
+      "uczyniwszy",
+      1
+    ],
+    [
+      "gest",
+      1
+    ],
+    [
+      "błogosławienia",
+      1
+    ],
+    [
+      "niczym",
+      1
+    ],
+    [
+      "śmierć",
+      1
+    ],
+    [
+      "drugi",
+      1
+    ],
+    [
+      "bok",
+      1
+    ],
+    [
+      "poprzewracały",
+      1
+    ],
+    [
+      "wysławiam",
+      1
+    ],
+    [
+      "sen",
+      1
+    ],
+    [
+      "magnetyczny",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 0,
+    "period": 0,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 1,
+    "dash": 0,
+    "colon": 0,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 0,
+  "negationWords": [],
+  "pronounDistribution": {
+    "ja": 0,
+    "ty": 0,
+    "on_ona": 0,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 0,
+    "smierc": 1,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 1,
+    "bol": 0
+  },
+  "anaphors": [],
+  "firstWord": "widzę",
+  "lastWord": "magnetyczny",
+  "avgWordLength": 5.93,
+  "wordLengthDistribution": {
+    "4-5": 7,
+    "8-9": 2,
+    "10+": 6,
+    "6-7": 5,
+    "1-3": 8
+  },
+  "bigrams": [
+    [
+      "widzę chłopców",
+      1
+    ],
+    [
+      "chłopców żądzą",
+      1
+    ],
+    [
+      "żądzą obrzezanych",
+      1
+    ],
+    [
+      "obrzezanych którzy",
+      1
+    ],
+    [
+      "którzy wyszli",
+      1
+    ],
+    [
+      "snów swoich",
+      1
+    ],
+    [
+      "swoich matek",
+      1
+    ],
+    [
+      "bezwiednie uczyniwszy",
+      1
+    ],
+    [
+      "uczyniwszy gest",
+      1
+    ],
+    [
+      "gest błogosławienia",
+      1
+    ],
+    [
+      "błogosławienia niczym",
+      1
+    ]
+  ],
+  "poemWords": [
+    "widzę",
+    "chłopców",
+    "żądzą",
+    "obrzezanych",
+    "którzy",
+    "wyszli",
+    "snów",
+    "matek",
+    "bezwiednie",
+    "uczyniwszy",
+    "gest",
+    "błogosławienia",
+    "niczym",
+    "śmierć",
+    "drugi",
+    "bok",
+    "poprzewracały",
+    "wysławiam",
+    "sen",
+    "magnetyczny"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 9,
+        "VERB": 7,
+        "ADJ": 4,
+        "ADV": 1,
+        "PRON": 2,
+        "ADP": 3,
+        "CCONJ": 1,
+        "SCONJ": 1,
+        "INTJ": 0,
+        "PART": 2,
+        "DET": 3,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.273,
+        "VERB": 0.212,
+        "ADJ": 0.121,
+        "ADV": 0.03,
+        "PRON": 0.061,
+        "ADP": 0.091,
+        "CCONJ": 0.03,
+        "SCONJ": 0.03,
+        "INTJ": 0,
+        "PART": 0.061,
+        "DET": 0.091,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 0,
+        "abstract": 2,
+        "ratio": 0
+      },
+      "verbTenses": {
+        "present": 4,
+        "past": 3
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 1,
+        "stan": 0,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 0,
+        "opisowe": 4
+      },
+      "adverbs": {
+        "temporalne": [],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "bezwiednie",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 0,
+        "ty": 0,
+        "on_ona": 0,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 1,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 1,
+        "percentSentences": 0.17
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 76,
+        "consonants": 114,
+        "ratio": 0.67
+      },
+      "consonantClusters": {
+        "count": 6,
+        "top": [
+          {
+            "cluster": "chł",
+            "count": 1
+          },
+          {
+            "cluster": "brz",
+            "count": 1
+          },
+          {
+            "cluster": "szl",
+            "count": 1
+          },
+          {
+            "cluster": "wsz",
+            "count": 1
+          },
+          {
+            "cluster": "prz",
+            "count": 1
+          },
+          {
+            "cluster": "czn",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 11,
+        "syczace": 21,
+        "nosowe": 25,
+        "plynne": 12
+      },
+      "rhymes": {
+        "exact": 0,
+        "approximate": 0,
+        "internal": 0,
+        "assonance": 0,
+        "alliteration": 0
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 5.5,
+        "median": 4,
+        "min": 1,
+        "max": 18,
+        "distribution": [
+          0,
+          1,
+          1,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 4.2,
+        "meanSyllables": 9.6,
+        "distribution": [
+          0,
+          1,
+          0,
+          0,
+          3,
+          3,
+          1
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 6,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 2,
+        "noSubject": 3,
+        "noPredicate": 0,
+        "percent": 0.83
+      },
+      "enjambement": {
+        "count": 0,
+        "percent": 0,
+        "positions": []
+      },
+      "wordOrder": {
+        "svo": 0,
+        "inversions": 1,
+        "other": 4,
+        "deviationPercent": 1
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 0,
+        "śmierć": 1,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 1,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 77,
+      "estimatedSeconds": 26,
+      "tempoCategory": "umiarkowane"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 9,
+      "VERB": 7,
+      "ADJ": 4,
+      "ADV": 1,
+      "PRON": 2,
+      "ADP": 3,
+      "CCONJ": 1,
+      "SCONJ": 1,
+      "INTJ": 0,
+      "PART": 2,
+      "DET": 3,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.273,
+      "VERB": 0.212,
+      "ADJ": 0.121,
+      "ADV": 0.03,
+      "PRON": 0.061,
+      "ADP": 0.091,
+      "CCONJ": 0.03,
+      "SCONJ": 0.03,
+      "INTJ": 0,
+      "PART": 0.061,
+      "DET": 0.091,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 0,
+      "abstract": 2,
+      "ratio": 0
+    },
+    "verbTenses": {
+      "present": 4,
+      "past": 3
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 1,
+      "stan": 0,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 0,
+      "opisowe": 4
+    },
+    "adverbs": {
+      "temporalne": [],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "bezwiednie",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 0,
+      "ty": 0,
+      "on_ona": 0,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 1,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 1,
+      "percentSentences": 0.17
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 5.5,
+      "median": 4,
+      "min": 1,
+      "max": 18,
+      "distribution": [
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 4.2,
+      "meanSyllables": 9.6,
+      "distribution": [
+        0,
+        1,
+        0,
+        0,
+        3,
+        3,
+        1
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 6,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 2,
+      "noSubject": 3,
+      "noPredicate": 0,
+      "percent": 0.83
+    },
+    "enjambement": {
+      "count": 0,
+      "percent": 0,
+      "positions": []
+    },
+    "wordOrder": {
+      "svo": 0,
+      "inversions": 1,
+      "other": 4,
+      "deviationPercent": 1
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 76,
+      "consonants": 114,
+      "ratio": 0.67
+    },
+    "consonantClusters": {
+      "count": 6,
+      "top": [
+        {
+          "cluster": "chł",
+          "count": 1
+        },
+        {
+          "cluster": "brz",
+          "count": 1
+        },
+        {
+          "cluster": "szl",
+          "count": 1
+        },
+        {
+          "cluster": "wsz",
+          "count": 1
+        },
+        {
+          "cluster": "prz",
+          "count": 1
+        },
+        {
+          "cluster": "czn",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 11,
+      "syczace": 21,
+      "nosowe": 25,
+      "plynne": 12
+    },
+    "rhymes": {
+      "exact": 0,
+      "approximate": 0,
+      "internal": 0,
+      "assonance": 0,
+      "alliteration": 0
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        8
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 77,
+      "estimatedSeconds": 26,
+      "tempoCategory": "umiarkowane"
+    },
+    "regularity": {
+      "type": "polregularny",
+      "regularityScore": 0.63
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Biblia",
+          "reference": "obrzezanie jako rytuał religijny",
+          "evidence": "chłopców żądzą obrzezanych"
+        },
+        {
+          "source": "Biblia",
+          "reference": "błogosławienie",
+          "evidence": "uczyniwszy gest / Błogosławienia"
+        },
+        {
+          "source": "Rimbaud",
+          "reference": "wizyjność i halucynacje",
+          "evidence": "sen magnetyczny"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.8,
+        "baudelaire": 0.3,
+        "bursa": 0.6,
+        "stachura": 0.4,
+        "grochowiak": 0.5,
+        "bialoszewski": 0.1,
+        "rozewicz": 0.2
+      }
+    },
+    "space": {
+      "type": "nieokreslona",
+      "evidence": "przestrzeń oniryczna, wizualna bez konkretnej lokalizacji",
+      "openClosedRatio": 0.7
+    },
+    "timeOfDay": {
+      "period": "noc",
+      "season": "nieokreslona",
+      "evidence": "sny, sen magnetyczny, oniryczna atmosfera"
+    },
+    "motion": {
+      "movement": 4,
+      "stillness": 6,
+      "dynamism": 0.4,
+      "evidence": "wyszli ze snów, poprzewracały - ruchy powolne, senno-wizyjne"
+    },
+    "imageryDensity": {
+      "metaphors": 3,
+      "comparisons": 1,
+      "personifications": 2,
+      "hyperboles": 1,
+      "per100words": 18.5
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.8,
+      "creationLevel": 0.9,
+      "ironicDistance": 0.2,
+      "autobiographicSignals": [
+        "Widzę",
+        "wysławiam swój sen"
+      ]
+    }
+  }
+}

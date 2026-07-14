@@ -1,0 +1,1065 @@
+{
+  "id": "list-do-nieznanego-poety",
+  "title": "List do nieznanego poety",
+  "wordCount": 135,
+  "lineCount": 21,
+  "uniqueWords": 108,
+  "vocabularyRichness": 0.8,
+  "avgWordsPerLine": 6.43,
+  "wordsPerLineDistribution": [
+    5,
+    5,
+    6,
+    6,
+    7,
+    7,
+    5,
+    8,
+    6,
+    7,
+    6,
+    5,
+    8,
+    8,
+    7,
+    6,
+    6,
+    7,
+    6,
+    8,
+    6
+  ],
+  "wordFrequencies": [
+    [
+      "pokój",
+      3
+    ],
+    [
+      "panu",
+      3
+    ],
+    [
+      "pański",
+      2
+    ],
+    [
+      "patrzy",
+      2
+    ],
+    [
+      "jenseits",
+      1
+    ],
+    [
+      "von",
+      1
+    ],
+    [
+      "gut",
+      1
+    ],
+    [
+      "und",
+      1
+    ],
+    [
+      "böse",
+      1
+    ],
+    [
+      "wynajęty",
+      1
+    ],
+    [
+      "rencistki",
+      1
+    ],
+    [
+      "dawno",
+      1
+    ],
+    [
+      "wdowy",
+      1
+    ],
+    [
+      "seksem",
+      1
+    ],
+    [
+      "niewygasłym",
+      1
+    ],
+    [
+      "pieska",
+      1
+    ],
+    [
+      "musi",
+      1
+    ],
+    [
+      "wyprowadzić",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 0,
+    "period": 0,
+    "question": 7,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 1,
+    "semicolon": 0
+  },
+  "questionCount": 7,
+  "exclamationCount": 0,
+  "negationCount": 4,
+  "negationWords": [
+    "nie",
+    "nigdy",
+    "nikt"
+  ],
+  "pronounDistribution": {
+    "ja": 0,
+    "ty": 0,
+    "on_ona": 0,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 0,
+    "smierc": 1,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 1,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [
+    [
+      "czy",
+      4
+    ],
+    [
+      "pański",
+      2
+    ]
+  ],
+  "firstWord": "jenseits",
+  "lastWord": "śmierć",
+  "avgWordLength": 5.04,
+  "wordLengthDistribution": {
+    "8-9": 10,
+    "1-3": 41,
+    "4-5": 42,
+    "6-7": 32,
+    "10+": 10
+  },
+  "bigrams": [
+    [
+      "pański pokój",
+      2
+    ],
+    [
+      "jenseits von",
+      1
+    ],
+    [
+      "von gut",
+      1
+    ],
+    [
+      "gut und",
+      1
+    ],
+    [
+      "und böse",
+      1
+    ],
+    [
+      "böse pański",
+      1
+    ],
+    [
+      "pokój wynajęty",
+      1
+    ],
+    [
+      "wynajęty u",
+      1
+    ],
+    [
+      "u rencistki",
+      1
+    ],
+    [
+      "rencistki dawno",
+      1
+    ],
+    [
+      "dawno wdowy",
+      1
+    ]
+  ],
+  "poemWords": [
+    "jenseits",
+    "von",
+    "gut",
+    "und",
+    "böse",
+    "pański",
+    "pokój",
+    "wynajęty",
+    "rencistki",
+    "dawno",
+    "wdowy",
+    "seksem",
+    "niewygasłym",
+    "pieska",
+    "pan",
+    "musi",
+    "wyprowadzić",
+    "zaczął",
+    "nowy",
+    "wiersz",
+    "jednym",
+    "krzesłem",
+    "wąskim",
+    "łóżkiem",
+    "bujnym",
+    "grzybem",
+    "nieprzytulny",
+    "zwłaszcza",
+    "okno",
+    "północ",
+    "zawsze",
+    "patrzy",
+    "tłucze",
+    "dziobem",
+    "mrozu",
+    "biały",
+    "zimy",
+    "ptak",
+    "herbatę",
+    "zrobić",
+    "sprowadzić",
+    "dziewczynę",
+    "pańska",
+    "matka",
+    "odwiedziła",
+    "pana",
+    "kiedyś",
+    "pokoju",
+    "sufitu",
+    "strach",
+    "rękopisach",
+    "nikt",
+    "panu",
+    "grzebie",
+    "światło",
+    "każą",
+    "dopłacać",
+    "butelki",
+    "opróżnione",
+    "podłej",
+    "wódki",
+    "gospodyni",
+    "złe",
+    "pańską",
+    "twierdzą",
+    "wygnaniem",
+    "wieżą",
+    "ponad",
+    "dobrem",
+    "złem",
+    "społeczeństwem",
+    "próbuje",
+    "uciec",
+    "rozpaczliwych",
+    "czterech",
+    "kątów",
+    "piąty",
+    "śmierć"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 43,
+        "VERB": 20,
+        "ADJ": 19,
+        "ADV": 10,
+        "PRON": 6,
+        "ADP": 15,
+        "CCONJ": 4,
+        "SCONJ": 1,
+        "INTJ": 0,
+        "PART": 9,
+        "DET": 5,
+        "NUM": 1
+      },
+      "posPercent": {
+        "NOUN": 0.307,
+        "VERB": 0.143,
+        "ADJ": 0.136,
+        "ADV": 0.071,
+        "PRON": 0.043,
+        "ADP": 0.107,
+        "CCONJ": 0.029,
+        "SCONJ": 0.007,
+        "INTJ": 0,
+        "PART": 0.064,
+        "DET": 0.036,
+        "NUM": 0.007
+      },
+      "nounConcreteAbstract": {
+        "concrete": 10,
+        "abstract": 2,
+        "ratio": 0.83
+      },
+      "verbTenses": {
+        "past": 4,
+        "present": 11,
+        "infinitive": 5,
+        "imperative": 1
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 2,
+        "stan": 1,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 1,
+        "opisowe": 18
+      },
+      "adverbs": {
+        "temporalne": [
+          "dawno",
+          "kiedyś",
+          "nigdy",
+          "teraz",
+          "zawsze"
+        ],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "dawno",
+            "count": 1
+          },
+          {
+            "word": "wtedy",
+            "count": 1
+          },
+          {
+            "word": "gdy",
+            "count": 1
+          },
+          {
+            "word": "teraz",
+            "count": 1
+          },
+          {
+            "word": "kiedy",
+            "count": 1
+          },
+          {
+            "word": "zawsze",
+            "count": 1
+          },
+          {
+            "word": "kiedyś",
+            "count": 1
+          },
+          {
+            "word": "gdzie",
+            "count": 1
+          },
+          {
+            "word": "tam",
+            "count": 1
+          },
+          {
+            "word": "nigdy",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 0,
+        "ty": 0,
+        "on_ona": 1,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 2,
+        "nic": 0,
+        "nikt": 1,
+        "nigdy": 1,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 4,
+        "percentSentences": 0.4
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 278,
+        "consonants": 422,
+        "ratio": 0.66
+      },
+      "consonantClusters": {
+        "count": 23,
+        "top": [
+          {
+            "cluster": "ńsk",
+            "count": 4
+          },
+          {
+            "cluster": "grz",
+            "count": 2
+          },
+          {
+            "cluster": "trz",
+            "count": 2
+          },
+          {
+            "cluster": "stk",
+            "count": 1
+          },
+          {
+            "cluster": "rsz",
+            "count": 1
+          },
+          {
+            "cluster": "krz",
+            "count": 1
+          },
+          {
+            "cluster": "prz",
+            "count": 1
+          },
+          {
+            "cluster": "zwł",
+            "count": 1
+          },
+          {
+            "cluster": "szcz",
+            "count": 1
+          },
+          {
+            "cluster": "wsz",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 27,
+        "syczace": 68,
+        "nosowe": 82,
+        "plynne": 44
+      },
+      "rhymes": {
+        "exact": 0,
+        "approximate": 0,
+        "internal": 1,
+        "assonance": 0,
+        "alliteration": 2
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 14,
+        "median": 12,
+        "min": 6,
+        "max": 40,
+        "distribution": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          2,
+          1,
+          0,
+          0,
+          0,
+          2,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 6.1,
+        "meanSyllables": 12.5,
+        "distribution": [
+          0,
+          1,
+          0,
+          0,
+          1,
+          4,
+          8,
+          5,
+          4
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 3,
+        "interrogative": 7,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 1,
+        "noSubject": 0,
+        "noPredicate": 0,
+        "percent": 0.1
+      },
+      "enjambement": {
+        "count": 2,
+        "percent": 0.09,
+        "positions": [
+          4,
+          8
+        ]
+      },
+      "wordOrder": {
+        "svo": 6,
+        "inversions": 3,
+        "other": 1,
+        "deviationPercent": 0.4
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 0,
+        "śmierć": 1,
+        "erotyka": 0,
+        "alkohol": 1,
+        "samotność": 1,
+        "sacrum": 0,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 288,
+      "estimatedSeconds": 96,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 43,
+      "VERB": 20,
+      "ADJ": 19,
+      "ADV": 10,
+      "PRON": 6,
+      "ADP": 15,
+      "CCONJ": 4,
+      "SCONJ": 1,
+      "INTJ": 0,
+      "PART": 9,
+      "DET": 5,
+      "NUM": 1
+    },
+    "posPercent": {
+      "NOUN": 0.307,
+      "VERB": 0.143,
+      "ADJ": 0.136,
+      "ADV": 0.071,
+      "PRON": 0.043,
+      "ADP": 0.107,
+      "CCONJ": 0.029,
+      "SCONJ": 0.007,
+      "INTJ": 0,
+      "PART": 0.064,
+      "DET": 0.036,
+      "NUM": 0.007
+    },
+    "nounConcreteAbstract": {
+      "concrete": 10,
+      "abstract": 2,
+      "ratio": 0.83
+    },
+    "verbTenses": {
+      "past": 4,
+      "present": 11,
+      "infinitive": 5,
+      "imperative": 1
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 2,
+      "stan": 1,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 1,
+      "opisowe": 18
+    },
+    "adverbs": {
+      "temporalne": [
+        "dawno",
+        "kiedyś",
+        "nigdy",
+        "teraz",
+        "zawsze"
+      ],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "dawno",
+          "count": 1
+        },
+        {
+          "word": "wtedy",
+          "count": 1
+        },
+        {
+          "word": "gdy",
+          "count": 1
+        },
+        {
+          "word": "teraz",
+          "count": 1
+        },
+        {
+          "word": "kiedy",
+          "count": 1
+        },
+        {
+          "word": "zawsze",
+          "count": 1
+        },
+        {
+          "word": "kiedyś",
+          "count": 1
+        },
+        {
+          "word": "gdzie",
+          "count": 1
+        },
+        {
+          "word": "tam",
+          "count": 1
+        },
+        {
+          "word": "nigdy",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 0,
+      "ty": 0,
+      "on_ona": 1,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 2,
+      "nic": 0,
+      "nikt": 1,
+      "nigdy": 1,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 4,
+      "percentSentences": 0.4
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 14,
+      "median": 12,
+      "min": 6,
+      "max": 40,
+      "distribution": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        2,
+        1,
+        0,
+        0,
+        0,
+        2,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 6.1,
+      "meanSyllables": 12.5,
+      "distribution": [
+        0,
+        1,
+        0,
+        0,
+        1,
+        4,
+        8,
+        5,
+        4
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 3,
+      "interrogative": 7,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 1,
+      "noSubject": 0,
+      "noPredicate": 0,
+      "percent": 0.1
+    },
+    "enjambement": {
+      "count": 2,
+      "percent": 0.09,
+      "positions": [
+        4,
+        8
+      ]
+    },
+    "wordOrder": {
+      "svo": 6,
+      "inversions": 3,
+      "other": 1,
+      "deviationPercent": 0.4
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 278,
+      "consonants": 422,
+      "ratio": 0.66
+    },
+    "consonantClusters": {
+      "count": 23,
+      "top": [
+        {
+          "cluster": "ńsk",
+          "count": 4
+        },
+        {
+          "cluster": "grz",
+          "count": 2
+        },
+        {
+          "cluster": "trz",
+          "count": 2
+        },
+        {
+          "cluster": "stk",
+          "count": 1
+        },
+        {
+          "cluster": "rsz",
+          "count": 1
+        },
+        {
+          "cluster": "krz",
+          "count": 1
+        },
+        {
+          "cluster": "prz",
+          "count": 1
+        },
+        {
+          "cluster": "zwł",
+          "count": 1
+        },
+        {
+          "cluster": "szcz",
+          "count": 1
+        },
+        {
+          "cluster": "wsz",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 27,
+      "syczace": 68,
+      "nosowe": 82,
+      "plynne": 44
+    },
+    "rhymes": {
+      "exact": 0,
+      "approximate": 0,
+      "internal": 1,
+      "assonance": 0,
+      "alliteration": 2
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        23
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 288,
+      "estimatedSeconds": 96,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "regularny",
+      "regularityScore": 0.75
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "inne",
+          "reference": "Nietzsche - Jenseits von Gut und Böse",
+          "evidence": "tytuł w języku niemieckim jako motto"
+        },
+        {
+          "source": "Biblia",
+          "reference": "metaforyka wieży Babel",
+          "evidence": "Wieżą ponad dobrem złem i społeczeństwem"
+        },
+        {
+          "source": "inne",
+          "reference": "topos poety w mansardzie",
+          "evidence": "cały wiersz opisuje pokój wynajęty przez poetę"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.3,
+        "baudelaire": 0.4,
+        "bursa": 0.2,
+        "stachura": 0.6,
+        "grochowiak": 0.3,
+        "bialoszewski": 0.7,
+        "rozewicz": 0.5
+      }
+    },
+    "space": {
+      "type": "zamknieta",
+      "evidence": "Pański pokój wynajęty, Z jednym krzesłem wąskim łóżkiem, rozpaczliwych czterech kątów",
+      "openClosedRatio": 0.1
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "zima",
+      "evidence": "Tłucze dziobem mrozu biały zimy ptak"
+    },
+    "motion": {
+      "movement": 2,
+      "stillness": 8,
+      "dynamism": 0.2,
+      "evidence": "dominuje statyczność pokoju, jedyny ruch to tłuczący w okno ptak"
+    },
+    "imageryDensity": {
+      "metaphors": 4,
+      "comparisons": 1,
+      "personifications": 3,
+      "hyperboles": 1,
+      "per100words": 12.5
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.8,
+      "creationLevel": 0.7,
+      "ironicDistance": 0.6,
+      "autobiographicSignals": [
+        "pokój wynajęty u rencistki",
+        "nowy wiersz",
+        "rękopisy",
+        "sytuacja egzystencjalna poety"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "melancholia",
+      "secondary": "tęsknota",
+      "intensity": 0.8
+    },
+    "subjectPresence": {
+      "type": "ukryte",
+      "evidence": "Podmiot ukryty za formą listu, zwraca się do 'Pana' - nieznanego poety, ale identyfikuje się z jego sytuacją"
+    },
+    "addressee": {
+      "type": "siebie",
+      "evidence": "List do 'nieznanego poety' to w istocie rozmowa z samym sobą, projekcja własnych doświadczeń egzystencjalnych"
+    },
+    "metaphors": [
+      {
+        "source": "pokój",
+        "target": "egzystencja poety",
+        "example": "Pańską twierdzą i wygnaniem jest ten pokój"
+      },
+      {
+        "source": "biały zimy ptak",
+        "target": "śmierć/mróz egzystencjalny",
+        "example": "Tłucze dziobem mrozu biały zimy ptak"
+      },
+      {
+        "source": "wieża",
+        "target": "izolacja artysty",
+        "example": "Wieżą ponad dobrem złem i społeczeństwem"
+      },
+      {
+        "source": "piąty kąt",
+        "target": "śmierć jako wyjście",
+        "example": "Z rozpaczliwych czterech kątów Piąty: śmierć"
+      }
+    ],
+    "temperature": {
+      "value": 0.3,
+      "label": "chłodna rezygnacja z nutą goryczy"
+    },
+    "senses": {
+      "wzrok": 4,
+      "sluch": 2,
+      "dotyk": 3,
+      "smak": 1,
+      "zapach": 0
+    },
+    "autodestruction": {
+      "level": 0.7,
+      "signals": [
+        "opróżnione butelki z podłej wódki",
+        "piąty kąt: śmierć",
+        "rozpaczliwe cztery kąty",
+        "pokój jako wygnanie"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 0.817,
+    "dfaAlpha": 1.031,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -1.3116544863235595
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -0.7745465260405382
+      },
+      {
+        "logWin": 1.6094379124341003,
+        "logFluc": -0.5652129863219202
+      },
+      {
+        "logWin": 1.791759469228055,
+        "logFluc": -0.4388669411220712
+      },
+      {
+        "logWin": 1.9459101490553132,
+        "logFluc": -0.4428220176601965
+      }
+    ],
+    "seriesLength": 21,
+    "series": [
+      5,
+      5,
+      6,
+      6,
+      7,
+      7,
+      5,
+      8,
+      6,
+      7,
+      6,
+      5,
+      8,
+      8,
+      7,
+      6,
+      6,
+      7,
+      6,
+      8,
+      6
+    ]
+  }
+}

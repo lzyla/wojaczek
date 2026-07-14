@@ -1,0 +1,1148 @@
+{
+  "id": "proba-nowego-swiata",
+  "title": "Próba nowego świata",
+  "wordCount": 148,
+  "lineCount": 30,
+  "uniqueWords": 117,
+  "vocabularyRichness": 0.791,
+  "avgWordsPerLine": 4.93,
+  "wordsPerLineDistribution": [
+    7,
+    5,
+    2,
+    8,
+    5,
+    2,
+    8,
+    7,
+    4,
+    6,
+    7,
+    2,
+    6,
+    7,
+    3,
+    8,
+    7,
+    2,
+    5,
+    4,
+    2,
+    5,
+    6,
+    3,
+    4,
+    6,
+    2,
+    6,
+    6,
+    3
+  ],
+  "wordFrequencies": [
+    [
+      "księżyc",
+      2
+    ],
+    [
+      "trupa",
+      2
+    ],
+    [
+      "miejscem",
+      2
+    ],
+    [
+      "kiedyś",
+      2
+    ],
+    [
+      "szkieletem",
+      2
+    ],
+    [
+      "której",
+      2
+    ],
+    [
+      "księżycem",
+      1
+    ],
+    [
+      "onegdaj",
+      1
+    ],
+    [
+      "leżącego",
+      1
+    ],
+    [
+      "śmietniku",
+      1
+    ],
+    [
+      "źle",
+      1
+    ],
+    [
+      "oświetlał",
+      1
+    ],
+    [
+      "śmietnik",
+      1
+    ],
+    [
+      "szerzył",
+      1
+    ],
+    [
+      "odór",
+      1
+    ],
+    [
+      "ścierwa",
+      1
+    ],
+    [
+      "ród",
+      1
+    ],
+    [
+      "robaczy",
+      1
+    ],
+    [
+      "tysiącgębny",
+      1
+    ],
+    [
+      "objadał",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 10,
+    "period": 0,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 0,
+    "semicolon": 5
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 6,
+  "negationWords": [
+    "nie"
+  ],
+  "pronounDistribution": {
+    "ja": 4,
+    "ty": 0,
+    "on_ona": 1,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 2,
+    "smierc": 1,
+    "erotyka": 0,
+    "alkohol": 1,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 2,
+    "bol": 0
+  },
+  "anaphors": [
+    [
+      "jest",
+      2
+    ]
+  ],
+  "firstWord": "księżyc",
+  "lastWord": "wstanę",
+  "avgWordLength": 5.51,
+  "wordLengthDistribution": {
+    "6-7": 38,
+    "1-3": 37,
+    "4-5": 38,
+    "8-9": 24,
+    "10+": 11
+  },
+  "bigrams": [
+    [
+      "onegdaj leżącego",
+      1
+    ],
+    [
+      "śmietniku źle",
+      1
+    ],
+    [
+      "źle oświetlał",
+      1
+    ],
+    [
+      "oświetlał mojego",
+      1
+    ],
+    [
+      "mojego trupa",
+      1
+    ]
+  ],
+  "poemWords": [
+    "księżyc",
+    "księżycem",
+    "onegdaj",
+    "leżącego",
+    "śmietniku",
+    "źle",
+    "oświetlał",
+    "trupa",
+    "śmietnik",
+    "miejscem",
+    "szerzył",
+    "odór",
+    "ścierwa",
+    "ród",
+    "robaczy",
+    "tysiącgębny",
+    "objadał",
+    "włażąc",
+    "uszy",
+    "oczy",
+    "usta",
+    "nosa",
+    "miejsce",
+    "kiedyś",
+    "zwanym",
+    "polska",
+    "trup",
+    "trupem",
+    "szkieletem",
+    "świeci",
+    "schludną",
+    "kością",
+    "mózg",
+    "czaszki",
+    "wyparował",
+    "mądrością",
+    "której",
+    "posłuszne",
+    "stawanie",
+    "nowego",
+    "świata",
+    "stwórcą",
+    "robak",
+    "mieszkający",
+    "środku",
+    "mózgu",
+    "obcym",
+    "czynił",
+    "więzieniu",
+    "mdłym",
+    "szpitalu",
+    "szkielet",
+    "kartą",
+    "dawnej",
+    "choroby",
+    "człowieka",
+    "zaznaczonym",
+    "dawkowaniem",
+    "odpowiednich",
+    "aplikacji",
+    "nudną",
+    "pałką",
+    "robaki",
+    "aniołami",
+    "butelka",
+    "dopita",
+    "fiolką",
+    "homunculus",
+    "jeden",
+    "pływa",
+    "znaczy",
+    "przechowany",
+    "użytek",
+    "dydaktyczny",
+    "czyli",
+    "dobrze",
+    "znany",
+    "skurwysyn",
+    "rafał",
+    "wojaczek",
+    "radością",
+    "odpowiednią",
+    "stwierdzę",
+    "zejdzie",
+    "nareszcie",
+    "słońcem",
+    "wstanę"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 49,
+        "VERB": 12,
+        "ADJ": 18,
+        "ADV": 6,
+        "PRON": 10,
+        "ADP": 13,
+        "CCONJ": 6,
+        "SCONJ": 0,
+        "INTJ": 0,
+        "PART": 13,
+        "DET": 7,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.325,
+        "VERB": 0.079,
+        "ADJ": 0.119,
+        "ADV": 0.04,
+        "PRON": 0.066,
+        "ADP": 0.086,
+        "CCONJ": 0.04,
+        "SCONJ": 0,
+        "INTJ": 0,
+        "PART": 0.086,
+        "DET": 0.046,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 3,
+        "abstract": 1,
+        "ratio": 0.75
+      },
+      "verbTenses": {
+        "present": 13,
+        "past": 5,
+        "future": 3
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 9,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 1,
+        "opisowe": 17
+      },
+      "adverbs": {
+        "temporalne": [
+          "kiedyś"
+        ],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "kiedyś",
+            "count": 2
+          },
+          {
+            "word": "źle",
+            "count": 1
+          },
+          {
+            "word": "gdzie",
+            "count": 1
+          },
+          {
+            "word": "dobrze",
+            "count": 1
+          },
+          {
+            "word": "kiedy",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 3,
+        "ty": 0,
+        "on_ona": 1,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 6,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 6,
+        "percentSentences": 1
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 345,
+        "consonants": 488,
+        "ratio": 0.71
+      },
+      "consonantClusters": {
+        "count": 25,
+        "top": [
+          {
+            "cluster": "szk",
+            "count": 5
+          },
+          {
+            "cluster": "jsc",
+            "count": 3
+          },
+          {
+            "cluster": "stw",
+            "count": 2
+          },
+          {
+            "cluster": "szc",
+            "count": 2
+          },
+          {
+            "cluster": "gdz",
+            "count": 1
+          },
+          {
+            "cluster": "lsk",
+            "count": 1
+          },
+          {
+            "cluster": "schl",
+            "count": 1
+          },
+          {
+            "cluster": "szn",
+            "count": 1
+          },
+          {
+            "cluster": "mdł",
+            "count": 1
+          },
+          {
+            "cluster": "szp",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 34,
+        "syczace": 88,
+        "nosowe": 99,
+        "plynne": 60
+      },
+      "rhymes": {
+        "exact": 2,
+        "approximate": 0,
+        "internal": 1,
+        "assonance": 1,
+        "alliteration": 1
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 25.2,
+        "median": 13,
+        "min": 2,
+        "max": 95,
+        "distribution": [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 4.9,
+        "meanSyllables": 11.4,
+        "distribution": [
+          0,
+          0,
+          6,
+          4,
+          3,
+          4,
+          6,
+          5,
+          3
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 6,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 1,
+        "noSubject": 0,
+        "noPredicate": 0,
+        "percent": 0.17
+      },
+      "enjambement": {
+        "count": 3,
+        "percent": 0.1,
+        "positions": [
+          10,
+          15,
+          29
+        ]
+      },
+      "wordOrder": {
+        "svo": 5,
+        "inversions": 0,
+        "other": 1,
+        "deviationPercent": 0.17
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 2,
+        "śmierć": 2,
+        "erotyka": 0,
+        "alkohol": 1,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 2,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 353,
+      "estimatedSeconds": 118,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 49,
+      "VERB": 12,
+      "ADJ": 18,
+      "ADV": 6,
+      "PRON": 10,
+      "ADP": 13,
+      "CCONJ": 6,
+      "SCONJ": 0,
+      "INTJ": 0,
+      "PART": 13,
+      "DET": 7,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.325,
+      "VERB": 0.079,
+      "ADJ": 0.119,
+      "ADV": 0.04,
+      "PRON": 0.066,
+      "ADP": 0.086,
+      "CCONJ": 0.04,
+      "SCONJ": 0,
+      "INTJ": 0,
+      "PART": 0.086,
+      "DET": 0.046,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 3,
+      "abstract": 1,
+      "ratio": 0.75
+    },
+    "verbTenses": {
+      "present": 13,
+      "past": 5,
+      "future": 3
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 9,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 1,
+      "opisowe": 17
+    },
+    "adverbs": {
+      "temporalne": [
+        "kiedyś"
+      ],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "kiedyś",
+          "count": 2
+        },
+        {
+          "word": "źle",
+          "count": 1
+        },
+        {
+          "word": "gdzie",
+          "count": 1
+        },
+        {
+          "word": "dobrze",
+          "count": 1
+        },
+        {
+          "word": "kiedy",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 3,
+      "ty": 0,
+      "on_ona": 1,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 6,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 6,
+      "percentSentences": 1
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 25.2,
+      "median": 13,
+      "min": 2,
+      "max": 95,
+      "distribution": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 4.9,
+      "meanSyllables": 11.4,
+      "distribution": [
+        0,
+        0,
+        6,
+        4,
+        3,
+        4,
+        6,
+        5,
+        3
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 6,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 1,
+      "noSubject": 0,
+      "noPredicate": 0,
+      "percent": 0.17
+    },
+    "enjambement": {
+      "count": 3,
+      "percent": 0.1,
+      "positions": [
+        10,
+        15,
+        29
+      ]
+    },
+    "wordOrder": {
+      "svo": 5,
+      "inversions": 0,
+      "other": 1,
+      "deviationPercent": 0.17
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 345,
+      "consonants": 488,
+      "ratio": 0.71
+    },
+    "consonantClusters": {
+      "count": 25,
+      "top": [
+        {
+          "cluster": "szk",
+          "count": 5
+        },
+        {
+          "cluster": "jsc",
+          "count": 3
+        },
+        {
+          "cluster": "stw",
+          "count": 2
+        },
+        {
+          "cluster": "szc",
+          "count": 2
+        },
+        {
+          "cluster": "gdz",
+          "count": 1
+        },
+        {
+          "cluster": "lsk",
+          "count": 1
+        },
+        {
+          "cluster": "schl",
+          "count": 1
+        },
+        {
+          "cluster": "szn",
+          "count": 1
+        },
+        {
+          "cluster": "mdł",
+          "count": 1
+        },
+        {
+          "cluster": "szp",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 34,
+      "syczace": 88,
+      "nosowe": 99,
+      "plynne": 60
+    },
+    "rhymes": {
+      "exact": 2,
+      "approximate": 0,
+      "internal": 1,
+      "assonance": 1,
+      "alliteration": 1
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        31
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 353,
+      "estimatedSeconds": 118,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "polregularny",
+      "regularityScore": 0.58
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Biblia",
+          "reference": "Genesis - stwarzanie nowego świata",
+          "evidence": "stawanie się nowego świata; Stwórcą"
+        },
+        {
+          "source": "mitologia",
+          "reference": "homunculus z alchemii",
+          "evidence": "homunculus jeden pływa"
+        },
+        {
+          "source": "Różewicz",
+          "reference": "negacje ontologiczne",
+          "evidence": "nie jest tym księżycem... Trup nie jest trupem"
+        },
+        {
+          "source": "inne",
+          "reference": "tradycja vanitas",
+          "evidence": "szkielet, który świeci schludną kością"
+        }
+      ],
+      "selfQuotes": [
+        "Rafał Wojaczek"
+      ],
+      "influences": {
+        "rimbaud": 0.8,
+        "baudelaire": 0.6,
+        "bursa": 0.3,
+        "stachura": 0.4,
+        "grochowiak": 0.2,
+        "bialoszewski": 0.1,
+        "rozewicz": 0.7
+      }
+    },
+    "space": {
+      "type": "zamknieta",
+      "evidence": "śmietnik, więzienie, szpital - miejsca zamknięte i ograniczające",
+      "openClosedRatio": 0.2
+    },
+    "timeOfDay": {
+      "period": "noc",
+      "season": "zima",
+      "evidence": "Księżyc... kiedy księżyc wreszcie zejdzie i nareszcie Ja słońcem wstanę, data stycznia"
+    },
+    "motion": {
+      "movement": 8,
+      "stillness": 3,
+      "dynamism": 0.8,
+      "evidence": "wyparował, włażąc, stawanie się, zejdzie, wstanę - intensywny ruch transformacji"
+    },
+    "imageryDensity": {
+      "metaphors": 12,
+      "comparisons": 4,
+      "personifications": 6,
+      "hyperboles": 3,
+      "per100words": 15.6
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.9,
+      "creationLevel": 0.7,
+      "ironicDistance": 0.4,
+      "autobiographicSignals": [
+        "więzienie",
+        "szpital",
+        "Rafał Wojaczek",
+        "skurwysyn"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "ironia",
+      "secondary": "bunt",
+      "intensity": 0.8
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "mój trup, mnie obcym czynił, dobrze kiedyś znany mi skurwysyn Rafał Wojaczek"
+    },
+    "addressee": {
+      "type": "siebie",
+      "evidence": "skurwysyn Rafał Wojaczek - poeta mówi o sobie w trzeciej osobie"
+    },
+    "metaphors": [
+      {
+        "source": "robak",
+        "target": "stwórca nowego świata",
+        "example": "Stwórcą Jest ów robak mieszkający w środku mózgu"
+      },
+      {
+        "source": "szkielet",
+        "target": "karta choroby",
+        "example": "Szkielet też nie jest szkieletem tylko kartą Dawnej choroby"
+      },
+      {
+        "source": "robaki",
+        "target": "anioły",
+        "example": "Robaki są Aniołami"
+      },
+      {
+        "source": "ja",
+        "target": "słońce",
+        "example": "Ja słońcem wstanę"
+      }
+    ],
+    "temperature": {
+      "value": 0.7,
+      "label": "gorąca ironia i bunt przeciw rzeczywistości"
+    },
+    "senses": {
+      "wzrok": 4,
+      "sluch": 1,
+      "dotyk": 3,
+      "smak": 1,
+      "zapach": 4
+    },
+    "autodestruction": {
+      "level": 0.9,
+      "signals": [
+        "mój trup na śmietniku",
+        "robaki w uszach, oczach, ustach",
+        "skurwysyn Rafał Wojaczek",
+        "więzienie, szpital",
+        "śmierć jako przemiana"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 0.617,
+    "dfaAlpha": 0.357,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -0.19242291045271426
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": 0.02911871418562454
+      },
+      {
+        "logWin": 1.6094379124341003,
+        "logFluc": 0.01383727147678289
+      },
+      {
+        "logWin": 1.791759469228055,
+        "logFluc": 0.11474329683867861
+      },
+      {
+        "logWin": 1.9459101490553132,
+        "logFluc": 0.23402143928746597
+      },
+      {
+        "logWin": 2.0794415416798357,
+        "logFluc": 0.20066352093888035
+      },
+      {
+        "logWin": 2.302585092994046,
+        "logFluc": 0.2434811440185992
+      }
+    ],
+    "seriesLength": 30,
+    "series": [
+      7,
+      5,
+      2,
+      8,
+      5,
+      2,
+      8,
+      7,
+      4,
+      6,
+      7,
+      2,
+      6,
+      7,
+      3,
+      8,
+      7,
+      2,
+      5,
+      4,
+      2,
+      5,
+      6,
+      3,
+      4,
+      6,
+      2,
+      6,
+      6,
+      3
+    ]
+  }
+}

@@ -1,0 +1,1106 @@
+{
+  "id": "sanatorium",
+  "title": "Sanatorium",
+  "wordCount": 169,
+  "lineCount": 35,
+  "uniqueWords": 109,
+  "vocabularyRichness": 0.645,
+  "avgWordsPerLine": 4.83,
+  "wordsPerLineDistribution": [
+    5,
+    4,
+    7,
+    4,
+    8,
+    5,
+    9,
+    3,
+    6,
+    4,
+    5,
+    1,
+    4,
+    3,
+    6,
+    4,
+    6,
+    3,
+    5,
+    7,
+    3,
+    7,
+    7,
+    3,
+    3,
+    6,
+    3,
+    3,
+    4,
+    7,
+    6,
+    5,
+    3,
+    4,
+    6
+  ],
+  "wordFrequencies": [
+    [
+      "doktór",
+      4
+    ],
+    [
+      "siostra",
+      3
+    ],
+    [
+      "dzwonek",
+      3
+    ],
+    [
+      "zwróciłem",
+      3
+    ],
+    [
+      "uwagę",
+      3
+    ],
+    [
+      "oczy",
+      2
+    ],
+    [
+      "nikt",
+      2
+    ],
+    [
+      "przyszła",
+      1
+    ],
+    [
+      "została",
+      1
+    ],
+    [
+      "przyjęta",
+      1
+    ],
+    [
+      "mył",
+      1
+    ],
+    [
+      "ręce",
+      1
+    ],
+    [
+      "stała",
+      1
+    ],
+    [
+      "ręcznikiem",
+      1
+    ],
+    [
+      "zamieniła",
+      1
+    ],
+    [
+      "role",
+      1
+    ],
+    [
+      "były",
+      1
+    ],
+    [
+      "dokładnie",
+      1
+    ],
+    [
+      "przypisane",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 0,
+    "period": 0,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 0,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 7,
+  "negationWords": [
+    "nic",
+    "nie",
+    "nikt"
+  ],
+  "pronounDistribution": {
+    "ja": 6,
+    "ty": 0,
+    "on_ona": 4,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 5,
+    "smierc": 0,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 3,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [
+    [
+      "pani",
+      4
+    ],
+    [
+      "doktór",
+      3
+    ],
+    [
+      "na dzwonek",
+      3
+    ],
+    [
+      "ale",
+      2
+    ]
+  ],
+  "firstWord": "pani",
+  "lastWord": "uwagę",
+  "avgWordLength": 4.82,
+  "wordLengthDistribution": {
+    "4-5": 42,
+    "8-9": 22,
+    "1-3": 66,
+    "6-7": 31,
+    "10+": 8
+  },
+  "bigrams": [
+    [
+      "zwróciłem uwagę",
+      3
+    ],
+    [
+      "została przyjęta",
+      1
+    ],
+    [
+      "przyjęta doktór",
+      1
+    ],
+    [
+      "doktór właśnie",
+      1
+    ],
+    [
+      "właśnie mył",
+      1
+    ],
+    [
+      "mył ręce",
+      1
+    ]
+  ],
+  "poemWords": [
+    "pani",
+    "przyszła",
+    "została",
+    "przyjęta",
+    "doktór",
+    "mył",
+    "ręce",
+    "siostra",
+    "stała",
+    "ręcznikiem",
+    "zamieniła",
+    "role",
+    "były",
+    "dokładnie",
+    "przypisane",
+    "osób",
+    "brał",
+    "wygodnie",
+    "miał",
+    "dziurę",
+    "kieszeni",
+    "długo",
+    "drapał",
+    "zamkniętymi",
+    "oczami",
+    "dzwonek",
+    "zwróciłem",
+    "uwagę",
+    "leżała",
+    "kozetce",
+    "miała",
+    "oczy",
+    "zamknięte",
+    "rozebrana",
+    "znudzony",
+    "odwrócił",
+    "wąchał",
+    "palec",
+    "nikt",
+    "zwracał",
+    "uwagi",
+    "rzecz",
+    "odbywa",
+    "podniesionej",
+    "zasłonie",
+    "niedopatrzenie",
+    "spałem",
+    "mówiłem",
+    "siebie",
+    "otwarła",
+    "szczelnie",
+    "zamknęła",
+    "usta",
+    "śmierdziało",
+    "ust",
+    "wiedziała",
+    "właściwie",
+    "ujawnił",
+    "mówił",
+    "kiwał",
+    "głową",
+    "zdaje",
+    "nic",
+    "brakowało",
+    "zjawiła",
+    "chwilę",
+    "wyniosła",
+    "jakieś",
+    "resztki",
+    "miednicy",
+    "zmieniła",
+    "zakrwawione",
+    "prześcieradło",
+    "cicho"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 39,
+        "VERB": 31,
+        "ADJ": 9,
+        "ADV": 9,
+        "PRON": 28,
+        "ADP": 16,
+        "CCONJ": 12,
+        "SCONJ": 3,
+        "INTJ": 0,
+        "PART": 17,
+        "DET": 2,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.229,
+        "VERB": 0.182,
+        "ADJ": 0.053,
+        "ADV": 0.053,
+        "PRON": 0.165,
+        "ADP": 0.094,
+        "CCONJ": 0.071,
+        "SCONJ": 0.018,
+        "INTJ": 0,
+        "PART": 0.1,
+        "DET": 0.012,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 3,
+        "abstract": 0,
+        "ratio": 1
+      },
+      "verbTenses": {
+        "past": 30,
+        "present": 4,
+        "future": 1
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 1,
+        "stan": 4,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 1,
+        "cialo": 1
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 0,
+        "opisowe": 9
+      },
+      "adverbs": {
+        "temporalne": [
+          "potem"
+        ],
+        "modalne": [],
+        "sposobu": [
+          "cicho"
+        ],
+        "top": [
+          {
+            "word": "właśnie",
+            "count": 1
+          },
+          {
+            "word": "potem",
+            "count": 1
+          },
+          {
+            "word": "tu",
+            "count": 1
+          },
+          {
+            "word": "dokładnie",
+            "count": 1
+          },
+          {
+            "word": "wygodnie",
+            "count": 1
+          },
+          {
+            "word": "długo",
+            "count": 1
+          },
+          {
+            "word": "szczelnie",
+            "count": 1
+          },
+          {
+            "word": "właściwie",
+            "count": 1
+          },
+          {
+            "word": "cicho",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 6,
+        "ty": 0,
+        "on_ona": 4,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 4,
+        "nic": 1,
+        "nikt": 2,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 7,
+        "percentSentences": 0.58
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 364,
+        "consonants": 461,
+        "ratio": 0.79
+      },
+      "consonantClusters": {
+        "count": 29,
+        "top": [
+          {
+            "cluster": "prz",
+            "count": 6
+          },
+          {
+            "cluster": "zwr",
+            "count": 4
+          },
+          {
+            "cluster": "str",
+            "count": 3
+          },
+          {
+            "cluster": "mkn",
+            "count": 3
+          },
+          {
+            "cluster": "dzw",
+            "count": 3
+          },
+          {
+            "cluster": "szcz",
+            "count": 2
+          },
+          {
+            "cluster": "szł",
+            "count": 1
+          },
+          {
+            "cluster": "czn",
+            "count": 1
+          },
+          {
+            "cluster": "dwr",
+            "count": 1
+          },
+          {
+            "cluster": "trz",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 28,
+        "syczace": 71,
+        "nosowe": 94,
+        "plynne": 89
+      },
+      "rhymes": {
+        "exact": 1,
+        "approximate": 4,
+        "internal": 2,
+        "assonance": 0,
+        "alliteration": 2
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 14.2,
+        "median": 13,
+        "min": 6,
+        "max": 44,
+        "distribution": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          2,
+          1,
+          0,
+          0,
+          1,
+          0,
+          1,
+          3,
+          0,
+          2,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 4.7,
+        "meanSyllables": 10.2,
+        "distribution": [
+          0,
+          2,
+          0,
+          9,
+          7,
+          5,
+          6,
+          5,
+          1,
+          1
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 12,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 0,
+        "noSubject": 0,
+        "noPredicate": 0,
+        "percent": 0
+      },
+      "enjambement": {
+        "count": 15,
+        "percent": 0.43,
+        "positions": [
+          3,
+          6,
+          8,
+          11,
+          12,
+          14,
+          17,
+          18,
+          21,
+          24,
+          28,
+          29,
+          32,
+          33,
+          34
+        ]
+      },
+      "wordOrder": {
+        "svo": 11,
+        "inversions": 1,
+        "other": 0,
+        "deviationPercent": 0.08
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 6,
+        "śmierć": 0,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 2,
+        "sacrum": 0,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 369,
+      "estimatedSeconds": 123,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 39,
+      "VERB": 31,
+      "ADJ": 9,
+      "ADV": 9,
+      "PRON": 28,
+      "ADP": 16,
+      "CCONJ": 12,
+      "SCONJ": 3,
+      "INTJ": 0,
+      "PART": 17,
+      "DET": 2,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.229,
+      "VERB": 0.182,
+      "ADJ": 0.053,
+      "ADV": 0.053,
+      "PRON": 0.165,
+      "ADP": 0.094,
+      "CCONJ": 0.071,
+      "SCONJ": 0.018,
+      "INTJ": 0,
+      "PART": 0.1,
+      "DET": 0.012,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 3,
+      "abstract": 0,
+      "ratio": 1
+    },
+    "verbTenses": {
+      "past": 30,
+      "present": 4,
+      "future": 1
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 1,
+      "stan": 4,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 1,
+      "cialo": 1
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 0,
+      "opisowe": 9
+    },
+    "adverbs": {
+      "temporalne": [
+        "potem"
+      ],
+      "modalne": [],
+      "sposobu": [
+        "cicho"
+      ],
+      "top": [
+        {
+          "word": "właśnie",
+          "count": 1
+        },
+        {
+          "word": "potem",
+          "count": 1
+        },
+        {
+          "word": "tu",
+          "count": 1
+        },
+        {
+          "word": "dokładnie",
+          "count": 1
+        },
+        {
+          "word": "wygodnie",
+          "count": 1
+        },
+        {
+          "word": "długo",
+          "count": 1
+        },
+        {
+          "word": "szczelnie",
+          "count": 1
+        },
+        {
+          "word": "właściwie",
+          "count": 1
+        },
+        {
+          "word": "cicho",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 6,
+      "ty": 0,
+      "on_ona": 4,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 4,
+      "nic": 1,
+      "nikt": 2,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 7,
+      "percentSentences": 0.58
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 14.2,
+      "median": 13,
+      "min": 6,
+      "max": 44,
+      "distribution": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        1,
+        0,
+        0,
+        1,
+        0,
+        1,
+        3,
+        0,
+        2,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 4.7,
+      "meanSyllables": 10.2,
+      "distribution": [
+        0,
+        2,
+        0,
+        9,
+        7,
+        5,
+        6,
+        5,
+        1,
+        1
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 12,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 0,
+      "noSubject": 0,
+      "noPredicate": 0,
+      "percent": 0
+    },
+    "enjambement": {
+      "count": 15,
+      "percent": 0.43,
+      "positions": [
+        3,
+        6,
+        8,
+        11,
+        12,
+        14,
+        17,
+        18,
+        21,
+        24,
+        28,
+        29,
+        32,
+        33,
+        34
+      ]
+    },
+    "wordOrder": {
+      "svo": 11,
+      "inversions": 1,
+      "other": 0,
+      "deviationPercent": 0.08
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 364,
+      "consonants": 461,
+      "ratio": 0.79
+    },
+    "consonantClusters": {
+      "count": 29,
+      "top": [
+        {
+          "cluster": "prz",
+          "count": 6
+        },
+        {
+          "cluster": "zwr",
+          "count": 4
+        },
+        {
+          "cluster": "str",
+          "count": 3
+        },
+        {
+          "cluster": "mkn",
+          "count": 3
+        },
+        {
+          "cluster": "dzw",
+          "count": 3
+        },
+        {
+          "cluster": "szcz",
+          "count": 2
+        },
+        {
+          "cluster": "szł",
+          "count": 1
+        },
+        {
+          "cluster": "czn",
+          "count": 1
+        },
+        {
+          "cluster": "dwr",
+          "count": 1
+        },
+        {
+          "cluster": "trz",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 28,
+      "syczace": 71,
+      "nosowe": 94,
+      "plynne": 89
+    },
+    "rhymes": {
+      "exact": 1,
+      "approximate": 4,
+      "internal": 2,
+      "assonance": 0,
+      "alliteration": 2
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        36
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 369,
+      "estimatedSeconds": 123,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "polregularny",
+      "regularityScore": 0.62
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "inne",
+          "reference": "scena medyczna jako metafora kondycji ludzkiej",
+          "evidence": "sanatorium, doktor, siostra, pacjentka na kozetce"
+        },
+        {
+          "source": "inne",
+          "reference": "teatr absurdu",
+          "evidence": "Tu role nie były dokładnie przypisane do osób / każdy brał co mu wygodnie"
+        }
+      ],
+      "selfQuotes": [
+        "Na dzwonek tylko ja zwróciłem uwagę"
+      ],
+      "influences": {
+        "rimbaud": 0.2,
+        "baudelaire": 0.3,
+        "bursa": 0.1,
+        "stachura": 0.1,
+        "grochowiak": 0.4,
+        "bialoszewski": 0.6,
+        "rozewicz": 0.7
+      }
+    },
+    "space": {
+      "type": "zamknieta",
+      "evidence": "sanatorium, kozetka, zasłona, wnętrze medyczne",
+      "openClosedRatio": 0.1
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "nieokreslona",
+      "evidence": "brak wskazówek temporalnych"
+    },
+    "motion": {
+      "movement": 3,
+      "stillness": 7,
+      "dynamism": 0.3,
+      "evidence": "statyczne pozy: leżała na kozetce, stała przy nim, spałem"
+    },
+    "imageryDensity": {
+      "metaphors": 2,
+      "comparisons": 0,
+      "personifications": 1,
+      "hyperboles": 0,
+      "per100words": 1.8
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.8,
+      "creationLevel": 0.6,
+      "ironicDistance": 0.3,
+      "autobiographicSignals": [
+        "ja zwróciłem uwagę",
+        "ale ja spałem",
+        "No i ja",
+        "to tylko ja"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "obrzydzenie",
+      "secondary": "rezygnacja",
+      "intensity": 0.7
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "wielokrotne 'ja' - 'Na dzwonek tylko ja zwróciłem uwagę', 'Ale ja spałem', 'No i ja', 'to tylko ja'"
+    },
+    "addressee": {
+      "type": "siebie",
+      "evidence": "'Ale ja spałem i jeśli mówiłem co to do siebie'"
+    },
+    "metaphors": [
+      {
+        "source": "sanatorium",
+        "target": "miejsce rozkładu/śmierci",
+        "example": "atmosfera medycznej obojętności wobec cierpienia"
+      },
+      {
+        "source": "dzwonek",
+        "target": "sygnał alarmowy/ostrzeżenie",
+        "example": "Na dzwonek tylko ja zwróciłem uwagę - powtarzany refren"
+      },
+      {
+        "source": "podniesiona zasłona",
+        "target": "odsłonięcie prawdy",
+        "example": "rzecz odbywa się przy podniesionej zasłonie"
+      }
+    ],
+    "temperature": {
+      "value": 0.3,
+      "label": "chłodna obserwacja"
+    },
+    "senses": {
+      "wzrok": 4,
+      "sluch": 2,
+      "dotyk": 1,
+      "smak": 0,
+      "zapach": 4
+    },
+    "autodestruction": {
+      "level": 0.4,
+      "signals": [
+        "izolacja podmiotu",
+        "mówienie do siebie",
+        "bycie jedynym świadomym obserwatorem"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 0.766,
+    "dfaAlpha": 0.425,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -0.28773309025703925
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -0.1536785623736563
+      },
+      {
+        "logWin": 1.6094379124341003,
+        "logFluc": 0.0781287299061952
+      },
+      {
+        "logWin": 1.791759469228055,
+        "logFluc": -0.040842953011578136
+      },
+      {
+        "logWin": 1.9459101490553132,
+        "logFluc": 0.08050124889486455
+      },
+      {
+        "logWin": 2.0794415416798357,
+        "logFluc": 0.1748479517869126
+      },
+      {
+        "logWin": 2.1972245773362196,
+        "logFluc": 0.25537560021489986
+      },
+      {
+        "logWin": 2.3978952727983707,
+        "logFluc": 0.2495726095309326
+      }
+    ],
+    "seriesLength": 35,
+    "series": [
+      5,
+      4,
+      7,
+      4,
+      8,
+      5,
+      9,
+      3,
+      6,
+      4,
+      5,
+      1,
+      4,
+      3,
+      6,
+      4,
+      6,
+      3,
+      5,
+      7,
+      3,
+      7,
+      7,
+      3,
+      3,
+      6,
+      3,
+      3,
+      4,
+      7,
+      6,
+      5,
+      3,
+      4,
+      6
+    ]
+  }
+}

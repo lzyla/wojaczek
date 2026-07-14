@@ -1,0 +1,834 @@
+{
+  "id": "sol-w-nasze-rany",
+  "title": "Sól w nasze rany",
+  "wordCount": 107,
+  "lineCount": 15,
+  "uniqueWords": 58,
+  "vocabularyRichness": 0.542,
+  "avgWordsPerLine": 7.13,
+  "wordsPerLineDistribution": [
+    3,
+    7,
+    8,
+    7,
+    7,
+    7,
+    9,
+    7,
+    7,
+    7,
+    7,
+    7,
+    8,
+    9,
+    7
+  ],
+  "wordFrequencies": [
+    [
+      "powiedział",
+      7
+    ],
+    [
+      "głód",
+      2
+    ],
+    [
+      "sól",
+      1
+    ],
+    [
+      "rany",
+      1
+    ],
+    [
+      "wagon",
+      1
+    ],
+    [
+      "soli",
+      1
+    ],
+    [
+      "boli",
+      1
+    ],
+    [
+      "piach",
+      1
+    ],
+    [
+      "oczy",
+      1
+    ],
+    [
+      "synaj",
+      1
+    ],
+    [
+      "piasku",
+      1
+    ],
+    [
+      "widzi",
+      1
+    ],
+    [
+      "jasno",
+      1
+    ],
+    [
+      "trzewia",
+      1
+    ],
+    [
+      "suche",
+      1
+    ],
+    [
+      "kromki",
+      1
+    ],
+    [
+      "głodu",
+      1
+    ],
+    [
+      "but",
+      1
+    ],
+    [
+      "krocza",
+      1
+    ],
+    [
+      "kopniaków",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 13,
+    "period": 0,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 0,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 10,
+  "negationWords": [
+    "nie"
+  ],
+  "pronounDistribution": {
+    "ja": 0,
+    "ty": 0,
+    "on_ona": 1,
+    "my": 6,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 2,
+    "smierc": 2,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [
+    [
+      "by",
+      7
+    ]
+  ],
+  "firstWord": "sól",
+  "lastWord": "żyje",
+  "avgWordLength": 4.06,
+  "wordLengthDistribution": {
+    "1-3": 53,
+    "4-5": 36,
+    "10+": 8,
+    "6-7": 8,
+    "8-9": 2
+  },
+  "bigrams": [
+    [
+      "powiedział kto",
+      7
+    ],
+    [
+      "nasze rany",
+      1
+    ],
+    [
+      "rany cały",
+      1
+    ],
+    [
+      "cały wagon",
+      1
+    ],
+    [
+      "wagon soli",
+      1
+    ]
+  ],
+  "poemWords": [
+    "sól",
+    "rany",
+    "wagon",
+    "soli",
+    "powiedział",
+    "boli",
+    "piach",
+    "oczy",
+    "synaj",
+    "piasku",
+    "widzi",
+    "jasno",
+    "głód",
+    "trzewia",
+    "suche",
+    "kromki",
+    "głodu",
+    "but",
+    "krocza",
+    "kopniaków",
+    "tysiąc",
+    "spłodziłby",
+    "knut",
+    "głowy",
+    "sto",
+    "pałek",
+    "umyślnych",
+    "myśli",
+    "strach",
+    "serca",
+    "grozy",
+    "gęstej",
+    "zna",
+    "lęku",
+    "salwę",
+    "płuca",
+    "sznur",
+    "szyję",
+    "żyje"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 25,
+        "VERB": 14,
+        "ADJ": 5,
+        "ADV": 1,
+        "PRON": 10,
+        "ADP": 8,
+        "CCONJ": 2,
+        "SCONJ": 14,
+        "INTJ": 0,
+        "PART": 14,
+        "DET": 8,
+        "NUM": 1
+      },
+      "posPercent": {
+        "NOUN": 0.24,
+        "VERB": 0.135,
+        "ADJ": 0.048,
+        "ADV": 0.01,
+        "PRON": 0.096,
+        "ADP": 0.077,
+        "CCONJ": 0.019,
+        "SCONJ": 0.135,
+        "INTJ": 0,
+        "PART": 0.135,
+        "DET": 0.077,
+        "NUM": 0.01
+      },
+      "nounConcreteAbstract": {
+        "concrete": 2,
+        "abstract": 0,
+        "ratio": 1
+      },
+      "verbTenses": {
+        "past": 8,
+        "present": 6
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 1,
+        "stan": 1,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 1,
+        "oceniajace": 0,
+        "opisowe": 4
+      },
+      "adverbs": {
+        "temporalne": [],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "jasno",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 0,
+        "ty": 0,
+        "on_ona": 1,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 10,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 10,
+        "percentSentences": 1.67
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 185,
+        "consonants": 246,
+        "ratio": 0.75
+      },
+      "consonantClusters": {
+        "count": 6,
+        "top": [
+          {
+            "cluster": "trz",
+            "count": 1
+          },
+          {
+            "cluster": "spł",
+            "count": 1
+          },
+          {
+            "cluster": "śln",
+            "count": 1
+          },
+          {
+            "cluster": "str",
+            "count": 1
+          },
+          {
+            "cluster": "szn",
+            "count": 1
+          },
+          {
+            "cluster": "szcz",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 23,
+        "syczace": 31,
+        "nosowe": 34,
+        "plynne": 33
+      },
+      "rhymes": {
+        "exact": 1,
+        "approximate": 0,
+        "internal": 0,
+        "assonance": 0,
+        "alliteration": 2
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 17.3,
+        "median": 15,
+        "min": 7,
+        "max": 31,
+        "distribution": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          2,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 7.1,
+        "meanSyllables": 13,
+        "distribution": [
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          10,
+          2,
+          2
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 6,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 1,
+        "noSubject": 0,
+        "noPredicate": 0,
+        "percent": 0.17
+      },
+      "enjambement": {
+        "count": 1,
+        "percent": 0.07,
+        "positions": [
+          13
+        ]
+      },
+      "wordOrder": {
+        "svo": 1,
+        "inversions": 4,
+        "other": 1,
+        "deviationPercent": 0.83
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 2,
+        "śmierć": 1,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 195,
+      "estimatedSeconds": 65,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 25,
+      "VERB": 14,
+      "ADJ": 5,
+      "ADV": 1,
+      "PRON": 10,
+      "ADP": 8,
+      "CCONJ": 2,
+      "SCONJ": 14,
+      "INTJ": 0,
+      "PART": 14,
+      "DET": 8,
+      "NUM": 1
+    },
+    "posPercent": {
+      "NOUN": 0.24,
+      "VERB": 0.135,
+      "ADJ": 0.048,
+      "ADV": 0.01,
+      "PRON": 0.096,
+      "ADP": 0.077,
+      "CCONJ": 0.019,
+      "SCONJ": 0.135,
+      "INTJ": 0,
+      "PART": 0.135,
+      "DET": 0.077,
+      "NUM": 0.01
+    },
+    "nounConcreteAbstract": {
+      "concrete": 2,
+      "abstract": 0,
+      "ratio": 1
+    },
+    "verbTenses": {
+      "past": 8,
+      "present": 6
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 1,
+      "stan": 1,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 1,
+      "oceniajace": 0,
+      "opisowe": 4
+    },
+    "adverbs": {
+      "temporalne": [],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "jasno",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 0,
+      "ty": 0,
+      "on_ona": 1,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 10,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 10,
+      "percentSentences": 1.67
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 17.3,
+      "median": 15,
+      "min": 7,
+      "max": 31,
+      "distribution": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 7.1,
+      "meanSyllables": 13,
+      "distribution": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        10,
+        2,
+        2
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 6,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 1,
+      "noSubject": 0,
+      "noPredicate": 0,
+      "percent": 0.17
+    },
+    "enjambement": {
+      "count": 1,
+      "percent": 0.07,
+      "positions": [
+        13
+      ]
+    },
+    "wordOrder": {
+      "svo": 1,
+      "inversions": 4,
+      "other": 1,
+      "deviationPercent": 0.83
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 185,
+      "consonants": 246,
+      "ratio": 0.75
+    },
+    "consonantClusters": {
+      "count": 6,
+      "top": [
+        {
+          "cluster": "trz",
+          "count": 1
+        },
+        {
+          "cluster": "spł",
+          "count": 1
+        },
+        {
+          "cluster": "śln",
+          "count": 1
+        },
+        {
+          "cluster": "str",
+          "count": 1
+        },
+        {
+          "cluster": "szn",
+          "count": 1
+        },
+        {
+          "cluster": "szcz",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 23,
+      "syczace": 31,
+      "nosowe": 34,
+      "plynne": 33
+    },
+    "rhymes": {
+      "exact": 1,
+      "approximate": 0,
+      "internal": 0,
+      "assonance": 0,
+      "alliteration": 2
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        15
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 195,
+      "estimatedSeconds": 65,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "regularny",
+      "regularityScore": 0.77
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Biblia",
+          "reference": "Synaj",
+          "evidence": "cały Synaj piasku - nawiązanie do góry Synaj z Biblii"
+        },
+        {
+          "source": "Biblia",
+          "reference": "pustynia i wędrówka Izraelitów",
+          "evidence": "piach w oczy, Synaj - kontekst biblijny wędrówki przez pustynię"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.2,
+        "baudelaire": 0.3,
+        "bursa": 0.8,
+        "stachura": 0.6,
+        "grochowiak": 0.7,
+        "bialoszewski": 0.1,
+        "rozewicz": 0.8
+      }
+    },
+    "space": {
+      "type": "zamknieta",
+      "evidence": "Przestrzeń opresyjna, ograniczająca - wagon, ciała jako więzienia cierpienia",
+      "openClosedRatio": 0.1
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "nieokreslona",
+      "evidence": "Brak wskazówek temporalnych, wiersz ma charakter ponadczasowy"
+    },
+    "motion": {
+      "movement": 8,
+      "stillness": 2,
+      "dynamism": 0.8,
+      "evidence": "Intensywny ruch agresji: kopniaków, pałek, salw - dynamika przemocy"
+    },
+    "imageryDensity": {
+      "metaphors": 6,
+      "comparisons": 0,
+      "personifications": 2,
+      "hyperboles": 4,
+      "per100words": 12
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.9,
+      "creationLevel": 0.7,
+      "ironicDistance": 0.2,
+      "autobiographicSignals": [
+        "my/nasze - identyfikacja zbiorowa",
+        "doświadczenie cierpienia jako uniwersalne",
+        "ton wyznania egzystencjalnego"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "bunt",
+      "secondary": "gniew",
+      "intensity": 0.9
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "konsekwentne użycie 'nasze' - poeta mówi w imieniu wspólnoty"
+    },
+    "addressee": {
+      "type": "nikt",
+      "evidence": "brak bezpośredniego zwrotu, wiersz ma charakter manifestu skierowanego do ogółu"
+    },
+    "metaphors": [
+      {
+        "source": "sól w rany",
+        "target": "zadawanie cierpienia",
+        "example": "Sól w nasze rany, cały wagon soli"
+      },
+      {
+        "source": "piach w oczy",
+        "target": "oślepianie prawdy",
+        "example": "Piach w nasze oczy, cały Synaj piasku"
+      },
+      {
+        "source": "but w krocza",
+        "target": "niszczenie płodności/przyszłości",
+        "example": "But w nasze krocza, kopniaków choć tysiąc"
+      }
+    ],
+    "temperature": {
+      "value": 0.85,
+      "label": "bardzo gorące - gniew i bunt przeciw przemocy"
+    },
+    "senses": {
+      "wzrok": 3,
+      "sluch": 2,
+      "dotyk": 5,
+      "smak": 1,
+      "zapach": 0
+    },
+    "autodestruction": {
+      "level": 0.7,
+      "signals": [
+        "akceptacja przemocy fizycznej",
+        "rezygnacja z oporu",
+        "finalna wizja śmierci przez rozstrzelanie lub powieszenie"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 0.764,
+    "dfaAlpha": 2.134,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -1.9560115027140714
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -1.4978661367769948
+      },
+      {
+        "logWin": 1.6094379124341003,
+        "logFluc": -0.8520053871502942
+      }
+    ],
+    "seriesLength": 15,
+    "series": [
+      3,
+      7,
+      8,
+      7,
+      7,
+      7,
+      9,
+      7,
+      7,
+      7,
+      7,
+      7,
+      8,
+      9,
+      7
+    ]
+  }
+}

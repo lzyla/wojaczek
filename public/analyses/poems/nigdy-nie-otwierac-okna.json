@@ -1,0 +1,860 @@
+{
+  "id": "nigdy-nie-otwierac-okna",
+  "title": "Nigdy nie otwierać okna",
+  "wordCount": 48,
+  "lineCount": 15,
+  "uniqueWords": 41,
+  "vocabularyRichness": 0.854,
+  "avgWordsPerLine": 3.2,
+  "wordsPerLineDistribution": [
+    1,
+    1,
+    3,
+    3,
+    3,
+    3,
+    3,
+    5,
+    4,
+    4,
+    5,
+    1,
+    5,
+    3,
+    4
+  ],
+  "wordFrequencies": [
+    [
+      "pamiętaj",
+      1
+    ],
+    [
+      "otwieraj",
+      1
+    ],
+    [
+      "okna",
+      1
+    ],
+    [
+      "czterech",
+      1
+    ],
+    [
+      "ścianach",
+      1
+    ],
+    [
+      "wiatr",
+      1
+    ],
+    [
+      "wieje",
+      1
+    ],
+    [
+      "dbaj",
+      1
+    ],
+    [
+      "głowę",
+      1
+    ],
+    [
+      "różę",
+      1
+    ],
+    [
+      "zaczerpuj",
+      1
+    ],
+    [
+      "nowo",
+      1
+    ],
+    [
+      "wprost",
+      1
+    ],
+    [
+      "źródła",
+      1
+    ],
+    [
+      "mieszczańskiego",
+      1
+    ],
+    [
+      "myśl",
+      1
+    ],
+    [
+      "odnawia",
+      1
+    ],
+    [
+      "stygmat",
+      1
+    ],
+    [
+      "pisz",
+      1
+    ],
+    [
+      "listów",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 0,
+    "period": 0,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 1,
+    "dash": 0,
+    "colon": 0,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 5,
+  "negationWords": [
+    "nie",
+    "nigdy"
+  ],
+  "pronounDistribution": {
+    "ja": 0,
+    "ty": 2,
+    "on_ona": 0,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 0,
+    "smierc": 0,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [
+    [
+      "nie",
+      3
+    ]
+  ],
+  "firstWord": "pamiętaj",
+  "lastWord": "zmarłych",
+  "avgWordLength": 4.4,
+  "wordLengthDistribution": {
+    "8-9": 6,
+    "4-5": 13,
+    "1-3": 21,
+    "6-7": 7,
+    "10+": 1
+  },
+  "bigrams": [
+    [
+      "pamiętaj nigdy",
+      1
+    ],
+    [
+      "otwieraj okna",
+      1
+    ],
+    [
+      "czterech ścianach",
+      1
+    ],
+    [
+      "ścianach wiatr",
+      1
+    ],
+    [
+      "wieje dbaj",
+      1
+    ]
+  ],
+  "poemWords": [
+    "pamiętaj",
+    "otwieraj",
+    "okna",
+    "czterech",
+    "ścianach",
+    "wiatr",
+    "wieje",
+    "dbaj",
+    "głowę",
+    "różę",
+    "zaczerpuj",
+    "nowo",
+    "wprost",
+    "źródła",
+    "mieszczańskiego",
+    "myśl",
+    "odnawia",
+    "stygmat",
+    "pisz",
+    "listów",
+    "siebie",
+    "widział",
+    "pisać",
+    "listy",
+    "zmarłych"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 10,
+        "VERB": 10,
+        "ADJ": 1,
+        "ADV": 3,
+        "PRON": 7,
+        "ADP": 8,
+        "CCONJ": 2,
+        "SCONJ": 1,
+        "INTJ": 0,
+        "PART": 5,
+        "DET": 0,
+        "NUM": 1
+      },
+      "posPercent": {
+        "NOUN": 0.208,
+        "VERB": 0.208,
+        "ADJ": 0.021,
+        "ADV": 0.062,
+        "PRON": 0.146,
+        "ADP": 0.167,
+        "CCONJ": 0.042,
+        "SCONJ": 0.021,
+        "INTJ": 0,
+        "PART": 0.104,
+        "DET": 0,
+        "NUM": 0.021
+      },
+      "nounConcreteAbstract": {
+        "concrete": 3,
+        "abstract": 0,
+        "ratio": 1
+      },
+      "verbTenses": {
+        "imperative": 5,
+        "present": 2,
+        "future": 1,
+        "past": 1,
+        "infinitive": 1
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 1,
+        "stan": 0,
+        "destrukcja": 0,
+        "tworzenie": 1,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 0,
+        "opisowe": 1
+      },
+      "adverbs": {
+        "temporalne": [
+          "nigdy",
+          "wciąż"
+        ],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "nigdy",
+            "count": 1
+          },
+          {
+            "word": "wciąż",
+            "count": 1
+          },
+          {
+            "word": "nowo",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 0,
+        "ty": 2,
+        "on_ona": 0,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 4,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 1,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 5,
+        "percentSentences": 2.5
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 91,
+        "consonants": 120,
+        "ratio": 0.76
+      },
+      "consonantClusters": {
+        "count": 4,
+        "top": [
+          {
+            "cluster": "czt",
+            "count": 1
+          },
+          {
+            "cluster": "wpr",
+            "count": 1
+          },
+          {
+            "cluster": "szcz",
+            "count": 1
+          },
+          {
+            "cluster": "ńsk",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 8,
+        "syczace": 21,
+        "nosowe": 22,
+        "plynne": 15
+      },
+      "rhymes": {
+        "exact": 0,
+        "approximate": 0,
+        "internal": 0,
+        "assonance": 0,
+        "alliteration": 2
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 24,
+        "median": 24,
+        "min": 12,
+        "max": 36,
+        "distribution": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 3.2,
+        "meanSyllables": 6.1,
+        "distribution": [
+          0,
+          3,
+          0,
+          6,
+          3,
+          3
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 0,
+        "interrogative": 0,
+        "imperative": 2,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 0,
+        "noSubject": 0,
+        "noPredicate": 0,
+        "percent": 0
+      },
+      "enjambement": {
+        "count": 13,
+        "percent": 0.93,
+        "positions": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          13,
+          14
+        ]
+      },
+      "wordOrder": {
+        "svo": 0,
+        "inversions": 2,
+        "other": 0,
+        "deviationPercent": 1
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 0,
+        "śmierć": 0,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 92,
+      "estimatedSeconds": 31,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 10,
+      "VERB": 10,
+      "ADJ": 1,
+      "ADV": 3,
+      "PRON": 7,
+      "ADP": 8,
+      "CCONJ": 2,
+      "SCONJ": 1,
+      "INTJ": 0,
+      "PART": 5,
+      "DET": 0,
+      "NUM": 1
+    },
+    "posPercent": {
+      "NOUN": 0.208,
+      "VERB": 0.208,
+      "ADJ": 0.021,
+      "ADV": 0.062,
+      "PRON": 0.146,
+      "ADP": 0.167,
+      "CCONJ": 0.042,
+      "SCONJ": 0.021,
+      "INTJ": 0,
+      "PART": 0.104,
+      "DET": 0,
+      "NUM": 0.021
+    },
+    "nounConcreteAbstract": {
+      "concrete": 3,
+      "abstract": 0,
+      "ratio": 1
+    },
+    "verbTenses": {
+      "imperative": 5,
+      "present": 2,
+      "future": 1,
+      "past": 1,
+      "infinitive": 1
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 1,
+      "stan": 0,
+      "destrukcja": 0,
+      "tworzenie": 1,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 0,
+      "opisowe": 1
+    },
+    "adverbs": {
+      "temporalne": [
+        "nigdy",
+        "wciąż"
+      ],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "nigdy",
+          "count": 1
+        },
+        {
+          "word": "wciąż",
+          "count": 1
+        },
+        {
+          "word": "nowo",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 0,
+      "ty": 2,
+      "on_ona": 0,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 4,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 1,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 5,
+      "percentSentences": 2.5
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 24,
+      "median": 24,
+      "min": 12,
+      "max": 36,
+      "distribution": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 3.2,
+      "meanSyllables": 6.1,
+      "distribution": [
+        0,
+        3,
+        0,
+        6,
+        3,
+        3
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 0,
+      "interrogative": 0,
+      "imperative": 2,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 0,
+      "noSubject": 0,
+      "noPredicate": 0,
+      "percent": 0
+    },
+    "enjambement": {
+      "count": 13,
+      "percent": 0.93,
+      "positions": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        13,
+        14
+      ]
+    },
+    "wordOrder": {
+      "svo": 0,
+      "inversions": 2,
+      "other": 0,
+      "deviationPercent": 1
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 91,
+      "consonants": 120,
+      "ratio": 0.76
+    },
+    "consonantClusters": {
+      "count": 4,
+      "top": [
+        {
+          "cluster": "czt",
+          "count": 1
+        },
+        {
+          "cluster": "wpr",
+          "count": 1
+        },
+        {
+          "cluster": "szcz",
+          "count": 1
+        },
+        {
+          "cluster": "ńsk",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 8,
+      "syczace": 21,
+      "nosowe": 22,
+      "plynne": 15
+    },
+    "rhymes": {
+      "exact": 0,
+      "approximate": 0,
+      "internal": 0,
+      "assonance": 0,
+      "alliteration": 2
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        15
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 92,
+      "estimatedSeconds": 31,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "polregularny",
+      "regularityScore": 0.53
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Biblia",
+          "reference": "stygmat",
+          "evidence": "odnosi się do ran Chrystusa, motyw religijny"
+        },
+        {
+          "source": "Różewicz",
+          "reference": "forma apostrof i imperatywów",
+          "evidence": "charakterystyczny dla Różewicza styl poetyckich pouczeń"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.2,
+        "baudelaire": 0.1,
+        "bursa": 0.3,
+        "stachura": 0.4,
+        "grochowiak": 0.3,
+        "bialoszewski": 0.2,
+        "rozewicz": 0.7
+      }
+    },
+    "space": {
+      "type": "zamknieta",
+      "evidence": "cztery ściany, zakaz otwierania okna, brak wiatru",
+      "openClosedRatio": 0.1
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "nieokreslona",
+      "evidence": "brak wskazówek temporalnych"
+    },
+    "motion": {
+      "movement": 2,
+      "stillness": 8,
+      "dynamism": 0.2,
+      "evidence": "dominuje statyczność, zakaz ruchu (nie otwieraj okna), wiatr nie wieje"
+    },
+    "imageryDensity": {
+      "metaphors": 3,
+      "comparisons": 0,
+      "personifications": 1,
+      "hyperboles": 0,
+      "per100words": 6.7
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.8,
+      "creationLevel": 0.3,
+      "ironicDistance": 0.2,
+      "autobiographicSignals": [
+        "zwrot do siebie w drugiej osobie",
+        "stygmat się odnawia",
+        "pisanie listów do zmarłych"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "rezygnacja",
+      "secondary": "melancholia",
+      "intensity": 0.7
+    },
+    "subjectPresence": {
+      "type": "ukryte",
+      "evidence": "podmiot liryczny przemawia jako doradca, ale ostatni wers sugeruje pisanie do siebie jako zmarłego"
+    },
+    "addressee": {
+      "type": "siebie",
+      "evidence": "bezpośrednie zwroty 'nie otwieraj', 'dbaj', 'ty', 'nie pisz listów do siebie'"
+    },
+    "metaphors": [
+      {
+        "source": "zamknięte okno",
+        "target": "izolacja od świata",
+        "example": "nigdy nie otwieraj okna / w czterech ścianach / wiatr nie wieje"
+      },
+      {
+        "source": "źródło mieszczańskie",
+        "target": "konformizm społeczny",
+        "example": "zaczerpuj wciąż na nowo / wprost ze źródła mieszczańskiego"
+      },
+      {
+        "source": "odnawia stygmat",
+        "target": "powtarzające się cierpienie",
+        "example": "nie myśl o tym / że ci się odnawia stygmat"
+      }
+    ],
+    "temperature": {
+      "value": 0.2,
+      "label": "zimne, rezygnacyjne"
+    },
+    "senses": {
+      "wzrok": 2,
+      "sluch": 1,
+      "dotyk": 3,
+      "smak": 0,
+      "zapach": 0
+    },
+    "autodestruction": {
+      "level": 0.8,
+      "signals": [
+        "zamknięcie się na świat",
+        "pisanie listów do zmarłych",
+        "rezygnacja z autentyczności",
+        "przyjęcie stygmatu"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 1.055,
+    "dfaAlpha": 0.899,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -0.9751822497023465
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -0.3901532050648366
+      },
+      {
+        "logWin": 1.6094379124341003,
+        "logFluc": -0.5448127172458814
+      }
+    ],
+    "seriesLength": 15,
+    "series": [
+      1,
+      1,
+      3,
+      3,
+      3,
+      3,
+      3,
+      5,
+      4,
+      4,
+      5,
+      1,
+      5,
+      3,
+      4
+    ]
+  }
+}

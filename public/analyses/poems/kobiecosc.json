@@ -1,0 +1,915 @@
+{
+  "id": "kobiecosc",
+  "title": "Kobiecość",
+  "wordCount": 86,
+  "lineCount": 14,
+  "uniqueWords": 71,
+  "vocabularyRichness": 0.826,
+  "avgWordsPerLine": 6.14,
+  "wordsPerLineDistribution": [
+    7,
+    6,
+    5,
+    4,
+    5,
+    7,
+    6,
+    7,
+    8,
+    5,
+    6,
+    6,
+    7,
+    7
+  ],
+  "wordFrequencies": [
+    [
+      "pilnie",
+      2
+    ],
+    [
+      "mówię",
+      2
+    ],
+    [
+      "pytam",
+      2
+    ],
+    [
+      "męskość",
+      1
+    ],
+    [
+      "polega",
+      1
+    ],
+    [
+      "bić",
+      1
+    ],
+    [
+      "kobietę",
+      1
+    ],
+    [
+      "zgadzam",
+      1
+    ],
+    [
+      "nadstawiam",
+      1
+    ],
+    [
+      "policzek",
+      1
+    ],
+    [
+      "indziej",
+      1
+    ],
+    [
+      "klniesz",
+      1
+    ],
+    [
+      "matkę",
+      1
+    ],
+    [
+      "słucham",
+      1
+    ],
+    [
+      "przytakuję",
+      1
+    ],
+    [
+      "najczęściej",
+      1
+    ],
+    [
+      "opowiadasz",
+      1
+    ],
+    [
+      "źle",
+      1
+    ],
+    [
+      "masz",
+      1
+    ],
+    [
+      "rację",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 1,
+    "period": 0,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 1,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 2,
+  "negationWords": [
+    "nie"
+  ],
+  "pronounDistribution": {
+    "ja": 3,
+    "ty": 3,
+    "on_ona": 0,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 1,
+    "smierc": 0,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 1,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [
+    [
+      "kiedy",
+      4
+    ]
+  ],
+  "firstWord": "męskość",
+  "lastWord": "wdowa",
+  "avgWordLength": 5.13,
+  "wordLengthDistribution": {
+    "6-7": 22,
+    "1-3": 29,
+    "4-5": 19,
+    "10+": 6,
+    "8-9": 10
+  },
+  "bigrams": [
+    [
+      "męskość polega",
+      1
+    ],
+    [
+      "aby bić",
+      1
+    ],
+    [
+      "bić kobietę",
+      1
+    ],
+    [
+      "kobietę zgadzam",
+      1
+    ],
+    [
+      "tobą nadstawiam",
+      1
+    ],
+    [
+      "nadstawiam policzek",
+      1
+    ]
+  ],
+  "poemWords": [
+    "męskość",
+    "polega",
+    "bić",
+    "kobietę",
+    "zgadzam",
+    "nadstawiam",
+    "policzek",
+    "indziej",
+    "klniesz",
+    "matkę",
+    "słucham",
+    "pilnie",
+    "przytakuję",
+    "najczęściej",
+    "opowiadasz",
+    "źle",
+    "mówię",
+    "masz",
+    "rację",
+    "powtórzą",
+    "najlepszej",
+    "wierze",
+    "rozbiorę",
+    "śmiejesz",
+    "małych",
+    "piersi",
+    "chudych",
+    "drwić",
+    "pozwalam",
+    "śmieję",
+    "blizna",
+    "wyrostku",
+    "wstrętna",
+    "odchodzisz",
+    "pytam",
+    "wrócisz",
+    "wracasz",
+    "gdzieś",
+    "dziwisz",
+    "kocham",
+    "znaczy",
+    "zawczasu",
+    "wdowa"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 12,
+        "VERB": 26,
+        "ADJ": 5,
+        "ADV": 13,
+        "PRON": 13,
+        "ADP": 6,
+        "CCONJ": 1,
+        "SCONJ": 3,
+        "INTJ": 0,
+        "PART": 5,
+        "DET": 1,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.138,
+        "VERB": 0.299,
+        "ADJ": 0.057,
+        "ADV": 0.149,
+        "PRON": 0.149,
+        "ADP": 0.069,
+        "CCONJ": 0.011,
+        "SCONJ": 0.034,
+        "INTJ": 0,
+        "PART": 0.057,
+        "DET": 0.011,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 1,
+        "abstract": 0,
+        "ratio": 1
+      },
+      "verbTenses": {
+        "present": 20,
+        "infinitive": 2,
+        "future": 3,
+        "past": 3
+      },
+      "verbSemantics": {
+        "ruch": 1,
+        "percepcja": 1,
+        "stan": 2,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 4,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 1,
+        "opisowe": 4
+      },
+      "adverbs": {
+        "temporalne": [],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "kiedy",
+            "count": 6
+          },
+          {
+            "word": "pilnie",
+            "count": 2
+          },
+          {
+            "word": "indziej",
+            "count": 1
+          },
+          {
+            "word": "najczęściej",
+            "count": 1
+          },
+          {
+            "word": "źle",
+            "count": 1
+          },
+          {
+            "word": "gdzieś",
+            "count": 1
+          },
+          {
+            "word": "gdy",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 3,
+        "ty": 3,
+        "on_ona": 0,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 2,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 2,
+        "percentSentences": 0.25
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 189,
+        "consonants": 261,
+        "ratio": 0.72
+      },
+      "consonantClusters": {
+        "count": 13,
+        "top": [
+          {
+            "cluster": "prz",
+            "count": 2
+          },
+          {
+            "cluster": "dst",
+            "count": 1
+          },
+          {
+            "cluster": "ndz",
+            "count": 1
+          },
+          {
+            "cluster": "kln",
+            "count": 1
+          },
+          {
+            "cluster": "jcz",
+            "count": 1
+          },
+          {
+            "cluster": "psz",
+            "count": 1
+          },
+          {
+            "cluster": "drw",
+            "count": 1
+          },
+          {
+            "cluster": "stk",
+            "count": 1
+          },
+          {
+            "cluster": "wstr",
+            "count": 1
+          },
+          {
+            "cluster": "dch",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 21,
+        "syczace": 47,
+        "nosowe": 57,
+        "plynne": 26
+      },
+      "rhymes": {
+        "exact": 0,
+        "approximate": 0,
+        "internal": 2,
+        "assonance": 0,
+        "alliteration": 1
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 10.9,
+        "median": 8,
+        "min": 6,
+        "max": 27,
+        "distribution": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          3,
+          2,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 5.8,
+        "meanSyllables": 12.8,
+        "distribution": [
+          0,
+          1,
+          0,
+          0,
+          1,
+          3,
+          4,
+          5,
+          1
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 8,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 0,
+        "noSubject": 4,
+        "noPredicate": 0,
+        "percent": 0.5
+      },
+      "enjambement": {
+        "count": 5,
+        "percent": 0.36,
+        "positions": [
+          3,
+          7,
+          9,
+          11,
+          12
+        ]
+      },
+      "wordOrder": {
+        "svo": 4,
+        "inversions": 0,
+        "other": 4,
+        "deviationPercent": 0.5
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 1,
+        "śmierć": 0,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 1,
+        "sacrum": 0,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 192,
+      "estimatedSeconds": 64,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 12,
+      "VERB": 26,
+      "ADJ": 5,
+      "ADV": 13,
+      "PRON": 13,
+      "ADP": 6,
+      "CCONJ": 1,
+      "SCONJ": 3,
+      "INTJ": 0,
+      "PART": 5,
+      "DET": 1,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.138,
+      "VERB": 0.299,
+      "ADJ": 0.057,
+      "ADV": 0.149,
+      "PRON": 0.149,
+      "ADP": 0.069,
+      "CCONJ": 0.011,
+      "SCONJ": 0.034,
+      "INTJ": 0,
+      "PART": 0.057,
+      "DET": 0.011,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 1,
+      "abstract": 0,
+      "ratio": 1
+    },
+    "verbTenses": {
+      "present": 20,
+      "infinitive": 2,
+      "future": 3,
+      "past": 3
+    },
+    "verbSemantics": {
+      "ruch": 1,
+      "percepcja": 1,
+      "stan": 2,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 4,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 1,
+      "opisowe": 4
+    },
+    "adverbs": {
+      "temporalne": [],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "kiedy",
+          "count": 6
+        },
+        {
+          "word": "pilnie",
+          "count": 2
+        },
+        {
+          "word": "indziej",
+          "count": 1
+        },
+        {
+          "word": "najczęściej",
+          "count": 1
+        },
+        {
+          "word": "źle",
+          "count": 1
+        },
+        {
+          "word": "gdzieś",
+          "count": 1
+        },
+        {
+          "word": "gdy",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 3,
+      "ty": 3,
+      "on_ona": 0,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 2,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 2,
+      "percentSentences": 0.25
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 10.9,
+      "median": 8,
+      "min": 6,
+      "max": 27,
+      "distribution": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        3,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 5.8,
+      "meanSyllables": 12.8,
+      "distribution": [
+        0,
+        1,
+        0,
+        0,
+        1,
+        3,
+        4,
+        5,
+        1
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 8,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 0,
+      "noSubject": 4,
+      "noPredicate": 0,
+      "percent": 0.5
+    },
+    "enjambement": {
+      "count": 5,
+      "percent": 0.36,
+      "positions": [
+        3,
+        7,
+        9,
+        11,
+        12
+      ]
+    },
+    "wordOrder": {
+      "svo": 4,
+      "inversions": 0,
+      "other": 4,
+      "deviationPercent": 0.5
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 189,
+      "consonants": 261,
+      "ratio": 0.72
+    },
+    "consonantClusters": {
+      "count": 13,
+      "top": [
+        {
+          "cluster": "prz",
+          "count": 2
+        },
+        {
+          "cluster": "dst",
+          "count": 1
+        },
+        {
+          "cluster": "ndz",
+          "count": 1
+        },
+        {
+          "cluster": "kln",
+          "count": 1
+        },
+        {
+          "cluster": "jcz",
+          "count": 1
+        },
+        {
+          "cluster": "psz",
+          "count": 1
+        },
+        {
+          "cluster": "drw",
+          "count": 1
+        },
+        {
+          "cluster": "stk",
+          "count": 1
+        },
+        {
+          "cluster": "wstr",
+          "count": 1
+        },
+        {
+          "cluster": "dch",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 21,
+      "syczace": 47,
+      "nosowe": 57,
+      "plynne": 26
+    },
+    "rhymes": {
+      "exact": 0,
+      "approximate": 0,
+      "internal": 2,
+      "assonance": 0,
+      "alliteration": 1
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        15
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 192,
+      "estimatedSeconds": 64,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "regularny",
+      "regularityScore": 0.78
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Biblia",
+          "reference": "nadstawiam policzek",
+          "evidence": "nawiązanie do ewangelicznego 'nadstaw drugi policzek'"
+        },
+        {
+          "source": "inne",
+          "reference": "tradycja literacka masochizmu kobiecego",
+          "evidence": "motyw samoumniejszania się kobiety w miłości"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.2,
+        "baudelaire": 0.1,
+        "bursa": 0.8,
+        "stachura": 0.3,
+        "grochowiak": 0.7,
+        "bialoszewski": 0.4,
+        "rozewicz": 0.6
+      }
+    },
+    "space": {
+      "type": "zamknieta",
+      "evidence": "przestrzeń intymna relacji dwojga, brak konkretnych miejsc, skupienie na ciele",
+      "openClosedRatio": 0.2
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "nieokreslona",
+      "evidence": "brak wskaźników temporalnych, uniwersalny czas relacji"
+    },
+    "motion": {
+      "movement": 3,
+      "stillness": 7,
+      "dynamism": 0.3,
+      "evidence": "statyczne sceny: 'słucham', 'mówię', dominuje bierność podmiotu"
+    },
+    "imageryDensity": {
+      "metaphors": 2,
+      "comparisons": 0,
+      "personifications": 0,
+      "hyperboles": 1,
+      "per100words": 3.5
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.9,
+      "creationLevel": 0.8,
+      "ironicDistance": 0.3,
+      "autobiographicSignals": [
+        "intymne szczegóły ciała",
+        "konkretność sytuacji",
+        "bezpośredniość wyznania",
+        "szczerość w opisie relacji"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "rezygnacja",
+      "secondary": "melancholia",
+      "intensity": 0.9
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "nadstawiam policzek, Słucham pilnie, A ja Ci drwić pozwalam"
+    },
+    "addressee": {
+      "type": "ty",
+      "evidence": "Zgadzam się z Tobą, Kiedy indziej klniesz, A ja Ci drwić pozwalam"
+    },
+    "metaphors": [
+      {
+        "source": "miłość",
+        "target": "wdowieństwo",
+        "example": "jestem już zawczasu wdowa"
+      },
+      {
+        "source": "związek",
+        "target": "przemoc",
+        "example": "Męskość polega na tym aby bić kobietę"
+      }
+    ],
+    "temperature": {
+      "value": 0.1,
+      "label": "lodowata rezygnacja"
+    },
+    "senses": {
+      "wzrok": 4,
+      "sluch": 3,
+      "dotyk": 5,
+      "smak": 0,
+      "zapach": 0
+    },
+    "autodestruction": {
+      "level": 0.95,
+      "signals": [
+        "nadstawiam policzek",
+        "pozwalam drwić z ciała",
+        "akceptuję przemoc psychiczną",
+        "nazywam to miłością"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 1.259,
+    "dfaAlpha": 1.196,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -1.445185878948082
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -1.1011474229045548
+      }
+    ],
+    "seriesLength": 14,
+    "series": [
+      7,
+      6,
+      5,
+      4,
+      5,
+      7,
+      6,
+      7,
+      8,
+      5,
+      6,
+      6,
+      7,
+      7
+    ]
+  }
+}

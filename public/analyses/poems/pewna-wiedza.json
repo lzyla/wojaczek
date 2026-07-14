@@ -1,0 +1,908 @@
+{
+  "id": "pewna-wiedza",
+  "title": "Pewna wiedza",
+  "wordCount": 87,
+  "lineCount": 12,
+  "uniqueWords": 75,
+  "vocabularyRichness": 0.862,
+  "avgWordsPerLine": 7.25,
+  "wordsPerLineDistribution": [
+    8,
+    9,
+    7,
+    7,
+    8,
+    7,
+    6,
+    7,
+    6,
+    9,
+    6,
+    7
+  ],
+  "wordFrequencies": [
+    [
+      "dłoń",
+      2
+    ],
+    [
+      "gwiazda",
+      2
+    ],
+    [
+      "ciała",
+      2
+    ],
+    [
+      "najpierw",
+      1
+    ],
+    [
+      "oko",
+      1
+    ],
+    [
+      "gwiazdę",
+      1
+    ],
+    [
+      "rodzi",
+      1
+    ],
+    [
+      "wieczór",
+      1
+    ],
+    [
+      "krew",
+      1
+    ],
+    [
+      "gwieździe",
+      1
+    ],
+    [
+      "daleko",
+      1
+    ],
+    [
+      "mieszka",
+      1
+    ],
+    [
+      "oficyną",
+      1
+    ],
+    [
+      "krwi",
+      1
+    ],
+    [
+      "posyłasz",
+      1
+    ],
+    [
+      "odręczny",
+      1
+    ],
+    [
+      "puszczasz",
+      1
+    ],
+    [
+      "list",
+      1
+    ],
+    [
+      "pozna",
+      1
+    ],
+    [
+      "smaku",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 3,
+    "period": 9,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 7,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 1,
+  "negationWords": [
+    "nie"
+  ],
+  "pronounDistribution": {
+    "ja": 2,
+    "ty": 3,
+    "on_ona": 0,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 4,
+    "smierc": 1,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 2,
+    "bol": 0
+  },
+  "anaphors": [
+    [
+      "wiem",
+      5
+    ]
+  ],
+  "firstWord": "wiem",
+  "lastWord": "śmierci",
+  "avgWordLength": 5.09,
+  "wordLengthDistribution": {
+    "4-5": 35,
+    "8-9": 9,
+    "1-3": 19,
+    "6-7": 21,
+    "10+": 3
+  },
+  "bigrams": [
+    [
+      "wiem najpierw",
+      1
+    ],
+    [
+      "najpierw oko",
+      1
+    ],
+    [
+      "oko gwiazdę",
+      1
+    ],
+    [
+      "gwiazdę rodzi",
+      1
+    ],
+    [
+      "każdy wieczór",
+      1
+    ],
+    [
+      "wieczór wiem",
+      1
+    ],
+    [
+      "wiem potem",
+      1
+    ],
+    [
+      "potem krew",
+      1
+    ]
+  ],
+  "poemWords": [
+    "najpierw",
+    "oko",
+    "gwiazdę",
+    "rodzi",
+    "wieczór",
+    "krew",
+    "gwieździe",
+    "daleko",
+    "mieszka",
+    "oficyną",
+    "krwi",
+    "dłoń",
+    "posyłasz",
+    "odręczny",
+    "puszczasz",
+    "list",
+    "pozna",
+    "smaku",
+    "dłoni",
+    "gwiazda",
+    "spada",
+    "przygważdża",
+    "ziemi",
+    "widzę",
+    "leży",
+    "przejrzysta",
+    "cień",
+    "rękawiczki",
+    "jawnie",
+    "dopala",
+    "linii",
+    "życia",
+    "leżąc",
+    "koleinie",
+    "poziomego",
+    "ciała",
+    "czujesz",
+    "mróz",
+    "skuwa",
+    "wschód",
+    "zachodem",
+    "drugą",
+    "dłonią",
+    "sprzed",
+    "oczu",
+    "odsuniesz",
+    "powiekę",
+    "nieba",
+    "ujrzysz",
+    "czarną",
+    "różę",
+    "śmierci"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 30,
+        "VERB": 20,
+        "ADJ": 6,
+        "ADV": 5,
+        "PRON": 5,
+        "ADP": 8,
+        "CCONJ": 1,
+        "SCONJ": 2,
+        "INTJ": 0,
+        "PART": 2,
+        "DET": 7,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.337,
+        "VERB": 0.225,
+        "ADJ": 0.067,
+        "ADV": 0.056,
+        "PRON": 0.056,
+        "ADP": 0.09,
+        "CCONJ": 0.011,
+        "SCONJ": 0.022,
+        "INTJ": 0,
+        "PART": 0.022,
+        "DET": 0.079,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 5,
+        "abstract": 2,
+        "ratio": 0.71
+      },
+      "verbTenses": {
+        "future": 2,
+        "present": 19
+      },
+      "verbSemantics": {
+        "ruch": 1,
+        "percepcja": 2,
+        "stan": 4,
+        "destrukcja": 0,
+        "tworzenie": 1,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 1,
+        "oceniajace": 0,
+        "opisowe": 5
+      },
+      "adverbs": {
+        "temporalne": [
+          "potem"
+        ],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "najpierw",
+            "count": 1
+          },
+          {
+            "word": "potem",
+            "count": 1
+          },
+          {
+            "word": "tak",
+            "count": 1
+          },
+          {
+            "word": "daleko",
+            "count": 1
+          },
+          {
+            "word": "jawnie",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 1,
+        "ty": 2,
+        "on_ona": 0,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 1,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 1,
+        "percentSentences": 0.09
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 189,
+        "consonants": 265,
+        "ratio": 0.71
+      },
+      "consonantClusters": {
+        "count": 13,
+        "top": [
+          {
+            "cluster": "prz",
+            "count": 2
+          },
+          {
+            "cluster": "jrz",
+            "count": 2
+          },
+          {
+            "cluster": "źdz",
+            "count": 1
+          },
+          {
+            "cluster": "szk",
+            "count": 1
+          },
+          {
+            "cluster": "krw",
+            "count": 1
+          },
+          {
+            "cluster": "czn",
+            "count": 1
+          },
+          {
+            "cluster": "szcz",
+            "count": 1
+          },
+          {
+            "cluster": "żdż",
+            "count": 1
+          },
+          {
+            "cluster": "czk",
+            "count": 1
+          },
+          {
+            "cluster": "wsch",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 28,
+        "syczace": 36,
+        "nosowe": 47,
+        "plynne": 31
+      },
+      "rhymes": {
+        "exact": 1,
+        "approximate": 0,
+        "internal": 1,
+        "assonance": 1,
+        "alliteration": 2
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 8.1,
+        "median": 8,
+        "min": 0,
+        "max": 15,
+        "distribution": [
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          2,
+          2,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 6.8,
+        "meanSyllables": 14.8,
+        "distribution": [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          3,
+          5,
+          2,
+          2
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 11,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 0,
+        "noSubject": 4,
+        "noPredicate": 0,
+        "percent": 0.36
+      },
+      "enjambement": {
+        "count": 3,
+        "percent": 0.25,
+        "positions": [
+          4,
+          10,
+          12
+        ]
+      },
+      "wordOrder": {
+        "svo": 2,
+        "inversions": 4,
+        "other": 4,
+        "deviationPercent": 0.8
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 7,
+        "śmierć": 2,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 2,
+        "ból": 0
+      },
+      "oppositionsFound": [
+        "życie/śmierć"
+      ]
+    },
+    "tempo": {
+      "syllables": 193,
+      "estimatedSeconds": 64,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 30,
+      "VERB": 20,
+      "ADJ": 6,
+      "ADV": 5,
+      "PRON": 5,
+      "ADP": 8,
+      "CCONJ": 1,
+      "SCONJ": 2,
+      "INTJ": 0,
+      "PART": 2,
+      "DET": 7,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.337,
+      "VERB": 0.225,
+      "ADJ": 0.067,
+      "ADV": 0.056,
+      "PRON": 0.056,
+      "ADP": 0.09,
+      "CCONJ": 0.011,
+      "SCONJ": 0.022,
+      "INTJ": 0,
+      "PART": 0.022,
+      "DET": 0.079,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 5,
+      "abstract": 2,
+      "ratio": 0.71
+    },
+    "verbTenses": {
+      "future": 2,
+      "present": 19
+    },
+    "verbSemantics": {
+      "ruch": 1,
+      "percepcja": 2,
+      "stan": 4,
+      "destrukcja": 0,
+      "tworzenie": 1,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 1,
+      "oceniajace": 0,
+      "opisowe": 5
+    },
+    "adverbs": {
+      "temporalne": [
+        "potem"
+      ],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "najpierw",
+          "count": 1
+        },
+        {
+          "word": "potem",
+          "count": 1
+        },
+        {
+          "word": "tak",
+          "count": 1
+        },
+        {
+          "word": "daleko",
+          "count": 1
+        },
+        {
+          "word": "jawnie",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 1,
+      "ty": 2,
+      "on_ona": 0,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 1,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 1,
+      "percentSentences": 0.09
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 8.1,
+      "median": 8,
+      "min": 0,
+      "max": 15,
+      "distribution": [
+        1,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        2,
+        2,
+        1,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 6.8,
+      "meanSyllables": 14.8,
+      "distribution": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        3,
+        5,
+        2,
+        2
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 11,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 0,
+      "noSubject": 4,
+      "noPredicate": 0,
+      "percent": 0.36
+    },
+    "enjambement": {
+      "count": 3,
+      "percent": 0.25,
+      "positions": [
+        4,
+        10,
+        12
+      ]
+    },
+    "wordOrder": {
+      "svo": 2,
+      "inversions": 4,
+      "other": 4,
+      "deviationPercent": 0.8
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 189,
+      "consonants": 265,
+      "ratio": 0.71
+    },
+    "consonantClusters": {
+      "count": 13,
+      "top": [
+        {
+          "cluster": "prz",
+          "count": 2
+        },
+        {
+          "cluster": "jrz",
+          "count": 2
+        },
+        {
+          "cluster": "źdz",
+          "count": 1
+        },
+        {
+          "cluster": "szk",
+          "count": 1
+        },
+        {
+          "cluster": "krw",
+          "count": 1
+        },
+        {
+          "cluster": "czn",
+          "count": 1
+        },
+        {
+          "cluster": "szcz",
+          "count": 1
+        },
+        {
+          "cluster": "żdż",
+          "count": 1
+        },
+        {
+          "cluster": "czk",
+          "count": 1
+        },
+        {
+          "cluster": "wsch",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 28,
+      "syczace": 36,
+      "nosowe": 47,
+      "plynne": 31
+    },
+    "rhymes": {
+      "exact": 1,
+      "approximate": 0,
+      "internal": 1,
+      "assonance": 1,
+      "alliteration": 2
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        13
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 193,
+      "estimatedSeconds": 64,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "regularny",
+      "regularityScore": 0.77
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "mitologia",
+          "reference": "gwiazda jako symbol boski/kosmiczny",
+          "evidence": "oko gwiazdę rodzi w każdy wieczór"
+        },
+        {
+          "source": "Biblia",
+          "reference": "motyw Wschodu i Zachodu jako granic świata",
+          "evidence": "mróz ci skuwa Wschód z Zachodem ciała"
+        },
+        {
+          "source": "inne",
+          "reference": "chiromancja - linia życia",
+          "evidence": "Gwiazda jawnie dopala się na linii życia"
+        },
+        {
+          "source": "inne",
+          "reference": "symbolika róży w poezji miłosnej i śmierci",
+          "evidence": "czarną różę swojej śmierci"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.7,
+        "baudelaire": 0.6,
+        "bursa": 0.2,
+        "stachura": 0.3,
+        "grochowiak": 0.4,
+        "bialoszewski": 0.1,
+        "rozewicz": 0.2
+      }
+    },
+    "space": {
+      "type": "otwarta",
+      "evidence": "przestrzeń kosmiczna (gwiazda, niebo) i ziemska (ziemia, koleina), Wschód-Zachód",
+      "openClosedRatio": 0.8
+    },
+    "timeOfDay": {
+      "period": "wieczor",
+      "season": "nieokreslona",
+      "evidence": "oko gwiazdę rodzi w każdy wieczór, mróz sugeruje chłód"
+    },
+    "motion": {
+      "movement": 7,
+      "stillness": 4,
+      "dynamism": 0.7,
+      "evidence": "gwiazda spada i przygważdża, dopala się, posyłanie dłoni, odsunięcie powieki"
+    },
+    "imageryDensity": {
+      "metaphors": 8,
+      "comparisons": 2,
+      "personifications": 4,
+      "hyperboles": 2,
+      "per100words": 16
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.8,
+      "creationLevel": 0.7,
+      "ironicDistance": 0.1,
+      "autobiographicSignals": [
+        "bezpośrednie zwroty do 'ty'",
+        "intymny ton",
+        "wizja własnej śmierci",
+        "repetycja 'Wiem'"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "melancholia",
+      "secondary": "tęsknota",
+      "intensity": 0.8
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "Powtarzające się 'Wiem:', pierwszoosobowe formy czasowników 'Widzę', bezpośrednie zwracanie się do adresata"
+    },
+    "addressee": {
+      "type": "ty",
+      "evidence": "Bezpośrednie zwroty 'ty, co oficyną jesteś', 'czujesz jak mróz', 'odsuniesz powiekę'"
+    },
+    "metaphors": [
+      {
+        "source": "oko",
+        "target": "stwarzanie gwiazdy",
+        "example": "oko gwiazdę rodzi w każdy wieczór"
+      },
+      {
+        "source": "człowiek",
+        "target": "oficyna krwi",
+        "example": "ty, co oficyną jesteś swojej krwi"
+      },
+      {
+        "source": "gwiazda",
+        "target": "życie/śmierć",
+        "example": "Gwiazda jawnie dopala się na linii życia"
+      },
+      {
+        "source": "czarna róża",
+        "target": "śmierć",
+        "example": "ujrzysz czarną różę swojej śmierci"
+      }
+    ],
+    "temperature": {
+      "value": 0.3,
+      "label": "chłodne kontemplowanie nieuchronności"
+    },
+    "senses": {
+      "wzrok": 5,
+      "sluch": 0,
+      "dotyk": 4,
+      "smak": 2,
+      "zapach": 0
+    },
+    "autodestruction": {
+      "level": 0.7,
+      "signals": [
+        "wizja spadającej gwiazdy jako symbol śmierci",
+        "obraz gwiazdy dopalającej się na linii życia",
+        "apokaliptyczna wizja czarnej róży śmierci",
+        "akceptacja niemożności dotknięcia ukochanej osoby"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 1.052,
+    "dfaAlpha": 1.702,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -1.2220423276338725
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -0.732477407412776
+      }
+    ],
+    "seriesLength": 12,
+    "series": [
+      8,
+      9,
+      7,
+      7,
+      8,
+      7,
+      6,
+      7,
+      6,
+      9,
+      6,
+      7
+    ]
+  }
+}

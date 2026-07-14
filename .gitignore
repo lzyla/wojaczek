@@ -23,5 +23,15 @@ backend/staticfiles/
 *.png
 *.jpg
 *.mp3
+!public/images/
+!public/images/**
+!public/audio/
+!public/audio/**
+!public/icon-*.png
+!public/icons/
+!public/icons/**
 widoki/
+output/
 opis.txt
+.vercel
+.env*.local

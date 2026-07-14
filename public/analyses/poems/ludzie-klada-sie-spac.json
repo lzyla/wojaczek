@@ -1,0 +1,884 @@
+{
+  "id": "ludzie-klada-sie-spac",
+  "title": "Ludzie kładą się spać",
+  "wordCount": 52,
+  "lineCount": 14,
+  "uniqueWords": 49,
+  "vocabularyRichness": 0.942,
+  "avgWordsPerLine": 3.71,
+  "wordsPerLineDistribution": [
+    4,
+    5,
+    3,
+    4,
+    4,
+    2,
+    4,
+    5,
+    4,
+    3,
+    5,
+    2,
+    3,
+    4
+  ],
+  "wordFrequencies": [
+    [
+      "ludzie",
+      1
+    ],
+    [
+      "kładą",
+      1
+    ],
+    [
+      "spać",
+      1
+    ],
+    [
+      "snem",
+      1
+    ],
+    [
+      "dobrze",
+      1
+    ],
+    [
+      "zjeść",
+      1
+    ],
+    [
+      "jabłko",
+      1
+    ],
+    [
+      "książę",
+      1
+    ],
+    [
+      "akwitanii",
+      1
+    ],
+    [
+      "wspinam",
+      1
+    ],
+    [
+      "drzewo",
+      1
+    ],
+    [
+      "najlepszym",
+      1
+    ],
+    [
+      "wyjściowym",
+      1
+    ],
+    [
+      "ubraniu",
+      1
+    ],
+    [
+      "podglądam",
+      1
+    ],
+    [
+      "sąsiadkę",
+      1
+    ],
+    [
+      "rozbierającą",
+      1
+    ],
+    [
+      "snu",
+      1
+    ],
+    [
+      "dżuma",
+      1
+    ],
+    [
+      "zniosła",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 0,
+    "period": 0,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 0,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 0,
+  "negationWords": [],
+  "pronounDistribution": {
+    "ja": 1,
+    "ty": 0,
+    "on_ona": 0,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 1,
+    "smierc": 0,
+    "erotyka": 1,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [],
+  "firstWord": "ludzie",
+  "lastWord": "drzewa",
+  "avgWordLength": 5.58,
+  "wordLengthDistribution": {
+    "6-7": 16,
+    "4-5": 13,
+    "1-3": 13,
+    "8-9": 5,
+    "10+": 5
+  },
+  "bigrams": [
+    [
+      "ludzie kładą",
+      1
+    ],
+    [
+      "snem dobrze",
+      1
+    ],
+    [
+      "dobrze zjeść",
+      1
+    ],
+    [
+      "zjeść jabłko",
+      1
+    ],
+    [
+      "książę akwitanii",
+      1
+    ],
+    [
+      "akwitanii wspinam",
+      1
+    ]
+  ],
+  "poemWords": [
+    "ludzie",
+    "kładą",
+    "spać",
+    "snem",
+    "dobrze",
+    "zjeść",
+    "jabłko",
+    "książę",
+    "akwitanii",
+    "wspinam",
+    "drzewo",
+    "najlepszym",
+    "wyjściowym",
+    "ubraniu",
+    "podglądam",
+    "sąsiadkę",
+    "rozbierającą",
+    "snu",
+    "dżuma",
+    "zniosła",
+    "sądy",
+    "wartościujące",
+    "powiada",
+    "francuz",
+    "szalony",
+    "lewa",
+    "pierś",
+    "sąsiadki",
+    "większa",
+    "prawej",
+    "zwichnięta",
+    "symetria",
+    "spadłem",
+    "drzewa"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 13,
+        "VERB": 8,
+        "ADJ": 9,
+        "ADV": 3,
+        "PRON": 4,
+        "ADP": 6,
+        "CCONJ": 0,
+        "SCONJ": 0,
+        "INTJ": 0,
+        "PART": 4,
+        "DET": 0,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.25,
+        "VERB": 0.154,
+        "ADJ": 0.173,
+        "ADV": 0.058,
+        "PRON": 0.077,
+        "ADP": 0.115,
+        "CCONJ": 0,
+        "SCONJ": 0,
+        "INTJ": 0,
+        "PART": 0.077,
+        "DET": 0,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 3,
+        "abstract": 1,
+        "ratio": 0.75
+      },
+      "verbTenses": {
+        "present": 5,
+        "infinitive": 2,
+        "past": 2
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 2,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 1,
+        "opisowe": 8
+      },
+      "adverbs": {
+        "temporalne": [
+          "potem"
+        ],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "dobrze",
+            "count": 1
+          },
+          {
+            "word": "nieco",
+            "count": 1
+          },
+          {
+            "word": "potem",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 1,
+        "ty": 0,
+        "on_ona": 0,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 0,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 0,
+        "percentSentences": 0
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 121,
+        "consonants": 169,
+        "ratio": 0.72
+      },
+      "consonantClusters": {
+        "count": 11,
+        "top": [
+          {
+            "cluster": "drz",
+            "count": 2
+          },
+          {
+            "cluster": "prz",
+            "count": 1
+          },
+          {
+            "cluster": "brz",
+            "count": 1
+          },
+          {
+            "cluster": "błk",
+            "count": 1
+          },
+          {
+            "cluster": "wsp",
+            "count": 1
+          },
+          {
+            "cluster": "psz",
+            "count": 1
+          },
+          {
+            "cluster": "jśc",
+            "count": 1
+          },
+          {
+            "cluster": "dgl",
+            "count": 1
+          },
+          {
+            "cluster": "ksz",
+            "count": 1
+          },
+          {
+            "cluster": "chn",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 11,
+        "syczace": 37,
+        "nosowe": 40,
+        "plynne": 22
+      },
+      "rhymes": {
+        "exact": 0,
+        "approximate": 0,
+        "internal": 0,
+        "assonance": 0,
+        "alliteration": 1
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 17.3,
+        "median": 11,
+        "min": 9,
+        "max": 32,
+        "distribution": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 3.7,
+        "meanSyllables": 8.8,
+        "distribution": [
+          0,
+          0,
+          2,
+          3,
+          6,
+          3
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 3,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 0,
+        "noSubject": 0,
+        "noPredicate": 0,
+        "percent": 0
+      },
+      "enjambement": {
+        "count": 6,
+        "percent": 0.46,
+        "positions": [
+          3,
+          4,
+          6,
+          8,
+          10,
+          12
+        ]
+      },
+      "wordOrder": {
+        "svo": 2,
+        "inversions": 1,
+        "other": 0,
+        "deviationPercent": 0.33
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 1,
+        "śmierć": 0,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 123,
+      "estimatedSeconds": 41,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 13,
+      "VERB": 8,
+      "ADJ": 9,
+      "ADV": 3,
+      "PRON": 4,
+      "ADP": 6,
+      "CCONJ": 0,
+      "SCONJ": 0,
+      "INTJ": 0,
+      "PART": 4,
+      "DET": 0,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.25,
+      "VERB": 0.154,
+      "ADJ": 0.173,
+      "ADV": 0.058,
+      "PRON": 0.077,
+      "ADP": 0.115,
+      "CCONJ": 0,
+      "SCONJ": 0,
+      "INTJ": 0,
+      "PART": 0.077,
+      "DET": 0,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 3,
+      "abstract": 1,
+      "ratio": 0.75
+    },
+    "verbTenses": {
+      "present": 5,
+      "infinitive": 2,
+      "past": 2
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 2,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 1,
+      "opisowe": 8
+    },
+    "adverbs": {
+      "temporalne": [
+        "potem"
+      ],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "dobrze",
+          "count": 1
+        },
+        {
+          "word": "nieco",
+          "count": 1
+        },
+        {
+          "word": "potem",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 1,
+      "ty": 0,
+      "on_ona": 0,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 0,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 0,
+      "percentSentences": 0
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 17.3,
+      "median": 11,
+      "min": 9,
+      "max": 32,
+      "distribution": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 3.7,
+      "meanSyllables": 8.8,
+      "distribution": [
+        0,
+        0,
+        2,
+        3,
+        6,
+        3
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 3,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 0,
+      "noSubject": 0,
+      "noPredicate": 0,
+      "percent": 0
+    },
+    "enjambement": {
+      "count": 6,
+      "percent": 0.46,
+      "positions": [
+        3,
+        4,
+        6,
+        8,
+        10,
+        12
+      ]
+    },
+    "wordOrder": {
+      "svo": 2,
+      "inversions": 1,
+      "other": 0,
+      "deviationPercent": 0.33
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 121,
+      "consonants": 169,
+      "ratio": 0.72
+    },
+    "consonantClusters": {
+      "count": 11,
+      "top": [
+        {
+          "cluster": "drz",
+          "count": 2
+        },
+        {
+          "cluster": "prz",
+          "count": 1
+        },
+        {
+          "cluster": "brz",
+          "count": 1
+        },
+        {
+          "cluster": "błk",
+          "count": 1
+        },
+        {
+          "cluster": "wsp",
+          "count": 1
+        },
+        {
+          "cluster": "psz",
+          "count": 1
+        },
+        {
+          "cluster": "jśc",
+          "count": 1
+        },
+        {
+          "cluster": "dgl",
+          "count": 1
+        },
+        {
+          "cluster": "ksz",
+          "count": 1
+        },
+        {
+          "cluster": "chn",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 11,
+      "syczace": 37,
+      "nosowe": 40,
+      "plynne": 22
+    },
+    "rhymes": {
+      "exact": 0,
+      "approximate": 0,
+      "internal": 0,
+      "assonance": 0,
+      "alliteration": 1
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        14
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 123,
+      "estimatedSeconds": 41,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "polregularny",
+      "regularityScore": 0.67
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Rimbaud",
+          "reference": "książę Akwitanii",
+          "evidence": "nawiązanie do wiersza Rimbauda 'Chanson de la plus haute tour' - 'Je suis de race inférieure de toute éternité'"
+        },
+        {
+          "source": "inne",
+          "reference": "dżuma i sądy wartościujące",
+          "evidence": "możliwe nawiązanie do Camusa 'Dżuma' lub filozofii egzystencjalnej"
+        },
+        {
+          "source": "inne",
+          "reference": "inny Francuz też szalony",
+          "evidence": "aluzja do tradycji francuskich poetów przeklętych"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.9,
+        "baudelaire": 0.3,
+        "bursa": 0.1,
+        "stachura": 0.2,
+        "grochowiak": 0.1,
+        "bialoszewski": 0.4,
+        "rozewicz": 0.2
+      }
+    },
+    "space": {
+      "type": "otwarta",
+      "evidence": "wspinaczka na drzewo, podglądanie przez okno, przestrzeń sąsiedzka",
+      "openClosedRatio": 0.7
+    },
+    "timeOfDay": {
+      "period": "wieczor",
+      "season": "nieokreslona",
+      "evidence": "Ludzie kładą się spać, rozbieranie do snu"
+    },
+    "motion": {
+      "movement": 8,
+      "stillness": 2,
+      "dynamism": 0.8,
+      "evidence": "wspinanie się na drzewo, spadnięcie z drzewa, dynamiczna akcja podglądania"
+    },
+    "imageryDensity": {
+      "metaphors": 2,
+      "comparisons": 1,
+      "personifications": 0,
+      "hyperboles": 1,
+      "per100words": 5.3
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.8,
+      "creationLevel": 0.7,
+      "ironicDistance": 0.6,
+      "autobiographicSignals": [
+        "ja książę Akwitanii",
+        "wspinam się",
+        "podglądam",
+        "spadłem"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "ironia",
+      "secondary": "melancholia",
+      "intensity": 0.7
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "Ja książę Akwitanii / wspinam się na drzewo"
+    },
+    "addressee": {
+      "type": "czytelnik",
+      "evidence": "Narrator opowiada swoje doświadczenia w sposób sprawozdawczy, kierując się do odbiorcy"
+    },
+    "metaphors": [
+      {
+        "source": "książę Akwitanii",
+        "target": "podmiot liryczny",
+        "example": "Ja książę Akwitanii wspinam się na drzewo"
+      },
+      {
+        "source": "zwichnięta symetria",
+        "target": "niedoskonałość/ludzka kondycja",
+        "example": "Zwichnięta symetria / to właśnie to"
+      },
+      {
+        "source": "spadanie z drzewa",
+        "target": "upadek/porażka",
+        "example": "Potem spadłem z drzewa"
+      }
+    ],
+    "temperature": {
+      "value": 0.3,
+      "label": "chłodny dystans z ironiczną obserwacją"
+    },
+    "senses": {
+      "wzrok": 5,
+      "sluch": 0,
+      "dotyk": 1,
+      "smak": 1,
+      "zapach": 0
+    },
+    "autodestruction": {
+      "level": 0.4,
+      "signals": [
+        "wyzywające zachowanie",
+        "narażanie się na upadek",
+        "patologiczne podglądanie"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 0.602,
+    "dfaAlpha": 0.817,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -0.7520386983881371
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -0.5169610775792015
+      }
+    ],
+    "seriesLength": 14,
+    "series": [
+      4,
+      5,
+      3,
+      4,
+      4,
+      2,
+      4,
+      5,
+      4,
+      3,
+      5,
+      2,
+      3,
+      4
+    ]
+  }
+}

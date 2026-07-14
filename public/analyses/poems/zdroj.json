@@ -1,0 +1,696 @@
+{
+  "id": "zdroj",
+  "title": "Zdrój",
+  "wordCount": 32,
+  "lineCount": 4,
+  "uniqueWords": 29,
+  "vocabularyRichness": 0.906,
+  "avgWordsPerLine": 8,
+  "wordsPerLineDistribution": [
+    9,
+    9,
+    6,
+    8
+  ],
+  "wordFrequencies": [
+    [
+      "biedny",
+      2
+    ],
+    [
+      "umiesz",
+      1
+    ],
+    [
+      "prosząc",
+      1
+    ],
+    [
+      "prosić",
+      1
+    ],
+    [
+      "dać",
+      1
+    ],
+    [
+      "abyś",
+      1
+    ],
+    [
+      "musiał",
+      1
+    ],
+    [
+      "żyć",
+      1
+    ],
+    [
+      "dostaniesz",
+      1
+    ],
+    [
+      "najżywiej",
+      1
+    ],
+    [
+      "cieknącej",
+      1
+    ],
+    [
+      "księżyc",
+      1
+    ],
+    [
+      "stoi",
+      1
+    ],
+    [
+      "zenicie",
+      1
+    ],
+    [
+      "płci",
+      1
+    ],
+    [
+      "krwi",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 0,
+    "period": 0,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 2,
+    "colon": 0,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 2,
+  "negationWords": [
+    "nie"
+  ],
+  "pronounDistribution": {
+    "ja": 2,
+    "ty": 2,
+    "on_ona": 0,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 0,
+    "smierc": 0,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 1,
+    "bol": 0
+  },
+  "anaphors": [
+    [
+      "mój",
+      2
+    ]
+  ],
+  "firstWord": "mój",
+  "lastWord": "krwi",
+  "avgWordLength": 4.72,
+  "wordLengthDistribution": {
+    "1-3": 13,
+    "6-7": 8,
+    "4-5": 7,
+    "8-9": 3,
+    "10+": 1
+  },
+  "bigrams": [
+    [
+      "prosząc wciąż",
+      1
+    ],
+    [
+      "wciąż prosić",
+      1
+    ],
+    [
+      "dać wszystko",
+      1
+    ],
+    [
+      "wszystko abyś",
+      1
+    ]
+  ],
+  "poemWords": [
+    "biedny",
+    "umiesz",
+    "prosząc",
+    "prosić",
+    "dać",
+    "abyś",
+    "musiał",
+    "żyć",
+    "dostaniesz",
+    "najżywiej",
+    "cieknącej",
+    "księżyc",
+    "stoi",
+    "zenicie",
+    "płci",
+    "krwi"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 4,
+        "VERB": 8,
+        "ADJ": 4,
+        "ADV": 3,
+        "PRON": 3,
+        "ADP": 1,
+        "CCONJ": 0,
+        "SCONJ": 4,
+        "INTJ": 0,
+        "PART": 3,
+        "DET": 2,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.121,
+        "VERB": 0.242,
+        "ADJ": 0.121,
+        "ADV": 0.091,
+        "PRON": 0.091,
+        "ADP": 0.03,
+        "CCONJ": 0,
+        "SCONJ": 0.121,
+        "INTJ": 0,
+        "PART": 0.091,
+        "DET": 0.061,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 1,
+        "abstract": 0,
+        "ratio": 1
+      },
+      "verbTenses": {
+        "present": 3,
+        "infinitive": 3,
+        "past": 1,
+        "future": 1
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 2,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 2,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 0,
+        "opisowe": 4
+      },
+      "adverbs": {
+        "temporalne": [
+          "wciąż"
+        ],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "wciąż",
+            "count": 1
+          },
+          {
+            "word": "wtedy",
+            "count": 1
+          },
+          {
+            "word": "gdy",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 0,
+        "ty": 2,
+        "on_ona": 0,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 2,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 2,
+        "percentSentences": 1
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 64,
+        "consonants": 92,
+        "ratio": 0.7
+      },
+      "consonantClusters": {
+        "count": 5,
+        "top": [
+          {
+            "cluster": "zdr",
+            "count": 1
+          },
+          {
+            "cluster": "wsz",
+            "count": 1
+          },
+          {
+            "cluster": "stk",
+            "count": 1
+          },
+          {
+            "cluster": "płc",
+            "count": 1
+          },
+          {
+            "cluster": "krw",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 9,
+        "syczace": 21,
+        "nosowe": 17,
+        "plynne": 6
+      },
+      "rhymes": {
+        "exact": 0,
+        "approximate": 0,
+        "internal": 0,
+        "assonance": 0,
+        "alliteration": 0
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 16.5,
+        "median": 16,
+        "min": 10,
+        "max": 23,
+        "distribution": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 7,
+        "meanSyllables": 13.4,
+        "distribution": [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          2,
+          1
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 2,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 0,
+        "noSubject": 0,
+        "noPredicate": 0,
+        "percent": 0
+      },
+      "enjambement": {
+        "count": 0,
+        "percent": 0,
+        "positions": []
+      },
+      "wordOrder": {
+        "svo": 1,
+        "inversions": 1,
+        "other": 0,
+        "deviationPercent": 0.5
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 0,
+        "śmierć": 0,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 1,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 67,
+      "estimatedSeconds": 22,
+      "tempoCategory": "umiarkowane"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 4,
+      "VERB": 8,
+      "ADJ": 4,
+      "ADV": 3,
+      "PRON": 3,
+      "ADP": 1,
+      "CCONJ": 0,
+      "SCONJ": 4,
+      "INTJ": 0,
+      "PART": 3,
+      "DET": 2,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.121,
+      "VERB": 0.242,
+      "ADJ": 0.121,
+      "ADV": 0.091,
+      "PRON": 0.091,
+      "ADP": 0.03,
+      "CCONJ": 0,
+      "SCONJ": 0.121,
+      "INTJ": 0,
+      "PART": 0.091,
+      "DET": 0.061,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 1,
+      "abstract": 0,
+      "ratio": 1
+    },
+    "verbTenses": {
+      "present": 3,
+      "infinitive": 3,
+      "past": 1,
+      "future": 1
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 2,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 2,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 0,
+      "opisowe": 4
+    },
+    "adverbs": {
+      "temporalne": [
+        "wciąż"
+      ],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "wciąż",
+          "count": 1
+        },
+        {
+          "word": "wtedy",
+          "count": 1
+        },
+        {
+          "word": "gdy",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 0,
+      "ty": 2,
+      "on_ona": 0,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 2,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 2,
+      "percentSentences": 1
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 16.5,
+      "median": 16,
+      "min": 10,
+      "max": 23,
+      "distribution": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 7,
+      "meanSyllables": 13.4,
+      "distribution": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        2,
+        1
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 2,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 0,
+      "noSubject": 0,
+      "noPredicate": 0,
+      "percent": 0
+    },
+    "enjambement": {
+      "count": 0,
+      "percent": 0,
+      "positions": []
+    },
+    "wordOrder": {
+      "svo": 1,
+      "inversions": 1,
+      "other": 0,
+      "deviationPercent": 0.5
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 64,
+      "consonants": 92,
+      "ratio": 0.7
+    },
+    "consonantClusters": {
+      "count": 5,
+      "top": [
+        {
+          "cluster": "zdr",
+          "count": 1
+        },
+        {
+          "cluster": "wsz",
+          "count": 1
+        },
+        {
+          "cluster": "stk",
+          "count": 1
+        },
+        {
+          "cluster": "płc",
+          "count": 1
+        },
+        {
+          "cluster": "krw",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 9,
+      "syczace": 21,
+      "nosowe": 17,
+      "plynne": 6
+    },
+    "rhymes": {
+      "exact": 0,
+      "approximate": 0,
+      "internal": 0,
+      "assonance": 0,
+      "alliteration": 0
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        5
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 67,
+      "estimatedSeconds": 22,
+      "tempoCategory": "umiarkowane"
+    },
+    "regularity": {
+      "type": "polregularny",
+      "regularityScore": 0.48
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Biblia",
+          "reference": "motyw ofiary krwi i zbawienia",
+          "evidence": "Najżywiej cieknącej krwi jako dar zbawczy"
+        },
+        {
+          "source": "Rimbaud",
+          "reference": "poetyka mistycznej przemiany",
+          "evidence": "transformation through sacrifice, intense imagery"
+        },
+        {
+          "source": "mitologia",
+          "reference": "motyw źródła życia i śmierci",
+          "evidence": "tytuł ZDRÓJ jako źródło życiodajne i niszczące"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.8,
+        "baudelaire": 0.6,
+        "bursa": 0.3,
+        "stachura": 0.4,
+        "grochowiak": 0.5,
+        "bialoszewski": 0.1,
+        "rozewicz": 0.2
+      }
+    },
+    "space": {
+      "type": "nieokreslona",
+      "evidence": "brak konkretnych wskazówek przestrzennych, fokus na relacji intymnej",
+      "openClosedRatio": 0.3
+    },
+    "timeOfDay": {
+      "period": "noc",
+      "season": "nieokreslona",
+      "evidence": "Księżyc stoi w zenicie - nocna pora, moment kulminacji"
+    },
+    "motion": {
+      "movement": 7,
+      "stillness": 3,
+      "dynamism": 0.7,
+      "evidence": "dynamika ofiarowania, cieknącej krwi, ruchu ku spełnieniu"
+    },
+    "imageryDensity": {
+      "metaphors": 3,
+      "comparisons": 0,
+      "personifications": 1,
+      "hyperboles": 2,
+      "per100words": 20
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.9,
+      "creationLevel": 0.8,
+      "ironicDistance": 0.1,
+      "autobiographicSignals": [
+        "Mój biedny",
+        "intymne zwroty do adresata",
+        "osobiste wyznanie miłosne"
+      ]
+    }
+  }
+}

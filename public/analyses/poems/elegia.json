@@ -1,0 +1,847 @@
+{
+  "id": "elegia",
+  "title": "Elegia",
+  "wordCount": 84,
+  "lineCount": 14,
+  "uniqueWords": 71,
+  "vocabularyRichness": 0.845,
+  "avgWordsPerLine": 6,
+  "wordsPerLineDistribution": [
+    7,
+    5,
+    6,
+    8,
+    6,
+    6,
+    6,
+    5,
+    7,
+    5,
+    7,
+    6,
+    6,
+    4
+  ],
+  "wordFrequencies": [
+    [
+      "jedno",
+      1
+    ],
+    [
+      "zostało",
+      1
+    ],
+    [
+      "żal",
+      1
+    ],
+    [
+      "nudny",
+      1
+    ],
+    [
+      "uroczysty",
+      1
+    ],
+    [
+      "łuną",
+      1
+    ],
+    [
+      "niezapalną",
+      1
+    ],
+    [
+      "powstał",
+      1
+    ],
+    [
+      "porów",
+      1
+    ],
+    [
+      "skóry",
+      1
+    ],
+    [
+      "oczu",
+      1
+    ],
+    [
+      "dymi",
+      1
+    ],
+    [
+      "szepczemy",
+      1
+    ],
+    [
+      "matka",
+      1
+    ],
+    [
+      "przychodzi",
+      1
+    ],
+    [
+      "mówimy",
+      1
+    ],
+    [
+      "ojciec",
+      1
+    ],
+    [
+      "zjawia",
+      1
+    ],
+    [
+      "nikt",
+      1
+    ],
+    [
+      "krzyczymy",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 5,
+    "period": 6,
+    "question": 0,
+    "exclamation": 1,
+    "ellipsis": 0,
+    "dash": 4,
+    "colon": 3,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 1,
+  "negationCount": 3,
+  "negationWords": [
+    "nie",
+    "nikt"
+  ],
+  "pronounDistribution": {
+    "ja": 0,
+    "ty": 0,
+    "on_ona": 0,
+    "my": 4,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 2,
+    "smierc": 0,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 1,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 1
+  },
+  "anaphors": [],
+  "firstWord": "jedno",
+  "lastWord": "ciało",
+  "avgWordLength": 4.57,
+  "wordLengthDistribution": {
+    "4-5": 26,
+    "6-7": 15,
+    "1-3": 32,
+    "8-9": 8,
+    "10+": 3
+  },
+  "bigrams": [
+    [
+      "jedno zostało",
+      1
+    ],
+    [
+      "zostało nam",
+      1
+    ],
+    [
+      "może nudny",
+      1
+    ],
+    [
+      "łuną niezapalną",
+      1
+    ]
+  ],
+  "poemWords": [
+    "jedno",
+    "zostało",
+    "żal",
+    "nudny",
+    "uroczysty",
+    "łuną",
+    "niezapalną",
+    "powstał",
+    "porów",
+    "skóry",
+    "oczu",
+    "dymi",
+    "szepczemy",
+    "matka",
+    "przychodzi",
+    "mówimy",
+    "ojciec",
+    "zjawia",
+    "nikt",
+    "krzyczymy",
+    "polska",
+    "oczy",
+    "drwiący",
+    "wiatr",
+    "ciska",
+    "piekący",
+    "pył",
+    "kładziemy",
+    "mokrym",
+    "rowie",
+    "dawnych",
+    "okopów",
+    "przykryci",
+    "snem",
+    "brodę",
+    "krótkim",
+    "kocem",
+    "głowami",
+    "bezsennymi",
+    "lęk",
+    "oczami",
+    "wydanymi",
+    "łup",
+    "gwiazdom",
+    "zwierzamy",
+    "maryni",
+    "ciało"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 23,
+        "VERB": 11,
+        "ADJ": 10,
+        "ADV": 2,
+        "PRON": 8,
+        "ADP": 11,
+        "CCONJ": 5,
+        "SCONJ": 2,
+        "INTJ": 0,
+        "PART": 6,
+        "DET": 1,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.271,
+        "VERB": 0.129,
+        "ADJ": 0.118,
+        "ADV": 0.024,
+        "PRON": 0.094,
+        "ADP": 0.129,
+        "CCONJ": 0.059,
+        "SCONJ": 0.024,
+        "INTJ": 0,
+        "PART": 0.071,
+        "DET": 0.012,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 3,
+        "abstract": 1,
+        "ratio": 0.75
+      },
+      "verbTenses": {
+        "past": 2,
+        "present": 11,
+        "infinitive": 1,
+        "imperative": 1
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 2,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 1,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 1,
+        "oceniajace": 1,
+        "opisowe": 8
+      },
+      "adverbs": {
+        "temporalne": [],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "kiedy",
+            "count": 1
+          },
+          {
+            "word": "jak",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 0,
+        "ty": 0,
+        "on_ona": 0,
+        "my": 3,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 2,
+        "nic": 0,
+        "nikt": 1,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 3,
+        "percentSentences": 0.38
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 165,
+        "consonants": 225,
+        "ratio": 0.73
+      },
+      "consonantClusters": {
+        "count": 7,
+        "top": [
+          {
+            "cluster": "prz",
+            "count": 2
+          },
+          {
+            "cluster": "wst",
+            "count": 1
+          },
+          {
+            "cluster": "pcz",
+            "count": 1
+          },
+          {
+            "cluster": "krz",
+            "count": 1
+          },
+          {
+            "cluster": "lsk",
+            "count": 1
+          },
+          {
+            "cluster": "drw",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 14,
+        "syczace": 40,
+        "nosowe": 52,
+        "plynne": 30
+      },
+      "rhymes": {
+        "exact": 0,
+        "approximate": 1,
+        "internal": 1,
+        "assonance": 1,
+        "alliteration": 2
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 10.6,
+        "median": 8,
+        "min": 1,
+        "max": 26,
+        "distribution": [
+          0,
+          2,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 5.9,
+        "meanSyllables": 11.7,
+        "distribution": [
+          0,
+          1,
+          0,
+          0,
+          1,
+          2,
+          4,
+          6,
+          1
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 7,
+        "interrogative": 0,
+        "imperative": 1,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 2,
+        "noSubject": 2,
+        "noPredicate": 0,
+        "percent": 0.5
+      },
+      "enjambement": {
+        "count": 1,
+        "percent": 0.07,
+        "positions": [
+          4
+        ]
+      },
+      "wordOrder": {
+        "svo": 1,
+        "inversions": 3,
+        "other": 2,
+        "deviationPercent": 0.83
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 4,
+        "śmierć": 0,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 1,
+        "sacrum": 0,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 176,
+      "estimatedSeconds": 59,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 23,
+      "VERB": 11,
+      "ADJ": 10,
+      "ADV": 2,
+      "PRON": 8,
+      "ADP": 11,
+      "CCONJ": 5,
+      "SCONJ": 2,
+      "INTJ": 0,
+      "PART": 6,
+      "DET": 1,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.271,
+      "VERB": 0.129,
+      "ADJ": 0.118,
+      "ADV": 0.024,
+      "PRON": 0.094,
+      "ADP": 0.129,
+      "CCONJ": 0.059,
+      "SCONJ": 0.024,
+      "INTJ": 0,
+      "PART": 0.071,
+      "DET": 0.012,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 3,
+      "abstract": 1,
+      "ratio": 0.75
+    },
+    "verbTenses": {
+      "past": 2,
+      "present": 11,
+      "infinitive": 1,
+      "imperative": 1
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 2,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 1,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 1,
+      "oceniajace": 1,
+      "opisowe": 8
+    },
+    "adverbs": {
+      "temporalne": [],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "kiedy",
+          "count": 1
+        },
+        {
+          "word": "jak",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 0,
+      "ty": 0,
+      "on_ona": 0,
+      "my": 3,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 2,
+      "nic": 0,
+      "nikt": 1,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 3,
+      "percentSentences": 0.38
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 10.6,
+      "median": 8,
+      "min": 1,
+      "max": 26,
+      "distribution": [
+        0,
+        2,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 5.9,
+      "meanSyllables": 11.7,
+      "distribution": [
+        0,
+        1,
+        0,
+        0,
+        1,
+        2,
+        4,
+        6,
+        1
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 7,
+      "interrogative": 0,
+      "imperative": 1,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 2,
+      "noSubject": 2,
+      "noPredicate": 0,
+      "percent": 0.5
+    },
+    "enjambement": {
+      "count": 1,
+      "percent": 0.07,
+      "positions": [
+        4
+      ]
+    },
+    "wordOrder": {
+      "svo": 1,
+      "inversions": 3,
+      "other": 2,
+      "deviationPercent": 0.83
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 165,
+      "consonants": 225,
+      "ratio": 0.73
+    },
+    "consonantClusters": {
+      "count": 7,
+      "top": [
+        {
+          "cluster": "prz",
+          "count": 2
+        },
+        {
+          "cluster": "wst",
+          "count": 1
+        },
+        {
+          "cluster": "pcz",
+          "count": 1
+        },
+        {
+          "cluster": "krz",
+          "count": 1
+        },
+        {
+          "cluster": "lsk",
+          "count": 1
+        },
+        {
+          "cluster": "drw",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 14,
+      "syczace": 40,
+      "nosowe": 52,
+      "plynne": 30
+    },
+    "rhymes": {
+      "exact": 0,
+      "approximate": 1,
+      "internal": 1,
+      "assonance": 1,
+      "alliteration": 2
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        15
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 176,
+      "estimatedSeconds": 59,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "regularny",
+      "regularityScore": 0.78
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Biblia",
+          "reference": "Matka Boża/Maryja",
+          "evidence": "Maryni ciało - aluzja do Maryi"
+        },
+        {
+          "source": "inne",
+          "reference": "tradycja elegii polskiej",
+          "evidence": "tytuł ELEGIA, ton żałobny, motyw żalu"
+        },
+        {
+          "source": "inne",
+          "reference": "poezja wojenna",
+          "evidence": "mokry rów dawnych okopów"
+        },
+        {
+          "source": "Różewicz",
+          "reference": "poezja powojenna",
+          "evidence": "ton rozczarowania, motyw sieroctwa"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.3,
+        "baudelaire": 0.4,
+        "bursa": 0.7,
+        "stachura": 0.2,
+        "grochowiak": 0.6,
+        "bialoszewski": 0.1,
+        "rozewicz": 0.8
+      }
+    },
+    "space": {
+      "type": "otwarta",
+      "evidence": "mokry rów dawnych okopów, gwiazdy, wiatr ciskający pył",
+      "openClosedRatio": 0.7
+    },
+    "timeOfDay": {
+      "period": "noc",
+      "season": "nieokreslona",
+      "evidence": "oczy wydane na łup gwiazdom, głowy bezsennie"
+    },
+    "motion": {
+      "movement": 4,
+      "stillness": 6,
+      "dynamism": 0.4,
+      "evidence": "kładziemy się w rowie, drwiący wiatr ciska pył, dym z porów skóry"
+    },
+    "imageryDensity": {
+      "metaphors": 5,
+      "comparisons": 2,
+      "personifications": 3,
+      "hyperboles": 1,
+      "per100words": 11.5
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.8,
+      "creationLevel": 0.6,
+      "ironicDistance": 0.3,
+      "autobiographicSignals": [
+        "zwierzamy sobie",
+        "zostało nam",
+        "w nas",
+        "szepczemy",
+        "mówiemy",
+        "krzyczymy"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "melancholia",
+      "secondary": "rezygnacja",
+      "intensity": 0.8
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "używanie zaimka 'nam', 'nas', 'kładziemy się' - wyraźna obecność podmiotu zbiorowego"
+    },
+    "addressee": {
+      "type": "siebie",
+      "evidence": "'Zwierzamy sobie' - podmiot zwraca się do siebie samego, do wspólnoty"
+    },
+    "metaphors": [
+      {
+        "source": "ogień",
+        "target": "żal",
+        "example": "żal co łuną niezapalną powstał w nas"
+      },
+      {
+        "source": "dym",
+        "target": "smutek",
+        "example": "z porów skóry i z oczu dymi"
+      },
+      {
+        "source": "koc",
+        "target": "sen",
+        "example": "przykryci snem pod brodę tylko jak za krótkim kocem"
+      },
+      {
+        "source": "łup",
+        "target": "bezbronność",
+        "example": "z oczami wydanymi na łup gwiazdom"
+      }
+    ],
+    "temperature": {
+      "value": 0.3,
+      "label": "chłodna melancholia z nutą rozżarzenia"
+    },
+    "senses": {
+      "wzrok": 5,
+      "sluch": 2,
+      "dotyk": 4,
+      "smak": 1,
+      "zapach": 1
+    },
+    "autodestruction": {
+      "level": 0.6,
+      "signals": [
+        "kładzenie się w mokrym rowie",
+        "bezsenne głowy",
+        "wydanie oczu na łup",
+        "niemożność zaśnięcia"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": -0.138,
+    "dfaAlpha": 2.497,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -1.445185878948082
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -0.7267185547331312
+      }
+    ],
+    "seriesLength": 14,
+    "series": [
+      7,
+      5,
+      6,
+      8,
+      6,
+      6,
+      6,
+      5,
+      7,
+      5,
+      7,
+      6,
+      6,
+      4
+    ]
+  }
+}

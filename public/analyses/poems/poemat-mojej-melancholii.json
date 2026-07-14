@@ -1,0 +1,1500 @@
+{
+  "id": "poemat-mojej-melancholii",
+  "title": "Poemat mojej melancholii",
+  "wordCount": 555,
+  "lineCount": 146,
+  "uniqueWords": 318,
+  "vocabularyRichness": 0.573,
+  "avgWordsPerLine": 3.8,
+  "wordsPerLineDistribution": [
+    2,
+    7,
+    2,
+    8,
+    2,
+    7,
+    2,
+    7,
+    2,
+    4,
+    2,
+    5,
+    2,
+    5,
+    2,
+    4,
+    2,
+    5,
+    2,
+    4,
+    2,
+    4,
+    2,
+    7,
+    2,
+    2,
+    2,
+    2,
+    2,
+    8,
+    2,
+    3,
+    2,
+    2,
+    3,
+    4,
+    2,
+    7,
+    6,
+    1,
+    2,
+    4,
+    2,
+    6,
+    2,
+    6,
+    3,
+    7,
+    3,
+    1,
+    4,
+    3,
+    6,
+    3,
+    7,
+    8,
+    1,
+    3,
+    3,
+    3,
+    0,
+    3,
+    4,
+    5,
+    3,
+    3,
+    3,
+    6,
+    3,
+    7,
+    3,
+    6,
+    10,
+    2,
+    2,
+    8,
+    3,
+    4,
+    3,
+    7,
+    4,
+    3,
+    4,
+    3,
+    3,
+    3,
+    6,
+    3,
+    3,
+    3,
+    3,
+    3,
+    4,
+    3,
+    4,
+    2,
+    6,
+    3,
+    2,
+    3,
+    5,
+    3,
+    5,
+    3,
+    6,
+    5,
+    3,
+    7,
+    3,
+    4,
+    1,
+    2,
+    2,
+    3,
+    5,
+    3,
+    3,
+    3,
+    4,
+    2,
+    4,
+    3,
+    2,
+    3,
+    5,
+    3,
+    2,
+    6,
+    4,
+    3,
+    6,
+    3,
+    7,
+    2,
+    3,
+    3,
+    3,
+    7,
+    3,
+    4,
+    3,
+    3,
+    9,
+    10,
+    7,
+    4
+  ],
+  "wordFrequencies": [
+    [
+      "dwudzieste",
+      10
+    ],
+    [
+      "trzydzieste",
+      10
+    ],
+    [
+      "czterdzieste",
+      10
+    ],
+    [
+      "pięćdziesiąte",
+      9
+    ],
+    [
+      "pierwsze",
+      5
+    ],
+    [
+      "drugie",
+      5
+    ],
+    [
+      "trzecie",
+      5
+    ],
+    [
+      "czwarte",
+      5
+    ],
+    [
+      "piąte",
+      5
+    ],
+    [
+      "szóste",
+      5
+    ],
+    [
+      "siódme",
+      5
+    ],
+    [
+      "ósme",
+      5
+    ],
+    [
+      "dziewiąte",
+      4
+    ],
+    [
+      "wiersza",
+      3
+    ],
+    [
+      "kartka",
+      3
+    ],
+    [
+      "poezji",
+      3
+    ],
+    [
+      "poeta",
+      3
+    ],
+    [
+      "warte",
+      2
+    ],
+    [
+      "skończyła",
+      2
+    ],
+    [
+      "odwrocie",
+      2
+    ]
+  ],
+  "punctuation": {
+    "comma": 21,
+    "period": 3,
+    "question": 6,
+    "exclamation": 0,
+    "ellipsis": 9,
+    "dash": 0,
+    "colon": 58,
+    "semicolon": 0
+  },
+  "questionCount": 6,
+  "exclamationCount": 0,
+  "negationCount": 14,
+  "negationWords": [
+    "bez",
+    "brak",
+    "nic",
+    "nie",
+    "nigdy"
+  ],
+  "pronounDistribution": {
+    "ja": 14,
+    "ty": 0,
+    "on_ona": 4,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 2,
+    "smierc": 2,
+    "erotyka": 2,
+    "alkohol": 1,
+    "samotnosc": 2,
+    "sacrum": 1,
+    "noc": 4,
+    "bol": 0
+  },
+  "anaphors": [
+    [
+      "po dwudzieste",
+      10
+    ],
+    [
+      "po trzydzieste",
+      10
+    ],
+    [
+      "po czterdzieste",
+      10
+    ],
+    [
+      "po pięćdziesiąte",
+      9
+    ],
+    [
+      "moje",
+      2
+    ],
+    [
+      "na odwrocie",
+      2
+    ],
+    [
+      "kolega",
+      2
+    ],
+    [
+      "czy",
+      2
+    ]
+  ],
+  "firstWord": "po",
+  "lastWord": "poezji",
+  "avgWordLength": 5.54,
+  "wordLengthDistribution": {
+    "1-3": 173,
+    "8-9": 62,
+    "4-5": 122,
+    "6-7": 124,
+    "10+": 74
+  },
+  "bigrams": [],
+  "poemWords": [
+    "pierwsze",
+    "matka",
+    "matką",
+    "podaje",
+    "drugie",
+    "ojciec",
+    "bogiem",
+    "obcym",
+    "starszym",
+    "panem",
+    "trzecie",
+    "księżyc",
+    "lunatykiem",
+    "jakiegoś",
+    "wiersza",
+    "czwarte",
+    "mickiewicz",
+    "kobietą",
+    "piąte",
+    "pogoda",
+    "starą",
+    "panną",
+    "szóste",
+    "słońce",
+    "oka",
+    "wpadło",
+    "siódme",
+    "policjant",
+    "gwizdkiem",
+    "zamiast",
+    "twarzy",
+    "ósme",
+    "marynia",
+    "tyłek",
+    "gładki",
+    "dziewiąte",
+    "życie",
+    "nic",
+    "warte",
+    "dziesiąte",
+    "jedenaste",
+    "spisek",
+    "przeciwko",
+    "autorowi",
+    "dwunaste",
+    "stygmat",
+    "goi",
+    "trzynaste",
+    "ewolucje",
+    "czternaste",
+    "polucje",
+    "piętnaste",
+    "babka",
+    "strony",
+    "ojca",
+    "podług",
+    "słów",
+    "matki",
+    "syfilityczna",
+    "kurwa",
+    "skończyła",
+    "kartka",
+    "odwrocie",
+    "szesnaste",
+    "bohater",
+    "jedzący",
+    "gówna",
+    "*wyraz",
+    "nieczytelny",
+    "przypis",
+    "poety",
+    "siedemnaste",
+    "wieczór",
+    "poezji",
+    "odbył",
+    "dlatego",
+    "zakończył",
+    "skandalem",
+    "osiemnaste",
+    "zakończony",
+    "dziewiętnaste",
+    "jeden",
+    "poeta",
+    "siedzi",
+    "więzieniu",
+    "dwudzieste",
+    "drugi",
+    "wyzuty",
+    "ziemi",
+    "ojczyzna",
+    "nienawiść",
+    "wizja",
+    "sperma",
+    "kolega",
+    "którym",
+    "piję",
+    "wódkę",
+    "malarzem",
+    "mordercą",
+    "kafka",
+    "dziennikach",
+    "zastanawiający",
+    "byłoby",
+    "dobrze",
+    "czasu",
+    "jadał",
+    "mięso",
+    "żydach",
+    "polskich",
+    "niecenzuralne",
+    "kropki",
+    "ostatecznie",
+    "niecierpliwe",
+    "szukanie",
+    "jakiejś",
+    "czystej",
+    "kartki",
+    "znalazła",
+    "nowej",
+    "kartce",
+    "żona",
+    "przyjaciela",
+    "zabiegi",
+    "utrzymać",
+    "dom",
+    "siebie",
+    "męża",
+    "dwoje",
+    "dzieci",
+    "fotografia",
+    "dzienniku",
+    "wstrząsnęła",
+    "gazeta",
+    "robotnicza”",
+    "wydanie",
+    "niedzielne",
+    "1969",
+    "trzydzieste",
+    "pewien",
+    "cytat",
+    "baudelaire",
+    "mon",
+    "coeur",
+    "mis",
+    "lxix",
+    "redakcja",
+    "wysokim",
+    "piętrze",
+    "jacek",
+    "łukasiewicz",
+    "mówił",
+    "iść",
+    "bezpiecznie",
+    "pedałów",
+    "przypomnieć",
+    "sen",
+    "wyssać",
+    "dziewczynie",
+    "krew",
+    "warto",
+    "leczyć",
+    "alkoholizmu",
+    "ojczyzny",
+    "kogo",
+    "obraziłem",
+    "wczoraj",
+    "byłem",
+    "chory",
+    "czemu",
+    "bito",
+    "czterdzieste",
+    "owszem",
+    "możliwe",
+    "śniło",
+    "śnieg",
+    "pada",
+    "widzieliście",
+    "gdzieś",
+    "wojaczka",
+    "chrystus",
+    "jedyna",
+    "gwiazda",
+    "orientująca",
+    "bieguny",
+    "szukam",
+    "dawna",
+    "musieliście",
+    "widzieć",
+    "taki",
+    "duży",
+    "smutny",
+    "list",
+    "jednego",
+    "aktora",
+    "brata",
+    "powróżyć",
+    "pascala",
+    "odwrócić",
+    "kartkę",
+    "jedynym",
+    "przedmiotem",
+    "pisma",
+    "miłość",
+    "zrobić",
+    "kawę",
+    "brak",
+    "rymu",
+    "umyślnym",
+    "efektem",
+    "pięćdziesiąte",
+    "hłasko",
+    "umarł",
+    "czerwcu",
+    "zwykle",
+    "piłem",
+    "astoria”",
+    "zakopane",
+    "droga",
+    "białego",
+    "modliłem",
+    "ciąg",
+    "dalszy",
+    "chwili",
+    "gospodyni",
+    "zawołała",
+    "telefonu",
+    "telefon",
+    "malarza",
+    "sprawie",
+    "okładki",
+    "bajki",
+    "nakładem",
+    "ossolineum",
+    "pójść",
+    "wysiusiać",
+    "leczył",
+    "rudy",
+    "piesek",
+    "śniegu",
+    "przemyśleć",
+    "zagadnienia",
+    "kończy",
+    "okazją",
+    "przerwać",
+    "jakiś",
+    "czas",
+    "przyjrzeć",
+    "zapisane",
+    "przeczytać",
+    "głos",
+    "następnie",
+    "raz"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 125,
+        "VERB": 48,
+        "ADJ": 130,
+        "ADV": 10,
+        "PRON": 38,
+        "ADP": 97,
+        "CCONJ": 7,
+        "SCONJ": 14,
+        "INTJ": 5,
+        "PART": 23,
+        "DET": 19,
+        "NUM": 1
+      },
+      "posPercent": {
+        "NOUN": 0.224,
+        "VERB": 0.086,
+        "ADJ": 0.233,
+        "ADV": 0.018,
+        "PRON": 0.068,
+        "ADP": 0.174,
+        "CCONJ": 0.013,
+        "SCONJ": 0.025,
+        "INTJ": 0.009,
+        "PART": 0.041,
+        "DET": 0.034,
+        "NUM": 0.002
+      },
+      "nounConcreteAbstract": {
+        "concrete": 3,
+        "abstract": 6,
+        "ratio": 0.33
+      },
+      "verbTenses": {
+        "present": 26,
+        "past": 20,
+        "infinitive": 15,
+        "future": 1
+      },
+      "verbSemantics": {
+        "ruch": 1,
+        "percepcja": 1,
+        "stan": 12,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 1,
+        "cialo": 1
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 2,
+        "oceniajace": 1,
+        "opisowe": 127
+      },
+      "adverbs": {
+        "temporalne": [
+          "nigdy"
+        ],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "nigdy",
+            "count": 1
+          },
+          {
+            "word": "dlatego",
+            "count": 1
+          },
+          {
+            "word": "dobrze",
+            "count": 1
+          },
+          {
+            "word": "ostatecznie",
+            "count": 1
+          },
+          {
+            "word": "bezpiecznie",
+            "count": 1
+          },
+          {
+            "word": "wczoraj",
+            "count": 1
+          },
+          {
+            "word": "czemu",
+            "count": 1
+          },
+          {
+            "word": "gdzieś",
+            "count": 1
+          },
+          {
+            "word": "zwykle",
+            "count": 1
+          },
+          {
+            "word": "następnie",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 5,
+        "ty": 0,
+        "on_ona": 4,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 10,
+        "nic": 1,
+        "nikt": 0,
+        "nigdy": 1,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 12,
+        "percentSentences": 0.23
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 1325,
+        "consonants": 1758,
+        "ratio": 0.75
+      },
+      "consonantClusters": {
+        "count": 117,
+        "top": [
+          {
+            "cluster": "trz",
+            "count": 18
+          },
+          {
+            "cluster": "prz",
+            "count": 11
+          },
+          {
+            "cluster": "czt",
+            "count": 11
+          },
+          {
+            "cluster": "rdz",
+            "count": 10
+          },
+          {
+            "cluster": "ćdz",
+            "count": 9
+          },
+          {
+            "cluster": "rwsz",
+            "count": 5
+          },
+          {
+            "cluster": "czw",
+            "count": 5
+          },
+          {
+            "cluster": "ńcz",
+            "count": 5
+          },
+          {
+            "cluster": "rtk",
+            "count": 5
+          },
+          {
+            "cluster": "rsz",
+            "count": 4
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 123,
+        "syczace": 297,
+        "nosowe": 283,
+        "plynne": 204
+      },
+      "rhymes": {
+        "exact": 20,
+        "approximate": 40,
+        "internal": 1,
+        "assonance": 0,
+        "alliteration": 14
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 10.7,
+        "median": 8,
+        "min": 2,
+        "max": 51,
+        "distribution": [
+          0,
+          0,
+          1,
+          10,
+          4,
+          2,
+          4,
+          3,
+          2,
+          4,
+          2,
+          0,
+          2,
+          3,
+          2,
+          3,
+          2,
+          1,
+          1,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 3.8,
+        "meanSyllables": 9.2,
+        "distribution": [
+          0,
+          5,
+          34,
+          49,
+          19,
+          9,
+          11,
+          13,
+          4,
+          1,
+          2
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 47,
+        "interrogative": 5,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 17,
+        "noSubject": 14,
+        "noPredicate": 2,
+        "percent": 0.63
+      },
+      "enjambement": {
+        "count": 10,
+        "percent": 0.07,
+        "positions": [
+          31,
+          39,
+          40,
+          51,
+          56,
+          57,
+          106,
+          124,
+          129,
+          146
+        ]
+      },
+      "wordOrder": {
+        "svo": 12,
+        "inversions": 5,
+        "other": 35,
+        "deviationPercent": 0.77
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 3,
+        "śmierć": 2,
+        "erotyka": 1,
+        "alkohol": 1,
+        "samotność": 2,
+        "sacrum": 1,
+        "noc": 4,
+        "ból": 0
+      },
+      "oppositionsFound": [
+        "miłość/nienawiść"
+      ]
+    },
+    "tempo": {
+      "syllables": 1348,
+      "estimatedSeconds": 449,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 125,
+      "VERB": 48,
+      "ADJ": 130,
+      "ADV": 10,
+      "PRON": 38,
+      "ADP": 97,
+      "CCONJ": 7,
+      "SCONJ": 14,
+      "INTJ": 5,
+      "PART": 23,
+      "DET": 19,
+      "NUM": 1
+    },
+    "posPercent": {
+      "NOUN": 0.224,
+      "VERB": 0.086,
+      "ADJ": 0.233,
+      "ADV": 0.018,
+      "PRON": 0.068,
+      "ADP": 0.174,
+      "CCONJ": 0.013,
+      "SCONJ": 0.025,
+      "INTJ": 0.009,
+      "PART": 0.041,
+      "DET": 0.034,
+      "NUM": 0.002
+    },
+    "nounConcreteAbstract": {
+      "concrete": 3,
+      "abstract": 6,
+      "ratio": 0.33
+    },
+    "verbTenses": {
+      "present": 26,
+      "past": 20,
+      "infinitive": 15,
+      "future": 1
+    },
+    "verbSemantics": {
+      "ruch": 1,
+      "percepcja": 1,
+      "stan": 12,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 1,
+      "cialo": 1
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 2,
+      "oceniajace": 1,
+      "opisowe": 127
+    },
+    "adverbs": {
+      "temporalne": [
+        "nigdy"
+      ],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "nigdy",
+          "count": 1
+        },
+        {
+          "word": "dlatego",
+          "count": 1
+        },
+        {
+          "word": "dobrze",
+          "count": 1
+        },
+        {
+          "word": "ostatecznie",
+          "count": 1
+        },
+        {
+          "word": "bezpiecznie",
+          "count": 1
+        },
+        {
+          "word": "wczoraj",
+          "count": 1
+        },
+        {
+          "word": "czemu",
+          "count": 1
+        },
+        {
+          "word": "gdzieś",
+          "count": 1
+        },
+        {
+          "word": "zwykle",
+          "count": 1
+        },
+        {
+          "word": "następnie",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 5,
+      "ty": 0,
+      "on_ona": 4,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 10,
+      "nic": 1,
+      "nikt": 0,
+      "nigdy": 1,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 12,
+      "percentSentences": 0.23
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 10.7,
+      "median": 8,
+      "min": 2,
+      "max": 51,
+      "distribution": [
+        0,
+        0,
+        1,
+        10,
+        4,
+        2,
+        4,
+        3,
+        2,
+        4,
+        2,
+        0,
+        2,
+        3,
+        2,
+        3,
+        2,
+        1,
+        1,
+        1,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 3.8,
+      "meanSyllables": 9.2,
+      "distribution": [
+        0,
+        5,
+        34,
+        49,
+        19,
+        9,
+        11,
+        13,
+        4,
+        1,
+        2
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 47,
+      "interrogative": 5,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 17,
+      "noSubject": 14,
+      "noPredicate": 2,
+      "percent": 0.63
+    },
+    "enjambement": {
+      "count": 10,
+      "percent": 0.07,
+      "positions": [
+        31,
+        39,
+        40,
+        51,
+        56,
+        57,
+        106,
+        124,
+        129,
+        146
+      ]
+    },
+    "wordOrder": {
+      "svo": 12,
+      "inversions": 5,
+      "other": 35,
+      "deviationPercent": 0.77
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 1325,
+      "consonants": 1758,
+      "ratio": 0.75
+    },
+    "consonantClusters": {
+      "count": 117,
+      "top": [
+        {
+          "cluster": "trz",
+          "count": 18
+        },
+        {
+          "cluster": "prz",
+          "count": 11
+        },
+        {
+          "cluster": "czt",
+          "count": 11
+        },
+        {
+          "cluster": "rdz",
+          "count": 10
+        },
+        {
+          "cluster": "ćdz",
+          "count": 9
+        },
+        {
+          "cluster": "rwsz",
+          "count": 5
+        },
+        {
+          "cluster": "czw",
+          "count": 5
+        },
+        {
+          "cluster": "ńcz",
+          "count": 5
+        },
+        {
+          "cluster": "rtk",
+          "count": 5
+        },
+        {
+          "cluster": "rsz",
+          "count": 4
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 123,
+      "syczace": 297,
+      "nosowe": 283,
+      "plynne": 204
+    },
+    "rhymes": {
+      "exact": 20,
+      "approximate": 40,
+      "internal": 1,
+      "assonance": 0,
+      "alliteration": 14
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        147
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 1348,
+      "estimatedSeconds": 449,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "polregularny",
+      "regularityScore": 0.54
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Biblia",
+          "reference": "Chrystus jako gwiazda orientująca",
+          "evidence": "Chrystus, jedyna gwiazda orientująca bieguny"
+        },
+        {
+          "source": "Baudelaire",
+          "reference": "Mon coeur mis a nu",
+          "evidence": "Pewien cytat (Ch. Baudelaire Mon coeur mis a nu LXIX)"
+        },
+        {
+          "source": "inne",
+          "reference": "Kafka",
+          "evidence": "Kafka w Dziennikach zastanawiający się, czy nie byłoby dobrze, gdyby od czasu do czasu jadał mięso"
+        },
+        {
+          "source": "inne",
+          "reference": "Pascal",
+          "evidence": "Powróżyć sobie z Pascala / Jedynym przedmiotem Pisma jest miłość"
+        },
+        {
+          "source": "inne",
+          "reference": "Hłasko",
+          "evidence": "Hłasko umarł w czerwcu"
+        }
+      ],
+      "selfQuotes": [
+        "to z jakiegoś wiersza",
+        "też z mojego wiersza",
+        "do mojej Innej bajki (nakładem Ossolineum)"
+      ],
+      "influences": {
+        "rimbaud": 0.2,
+        "baudelaire": 0.8,
+        "bursa": 0.1,
+        "stachura": 0.6,
+        "grochowiak": 0.4,
+        "bialoszewski": 0.7,
+        "rozewicz": 0.3
+      }
+    },
+    "space": {
+      "type": "zamknieta",
+      "evidence": "Redakcja na wysokim piętrze, dom, kartka się kończy, szukanie czystej kartki",
+      "openClosedRatio": 0.2
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "zima",
+      "evidence": "Śnieg pada, Rudy piesek na śniegu, 3 grudnia 1969"
+    },
+    "motion": {
+      "movement": 4,
+      "stillness": 6,
+      "dynamism": 0.4,
+      "evidence": "Przeważnie statyczne obrazy i refleksje, sporadyczne ruchy: pójść się wysiusiać, szukanie kartki"
+    },
+    "imageryDensity": {
+      "metaphors": 8,
+      "comparisons": 3,
+      "personifications": 5,
+      "hyperboles": 2,
+      "per100words": 12
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.9,
+      "creationLevel": 0.3,
+      "ironicDistance": 0.6,
+      "autobiographicSignals": [
+        "moja babka od strony ojca",
+        "piłem wódkę",
+        "leczył się na to samo",
+        "alkoholizm",
+        "mój stygmat",
+        "gospodyni zawołała mnie do telefonu"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "melancholia",
+      "secondary": "ironia",
+      "intensity": 0.8
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "Wyraźne 'ja' podmiotu w 'mojej melancholii', 'mój stygmat', 'moje ewolucje', 'moje polucje'"
+    },
+    "addressee": {
+      "type": "siebie",
+      "evidence": "Monolog wewnętrzny w formie katalogu osobistych refleksji i obserwacji"
+    },
+    "metaphors": [
+      {
+        "source": "księżyc",
+        "target": "lunatyk",
+        "example": "Księżyc jest lunatykiem"
+      },
+      {
+        "source": "pogoda",
+        "target": "stara panna",
+        "example": "Pogoda jest starą panną"
+      },
+      {
+        "source": "ojczyzna",
+        "target": "mieszanka uczuć i fizjologii",
+        "example": "Ojczyzna to nienawiść i wizja i sperma"
+      }
+    ],
+    "temperature": {
+      "value": 0.3,
+      "label": "chłodna rezygnacja z ironicznymi przebłyskami"
+    },
+    "senses": {
+      "wzrok": 4,
+      "sluch": 1,
+      "dotyk": 2,
+      "smak": 1,
+      "zapach": 0
+    },
+    "autodestruction": {
+      "level": 0.7,
+      "signals": [
+        "alkoholizm jako temat do rozważenia",
+        "wyssać dziewczynie krew",
+        "bycie bitym",
+        "stygmat co się nigdy nie goi",
+        "poeta bez ojczyzny"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 0.619,
+    "dfaAlpha": 0.58,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -0.5978880185608786
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -0.3096997605329185
+      },
+      {
+        "logWin": 1.6094379124341003,
+        "logFluc": -0.07992250062627229
+      },
+      {
+        "logWin": 1.9459101490553132,
+        "logFluc": 0.08457339049420357
+      },
+      {
+        "logWin": 2.302585092994046,
+        "logFluc": 0.19684625764904934
+      },
+      {
+        "logWin": 2.5649493574615367,
+        "logFluc": 0.38305304621824215
+      },
+      {
+        "logWin": 2.9444389791664403,
+        "logFluc": 0.7174792453572534
+      },
+      {
+        "logWin": 3.2188758248682006,
+        "logFluc": 0.8064126853532382
+      },
+      {
+        "logWin": 3.5553480614894135,
+        "logFluc": 0.933048889219301
+      },
+      {
+        "logWin": 3.8501476017100584,
+        "logFluc": 1.0241204760952836
+      }
+    ],
+    "seriesLength": 146,
+    "series": [
+      2,
+      7,
+      2,
+      8,
+      2,
+      7,
+      2,
+      7,
+      2,
+      4,
+      2,
+      5,
+      2,
+      5,
+      2,
+      4,
+      2,
+      5,
+      2,
+      4,
+      2,
+      4,
+      2,
+      7,
+      2,
+      2,
+      2,
+      2,
+      2,
+      8,
+      2,
+      3,
+      2,
+      2,
+      3,
+      4,
+      2,
+      7,
+      6,
+      1,
+      2,
+      4,
+      2,
+      6,
+      2,
+      6,
+      3,
+      7,
+      3,
+      1,
+      4,
+      3,
+      6,
+      3,
+      7,
+      8,
+      1,
+      3,
+      3,
+      3,
+      0,
+      3,
+      4,
+      5,
+      3,
+      3,
+      3,
+      6,
+      3,
+      7,
+      3,
+      6,
+      10,
+      2,
+      2,
+      8,
+      3,
+      4,
+      3,
+      7,
+      4,
+      3,
+      4,
+      3,
+      3,
+      3,
+      6,
+      3,
+      3,
+      3,
+      3,
+      3,
+      4,
+      3,
+      4,
+      2,
+      6,
+      3,
+      2,
+      3
+    ]
+  }
+}

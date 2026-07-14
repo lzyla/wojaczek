@@ -1,0 +1,981 @@
+{
+  "id": "celnik",
+  "title": "Celnik",
+  "wordCount": 86,
+  "lineCount": 14,
+  "uniqueWords": 73,
+  "vocabularyRichness": 0.849,
+  "avgWordsPerLine": 6.14,
+  "wordsPerLineDistribution": [
+    6,
+    4,
+    6,
+    6,
+    5,
+    6,
+    7,
+    6,
+    6,
+    6,
+    8,
+    7,
+    7,
+    6
+  ],
+  "wordFrequencies": [
+    [
+      "ciała",
+      2
+    ],
+    [
+      "włosy",
+      2
+    ],
+    [
+      "grób",
+      2
+    ],
+    [
+      "biały",
+      1
+    ],
+    [
+      "zakręt",
+      1
+    ],
+    [
+      "obietnicą",
+      1
+    ],
+    [
+      "cudu",
+      1
+    ],
+    [
+      "najbielszej",
+      1
+    ],
+    [
+      "róży",
+      1
+    ],
+    [
+      "przezwanej",
+      1
+    ],
+    [
+      "izrael",
+      1
+    ],
+    [
+      "idąc",
+      1
+    ],
+    [
+      "kobietę",
+      1
+    ],
+    [
+      "zawsze",
+      1
+    ],
+    [
+      "czworakach",
+      1
+    ],
+    [
+      "młody",
+      1
+    ],
+    [
+      "żyd",
+      1
+    ],
+    [
+      "przemycie",
+      1
+    ],
+    [
+      "matka",
+      1
+    ],
+    [
+      "słowiańska",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 0,
+    "period": 0,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 1,
+    "colon": 0,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 1,
+  "negationWords": [
+    "nie"
+  ],
+  "pronounDistribution": {
+    "ja": 0,
+    "ty": 0,
+    "on_ona": 3,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 4,
+    "smierc": 2,
+    "erotyka": 1,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [
+    [
+      "ale",
+      2
+    ],
+    [
+      "gdy",
+      2
+    ]
+  ],
+  "firstWord": "biały",
+  "lastWord": "kosi",
+  "avgWordLength": 5.02,
+  "wordLengthDistribution": {
+    "4-5": 31,
+    "6-7": 15,
+    "8-9": 9,
+    "10+": 6,
+    "1-3": 25
+  },
+  "bigrams": [
+    [
+      "biały zakręt",
+      1
+    ],
+    [
+      "zakręt ciała",
+      1
+    ],
+    [
+      "obietnicą cudu",
+      1
+    ],
+    [
+      "cudu najbielszej",
+      1
+    ],
+    [
+      "najbielszej róży",
+      1
+    ],
+    [
+      "róży przezwanej",
+      1
+    ],
+    [
+      "przezwanej izrael",
+      1
+    ],
+    [
+      "izrael idąc",
+      1
+    ],
+    [
+      "kobietę zawsze",
+      1
+    ]
+  ],
+  "poemWords": [
+    "biały",
+    "zakręt",
+    "ciała",
+    "obietnicą",
+    "cudu",
+    "najbielszej",
+    "róży",
+    "przezwanej",
+    "izrael",
+    "idąc",
+    "kobietę",
+    "zawsze",
+    "czworakach",
+    "młody",
+    "żyd",
+    "przemycie",
+    "matka",
+    "słowiańska",
+    "wspomina",
+    "nieznane",
+    "włosy",
+    "rosną",
+    "języka",
+    "polskie",
+    "babie",
+    "lato",
+    "lecą",
+    "gościńcem",
+    "końcu",
+    "którego",
+    "grób",
+    "orgazm",
+    "górą",
+    "najwyższą",
+    "zakręcie",
+    "obietnica",
+    "droga",
+    "najpierw",
+    "rzeką",
+    "staje",
+    "morzem",
+    "zabliźnionym",
+    "śladem",
+    "suchej",
+    "stopy",
+    "szlaban",
+    "celnik",
+    "chwyta",
+    "dłoń",
+    "palą",
+    "nożyczkami",
+    "kosi"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 32,
+        "VERB": 9,
+        "ADJ": 11,
+        "ADV": 4,
+        "PRON": 5,
+        "ADP": 8,
+        "CCONJ": 4,
+        "SCONJ": 2,
+        "INTJ": 0,
+        "PART": 3,
+        "DET": 2,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.364,
+        "VERB": 0.102,
+        "ADJ": 0.125,
+        "ADV": 0.045,
+        "PRON": 0.057,
+        "ADP": 0.091,
+        "CCONJ": 0.045,
+        "SCONJ": 0.023,
+        "INTJ": 0,
+        "PART": 0.034,
+        "DET": 0.023,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 3,
+        "abstract": 0,
+        "ratio": 1
+      },
+      "verbTenses": {
+        "present": 14
+      },
+      "verbSemantics": {
+        "ruch": 1,
+        "percepcja": 0,
+        "stan": 4,
+        "destrukcja": 1,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 2,
+        "oceniajace": 0,
+        "opisowe": 9
+      },
+      "adverbs": {
+        "temporalne": [
+          "zawsze"
+        ],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "gdy",
+            "count": 2
+          },
+          {
+            "word": "zawsze",
+            "count": 1
+          },
+          {
+            "word": "najpierw",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 0,
+        "ty": 0,
+        "on_ona": 3,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 1,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 1,
+        "percentSentences": 0.17
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 181,
+        "consonants": 257,
+        "ratio": 0.7
+      },
+      "consonantClusters": {
+        "count": 14,
+        "top": [
+          {
+            "cluster": "prz",
+            "count": 3
+          },
+          {
+            "cluster": "lsz",
+            "count": 1
+          },
+          {
+            "cluster": "wsz",
+            "count": 1
+          },
+          {
+            "cluster": "czw",
+            "count": 1
+          },
+          {
+            "cluster": "ńsk",
+            "count": 1
+          },
+          {
+            "cluster": "wsp",
+            "count": 1
+          },
+          {
+            "cluster": "lsk",
+            "count": 1
+          },
+          {
+            "cluster": "ższ",
+            "count": 1
+          },
+          {
+            "cluster": "szcz",
+            "count": 1
+          },
+          {
+            "cluster": "szl",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 17,
+        "syczace": 49,
+        "nosowe": 53,
+        "plynne": 40
+      },
+      "rhymes": {
+        "exact": 1,
+        "approximate": 1,
+        "internal": 0,
+        "assonance": 0,
+        "alliteration": 0
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 14.7,
+        "median": 6,
+        "min": 1,
+        "max": 58,
+        "distribution": [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          3,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 5.6,
+        "meanSyllables": 11.6,
+        "distribution": [
+          0,
+          2,
+          0,
+          0,
+          1,
+          1,
+          8,
+          3,
+          0,
+          1
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 6,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 1,
+        "noSubject": 1,
+        "noPredicate": 0,
+        "percent": 0.33
+      },
+      "enjambement": {
+        "count": 3,
+        "percent": 0.2,
+        "positions": [
+          11,
+          13,
+          14
+        ]
+      },
+      "wordOrder": {
+        "svo": 3,
+        "inversions": 0,
+        "other": 2,
+        "deviationPercent": 0.4
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 3,
+        "śmierć": 2,
+        "erotyka": 1,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 185,
+      "estimatedSeconds": 62,
+      "tempoCategory": "wolne"
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Biblia",
+          "reference": "Izrael jako Ziemia Obiecana",
+          "evidence": "Najbielszej róży przezwanej Izrael"
+        },
+        {
+          "source": "Biblia",
+          "reference": "przejście przez Morze Czerwone",
+          "evidence": "Z nie zabliźnionym jeszcze śladem suchej stopy"
+        },
+        {
+          "source": "mitologia",
+          "reference": "mit o przemijaniu i odrodzeniu",
+          "evidence": "Ciała na końcu którego jest grób / Orgazm jest górą najwyższą jak grób"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.7,
+        "baudelaire": 0.4,
+        "bursa": 0.6,
+        "stachura": 0.3,
+        "grochowiak": 0.5,
+        "bialoszewski": 0.2,
+        "rozewicz": 0.3
+      }
+    },
+    "space": {
+      "type": "otwarta",
+      "evidence": "droga najpierw rzeką staje się – i morzem, lecą nad gościńcem",
+      "openClosedRatio": 0.8
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "lato",
+      "evidence": "Jak polskie babie lato lecą nad gościńcem",
+      "timeEvidence": "brak wyraźnych wskazówek temporalnych"
+    },
+    "motion": {
+      "movement": 8,
+      "stillness": 2,
+      "dynamism": 0.8,
+      "evidence": "Idąc przez kobietę, lecą nad gościńcem, droga rzeką staje się, celnik chwyta"
+    },
+    "imageryDensity": {
+      "metaphors": 6,
+      "comparisons": 3,
+      "personifications": 2,
+      "hyperboles": 2,
+      "per100words": 18.6
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.7,
+      "creationLevel": 0.8,
+      "ironicDistance": 0.3,
+      "autobiographicSignals": [
+        "młody Żyd",
+        "matka słowiańska",
+        "data 1968"
+      ]
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 32,
+      "VERB": 9,
+      "ADJ": 11,
+      "ADV": 4,
+      "PRON": 5,
+      "ADP": 8,
+      "CCONJ": 4,
+      "SCONJ": 2,
+      "INTJ": 0,
+      "PART": 3,
+      "DET": 2,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.364,
+      "VERB": 0.102,
+      "ADJ": 0.125,
+      "ADV": 0.045,
+      "PRON": 0.057,
+      "ADP": 0.091,
+      "CCONJ": 0.045,
+      "SCONJ": 0.023,
+      "INTJ": 0,
+      "PART": 0.034,
+      "DET": 0.023,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 3,
+      "abstract": 0,
+      "ratio": 1
+    },
+    "verbTenses": {
+      "present": 14
+    },
+    "verbSemantics": {
+      "ruch": 1,
+      "percepcja": 0,
+      "stan": 4,
+      "destrukcja": 1,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 2,
+      "oceniajace": 0,
+      "opisowe": 9
+    },
+    "adverbs": {
+      "temporalne": [
+        "zawsze"
+      ],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "gdy",
+          "count": 2
+        },
+        {
+          "word": "zawsze",
+          "count": 1
+        },
+        {
+          "word": "najpierw",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 0,
+      "ty": 0,
+      "on_ona": 3,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 1,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 1,
+      "percentSentences": 0.17
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 14.7,
+      "median": 6,
+      "min": 1,
+      "max": 58,
+      "distribution": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        3,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 5.6,
+      "meanSyllables": 11.6,
+      "distribution": [
+        0,
+        2,
+        0,
+        0,
+        1,
+        1,
+        8,
+        3,
+        0,
+        1
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 6,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 1,
+      "noSubject": 1,
+      "noPredicate": 0,
+      "percent": 0.33
+    },
+    "enjambement": {
+      "count": 3,
+      "percent": 0.2,
+      "positions": [
+        11,
+        13,
+        14
+      ]
+    },
+    "wordOrder": {
+      "svo": 3,
+      "inversions": 0,
+      "other": 2,
+      "deviationPercent": 0.4
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 181,
+      "consonants": 257,
+      "ratio": 0.7
+    },
+    "consonantClusters": {
+      "count": 14,
+      "top": [
+        {
+          "cluster": "prz",
+          "count": 3
+        },
+        {
+          "cluster": "lsz",
+          "count": 1
+        },
+        {
+          "cluster": "wsz",
+          "count": 1
+        },
+        {
+          "cluster": "czw",
+          "count": 1
+        },
+        {
+          "cluster": "ńsk",
+          "count": 1
+        },
+        {
+          "cluster": "wsp",
+          "count": 1
+        },
+        {
+          "cluster": "lsk",
+          "count": 1
+        },
+        {
+          "cluster": "ższ",
+          "count": 1
+        },
+        {
+          "cluster": "szcz",
+          "count": 1
+        },
+        {
+          "cluster": "szl",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 17,
+      "syczace": 49,
+      "nosowe": 53,
+      "plynne": 40
+    },
+    "rhymes": {
+      "exact": 1,
+      "approximate": 1,
+      "internal": 0,
+      "assonance": 0,
+      "alliteration": 0
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        16
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 185,
+      "estimatedSeconds": 62,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "polregularny",
+      "regularityScore": 0.62
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "tęsknota",
+      "secondary": "melancholia",
+      "intensity": 0.8
+    },
+    "subjectPresence": {
+      "type": "ukryte",
+      "evidence": "Podmiot obecny w obserwacji sceny erotycznej i refleksji o śmierci, ale nie wypowiada się bezpośrednio"
+    },
+    "addressee": {
+      "type": "nikt",
+      "evidence": "Brak bezpośrednich zwrotów, wiersz ma charakter wizyjny i medytacyjny"
+    },
+    "metaphors": [
+      {
+        "source": "biały zakręt ciała",
+        "target": "erotyczna obietnica",
+        "example": "Biały zakręt ciała jest obietnicą cudu"
+      },
+      {
+        "source": "najbielsza róża",
+        "target": "Izrael/ziemia obiecana",
+        "example": "Najbielszej róży przezwanej Izrael"
+      },
+      {
+        "source": "droga-rzeka-morze",
+        "target": "przemiana egzystencjalna",
+        "example": "Gdy droga najpierw rzeką staje się – i morzem"
+      },
+      {
+        "source": "orgazm jako góra",
+        "target": "szczyt doświadczenia",
+        "example": "Orgazm jest górą najwyższą jak grób"
+      }
+    ],
+    "temperature": {
+      "value": 0.6,
+      "label": "ciepłe - napięcie między erotyzmem a śmiercią"
+    },
+    "senses": {
+      "wzrok": 5,
+      "sluch": 1,
+      "dotyk": 4,
+      "smak": 0,
+      "zapach": 0
+    },
+    "autodestruction": {
+      "level": 0.7,
+      "signals": [
+        "połączenie orgazmu z grobem",
+        "motyw śmierci jako kulminacji",
+        "obraz ciała kończącego się grobem",
+        "przemyt jako metafora ryzykownej transgresji"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 0.962,
+    "dfaAlpha": 1.808,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -1.4451858789480814
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -0.9249452674599159
+      }
+    ],
+    "seriesLength": 14,
+    "series": [
+      6,
+      4,
+      6,
+      6,
+      5,
+      6,
+      7,
+      6,
+      6,
+      6,
+      8,
+      7,
+      7,
+      6
+    ]
+  }
+}

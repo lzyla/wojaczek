@@ -1,0 +1,908 @@
+{
+  "id": "powieszony",
+  "title": "Powieszony",
+  "wordCount": 85,
+  "lineCount": 12,
+  "uniqueWords": 72,
+  "vocabularyRichness": 0.847,
+  "avgWordsPerLine": 7.08,
+  "wordsPerLineDistribution": [
+    8,
+    7,
+    6,
+    10,
+    8,
+    6,
+    7,
+    7,
+    6,
+    6,
+    9,
+    5
+  ],
+  "wordFrequencies": [
+    [
+      "niebie",
+      2
+    ],
+    [
+      "długo",
+      1
+    ],
+    [
+      "uczył",
+      1
+    ],
+    [
+      "śmierci",
+      1
+    ],
+    [
+      "pisanej",
+      1
+    ],
+    [
+      "gwiazdami",
+      1
+    ],
+    [
+      "ujrzał",
+      1
+    ],
+    [
+      "kąpiącą",
+      1
+    ],
+    [
+      "umyta",
+      1
+    ],
+    [
+      "wzrokiem",
+      1
+    ],
+    [
+      "nieskończonym",
+      1
+    ],
+    [
+      "piany",
+      1
+    ],
+    [
+      "chmur",
+      1
+    ],
+    [
+      "jungfrau",
+      1
+    ],
+    [
+      "rękach",
+      1
+    ],
+    [
+      "alpy",
+      1
+    ],
+    [
+      "światła",
+      1
+    ],
+    [
+      "niesie",
+      1
+    ],
+    [
+      "kobiety",
+      1
+    ],
+    [
+      "piją",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 5,
+    "period": 6,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 1,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 1,
+  "negationWords": [
+    "nie"
+  ],
+  "pronounDistribution": {
+    "ja": 0,
+    "ty": 0,
+    "on_ona": 5,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 1,
+    "smierc": 0,
+    "erotyka": 1,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [
+    [
+      "choć",
+      3
+    ]
+  ],
+  "firstWord": "długo",
+  "lastWord": "horyzontu",
+  "avgWordLength": 5.15,
+  "wordLengthDistribution": {
+    "4-5": 22,
+    "1-3": 25,
+    "6-7": 22,
+    "8-9": 13,
+    "10+": 3
+  },
+  "bigrams": [
+    [
+      "długo uczył",
+      1
+    ],
+    [
+      "pisanej gwiazdami",
+      1
+    ],
+    [
+      "gwiazdami wreszcie",
+      1
+    ],
+    [
+      "wreszcie ujrzał",
+      1
+    ],
+    [
+      "ujrzał kąpiącą",
+      1
+    ],
+    [
+      "niebie umyta",
+      1
+    ]
+  ],
+  "poemWords": [
+    "długo",
+    "uczył",
+    "śmierci",
+    "niebie",
+    "pisanej",
+    "gwiazdami",
+    "ujrzał",
+    "kąpiącą",
+    "umyta",
+    "wzrokiem",
+    "nieskończonym",
+    "piany",
+    "chmur",
+    "jungfrau",
+    "rękach",
+    "alpy",
+    "światła",
+    "niesie",
+    "kobiety",
+    "piją",
+    "rozporka",
+    "mężowie",
+    "wzbraniają",
+    "ochrzczonym",
+    "batem",
+    "rzemień",
+    "celnie",
+    "kazał",
+    "zamknąć",
+    "usta",
+    "krocza",
+    "nagie",
+    "kartki",
+    "grzbietów",
+    "krwią",
+    "zapisane",
+    "ruszając",
+    "gębami",
+    "dzielą",
+    "uczciwie",
+    "ciałem",
+    "talerzu",
+    "pobożnego",
+    "głodu",
+    "uśmiecha",
+    "życie",
+    "uduszone",
+    "uciekło",
+    "pętli",
+    "horyzontu"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 25,
+        "VERB": 12,
+        "ADJ": 8,
+        "ADV": 7,
+        "PRON": 9,
+        "ADP": 8,
+        "CCONJ": 3,
+        "SCONJ": 4,
+        "INTJ": 0,
+        "PART": 5,
+        "DET": 1,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.287,
+        "VERB": 0.138,
+        "ADJ": 0.092,
+        "ADV": 0.08,
+        "PRON": 0.103,
+        "ADP": 0.092,
+        "CCONJ": 0.034,
+        "SCONJ": 0.046,
+        "INTJ": 0,
+        "PART": 0.057,
+        "DET": 0.011,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 4,
+        "abstract": 2,
+        "ratio": 0.67
+      },
+      "verbTenses": {
+        "past": 4,
+        "future": 1,
+        "present": 6,
+        "infinitive": 1
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 0,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 1
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 0,
+        "opisowe": 8
+      },
+      "adverbs": {
+        "temporalne": [
+          "wciąż"
+        ],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "długo",
+            "count": 1
+          },
+          {
+            "word": "tu",
+            "count": 1
+          },
+          {
+            "word": "celnie",
+            "count": 1
+          },
+          {
+            "word": "uczciwie",
+            "count": 1
+          },
+          {
+            "word": "wciąż",
+            "count": 1
+          },
+          {
+            "word": "wtedy",
+            "count": 1
+          },
+          {
+            "word": "gdy",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 0,
+        "ty": 0,
+        "on_ona": 5,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 1,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 1,
+        "percentSentences": 0.14
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 196,
+        "consonants": 252,
+        "ratio": 0.78
+      },
+      "consonantClusters": {
+        "count": 14,
+        "top": [
+          {
+            "cluster": "szc",
+            "count": 1
+          },
+          {
+            "cluster": "jrz",
+            "count": 1
+          },
+          {
+            "cluster": "wzr",
+            "count": 1
+          },
+          {
+            "cluster": "ńcz",
+            "count": 1
+          },
+          {
+            "cluster": "chm",
+            "count": 1
+          },
+          {
+            "cluster": "ngfr",
+            "count": 1
+          },
+          {
+            "cluster": "szcz",
+            "count": 1
+          },
+          {
+            "cluster": "wzbr",
+            "count": 1
+          },
+          {
+            "cluster": "chrzcz",
+            "count": 1
+          },
+          {
+            "cluster": "mkn",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 23,
+        "syczace": 44,
+        "nosowe": 58,
+        "plynne": 33
+      },
+      "rhymes": {
+        "exact": 0,
+        "approximate": 3,
+        "internal": 0,
+        "assonance": 0,
+        "alliteration": 2
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 12.4,
+        "median": 14,
+        "min": 1,
+        "max": 16,
+        "distribution": [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          3,
+          0,
+          2
+        ]
+      },
+      "lineLength": {
+        "meanWords": 6.2,
+        "meanSyllables": 14.6,
+        "distribution": [
+          0,
+          2,
+          0,
+          0,
+          0,
+          1,
+          4,
+          3,
+          2,
+          1,
+          1
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 7,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 1,
+        "noSubject": 1,
+        "noPredicate": 0,
+        "percent": 0.29
+      },
+      "enjambement": {
+        "count": 0,
+        "percent": 0,
+        "positions": []
+      },
+      "wordOrder": {
+        "svo": 4,
+        "inversions": 1,
+        "other": 1,
+        "deviationPercent": 0.33
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 2,
+        "śmierć": 1,
+        "erotyka": 1,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 1,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": [
+        "życie/śmierć"
+      ]
+    },
+    "tempo": {
+      "syllables": 204,
+      "estimatedSeconds": 68,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 25,
+      "VERB": 12,
+      "ADJ": 8,
+      "ADV": 7,
+      "PRON": 9,
+      "ADP": 8,
+      "CCONJ": 3,
+      "SCONJ": 4,
+      "INTJ": 0,
+      "PART": 5,
+      "DET": 1,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.287,
+      "VERB": 0.138,
+      "ADJ": 0.092,
+      "ADV": 0.08,
+      "PRON": 0.103,
+      "ADP": 0.092,
+      "CCONJ": 0.034,
+      "SCONJ": 0.046,
+      "INTJ": 0,
+      "PART": 0.057,
+      "DET": 0.011,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 4,
+      "abstract": 2,
+      "ratio": 0.67
+    },
+    "verbTenses": {
+      "past": 4,
+      "future": 1,
+      "present": 6,
+      "infinitive": 1
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 0,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 1
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 0,
+      "opisowe": 8
+    },
+    "adverbs": {
+      "temporalne": [
+        "wciąż"
+      ],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "długo",
+          "count": 1
+        },
+        {
+          "word": "tu",
+          "count": 1
+        },
+        {
+          "word": "celnie",
+          "count": 1
+        },
+        {
+          "word": "uczciwie",
+          "count": 1
+        },
+        {
+          "word": "wciąż",
+          "count": 1
+        },
+        {
+          "word": "wtedy",
+          "count": 1
+        },
+        {
+          "word": "gdy",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 0,
+      "ty": 0,
+      "on_ona": 5,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 1,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 1,
+      "percentSentences": 0.14
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 12.4,
+      "median": 14,
+      "min": 1,
+      "max": 16,
+      "distribution": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        3,
+        0,
+        2
+      ]
+    },
+    "lineLength": {
+      "meanWords": 6.2,
+      "meanSyllables": 14.6,
+      "distribution": [
+        0,
+        2,
+        0,
+        0,
+        0,
+        1,
+        4,
+        3,
+        2,
+        1,
+        1
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 7,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 1,
+      "noSubject": 1,
+      "noPredicate": 0,
+      "percent": 0.29
+    },
+    "enjambement": {
+      "count": 0,
+      "percent": 0,
+      "positions": []
+    },
+    "wordOrder": {
+      "svo": 4,
+      "inversions": 1,
+      "other": 1,
+      "deviationPercent": 0.33
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 196,
+      "consonants": 252,
+      "ratio": 0.78
+    },
+    "consonantClusters": {
+      "count": 14,
+      "top": [
+        {
+          "cluster": "szc",
+          "count": 1
+        },
+        {
+          "cluster": "jrz",
+          "count": 1
+        },
+        {
+          "cluster": "wzr",
+          "count": 1
+        },
+        {
+          "cluster": "ńcz",
+          "count": 1
+        },
+        {
+          "cluster": "chm",
+          "count": 1
+        },
+        {
+          "cluster": "ngfr",
+          "count": 1
+        },
+        {
+          "cluster": "szcz",
+          "count": 1
+        },
+        {
+          "cluster": "wzbr",
+          "count": 1
+        },
+        {
+          "cluster": "chrzcz",
+          "count": 1
+        },
+        {
+          "cluster": "mkn",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 23,
+      "syczace": 44,
+      "nosowe": 58,
+      "plynne": 33
+    },
+    "rhymes": {
+      "exact": 0,
+      "approximate": 3,
+      "internal": 0,
+      "assonance": 0,
+      "alliteration": 2
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        14
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 204,
+      "estimatedSeconds": 68,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "polregularny",
+      "regularityScore": 0.64
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Biblia",
+          "reference": "Eucharystia/Ostatnia Wieczerza",
+          "evidence": "dzielą się uczciwie / Tym ciałem na talerzu pobożnego głodu"
+        },
+        {
+          "source": "Biblia",
+          "reference": "ukrzyżowanie Chrystusa",
+          "evidence": "powieszony jako figura męczeńska, ciało dzielone"
+        },
+        {
+          "source": "mitologia",
+          "reference": "Jungfrau - dziewica alpejska",
+          "evidence": "Jungfrau już go w rękach w Alpy światła niesie"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.7,
+        "baudelaire": 0.6,
+        "bursa": 0.3,
+        "stachura": 0.4,
+        "grochowiak": 0.5,
+        "bialoszewski": 0.1,
+        "rozewicz": 0.2
+      }
+    },
+    "space": {
+      "type": "otwarta",
+      "evidence": "niebi, gwiazdy, Alpy światła, horyzont - przestrzeń kosmiczna i górska",
+      "openClosedRatio": 0.8
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "nieokreslona",
+      "evidence": "czas mityczny/eschatologiczny, poza konkretnymi wyznacznikami temporalnymi"
+    },
+    "motion": {
+      "movement": 8,
+      "stillness": 3,
+      "dynamism": 0.7,
+      "evidence": "uczył się, ujrzał, niesie, piją, ruszając, uciekło - dynamika przemiany"
+    },
+    "imageryDensity": {
+      "metaphors": 8,
+      "comparisons": 1,
+      "personifications": 3,
+      "hyperboles": 2,
+      "per100words": 18.4
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.6,
+      "creationLevel": 0.8,
+      "ironicDistance": 0.4,
+      "autobiographicSignals": [
+        "wizja śmierci",
+        "rok 1968 jako data osobista"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "rozpacz",
+      "secondary": "ironia",
+      "intensity": 0.9
+    },
+    "subjectPresence": {
+      "type": "ukryte",
+      "evidence": "Podmiot liryczny ukryty za trzecioosobową narracją o powieszonym - 'uczył się śmierci', 'ujrzał', 'uśmiecha'"
+    },
+    "addressee": {
+      "type": "nikt",
+      "evidence": "Brak bezpośredniego zwrotu do kogokolwiek, wiersz ma charakter wizyjno-opisowy"
+    },
+    "metaphors": [
+      {
+        "source": "śmierć",
+        "target": "nauka",
+        "example": "Długo uczył się śmierci"
+      },
+      {
+        "source": "gwiazdy",
+        "target": "pismo/księga",
+        "example": "śmierci w niebie mu pisanej Gwiazdami"
+      },
+      {
+        "source": "ciało zmarłego",
+        "target": "pokarm",
+        "example": "dzielą się uczciwie Tym ciałem na talerzu pobożnego głodu"
+      },
+      {
+        "source": "horyzont",
+        "target": "pętla",
+        "example": "życie Uduszone uciekło z pętli horyzontu"
+      }
+    ],
+    "temperature": {
+      "value": 0.7,
+      "label": "gorąca ironia przeplata się z chłodną rezygnacją"
+    },
+    "senses": {
+      "wzrok": 5,
+      "sluch": 1,
+      "dotyk": 4,
+      "smak": 3,
+      "zapach": 0
+    },
+    "autodestruction": {
+      "level": 0.95,
+      "signals": [
+        "powieszenie jako temat wiersza",
+        "motyw uduszenia",
+        "pętla horyzontu",
+        "śmierć jako nauka",
+        "wizja własnego ciała jako pokarmu"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 1.608,
+    "dfaAlpha": 1.258,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -0.7520386983881371
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -0.3901532050648366
+      }
+    ],
+    "seriesLength": 12,
+    "series": [
+      8,
+      7,
+      6,
+      10,
+      8,
+      6,
+      7,
+      7,
+      6,
+      6,
+      9,
+      5
+    ]
+  }
+}

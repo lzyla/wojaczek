@@ -1,0 +1,845 @@
+{
+  "id": "prolegomena-do-innej-bajki",
+  "title": "Prolegomena do innej bajki",
+  "wordCount": 92,
+  "lineCount": 17,
+  "uniqueWords": 73,
+  "vocabularyRichness": 0.793,
+  "avgWordsPerLine": 5.41,
+  "wordsPerLineDistribution": [
+    3,
+    9,
+    5,
+    3,
+    9,
+    5,
+    4,
+    9,
+    3,
+    5,
+    9,
+    4,
+    4,
+    9,
+    6,
+    3,
+    2
+  ],
+  "wordFrequencies": [
+    [
+      "świat",
+      2
+    ],
+    [
+      "serce",
+      2
+    ],
+    [
+      "nikt",
+      2
+    ],
+    [
+      "krówka",
+      2
+    ],
+    [
+      "bajka",
+      1
+    ],
+    [
+      "księżyc",
+      1
+    ],
+    [
+      "zszedł",
+      1
+    ],
+    [
+      "wierzę",
+      1
+    ],
+    [
+      "wschodzi",
+      1
+    ],
+    [
+      "słońcem",
+      1
+    ],
+    [
+      "nieznanym",
+      1
+    ],
+    [
+      "oczach",
+      1
+    ],
+    [
+      "kręci",
+      1
+    ],
+    [
+      "początek",
+      1
+    ],
+    [
+      "świata",
+      1
+    ],
+    [
+      "oku",
+      1
+    ],
+    [
+      "biegną",
+      1
+    ],
+    [
+      "przestrzenie",
+      1
+    ],
+    [
+      "uległe",
+      1
+    ],
+    [
+      "dwie",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 4,
+    "period": 4,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 1,
+    "dash": 7,
+    "colon": 3,
+    "semicolon": 1
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 4,
+  "negationWords": [
+    "nie",
+    "nikt"
+  ],
+  "pronounDistribution": {
+    "ja": 2,
+    "ty": 3,
+    "on_ona": 1,
+    "my": 0,
+    "wy": 0,
+    "oni": 1
+  },
+  "semanticFields": {
+    "cialo": 2,
+    "smierc": 0,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 2,
+    "sacrum": 0,
+    "noc": 1,
+    "bol": 0
+  },
+  "anaphors": [],
+  "firstWord": "jest",
+  "lastWord": "nazwać",
+  "avgWordLength": 4.5,
+  "wordLengthDistribution": {
+    "4-5": 35,
+    "6-7": 17,
+    "1-3": 33,
+    "8-9": 6,
+    "10+": 1
+  },
+  "bigrams": [
+    [
+      "twoje serce",
+      2
+    ],
+    [
+      "inna bajka",
+      1
+    ],
+    [
+      "bajka choć",
+      1
+    ],
+    [
+      "choć księżyc",
+      1
+    ]
+  ],
+  "poemWords": [
+    "bajka",
+    "księżyc",
+    "zszedł",
+    "wierzę",
+    "świat",
+    "wschodzi",
+    "słońcem",
+    "nieznanym",
+    "serce",
+    "oczach",
+    "kręci",
+    "początek",
+    "świata",
+    "oku",
+    "biegną",
+    "przestrzenie",
+    "uległe",
+    "dwie",
+    "armie",
+    "dwa",
+    "sny",
+    "poznajesz",
+    "jedną",
+    "wiedzie",
+    "nikt",
+    "obłok",
+    "boża",
+    "krówka",
+    "drugą",
+    "wiesz",
+    "bitwa",
+    "dwu",
+    "żywiołów",
+    "odbiegnie",
+    "nieba",
+    "zbadać",
+    "nowo",
+    "nauczę",
+    "mówić",
+    "nazwać",
+    "1965",
+    "1968"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 23,
+        "VERB": 13,
+        "ADJ": 6,
+        "ADV": 2,
+        "PRON": 8,
+        "ADP": 11,
+        "CCONJ": 3,
+        "SCONJ": 8,
+        "INTJ": 0,
+        "PART": 11,
+        "DET": 3,
+        "NUM": 3
+      },
+      "posPercent": {
+        "NOUN": 0.245,
+        "VERB": 0.138,
+        "ADJ": 0.064,
+        "ADV": 0.021,
+        "PRON": 0.085,
+        "ADP": 0.117,
+        "CCONJ": 0.032,
+        "SCONJ": 0.085,
+        "INTJ": 0,
+        "PART": 0.117,
+        "DET": 0.032,
+        "NUM": 0.032
+      },
+      "nounConcreteAbstract": {
+        "concrete": 2,
+        "abstract": 0,
+        "ratio": 1
+      },
+      "verbTenses": {
+        "present": 8,
+        "past": 2,
+        "future": 2,
+        "infinitive": 3
+      },
+      "verbSemantics": {
+        "ruch": 1,
+        "percepcja": 0,
+        "stan": 3,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 1,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 0,
+        "opisowe": 6
+      },
+      "adverbs": {
+        "temporalne": [],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "gdy",
+            "count": 1
+          },
+          {
+            "word": "nowo",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 2,
+        "ty": 0,
+        "on_ona": 1,
+        "my": 0,
+        "wy": 0,
+        "oni": 1
+      },
+      "negations": {
+        "nie": 2,
+        "nic": 0,
+        "nikt": 2,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 4,
+        "percentSentences": 0.44
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 175,
+        "consonants": 254,
+        "ratio": 0.69
+      },
+      "consonantClusters": {
+        "count": 8,
+        "top": [
+          {
+            "cluster": "prz",
+            "count": 3
+          },
+          {
+            "cluster": "szcz",
+            "count": 2
+          },
+          {
+            "cluster": "zsz",
+            "count": 1
+          },
+          {
+            "cluster": "wsch",
+            "count": 1
+          },
+          {
+            "cluster": "strz",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 24,
+        "syczace": 36,
+        "nosowe": 52,
+        "plynne": 22
+      },
+      "rhymes": {
+        "exact": 1,
+        "approximate": 5,
+        "internal": 0,
+        "assonance": 0,
+        "alliteration": 2
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 10.4,
+        "median": 9,
+        "min": 3,
+        "max": 22,
+        "distribution": [
+          0,
+          0,
+          0,
+          1,
+          1,
+          2,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 5.9,
+        "meanSyllables": 10.8,
+        "distribution": [
+          0,
+          0,
+          0,
+          1,
+          6,
+          3,
+          2,
+          0,
+          0,
+          3,
+          2
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 9,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 2,
+        "noSubject": 1,
+        "noPredicate": 0,
+        "percent": 0.33
+      },
+      "enjambement": {
+        "count": 9,
+        "percent": 0.56,
+        "positions": [
+          3,
+          4,
+          6,
+          7,
+          8,
+          9,
+          12,
+          14,
+          16
+        ]
+      },
+      "wordOrder": {
+        "svo": 2,
+        "inversions": 3,
+        "other": 4,
+        "deviationPercent": 0.78
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 2,
+        "śmierć": 0,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 2,
+        "sacrum": 0,
+        "noc": 1,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 184,
+      "estimatedSeconds": 61,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 23,
+      "VERB": 13,
+      "ADJ": 6,
+      "ADV": 2,
+      "PRON": 8,
+      "ADP": 11,
+      "CCONJ": 3,
+      "SCONJ": 8,
+      "INTJ": 0,
+      "PART": 11,
+      "DET": 3,
+      "NUM": 3
+    },
+    "posPercent": {
+      "NOUN": 0.245,
+      "VERB": 0.138,
+      "ADJ": 0.064,
+      "ADV": 0.021,
+      "PRON": 0.085,
+      "ADP": 0.117,
+      "CCONJ": 0.032,
+      "SCONJ": 0.085,
+      "INTJ": 0,
+      "PART": 0.117,
+      "DET": 0.032,
+      "NUM": 0.032
+    },
+    "nounConcreteAbstract": {
+      "concrete": 2,
+      "abstract": 0,
+      "ratio": 1
+    },
+    "verbTenses": {
+      "present": 8,
+      "past": 2,
+      "future": 2,
+      "infinitive": 3
+    },
+    "verbSemantics": {
+      "ruch": 1,
+      "percepcja": 0,
+      "stan": 3,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 1,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 0,
+      "opisowe": 6
+    },
+    "adverbs": {
+      "temporalne": [],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "gdy",
+          "count": 1
+        },
+        {
+          "word": "nowo",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 2,
+      "ty": 0,
+      "on_ona": 1,
+      "my": 0,
+      "wy": 0,
+      "oni": 1
+    },
+    "negations": {
+      "nie": 2,
+      "nic": 0,
+      "nikt": 2,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 4,
+      "percentSentences": 0.44
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 10.4,
+      "median": 9,
+      "min": 3,
+      "max": 22,
+      "distribution": [
+        0,
+        0,
+        0,
+        1,
+        1,
+        2,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 5.9,
+      "meanSyllables": 10.8,
+      "distribution": [
+        0,
+        0,
+        0,
+        1,
+        6,
+        3,
+        2,
+        0,
+        0,
+        3,
+        2
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 9,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 2,
+      "noSubject": 1,
+      "noPredicate": 0,
+      "percent": 0.33
+    },
+    "enjambement": {
+      "count": 9,
+      "percent": 0.56,
+      "positions": [
+        3,
+        4,
+        6,
+        7,
+        8,
+        9,
+        12,
+        14,
+        16
+      ]
+    },
+    "wordOrder": {
+      "svo": 2,
+      "inversions": 3,
+      "other": 4,
+      "deviationPercent": 0.78
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 175,
+      "consonants": 254,
+      "ratio": 0.69
+    },
+    "consonantClusters": {
+      "count": 8,
+      "top": [
+        {
+          "cluster": "prz",
+          "count": 3
+        },
+        {
+          "cluster": "szcz",
+          "count": 2
+        },
+        {
+          "cluster": "zsz",
+          "count": 1
+        },
+        {
+          "cluster": "wsch",
+          "count": 1
+        },
+        {
+          "cluster": "strz",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 24,
+      "syczace": 36,
+      "nosowe": 52,
+      "plynne": 22
+    },
+    "rhymes": {
+      "exact": 1,
+      "approximate": 5,
+      "internal": 0,
+      "assonance": 0,
+      "alliteration": 2
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        17
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 184,
+      "estimatedSeconds": 61,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "polregularny",
+      "regularityScore": 0.67
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Biblia",
+          "reference": "Exodus - słup obłoku prowadzący lud",
+          "evidence": "jakby obłok / Boża Krówka przed drugą"
+        },
+        {
+          "source": "mitologia",
+          "reference": "kosmogonia - początek świata",
+          "evidence": "w oczach już się kręci świat jakby początek / był świata"
+        },
+        {
+          "source": "Biblia",
+          "reference": "Księga Rodzaju - stworzenie świata",
+          "evidence": "nad świat wschodzi słońcem / nieznanym"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.7,
+        "baudelaire": 0.3,
+        "bursa": 0.2,
+        "stachura": 0.6,
+        "grochowiak": 0.1,
+        "bialoszewski": 0.1,
+        "rozewicz": 0.2
+      }
+    },
+    "space": {
+      "type": "otwarta",
+      "evidence": "biegną przez przestrzenie / uległe im",
+      "openClosedRatio": 0.9
+    },
+    "timeOfDay": {
+      "period": "rano",
+      "season": "nieokreslona",
+      "evidence": "nad świat wschodzi słońcem / nieznanym"
+    },
+    "motion": {
+      "movement": 8,
+      "stillness": 2,
+      "dynamism": 0.8,
+      "evidence": "biegną przez przestrzenie / uległe im – dwie armie / Krówka znów odbiegnie"
+    },
+    "imageryDensity": {
+      "metaphors": 6,
+      "comparisons": 3,
+      "personifications": 2,
+      "hyperboles": 1,
+      "per100words": 12
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.8,
+      "creationLevel": 0.7,
+      "ironicDistance": 0.2,
+      "autobiographicSignals": [
+        "dla mnie",
+        "nim się na nowo / nauczę mówić",
+        "Twoje serce"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "tęsknota",
+      "secondary": "euforia",
+      "intensity": 0.8
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "Podmiot liryczny bezpośrednio obecny poprzez zaimki 'za mnie', 'dla mnie', 'się nauczę'"
+    },
+    "addressee": {
+      "type": "ty",
+      "evidence": "Wiersz kierowany do konkretnej osoby: 'Twoje serce', 'Twoim oku', 'poznajesz', 'wiesz'"
+    },
+    "metaphors": [
+      {
+        "source": "serce",
+        "target": "słońce",
+        "example": "nad świat wschodzi słońcem nieznanym – Twoje serce"
+      },
+      {
+        "source": "oko",
+        "target": "świat/kosmos",
+        "example": "w oczach już się kręci świat jakby początek był świata"
+      },
+      {
+        "source": "armie",
+        "target": "sny/siły duchowe",
+        "example": "dwie armie jak dwa sny"
+      },
+      {
+        "source": "Boża Krówka",
+        "target": "siła transcendentna",
+        "example": "jakby obłok Boża Krówka"
+      }
+    ],
+    "temperature": {
+      "value": 0.7,
+      "label": "ciepłe - miłosne uniesienie z nutą niepewności"
+    },
+    "senses": {
+      "wzrok": 5,
+      "sluch": 1,
+      "dotyk": 2,
+      "smak": 0,
+      "zapach": 0
+    },
+    "autodestruction": {
+      "level": 0.2,
+      "signals": [
+        "'nim się na nowo nauczę mówić' - sugeruje utratę podstawowych zdolności"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 0.176,
+    "dfaAlpha": 0.516,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": 0.03641866197613301
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": 0.27337203572040153
+      },
+      {
+        "logWin": 1.6094379124341003,
+        "logFluc": 0.2923630002932725
+      }
+    ],
+    "seriesLength": 17,
+    "series": [
+      3,
+      9,
+      5,
+      3,
+      9,
+      5,
+      4,
+      9,
+      3,
+      5,
+      9,
+      4,
+      4,
+      9,
+      6,
+      3,
+      2
+    ]
+  }
+}

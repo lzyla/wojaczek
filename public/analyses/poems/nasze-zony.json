@@ -1,0 +1,929 @@
+{
+  "id": "nasze-zony",
+  "title": "Nasze żony",
+  "wordCount": 111,
+  "lineCount": 14,
+  "uniqueWords": 87,
+  "vocabularyRichness": 0.784,
+  "avgWordsPerLine": 7.93,
+  "wordsPerLineDistribution": [
+    7,
+    7,
+    6,
+    9,
+    8,
+    8,
+    9,
+    7,
+    8,
+    7,
+    10,
+    7,
+    10,
+    8
+  ],
+  "wordFrequencies": [
+    [
+      "kobiety",
+      3
+    ],
+    [
+      "czasem",
+      3
+    ],
+    [
+      "musi",
+      2
+    ],
+    [
+      "niezdrowe",
+      1
+    ],
+    [
+      "wygonach",
+      1
+    ],
+    [
+      "ciał",
+      1
+    ],
+    [
+      "zdeptanych",
+      1
+    ],
+    [
+      "klęską",
+      1
+    ],
+    [
+      "klęski",
+      1
+    ],
+    [
+      "pasą",
+      1
+    ],
+    [
+      "niedobre",
+      1
+    ],
+    [
+      "przeżywają",
+      1
+    ],
+    [
+      "strach",
+      1
+    ],
+    [
+      "cierpliwość",
+      1
+    ],
+    [
+      "strachu",
+      1
+    ],
+    [
+      "zabraknąć",
+      1
+    ],
+    [
+      "smutne",
+      1
+    ],
+    [
+      "kosztuje",
+      1
+    ],
+    [
+      "dużo",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 9,
+    "period": 6,
+    "question": 0,
+    "exclamation": 1,
+    "ellipsis": 0,
+    "dash": 3,
+    "colon": 1,
+    "semicolon": 1
+  },
+  "questionCount": 0,
+  "exclamationCount": 1,
+  "negationCount": 1,
+  "negationWords": [
+    "nigdy"
+  ],
+  "pronounDistribution": {
+    "ja": 0,
+    "ty": 0,
+    "on_ona": 6,
+    "my": 7,
+    "wy": 0,
+    "oni": 3
+  },
+  "semanticFields": {
+    "cialo": 0,
+    "smierc": 0,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 0
+  },
+  "anaphors": [],
+  "firstWord": "niezdrowe",
+  "lastWord": "wychodki",
+  "avgWordLength": 4.86,
+  "wordLengthDistribution": {
+    "8-9": 10,
+    "1-3": 38,
+    "6-7": 25,
+    "4-5": 33,
+    "10+": 5
+  },
+  "bigrams": [
+    [
+      "ciał zdeptanych",
+      1
+    ],
+    [
+      "zdeptanych klęską",
+      1
+    ],
+    [
+      "nasze klęski",
+      1
+    ],
+    [
+      "pasą niedobre",
+      1
+    ]
+  ],
+  "poemWords": [
+    "niezdrowe",
+    "kobiety",
+    "wygonach",
+    "ciał",
+    "zdeptanych",
+    "klęską",
+    "klęski",
+    "pasą",
+    "niedobre",
+    "przeżywają",
+    "strach",
+    "cierpliwość",
+    "musi",
+    "strachu",
+    "czasem",
+    "zabraknąć",
+    "smutne",
+    "kosztuje",
+    "dużo",
+    "radość",
+    "mówimy",
+    "głupie",
+    "chamskie",
+    "kłamstwo",
+    "najboleśniejsze",
+    "zrzekły",
+    "zbyt",
+    "pewną",
+    "siebie",
+    "naszą",
+    "męskość",
+    "urazić",
+    "mogło",
+    "racji",
+    "chcą",
+    "mieć",
+    "któraś",
+    "biednym",
+    "ciałem",
+    "odważy",
+    "drogę",
+    "świat",
+    "zastawić",
+    "złe",
+    "wychodzi",
+    "sińcem",
+    "okiem",
+    "ech",
+    "panie",
+    "wychodki"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 26,
+        "VERB": 15,
+        "ADJ": 8,
+        "ADV": 4,
+        "PRON": 16,
+        "ADP": 8,
+        "CCONJ": 3,
+        "SCONJ": 6,
+        "INTJ": 0,
+        "PART": 5,
+        "DET": 15,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.23,
+        "VERB": 0.133,
+        "ADJ": 0.071,
+        "ADV": 0.035,
+        "PRON": 0.142,
+        "ADP": 0.071,
+        "CCONJ": 0.027,
+        "SCONJ": 0.053,
+        "INTJ": 0,
+        "PART": 0.044,
+        "DET": 0.133,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 2,
+        "abstract": 7,
+        "ratio": 0.22
+      },
+      "verbTenses": {
+        "future": 2,
+        "present": 11,
+        "infinitive": 5,
+        "past": 2
+      },
+      "verbSemantics": {
+        "ruch": 1,
+        "percepcja": 0,
+        "stan": 3,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 1,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 2,
+        "opisowe": 6
+      },
+      "adverbs": {
+        "temporalne": [
+          "nigdy",
+          "wciąż"
+        ],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "wciąż",
+            "count": 1
+          },
+          {
+            "word": "nigdy",
+            "count": 1
+          },
+          {
+            "word": "zbyt",
+            "count": 1
+          },
+          {
+            "word": "kiedy",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 0,
+        "ty": 0,
+        "on_ona": 2,
+        "my": 3,
+        "wy": 0,
+        "oni": 4
+      },
+      "negations": {
+        "nie": 0,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 1,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 1,
+        "percentSentences": 0.14
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 226,
+        "consonants": 323,
+        "ratio": 0.7
+      },
+      "consonantClusters": {
+        "count": 14,
+        "top": [
+          {
+            "cluster": "str",
+            "count": 2
+          },
+          {
+            "cluster": "zdr",
+            "count": 1
+          },
+          {
+            "cluster": "szcz",
+            "count": 1
+          },
+          {
+            "cluster": "prz",
+            "count": 1
+          },
+          {
+            "cluster": "rpl",
+            "count": 1
+          },
+          {
+            "cluster": "szt",
+            "count": 1
+          },
+          {
+            "cluster": "msk",
+            "count": 1
+          },
+          {
+            "cluster": "mstw",
+            "count": 1
+          },
+          {
+            "cluster": "jsz",
+            "count": 1
+          },
+          {
+            "cluster": "zrz",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 23,
+        "syczace": 72,
+        "nosowe": 62,
+        "plynne": 32
+      },
+      "rhymes": {
+        "exact": 1,
+        "approximate": 0,
+        "internal": 0,
+        "assonance": 1,
+        "alliteration": 1
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 16.1,
+        "median": 16,
+        "min": 4,
+        "max": 37,
+        "distribution": [
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 7.7,
+        "meanSyllables": 15.3,
+        "distribution": [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          4,
+          5,
+          2,
+          1,
+          0,
+          1
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 6,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 1
+      },
+      "ellipsis": {
+        "incomplete": 0,
+        "noSubject": 1,
+        "noPredicate": 1,
+        "percent": 0.29
+      },
+      "enjambement": {
+        "count": 8,
+        "percent": 0.57,
+        "positions": [
+          2,
+          4,
+          6,
+          8,
+          9,
+          10,
+          13,
+          14
+        ]
+      },
+      "wordOrder": {
+        "svo": 5,
+        "inversions": 0,
+        "other": 2,
+        "deviationPercent": 0.29
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 1,
+        "śmierć": 0,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 230,
+      "estimatedSeconds": 77,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 26,
+      "VERB": 15,
+      "ADJ": 8,
+      "ADV": 4,
+      "PRON": 16,
+      "ADP": 8,
+      "CCONJ": 3,
+      "SCONJ": 6,
+      "INTJ": 0,
+      "PART": 5,
+      "DET": 15,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.23,
+      "VERB": 0.133,
+      "ADJ": 0.071,
+      "ADV": 0.035,
+      "PRON": 0.142,
+      "ADP": 0.071,
+      "CCONJ": 0.027,
+      "SCONJ": 0.053,
+      "INTJ": 0,
+      "PART": 0.044,
+      "DET": 0.133,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 2,
+      "abstract": 7,
+      "ratio": 0.22
+    },
+    "verbTenses": {
+      "future": 2,
+      "present": 11,
+      "infinitive": 5,
+      "past": 2
+    },
+    "verbSemantics": {
+      "ruch": 1,
+      "percepcja": 0,
+      "stan": 3,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 1,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 2,
+      "opisowe": 6
+    },
+    "adverbs": {
+      "temporalne": [
+        "nigdy",
+        "wciąż"
+      ],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "wciąż",
+          "count": 1
+        },
+        {
+          "word": "nigdy",
+          "count": 1
+        },
+        {
+          "word": "zbyt",
+          "count": 1
+        },
+        {
+          "word": "kiedy",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 0,
+      "ty": 0,
+      "on_ona": 2,
+      "my": 3,
+      "wy": 0,
+      "oni": 4
+    },
+    "negations": {
+      "nie": 0,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 1,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 1,
+      "percentSentences": 0.14
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 16.1,
+      "median": 16,
+      "min": 4,
+      "max": 37,
+      "distribution": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 7.7,
+      "meanSyllables": 15.3,
+      "distribution": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        4,
+        5,
+        2,
+        1,
+        0,
+        1
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 6,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 1
+    },
+    "ellipsis": {
+      "incomplete": 0,
+      "noSubject": 1,
+      "noPredicate": 1,
+      "percent": 0.29
+    },
+    "enjambement": {
+      "count": 8,
+      "percent": 0.57,
+      "positions": [
+        2,
+        4,
+        6,
+        8,
+        9,
+        10,
+        13,
+        14
+      ]
+    },
+    "wordOrder": {
+      "svo": 5,
+      "inversions": 0,
+      "other": 2,
+      "deviationPercent": 0.29
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 226,
+      "consonants": 323,
+      "ratio": 0.7
+    },
+    "consonantClusters": {
+      "count": 14,
+      "top": [
+        {
+          "cluster": "str",
+          "count": 2
+        },
+        {
+          "cluster": "zdr",
+          "count": 1
+        },
+        {
+          "cluster": "szcz",
+          "count": 1
+        },
+        {
+          "cluster": "prz",
+          "count": 1
+        },
+        {
+          "cluster": "rpl",
+          "count": 1
+        },
+        {
+          "cluster": "szt",
+          "count": 1
+        },
+        {
+          "cluster": "msk",
+          "count": 1
+        },
+        {
+          "cluster": "mstw",
+          "count": 1
+        },
+        {
+          "cluster": "jsz",
+          "count": 1
+        },
+        {
+          "cluster": "zrz",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 23,
+      "syczace": 72,
+      "nosowe": 62,
+      "plynne": 32
+    },
+    "rhymes": {
+      "exact": 1,
+      "approximate": 0,
+      "internal": 0,
+      "assonance": 1,
+      "alliteration": 1
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        15
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 230,
+      "estimatedSeconds": 77,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "regularny",
+      "regularityScore": 0.78
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Różewicz",
+          "reference": "poetyka opisu zwykłości i goryczy codzienności",
+          "evidence": "realizm opisu relacji małżeńskich, brak ozdobności"
+        },
+        {
+          "source": "Grochowiak",
+          "reference": "brutalna prawda o człowieku",
+          "evidence": "bezlitosny opis męskiej przemocy i manipulacji"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.1,
+        "baudelaire": 0.2,
+        "bursa": 0.3,
+        "stachura": 0.2,
+        "grochowiak": 0.7,
+        "bialoszewski": 0.1,
+        "rozewicz": 0.8
+      }
+    },
+    "space": {
+      "type": "zamknieta",
+      "evidence": "domowe wnętrza, relacje małżeńskie jako zamknięty krąg przemocy",
+      "openClosedRatio": 0.2
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "nieokreslona",
+      "evidence": "brak wskazówek temporalnych, fokus na relacjach międzyludzkich"
+    },
+    "motion": {
+      "movement": 4,
+      "stillness": 6,
+      "dynamism": 0.4,
+      "evidence": "statyczność opisu, pojedyncze akcje: 'się pasą', 'zastawić drogę', 'wychodzi sińcem'"
+    },
+    "imageryDensity": {
+      "metaphors": 3,
+      "comparisons": 0,
+      "personifications": 2,
+      "hyperboles": 1,
+      "per100words": 4.3
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.9,
+      "creationLevel": 0.1,
+      "ironicDistance": 0.1,
+      "autobiographicSignals": [
+        "forma 'my' - męska wspólnota",
+        "intymność opisu relacji małżeńskich",
+        "brutalna szczerość w opisie własnej grupy"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "rezygnacja",
+      "secondary": "gniew",
+      "intensity": 0.8
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "Podmiot mówi w pierwszej osobie liczby mnogiej 'my' reprezentując mężczyzn: 'nasze klęski', 'nasz strach', 'Mówimy, że są głupie'"
+    },
+    "addressee": {
+      "type": "czytelnik",
+      "evidence": "Wypowiedź ma charakter uniwersalnego wyznania skierowanego do odbiorcy, brak bezpośrednich zwrotów"
+    },
+    "metaphors": [
+      {
+        "source": "wygony",
+        "target": "ciała kobiet",
+        "example": "na wygonach ich ciał zdeptanych klęską"
+      },
+      {
+        "source": "pasą się",
+        "target": "krzywdzenie",
+        "example": "nasze klęski się pasą"
+      },
+      {
+        "source": "zastawić drogę",
+        "target": "sprzeciw",
+        "example": "drogą w świat nam zastawić"
+      },
+      {
+        "source": "wychodki",
+        "target": "kobiety",
+        "example": "te panie, nasze wychodki"
+      }
+    ],
+    "temperature": {
+      "value": 0.3,
+      "label": "chłodna autoanaliza z nutą rozgoryczenia"
+    },
+    "senses": {
+      "wzrok": 4,
+      "sluch": 1,
+      "dotyk": 3,
+      "smak": 0,
+      "zapach": 0
+    },
+    "autodestruction": {
+      "level": 0.6,
+      "signals": [
+        "autooskarżenie o chamstwo",
+        "przyznanie się do krzywdzenia kobiet",
+        "uznanie własnej winy za przemoc domową"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 0.973,
+    "dfaAlpha": 2.394,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -1.222042327633872
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -0.5333150707972096
+      }
+    ],
+    "seriesLength": 14,
+    "series": [
+      7,
+      7,
+      6,
+      9,
+      8,
+      8,
+      9,
+      7,
+      8,
+      7,
+      10,
+      7,
+      10,
+      8
+    ]
+  }
+}

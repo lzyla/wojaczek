@@ -1,0 +1,779 @@
+{
+  "id": "zycie-roi-sie-od-szyb",
+  "title": "Życie roi się od szyb",
+  "wordCount": 65,
+  "lineCount": 9,
+  "uniqueWords": 45,
+  "vocabularyRichness": 0.692,
+  "avgWordsPerLine": 7.22,
+  "wordsPerLineDistribution": [
+    3,
+    8,
+    6,
+    8,
+    7,
+    9,
+    8,
+    8,
+    8
+  ],
+  "wordFrequencies": [
+    [
+      "życie",
+      2
+    ],
+    [
+      "roi",
+      2
+    ],
+    [
+      "szyb",
+      1
+    ],
+    [
+      "przebić",
+      1
+    ],
+    [
+      "głową",
+      1
+    ],
+    [
+      "wskoczyć",
+      1
+    ],
+    [
+      "prosto",
+      1
+    ],
+    [
+      "ust",
+      1
+    ],
+    [
+      "królowej",
+      1
+    ],
+    [
+      "gwiazd",
+      1
+    ],
+    [
+      "niszczą",
+      1
+    ],
+    [
+      "oczy",
+      1
+    ],
+    [
+      "gnieżdżą",
+      1
+    ],
+    [
+      "lampie",
+      1
+    ],
+    [
+      "mózgu",
+      1
+    ],
+    [
+      "szyby",
+      1
+    ],
+    [
+      "cukru",
+      1
+    ],
+    [
+      "koce",
+      1
+    ],
+    [
+      "królowa",
+      1
+    ],
+    [
+      "zmysł",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 5,
+    "period": 5,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 0,
+    "colon": 0,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 2,
+  "negationWords": [
+    "nie"
+  ],
+  "pronounDistribution": {
+    "ja": 0,
+    "ty": 0,
+    "on_ona": 0,
+    "my": 0,
+    "wy": 0,
+    "oni": 0
+  },
+  "semanticFields": {
+    "cialo": 1,
+    "smierc": 0,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 1,
+    "bol": 0
+  },
+  "anaphors": [
+    [
+      "a to",
+      3
+    ],
+    [
+      "życie",
+      2
+    ]
+  ],
+  "firstWord": "życie",
+  "lastWord": "trzypiętrowo",
+  "avgWordLength": 3.71,
+  "wordLengthDistribution": {
+    "1-3": 37,
+    "4-5": 13,
+    "6-7": 10,
+    "8-9": 3,
+    "10+": 2
+  },
+  "bigrams": [
+    [
+      "życie roi",
+      2
+    ],
+    [
+      "przebić głową",
+      1
+    ],
+    [
+      "wskoczyć prosto",
+      1
+    ]
+  ],
+  "poemWords": [
+    "życie",
+    "roi",
+    "szyb",
+    "przebić",
+    "głową",
+    "wskoczyć",
+    "prosto",
+    "ust",
+    "królowej",
+    "gwiazd",
+    "niszczą",
+    "oczy",
+    "gnieżdżą",
+    "lampie",
+    "mózgu",
+    "szyby",
+    "cukru",
+    "koce",
+    "królowa",
+    "zmysł",
+    "pieszczoty",
+    "wypluwa",
+    "bruk",
+    "kałużę",
+    "krwi",
+    "gwiazdy",
+    "śmieją",
+    "trzypiętrowo"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 19,
+        "VERB": 9,
+        "ADJ": 0,
+        "ADV": 2,
+        "PRON": 9,
+        "ADP": 8,
+        "CCONJ": 7,
+        "SCONJ": 1,
+        "INTJ": 0,
+        "PART": 2,
+        "DET": 0,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.306,
+        "VERB": 0.145,
+        "ADJ": 0,
+        "ADV": 0.032,
+        "PRON": 0.145,
+        "ADP": 0.129,
+        "CCONJ": 0.113,
+        "SCONJ": 0.016,
+        "INTJ": 0,
+        "PART": 0.032,
+        "DET": 0,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 4,
+        "abstract": 2,
+        "ratio": 0.67
+      },
+      "verbTenses": {
+        "present": 11,
+        "infinitive": 2
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 3,
+        "destrukcja": 1,
+        "tworzenie": 0,
+        "komunikacja": 0,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 0,
+        "opisowe": 0
+      },
+      "adverbs": {
+        "temporalne": [],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "prosto",
+            "count": 1
+          },
+          {
+            "word": "trzypiętrowo",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 0,
+        "ty": 0,
+        "on_ona": 0,
+        "my": 0,
+        "wy": 0,
+        "oni": 0
+      },
+      "negations": {
+        "nie": 2,
+        "nic": 0,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 2,
+        "percentSentences": 0.33
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 105,
+        "consonants": 133,
+        "ratio": 0.79
+      },
+      "consonantClusters": {
+        "count": 7,
+        "top": [
+          {
+            "cluster": "szcz",
+            "count": 2
+          },
+          {
+            "cluster": "prz",
+            "count": 1
+          },
+          {
+            "cluster": "wsk",
+            "count": 1
+          },
+          {
+            "cluster": "żdż",
+            "count": 1
+          },
+          {
+            "cluster": "krw",
+            "count": 1
+          },
+          {
+            "cluster": "trz",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 16,
+        "syczace": 26,
+        "nosowe": 23,
+        "plynne": 18
+      },
+      "rhymes": {
+        "exact": 0,
+        "approximate": 0,
+        "internal": 0,
+        "assonance": 0,
+        "alliteration": 0
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 10.3,
+        "median": 12,
+        "min": 0,
+        "max": 16,
+        "distribution": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 7.2,
+        "meanSyllables": 12.4,
+        "distribution": [
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          1,
+          1,
+          5,
+          1
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 6,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 0,
+        "noSubject": 1,
+        "noPredicate": 0,
+        "percent": 0.17
+      },
+      "enjambement": {
+        "count": 2,
+        "percent": 0.25,
+        "positions": [
+          2,
+          7
+        ]
+      },
+      "wordOrder": {
+        "svo": 4,
+        "inversions": 0,
+        "other": 1,
+        "deviationPercent": 0.2
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 2,
+        "śmierć": 0,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 0,
+        "ból": 0
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 112,
+      "estimatedSeconds": 37,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 19,
+      "VERB": 9,
+      "ADJ": 0,
+      "ADV": 2,
+      "PRON": 9,
+      "ADP": 8,
+      "CCONJ": 7,
+      "SCONJ": 1,
+      "INTJ": 0,
+      "PART": 2,
+      "DET": 0,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.306,
+      "VERB": 0.145,
+      "ADJ": 0,
+      "ADV": 0.032,
+      "PRON": 0.145,
+      "ADP": 0.129,
+      "CCONJ": 0.113,
+      "SCONJ": 0.016,
+      "INTJ": 0,
+      "PART": 0.032,
+      "DET": 0,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 4,
+      "abstract": 2,
+      "ratio": 0.67
+    },
+    "verbTenses": {
+      "present": 11,
+      "infinitive": 2
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 3,
+      "destrukcja": 1,
+      "tworzenie": 0,
+      "komunikacja": 0,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 0,
+      "opisowe": 0
+    },
+    "adverbs": {
+      "temporalne": [],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "prosto",
+          "count": 1
+        },
+        {
+          "word": "trzypiętrowo",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 0,
+      "ty": 0,
+      "on_ona": 0,
+      "my": 0,
+      "wy": 0,
+      "oni": 0
+    },
+    "negations": {
+      "nie": 2,
+      "nic": 0,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 2,
+      "percentSentences": 0.33
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 10.3,
+      "median": 12,
+      "min": 0,
+      "max": 16,
+      "distribution": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 7.2,
+      "meanSyllables": 12.4,
+      "distribution": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        5,
+        1
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 6,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 0,
+      "noSubject": 1,
+      "noPredicate": 0,
+      "percent": 0.17
+    },
+    "enjambement": {
+      "count": 2,
+      "percent": 0.25,
+      "positions": [
+        2,
+        7
+      ]
+    },
+    "wordOrder": {
+      "svo": 4,
+      "inversions": 0,
+      "other": 1,
+      "deviationPercent": 0.2
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 105,
+      "consonants": 133,
+      "ratio": 0.79
+    },
+    "consonantClusters": {
+      "count": 7,
+      "top": [
+        {
+          "cluster": "szcz",
+          "count": 2
+        },
+        {
+          "cluster": "prz",
+          "count": 1
+        },
+        {
+          "cluster": "wsk",
+          "count": 1
+        },
+        {
+          "cluster": "żdż",
+          "count": 1
+        },
+        {
+          "cluster": "krw",
+          "count": 1
+        },
+        {
+          "cluster": "trz",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 16,
+      "syczace": 26,
+      "nosowe": 23,
+      "plynne": 18
+    },
+    "rhymes": {
+      "exact": 0,
+      "approximate": 0,
+      "internal": 0,
+      "assonance": 0,
+      "alliteration": 0
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        9
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 112,
+      "estimatedSeconds": 37,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "polregularny",
+      "regularityScore": 0.67
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Rimbaud",
+          "reference": "wizja synestezyjnego postrzegania rzeczywistości",
+          "evidence": "gwiazdy co niszczą oczy, gnieżdżą się w lampie i w mózgu"
+        },
+        {
+          "source": "Baudelaire",
+          "reference": "estetyka brzydoty i miejskiej degradacji",
+          "evidence": "wypluwa na bruk w kałużę krwi"
+        },
+        {
+          "source": "mitologia",
+          "reference": "archetyp Królowej jako władczyni",
+          "evidence": "wskoczyć prosto do ust Królowej"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.8,
+        "baudelaire": 0.7,
+        "bursa": 0.4,
+        "stachura": 0.3,
+        "grochowiak": 0.6,
+        "bialoszewski": 0.2,
+        "rozewicz": 0.5
+      }
+    },
+    "space": {
+      "type": "otwarta",
+      "evidence": "miasto z brukiem, kałużami, wielopiętrowa przestrzeń - gwiazdy śmiejące się trzypiętrowo",
+      "openClosedRatio": 0.7
+    },
+    "timeOfDay": {
+      "period": "noc",
+      "season": "nieokreslona",
+      "evidence": "obecność gwiazd i lamp sugeruje porę nocną"
+    },
+    "motion": {
+      "movement": 8,
+      "stillness": 2,
+      "dynamism": 0.8,
+      "evidence": "przebić głową, wskoczyć, roi się, gnieżdżą się, wypluwa - intensywny ruch i agresja"
+    },
+    "imageryDensity": {
+      "metaphors": 4,
+      "comparisons": 2,
+      "personifications": 3,
+      "hyperboles": 2,
+      "per100words": 22.4
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.8,
+      "creationLevel": 0.7,
+      "ironicDistance": 0.3,
+      "autobiographicSignals": [
+        "data osobista 5 V 1969",
+        "bezpośredni ton wyznania",
+        "konkretność doznań zmysłowych"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "rozpacz",
+      "secondary": "obrzydzenie",
+      "intensity": 0.9
+    },
+    "subjectPresence": {
+      "type": "ukryte",
+      "evidence": "podmiot obecny w percepcji rzeczywistości, ale nie wypowiada się bezpośrednio"
+    },
+    "addressee": {
+      "type": "nikt",
+      "evidence": "brak bezpośredniego zwrotu, wiersz jako konstatacja rzeczywistości"
+    },
+    "metaphors": [
+      {
+        "source": "życie",
+        "target": "szyby do przebicia",
+        "example": "Życie roi się od szyb, by przebić głową"
+      },
+      {
+        "source": "gwiazdy",
+        "target": "niszczycielska siła",
+        "example": "gwiazdy, co niszczą oczy, gnieżdżą się w lampie i w mózgu"
+      },
+      {
+        "source": "Królowa",
+        "target": "fałszywa obietnica zbawienia",
+        "example": "wskoczyć prosto do ust Królowej"
+      }
+    ],
+    "temperature": {
+      "value": 0.8,
+      "label": "gorące"
+    },
+    "senses": {
+      "wzrok": 5,
+      "sluch": 1,
+      "dotyk": 4,
+      "smak": 2,
+      "zapach": 0
+    },
+    "autodestruction": {
+      "level": 0.9,
+      "signals": [
+        "przebić głową szyby",
+        "niszczenie oczu przez gwiazdy",
+        "wyplucie krwi na bruk"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": null,
+    "dfaAlpha": null,
+    "dfaScaling": [],
+    "seriesLength": 9,
+    "series": [
+      3,
+      8,
+      6,
+      8,
+      7,
+      9,
+      8,
+      8,
+      8
+    ]
+  }
+}

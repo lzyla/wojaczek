@@ -1,0 +1,849 @@
+{
+  "id": "marsz-zalobny",
+  "title": "Marsz żałobny",
+  "wordCount": 75,
+  "lineCount": 17,
+  "uniqueWords": 64,
+  "vocabularyRichness": 0.853,
+  "avgWordsPerLine": 4.41,
+  "wordsPerLineDistribution": [
+    6,
+    6,
+    4,
+    8,
+    3,
+    7,
+    6,
+    3,
+    3,
+    4,
+    5,
+    6,
+    5,
+    4,
+    3,
+    1,
+    1
+  ],
+  "wordFrequencies": [
+    [
+      "dłonie",
+      2
+    ],
+    [
+      "muzyki",
+      1
+    ],
+    [
+      "chłodno",
+      1
+    ],
+    [
+      "kroczu",
+      1
+    ],
+    [
+      "ból",
+      1
+    ],
+    [
+      "pornografia",
+      1
+    ],
+    [
+      "serca",
+      1
+    ],
+    [
+      "amor",
+      1
+    ],
+    [
+      "łacinie",
+      1
+    ],
+    [
+      "mówi",
+      1
+    ],
+    [
+      "powiedział",
+      1
+    ],
+    [
+      "ksiądz",
+      1
+    ],
+    [
+      "harmonia",
+      1
+    ],
+    [
+      "mieć",
+      1
+    ],
+    [
+      "kapą",
+      1
+    ],
+    [
+      "czasie",
+      1
+    ],
+    [
+      "podniesienia",
+      1
+    ],
+    [
+      "myśli",
+      1
+    ],
+    [
+      "pożyłkowanych",
+      1
+    ]
+  ],
+  "punctuation": {
+    "comma": 0,
+    "period": 0,
+    "question": 0,
+    "exclamation": 0,
+    "ellipsis": 0,
+    "dash": 1,
+    "colon": 0,
+    "semicolon": 0
+  },
+  "questionCount": 0,
+  "exclamationCount": 0,
+  "negationCount": 5,
+  "negationWords": [
+    "nic",
+    "nie"
+  ],
+  "pronounDistribution": {
+    "ja": 3,
+    "ty": 1,
+    "on_ona": 0,
+    "my": 0,
+    "wy": 0,
+    "oni": 1
+  },
+  "semanticFields": {
+    "cialo": 5,
+    "smierc": 0,
+    "erotyka": 0,
+    "alkohol": 0,
+    "samotnosc": 0,
+    "sacrum": 0,
+    "noc": 0,
+    "bol": 1
+  },
+  "anaphors": [
+    [
+      "ja",
+      2
+    ],
+    [
+      "dłonie",
+      2
+    ]
+  ],
+  "firstWord": "od",
+  "lastWord": "liczb",
+  "avgWordLength": 4.87,
+  "wordLengthDistribution": {
+    "1-3": 29,
+    "6-7": 17,
+    "4-5": 16,
+    "10+": 6,
+    "8-9": 7
+  },
+  "bigrams": [
+    [
+      "mam serca",
+      1
+    ]
+  ],
+  "poemWords": [
+    "muzyki",
+    "chłodno",
+    "kroczu",
+    "ból",
+    "pornografia",
+    "serca",
+    "amor",
+    "łacinie",
+    "nic",
+    "mówi",
+    "powiedział",
+    "ksiądz",
+    "harmonia",
+    "mieć",
+    "kapą",
+    "czasie",
+    "podniesienia",
+    "myśli",
+    "pożyłkowanych",
+    "dłoniach",
+    "dłonie",
+    "żony",
+    "ściska",
+    "napęczniały",
+    "brzuch",
+    "grażynki",
+    "próbuje",
+    "piersi",
+    "ciotki",
+    "zakonnicy",
+    "łechtaczką",
+    "palec",
+    "marche",
+    "funebre",
+    "gołych",
+    "strunach",
+    "głowy",
+    "wielkich",
+    "liczb",
+    "19641966"
+  ],
+  "nlp": {
+    "morphology": {
+      "pos": {
+        "NOUN": 24,
+        "VERB": 7,
+        "ADJ": 5,
+        "ADV": 2,
+        "PRON": 7,
+        "ADP": 9,
+        "CCONJ": 2,
+        "SCONJ": 3,
+        "INTJ": 0,
+        "PART": 5,
+        "DET": 2,
+        "NUM": 0
+      },
+      "posPercent": {
+        "NOUN": 0.308,
+        "VERB": 0.09,
+        "ADJ": 0.064,
+        "ADV": 0.026,
+        "PRON": 0.09,
+        "ADP": 0.115,
+        "CCONJ": 0.026,
+        "SCONJ": 0.038,
+        "INTJ": 0,
+        "PART": 0.064,
+        "DET": 0.026,
+        "NUM": 0
+      },
+      "nounConcreteAbstract": {
+        "concrete": 4,
+        "abstract": 2,
+        "ratio": 0.67
+      },
+      "verbTenses": {
+        "present": 8,
+        "past": 2,
+        "infinitive": 1
+      },
+      "verbSemantics": {
+        "ruch": 0,
+        "percepcja": 0,
+        "stan": 2,
+        "destrukcja": 0,
+        "tworzenie": 0,
+        "komunikacja": 1,
+        "cialo": 0
+      },
+      "adjectiveTypes": {
+        "zmyslowe": 0,
+        "oceniajace": 0,
+        "opisowe": 5
+      },
+      "adverbs": {
+        "temporalne": [],
+        "modalne": [],
+        "sposobu": [],
+        "top": [
+          {
+            "word": "chłodno",
+            "count": 1
+          },
+          {
+            "word": "łacinie",
+            "count": 1
+          }
+        ]
+      },
+      "pronouns": {
+        "ja": 3,
+        "ty": 0,
+        "on_ona": 0,
+        "my": 0,
+        "wy": 0,
+        "oni": 1
+      },
+      "negations": {
+        "nie": 4,
+        "nic": 1,
+        "nikt": 0,
+        "nigdy": 0,
+        "nigdzie": 0,
+        "zaden": 0,
+        "total": 5,
+        "percentSentences": 0.71
+      }
+    },
+    "phonetics": {
+      "vowelConsonant": {
+        "vowels": 154,
+        "consonants": 214,
+        "ratio": 0.72
+      },
+      "consonantClusters": {
+        "count": 9,
+        "top": [
+          {
+            "cluster": "rsz",
+            "count": 1
+          },
+          {
+            "cluster": "chł",
+            "count": 1
+          },
+          {
+            "cluster": "czn",
+            "count": 1
+          },
+          {
+            "cluster": "brz",
+            "count": 1
+          },
+          {
+            "cluster": "cht",
+            "count": 1
+          },
+          {
+            "cluster": "czk",
+            "count": 1
+          },
+          {
+            "cluster": "rch",
+            "count": 1
+          },
+          {
+            "cluster": "str",
+            "count": 1
+          },
+          {
+            "cluster": "czb",
+            "count": 1
+          }
+        ]
+      },
+      "soundGroups": {
+        "szumiace": 12,
+        "syczace": 33,
+        "nosowe": 45,
+        "plynne": 32
+      },
+      "rhymes": {
+        "exact": 0,
+        "approximate": 2,
+        "internal": 1,
+        "assonance": 0,
+        "alliteration": 0
+      }
+    },
+    "syntax": {
+      "sentenceLength": {
+        "mean": 11.1,
+        "median": 12,
+        "min": 1,
+        "max": 22,
+        "distribution": [
+          0,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "lineLength": {
+        "meanWords": 4.3,
+        "meanSyllables": 8.8,
+        "distribution": [
+          0,
+          2,
+          1,
+          4,
+          3,
+          2,
+          4,
+          1,
+          1
+        ]
+      },
+      "sentenceTypes": {
+        "declarative": 7,
+        "interrogative": 0,
+        "imperative": 0,
+        "exclamatory": 0
+      },
+      "ellipsis": {
+        "incomplete": 3,
+        "noSubject": 1,
+        "noPredicate": 0,
+        "percent": 0.57
+      },
+      "enjambement": {
+        "count": 3,
+        "percent": 0.18,
+        "positions": [
+          7,
+          8,
+          15
+        ]
+      },
+      "wordOrder": {
+        "svo": 2,
+        "inversions": 0,
+        "other": 4,
+        "deviationPercent": 0.67
+      }
+    },
+    "semantics": {
+      "semanticFields": {
+        "ciało": 6,
+        "śmierć": 0,
+        "erotyka": 0,
+        "alkohol": 0,
+        "samotność": 0,
+        "sacrum": 0,
+        "noc": 0,
+        "ból": 1
+      },
+      "oppositionsFound": []
+    },
+    "tempo": {
+      "syllables": 159,
+      "estimatedSeconds": 53,
+      "tempoCategory": "wolne"
+    }
+  },
+  "morphology": {
+    "pos": {
+      "NOUN": 24,
+      "VERB": 7,
+      "ADJ": 5,
+      "ADV": 2,
+      "PRON": 7,
+      "ADP": 9,
+      "CCONJ": 2,
+      "SCONJ": 3,
+      "INTJ": 0,
+      "PART": 5,
+      "DET": 2,
+      "NUM": 0
+    },
+    "posPercent": {
+      "NOUN": 0.308,
+      "VERB": 0.09,
+      "ADJ": 0.064,
+      "ADV": 0.026,
+      "PRON": 0.09,
+      "ADP": 0.115,
+      "CCONJ": 0.026,
+      "SCONJ": 0.038,
+      "INTJ": 0,
+      "PART": 0.064,
+      "DET": 0.026,
+      "NUM": 0
+    },
+    "nounConcreteAbstract": {
+      "concrete": 4,
+      "abstract": 2,
+      "ratio": 0.67
+    },
+    "verbTenses": {
+      "present": 8,
+      "past": 2,
+      "infinitive": 1
+    },
+    "verbSemantics": {
+      "ruch": 0,
+      "percepcja": 0,
+      "stan": 2,
+      "destrukcja": 0,
+      "tworzenie": 0,
+      "komunikacja": 1,
+      "cialo": 0
+    },
+    "adjectiveTypes": {
+      "zmyslowe": 0,
+      "oceniajace": 0,
+      "opisowe": 5
+    },
+    "adverbs": {
+      "temporalne": [],
+      "modalne": [],
+      "sposobu": [],
+      "top": [
+        {
+          "word": "chłodno",
+          "count": 1
+        },
+        {
+          "word": "łacinie",
+          "count": 1
+        }
+      ]
+    },
+    "pronouns": {
+      "ja": 3,
+      "ty": 0,
+      "on_ona": 0,
+      "my": 0,
+      "wy": 0,
+      "oni": 1
+    },
+    "negations": {
+      "nie": 4,
+      "nic": 1,
+      "nikt": 0,
+      "nigdy": 0,
+      "nigdzie": 0,
+      "zaden": 0,
+      "total": 5,
+      "percentSentences": 0.71
+    }
+  },
+  "syntax": {
+    "sentenceLength": {
+      "mean": 11.1,
+      "median": 12,
+      "min": 1,
+      "max": 22,
+      "distribution": [
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "lineLength": {
+      "meanWords": 4.3,
+      "meanSyllables": 8.8,
+      "distribution": [
+        0,
+        2,
+        1,
+        4,
+        3,
+        2,
+        4,
+        1,
+        1
+      ]
+    },
+    "sentenceTypes": {
+      "declarative": 7,
+      "interrogative": 0,
+      "imperative": 0,
+      "exclamatory": 0
+    },
+    "ellipsis": {
+      "incomplete": 3,
+      "noSubject": 1,
+      "noPredicate": 0,
+      "percent": 0.57
+    },
+    "enjambement": {
+      "count": 3,
+      "percent": 0.18,
+      "positions": [
+        7,
+        8,
+        15
+      ]
+    },
+    "wordOrder": {
+      "svo": 2,
+      "inversions": 0,
+      "other": 4,
+      "deviationPercent": 0.67
+    }
+  },
+  "phonetics": {
+    "vowelConsonant": {
+      "vowels": 154,
+      "consonants": 214,
+      "ratio": 0.72
+    },
+    "consonantClusters": {
+      "count": 9,
+      "top": [
+        {
+          "cluster": "rsz",
+          "count": 1
+        },
+        {
+          "cluster": "chł",
+          "count": 1
+        },
+        {
+          "cluster": "czn",
+          "count": 1
+        },
+        {
+          "cluster": "brz",
+          "count": 1
+        },
+        {
+          "cluster": "cht",
+          "count": 1
+        },
+        {
+          "cluster": "czk",
+          "count": 1
+        },
+        {
+          "cluster": "rch",
+          "count": 1
+        },
+        {
+          "cluster": "str",
+          "count": 1
+        },
+        {
+          "cluster": "czb",
+          "count": 1
+        }
+      ]
+    },
+    "soundGroups": {
+      "szumiace": 12,
+      "syczace": 33,
+      "nosowe": 45,
+      "plynne": 32
+    },
+    "rhymes": {
+      "exact": 0,
+      "approximate": 2,
+      "internal": 1,
+      "assonance": 0,
+      "alliteration": 0
+    }
+  },
+  "metrics": {
+    "strophic": {
+      "stanzaCount": 1,
+      "linesPerStanza": [
+        18
+      ],
+      "isRegular": false,
+      "isContinuous": true
+    },
+    "readingTempo": {
+      "syllables": 159,
+      "estimatedSeconds": 53,
+      "tempoCategory": "wolne"
+    },
+    "regularity": {
+      "type": "polregularny",
+      "regularityScore": 0.49
+    }
+  },
+  "aiAnalysisExtended": {
+    "intertextuality": {
+      "allusions": [
+        {
+          "source": "Biblia",
+          "reference": "Podniesienie (Eucharystia)",
+          "evidence": "w czasie Podniesienia myśli"
+        },
+        {
+          "source": "inne",
+          "reference": "Chopin - Marche funèbre",
+          "evidence": "Marche funebre na gołych strunach"
+        },
+        {
+          "source": "inne",
+          "reference": "łacina kościelna",
+          "evidence": "Amor po łacinie"
+        }
+      ],
+      "selfQuotes": [],
+      "influences": {
+        "rimbaud": 0.7,
+        "baudelaire": 0.6,
+        "bursa": 0.3,
+        "stachura": 0.4,
+        "grochowiak": 0.8,
+        "bialoszewski": 0.2,
+        "rozewicz": 0.5
+      }
+    },
+    "space": {
+      "type": "zamknieta",
+      "evidence": "atmosfera kościelna, intymność cielesności, zamknięte przestrzenie ciała",
+      "openClosedRatio": 0.2
+    },
+    "timeOfDay": {
+      "period": "nieokreslona",
+      "season": "nieokreslona",
+      "evidence": "brak wyraźnych wskaźników temporalnych, focus na stanach psychicznych"
+    },
+    "motion": {
+      "movement": 3,
+      "stillness": 7,
+      "dynamism": 0.3,
+      "evidence": "statyczne obrazy ciała, kontemplacyjność, marsz jako rytm nie ruch"
+    },
+    "imageryDensity": {
+      "metaphors": 4,
+      "comparisons": 2,
+      "personifications": 1,
+      "hyperboles": 2,
+      "per100words": 15.2
+    },
+    "maskSincerity": {
+      "confessionLevel": 0.9,
+      "creationLevel": 0.7,
+      "ironicDistance": 0.3,
+      "autobiographicSignals": [
+        "Ja nie mam serca",
+        "Ja nie mam głowy",
+        "daty 1964-1966",
+        "intymne obrazy erotyczne"
+      ]
+    }
+  },
+  "aiAnalysis": {
+    "emotion": {
+      "primary": "obrzydzenie",
+      "secondary": "rezygnacja",
+      "intensity": 0.8
+    },
+    "subjectPresence": {
+      "type": "jawne",
+      "evidence": "Ja nie mam serca, Ja nie mam głowy"
+    },
+    "addressee": {
+      "type": "siebie",
+      "evidence": "monolog wewnętrzny, refleksja nad własnym stanem"
+    },
+    "metaphors": [
+      {
+        "source": "muzyka",
+        "target": "śmierć/żałoba",
+        "example": "Od muzyki jest chłodno w kroczu"
+      },
+      {
+        "source": "marche funebre",
+        "target": "życie erotyczne",
+        "example": "Marche funebre na gołych strunach"
+      },
+      {
+        "source": "brak organów",
+        "target": "pustka duchowa",
+        "example": "Ja nie mam serca, Ja nie mam głowy"
+      }
+    ],
+    "temperature": {
+      "value": 0.2,
+      "label": "chłodne"
+    },
+    "senses": {
+      "wzrok": 5,
+      "sluch": 3,
+      "dotyk": 4,
+      "smak": 0,
+      "zapach": 0
+    },
+    "autodestruction": {
+      "level": 0.7,
+      "signals": [
+        "negacja własnego ciała",
+        "obsesja na punkcie erotyki",
+        "poczucie pustki duchowej",
+        "cyniczne podejście do sacrum"
+      ]
+    }
+  },
+  "fractal": {
+    "hurstExponent": 0.701,
+    "dfaAlpha": 1.615,
+    "dfaScaling": [
+      {
+        "logWin": 1.0986122886681098,
+        "logFluc": -0.9751822497023449
+      },
+      {
+        "logWin": 1.3862943611198906,
+        "logFluc": -0.24857590190466647
+      },
+      {
+        "logWin": 1.6094379124341003,
+        "logFluc": -0.17313402933458166
+      }
+    ],
+    "seriesLength": 17,
+    "series": [
+      6,
+      6,
+      4,
+      8,
+      3,
+      7,
+      6,
+      3,
+      3,
+      4,
+      5,
+      6,
+      5,
+      4,
+      3,
+      1,
+      1
+    ]
+  }
+}
