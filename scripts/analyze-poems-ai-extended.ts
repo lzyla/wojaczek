@@ -20,7 +20,7 @@ if (!API_KEY) {
   throw new Error("ANTHROPIC_API_KEY is required to run this script.");
 }
 
-const MODEL = "claude-sonnet-4-20250514";
+const MODEL = "claude-sonnet-5";
 const DELAY_MS = 1000; // 1 s between API calls
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
