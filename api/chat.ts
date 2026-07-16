@@ -54,6 +54,9 @@ export default async function handler(req: Request) {
       body: JSON.stringify({
         model: 'claude-sonnet-5',
         max_tokens: 150,
+        // Sonnet 5 defaults to adaptive thinking; thinking tokens count
+        // against max_tokens, which would truncate these short replies
+        thinking: { type: 'disabled' },
         system: CHAT_SYSTEM_PROMPT,
         messages,
         stream: true,

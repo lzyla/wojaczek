@@ -199,6 +199,7 @@ export function apiPlugin(anthropicApiKey?: string): Plugin {
               body: JSON.stringify({
                 model: 'claude-sonnet-5',
                 max_tokens: 150,
+                thinking: { type: 'disabled' },
                 system: CHAT_SYSTEM_PROMPT,
                 messages,
                 stream: true,
@@ -373,7 +374,7 @@ export function apiPlugin(anthropicApiKey?: string): Plugin {
             },
             body: JSON.stringify({
               model: 'claude-sonnet-5',
-              max_tokens: 500,
+              max_tokens: 1500,
               system: systemPrompt,
               messages: [{ role: 'user', content: topic }],
               stream: true,

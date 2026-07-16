@@ -91,7 +91,9 @@ export default async function handler(req: Request) {
       },
       body: JSON.stringify({
         model: 'claude-sonnet-5',
-        max_tokens: 500,
+        // Sonnet 5's adaptive thinking counts against max_tokens — 500 could
+        // leave a truncated poem after a long thinking pass
+        max_tokens: 1500,
         system: systemPrompt,
         messages: [{ role: 'user', content: topic }],
         stream: true,
